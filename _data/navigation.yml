@@ -1,0 +1,19 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: About Climate Change
+    collection: about-climate-change
+  - title: Climate Change And Singapore
+    collection: climate-change-and-singapore
+  - title: Public Consultation
+    url: /public-consultation/
+  - title: Media
+    resource_room: true
