@@ -44,10 +44,6 @@ sections:
         url: /core-values/
         image: /images/professionalism.png
         alt: Members of the Ministry of ABC in suits
-    - carousel:
-        - title: Initiative A
-          subtitle: services
-          description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet 
     - resources:
         title: Media
         subtitle: Learn more
