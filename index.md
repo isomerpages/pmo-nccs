@@ -7,7 +7,7 @@ permalink: /
 notification: View the summary of responses of the public consultation on Singapore's long-term low emissions stratetgy 
 sections:
     - hero:
-        title: <font size=10>Welcome to National Climate Change Secretariat</font>
+        title: <font size=8>Welcome to National Climate Change Secretariat</font>
         subtitle: Everyone has a role to play to fight climate change
         background: /images/hero-banner.png
         button: Contact Us
