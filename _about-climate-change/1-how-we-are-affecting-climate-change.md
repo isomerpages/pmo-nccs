@@ -3,7 +3,7 @@ title: How We Are Affecting Climate Change
 permalink: /about-climate-change/how-we-are-affecting-climate-change/
 ---
 
-**HOW WE ARE AFFECTING THE CLIMATE**
+### HOW WE ARE AFFECTING THE CLIMATE
 
 **The Greenhouse Effect**
 
