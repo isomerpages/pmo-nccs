@@ -10,8 +10,8 @@ sections:
         title: <font size=8>National Climate Change Secretariat</font>
         subtitle: Everyone has a role to play to fight climate change
         background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        button: About us
+        url: /who-we-are/about-nccs/
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
