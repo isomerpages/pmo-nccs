@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: View the summary of responses of the public consultation on Singapore's long-term low emissions stratetgy 
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Welcome to National Climate Change Secretariat
+        subtitle: Everyone has a role to play to fight climate change
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
