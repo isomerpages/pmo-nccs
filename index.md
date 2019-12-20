@@ -30,12 +30,6 @@ sections:
           subtitle: Subtitle
           description: About a sentence worth of description here
           button: View More
-     #- infobar:
-     #  title: Infobar title
-     #  subtitle: Subtitle
-     #  description: About a sentence worth of description here
-     #  button: Button text
-     #  url: /faq/
     - infopic:
         image: /images/pps-banner.jpg
         alt: Members of the Ministry of ABC shaking hands
@@ -44,12 +38,4 @@ sections:
         description: Core Values
         button: Learn More
         url: /core-values/
-      #- infopic:
-      #  title: Professionalism
-      #  subtitle: Core Values
-      #  description: We strive to deliver work of the highest calibre
-      #  button: Learn More
-      #  url: /core-values/
-      #  image: /images/professionalism.png
-      #  alt: Members of the Ministry of ABC in suits
 ---
