@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: NCCS
 description: Brief site description here
 image: /images/NCCS-logo.svg
 permalink: /
