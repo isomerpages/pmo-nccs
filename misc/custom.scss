@@ -8,6 +8,8 @@
 $primary: #2b4162;
 $secondary: #102442;
 $secondary-hover: lighten($secondary, 10%);
+$white-color: #ffffff;
+$hover-color: #0d96bc;
 
 $media-color-one: #49759a;
 $media-color-two: #744d9f;
@@ -302,6 +304,24 @@ body {
     }
   }
 }
+.navbar-dropdown {
+  background-color: $primary  !important;
+  &:hover {
+    background-color: $secondary !important;
+  }
+}
+.navbar-dropdown {
+  background-color: $primary  !important;
+  &:hover {
+    background-color: $secondary !important;
+  }
+}
+.navbar .navbar-item .sub-link {
+ color: $white-color !important;
+ &:hover {
+   color: $hover-color !important;
+ }
+}
 
 // Post-content
 .content {
@@ -494,10 +514,16 @@ small {
 }
 
 /* Footer */
+.bp-footer {
+ background-color: $secondary !important;
+}
 .bottom-navigation {
   height: 0;
 }
 .col.is-one-quarter,
 .col.is-one-quarter-tablet {
   display: none;
+}
+.sgds-icon-feed:before {
+  content: "";
 }
