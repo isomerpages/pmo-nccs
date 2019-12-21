@@ -29,13 +29,12 @@ sections:
         - title: Media
           subtitle: Subtitle
           description: About a sentence worth of description here
-          button: View More
+          button: View All
     - infopic:
         image: /images/pps-banner.jpg
         alt: Members of the Ministry of ABC shaking hands
-        title: Integrity
-        subtitle: Integrity drives everything we do at the Ministry of ABC
-        description: Core Values
-        button: Learn More
-        url: /core-values/
+        title: CLIMATE CHANGE PUBLIC PERCEPTION SURVEY 2019
+        description: The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a survey from May to July 2019 to gauge public perception and views on climate change.
+        button: View All
+        url: /media/news/
 ---
