@@ -15,16 +15,16 @@ sections:
         key_highlights:
             - title: Reducing Emissions
               description: Reducing our carbon emissions in all sectors
-              url: who-we-are/about-nccs/
+              url: /climate-change-and-singapore/reducing-emissions/
             - title: Adapting Climate Change
               description: Adapting to the impact of climate change
-              url: /who-we-are/about-nccs/
+              url: /climate-change-and-singapore/overview/adapting-overview
             - title: Green Growth Opportunities
               description: Harnessing green growth opportunities
-              url: /who-we-are/about-nccs/
-            - title: International Actions
-              description: Harnessing green growth opportunities
-              url: /who-we-are/about-nccs/
+              url: /climate-change-and-singapore/overview/green-growth-opportunities
+            - title: Individual
+              description: Individual action Counts
+              url: /climate-change-and-singapore/individuals/
     - resources:
         - title: Media
           subtitle: Subtitle
@@ -36,5 +36,5 @@ sections:
         title: CLIMATE CHANGE PUBLIC PERCEPTION SURVEY 2019
         description: The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a survey from May to July 2019 to gauge public perception and views on climate change.
         button: View All
-        url: /media/news/
+        url: /media/news/test
 ---
