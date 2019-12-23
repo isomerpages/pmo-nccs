@@ -4,7 +4,7 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/nccs-logo.svg
 
 links:
   - title: Who We Are
@@ -13,7 +13,8 @@ links:
     collection: about-climate-change
   - title: Climate Change And Singapore
     collection: climate-change-and-singapore
-  - title: Public Consultation
+  - title: public-consultation
+    collection: media
+  - title: media
     url: /public-consultation/
-  - title: Media
     resource_room: true
