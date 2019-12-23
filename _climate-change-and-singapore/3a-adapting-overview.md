@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Adapting to Climate Change
 permalink: /climate-change-and-singapore/overview/adapting-overview
 third_nav_title: Adapting to Climate Change
 ---
