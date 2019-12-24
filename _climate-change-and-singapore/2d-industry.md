@@ -21,7 +21,7 @@ To further drive energy efficiency improvements in the industry, the following n
     * Adopt a structured Energy Management System by 2021 or 2022 (depending on the facility's energy consumption)
     * Conduct regular energy efficiency opportunities assessments and submit first assessment by 2021
     * New industrial facilities and major expansion projects to undergo design reviews to incorporate energy efficiency measures from 2018
-
+    
 Through the legislation of mandates for large energy consumers, we aim to promote a coordinated approach to energy efficiency that will help companies identify and address inefficiency gaps within their organisations.
 
 **Energy Efficiency Fund (E2F)**

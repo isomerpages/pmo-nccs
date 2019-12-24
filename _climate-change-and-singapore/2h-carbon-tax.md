@@ -19,5 +19,3 @@ To give the industry more time to adjust and implement energy efficiency project
 
 [Frequently asked questions on carbon tax](https://www.nccs.gov.sg/faqs/carbon-tax)
 
-
-

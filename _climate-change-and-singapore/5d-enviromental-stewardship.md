@@ -27,4 +27,5 @@ Retailers such as Best Denki support energy efficiency outreach by providing con
 ### Capacity Building
 
 Organisations can leverage on the National Environment Agency's (NEA) [3P Partnership Fund](http://www.nea.gov.sg/grants-awards/3p-partnership-fund) to co-create environmental education and outreach activities on climate change related topics.
+
 Companies can also participate in NEA's Corporate and Schools Partnership Programme (CASP) to groom young student leaders by establishing joint environmental programmes and providing mentors to transfer technical knowledge.

@@ -5,6 +5,7 @@ third_nav_title: Reducing Emissions
 ---
 
 ### BUILDINGS
+
 The design of a building can directly contribute to more efficient energy use, which is why it is important for buildings to be constructed or adapted with green designs.
 
 Existing buildings can be retrofitted to incorporate such designs to increase their energy efficiency. This lowers electricity costs for the building's tenants and typically pays for itself in as little as five to seven years.
