@@ -39,11 +39,11 @@ To accelerate solar deployment in Singapore, the SolarNova programme has been la
 
 The total installed solar PV capacity in Singapore is currently about 47 megawatt peak (MWp) for both residential and non-residential areas. This includes installations at:
 
-    HDB rooftops
-    Keppel Seghers Ulu Pandan NEWater Plant
-    Resorts World Sentosa
-    GreenPac Pte Ltd
-    Applied Materials Singapore Operational Centre
-    Sheng Siong Supermarket
-    Singapore Sports Hub
+    * HDB rooftops
+    * Keppel Seghers Ulu Pandan NEWater Plant
+    * Resorts World Sentosa
+    * GreenPac Pte Ltd
+    * Applied Materials Singapore Operational Centre
+    * Sheng Siong Supermarket
+    * Singapore Sports Hub
 
