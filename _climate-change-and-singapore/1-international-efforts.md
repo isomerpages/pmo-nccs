@@ -99,5 +99,3 @@ Singapore joined the C40 Cities Climate Leadership Group (C40) as an observer ci
 Our participation with the C40 has allowed us to learn from the best practices of other C40 cities in areas such as building energy efficiency, transportation, climate change resilience and adaptation. Singapore has also contributed to C40 by sharing our experiences in urban development and transport infrastructure.
 
 Singapore's efforts in promoting urban sustainability and addressing climate change were also recognised by C40 in 2013 when it was presented with the C40 City Climate Leadership Award.
-
-
