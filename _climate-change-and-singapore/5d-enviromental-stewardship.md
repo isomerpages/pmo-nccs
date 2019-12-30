@@ -12,7 +12,7 @@ Singapore's economic and environmental achievements are the result of the collec
 
 Students are exposed to environmental education inside and outside of the classroom. Climate change is discussed in subjects such as general paper, economics, geography and the sciences. School excursions are organised to visit power stations, incineration plants, meteorological stations and green buildings, which highlight the effects of climate change and practical methods to reduce emissions.
 
-The Climate Change Climate Challenge exhibition at the Science Centre also explains to students and members of the public alike the causes of climate change, its impact, and how everyone can play a part in reducing Singapore's carbon footprint.
+The *Climate Change Climate Challenge* exhibition at the Science Centre also explains to students and members of the public alike the causes of climate change, its impact, and how everyone can play a part in reducing Singapore's carbon footprint.
 
 ### National, Community and Corporate Programmes
 
@@ -26,5 +26,6 @@ Retailers such as Best Denki support energy efficiency outreach by providing con
 
 ### Capacity Building
 
-Organisations can leverage on the National Environment Agency's (NEA) 3P Partnership Fund to co-create environmental education and outreach activities on climate change related topics.
+Organisations can leverage on the National Environment Agency's (NEA) [3P Partnership Fund](http://www.nea.gov.sg/grants-awards/3p-partnership-fund) to co-create environmental education and outreach activities on climate change related topics.
+
 Companies can also participate in NEA's Corporate and Schools Partnership Programme (CASP) to groom young student leaders by establishing joint environmental programmes and providing mentors to transfer technical knowledge.

@@ -20,6 +20,6 @@ Singapore has started making early preparations to adapt to the impact of climat
 
 **Being Flexible to Incorporate Future Findings**
 
-The [Resilience Working Group (RWG)](https://www.nccs.gov.sg/about-us/inter-ministerial-committee-on-climate-change#rwg) under the [Inter-Ministerial Committee on Climate Change (IMCCC)](https://www.nccs.gov.sg/about-us/inter-ministerial-committee-on-climate-change#imccc) is currently studying measures that will address our physical vulnerabilities to climate change.
+The [Resilience Working Group (RWG)](/who-we-are/inter-ministerial-committee-on-climate-change/) under the [Inter-Ministerial Committee on Climate Change (IMCCC)](/who-we-are/inter-ministerial-committee-on-climate-change/) is currently studying measures that will address our physical vulnerabilities to climate change.
 
 These will include an evaluation of the Phase 2 Climate Change Study and the Building and Construction Authority's (BCA) Risk Map Study. Updates from these studies will be reviewed by RWG so that they can be incorporated into Singapore's long-term adaptation plans.

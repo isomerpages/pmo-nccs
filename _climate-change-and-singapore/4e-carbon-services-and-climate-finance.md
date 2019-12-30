@@ -11,11 +11,11 @@ Singapore is home to many energy traders, who make up most of the clientele for 
 
 The Economic Development Board (EDB) and IE Singapore have engaged carbon companies to establish a presence here. These companies offer:
 
-    Low carbon project development
-    Consulting and verification services for clean development mechanism (CDM)
-    Carbon footprinting
-    Project financing
-    Legal services
+* Low carbon project development
+* Consulting and verification services for clean development mechanism (CDM)
+* Carbon footprinting
+* Project financing
+* Legal services
 
 **Protocol Clean Development Mechanism (CDM) and Carbon Credits Trading**
 
