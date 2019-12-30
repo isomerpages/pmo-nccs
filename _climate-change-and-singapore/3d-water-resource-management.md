@@ -10,10 +10,10 @@ Climate change can affect our water supply, as increasing rainfall intensity cou
 
 As a nation with a very limited water supply, taking appropriate measures to ensure the sustainability of our water resources is a top priority for PUB, Singapore's national water agency. PUB has established the following Four National Taps to address our water needs:
 
-    * Local catchment water
-    * Imported water
-    * NEWater
-    * Desalinated water
+* Local catchment water
+* Imported water
+* NEWater
+* Desalinated water
 
 **Water Loop Illustrating Singapore's Water Management**
 
