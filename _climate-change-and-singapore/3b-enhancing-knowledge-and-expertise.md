@@ -19,7 +19,7 @@ Our local research institutes are providing invaluable knowledge on climate chan
 
 **Centre for Climate Research Singapore**
 
-The MSS established the Centre for Climate Research Singapore (CCRS)to improve the nation's capabilities in climate science and modelling. The CCRS will anchor climate science capabilities in Singapore over the long term. The CCRS will collaborate with our universities and leading climate centres in other countries to spearhead impact studies that will support Whole-of-Government efforts in climate resilience.
+The MSS established the [Centre for Climate Research Singapore (CCRS)](https://ccrs.weather.gov.sg/) to improve the nation's capabilities in climate science and modelling. The CCRS will anchor climate science capabilities in Singapore over the long term. The CCRS will collaborate with our universities and leading climate centres in other countries to spearhead impact studies that will support Whole-of-Government efforts in climate resilience.
 
 The National University of Singapore (NUS) and Nanyang Technological University (NTU) have also set up the following centres to aid in applied research:
 

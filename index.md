@@ -2,9 +2,8 @@
 layout: homepage
 title: NCCS
 description: Brief site description here
-image: /images/NCCS-logo.svg
+image: /images/nccs-logo.svg
 permalink: /
-#notification: View the summary of responses of the public consultation on Singapore's long-term low emissions stratetgy 
 sections:
     - hero:
         title: <font size=8>More Singaporeans are aware of Climate Change</font>
@@ -22,9 +21,9 @@ sections:
             - title: Green Growth Opportunities
               description: Harnessing green growth opportunities
               url: /climate-change-and-singapore/overview/green-growth-opportunities
-            - title: Individual
-              description: Individual action Counts
-              url: /climate-change-and-singapore/individuals/
+            - title: International Actions
+              description: Forging international collaborations
+              url: /climate-change-and-singapore/international-efforts
     - resources:
         - title: Media
           subtitle: Subtitle

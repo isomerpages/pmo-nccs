@@ -8,6 +8,12 @@ third_nav_title: National Circumstances
 
 As a small, resource-constrained country, Singapore imports almost all its energy needs, and has limited renewable energy options:
 
+* Commercial wind turbines operate at wind speeds of around above 4.5m/s but the average wind speed in Singapore   is only about 2m/s.
+* Singapore's relatively narrow tidal range and calm seas limit opportunities for commercial tidal power     generation. Much of our sea space is also used for ports, anchorage and shipping lanes, which limit the application of ocean energy technologies.
+* Hydroelectric power cannot be harnessed, as Singapore does not have a river system with fast flowing water throughout the year.
+* We do not have geothermal energy sources.
+* Our small physical size (715.8 sq km), high population density and land scarcity limits our potential for sustainably-grown domestic biomass. It also constraints the safe deployment of nuclear power in Singapore.
+
 Commercial wind turbines operate at wind speeds of around above 4.5m/s but the average wind speed in Singapore is only about 2m/s.
 
 Singapore's relatively narrow tidal range and calm seas limit opportunities for commercial tidal power generation. Much of our sea space is also used for ports, anchorage and shipping lanes, which limit the application of ocean energy technologies.
@@ -18,6 +24,7 @@ We do not have geothermal energy sources.
 
 Our small physical size (715.8 sq km), high population density and land scarcity limits our potential for sustainably-grown domestic biomass. It also constraints the safe deployment of nuclear power in Singapore.
 
+
 ![Singapore's Approach to Alternative Energy](https://www.nccs.gov.sg/images/default-source/default-album/singapores-approach-to-alternative-energy.jpg "Singapore's Approach to Alternative Energy")
 *Solar panels at Marina Barrage. (Image courtesy of PUB, Singapore's national water agency)*
 
@@ -27,9 +34,8 @@ With the limited renewable energy options available to us and the current techno
 
 Singapore is investing in research and development as well as test-bedding to improve the performance of solar PV systems and develop innovative ways of intergrating solar energy systems into our urban environment. Some of our test-bedding projects include:
 
-    Housing and Development Board's (HDB) initiative to install solar panels on rooftops of high-rise public housing developments, and
-
-    the Economic Development Board's (EDB) and PUB's floating photovoltaic (PV) project, which will pilot solar panel installations on water surfaces at our reservoirs.
+* Housing and Development Board's (HDB) initiative to install solar panels on rooftops of high-rise public housing developments, and
+* the Economic Development Board's (EDB) and PUB's floating photovoltaic (PV) project, which will pilot solar panel installations on water surfaces at our reservoirs.
 
 Singapore's focus on research and test-bedding is to improve the performance of solar systems and develop innovative ways of integrating solar energy systems into our urban environment.
 
