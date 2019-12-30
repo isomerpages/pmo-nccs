@@ -18,4 +18,3 @@ To give the industry more time to adjust and implement energy efficiency project
 *1 The six GHGs that will be covered under the carbon tax are: carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF6).*
 
 [Frequently asked questions on carbon tax](https://www.nccs.gov.sg/faqs/carbon-tax)
-
