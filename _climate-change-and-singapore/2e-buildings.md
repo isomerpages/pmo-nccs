@@ -5,6 +5,7 @@ third_nav_title: Reducing Emissions
 ---
 
 ### BUILDINGS
+
 The design of a building can directly contribute to more efficient energy use, which is why it is important for buildings to be constructed or adapted with green designs.
 
 Existing buildings can be retrofitted to incorporate such designs to increase their energy efficiency. This lowers electricity costs for the building's tenants and typically pays for itself in as little as five to seven years.
@@ -21,5 +22,5 @@ From the second half of 2013, the Building Control Act requires all existing bui
 
 As incentive for existing buildings to improve energy efficiency, BCA has introduced the following schemes:
 
-    * Green Mark Incentive Scheme for Existing Buildings (GMIS-EB): BCA's S$100 million GMIS-EB helps building owners offset part of their retrofitting costs to improve the energy efficiency of existing buildings.
-    * Building Retrofit Energy Efficiency Financing (BREEF) Pilot Scheme: BCA's BREEF Pilot Scheme empowers existing building owners with limited financial resources to go green by encouraging financial institutions to offer financing for energy efficiency retrofits. Under this pilot scheme, BCA will share the risk of any loan default with participating financial institutions who provide loans to building owners and energy services companies carrying out green retrofits.
+* Green Mark Incentive Scheme for Existing Buildings (GMIS-EB): BCA's S$100 million GMIS-EB helps building owners offset part of their retrofitting costs to improve the energy efficiency of existing buildings.
+* Building Retrofit Energy Efficiency Financing (BREEF) Pilot Scheme: BCA's BREEF Pilot Scheme empowers existing building owners with limited financial resources to go green by encouraging financial institutions to offer financing for energy efficiency retrofits. Under this pilot scheme, BCA will share the risk of any loan default with participating financial institutions who provide loans to building owners and energy services companies carrying out green retrofits.
