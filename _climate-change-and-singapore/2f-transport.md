@@ -6,13 +6,13 @@ third_nav_title: Reducing Emissions
 
 ### TRANSPORT
 
-Private cars contribute the largest share of emissions by the transport sector at 35%, followed by commercial vehicles,taxis, buses, Mass Rapid Transit (MRT)/Light Rail Transit (LRT) and motorcycles.
+Private cars contribute the largest share of emissions by the transport sector at 35 per cent, followed by commercial vehicles,taxis, buses, Mass Rapid Transit (MRT)/Light Rail Transit (LRT) and motorcycles.
 
 **Land Transport Carbon Emissions by Vehicle Mode (2005)**
 
 ![Land Transport Carbon Emissions by Vehicle Mode (2005)](https://www.nccs.gov.sg/images/default-source/default-album/land-transport-carbon-emissions-by-vehicle-mode-2005.gif "Land Transport Carbon Emissions by Vehicle Mode (2005)")
 
-Singapore is aiming for 75% of trips made during the morning and evening peak hours to be made by public transport by 2030, and increase this to at least 85% by the 2050s. This will help to reduce emissions as public transport is the most energy efficient mode of travel. The government's main thrusts include:
+Singapore is aiming for 75 per cent of trips made during the morning and evening peak hours to be made by public transport by 2030, and increase this to at least 85 per cent by the 2050s. This will help to reduce emissions as public transport is the most energy efficient mode of travel. The government's main thrusts include:
 
 **Increasing Investment in Mass Rapid Transit (MRT)**
 
@@ -27,7 +27,7 @@ To facilitate this expansion, more trains are being purchased and the number of 
 
 The introduction of higher-capacity buses and additional stops provides another great transportation alternative for Singaporeans.
 
-With the introduction of another 800 buses, (a 20% increase) over the next five years, connectivity, efficiency and the overall experience of bus travel will make it an attractive option for commuters.
+With the introduction of another 800 buses, (a 20 per cent increase) over the next five years, connectivity, efficiency and the overall experience of bus travel will make it an attractive option for commuters.
 
 In addition, greater road priority for buses, such as full-day and part-day bus lanes and the Mandatory Give Way to Buses Scheme implemented island-wide make bus travel even more efficient.
 
@@ -40,7 +40,7 @@ To curb carbon emissions resulting from the use of private vehicles, Singapore h
 
 Our Vehicle Quota System (VQS) was first implemented in 1990 to control the amount of vehicles on Singapore's roads by limiting the number of new vehicles that can be registered yearly.
 
-In order to register a new vehicle, individuals must bid for a Certificate of Entitlement (COE). The number of new vehicles allowed to be registered annually is derived from sustainability calculations, which is currently 0.5% of the total vehicle population.
+In order to register a new vehicle, individuals must bid for a Certificate of Entitlement (COE). The number of new vehicles allowed to be registered annually is derived from sustainability calculations, which is currently 0.5 per cent of the total vehicle population.
 
 **Changing Driving Habits**
 

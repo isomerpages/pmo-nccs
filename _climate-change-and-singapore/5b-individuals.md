@@ -1,5 +1,5 @@
 ---
-title: Individuals
+title: Individual Action Counts 
 permalink: /climate-change-and-singapore/individuals/
 third_nav_title: What We Can Do
 ---

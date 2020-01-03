@@ -1,5 +1,5 @@
 ---
-title: Adapting to Climate Change
+title: Overview
 permalink: /climate-change-and-singapore/overview/adapting-overview
 third_nav_title: Adapting to Climate Change
 ---
@@ -16,7 +16,7 @@ Singapore has started making early preparations to adapt to the impact of climat
 
 **Singapore's Adaptation Approach**
 ![Singapore's Adaptation Approach](https://www.nccs.gov.sg/images/default-source/default-album/singapores-approach-to-adaptation.jpg "Singapore's Adaptation Approach")
-*Source: Resilience Working Group*
+Source: Resilience Working Group
 
 **Being Flexible to Incorporate Future Findings**
 

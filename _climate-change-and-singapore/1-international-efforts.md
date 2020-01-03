@@ -11,7 +11,7 @@ As a small low-lying city-state with an open economy, Singapore is particularly 
 
 **The UN Framework Convention on Climate Change**
 
-At the centre of the global effort is the [UN Framework Convention on Climate Change (UNFCCC)](http://unfccc.int/), which sets the framework for governments to cooperate to address climate change, based on the principle of "common but differentiated responsibilities and respective capabilities, in light of different national circumstances". International negotiations have been ongoing under the UNFCCC since the 1990s to increase international action on climate change.
+At the centre of the global effort is the [<a href="http://unfccc.int/" target="_blank">UN Framework Convention on Climate Change (UNFCCC)</a>](http://unfccc.int/), which sets the framework for governments to cooperate to address climate change, based on the principle of "common but differentiated responsibilities and respective capabilities, in light of different national circumstances". International negotiations have been ongoing under the UNFCCC since the 1990s to increase international action on climate change.
 
 At Paris in December 2015, Parties to the UNFCCC adopted a landmark global climate agreement. The Paris Agreement will replace the Kyoto Protocol when it expires in 2020 and will require all countries to take action to address climate change. The Paris Agreement reaffirms the commitment by all nations towards the UN multilateral framework to address the challenges of climate change.
 
@@ -35,7 +35,7 @@ The Kyoto Protocol attendees negotiated with 41 developed countries (Annex I Par
 
 **2005**
 
-[Kyoto Protocol](http://unfccc.int/kyoto_protocol/items/2830.php) came into effect.
+[<a href="http://unfccc.int/kyoto_protocol/items/2830.php" target="_blank">Kyoto Protocol</a>](http://unfccc.int/kyoto_protocol/items/2830.php) came into effect.
 
 **2007**
 
@@ -59,7 +59,7 @@ At the UN Climate Change Conference in Doha, Parties agreed to a new commitment 
 
 **2013**
 
-In Warsaw, Poland, the Parties produced a set of decisions including a rulebook for [reducing emissions from deforestation and forest degradation](https://redd.unfccc.int/) and a mechanism to address [loss and damage](http://unfccc.int/adaptation/workstreams/loss_and_damage/items/6056.php) caused by long-term climate change impacts. They also agreed to communicate their respective contributions towards the global climate agreement well in advance of COP-21 in Paris in 2015.
+In Warsaw, Poland, the Parties produced a set of decisions including a rulebook for [<a href="https://redd.unfccc.int/" target="_blank">reducing emissions from deforestation and forest degradation</a>](https://redd.unfccc.int/) and a mechanism to address [<a href="http://unfccc.int/adaptation/workstreams/loss_and_damage/items/6056.php" target="_blank">loss and damage</a>](http://unfccc.int/adaptation/workstreams/loss_and_damage/items/6056.php) caused by long-term climate change impacts. They also agreed to communicate their respective contributions towards the global climate agreement well in advance of COP-21 in Paris in 2015.
 
 **2014**
 
@@ -70,11 +70,11 @@ In Lima, Peru, the Parties agreed on various ground rules to guide the submissio
 On 12 December 2015 at the 21st Conference of the Parties to the UNFCCC (COP-21) in Paris, 196 Parties adopted a new climate agreement applicable to all Parties. The Paris Agreement, which will take effect post-2020, aims to hold the increase in global average temperature to well below 2°C, and pursue efforts to limit the temperature increase to 1.5°C.
 
 ![The UN Framework Convention on Climate Change](https://www.nccs.gov.sg/images/default-source/default-album/the-un-framework-convention-on-climate-change.jpg "The UN Framework Convention on Climate Change")
-*Deputy Prime Minister Teo Chee Hean speaking at the 17th UNFCCC Conference of the Parties (COP-17) in Durban, South Africa.*
+Deputy Prime Minister Teo Chee Hean speaking at the 17th UNFCCC Conference of the Parties (COP-17) in Durban, South Africa.
 
 **Singapore's Pledge to Reduce Emissions**
 
-Prior to the UNFCCC Climate Change Conference in Copenhagen in 2009, Singapore pledged to reduce our greenhouse gas emissions by 16% below business-as-usual (BAU) levels in 2020, based on the condition that there should be a legally binding global agreement in which all countries implement their commitments in good faith. In line with the agreement adopted in Paris in December 2015, Singapore has made a further commitment to reduce our Emissions Intensity by 36% from 2005 levels by 2030, and stabilise our greenhouse gas emissions with the aim of peaking around 2030.
+Prior to the UNFCCC Climate Change Conference in Copenhagen in 2009, Singapore pledged to reduce our greenhouse gas emissions by 16 per cent below business-as-usual (BAU) levels in 2020, based on the condition that there should be a legally binding global agreement in which all countries implement their commitments in good faith. In line with the agreement adopted in Paris in December 2015, Singapore has made a further commitment to reduce our Emissions Intensity by 36 per cent from 2005 levels by 2030, and stabilise our greenhouse gas emissions with the aim of peaking around 2030.
 
 This pledge is an ambitious one given our limited access to renewable energy and will require concerted effort by all stakeholders, including the Government, businesses, households and individuals.
 
@@ -99,3 +99,5 @@ Singapore joined the C40 Cities Climate Leadership Group (C40) as an observer ci
 Our participation with the C40 has allowed us to learn from the best practices of other C40 cities in areas such as building energy efficiency, transportation, climate change resilience and adaptation. Singapore has also contributed to C40 by sharing our experiences in urban development and transport infrastructure.
 
 Singapore's efforts in promoting urban sustainability and addressing climate change were also recognised by C40 in 2013 when it was presented with the C40 City Climate Leadership Award.
+
+

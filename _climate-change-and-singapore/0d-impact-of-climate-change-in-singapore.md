@@ -16,7 +16,7 @@ In 2001, the first recorded cyclone near the equator, Typhoon Vamei, swept north
 
 **Sea level rise**
 
-As a low-lying island, the rise in sea level poses the most immediate threat to Singapore. Much of our nation lies only 15 m above the mean sea level, with about 30% of our island being less than 5 m above the mean sea level.
+As a low-lying island, the rise in sea level poses the most immediate threat to Singapore. Much of our nation lies only 15 m above the mean sea level, with about 30 per cent of our island being less than 5 m above the mean sea level.
 
 **Water resources**
 
@@ -39,7 +39,7 @@ Urban areas tend to be warmer due to the replacement of natural land cover with 
 
 **Food security**
 
-The effects of climate change, such as intense storms, flooding and prolonged droughts, are one of the trends threatening global food security. In Singapore, we are particularly vulnerable to fluctuations in global food supply and prices, as we import more than 90% of our food.
+The effects of climate change, such as intense storms, flooding and prolonged droughts, are one of the trends threatening global food security. In Singapore, we are particularly vulnerable to fluctuations in global food supply and prices, as we import more than 90 per cent of our food.
 
 ![Food security](https://www.nccs.gov.sg/images/default-source/default-album/food-security.jpg?sfvrsn=8b26e71c_0 "Food security")
 *A small increase in global temperature can cause changes in weather patterns that will disrupt crops grown in other countries, and eventually our food supply.*
@@ -50,7 +50,10 @@ Singapore has undertaken two National Climate Change Studies to better understan
 
 The second study, which updated the projections for Singapore based on the findings of the IPCC AR5, was a joint effort between the Meteorological Service Singapore’s (MSS) Centre for Climate Research Singapore (CCRS) and the UK Met Office, Hadley Centre. Phase 1 of the study was completed in 2015 and its findings were consistent with those from the IPCC AR5 which predicted global sea level rise, as well as higher temperatures and more extreme rainfall. The long-term effects of climate change would lead to a temperature increase of 1.4°C to 4.6°C and a rise in sea level by up to about 1m by the end of the century.
 
-![Infographic - Climate Change in Singapore](https://www.nccs.gov.sg/images/default-source/default-album/info-1-01.jpg?sfvrsn=1e966f02_0 "Infographic - Climate Change in Singapore")
+<a href="https://www.nccs.gov.sg/images/default-source/default-album/info-1-01.jpg?sfvrsn=1e966f02_0" target="_blank"> ![Infographic - Climate Change in Singapore](https://www.nccs.gov.sg/images/default-source/default-album/info-1-01.jpg?sfvrsn=1e966f02_0 "Infographic - Climate Change in Singapore")</a>
+
+(Click to download larger image)
+
 *Source: Ministry of the Environment and Water Resources*
 
 Phase 2 of the study will make use of the projections from Phase 1 to examine the climate change impacts on areas such as water resources and drainage, biodiversity and greenery, network infrastructure and building infrastructure. 

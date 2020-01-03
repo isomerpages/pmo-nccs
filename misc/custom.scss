@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #2b4162;
+$primary: #1f487e;
 $secondary: #102442;
 $secondary-hover: lighten($secondary, 10%);
 $white-color: #ffffff;
@@ -197,23 +197,28 @@ body {
 	color: $hover-color !important;
 	border-bottom: 2px solid $hover-color !important;
 }
-.bp-menu-list .third-level-nav-div {
-  margin-top: 1.5rem;
-}
 .bp-menu-list a.third-level-nav-header {
-  border-bottom: 1px solid  $primary !important;
-  color: $primary !important;
+  border-bottom: 1px solid  #323232 !important;
+  color: #323232 !important;
   &:hover {
     border-bottom: 1px solid  $hover-color !important;
-    color:  $hover-color !important;
+    color:  $primary !important;
   }
 }
 .bp-menu-list a.third-level-nav-header.is-active {
   border-bottom: 1px solid   $hover-color !important;
-  color:   $hover-color !important;
+  color:   $primary !important;
 }
 .bp-menu-list .third-level-nav-div .has-text-secondary {
-  color: $hover-color !important;
+  color: $primary !important;
+  border-bottom: 2px solid #0d96bc;
+  line-height: 1.5rem;
+}
+.bp-menu-list li a.third-level-nav-item {
+  padding-left: 0 !important;
+}
+.bp-menu-list .third-level-nav-div {
+  margin-top: 15px;
 }
 
 // Button
@@ -496,6 +501,9 @@ h5 {
   text-transform: uppercase !important;
   font-weight: 600;
 }
+.navbar .navbar-link {
+  padding-right: 25px;
+}
 .navbar .navbar-item .sub-link {
   text-transform: $capatilize !important;
 }
@@ -557,6 +565,10 @@ code {
   margin-bottom: 0;
   margin-top: 1.5rem;
 }
+.content strong {
+  color: #333333;
+  font-size: 1rem;
+}
 .has-text-white {
   color: white !important;
   text-align: left;
@@ -564,6 +576,9 @@ code {
 }
 li {
   font-size: 0.9rem !important;
+}
+em {
+  font-size: 0.8rem;
 }
 .bp-sec-button .is-uppercase {
   text-transform: uppercase !important;
@@ -581,11 +596,12 @@ li {
 }
 .bp-menu-list a {
   font-size: 0.9rem;
-  font-weight: bold;
   padding: 0.8rem 0;
+  font-weight: 600;
 }
 .bp-button.search-button {
-  text-transform: uppercase !important;
+  text-transform: capitalize !important;
+  margin-bottom: 3rem;
 }
 #key-highlights .key-highlight-title {
   letter-spacing: 0.2px !important;
@@ -615,4 +631,15 @@ li {
 .display {
   font-family: "Lato", sans-serif;
   letter-spacing: 1.5px;
+}
+
+/* link */
+a[target="_blank"]:after {
+  display: none;
+}
+a[href$=".pdf"] {
+  margin-left: 0rem;
+}
+a[href$=".pdf"]:before {
+  display: none;
 }
