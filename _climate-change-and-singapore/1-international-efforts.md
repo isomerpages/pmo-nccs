@@ -70,6 +70,7 @@ In Lima, Peru, the Parties agreed on various ground rules to guide the submissio
 On 12 December 2015 at the 21st Conference of the Parties to the UNFCCC (COP-21) in Paris, 196 Parties adopted a new climate agreement applicable to all Parties. The Paris Agreement, which will take effect post-2020, aims to hold the increase in global average temperature to well below 2°C, and pursue efforts to limit the temperature increase to 1.5°C.
 
 ![The UN Framework Convention on Climate Change](https://www.nccs.gov.sg/images/default-source/default-album/the-un-framework-convention-on-climate-change.jpg "The UN Framework Convention on Climate Change")
+
 Deputy Prime Minister Teo Chee Hean speaking at the 17th UNFCCC Conference of the Parties (COP-17) in Durban, South Africa.
 
 **Singapore's Pledge to Reduce Emissions**
@@ -99,5 +100,4 @@ Singapore joined the C40 Cities Climate Leadership Group (C40) as an observer ci
 Our participation with the C40 has allowed us to learn from the best practices of other C40 cities in areas such as building energy efficiency, transportation, climate change resilience and adaptation. Singapore has also contributed to C40 by sharing our experiences in urban development and transport infrastructure.
 
 Singapore's efforts in promoting urban sustainability and addressing climate change were also recognised by C40 in 2013 when it was presented with the C40 City Climate Leadership Award.
-
 
