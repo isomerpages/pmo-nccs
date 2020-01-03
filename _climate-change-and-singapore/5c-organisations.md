@@ -1,5 +1,5 @@
 ---
-title: Organisations
+title: What Can Your Organisation Do?
 permalink: /climate-change-and-singapore/organisations/
 third_nav_title: What We Can Do
 ---

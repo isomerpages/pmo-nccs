@@ -1,12 +1,48 @@
 ---
-title: FAQ
-permalink: /faq/
+title: Faq
+permalink: /pages/faq/
 ---
 
-### **FAQ**
+### CARBON TAX
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+**1. What is the role of the carbon tax in Singapore’s mitigation strategy?**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+Singapore's Climate Action Plan sets out four strategies to achieve its pledge: (i) improving energy efficiency, (ii) reducing carbon emissions from power generation, (iii) developing and deploying cutting-edge low-carbon technologies, and (iv) encouraging collective action among government agencies, individuals, businesses, and the community.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+A carbon tax will enhance Singapore's existing and planned mitigation efforts under its [<a href="https://www.nccs.gov.sg/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf" target="_blank">Climate Action Plan</a>](https://www.nccs.gov.sg/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf), and stimulate clean technology and market innovation. A tax on greenhouse gas (GHG) emissions will incentivise emitters to factor in the costs of their GHG emissions in their business decisions. This would encourage companies to improve their energy efficiency and innovate to reduce their GHG emissions.
+
+**2. Who is covered under the carbon tax?**
+
+The tax is applied on the total direct emissions of facilities that emit 25,000 tCO2e or more of emissions annually. This is equivalent to emissions produced by the annual electricity consumption of 12,500 HDB 4-room households. About 30 to 40 companies are expected to be liable for carbon tax. It covers the six greenhouse gases (GHGs) that Singapore is currently reporting to the United Nations Framework Convention on Climate Change (UNFCCC), namely carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF6).
+
+**3. Why has the government decided on a carbon tax regime with no exemptions?**
+
+Having a clean and simple carbon tax will help to preserve a fair, uniform and transparent price signal on all units of emissions, to incentivise emissions reduction where it presents the lowest cost.
+
+A system with benchmark-based exemptions, in which exemptions are provided to many sectors resulting in different facilities paying different prices, would erode the price signal of the carbon tax, and make it less transparent.
+
+Also, setting such benchmarks can be a complicated process, and implementing them could increase administrative and compliance costs.
+
+**4. Which other countries or jurisdictions have implemented carbon pricing?**
+
+Singapore is not alone in pricing carbon. About 67 jurisdictions (42 national and 25 sub-national jurisdictions) have implemented, or have plans to implement, carbon pricing. These jurisdictions account for roughly half of global greenhouse gas emissions. A few of these jurisdictions such as Finland, Norway and Sweden have implemented carbon pricing as early as the 1990s.
+
+**5. What is the expected impact of the carbon tax on households?**
+
+On average, the impact of the carbon tax on total electricity and gas expenses will be small, ranging from about $0.30 per month for a HDB 1-room flat to about $1.10 per month for a HDB executive flat.
+
+The extent to which a power generation company may pass on its marginal cost of producing electricity (including the cost of fuel and carbon tax) will depend on its overall cost structure and market dynamics. Even if power generation companies pass on the full costs of a $5/tCO2e carbon tax to consumers, the increase would be equivalent to a rise in electricity prices of about 0.21 cents/kWh, or about a one per cent increase from current electricity tariffs of 21.56 cents/kWh for the first quarter of 2018. This is small, compared to historical quarterly electricity tariffs which have fluctuated by up to 10 percent between the first quarter of 2010 and the first quarter of 2018 due to changes in fuel prices.
+
+To help households adjust, the Government will provide additional U-Save rebates for three years. Eligible HDB households will each receive $20 more per year, from 2019 to 2021. On average, the increase in U-Save rebates will cover the expected increase in electricity and gas arising from the carbon tax for HDB households who receive U-Save rebates.
+
+Households are encouraged to adopt energy-saving habits to reduce their electricity expenses. By switching off the power at the socket when appliances are not in use, households can save up to $16 a year. By using a more energy-efficient refrigerator (changing from a model with “1 tick” to one with “3 ticks”), households can save up to $35 a year.
+
+**6. How would the Government ensure that consumers are not over-charged by electricity retailers passing on more than 100 per cent of the carbon tax to consumers?**
+
+Today's electricity retail market is competitive and discourages retailers from raising their electricity rates excessively. Nevertheless, EMA will continue to ensure fair and efficient conduct of market players. Government agencies will also work closely with the Consumer Association of Singapore (CASE) and Competition & Consumer Commission of Singapore to monitor the market for unfair pricing and coordinated price hikes which are anti-competitive.
+
+**7. How would my electricity price plan under the Open Electricity Market be affected by the carbon tax?**
+
+With the rollout of the Open Electricity Market from 2018, small[1] consumers who have bought standard price plans will continue to pay the electricity rate contracted with their retailers even when the carbon tax is implemented on 1 January 2019. This is because the electricity rate under standard price plans are inclusive of all applicable charges, i.e. consumers’ contracted electricity rate will not change during the contract duration even after the carbon tax comes into effect.
+
+For non-standard price plans, retailers who wish to exercise the contractual right to adjust the electricity rate, and/or add a new charge for contracted consumers due to genuine rise in business costs (e.g. carbon tax) even if the contract provides for this, shall seek EMA’s prior approval. Specifically, for carbon tax, the retailer is required to provide the following information to EMA as part of the approval process:
