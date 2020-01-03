@@ -11,10 +11,9 @@ The greenhouse effect occurs naturally when heat from the Earth's surface is abs
 
 However, the burning of fossil fuels for energy, industrial production and the clearing of forests to raise livestock have increased the production of GHGs. These additional GHGs trap even more heat in the atmosphere, making the Earth warmer.
 
-Based on scientific reports as of October 2015, the current global atmospheric CO<sub>2</sub> concentration stands at 398.55 parts per million (ppm) and increases at approximately 2ppm per year. The IPCC projected in its Fifth Assessment Report (AR5) that CO<sub>2</sub>e (or carbon dioxide equivalent) levels will need to stabilise at 450ppm in order to limit the global increase in temperature to 2°C.
+Based on scientific reports as of October 2015, the current global atmospheric CO<sub>2</sub> concentration stands at 398.55 parts per million (ppm) and increases at approximately 2ppm per year. The IPCC projected in its [<a href="http://www.ipcc.ch/report/ar5/" target="_blank">Fifth Assessment Report (AR5)</a>](http://www.ipcc.ch/report/ar5/) that CO<sub>2</sub>e (or carbon dioxide equivalent) levels will need to stabilise at 450ppm in order to limit the global increase in temperature to 2°C.
 
 **The Enhanced Greenhouse Effect**
 
 ![The Enhanced Greenhouse Effect](https://www.nccs.gov.sg/images/default-source/default-album/the-enhanced-greenhouse-effect.gif "The Enhanced Greenhouse Effect")
-
-Source: Climate Change & Singapore: Challenges. Opportunities. Partnerships
+Source: [<a href="https://www.nccs.gov.sg/docs/default-source/default-document-library/national-climate-change-strategy.pdf?sfvrsn=d263f689_0" target="_blank">Climate Change & Singapore: Challenges. Opportunities. Partnerships</a>](https://www.nccs.gov.sg/docs/default-source/default-document-library/national-climate-change-strategy.pdf?sfvrsn=d263f689_0)

@@ -6,7 +6,7 @@ third_nav_title: Adapting to Climate Change
 
 ### COASTAL PROTECTION
 
-With most of Singapore being within 15 m above sea level and 30% of our island being less than 5 m above sea level, any additional increase caused by climate change is an immediate threat.
+With most of Singapore being within 15 m above sea level and 30 per cent of our island being less than 5 m above sea level, any additional increase caused by climate change is an immediate threat.
 
 Protecting our coastline and improving drainage is one of our priorities in dealing with the effects of climate change.
 
@@ -17,7 +17,7 @@ To cater for long-term sea level rise, the minimum land reclamation level in Sin
 
 **Safeguarding Our Coastline**
 
-Our current efforts to defend our coastal areas from erosion include the construction of walls and stone embankments covering 70% to 80% of Singapore's coastline. The rest are natural areas such as beaches and mangroves. Coastal engineering, wave dynamics, coastal morphology and hydrodynamics all contribute to the development of appropriate protective measures.
+Our current efforts to defend our coastal areas from erosion include the construction of walls and stone embankments covering 70 per cent to 80 per cent of Singapore's coastline. The rest are natural areas such as beaches and mangroves. Coastal engineering, wave dynamics, coastal morphology and hydrodynamics all contribute to the development of appropriate protective measures.
 
 The Coastal Adaptation Study (CAS) was commissioned by the Building & Construction Authority (BCA) to assess the potential impacts of coastal inundation under possible climate change scenarios, and to study possible long-term adaptation measures. The Government is reviewing the findings of the CAS to develop long-term strategies to protect Singapore’s coasts.
 

@@ -19,18 +19,18 @@ Our local research institutes are providing invaluable knowledge on climate chan
 
 **Centre for Climate Research Singapore**
 
-The MSS established the [Centre for Climate Research Singapore (CCRS)](https://ccrs.weather.gov.sg/) to improve the nation's capabilities in climate science and modelling. The CCRS will anchor climate science capabilities in Singapore over the long term. The CCRS will collaborate with our universities and leading climate centres in other countries to spearhead impact studies that will support Whole-of-Government efforts in climate resilience.
+The MSS established the [<a href="https://ccrs.weather.gov.sg/" target="_blank">Centre for Climate Research Singapore (CCRS)</a>](https://ccrs.weather.gov.sg/) to improve the nation's capabilities in climate science and modelling. The CCRS will anchor climate science capabilities in Singapore over the long term. The CCRS will collaborate with our universities and leading climate centres in other countries to spearhead impact studies that will support Whole-of-Government efforts in climate resilience.
 
 The National University of Singapore (NUS) and Nanyang Technological University (NTU) have also set up the following centres to aid in applied research:
 
 **Singapore-Delft Water Alliance (SDWA), NUS**
 
-[SDWA](http://blog.nus.edu.sg/sdwa/) conducts research using environmental sensing, intelligent data processing and modelling to improve our knowledge of the water cycle. Other capabilities include real-time forecasting and warning by simulating and analysing extreme weather events to develop decision support systems.
+[<a href="http://blog.nus.edu.sg/sdwa/" target="_blank">SDWA</a>](http://blog.nus.edu.sg/sdwa/) conducts research using environmental sensing, intelligent data processing and modelling to improve our knowledge of the water cycle. Other capabilities include real-time forecasting and warning by simulating and analysing extreme weather events to develop decision support systems.
 
 **Tropical Marine Science Institute (TMSI), NUS**
 
-[SDTMSIWA](http://www.tmsi.nus.edu.sg/) is a centre of excellence that conducts R&D and consultancy in both tropical marine and climate science. Its multidisciplinary research labs and international partnerships allow for investigation into physical oceanography, acoustics, marine biology, marine mammals, biofuels, water resources and climate change. TMSI contributed to Phase 1 of the Climate Change Study and is assisting Singapore with the Risk Map Study.
+[<a href="http://www.tmsi.nus.edu.sg/" target="_blank">TMSI</a>](http://www.tmsi.nus.edu.sg/) is a centre of excellence that conducts R&D and consultancy in both tropical marine and climate science. Its multidisciplinary research labs and international partnerships allow for investigation into physical oceanography, acoustics, marine biology, marine mammals, biofuels, water resources and climate change. TMSI contributed to Phase 1 of the Climate Change Study and is assisting Singapore with the Risk Map Study.
 
 **Earth Observatory of Singapore (EOS), NTU**
 
-[EOS](https://earthobservatory.sg/) conducts research that seeks to make accurate predictions of the regional consequences that can be expected from climate change. Currently, EOS is studying how sea surface temperature, saltiness and water circulation have affected Southeast Asian monsoons in the past. This knowledge can help us to make informed decisions when planning future drainage systems.
+[<a href="https://earthobservatory.sg/" target="_blank">EOS</a>](https://earthobservatory.sg/) conducts research that seeks to make accurate predictions of the regional consequences that can be expected from climate change. Currently, EOS is studying how sea surface temperature, saltiness and water circulation have affected Southeast Asian monsoons in the past. This knowledge can help us to make informed decisions when planning future drainage systems.
