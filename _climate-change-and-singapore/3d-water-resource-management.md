@@ -22,8 +22,8 @@ As a nation with a very limited water supply, taking appropriate measures to ens
 
 **Our Resilient Water Resources**
 
-NEWater and desalinated water are not dependent on rainfall, and can be used to supplement water from local reservoirs in an extended dry spell. NEWater and desalinated water will meet 70% of Singapore's water demand by 2030.
+NEWater and desalinated water are not dependent on rainfall, and can be used to supplement water from local reservoirs in an extended dry spell. NEWater and desalinated water will meet 70 per cent of Singapore's water demand by 2030.
 
-The capacity for these two sources of water will be further increased to meet up to 80% of our water demand by 2060.
+The capacity for these two sources of water will be further increased to meet up to 80 per cent of our water demand by 2060.
 
     

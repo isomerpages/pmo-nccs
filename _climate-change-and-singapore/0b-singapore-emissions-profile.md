@@ -6,7 +6,7 @@ third_nav_title: National Circumstances
 
 ### SINGAPORE'S EMISSIONS PROFILE
 
-Singapore contributes around 0.11% of global emissions. We are nevertheless taking steps to reduce our carbon emissions.
+Singapore contributes around 0.11 per cent of global emissions. We are nevertheless taking steps to reduce our carbon emissions.
 
 Historically, our strategic position along the East-West trade routes has made Singapore a natural location for oil storage and refining facilities serving the region. Building on our position as a key regional port, the refining and petrochemical plants help create synergies and are part of a business supply network in Southeast Asia, the Western Pacific, South Asia and Australasia. Although, the refining and petrochemical sector is a large source of our carbon emissions, Singapore is working on an on-going and continuous basis to improve our levels of energy efficiency.
 
@@ -32,4 +32,4 @@ Projecting from 2005, our business-as-usual (BAU) emissions are expected to reac
 
 ![Projected 2020 Business-As-Usual Greenhouse Gas Emissions](https://www.nccs.gov.sg/images/default-source/default-album/projected-2020-business-as-usual-greenhouse-gas-emissions.gif "Projected 2020 Business-As-Usual Greenhouse Gas Emissions")
 
-Source:  [Climate Change & Singapore: Challenges. Opportunities](https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy.pdf)
+Source: [<a href="https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy.pdf" target="_blank">Climate Change & Singapore: Challenges. Opportunities</a>](https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy.pdf)

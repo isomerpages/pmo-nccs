@@ -6,7 +6,8 @@ third_nav_title: Green Growth Opportunities
 
 ### CARBON SERVICES AND CLIMATE FINANCE
 
-The Region's Top Commodities Trading Hub
+**The Region's Top Commodities Trading Hub**
+
 Singapore is home to many energy traders, who make up most of the clientele for carbon services companies. This makes Singapore an ideal location for companies working on carbon projects in the region, especially since it is close to the biggest sources of carbon credits, India and China.
 
 The Economic Development Board (EDB) and IE Singapore have engaged carbon companies to establish a presence here. These companies offer:
@@ -25,4 +26,4 @@ As the main source of carbon credits, the Clean Development Mechanism (CDM) allo
 
 As of 31 December 2012, more than 5,511 CDM projects have been registered worldwide since 2006, leading to over 2,191 million CERs being issued by the United Nations Framework Convention on Climate Change (UNFCCC).
 
-Asia is a key supplier of carbon credits, with more than 82% of registered CDM projects originating in the Asia-Pacific region. Our strategic location and ideal business environment make Singapore a prime location for trading and services companies wanting to develop carbon projects in the region.
+Asia is a key supplier of carbon credits, with more than 82 per cent of registered CDM projects originating in the Asia-Pacific region. Our strategic location and ideal business environment make Singapore a prime location for trading and services companies wanting to develop carbon projects in the region.
