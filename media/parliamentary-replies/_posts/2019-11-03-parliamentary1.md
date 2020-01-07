@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Parliamentary reply by SM Teo Chee Hean on Singapore’s commitment to address climate change
-subtitle: 03 Nov 2019
-permalink: /media/news/test1
+subtitle: 3 Nov 2018
+permalink: /media/news/parliamentary1
 ---
 
 ### PARLIAMENTARY REPLY BY SM TEO CHEE HEAN ON SINGAPORE’S COMMITMENT TO ADDRESS CLIMATE CHANGE
@@ -11,7 +11,7 @@ permalink: /media/news/test1
 
 To ask the Prime Minister following the SG Climate Rally where our youths called for peak emissions by 2020, halved emissions by 2030 and net zero emissions by 2050, (a) whether the Government is (i) including carbon emission reductions and economic decarbonisation targets in its Nationally Determined Contribution (NDC) to be updated by 2020 (ii) enhancing our upcoming NDC to reflect its highest possible ambition (iii) declaring a climate emergency to highlight the severity of the climate crisis and (iv) setting a timeline for Singapore to reach net zero emissions.
 
-### Mr Teo Chee Hean (for the Prime Minister):
+**Mr Teo Chee Hean (for the Prime Minister):**
 
 Singapore recognises that climate change is a global and national existential issue and there is urgency for all countries to take climate action. Singapore’s Emissions Intensity (EI), i.e. greenhouse gas emissions per dollar of GDP, is currently one of the lowest in the world. This is the result of choosing environmentally responsible policies as we developed, for example our vehicle control and use measures; and converting almost completely to the use of natural gas for electricity generation instead of fuel oil since the early 2000s. In comparison, many developed and developing countries are still using significant amounts of coal for electricity generation, and motor-vehicle fuel is still subsidised in several countries in our region.
 
@@ -24,4 +24,3 @@ Achieving our NDC will require significant whole-of-nation effort. We constantly
 We are studying how further advances in technology can help Singapore transit earlier to a lower carbon future, and exploring the feasibility of working towards net zero emissions. For example, the government has commissioned studies to evaluate the opportunities and challenges of carbon capture, utilisation and storage (CCUS), and “green” hydrogen, and recommend next steps for Singapore. We will also work with industry and our research community to explore pilot projects and implement research and development initiatives to improve their feasibility, and to develop the necessary frameworks to support adoption when these solutions become economically viable.
 
 Climate change is a global issue that requires a global response, and we are committed to work with the international community to address this urgent challenge. For Singapore to do our full part, the government cannot do it alone. We are heartened that Singaporeans, especially our youth, care deeply about this issue. A recent survey by the National Climate Change Secretariat also showed that most Singaporeans understand the importance of the issue, and are prepared to take climate-friendly actions in their daily lives to address the issue. Saving electricity, using public transport and reducing waste are practical ways for Singaporeans to cut carbon emissions. We will continue to work closely with businesses, the community and individuals to do more to tackle climate change together.
-
