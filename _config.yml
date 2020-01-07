@@ -9,6 +9,8 @@ collections:
     output: true
   climate-change-and-singapore:
     output: true
+  public-consultation:
+    output: true
 resources_name: media
 
 ##################################################################################################################

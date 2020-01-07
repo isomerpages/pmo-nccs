@@ -13,8 +13,21 @@ links:
     collection: about-climate-change
   - title: Climate Change And Singapore
     collection: climate-change-and-singapore
-  - title: public consultation
-    collection: media
+  - title: Public Consultation
+    collection: public-consultation
   - title: media
-    url: /public-consultation/
+    url: /media/
+    sublinks:
+      - title: All
+        url: /media/
+      - title: News
+        url: /media/news/
+      - title: Press Release
+        url: /media/press-release/
+      - title: Speeches
+        url: /media/speeches/
+      - title: Parliamentary Replies
+        url: /media/parliamentary-replies/
+      - title: Publications
+        url: /media/publications/
     resource_room: true

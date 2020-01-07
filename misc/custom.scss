@@ -18,6 +18,8 @@ $media-color-three: #00838f;
 $media-color-four: #00838f;
 $media-color-five: #00838f;
 
+$submenu-font: 1rem;
+
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
@@ -162,6 +164,12 @@ body {
 .has-text-secondary {
 	color: $secondary !important;
 }
+.bg-media-color-1 {
+  background-color: $primary  !important;
+  &:hover {
+    background-color: $secondary !important;
+  }
+}
 .bg-media-color-2 {
   background-color: $primary  !important;
   &:hover {
@@ -215,7 +223,7 @@ body {
   line-height: 1.5rem;
 }
 .bp-menu-list li a.third-level-nav-item {
-  padding-left: 0 !important;
+  padding: 10px 0 10px 0 !important;
 }
 .bp-menu-list .third-level-nav-div {
   margin-top: 15px;
@@ -488,9 +496,6 @@ h4 {
 h5 {
   font-size: 1rem;
 }
-.navbar-start {
-  margin: 0 2rem;
-}
 .navbar .navbar-item {
   font-weight: normal;
   padding: 0;
@@ -502,10 +507,11 @@ h5 {
   font-weight: 600;
 }
 .navbar .navbar-link {
-  padding-right: 25px;
+  padding-right: 40px;
 }
 .navbar .navbar-item .sub-link {
   text-transform: $capatilize !important;
+  font-size: $submenu-font !important;
 }
 .navbar .navbar-item .sub-link:first-child {
   text-transform: $capatilize !important;
@@ -565,6 +571,9 @@ code {
   margin-bottom: 0;
   margin-top: 1.5rem;
 }
+.content h5 {
+  font-weight: 600;
+}
 .content strong {
   color: #333333;
   font-size: 1rem;
@@ -604,7 +613,6 @@ em {
   margin-bottom: 3rem;
 }
 #key-highlights .key-highlight-title {
-  letter-spacing: 0.2px !important;
   text-transform: uppercase !important;
 }
 .bp-hero-body {
@@ -624,6 +632,9 @@ em {
 .bottom-navigation {
   height: 0;
 }
+.bottom-navigation a:hover {
+  background-color: $primary !important;
+}
 .col.is-one-quarter,
 .col.is-one-quarter-tablet {
   display: none;
@@ -631,6 +642,10 @@ em {
 .display {
   font-family: "Lato", sans-serif;
   letter-spacing: 1.5px;
+}
+.col.is-three-quarters-desktop {
+  flex: none;
+  width: 100%;
 }
 
 /* link */
