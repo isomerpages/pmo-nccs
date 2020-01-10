@@ -1,7 +1,6 @@
 ---
 layout: media
 title: Public Consultation
-permalink: /pages/public-consultation/
+permalink: /public-consultation/
 ---
 
-sasdasdasdasdsadsaas

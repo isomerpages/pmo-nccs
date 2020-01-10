@@ -30,7 +30,7 @@ Our small physical size (715.8 sq km), high population density and land scarcity
 
 Singapore's high average annual solar irradiation of about 1,500 kWh/m2 makes solar photovoltaic (PV) a potential renewable energy option for Singapore. However, we face challenges to the use of solar energy in Singapore. We have limited available land for the large scale deployment of solar panels. In addition, the presence of high cloud cover across Singapore and urban shading poses challenges such as intermittency.
 
-With the limited renewable energy options available to us and the current technological capabilities, we are not able to generate sufficient baseload electricity from renewable sources reliably for Singapore. Nevertheless, Singapore is aiming to increase solar deployment from the current 47MWp, to provide around 350MWp of electricity by 2020. By 2030, it is estimated that renewable energy could potentially contribute up to 8% of Singapore's peak electricity demand.
+With the limited renewable energy options available to us and the current technological capabilities, we are not able to generate sufficient baseload electricity from renewable sources reliably for Singapore. Nevertheless, Singapore is aiming to increase solar deployment from the current 47MWp, to provide around 350MWp of electricity by 2020. By 2030, it is estimated that renewable energy could potentially contribute up to 8 per cent of Singapore's peak electricity demand.
 
 Singapore is investing in research and development as well as test-bedding to improve the performance of solar PV systems and develop innovative ways of intergrating solar energy systems into our urban environment. Some of our test-bedding projects include:
 

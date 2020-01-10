@@ -42,7 +42,7 @@ The flash floods were caused by the intense rainfall temporarily exceeding the e
 
 Let me go back to drain design. PUB takes into account terrain, the extent and type of developments in the area, catchment area served by the drain, as well as the design rainfall intensity over the catchment. This is standard international practice. However, with climate change, we can expect more intense rainfalls to be the norm in future. A study by the Potsdam Institute for Climate Impact Research found that flood risks from rainfall changes will increase in the next two to three decades, due to global warming from greenhouse gases already emitted into the atmosphere. The need for adaptation is significant, even in countries with good infrastructure such as Singapore.
 
-To prepare for this, PUB has raised the drainage design standards since 2011, so that our drains can handle up to 45% higher rainfall intensities. These new standards were endorsed in 2012 by a Drainage Expert Panel comprising local and international specialists.
+To prepare for this, PUB has raised the drainage design standards since 2011, so that our drains can handle up to 45 per cent higher rainfall intensities. These new standards were endorsed in 2012 by a Drainage Expert Panel comprising local and international specialists.
 
 Since 2012, PUB has commenced and completed drainage improvement works at 327 locations. There are another 73 locations undergoing similar works, with 22 more planned this year. The Government has invested $1.2 billion on these works, and has set aside another $500 million for the next two to three years.
 
