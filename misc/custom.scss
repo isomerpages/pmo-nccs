@@ -502,9 +502,8 @@ h5 {
   text-transform: lowercase;
 }
 .navbar .navbar-item a {
-  font-size: 0.9rem !important;
-  text-transform: uppercase !important;
-  font-weight: 600;
+  font-size: 1rem !important;
+  text-transform: capitalize !important;
 }
 .navbar .navbar-link {
   padding-right: 40px;
@@ -562,9 +561,10 @@ code {
   color: #257AB7;
   text-decoration: none;
   cursor: pointer;
-} .content a:hover {
+} 
+.content a:hover {
   color: #257AB7;
-  text-decoration: none;
+  text-decoration: underline !important;
   cursor: pointer;
 }
 .content h3 {
@@ -576,7 +576,7 @@ code {
 }
 .content strong {
   color: #333333;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 .has-text-white {
   color: white !important;
@@ -613,7 +613,7 @@ em {
   margin-bottom: 3rem;
 }
 #key-highlights .key-highlight-title {
-  text-transform: uppercase !important;
+  text-transform: capitalize !important;
 }
 .bp-hero-body {
   background: none;
@@ -621,7 +621,7 @@ em {
 }
 #key-highlights .col p {
   text-align: center;
-  font-size: 0.9rem !important;
+  font-size: 1rem !important;
   letter-spacing: 0.5px !important;
 }
 

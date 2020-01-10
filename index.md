@@ -8,15 +8,8 @@ sections:
     - hero:
         title: <font size=8>Welcome to National Climate Change Secretariat</font>
         background: /images/hero-banner.png
-        button: Read More
-        url: /who-we-are/about-nccs/
-    - infopic:
-        image: /images/pps-banner.jpg
-        alt: Members of the Ministry of ABC shaking hands
-        title: CLIMATE CHANGE PUBLIC PERCEPTION SURVEY 2019
-        description: The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a survey from May to July 2019 to gauge public perception and views on climate change.
-        button: View All
-        url: /media/news/test
+        button: About NCCS
+        url: /who-we-are/about-nccs
         key_highlights:
             - title: Reducing Emissions
               description: Reducing our carbon emissions in all sectors
@@ -30,6 +23,13 @@ sections:
             - title: International Actions
               description: Forging international collaborations
               url: /climate-change-and-singapore/international-efforts/
+    - infopic:
+        image: /images/pps-banner.jpg
+        alt: Members of the Ministry of ABC shaking hands
+        title: CLIMATE CHANGE PUBLIC PERCEPTION SURVEY 2019
+        description: The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a survey from May to July 2019 to gauge public perception and views on climate change.
+        button: View All
+        url: /media/news/test/
     - resources:
       - title: Media
         subtitle: Subtitle
