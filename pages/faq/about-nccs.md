@@ -1,6 +1,6 @@
 ---
-title: Faq
-permalink: /pages/faq/
+title: About NCCS
+permalink: /pages/faq/about-nccs
 ---
 
 ### ABOUT NCCS

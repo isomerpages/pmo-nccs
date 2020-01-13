@@ -16,4 +16,4 @@ Based on scientific reports as of October 2015, the current global atmospheric C
 **The Enhanced Greenhouse Effect**
 
 ![The Enhanced Greenhouse Effect](https://www.nccs.gov.sg/images/default-source/default-album/the-enhanced-greenhouse-effect.gif "The Enhanced Greenhouse Effect")
-Source: [<a href="https://www.nccs.gov.sg/docs/default-source/default-document-library/national-climate-change-strategy.pdf?sfvrsn=d263f689_0" target="_blank">Climate Change & Singapore: Challenges. Opportunities. Partnerships</a>](https://www.nccs.gov.sg/docs/default-source/default-document-library/national-climate-change-strategy.pdf?sfvrsn=d263f689_0)
+Source: [<a href="/pdf/national-climate-change-strategy.pdf" target="_blank">Climate Change & Singapore: Challenges. Opportunities. Partnerships</a>](/pdf/national-climate-change-strategy.pdf)
