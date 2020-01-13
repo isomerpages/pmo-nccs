@@ -8,7 +8,7 @@ sections:
     - hero:
         title: <font size=8>Welcome to National Climate Change Secretariat</font>
         background: /images/hero-banner.png
-        button: About NCCS
+        button: Read More
         url: /who-we-are/about-nccs
         key_highlights:
             - title: Reducing Emissions

@@ -32,4 +32,4 @@ Projecting from 2005, our business-as-usual (BAU) emissions are expected to reac
 
 ![Projected 2020 Business-As-Usual Greenhouse Gas Emissions](https://www.nccs.gov.sg/images/default-source/default-album/projected-2020-business-as-usual-greenhouse-gas-emissions.gif "Projected 2020 Business-As-Usual Greenhouse Gas Emissions")
 
-Source: [<a href="https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy.pdf" target="_blank">Climate Change & Singapore: Challenges. Opportunities</a>](https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy.pdf)
+Source: [<a href="/pdf/national-climate-change-strategy.pdf" target="_blank">Climate Change & Singapore: Challenges. Opportunities. Partnerships</a>](/pdf/national-climate-change-strategy.pdf)
