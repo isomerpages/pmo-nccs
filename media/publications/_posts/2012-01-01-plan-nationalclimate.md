@@ -10,12 +10,12 @@ The National Climate Change Strategy (NCCS-2012) document outlines Singapore's p
 
 **Download:**
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy.pdf" target="_blank">National Climate Change Strategy (PDF, 4MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy.pdf)
+* [<a href="/docs/default-source/publications/national-climate-change-strategy.pdf" target="_blank">National Climate Change Strategy (PDF, 4MB)</a>](/docs/default-source/publications/national-climate-change-strategy.pdf)
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy-brochure-english.pdf" target="_blank">Brochure (English) (PDF, 2MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy-brochure-english.pdf)
+* [<a href="/docs/default-source/publications/national-climate-change-strategy-brochure-english.pdf" target="_blank">Brochure (English) (PDF, 2MB)</a>](/docs/default-source/publications/national-climate-change-strategy-brochure-english.pdf)
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy-brochure-chinese.pdf" target="_blank">Brochure (Chinese) (PDF, 5MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy-brochure-chinese.pdf)
+* [<a href="/docs/default-source/publications/national-climate-change-strategy-brochure-chinese.pdf" target="_blank">Brochure (Chinese) (PDF, 5MB)</a>](/docs/default-source/publications/national-climate-change-strategy-brochure-chinese.pdf)
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy-brochure-malay.pdf" target="_blank">Brochure (Malay) (PDF, 5MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy-brochure-malay.pdf)
+* [<a href="/docs/default-source/publications/national-climate-change-strategy-brochure-malay.pdf" target="_blank">Brochure (Malay) (PDF, 5MB)</a>](/docs/default-source/publications/national-climate-change-strategy-brochure-malay.pdf)
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy-brochure-tamil.pdf" target="_blank">Brochure (Tamil) (PDF, 6MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/national-climate-change-strategy-brochure-tamil.pdf)
+* [<a href="/docs/default-source/publications/national-climate-change-strategy-brochure-tamil.pdf" target="_blank">Brochure (Tamil) (PDF, 6MB)</a>](/docs/default-source/publications/national-climate-change-strategy-brochure-tamil.pdf)

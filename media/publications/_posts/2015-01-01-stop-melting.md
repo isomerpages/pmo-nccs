@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Education Materials - Stop Melting My Home
+title:  'Education Materials : Stop Melting My Home'
 permalink: /media/publications/stop-melting
 ---
 
@@ -11,7 +11,7 @@ Stop *Melting My Home* is an educational drama programme to raise awareness and 
 
 **Download:**
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/my-guide-to-climate-change.pdf" target="_blank">Students' Guide (PDF, 6MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/my-guide-to-climate-change.pdf)
+* [<a href="/docs/default-source/publications/my-guide-to-climate-change.pdf" target="_blank">Students' Guide (PDF, 6MB)</a>](/docs/default-source/publications/my-guide-to-climate-change.pdf)
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/a-teachers-companion-my-guide-to-climate-change.pdf" target="_blank">Teachers' Guide (PDF, 1MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/a-teachers-companion-my-guide-to-climate-change.pdf)
+* [<a href="/docs/default-source/publications/a-teachers-companion-my-guide-to-climate-change.pdf" target="_blank">Teachers' Guide (PDF, 1MB)</a>](/docs/default-source/publications/a-teachers-companion-my-guide-to-climate-change.pdf)
 

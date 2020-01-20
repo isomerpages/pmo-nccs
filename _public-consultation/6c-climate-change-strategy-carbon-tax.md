@@ -1,14 +1,14 @@
 ---
-title: Public Consultation on Singapore's Climate Change Strategy and Carbon Tax
+title: '[Closed]: Singapores Climate Change Strategy And Carbon Tax'
 permalink: /public-consultation/climate-change-strategy-carbon-tax/
 third_nav_title: Overview
 ---
 
-### [CLOSED ON 20 APR 2017] PUBLIC CONSULTATION ON SINGAPORE'S CLIMATE CHANGE STRATEGY AND CARBON TAX
+### [CLOSED ON 20 APR 2017] SINGAPORE'S CLIMATE STRATEGY AND CARBON TAX
 
-**Response to comments received from the public consultation on Singapore's climate change strategy and carbon tax**
+**Response to comments received from the Singapore's Climate Change Strategy And Carbon Tax**
 
-The National Climate Change Secretariat conducted a [<a href="https://www.nccs.gov.sg/docs/default-source/default-document-library/climate-change-strategy-and-carbon-pricing.pdf" target="_blank">public consultation exercise</a>](https://www.nccs.gov.sg/docs/default-source/default-document-library/limate-change-strategy-and-carbon-pricing.pdf) from March to May 2017. From the online consultation and focus group discussions, we received feedback and suggestions related to the proposed carbon tax policy and Singapore's climate change strategy to (i) enhance carbon efficiency in the industry, power, buildings, transport, household, waste and water sectors; and (ii) harness green growth opportunities. Below is a summary of the feedback and responses according to the themes highlighted. Responses to more specific feedback and suggestions may be found in [<a href="https://www.nccs.gov.sg/docs/default-source/default-document-library/annex-a.pdf" target="_blank">Annex A</a>](https://www.nccs.gov.sg/docs/default-source/default-document-library/annex-a.pdf).
+The National Climate Change Secretariat conducted a [<a href="/docs/default-source/default-document-library/climate-change-strategy-and-carbon-pricing.pdf" target="_blank">public consultation exercise</a>](/docs/default-source/default-document-library/limate-change-strategy-and-carbon-pricing.pdf) from March to May 2017. From the online consultation and focus group discussions, we received feedback and suggestions related to the proposed carbon tax policy and Singapore's climate change strategy to (i) enhance carbon efficiency in the industry, power, buildings, transport, household, waste and water sectors; and (ii) harness green growth opportunities. Below is a summary of the feedback and responses according to the themes highlighted. Responses to more specific feedback and suggestions may be found in [<a href="/docs/default-source/default-document-library/annex-a.pdf" target="_blank">Annex A</a>](/docs/default-source/default-document-library/annex-a.pdf).
 
 **Carbon Tax Policy**
 
@@ -66,7 +66,7 @@ The Climate Action Plan outlines initiatives which Singapore plans to implement 
 
 Under the Research, Innovation, and Enterprise (RIE) 2020 Plan, $0.9 billion will be invested in the Urban Solutions and Sustainability domain from 2016 to 2020 to tackle Singapore's energy, water, land, and liveability challenges. Funding will be directed towards research and development in environment and water technologies, clean energy, and energy efficiency solutions. The Government will continue to explore other ways of encouraging innovation to address sustainability issues in Singapore and the region.
 
-Responses to other frequently asked questions on the proposed carbon tax can be found at [<a href="https://www.nccs.gov.sg/docs/default-source/default-document-library/annex-b.pdf" target="_blank">Annex B</a>](https://www.nccs.gov.sg/docs/default-source/default-document-library/annex-b.pdf).
+Responses to other frequently asked questions on the proposed carbon tax can be found at [<a href="/docs/default-source/default-document-library/annex-b.pdf" target="_blank">Annex B</a>](/docs/default-source/default-document-library/annex-b.pdf).
 
 ___
 
@@ -74,4 +74,4 @@ ___
 
 [2] The microsite can be found at [<a href="https://www.e2singapore.gov.sg/" target="_blank">www.e2singapore.gov.sg</a>](https://www.e2singapore.gov.sg/)
 
-[3] The technology roadmaps can be found at [<a href="/media/technology-roadmaps/test" target="_blank">www.nccs.gov.sg/resources/technology-roadmaps</a>](/media/technology-roadmaps/test)
+[3] The technology roadmaps can be found at [<a href="/media/publications/roadmap" target="_blank">technology-roadmaps</a>](/media/publications/roadmap)
