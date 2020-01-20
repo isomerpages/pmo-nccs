@@ -69,7 +69,7 @@ In Lima, Peru, the Parties agreed on various ground rules to guide the submissio
 
 On 12 December 2015 at the 21st Conference of the Parties to the UNFCCC (COP-21) in Paris, 196 Parties adopted a new climate agreement applicable to all Parties. The Paris Agreement, which will take effect post-2020, aims to hold the increase in global average temperature to well below 2°C, and pursue efforts to limit the temperature increase to 1.5°C.
 
-![The UN Framework Convention on Climate Change](https://www.nccs.gov.sg/images/default-source/default-album/the-un-framework-convention-on-climate-change.jpg "The UN Framework Convention on Climate Change")
+![The UN Framework Convention on Climate Change](/images/the-un-framework-convention-on-climate-change.jpg "The UN Framework Convention on Climate Change")
 
 Deputy Prime Minister Teo Chee Hean speaking at the 17th UNFCCC Conference of the Parties (COP-17) in Durban, South Africa.
 

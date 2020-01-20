@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Education Materials - Climate Change - How It Affects You
+title:  'Education Materials : Climate Change : How It Affects You'
 permalink: /media/publications/climate-affect
 ---
 
@@ -11,4 +11,4 @@ The brochure was launched by the National Environment Agency in May 2010. It inf
 
 **Download:**
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/climate-change-how-it-affects-you.pdf" target="_blank">Brochure - Climate Change: How It Affects You (PDF, 3MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/climate-change-how-it-affects-you.pdf)
+* [<a href="/docs/default-source/publications/climate-change-how-it-affects-you.pdf" target="_blank">Brochure - Climate Change: How It Affects You (PDF, 3MB)</a>](/docs/default-source/publications/climate-change-how-it-affects-you.pdf)

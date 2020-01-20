@@ -1,6 +1,6 @@
 ---
 title: Contact Info
-permalink: /pages/contact-us/contact-info
+permalink: /pages/contact-us/contact-info/
 ---
 
 ### CONTACT US

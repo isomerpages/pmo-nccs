@@ -1,0 +1,27 @@
+---
+layout: post
+title:  Parliamentary reply by Masagos Zulkifli, Minister for the Environment and Water Resources, on climate action
+subtitle: 06 Aug 2018
+permalink: /media/news/parliamentary2
+---
+
+
+### PARLIAMENTARY REPLY BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, ON CLIMATE ACTION
+
+**Miss Cheng Li Hui:** To ask the Minister for the Environment and Water Resources (a) what is the progress thus far on raising the awareness of climate change; (b) what is the number of individuals, organisations and educational institutions that have taken the Climate Action Pledge; (c) what are the plans to include more individuals, organisations and educational institutions in the second-half of the year; and (d) whether the Ministry will work with or track the organisations and educational institutions in terms of their follow-up actions and, if so, how.
+
+**Reply by Minister:**
+
+Singapore designated 2018 as the Year of Climate Action to raise awareness of climate change and to urge people to take climate action for a sustainable future. The public response has been very good. Many community groups, grassroots organisations, corporations, schools and NGOs have stepped forward to organise events and activities to raise awareness of the importance and impact of climate change, and to encourage the public to take responsibility to live more sustainable lifestyles.
+
+Since the Year of Climate Action was launched on 26 January 2018, more than a quarter million climate action pledges have been received. Of these, 221 are from educational institutions and 266 are from organisations, including NGOs
+
+Many initiatives have come out of this Year of Climate Action. Let me highlight a few. The National Youth Council (NYC) is organising a series of youth conversations throughout the year, and climate change is a key topic. Youths have shown keen interest in how they can contribute to climate action. The Singapore Scout Association has introduced a new Climate Action Programme, where Scouts earn Climate Action Ambassador Badges by initiating climate action activities and encouraging the community to do likewise. The Singapore Environment Council (SEC) has launched an EcoLifeSG app which helps users to calculate and track their carbon footprint. As part of UN Environment’s call to action on World Environment Day, City Developments Limited (CDL) and Global Initiatives (GI) launched a ‘live’ art installation at the Marina Barrage using discarded plastic bottles to raise awareness on the urgent need to reduce single-use plastics.
+
+Recently I went to the UN to present Singapore’s first Voluntary National Review (VNR) at the High-Level Political Forum on Sustainable Development. I shared that Singapore’s sustainable development is a Whole-of-Nation effort. Since our independence, we have balanced economic growth with environment protection and social inclusion. We have also taken a long-term approach towards policy implementation, based on collaborative multi-stakeholder partnerships. Our Year of Climate Action efforts is a good example of how we have come together as a nation to fight climate change and ensure sustainable development.
+
+We will continue to work with stakeholders to promote climate action messagesin the second half of the year. The recent Partners for the Environment Forum on 10 July 2018 was themed “Accelerating Action on Climate Change”, and gathered more than 260 participants to discuss how to better collaborate on climate action. A Climate Action SG Alliance has been formed by 18 corporate, educational and civil society leaders to develop new climate action initiatives to rally the public. In the coming months, they will look at how to promote education in schools on waste minimisation, how to encourage businesses to be more environmentally sustainable, and how to educate the community on recycling right.
+
+Individuals, organisations and educational institutions that have taken the climate action pledge have taken an important step by making a public commitment of their plans. As organisations and institutions are at different stages of their climate action journey, they are able to craft their own pledges to commit to a realistic and achievable climate action plan that works for them. My Ministry will not be tracking the fulfilment of the pledges but will be happy to work with interested parties to support their plans. NEA offers a Climate Action SG Grant for NGOs and interest groups to fund projects that promote climate action messages, promote the 3Rs and energy conservation. Successful applicants receive a grant of up to $5,000. We have also supported organisations with good ideas to reach out to a wider audience. For example, we worked with PacificLight on their climate action-themed “Crea8 Sustainability” competitions for educational institutions. We encourage parties who have taken the climate action pledge to share their progress at suitable events so that there is mutual sharing and mutual encouragement as we all walk the sustainability journey together for the good of Singapore and the world.
+
+Source: [<a href="https://www.mewr.gov.sg/news/written-reply-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--to-parliamentary-question-on-climate-action--6-august-2018" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/written-reply-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--to-parliamentary-question-on-climate-action--6-august-2018)

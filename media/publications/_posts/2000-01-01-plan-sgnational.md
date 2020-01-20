@@ -10,12 +10,12 @@ Singapore ratified the United Nations Framework Convention on Climate Change (UN
 
 **Download:**
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf" target="_blank">[2018] Singapore's Fourth National Communication and Third Biennial Update (PDF, 7MB)</a>](https://www.nccs.gov.sg/docs/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf)
+* [<a href="/docs/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf" target="_blank">[2018] Singapore's Fourth National Communication and Third Biennial Update (PDF, 7MB)</a>](/docs/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf)
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/singapore-second-biennial-update-report-2016.pdf" target="_blank">[2016] Singapore's Second Biennial Update Report (PDF, 3MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/singapore-second-biennial-update-report-2016.pdf)
+* [<a href="/docs/default-source/default-document-library/singapore-second-biennial-update-report-2016.pdf" target="_blank">[2016] Singapore's Second Biennial Update Report (PDF, 3MB)</a>](/docs/default-source/default-document-library/singapore-second-biennial-update-report-2016.pdf)
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/singapores-third-national-communication-and-first-biennial-update-report.pdf" target="_blank">[2014] Singapore's Third National Communication and First Biennial Update (PDF, 3MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/singapores-third-national-communication-and-first-biennial-update-report.pdf)
+* [<a href="/docs/default-source/default-document-library/singapores-third-national-communication-and-first-biennial-update-report.pdf" target="_blank">[2014] Singapore's Third National Communication and First Biennial Update (PDF, 3MB)</a>](/docs/default-source/default-document-library/singapores-third-national-communication-and-first-biennial-update-report.pdf)
 
 * [<a href="https://www.nccs.gov.sg/docs/default-source/publications/singapores-second-national-communication.pdf" target="_blank">[2010] Singapore's Second National Communication (PDF, 3MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/singapores-second-national-communication.pdf)
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/singapores-initial-national-communication.pdf" target="_blank">[2000] Singapore's First National Communication (PDF, 2MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/singapores-initial-national-communication.pdf)
+* [<a href="/docs/default-source/default-document-library/singapores-initial-national-communication.pdf" target="_blank">[2000] Singapore's First National Communication (PDF, 2MB)</a>](/docs/default-source/default-document-library/singapores-initial-national-communication.pdf)

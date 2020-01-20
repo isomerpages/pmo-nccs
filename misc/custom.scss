@@ -502,8 +502,9 @@ h5 {
   text-transform: lowercase;
 }
 .navbar .navbar-item a {
-  font-size: 1rem !important;
-  text-transform: uppercase !important;
+  font-size: 0.9rem !important;
+  text-transform: uppercase !important
+  font-weight: 600;
 }
 .navbar .navbar-link {
   padding-right: 40px;
@@ -613,7 +614,7 @@ em {
   margin-bottom: 3rem;
 }
 #key-highlights .key-highlight-title {
-  text-transform: capitalize !important;
+  text-transform: uppercase !important;
 }
 .bp-hero-body {
   background: none;
@@ -657,4 +658,16 @@ a[href$=".pdf"] {
 }
 a[href$=".pdf"]:before {
   display: none;
+}
+
+@media (max-width: 1366px) {
+  .navbar .navbar-item a {
+    font-size: 0.8rem !important;
+  }
+}
+
+@media (max-width: 1280px) {
+  .navbar .navbar-item a {
+    font-size: 0.7rem !important;
+  }
 }

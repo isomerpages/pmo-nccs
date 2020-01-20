@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Climate Action Plan Take Action Today, for a Sustainable Future
+title: 'Climate Action Plan : Take Action Today, for a Sustainable Future'
 permalink: /media/publications/plan-actionplan
 ---
 
@@ -10,8 +10,8 @@ Singapore's *Climate Action Plan: Take Action Today, for a Sustainable Future* c
 
 **Download:**
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf" target="_blank">Take Action Today, for a Carbon-Efficient Singapore (PDF, 3MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf)
+* [<a href="/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf" target="_blank">Take Action Today, for a Carbon-Efficient Singapore (PDF, 3MB)</a>](/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf)
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf" target="_blank">A Climate-Resilient Singapore, for a Sustainable Future (PDF, 2MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf)
+* [<a href="/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf" target="_blank">A Climate-Resilient Singapore, for a Sustainable Future (PDF, 2MB)</a>](/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf)
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore-a-climate-resilient-singapore-for-a-sustainable-future-brochure.pdf" target="_blank">Brochure (PDF, 657KB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore-a-climate-resilient-singapore-for-a-sustainable-future-brochure.pdf)
+* [<a href="/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore-a-climate-resilient-singapore-for-a-sustainable-future-brochure.pdf" target="_blank">Brochure (PDF, 657KB)</a>](/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore-a-climate-resilient-singapore-for-a-sustainable-future-brochure.pdf)

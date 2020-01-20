@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Education Materials - Climate Change - How Can I Help?
+title:  'Education Materials : Climate Change : How Can I Help?'
 permalink: /media/publications/climate-help
 ---
 
@@ -11,4 +11,4 @@ This brochure provides useful day-to-day tips on how anyone can lend a helping h
 
 **Download:**
 
-* [<a href="https://www.nccs.gov.sg/docs/default-source/publications/climate-change-how-can-i-help.pdf" target="_blank">Brochure - Climate Change: How Can I Help? (PDF, 1MB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/climate-change-how-can-i-help.pdf)
+* [<a href="/docs/default-source/publications/climate-change-how-can-i-help.pdf" target="_blank">Brochure - Climate Change: How Can I Help? (PDF, 1MB)</a>](/docs/default-source/publications/climate-change-how-can-i-help.pdf)
