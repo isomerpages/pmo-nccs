@@ -9,7 +9,7 @@ The Earth's air, water and land are all linked to the climate. Any small increas
 
 According to the [<a href="http://www.ipcc.ch/" target="_blank">Intergovernmental Panel on Climate Change (IPCC)</a>](http://www.ipcc.ch/) Fifth Assessment Report (AR5), world temperatures could rise by between 0.3°C and 4.8°C this century, leading to an expected rise in sea levels between 0.26 m and 0.98 m. In Southeast Asia, the temperature is forecast to rise between 3°C and 5°C, with sea levels rising between 0.4 m and 0.6 m.
 
-![Global Impact of Climate Change](images/global-impact-of-climate-change.jpg "Global Impact of Climate Change")
+![Global Impact of Climate Change](/images/global-impact-of-climate-change.jpg "Global Impact of Climate Change")
 *Higher temperatures can lead to more ice and snow melting in the summer, leading to flash floods.*
 
 ### Global Consequences

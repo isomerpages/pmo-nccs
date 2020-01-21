@@ -11,18 +11,18 @@ sections:
         button: Read More
         url: /who-we-are/about-nccs
         key_highlights:
-            - title: Reducing Emissions
+            - title: Mitigation Efforts
               description: Reducing our carbon emissions in all sectors
-              url: /climate-change-and-singapore/reducing-emissions/
-            - title: Adapting Climate Change
+              url: /climate-change-and-singapore/mitigation-efforts/
+            - title: Adaption Efforts
               description: Adapting to the impact of climate change
               url: /climate-change-and-singapore/overview/adapting-overview/
             - title: Green Growth Opportunities
               description: Harnessing green growth opportunities
               url: /climate-change-and-singapore/overview/green-growth-opportunities/
-            - title: International Actions
+            - title: Singapore And International Efforts
               description: Forging international collaborations
-              url: /climate-change-and-singapore/international-efforts/
+              url: /climate-change-and-singapore/singapore-and-international-efforts/
     - infopic:
         image: /images/pps-banner.jpg
         alt: Members of the Ministry of ABC shaking hands

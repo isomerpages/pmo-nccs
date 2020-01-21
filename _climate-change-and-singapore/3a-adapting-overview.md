@@ -1,10 +1,10 @@
 ---
 title: Overview
 permalink: /climate-change-and-singapore/overview/adapting-overview
-third_nav_title: Adapting to Climate Change
+third_nav_title: Adaption Efforts
 ---
 
-### ADAPTING TO CLIMATE CHANGE
+### ADAPTING EFFOTRS
 
 Climate change affects Singapore's annual mean surface temperature, which has risen from 26.8°C in 1948 to 27.6°C in 2011. The daily rainfall totals and frequency of days with heavier rainfall have also risen.
 

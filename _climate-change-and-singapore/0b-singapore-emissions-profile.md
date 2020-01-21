@@ -14,7 +14,7 @@ Historically, our strategic position along the East-West trade routes has made S
 
 Singapore ranks 126th of 142 countries in terms of CO2 emissions per dollar GDP, based on International Energy Agency (IEA) data.
 
-![carbon-intensity](https://www.nccs.gov.sg/images/default-source/default-album/carbon-intensity.png "carbon-intensity")
+![carbon-intensity](/images/carbon-intensity.png "carbon-intensity")
 
 *Source: CO2 Emissions from Fuel Combustion - 2018 Highlights © OECD/International Energy Agency, 2018*
 
@@ -22,7 +22,7 @@ Singapore ranks 126th of 142 countries in terms of CO2 emissions per dollar GDP,
 
 Singapore ranks 27th out of 142 countries in terms of emissions per capita based on the latest IEA data.
 
-![per-capita](https://www.nccs.gov.sg/images/default-source/default-album/per-capita.png "per-capita")
+![per-capita](/images/per-capita.png "per-capita")
 
 *Source: CO2 Emissions from Fuel Combustion - 2018 Highlights © OECD/International Energy Agency, 2018*
 
@@ -30,6 +30,6 @@ Singapore ranks 27th out of 142 countries in terms of emissions per capita based
 
 Projecting from 2005, our business-as-usual (BAU) emissions are expected to reach 77.2 million tonnes (MT) in 2020.
 
-![Projected 2020 Business-As-Usual Greenhouse Gas Emissions](https://www.nccs.gov.sg/images/default-source/default-album/projected-2020-business-as-usual-greenhouse-gas-emissions.gif "Projected 2020 Business-As-Usual Greenhouse Gas Emissions")
+![Projected 2020 Business-As-Usual Greenhouse Gas Emissions](/images/projected-2020-business-as-usual-greenhouse-gas-emissions.gif "Projected 2020 Business-As-Usual Greenhouse Gas Emissions")
 
 Source: [<a href="/pdf/national-climate-change-strategy.pdf" target="_blank">Climate Change & Singapore: Challenges. Opportunities. Partnerships</a>](/pdf/national-climate-change-strategy.pdf)
