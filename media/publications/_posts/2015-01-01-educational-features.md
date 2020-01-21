@@ -7,6 +7,8 @@ permalink: /media/publications/educational-features
 
 ### EDUCATIONAL FEATURES
 
+![Educational Features](/images/education-features.jpg "Educational Features"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
+
 This 4-part series produced by NCCS is aimed at raising awareness of climate change among youths in Singapore. Targeted at secondary school students, the features are designed to complement what students are taught in school about climate change, by presenting climate change in Singapore’s context and getting students to be aware of what the Singapore government is doing to address climate change.
 
 **Download:**
