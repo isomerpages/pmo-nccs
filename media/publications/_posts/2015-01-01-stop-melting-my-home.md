@@ -7,7 +7,7 @@ permalink: /media/publications/stop-melting-my-home
 
 ### STOP MELTING MY HOME
 
-<a href="/images/stop-melting-my-home.jpg" target="_blank"> ![Stop Melting My Home](/images/stop-melting-my-home.jpg "Stop Melting My Home")</a>
+![Stop Melting My Home](/images/stop-melting-my-home.jpg "Stop Melting My Home"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 
 Stop *Melting My Home* is an educational drama programme to raise awareness and to encourage individual action on climate change among primary school students. Supplementary materials were distributed to schools to support the programme.
 

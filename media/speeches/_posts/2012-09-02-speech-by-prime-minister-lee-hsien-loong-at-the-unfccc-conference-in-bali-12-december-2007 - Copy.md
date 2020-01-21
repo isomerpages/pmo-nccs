@@ -1,21 +1,22 @@
 ---
 layout: post
-title: Singapore G1 attracts more than 20,000 participants in republic’s largest known green walkathon
+title: singapore G1 Attracts More Then 200,000 Participants In Republics Largest known Green Walkathon
 subtitle: 2 Sep 2012
-permalink: /media/press-release/singapore-g1-attracts-more-than-20-000-participants-in-republic-s-largest-known-green-walkathon
+permalink: /media/speeches/singapore-g1-attracts-more-than-20-000-participants-in-republic-s-largest-known-green-walkathon
 ---
 
 ### SINGAPORE G1 ATTRACTS MORE THAN 20,000 PARTICIPANTS IN REPUBLIC’S LARGEST KNOWN GREEN WALKATHON
 
 *DPM Teo Chee Hean launches “Our Green Home” nationwide roving climate change exhibition*
 
-**Singapore, 2 September 2012** – Singapore’s largest environmentally-sustainable lifestyle event, Singapore G1 2012, attracted more than 20,000 people to the Marina Barrage today, making it Singapore’s biggest ever walk-for-green event known to date with its record participation numbers.
+**Singapore, 2 September 2012** - Singapore’s largest environmentally-sustainable lifestyle event, Singapore G1 2012, attracted more than 20,000 people to the Marina Barrage today, making it Singapore’s biggest ever walk-for-green event known to date with its record participation numbers.
 
 Organised by the Singapore Environment Council (SEC), the Singapore G1 2012 was officiated by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs and Chairman of the Inter-Ministerial Committee on Climate Change (IMCCC). At the event, DPM Teo also launched the climate change exhibition, “Our Green Home”, organised by the National Climate Change Secretariat (NCCS).The event brought together partners from People, Public and Private (3P) sectors.
 
 DPM Teo said, “Addressing climate change well will contribute to Singapore's continued competitiveness and sustained growth, and help provide a good living environment for everyone. It requires a whole-of-nation approach, with active participation by businesses, households and people, working hand-in-hand with the Government. As the climate change exhibition travels to various parts of Singapore, we hope that it will inspire more people to take steps to address climate change as part of our daily lives.”
 
-The exhibition by NCCS, “Our Green Home”, provides information on Singapore’s climate change plans, highlights the opportunities arising from climate change and the importance of individual and community actions to address climate change. The exhibition incorporates a Partnership Corner where selected People, Public and Private (3P) sector partners will showcase their initiatives and projects as examples of the diverse ground-up efforts on climate change. Following the launch, the NCCS-2012 exhibition will rove to selected libraries, community clubs and shopping malls in the heartlands, from September 2012 to January 2013. Please refer to the factsheet at [<a href="/docs/default-source/default-document-library/exhibition_annex_a.pdf" target="_blank">Annex A </a>](/docs/default-source/default-document-library/exhibition_annex_a.pdf) for more information on the NCCS-2012 exhibition. Information updates are also available on the event Facebook page, [<a href="https://www.facebook.com/ClimateChangeSG/" target="_blank">www.facebook.com/climatechangeSG</a>](https://www.facebook.com/ClimateChangeSG/).
+The exhibition by NCCS, “Our Green Home”, provides information on Singapore’s climate change plans, highlights the opportunities arising from climate change and the importance of individual and community actions to address climate change. The exhibition incorporates a Partnership Corner where selected People, Public and Private (3P) sector partners will showcase their initiatives and projects as examples of the diverse ground-up efforts on climate change. Following the launch, the NCCS-2012 exhibition will rove to selected libraries, community clubs and shopping malls in the heartlands, from September 2012 to January 2013. Please refer to the factsheet at [<a href="/docs/default-source/default-document-library/exhibition_annex_a.pdf" target="_blank">Annex A</a>](/docs/default-source/default-document-library/exhibition_annex_a.pdf) for more information on the NCCS-2012 exhibition. Information updates are also available on the event Facebook page,
+[<a href="https://www.facebook.com/ClimateChangeSG/" target="_blank">www.facebook.com/climatechangeSG</a>](https://www.facebook.com/ClimateChangeSG/)
 
 **Singapore G1 2012**
 
@@ -33,4 +34,4 @@ A smartphone application was also developed in partnership with A*Star SIMTECH, 
 
 The public also had the opportunity to try out the new Nissan LEAF at the Marina Barrage. It is the world’s first mass-produced 100 per cent electric vehicle, which does not produce any tailpipe pollution or greenhouse gas emissions during operation. The vehicle served as the environmentally-friendly transport ambassador for the event. This was made possible by Tan Chong Motor Sales’ support of SEC’s objectives to create a lasting impact on climate change by collaborating with people, industries and governments to encourage and achieve sustainable urbanisation.
 
-Jointly issued by the [<a href="http://sec.org.sg/" target="_blank">Singapore Environment Council</a>](http://sec.org.sg/)and the National Climate Change Secretariat
+Jointly issued by the [<a href="http://sec.org.sg/" target="_blank">Singapore Environment Council</a>](http://sec.org.sg/) and the National Climate Change Secretariat

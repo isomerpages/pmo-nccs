@@ -7,6 +7,8 @@ permalink: /media/publications/climate-change-sg-infographics
 
 ### CLIMATE CHANGE SG INFOGRAPHICS
 
+![Climate Change SG Infographics](/images/climate-change-sg-infographics.jpg "Climate Change SG Infographics"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
+
 These easy-to-understand infographics were produced for the Climate Change SG Facebook page in 2015.
 
 **Download:**
