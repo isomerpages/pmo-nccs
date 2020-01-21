@@ -25,7 +25,7 @@ We do not have geothermal energy sources.
 Our small physical size (715.8 sq km), high population density and land scarcity limits our potential for sustainably-grown domestic biomass. It also constraints the safe deployment of nuclear power in Singapore.
 
 
-![Singapore's Approach to Alternative Energy](https://www.nccs.gov.sg/images/default-source/default-album/singapores-approach-to-alternative-energy.jpg "Singapore's Approach to Alternative Energy")
+![Singapore's Approach to Alternative Energy](/images/singapores-approach-to-alternative-energy.jpg "Singapore's Approach to Alternative Energy")
 *Solar panels at Marina Barrage. (Image courtesy of PUB, Singapore's national water agency)*
 
 Singapore's high average annual solar irradiation of about 1,500 kWh/m2 makes solar photovoltaic (PV) a potential renewable energy option for Singapore. However, we face challenges to the use of solar energy in Singapore. We have limited available land for the large scale deployment of solar panels. In addition, the presence of high cloud cover across Singapore and urban shading poses challenges such as intermittency.

@@ -1,7 +1,7 @@
 ---
 title: Energy Efficiency
 permalink: /climate-change-and-singapore/energy-efficiency/
-third_nav_title: Reducing Emissions
+third_nav_title: Mitigation Efforts
 ---
 
 ### ENERGY EFFICIENCY

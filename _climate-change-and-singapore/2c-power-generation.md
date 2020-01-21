@@ -1,7 +1,7 @@
 ---
 title: Power Generation
 permalink: /climate-change-and-singapore/power-generation/
-third_nav_title: Reducing Emissions
+third_nav_title: Mitigation Efforts
 ---
 
 ### POWER GENERATION
