@@ -8,25 +8,18 @@ permalink: /media/speeches/speech-by-ms-grace-fu-minister-prime-minister-s-offic
 ### SPEECH BY MS GRACE FU, MINISTER, PRIME MINISTER’S OFFICE, SECOND MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES & SECOND MINISTER FOR FOREIGN AFFAIRS, AT THE OPENING OF THE SINGAPORE GREEN BUILDING WEEK, IGBC AND BEX ASIA 2012
 
 Mr Quek See Tiat
-
 Chairman
-
 Building and Construction Authority
 
 Mr Tai Lee Siang
-
 President
-
 Singapore Green Building Council
 
 Mr Paul Reh
-
 President, Asia Pacific
-
 Reed Exhibitions
 
 Distinguished guests
-
 Ladies and gentlemen
 
 1. A very good morning to all of you and it is indeed my very great pleasure to return to International Green Building Conference, having attended the first one in Singapore in 2009. It is certainly good to be back.
