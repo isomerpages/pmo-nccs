@@ -49,4 +49,4 @@ To assist car buyers make informed decisions, the CO2/km performance data for ea
 
 <sup>3</sup>CEVS rebate is subject to a minimum ARF payable of $5,000, as cars that have relatively low ARF payable and are already fuel-efficient do not need to be further incentivised.
 
-Source: [<a href="https://www.lta.gov.sg/content/ltagov/en/newsroom.html?c=2&id=89ik82edclld4440jkx9761veiy5lgzhpgg3aq345d4p7ca5di#year-filter:path=default|mth-filter:path=default|paging:currentPage=0|paging:number=7" target="_blank">Land Transport Authority</a>](https://www.lta.gov.sg/content/ltagov/en/newsroom.html?c=2&id=89ik82edclld4440jkx9761veiy5lgzhpgg3aq345d4p7ca5di#year-filter:path=default|mth-filter:path=default|paging:currentPage=0|paging:number=7)
+[<a href="https://www.lta.gov.sg/content/ltagov/en/newsroom.html" target="_blank">Land Transport Authority</a>](https://www.lta.gov.sg/content/ltagov/en/newsroom.html)

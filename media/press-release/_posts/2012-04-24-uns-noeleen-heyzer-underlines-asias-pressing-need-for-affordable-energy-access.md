@@ -25,4 +25,4 @@ In conjunction with the lecture, EMA also launched a specially-commissioned publ
 
 The DSP is part of EMA's calendar of programmes aimed at forging a progressive energy landscape for sustainable growth. Together with the flagship Singapore International Energy Week (SIEW), which takes place from 22-25 October this year, the DSP provides a platform for the industry's best minds to debate and exchange best practices, ideas and strategies within the energy space, contributing to the global effort of shaping a new energy landscape.
 
-Source: [<a href="https://www.ema.gov.sg/media_release.aspx?news_sid=20140609VW9Adp8J911d" target="_blank">CleEnergy Market AuthorityanTech</a>](https://www.ema.gov.sg/media_release.aspx?news_sid=20140609VW9Adp8J911d)
+Source: [<a href="https://www.ema.gov.sg/media_release.aspx?news_sid=20140609VW9Adp8J911d" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/media_release.aspx?news_sid=20140609VW9Adp8J911d)
