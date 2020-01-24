@@ -23,4 +23,4 @@ In his speech at the event, DPM Teo highlighted the growth opportunities for Sin
 
 More details on the climate change exhibition are at [<a href="/docs/default-source/news-documents/nccc2013_press_release_annex_b.pdf" target="_blank">Annex B</a>](/docs/default-source/news-documents/nccc2013_press_release_annex_b.pdf).
 
-Issued by the [<a href="https://pmo-nccs-stag.netlify.com/" target="_blank">National Climate Change Secretariat</a>](https://pmo-nccs-stag.netlify.com/)
+Issued by the [<a href="https://www.nccs.gov.sg/" target="_blank">National Climate Change Secretariat</a>](https://www.nccs.gov.sg/)

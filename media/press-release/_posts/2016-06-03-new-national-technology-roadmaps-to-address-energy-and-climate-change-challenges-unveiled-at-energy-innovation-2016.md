@@ -38,7 +38,7 @@ ___
 
 **About the National Climate Change Secretariat**
 
-The NCCS was set up as a dedicated agency under the Prime Minister’s Office on 1 July 2010 to coordinate Singapore’s domestic and international policies, plans and actions on climate change so as to secure a sustainable living environment for our future generations. NCCS will achieve this by adopting a Whole-of-Government approach and working with the People and Private sectors to devise and implement cost-effective mitigation and adaptation solutions, reap the opportunities arising from addressing climate change challenges and contribute towards global efforts to address climate change. For more information, please visit [<a href="https://pmo-nccs-stag.netlify.com" target="_blank">pmo-nccs-stag.netlify.com.</a>](https://pmo-nccs-stag.netlify.com)
+The NCCS was set up as a dedicated agency under the Prime Minister’s Office on 1 July 2010 to coordinate Singapore’s domestic and international policies, plans and actions on climate change so as to secure a sustainable living environment for our future generations. NCCS will achieve this by adopting a Whole-of-Government approach and working with the People and Private sectors to devise and implement cost-effective mitigation and adaptation solutions, reap the opportunities arising from addressing climate change challenges and contribute towards global efforts to address climate change. For more information, please visit [<a href="https://www.nccs.gov.sg/" target="_blank">www.nccs.gov.sg.</a>](https://www.nccs.gov.sg/)
 
 **National Research Foundation, Prime Minister’s Office, Singapore**
 

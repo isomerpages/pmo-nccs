@@ -7,7 +7,7 @@ permalink: /media/press-release/minister-vivian-balakrishnan-attends-the-high-le
 
 ### MINISTER VIVIAN BALAKRISHNAN ATTENDS THE HIGH-LEVEL SEGMENT OF THE UN CLIMATE CHANGE CONFERENCE IN LIMA, PERU
 
-**Singapore's carbon intensity has decreased 30 per cent from 2000 to 2010**
+***Singapore's carbon intensity has decreased 30 per cent from 2000 to 2010***
 
 Dr Vivian Balakrishnan, Minister for the Environment and Water Resources, is attending the High-Level Segment of the United Nations Climate Change Conference* in Lima, Peru from 9 to 12 December 2014. 
 
@@ -20,4 +20,5 @@ Minister Balakrishnan also emphasised Singapore's commitment to support the mult
 **The Conference is a joint session of the 20th Session of the Conference of the Parties to the United National Framework Convention on Climate Change (COP 20), the 10th Session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP10) and relevant subsidiary bodies.*
 
 Ministry of the Environment and Water Resources
+
 National Climate Change Secretariat

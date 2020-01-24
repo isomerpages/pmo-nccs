@@ -11,7 +11,7 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 
 **Chairman**
 
-* Mr **Teo Chee Hean**, Senior Minister and Coordinating Minister for National Security
+* **Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security**
 
 **Members**
 
@@ -33,7 +33,7 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 
 **Chairman**
 
-* Mr **Leo Yip**, Head Civil Service, Permanent Secretary (Prime Minister's Office)(Strategy)
+* **Mr Leo Yip, Head Civil Service, Permanent Secretary (Prime Minister's Office)(Strategy)**
 
 **Members**
 
@@ -58,7 +58,7 @@ The International Negotiations Working Group (INWG) develops Singapore's interna
 
 **Chairman**
 
-* BG (NS) **Chee Wee Kiong**, Permanent Secretary (Foreign Affairs)
+* **(NS) Chee Wee Kiong, Permanent Secretary (Foreign Affairs)**
 
 **Members**
 
@@ -84,8 +84,9 @@ The Long Term Emissions and Mitigation Working Group (LWG) studies how Singapore
 
 **Co-Chairmen**
 
-* Mr **Leo Yip**, Head Civil Service, Permanent Secretary (Prime Minister's Office)(Strategy)
-* Mr **Gabriel Lim**, Permanent Secretary (Trade and Industry)
+* **Mr Leo Yip, Head Civil Service, Permanent Secretary (Prime Minister's Office)(Strategy)**
+
+* **Mr Gabriel Lim, Permanent Secretary (Trade and Industry)**
 
 **Members**
 
@@ -117,8 +118,9 @@ The Resilience Working Group (RWG) studies Singapore's vulnerability to the effe
 
 **Co-Chairmen** 
 
-* Mrs **Ow Foong Pheng**, Permanent Secretary (National Development)
-* Mr **Albert Chua**, Permanent Secretary (Environment and Water Resources)
+* **Mrs Ow Foong Pheng, Permanent Secretary (National Development)**
+
+* **Mr Albert Chua, Permanent Secretary (Environment and Water Resources)**
 
 **Members**
 

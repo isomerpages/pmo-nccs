@@ -61,7 +61,7 @@ Cash prizes will be awarded to winners of the Short Film Challenge and the Techn
 
 3rd prize: $500
 
-###TECHNOLOGY PROJECT CHALLENGE
+### TECHNOLOGY PROJECT CHALLENGE
 
 **Tertiary Institutions**
 

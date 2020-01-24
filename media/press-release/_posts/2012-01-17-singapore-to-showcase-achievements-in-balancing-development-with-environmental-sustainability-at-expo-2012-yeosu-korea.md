@@ -46,4 +46,4 @@ More information on Expo 2012 Yeosu Korea can be found at [<a href="http://eng.e
 * Ministry of Transport
 * Maritime and Port Authority of Singapore
 
-Source: [<a href="https://www.mewr.gov.sg/news/singapore-to-showcase-achievements-in-balancing-development-with-environmental-sustainability-at-expo-2012-yeosu-korea" target="_blank">Ministry of the Environment and Water Resources</a>](http://www.jtc.gov.sg/industrial-land-and-space/Pages/cleantech-park.aspx)https://www.mewr.gov.sg/news/singapore-to-showcase-achievements-in-balancing-development-with-environmental-sustainability-at-expo-2012-yeosu-korea
+Source: [<a href="https://www.mewr.gov.sg/news/singapore-to-showcase-achievements-in-balancing-development-with-environmental-sustainability-at-expo-2012-yeosu-korea" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/singapore-to-showcase-achievements-in-balancing-development-with-environmental-sustainability-at-expo-2012-yeosu-korea)
