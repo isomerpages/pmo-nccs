@@ -7,8 +7,7 @@ permalink: /media/speeches/transcript-of-media-interview-with-prime-minister-lee
 
 ### TRANSCRIPT OF MEDIA INTERVIEW WITH PRIME MINISTER LEE HSIEN LOONG, SENIOR MINISTER S JAYAKUMAR, AND MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES YAACOB IBRAHIM IN COPENHAGEN, DENMARK, 20 DECEMBER 2009
 
-**Question 1**: Prime Minister, could you tell us what your reaction is to the progress?
-
+**Question 1**: Prime Minister, could you tell us what your reaction is to the progress?  
 **Prime Minister Lee**: We are disappointed with the outcome so far.
 
 This is a very difficult negotiation because we are dealing with a problem which is very long term - maybe decades, maybe beyond 100 years. And we are having to contemplate actions on a very long-term basis. What you do now is not going to show results before the next elections, not even after the next three elections. For governments to weigh these very far-off risks with the very far-off commitments that are involved is very difficult.
@@ -45,7 +44,7 @@ Our offer stands. Whether or not there is an agreement, we will start to do part
 
 There may have to be fiscal measures because if you look at other countries, either they have gone for cap-and-trade or they are thinking of some kind of a carbon tax. We would have to contemplate these too. And if we do them, then we will also need incentives and counterbalancing measures to buffer the impact on households and companies.
 
-We have to plan and consider all these possibilities now. Whether we do them, when we do them, how we phase them in, it depends on what the final outcome will be, whether there is a new treaty.
+We have to plan and consider all these possibilities now. Whether we do them, when we do them,how we phase them in, it depends on what the final outcome will be, whether there is a new treaty.
 
 **Question 4**: PM, you mentioned you were disappointed with the outcome. What is the most disappointing?
 

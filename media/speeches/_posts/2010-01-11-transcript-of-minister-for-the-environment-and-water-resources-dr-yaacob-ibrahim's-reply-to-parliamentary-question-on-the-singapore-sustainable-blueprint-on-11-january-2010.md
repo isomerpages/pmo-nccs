@@ -7,11 +7,10 @@ permalink: /media/speeches/transcript-of-minister-for-the-environment-and-water-
 
 ### TRANSCRIPT OF MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM'S REPLY TO PARLIAMENTARY QUESTION ON THE SINGAPORE SUSTAINABLE BLUEPRINT ON 11 JANUARY 2010
 
-#### ORAL ANSWERS TO QUESTIONS FOR THE PARLIAMENT SITTING ON 11 JANUARY 2010
-
+#### ORAL ANSWERS TO QUESTIONS FOR THE PARLIAMENT SITTING ON 11 JANUARY 2010  
 **Title: Singapore's Sustainable Development (update on blueprint)**
 
-3. **Mrs Mildred Tan** asked the Minister for the Environment and Water Resources (a) if he will give an update on the $1 billion blueprint for Singapore's sustainable development that was unveiled in April 2009, in particular the incentives for greener options such as electric cars and solar energy; and (b) whether his Ministry has any future plans or undertaken any measures to stimulate green businesses in Singapore.
+1.**Mrs Mildred Tan** asked the Minister for the Environment and Water Resources (a) if he will give an update on the $1 billion blueprint for Singapore's sustainable development that was unveiled in April 2009, in particular the incentives for greener options such as electric cars and solar energy; and (b) whether his Ministry has any future plans or undertaken any measures to stimulate green businesses in Singapore.
 
 **Dr Yaacob Ibrahim**: Sir, the Sustainable Singapore Blueprint is a comprehensive plan to improve resource efficiency, enhance our environment, develop capabilities and build an environmentally responsible community. We will adopt a multi-pronged approach to achieve these goals, including public education, incentives and legislation.
 

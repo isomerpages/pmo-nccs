@@ -35,7 +35,7 @@ We also made difficult choices in the transport sector. We successfully implemen
 
 These were early and decisive measures to support sustainable development. We made these difficult choices because we believe they are the right things to do – for ourselves, and for the world. So that Singaporeans can commute conveniently, and not fume away in endless traffic jams. So that Singaporeans can enjoy a clean and green living environment. So that we can have fresh air all year round, and do not ourselves pollute the air that we breathe. So that we do not create environmental problems for other countries and the world.
 
-Indeed, our early actions have allowed Singapore to achieve one of the lowest greenhouse Emissions Intensities in the world<sup>[1]</sup>. And even though we only account for 0.11 per cent of global emissions, we will continue to do our part as a responsible global citizen. In July, Singapore submitted our new climate pledge to the UNFCCC.  We committed to reduce our Emissions Intensity further, by 36 per cent from 2005 levels by 2030.  We will also stabilise our greenhouse gas emissions and aim to peak around 2030.  This is an ambitious target given that we have already taken many measures early, to achieve our current low emissions intensity level.
+Indeed, our early actions have allowed Singapore to achieve one of the lowest greenhouse Emissions Intensities in the world[1]. And even though we only account for 0.11 per cent of global emissions, we will continue to do our part as a responsible global citizen. In July, Singapore submitted our new climate pledge to the UNFCCC.  We committed to reduce our Emissions Intensity further, by 36 per cent from 2005 levels by 2030.  We will also stabilise our greenhouse gas emissions and aim to peak around 2030.  This is an ambitious target given that we have already taken many measures early, to achieve our current low emissions intensity level.
 
 **A Role for Everyone: Our Climate, Our Choice**
 
@@ -49,4 +49,4 @@ Once again, congratulations to all our winners. Thank you.
 
 ___
 
-[1]  According to the IEA Key World Energy Statistics 2014, Singapore’s emissions intensity is ranked 113th out of 140 countries[1] globally, i.e. among the best 20 per cent of countries.
+[1]  According to the IEA Key World Energy Statistics 2014, Singapore’s emissions intensity is ranked 113<sup>th</sup> out of 140 countries[1] globally, i.e. among the best 20 per cent of countries.

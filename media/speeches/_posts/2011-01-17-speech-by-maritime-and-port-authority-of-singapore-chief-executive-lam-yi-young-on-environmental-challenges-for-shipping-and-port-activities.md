@@ -135,4 +135,6 @@ MPA, as Singapore's maritime administrator and port authority, is committed to, 
 
 On that note, thank you very much for your attention and I wish you an enjoyable and fruitful afternoon.
 
-Source: [<a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/53c43621-0c27-4b98-b598-c7dedea7d943" target="_blank">The Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/53c43621-0c27-4b98-b598-c7dedea7d943)
+
+
+*Source*: [<a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/53c43621-0c27-4b98-b598-c7dedea7d943" target="_blank">The Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/53c43621-0c27-4b98-b598-c7dedea7d943)

@@ -1,6 +1,6 @@
 ---
 title: About NCCS
-permalink: /faqs/
+permalink: /faqs/about-nccs/
 ---
 
 ### ABOUT NCCS

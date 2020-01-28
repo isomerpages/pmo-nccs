@@ -9,17 +9,15 @@ permalink: /media/speeches/address-by-prime-minister-lee-hsien-loong-at-the-2010
 
 <a href="/images/address-by-prime-minister-lee-hsien-loong.jpg" target="_blank"> ![Address by Prime Minister Lee Hsien Loong](/images/address-by-prime-minister-lee-hsien-loong.jpg "Address by Prime Minister Lee Hsien Loong")</a>
 
-Excellencies,
-
-Distinguished guests,
-
+Excellencies,  
+Distinguished guests,  
 Ladies and gentlemen.
 
 I am very happy to join you this morning for the 3rd Singapore International Energy Week. This year’s event has attracted the largest ever participation from the region and beyond and this strong turnout reflects the growing priority that all countries are placing on energy issues today.
 
 We consume energy in the course of almost all parts of our daily lives. It makes possible the way we live, work, play and travel. And ever since the Industrial Revolution and especially over the past century, mankind has relied on cheap supplies of fossil fuels to drive economic progress. But this dependence will be very difficult to be sustained.
 
-There are two sets of concerns. First, fossil fuel resources are finite and depleting. Easily tapped supplies will gradually diminish and then the next supplies will become more expensive; in more inaccessible areas, deeper under the ocean, with new complex technologies involved in extracting the fossil fuels. The concentration of oil and gas supplies in just a few countries also raises serious national security concerns.
+There are two sets of concerns. First, fossil fuel resources are finite and depleting. Easily tapped supplies will gradually diminish and then the next supplies will become more expensive;in more inaccessible areas, deeper under the ocean, with new complex technologies involved in extracting the fossil fuels. The concentration of oil and gas supplies in just a few countries also raises serious national security concerns.
 
 On the demand side, demand is going up sharply. China, India and other rapidly growing economies have rising energy needs and although they may be using energy more efficiently, their growing appetite for more power as a result of rapid economic growth far outpaces any efficiency gains.
 
@@ -110,5 +108,7 @@ So what do these all mean for Singapore? The future world is likely to be fossil
 But I am confident that we can make these changes and progress to a smart energy economy because we are small, compact and we can organize ourselves well and undertake rational policies on a very long term basis so as to get to the right phase over the horizon. The choices we make will affect not just our generation but the next generation and generations to come. But with far sighted planning and creative implementation, we can keep Singapore both economically vibrant and environmentally sustainable and build Singapore into one of the most livable cities in the world. Clean, green, safe and efficient now and for a long time into the future.
 
 Thank you very much.
+
+
 
 Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609ZronVlD5w6is" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609ZronVlD5w6is)

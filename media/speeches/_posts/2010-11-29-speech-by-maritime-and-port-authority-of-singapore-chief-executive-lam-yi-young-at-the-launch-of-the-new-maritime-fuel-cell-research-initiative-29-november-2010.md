@@ -7,8 +7,7 @@ permalink: /media/speeches/speech-by-maritime-and-port-authority-of-singapore-ch
 
 ### SPEECH BY MARITIME AND PORT AUTHORITY OF SINGAPORE CHIEF EXECUTIVE LAM YI YOUNG AT THE LAUNCH OF THE NEW MARITIME FUEL CELL RESEARCH INITIATIVE BETWEEN MPA AND TEMASEK POLYTECHNIC, 29 NOVEMBER 2010
 
-Mr Boo Kheng Hua
-
+Mr Boo Kheng Hua  
 Principal & CEO, Temasek Polytechnic
 
 Distinguished guests,
@@ -29,12 +28,13 @@ I am pleased to note that two fuel cell research and test-bedding projects have 
 
 I would like to take this opportunity to encourage more industry players to partner with Temasek Polytechnics to come up with innovative ideas and projects that will provide useful solutions to address the various operational and environmental challenges faced by the maritime community.
 
-**Conclusion**
-
+Conclusion  
 As a major flag registry and the world's busiest port, Singapore is strongly committed to environmentally-friendly shipping and port activities. MPA will continue in our efforts to promote maritime R&D and adopt green technologies that will help the maritime industry in contributing towards a cleaner and greener environment.
 
 All these cannot be achieved without the commitment and support from all partners and stakeholders in the maritime industry. I look forward to more partnerships with Temasek Polytechnic in the future, and on this note, I wish you a pleasant afternoon ahead.
 
 Thank you.
+
+
 
 Source: [<a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/ea51dfba-7082-4b16-a181-9744f05a1f4f" target="_blank">Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/ea51dfba-7082-4b16-a181-9744f05a1f4f)

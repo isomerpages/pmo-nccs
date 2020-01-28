@@ -39,25 +39,37 @@ At the same time, we are taking timely and concrete steps to protect ourselves a
 
 We are happy to note that the Global Climate Action 2018 report prepared by the UNFCCC Secretariat for the Talanoa Dialogue has recognised Singapore’s cost-effective and efficient integrated water management approach as a good practice. We hope that these efforts, apart from strengthening our climate resilience, will be seen as part of our contribution to the global goal on adaptation.
 
+**ASEAN’s Climate Action Response**
+
+As the Chair of ASEAN and the ASEAN Working Group on Climate Change, Singapore has worked to make climate change a priority for the region. At the recently-concluded 33rd ASEAN Summit in Singapore, ASEAN Leaders adopted the ASEAN Joint Statement on Climate Change, where they reaffirmed the region’s commitment to the UNFCCC process and the Paris Agreement.
+
+Singapore also convened the Special ASEAN Ministerial Meeting on Climate Action (SAMCA) and the expanded SAMCA in July, where ASEAN and China, Japan and the Republic of Korea reaffirmed the region’s commitment to the Paris Agreement, and discussed ways to step up regional action to address climate change. A summary of our discussions has been submitted as input to the Talanoa Dialogue.
+
+We also launched the ASEAN Smart Cities Network (ASCN), a collaborative platform for cities in ASEAN to work towards the goal of smart and sustainable urban development. 26 cities from all 10 ASEAN countries have been named as pilot cities and are developing concrete action plans to grow sustainably. Mayors and governors from ASEAN capitals also signed the Singapore Declaration on Environmental Sustainability on 7 July 2018 in Singapore. Cities and actors at the local level in ASEAN are committed to taking practical ground actions to address climate change and achieve sustainable development. 
+
+Singapore is also supporting the Southeast Asia Disaster Risk Insurance Facility (SEADRIF), which will be ASEAN’s first regional catastrophe risk pool. The SEADRIF will be set up in Singapore by 2019 to address the rising natural catastrophe protection gap in the region.
+
+ASEAN is making real progress. At the ASEAN Energy Ministers’ meeting in Singapore on 29 October 2018, it was announced that ASEAN has exceeded itsenergy efficiency target, reducing energy intensity by more than 20% in 2016 compared to 2005 levels, well ahead of its 2020 target.[4]  But we are not resting on our laurels. ASEAN has signed an MOU with IRENA in October to scale up renewable deployment further. ASEAN will continue with our efforts to implement the Paris Agreement and the 2030 Agenda for Sustainable Development.
+
 **Working with the International Community**
 
 Internationally, Singapore is a keen advocate of a multilateral, rules-based approach to addressing climate change. Singapore was one of the first 55 countries to ratify the Paris Agreement, contributing to its early entry into force. Singapore is also doing our part to support the efforts of fellow developing countries to address climate change and be more climate resilient. Approximately 123,000 officials from 170 countries have benefited from the capacity building programmes run under the Singapore Cooperation Programme in areas such as disaster management, education, health, water, and human resource management. To build on this, Singapore launched a Climate Action Package in July to help fellow developing countries build capacity in areas such as climate change adaptation strategies, disaster risk management and green climate financing. To enhance regional resilience capabilities, Singapore hosts the ASEAN Specialised Meteorological Centre (ASMC). The Centre launched a Regional Capability Building Programme in 2018 to build capabilities in the formulation of national adaptation plans.
 
-Mr President, the Paris Agreement was a hard-fought agreement forged through the unity of purpose of all Parties. We must leave Katowice with a credible, durable and pragmatic rulebook that enables all Parties to implement the Paris Agreement in good faith. Allow me to close by recalling the words of former UN Secretary General and a key champion of the Paris Agreement Mr Ban Ki-moon, “Climate change is a global challenge demanding global solutions. No one country can face it alone, no matter that nation’s political, economic or military might. From the richest to the poorest, we all share one planet, and we all have a stake in its survival.” [5]
+Mr President, the Paris Agreement was a hard-fought agreement forged through the unity of purpose of all Parties. We must leave Katowice with a credible, durable and pragmatic rulebook that enables all Parties to implement the Paris Agreement in good faith. Allow me to close by recalling the words of former UN Secretary General and a key champion of the Paris Agreement Mr Ban Ki-moon, “Climate change is a global challenge demanding global solutions. No one country can face it alone, no matter that nation’s political, economic or military might. From the richest to the poorest, we all share one planet, and we all have a stake in its survival.” <sup>[5]</sup>
 
 Thank you, Mr President.
 
 ___
 
-*[1] Parties’ climate pledges under the Paris Agreement are referred to as Nationally Determined Contributions (NDCs).*
+<sup>[1]</sup> Parties’ climate pledges under the Paris Agreement are referred to as Nationally Determined Contributions (NDCs).
 
-*[2] Singapore’s NDC aims to reduce the country’s greenhouse gas emissions intensity by 36 per cent from 2005 levels by 2030, and stabilise emissions with the aim of peaking around 2030.*
+<sup>[2]</sup> Singapore’s NDC aims to reduce the country’s greenhouse gas emissions intensity by 36 per cent from 2005 levels by 2030, and stabilise emissions with the aim of peaking around 2030.
 
-*[3] This includes more than 500 pledges from businesses, close to 40 pledges from NGOs and more than 300 pledges from educational institutions.*
+<sup>[3]</sup> This includes more than 500 pledges from businesses, close to 40 pledges from NGOs and more than 300 pledges from educational institutions.
 
-*[4] The ASEAN Plan of Action for Energy Cooperation 2016-2025, among other objectives, seeks to reduce energy intensity in the ASEAN region by 20 per cent from 2005 levels by 2020, and to increase the component of renewable energy in the ASEAN energy mix to 23 per cent by 2025.*
+<sup>[4]</sup> The ASEAN Plan of Action for Energy Cooperation 2016-2025, among other objectives, seeks to reduce energy intensity in the ASEAN region by 20 per cent from 2005 levels by 2020, and to increase the component of renewable energy in the ASEAN energy mix to 23 per cent by 2025.
 
-*[5] Source: Article contributed by Ban Ki-moon to Time magazine on 8 October 2018. [<a href="http://time.com/5416793/climate-change-ban-ki-moon-trump/" target="_blank">http://time.com/5416793/climate-change-ban-ki-moon-trump/</a>](http://time.com/5416793/climate-change-ban-ki-moon-trump/)*
+<sup>[5]</sup> Source: Article contributed by Ban Ki-moon to Time magazine on 8 October 2018. [<a href="http://time.com/5416793/climate-change-ban-ki-moon-trump/" target="_blank">http://time.com/5416793/climate-change-ban-ki-moon-trump/</a>](http://time.com/5416793/climate-change-ban-ki-moon-trump/)
 
 
-Source: [<a href="https://www.mewr.gov.sg/news/national-statement-of-singapore-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-unfccc-cop-24-high-level-segment--12-december-2018" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/national-statement-of-singapore-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-unfccc-cop-24-high-level-segment--12-december-2018)
+*Source: [<a href="https://www.mewr.gov.sg/news/national-statement-of-singapore-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-unfccc-cop-24-high-level-segment--12-december-2018" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/national-statement-of-singapore-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-unfccc-cop-24-high-level-segment--12-december-2018)*

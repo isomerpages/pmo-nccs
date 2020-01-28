@@ -7,15 +7,15 @@ permalink: /media/press-release/climate-change-public-perception-survey-2019
 
 ### CLIMATE CHANGE PUBLIC PERCEPTION SURVEY 2019
 
-Climate change refers to significant variations in global weather patterns that persist over an extended period of time.
-
 16 Dec 2019
+
+***More Singaporeans aware of climate change and are prepared to do more***
 
 The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a survey from May to July 2019 to gauge public perception and views on climate change. About 1,000 Singapore residents aged 15 and above were interviewed face-to-face for their views. This survey has been conducted by the Government once every two years since 2011.
 
-The survey found that over 90 per cent of Singapore residents are aware of climate change and its impact; and close to 80 per cent are prepared to do more to fight climate change. Key findings from the 2019 survey are: 
+The survey found that over 90 per cent of Singapore residents are aware of climate change and its impact; and close to 80 per cent are prepared to do more to fight climate change. Key findings from the 2019 survey are:
 
-**a) Higher public awareness of climate change and its impact:** 
+**a) Higher public awareness of climate change and its impact:**
 
 * More than 9 in 10 (94.9 per cent) have heard of, read, or come across the terms “Climate Change” and “Global Warming”, up from 89.5 per cent  in 2017 and 80.6 per cent  in 2015.
 

@@ -5,11 +5,17 @@ subtitle: 8 Sep 2009
 permalink: /media/speeches/chief-negotiator-for-climate-change-and-ambassador-at-large-chew-tai-soo's-interview-with-reuters-8-september-2009
 ---
 
-### CHIEF NEGOTIATOR FOR CLIMATE CHANGE AND AMBASSADOR-AT-LARGE CHEW TAI SOO'S INTERVIEW WITH REUTERS, 8 SEPTEMBER 2009
+
+
+### Chief Negotiator For Climate Change And Ambassador-At-Large Chew Tai Soo's Interview With Reuters, 8 September 2009
 
 **Q1**: Is Singapore willing to undertake additional measures to curb the growth of the country's greenhouse gas emissions as part of international efforts to reach agreement on a post-Kyoto pact?
 
 **A1**: The PM has on several occasions made it clear that Singapore will, as a responsible member of the global community, play our part in a global agreement. We are constantly looking for ways to improve energy efficiency and curb greenhouse gas emissions.
+
+
+
+
 
 
 **Q2**: The government is pursuing energy efficiency measures and backs construction of green buildings. But will the government also consider national emissions trading, incentives for hybrid and electric cars, smart grids and other measures?
@@ -18,13 +24,16 @@ permalink: /media/speeches/chief-negotiator-for-climate-change-and-ambassador-at
 
 In that Report, a target of 70 per cent has been set for commuters to use public transport during peak hour by 2020. The annual vehicle population growth will be halved to 1.5 per cent by that year. Remember that the limited space in Singapore requires the control of vehicle population rather than a simple switch to electric cars and hybrids. In this we were the first country in the world to take serious measures to limit vehicular growth as well as charge for road usage, especially in the town centre. Nevertheless, we have set up a task force to bring in electric cars and to test bed them. For this we have been talking to various car manufacturers. More information can be found in the various Government web sites on this.
 
+
 **Q3**: I understand the government is conducting a detailed climate change action plan, if that's the correct description. Could you share what that programme is about and when the report will be released?
 
 **A3**: There is a continuous and ongoing study on what more we can do to reduce emissions. We have reduced emissions through our controls in the growth of the car population, greening of the city, change of fuel mix for power generation and many other measures. We are always studying what else can be done to make Singapore a livable city notwithstanding the high population density.
 
+
 **Q4**: In the international climate negotiations in the run-up to Copenhagen, is Singapore under pressure to commit to mandatory caps on its emissions? I recognise that Singapore is a member of the AOSIS and a developing nation under the United Nations. But many commentators and conservationists point to the wealth and advanced nature of Singapore's economy and that the country should follow South Korea's example of opting for a voluntary 2020 emissions target. What is your view on this?
 
 **A4**: In the international climate change negotiations, pressure is being put on the major emitters such as the US, China, India, ROK and Brazil to reduce their emissions. There are also expectations that developing countries with high per capita GDP will do their part. I have in previous conferences pointed out the flaws in using per capita GDP as the sole and primary basis for deciding whether a country should be put into Annex I. If you like, I could give you a copy of my statement. Take a country like the Bahamas. It has a per capita GDP of about US$28,000 in PPP terms. It has basically 2 industries, tourism and offshore banking. A hurricane will significantly affect Bahamas’ economy. Yet it is mentioned as a potential Annex 1 country. In the case of Singapore we have a more broad based economy than the Bahamas. But we are very dependent on trade which is more than three times our GDP. The recent economic recession has hit Singapore harder than most other developing countries in Asia. There is another problem for small island states - the lack of space and hence access to alternative energy sources other than fossil fuel. This disadvantage is rightfully recognised in UNFCCC Articles 4.8 and 4.10. As is well known, any significant effort to reduce CO2 emissions requires a switch away from fossil fuels into alternative energy sources. Small countries like Singapore or Bahamas lack the alternative energy potential, or as I would call it is alternative energy disadvantaged. Hence their ability to mitigate CO2 emissions is that much less. Singapore has moved from oil to gas for its power generation. This has reduced our emissions by 25 per cent from 2001 levels. But we are not able to move significantly into alternative energy sources. The potential for further reductions in Singapore is less than a country, say the ROK which has space enough for 50 per cent of its power to be generated by nuclear and other renewable energy sources. Or for that matter Brazil where 90 per cent of its power comes from hydro-electricity. Despite this, Singapore is constantly looking at how we could further reduce our emissions. But there are no easy or ‘one size fits all’ solutions. Most developed countries now accept that it would be best that each developing country does what it could within its capabilities.
+
 
 **Q5**: Related to this, Singapore's per capita emissions have also come under increasing scrutiny. While the Singapore government puts per capita emissions at around 12 tonnes per capita, the US Dept of Energy says they are more than twice this. And last month, Germany's IWR Institute said Singapore's 2008 CO2 emissions were 175 million tonnes or about 39 tonnes per capita. Researchers at NUS say such figures include emissions from the petrochemical sector, aviation and shipping. How is the government responding to questions over Singapore's sizeable per capita emissions and are such numbers being used to pressure the government to act on curbing emissions?
 
@@ -35,9 +44,11 @@ In that Report, a target of 70 per cent has been set for commuters to use public
 
 **A6**: It should should it not? After all we refine over a million barrels of oil a day in Singapore and only use less than 100,000 barrels of it domestically. The rest is exported. Given Singapore's efficiency in every sense of the word, it is best that such processes take place in Singapore where the overall pollution to the global environment is very much reduced.
 
+
 **Q7**: An economist here described Singapore's position as very consensus driven and pragmatic, driven in large part by what its major trading partners do. If so, will Singapore follow emerging efforts in the US, Australia, Japan and even South Korea and join a global or regional emissions trading scheme. And would it seek to offset some of its emissions by supporting avoided deforestations projects in Asia? What other joint emissions reduction efforts could it pursue with its global partners?
 
 **A7**: The burning of forests in Asia and elsewhere not only create environmental and health hazards. They also add substantially to the CO2 levels in the atmosphere. This is why Singapore supported the Reduction of Emissions from Deforestation and Forest Degradation (REDD) and the language contained in para 1b(iii) of the Bali Action Plan calling for action to reduce such emissions. We have joint projects with Indonesia and China to reduce emissions such as the Jambi Initiative as well as eco-cities in China such as at Tianjin.
+
 
 **Q8**: Lastly, as a major manufacturing base, is there any concern that Singapore could be threatened with carbon tariffs in the medium term if it is not seen to be doing enough to curb its greenhouse gas emissions?
 

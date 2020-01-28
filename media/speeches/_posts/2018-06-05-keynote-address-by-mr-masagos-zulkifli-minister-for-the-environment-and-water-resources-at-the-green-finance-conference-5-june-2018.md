@@ -7,8 +7,7 @@ permalink: /media/speeches/keynote-address-by-mr-masagos-zulkifli-minister-for-t
 
 ### KEYNOTE ADDRESS BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE GREEN FINANCE CONFERENCE, 5 JUNE 2018
 
-Delegates
-
+Delegates  
 Ladies and Gentlemen
 
 Good morning. I am happy to join all of you at today’s conference.

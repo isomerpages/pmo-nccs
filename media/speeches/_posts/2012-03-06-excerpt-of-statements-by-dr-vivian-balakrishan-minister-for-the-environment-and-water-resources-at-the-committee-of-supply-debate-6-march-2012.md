@@ -40,4 +40,5 @@ To further moderate energy consumption in households, we have the Minimum Energy
 We will be further tightening the energy performance standards for household air conditioners and refrigerators by the end of 2013. MEPS will also be extended to general lighting by 2014. We will consider extending MEPS to other appliances, such as televisions, in the future.
 
 
+
 Source: [<a href="https://www.mewr.gov.sg/" target="_blank">Ministry of the Environment and Water Resources </a>](https://www.mewr.gov.sg/)

@@ -7,12 +7,9 @@ permalink: /media/speeches/speech-by-deputy-prime-minister-coordinating-minister
 
 ### SPEECH BY DEPUTY PRIME MINISTER & COORDINATING MINISTER FOR NATIONAL SECURITY S JAYAKUMAR AT THE WWF 2008 ASIAN PANDA BALL, 21 NOVEMBER 2008
 
-Her Royal Highness Princess Laurentien,
-
-James Leape, Director-General of WWF International,
-
-Distinguished Guests,
-
+Her Royal Highness Princess Laurentien,  
+James Leape, Director-General of WWF International,  
+Distinguished Guests,  
 Ladies and Gentlemen,
 
 It is my pleasure to be here this evening at the WWF 2008 Asian Panda Ball.

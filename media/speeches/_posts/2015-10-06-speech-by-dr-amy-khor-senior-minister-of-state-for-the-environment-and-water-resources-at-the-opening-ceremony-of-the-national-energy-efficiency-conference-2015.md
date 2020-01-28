@@ -25,7 +25,7 @@ Last year, 168 companies operating 213 energy intensive facilities from the manu
 
 The ECA obliges these companies to register themselves with NEA and put in place a basic set of energy management practices, which include appointing an energy manager, monitoring and reporting energy use and greenhouse gas emissions annually, and submitting energy efficiency improvement plans annually.
 
-The 213 facilities accounted for about 83 per cent of Singapore’s primary energy consumption<sup>[2]</sup> and 63 per cent of our final energy consumption[3] in 2013. I am happy to note that these 168 energy-intensive companies now have in place a basic set of energy management practices.It is important that they have a strong focus on energy efficiency as they account for the lion’s share of energy use in Singapore. 
+The 213 facilities accounted for about 83 per cent of Singapore’s primary energy consumption<sup>[2]</sup> and 63 per cent of our final energy consumption<sup>[3]</sup> in 2013. I am happy to note that these 168 energy-intensive companies now have in place a basic set of energy management practices.It is important that they have a strong focus on energy efficiency as they account for the lion’s share of energy use in Singapore. 
 
 I will briefly share some of the key observations from reviewing the energy use reports and improvement plans. There are three.
 
@@ -77,19 +77,22 @@ I would also like to commend Kuraray on their effort in optimising energy use an
 
 Several EENP Award recipients, together with local and overseas experts will be sharing their success stories and best practices at this conference today and tomorrow. I trust that you will find these sessions informative, engaging and fruitful. Do take this opportunity to share your views as well as network with other like-minded peers. 
 
-**Conclusion**
+**Conclusion** 
 
 In conclusion, every one of us has a role to play in driving energy efficiency improvement, and it is important to develop an energy culture within your organisations. It starts by influencing your colleagues around you to switch off equipment when they are not in use and getting them to choose energy efficient equipment. Let’s work together to continue to cultivate an energy conscious mind-set and unlock more energy efficiency improvements.
 
-I wish all of you a fruitful and engaging conference.[1]http://www4.unfccc.int/submissions/INDC/Published%20Documents/Singapore/1/Singapore%20INDC.pdf
+I wish all of you a fruitful and engaging conference.
+
+Thank you very much.
+
+___
+
+[1] http://www4.unfccc.int/submissions/INDC/Published%20Documents/Singapore/1/Singapore%20INDC.pdf
 
 [2] Primary energy is the energy contained in the energy source, such as raw fuels and renewables, before transfofrmation to electricity, heat or other energy types.
 
 [3] Final energy is the energy supplied to end consumers, in the form of fuels, electricity, heat, etc.
 
+
 Source: [<a href="https://www.mewr.gov.sg/news/speech-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-national-energy-efficiency-conference-2015-and-presentation-of-the-energy-efficiency-national-partnership-awards-on-6-october-2015-" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-national-energy-efficiency-conference-2015-and-presentation-of-the-energy-efficiency-national-partnership-awards-on-6-october-2015-)
-
-Thank you very much.
-
-___
 

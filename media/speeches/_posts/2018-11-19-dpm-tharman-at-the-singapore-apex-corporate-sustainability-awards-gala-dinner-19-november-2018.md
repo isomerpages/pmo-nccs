@@ -9,8 +9,8 @@ permalink: /media/speeches/dpm-tharman-at-the-singapore-apex-corporate-sustainab
 
 *DPM Tharman delivered a speech at the Singapore Apex Corporate Sustainability Awards Gala Dinner on 19 November 2018.*
 
-Ms Goh Swee Chen, President of the Global Compact Network Singapore (GCNS)
-Distinguished Guests
+Ms Goh Swee Chen, President of the Global Compact Network Singapore (GCNS)   
+Distinguished Guests  
 Ladies and Gentlemen, 
 
 It is my pleasure to join you tonight to recognise the good work of GCNS over the last decade in promoting corporate sustainability and forging partnerships for action, and the important efforts being taken by the organisations you are highlighting through tonight’s awards.  
@@ -61,4 +61,4 @@ Some of our award winners today are good examples of such leadership. Unilever, 
 
 Let me end my speech by once again, congratulating all those being recognised through the Singapore Apex Corporate Sustainability Awards tonight. There is still much work ahead to spread sustainable practices, and I am sure all of us present will help advance the cause.
 
-Source: [<a href="https://www.pmo.gov.sg/newsroom/dpm-tharman-singapore-apex-corporate-sustainability-awards-gala-dinner" target="_blank">Prime Minister's Office</a>](https://www.pmo.gov.sg/newsroom/dpm-tharman-singapore-apex-corporate-sustainability-awards-gala-dinner)
+*Source: [<a href="https://www.pmo.gov.sg/newsroom/dpm-tharman-singapore-apex-corporate-sustainability-awards-gala-dinner" target="_blank">Prime Minister's Office</a>](https://www.pmo.gov.sg/newsroom/dpm-tharman-singapore-apex-corporate-sustainability-awards-gala-dinner)*

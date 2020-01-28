@@ -9,8 +9,7 @@ permalink: /media/speeches/speech-by-mr-masagos-zulkifli-minister-for-the-enviro
 
 Your Excellencies, 
 
-Mr Sherman Kwek,
-
+Mr Sherman Kwek,  
 Chief Executive Officer of City Developments Limited
 
 Ladies and Gentlemen,

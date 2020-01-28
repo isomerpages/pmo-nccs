@@ -7,20 +7,20 @@ permalink: /media/speeches/speech-by-masagos-zulkifli-minister-of-the-environmen
 
 ### SPEECH BY MASAGOS ZULKIFLI, MINISTER OF THE ENVIRONMENT AND WATER RESOURCES, AT THE RESPONSIBLE BUSINESS FORUM ON SUSTAINABLE DEVELOPMENT ON 22 NOVEMBER 2017
 
-Achim Steiner,
+Achim Steiner,  
 Administrator, UNDP
 
-H. E. Jeffrey Radebe, 
+H. E. Jeffrey Radebe,   
 Minister of Planning Monitoring and Evaluation, South Africa
 
-H. E. Kitchai Sophastienphong, 
+H. E. Kitchai Sophastienphong,   
 Vice Minister of Finance, Thailand
 
-Mr. Haoliang Xu, 
-Assistant Secretary-General, Assistant Administrator & 
+Mr. Haoliang Xu,   
+Assistant Secretary-General, Assistant Administrator &   
 Director, Regional Bureau for Asia and the Pacific, UNDP 
 
-Distinguished guests, 
+Distinguished guests,   
 Ladies and Gentlemen,
 
 A very good morning to all of you. To our foreign friends, a warm welcome. Singapore's hosting of the Responsible Business Forum (RBF) on Sustainable Development for the sixth time is a strong demonstration of the region’s commitment to sustainability. Both RBF and the Singapore Government are working towards achieving the Sustainable Development Goals (SDGs) to ensure an equitable and sustainable future for all. I thank the co-organisers, Global Initiatives and the UNDP, for inviting me to highlight Singapore’s pledge towards sustainable development.

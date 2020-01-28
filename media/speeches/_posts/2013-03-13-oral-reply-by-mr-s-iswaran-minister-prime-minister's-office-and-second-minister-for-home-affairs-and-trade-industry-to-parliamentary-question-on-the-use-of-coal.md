@@ -9,10 +9,8 @@ permalink: /media/speeches/oral-reply-by-mr-s-iswaran-minister-prime-minister's-
 
 **Question by Mrs Lina Chiam:**
 
-To ask the Minister for Trade and Industry:
-
-a. Why is the coal-burning Tembusu Multi-Utilities Complex on Jurong Island allowed to operate considering that coal is one of the most polluting source of energy; and
-
+To ask the Minister for Trade and Industry:  
+a. Why is the coal-burning Tembusu Multi-Utilities Complex on Jurong Island allowed to operate considering that coal is one of the most polluting source of energy; and  
 b. Whether Singapore has met its international obligations to reduce its carbon emissions.
 
 **Response:**
@@ -24,5 +22,6 @@ To strike a balance with environmental concerns, only the use of low ash and low
 In addition, measures have been put in place by our environmental agencies to ensure that the TMUC meets environmental standards as stipulated under the Environmental Protection and Management Act and its Regulations. TMUC is held to stringent requirements for pollutants such as particulate matter (PM) and mercury. The company is also required to transport coal via covered transportation systems to prevent fugitive dust emissions, and recycle ash as construction material. 
 
 Singapore is on track to meet its unconditional pledge of reducing GHG emissions by 7 to 11 per cent below 2020 business-as-usual (BAU) levels. To this end, we have already implemented several energy efficiency measures to reduce the carbon footprint of our industries. These include the Grant for Energy Efficient Technologies (GREET), tax incentives via the Investment Allowance for Energy Efficiency (IA for EE), and the Design for Efficiency (DfE) scheme. This year, we are also piloting third party financing schemes to encourage private financing of EE projects.
+
 
 Source: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry </a>](https://www.mti.gov.sg/)

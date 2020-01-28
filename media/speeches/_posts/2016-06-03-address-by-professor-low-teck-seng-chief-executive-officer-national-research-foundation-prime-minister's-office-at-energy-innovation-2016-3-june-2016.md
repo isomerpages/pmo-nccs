@@ -5,13 +5,13 @@ subtitle: 3 Jun 2016
 permalink: /media/speeches/address-by-professor-low-teck-seng-chief-executive-officer-national-research-foundation-prime-minister's-office-at-energy-innovation-2016-3-june-2016
 ---
 
-### ADDRESS BY PROFESSOR LOW TECK SENG, CHIEF EXECUTIVE OFFICER, NATIONAL RESEARCH FOUNDATION, PRIME MINISTER'S OFFICE, AT ENERGY INNOVATION 2016, 3 JUNE 2016
+### ADDRESS BY PROFESSOR LOW TECK SENG, CHIEF EXECUTIVE OFFICER, NATIONAL RESEARCH FOUNDATION, PRIME MINISTER'S OFFICE, AT ENERGY INNOVATION 2016, 3 JUNE 2016  
 
 Ladies and Gentlemen,
 
 Good morning. It is my pleasure to welcome everyone to Energy Innovation 2016.
 
-Thank you for taking time to be with us today. To those who have come from abroad to join us for this event, welcome to Singapore.
+Thank you for taking time to be with us today. To those who have come from abroad to join us for this event,welcome to Singapore.
 
 **Leveraging Science and Technology to Address National Needs**
 
@@ -37,7 +37,7 @@ The USS domain has also identified ambitious goals that were set based on nation
 
 *Applying Research to Transform Green Data Centres*
 
-here are many examples of how technology, combined with innovative thinking, can lead to energy saving solutions. One example I would like to share is how a local researcher came up with a new algorithm to create “green” data centres at almost no additional upfront cost. 
+There are many examples of how technology, combined with innovative thinking, can lead to energy saving solutions. One example I would like to share is how a local researcher came up with a new algorithm to create “green” data centres at almost no additional upfront cost. 
 
 For us, the data centres are a double-edged sword – it brings us economic benefits – but it also use a lot of energy. A data centre consists of hundreds of computer servers, and over half of the energy costs are spent on cooling these servers through air-conditioning. They use lots of energy and generate a substantial amount of waste heat.
 
@@ -71,5 +71,4 @@ With this, I wish you all a fruitful and enjoyable experience at this symposium.
 
 Thank you.
 
-
-Source: [<a href="https://www.nrf.gov.sg/" target="_blank">National Research Foundation</a>](https://www.nrf.gov.sg/)
+*Source: [<a href="https://www.nrf.gov.sg/" target="_blank">National Research Foundation</a>](https://www.nrf.gov.sg/)*

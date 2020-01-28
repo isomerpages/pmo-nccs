@@ -7,7 +7,8 @@ permalink: /media/speeches/opening-address-by-mr-tan-kok-yam-deputy-secretary-na
 
 ### OPENING ADDRESS BY MR TAN KOK YAM, DEPUTY SECRETARY, NATIONAL CLIMATE CHANGE SECRETARIAT, STRATEGY GROUP, PRIME MINISTER'S OFFICE AND SMART NATIONAL AND DIGITAL GOVERNMENT OFFICE, AT GREEN GROWTH BUSINESS FORUM 2018, 9 JULY 2018
 
-Your Excellency, British High Commissioner, Scott Wightman
+Your Excellency, British High Commissioner, Scott Wightman  
+Mr. Nick Bridge, UK Special Representative for Climate Change
 
 Distinguished Guests
 
@@ -23,7 +24,7 @@ Singapore and the UK share a vision of green growth, as the future engine of pro
 
 For Singapore, our vision is to be a smart, green and liveable city. Digital innovation by companies, using technologies such as artificial intelligence and IOT, will create new ways for the city to “do more with less” – in other words, give our citizens a high quality living environment in a dense urban landscape, while reducing our footprint on the environment, and our use of resources. And if the solution succeeds in Singapore, it may well succeed elsewhere, and add value to other cities.
 
-#### Government has a role to play**
+**Government has a role to play**
 
 To realise this future of green growth, governments have a role to play: as regulator, as promoter of research and development (R&D), and as lead user of green solutions.
 

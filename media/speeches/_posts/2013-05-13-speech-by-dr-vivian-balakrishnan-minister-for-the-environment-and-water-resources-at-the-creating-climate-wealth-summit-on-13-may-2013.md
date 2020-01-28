@@ -17,7 +17,6 @@ To put this in our current context, all of you are actually sitting on chairs in
 
 The next inflexion point is human beings, who have not been around for three million years. Our existence as a species is much shorter than that. For the first time in human history, we now have seven billion of us, and that is not just it - more than half of all human beings now live in cities. This has never happened before.
 
-
 The third inflexion point is that the age of cheap, natural resources which could be literally just scraped off the ground, whether you wanted coal, iron or all the other metals, is coming to an end. The fourth inflexion point is - if you look into the case of Singapore - that more than half of our water is imported. Increasingly, the solution for Singapore is the use of reverse osmosis to either desalinate water or recycle used water. Today, as we speak, our desalination capacity would be about 10 per cent, and for reverse osmosis or recycling, it would be about 30 per cent. But if you go to 2061, which is the day our agreement with Malaysia ends, 25 per cent will be desalination and 55 per cent will be recycled water.
 
 What this means is that we may have - or we may think we have - solved the water challenge. But you realise –anyone of you in business will realise –that we are now in the age that energy equals water, because with reverse osmosis, as long as you have got an energy source and are willing to pay for that energy, you can generate as much water as you need. But this only emphasises the point that there is a very tight, and increasingly tight, nexus between water, food and energy. So, those of you who are looking for a crisis will know that there will be a crisis somewhere in this nexus. In fact, there are likely to be several crises, and each crisis also then presents a market opportunity. These are the four inflexion points I want to leave with you to suggest that great fortunes are going to be made or lost, and it is probably sooner rather than later.
@@ -63,5 +62,7 @@ For adaptation, we have to have long-term plans to deal with what we anticipate 
 The point I want to leave with you is that in Singapore, we are trying to build a working model of future –a future in a climate-damaged world; a future with many more people; a future where cities are the main game in town; a future where energy, food and water are interlinked; and a future filled with many crises and therefore, by definition, many opportunities for many of you in this room.
 
 I hope I have given you some food for thought, and hopefully some sense of crises, opportunities and also perhaps, hope. Thank you all, very much.
+
+
 
 Source: [<a href="https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources--at-the-creating-climate-wealth-summit--13-may-2013--910am-at-marina-bay-sands" target="_blank">Ministry of Environment and Water Resources </a>](https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources--at-the-creating-climate-wealth-summit--13-may-2013--910am-at-marina-bay-sands)

@@ -7,8 +7,8 @@ permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-
 
 ### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE 10TH SINGAPORE INTERNATIONAL ENERGY WEEK, 23 OCTOBER 2017
 
-Your Excellencies,
-Distinguished Guests,
+Your Excellencies,  
+Distinguished Guests,  
 Ladies and Gentlemen,
 
 Good morning.
@@ -23,10 +23,10 @@ As a result of large-scale deployment and technological progress, renewable ener
 
 Disruptions are also happening in other sectors. There is a great deal of electrification going on in our society and our economies. These are a result of technological progress, favourable economics, and coordinated policy direction by many countries in addressing the global energy and climate change challenges. Dramatic changes are taking place in the transport sector. Forecasts show that electric cars could reach cost parity with internal combustion engines by around 2025<sup>[9]</sup>. Several countries have already announced ambitious plans to phase out petrol and diesel cars<sup>[10]</sup>.
 
-    i. Netherlands by 2025,
-    ii. Germany and India by 2030,
-    iii. UK and France by 2040, and
-    iv. China is also developing their own plans.
+i. Netherlands by 2025,  
+ii. Germany and India by 2030,  
+iii. UK and France by 2040, and  
+iv. China is also developing their own plans.
 
 In the building sector, there are many innovation opportunities to reduce cooling loads, and for some buildings, to be a net exporter of renewable energy. Our Building and Construction Authority is striving towards “Positive energy for low-rise buildings, net zero energy for medium-rise and super-low energy for high-rise buildings”.  By 2030, we are aiming for 80 per cent of buildings to be Green Mark certified.
 

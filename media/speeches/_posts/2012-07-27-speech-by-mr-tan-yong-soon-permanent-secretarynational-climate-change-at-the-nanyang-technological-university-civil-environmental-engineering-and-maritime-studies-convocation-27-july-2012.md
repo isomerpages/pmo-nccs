@@ -7,12 +7,9 @@ permalink: /media/speeches/speech-by-mr-tan-yong-soon-permanent-secretarynationa
 
 ### SPEECH BY MR TAN YONG SOON, PERMANENT SECRETARY (NATIONAL CLIMATE CHANGE), AT THE NANYANG TECHNOLOGICAL UNIVERSITY CIVIL & ENVIRONMENTAL ENGINEERING AND MARITIME STUDIES CONVOCATION, 27 JULY 2012
 
-Mr Pro-Chancellor
-
-Graduates
-
-Parents and Teachers of Graduates
-
+Mr Pro-Chancellor  
+Graduates  
+Parents and Teachers of Graduates  
 Ladies and Gentlemen
 
 Congratulations to the class of 2012 on your graduation and thank you for inviting me to join you on this special day. I am truly honoured. Congratulations too to the parents and the teachers, whose support has made the graduates’ successful journey through the university possible.
@@ -43,5 +40,5 @@ Many of you are likely to have dreams of doing something great. And you should a
 
 There are different conceptions of success. The definition of success may differ for every individual, and even for the same individual, it could differ with time and age. Searching for your own definition of success is itself a journey of life and education. Reading Aristotle on ethics is a good start. But remember: leading your life is a practical journey, not just reading and reflection. To me, success means making a difference in whatever we do, no matter how small. Success is living the good life, a moral life, a purposeful life.
 
-My congratulations and best wishes again to all of you as you begin the next phase of your exciting journey and your discovery of success. I wish you all success and the very best for your future.
+My congratulations and best wishes again to all of you as you begin the next phase of your exciting journey and your discovery of success. I wish you all success and the very best for your future.  
 Thank you.

@@ -11,16 +11,14 @@ permalink: /media/speeches/points-made-by-senior-minister-s-jayakumar-at-the-cli
 
 PM, SM/CMNS and Min (EWR) will attend the Copenhagen Conference. 
 
-We have actively participated in the talks. We have taken a whole of Government approach in our preparations. In 2007, we set up the Inter-Ministerial Committee on Climate Change (IMCCC) to study this issue carefully. The IMCCC, which I chair, comprises the Ministers from 6 Ministries - MFA, MTI, MEWR, MND,MOF, and MOT. In addition, we set up the Inter-Ministerial Committee on Sustainable Development (IMCSD), co-chaired by MND and MEWR, in January 2008 to give sustainable development a stronger focus. Energy efficiency is a key thrust of the Sustainable Singapore blueprint, which was released in May this year.
+We have actively participated in the talks. We have taken a whole of Government approach in our preparations. In 2007, we set up the Inter-Ministerial Committee on Climate Change (IMCCC)to study this issue carefully. The IMCCC, which I chair, comprises the Ministers from 6 Ministries - MFA, MTI, MEWR, MND,MOF, and MOT. In addition, we set up the Inter-Ministerial Committee on Sustainable Development (IMCSD), co-chaired by MND and MEWR, in January 2008 to give sustainable development a stronger focus. Energy efficiency is a key thrust of the Sustainable Singapore blueprint, which was released in May this year.
 
 **STATE OF PLAY AT UNFCCC NEGOTIATIONS**
 
 We have had two years of negotiations to reach a new global agreement on climate change in Copenhagen in Dec. 3 main goals of talks:
 
-* Mitigation: to reach a global consensus on capping and reducing carbon emissions.
-
-* Adaptation: to assist LDCs and small island developing countries in their adaptation efforts to cope with the effects of climate change.
-
+* Mitigation: to reach a global consensus on capping and reducing carbon emissions.  
+* Adaptation: to assist LDCs and small island developing countries in their adaptation efforts to cope with the effects of climate change.  
 * Financing: work out effective mechanism to help developing countries finance their mitigation and adaptation efforts.
 
 US's non-participation is a key weakness of KP, US did not ratify because large emitters like China and India, as developing countries, are not required to undertake any commitments to reduce emissions under the KP. A new global deal must get the US and China on-board as there will be no deal otherwise. 
@@ -41,6 +39,9 @@ Financing mitigation and adaptation in developing countries is also a politicall
 
 These complications have led to an impasse. Given the limited time left, countries are no longer aiming to reach a comprehensive and legally binding international agreement by Copenhagen. A more realistic aim is a political framework agreement which contains the key elements for a legally binding agreement with details to be further negotiated in 2010.
 
+
+
+
 **SINGAPORE'S INTERESTS AND OUR APPROACH**
 
 Singapore has an important stake in a successful global deal. As a small and low-lying island state, we are vulnerable to the effects of climate change. A rise in sea-level can have serious consequences for us. 
@@ -51,13 +52,13 @@ This is a long term global problem that requires a global solution. But an equit
 
 What we cannot agree to is unreasonable pressures by some developed countries to get advanced developing countries like Singapore to take on greater responsibility in reducing emissions, solely because of our high per capita GDP. Some even want to graduate us into Annex 1, i.e. take on mandatory economy-wide emission cuts. We cannot agree, because:
 
-a. Benchmarks like per capita GDP are artificial, distorted and unfairly penalise small urbanised countries like Singapore.
-
-b. Singapore has severe constraints such as lack of recourse to alternative energy sources. I will elaborate on these constraints later.
-
+a. Benchmarks like per capita GDP are artificial, distorted and unfairly penalise small urbanised countries like Singapore.  
+b. Singapore has severe constraints such as lack of recourse to alternative energy sources. I will elaborate on these constraints later.  
 c. Our contribution to global CO2 emissions is negligible, i.e. less than 0.2 per cent. 
 
 Importance of maintaining economic competitiveness. While climate change is clearly a very serious problem,we cannot ignore the impact of mitigation measures on our economy. Whatever we do, maintaining economic competitiveness is a key consideration because we have to preserve growth in order to have the resources to continue to take mitigation and adaptation actions.
+
+
 
 **SINGAPORE'S CONSTRAINTS: ALTERNATIVE ENERGY DISADVANTAGED COUNTRY**
 
@@ -87,21 +88,25 @@ Despite all these constraints, we have always taken the environment seriously. L
 
 (e) Recycling: We recycle 56 per cent and incinerate 41 per cent of our wastes. Incidentally, incineration provides 2-3 per cent of our electricity and reduces methane emissions from landfills. Methane has 21 times the warming potential of CO2.
 
+
+
 **RECAP: THE SUSTAINABLE SINGAPORE BLUEPRINT (SSB)**
 
 Most recently, in April 2009, the Inter-Ministerial Committee on Sustainable Development announced measures under the Sustainable Singapore Blueprint (SSB) to improve the energy efficiency of our economy over the medium-term in four key sectors of our economy - industry, transport, households and buildings. The SSB represents a major national effort to reduce emissions. 
 
 The SSB aims to achieve the following:
 
-* Reduce energy intensity by 35 per cent from 2005 levels by 2030
-* Improve recycling rate to 70 per cent in 2030
-* Reduce energy consumption in new and mature housing estates by 20 per cent and 30 per cent respectively by 2030
+* Reduce energy intensity by 35 per cent from 2005 levels by 2030  
+* Improve recycling rate to 70 per cent in 2030  
+* Reduce energy consumption in new and mature housing estates by 20 per cent and 30 per cent respectively by 2030  
 
 Through, inter alia, following policies:
 
-* Managing the growth of private transport, refining our Electronic Road Pricing system, and improving schemes.
-* Encourage cycling and walking with investments in infrastructure such as covered linkways, cycling paths and parking facilities for cyclists at MRT stations.
-* Promoting energy efficient Green Building through incentives to co-fund the cost premium to achieve higher Green mark standards of Goldplus and Platinum, demonstration projects such as the first-ever retrofitted Zero Energy Building in South East Asia, and making Green Mark a pre-requsite land sales requirement for new growth areas.
+* Managing the growth of private transport, refining our Electronic Road Pricing system, and improving schemes.  
+* Encourage cycling and walking with investments in infrastructure such as covered linkways, cycling paths and parking facilities for cyclists at MRT stations.  
+* Promoting energy efficient Green Building through incentives to co-fund the cost premium to achieve higher Green mark standards of Goldplus and Platinum, demonstration projects such as the first-ever retrofitted Zero Energy Building in South East Asia, and making Green Mark a pre-requsite land sales requirement for new growth areas.  
+
+
 
 **FURTHER EFFORTS ... RECALL PM SAID WE ARE STUDYING WHAT MORE WE CAN DO**
 
@@ -113,10 +118,10 @@ After careful study, Singapore will undertake voluntary actions to reduce our em
 
 This is a substantial commitment that will require a major effort, bearing in mind:
 
-* our severe constraints;
-* that these will be on top of the significant measures we have already taken in the past, and much more than what we have planned to achieve under the Sustainable Singapore Blueprint;
-* that we have no historical responsibility for climate change;
-* that our absolute greenhouse gas emissions are very low, less than 0.2 per cent of the global total;
+* our severe constraints;  
+* that these will be on top of the significant measures we have already taken in the past, and much more than what we have planned to achieve under the Sustainable Singapore Blueprint;  
+* that we have no historical responsibility for climate change;  
+* that our absolute greenhouse gas emissions are very low, less than 0.2 per cent of the global total;  
 * that all of our measures will be domestically funded and unilaterally implemented.
 
 Let me stress that whatever enhanced measures we will undertake has to be contingent on a global agreement being reached; on other countries also adopting significant targets and implementing their commitments in good faith. 
@@ -127,10 +132,10 @@ Without a global agreement by all to address climate change, our efforts alone w
 
 The details of the specific measures are still being studied and will be announced at a later stage. We will have to look at implementing new measures as well as enhancing existing ones, for instance:
 
-* Transport policies such as to achieve 70:30 public transport Modal Split (e.g. through improvements in public transport system and further restraints on vehicle population and usage), enhanced Off Peak Car Scheme, improving the fuel efficiency of vehicles, bio-fuels, electric vehicles etc;
-* Raising Green Mark performance standards for buildings and sustainable construction;
-* Strongly encouraging households to conserve energy, e.g. through energy performance labeling for fridges, aircons, lights, standby power etc;
-* Encouraging industries to use energy more efficiently and to reduce their direct CO2 emissions, since industry accounts for a major part of our energy consumption and CO2 emission. 
+* Transport policies such as to achieve 70:30 public transport Modal Split (e.g. through improvements in public transport system and further restraints on vehicle population and usage), enhanced Off Peak Car Scheme, improving the fuel efficiency of vehicles, bio-fuels, electric vehicles etc;  
+* Raising Green Mark performance standards for buildings and sustainable construction;  
+* Strongly encouraging households to conserve energy, e.g. through energy performance labeling for fridges, aircons, lights, standby power etc;  
+* Encouraging industries to use energy more efficiently and to reduce their direct CO2 emissions, since industry accounts for a major part of our energy consumption and CO2 emission.   
 
 To achieve this targeted reduction in emissions, we will have to rely on a combination of regulations (e.g. efficiency standards) and fiscal measures. Market forces will also have an important role to play, to make sure that people and businesses get the right price signals and have the right incentives to save energy and reduce emissions. Our agencies are carefully studying all the options, and the specific measures will be announced at a future date after we have worked out all the details and after the outcome of the negotiations is clearer.
 
@@ -164,8 +169,7 @@ We are prepared to do more in spite of what we have done in the past, to go beyo
 
 If you look at how the modal split has changed, if you look at how travel patterns have changed, I think you will realise that this 70 percent by 2020 will require a huge change in people's travelling behaviour, will require huge investments in transportation infrastructure like rail, will require changes in roads, public transport facilities and so on. So that is one area. Take another example, in the area of energy efficiency in buildings, we have already committed in the IMCSD blueprint to converting 80 percent of our buildings to achieving the Green Mark certified rating. Now the Green Mark certified rating is the lowest Green Mark rating. If we are to achieve this 16 percent, that is not going to be enough. We have got to up the minimum rating to something like the GoldPlus or even the Platinum rating which is a much more difficult standard to achieve but that is something that we would need to do if we are to achieve minus 16 percent. So this is just to give you a flavour of what are some of the measures we would need to implement in order to achieve what I consider to be a very tough target but it is something that we believe we will be able to meet if all parties involved put in the effort, and through various measures. So I just wanted to add these comments to what Professor Jayakumar has said.
 
-**REMARKS MADE BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES YAACOB IBRAHIM**
-
+**REMARKS MADE BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES YAACOB IBRAHIM**  
 Thank you, SM. Let me now just say a few words about the flavour of the negotiations. As you know, since 2005, Singapore has been actively participating in the climate change negotiations both at the officials' level and the political level.
 
 In fact as rightly pointed out by SM, the journey towards Copenhagen started in 2007 at COP-13, COP is Conference of Parties. This led to the adoption of the Bali Action Plan (BAP) and Singapore participated both at the pre-COP level in Bogor and COP level in Bali. As you remember PM also attended the meeting. A small group of selected Ministers attended the pre-COP meeting. We have a very good working relationship with the President of COP-13, which is Rachmat Witolar, the Indonesian Minister for the Environment. As you know we have ongoing discussions with them on several regional issues. But because we have worked with them, we were able to help them push for the inclusion of the issue of emission reductions from deforestation in the Bali Action Plan. So the rainforest nations were very happy with us because we supported that programme.

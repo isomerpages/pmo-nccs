@@ -7,12 +7,10 @@ permalink: /media/speeches/speech-by-minister-of-state-lee-yi-shyan-at-the-ava-f
 
 ### SPEECH BY MINISTER OF STATE LEE YI SHYAN AT THE AVA FOOD SAFETY AWARDS NIGHT 2012 ON 13 JULY 2012
 
-Mr Koh Soo Keong
-
+Mr Koh Soo Keong  
 Chairman, Agri-Food & Veterinary Authority
 
-Ms Tan Poh Hong
-
+Ms Tan Poh Hong  
 CEO, AVA
 
 Distinguished guests
@@ -45,4 +43,6 @@ In conclusion, let me reiterate that we will continue to ensure our food safety 
 
 Let me congratulate all the award recipients for your commitment to food safety and partnership with AVA. Thank you.
 
-Source: [<a href="https://www.mnd.gov.sg/" target="_blank">CleaMinistry of National DevelopmentnTech</a>](https://www.mnd.gov.sg/)
+
+
+Source: [<a href="https://www.mnd.gov.sg/" target="_blank">Ministry of National Development</a>](https://www.mnd.gov.sg/)

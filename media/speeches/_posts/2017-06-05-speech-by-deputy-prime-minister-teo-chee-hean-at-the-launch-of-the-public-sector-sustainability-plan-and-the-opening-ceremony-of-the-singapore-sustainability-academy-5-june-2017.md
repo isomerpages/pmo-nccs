@@ -7,11 +7,11 @@ permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-
 
 ### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE LAUNCH OF THE PUBLIC SECTOR SUSTAINABILITY PLAN AND THE OPENING CEREMONY OF THE SINGAPORE SUSTAINABILITY ACADEMY, 5 JUNE 2017
 
-*Enhancing Public and Private Sector Sustainability Efforts for a more Sustainable Singapore*
+***Enhancing Public and Private Sector Sustainability Efforts for a more Sustainable Singapore***
 
-Mr Masagos Zulkifli, Minister for the Environment and Water Resources,
-Mr Edwin Khew, Chairman, Sustainable Energy Association of Singapore,
-Mr Sherman Kwek, Deputy CEO, City Developments Limited,
+Mr Masagos Zulkifli, Minister for the Environment and Water Resources,  
+Mr Edwin Khew, Chairman, Sustainable Energy Association of Singapore,  
+Mr Sherman Kwek, Deputy CEO, City Developments Limited,  
 Ladies and Gentlemen,
 
 Good Morning.
@@ -20,9 +20,9 @@ Today is UN World Environment Day, and I am happy to join you at the opening of 
 
 **Sustainability, Climate Change, and Singapore**
 
-Singapore’s journey towards sustainability started in the 1960s before environmental issues became a global concern. We made a conscious decision to green our country, clean up our streets, and enact laws against pollution. Today, Singapore is widely recognised as a liveable and sustainable city. We were 2nd among 100 cities in the 2016 Sustainable Cities Index.[1] And we will continue our sustainability efforts and contribute to global action to address climate change.
+Singapore’s journey towards sustainability started in the 1960s before environmental issues became a global concern. We made a conscious decision to green our country, clean up our streets, and enact laws against pollution. Today, Singapore is widely recognised as a liveable and sustainable city. We were 2nd among 100 cities in the 2016 Sustainable Cities Index.<sup>[1]</sup> And we will continue our sustainability efforts and contribute to global action to address climate change.
 
-As a small island-state, Singapore takes climate change seriously. We will be particularly vulnerable to higher sea-levels, rising temperatures, and more extreme rainfall in our region by the end of this century.[2]
+As a small island-state, Singapore takes climate change seriously. We will be particularly vulnerable to higher sea-levels, rising temperatures, and more extreme rainfall in our region by the end of this century.<sup>[2]</sup>
 
 These findings from our 2015 National Climate Change Study are consistent with global studies assessed by the Intergovernmental Panel on Climate Change.
 
@@ -50,7 +50,7 @@ Second, I am happy to see that the private sector is also stepping up efforts to
 
 The Singapore Sustainability Academy led by City Developments Limited (CDL) and SEAS is a good example of how the private sector and associations can partner our government agencies to promote sustainable development and a low-carbon economy. CDL rallied 15 like-minded industry partners to design and build this Academy, using building materials from highly sustainable sources and renewable energy. This net zero-energy facility fitted with solar panels will produce more renewable energy than its energy demand.  The Academy will engage global and local experts in sustainability to run outreach and training programmes for businesses, industry practitioners and youths. By providing opportunities for networking and the exchange of ideas, the Academy can spur innovation and accelerate action on sustainable practices among our business community.
 
-I would like to thank CDL for initiating and hosting the Singapore Sustainability Academy and playing an active role to develop programmes on sustainability and climate change. CDL has been a front-runner in green buildings and in integrating sustainability into its business strategy.[3]
+I would like to thank CDL for initiating and hosting the Singapore Sustainability Academy and playing an active role to develop programmes on sustainability and climate change. CDL has been a front-runner in green buildings and in integrating sustainability into its business strategy.<sup>[3]</sup>
 
 I would particularly like to remember the late Mr Kwek Leng Joo for his contributions to environmental efforts and sustainability. With the active commitment of the private sector, we can help make living in Singapore more green and sustainable.
 
@@ -64,6 +64,6 @@ ___
 
 [1] Joe Myers, “These are the world’s most sustainable cities”, World Economic Forum, 20 Sept 2016, accessed 30 May 2017.
 
-[2] Second National Climate Change Study Findings released, 15 April 2015, http://www.nea.gov.sg . For the period 2070-2099 (relative to 1980-2009), assuming that global emissions peak mid-century and decline thereafter, the study projects that average surface temperature across Singapore will rise by 1.4 C to 2.7 C, greater seasonal rainfall between Nov-Jan and greater dryness in Feb and June-Sept, and mean sea level rises of 0.25 m – 0.6 m.
+[2] Second National Climate Change Study Findings released, 15 April 2015, [<a href="http://www.nea.gov.sg" target="_blank">http://www.nea.gov.sg</a>](http://www.nea.gov.sg). For the period 2070-2099 (relative to 1980-2009), assuming that global emissions peak mid-century and decline thereafter, the study projects that average surface temperature across Singapore will rise by 1.4 C to 2.7 C, greater seasonal rainfall between Nov-Jan and greater dryness in Feb and June-Sept, and mean sea level rises of 0.25 m – 0.6 m.
 
 [3] CDL’s ethos is to “conserve as we construct”.

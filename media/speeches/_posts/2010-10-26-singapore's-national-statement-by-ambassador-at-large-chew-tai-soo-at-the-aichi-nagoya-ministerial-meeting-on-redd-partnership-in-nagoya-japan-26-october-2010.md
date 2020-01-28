@@ -7,17 +7,13 @@ permalink: /media/speeches/singapore's-national-statement-by-ambassador-at-large
 
 ### SINGAPORE'S NATIONAL STATEMENT BY AMBASSADOR-AT-LARGE CHEW TAI SOO AT THE AICHI-NAGOYA MINISTERIAL MEETING ON REDD+ PARTNERSHIP IN NAGOYA, JAPAN, 26 OCTOBER 2010
 
-Minister Maehara
-
-Minister Abal
-
-Excellencies
-
-Distinguished delegates
-
+Minister Maehara  
+Minister Abal  
+Excellencies  
+Distinguished delegates  
 Ladies and Gentlemen
 
-Singapore is honoured to be participating in the Ministerial meeting of the REDD+ Partnership, and would like to thank the government of Japan for hosting this meeting.
+Singapore is honoured to be participating in the Ministerial meeting of the REDD+ Partnership,and would like to thank the government of Japan for hosting this meeting.
 
 As a small low-lying island state, Singapore has strong interests in the success of the global effort to address climate change. Singapore fully recognises the importance of addressing deforestation which accounts for approximately 20 per cent of global greenhouse gas emissions. In this regard, Singapore had strongly supported the inclusion of REDD+ in the Bali Action Plan in 2007, and has also supported and actively participated in the REDD+ Partnership since its inception at the Oslo Climate and Forest Conference in May this year.
 

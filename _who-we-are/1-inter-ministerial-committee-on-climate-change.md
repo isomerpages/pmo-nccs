@@ -58,7 +58,7 @@ The International Negotiations Working Group (INWG) develops Singapore's interna
 
 **Chairman**
 
-* **(NS) Chee Wee Kiong, Permanent Secretary (Foreign Affairs)**
+* **BG (NS) Chee Wee Kiong, Permanent Secretary (Foreign Affairs)**
 
 **Members**
 
@@ -84,8 +84,7 @@ The Long Term Emissions and Mitigation Working Group (LWG) studies how Singapore
 
 **Co-Chairmen**
 
-* **Mr Leo Yip, Head Civil Service, Permanent Secretary (Prime Minister's Office)(Strategy)**
-
+* **Mr Leo Yip, Head Civil Service, Permanent Secretary (Prime Minister's Office)(Strategy)**  
 * **Mr Gabriel Lim, Permanent Secretary (Trade and Industry)**
 
 **Members**

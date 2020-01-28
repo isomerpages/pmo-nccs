@@ -7,10 +7,8 @@ permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-
 
 ### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE ECOSPERITY CONFERENCE, 5 JUNE 2017
 
-Chairman Temasek Mr Lim Boon Heng,
-
-Distinguished guests,
-
+Chairman Temasek Mr Lim Boon Heng,  
+Distinguished guests,  
 Ladies and gentlemen,
 
 Good afternoon.

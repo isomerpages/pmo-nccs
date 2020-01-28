@@ -11,9 +11,9 @@ permalink: /media/speeches/dpm-teo-chee-hean-at-the-global-compact-network-singa
 
 “Working together for a Low-Carbon and Green Future”
 
-Ms Goh Swee Chen, President of the Global Compact Network Singapore and Chairperson of Shell Companies in Singapore, 
-Ms Lise Kingo, CEO of the United Nations Global Compact,
-Distinguished Guests
+Ms Goh Swee Chen, President of the Global Compact Network Singapore and Chairperson of Shell Companies in Singapore,  
+Ms Lise Kingo, CEO of the United Nations Global Compact,  
+Distinguished Guests  
 Ladies and Gentlemen,
 
 A warm welcome to the conference this morning, and for those who have travelled to Singapore, a warm welcome to Singapore.
@@ -74,4 +74,4 @@ I look forward to hearing your views and having a discussion so that we can work
 
 Thank you very much.
 
-Source: [<a href="https://www.pmo.gov.sg/newsroom/dpm-tharman-singapore-apex-corporate-sustainability-awards-gala-dinner" target="_blank">Prime Minister's Office</a>](https://www.pmo.gov.sg/newsroom/dpm-tharman-singapore-apex-corporate-sustainability-awards-gala-dinner)
+*Source: [<a href="https://www.pmo.gov.sg/newsroom/dpm-tharman-singapore-apex-corporate-sustainability-awards-gala-dinner" target="_blank">Prime Minister's Office</a>](https://www.pmo.gov.sg/newsroom/dpm-tharman-singapore-apex-corporate-sustainability-awards-gala-dinner)*
