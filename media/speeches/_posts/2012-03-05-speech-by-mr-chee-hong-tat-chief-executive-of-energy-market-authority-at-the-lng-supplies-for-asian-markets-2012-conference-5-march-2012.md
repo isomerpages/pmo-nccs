@@ -50,4 +50,5 @@ Over the past few months, we have been discussing with industry players and stud
 Let me conclude by congratulating the organisers for a very successful event and I wish all of you a fruitful conference ahead. Thank you.
 
 
+
 Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609ScxfQqB0a5Y4" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609ScxfQqB0a5Y4)

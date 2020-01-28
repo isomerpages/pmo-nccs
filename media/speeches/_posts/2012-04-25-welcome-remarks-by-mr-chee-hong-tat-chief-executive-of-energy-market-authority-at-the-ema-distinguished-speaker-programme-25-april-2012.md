@@ -7,12 +7,9 @@ permalink: /media/speeches/welcome-remarks-by-mr-chee-hong-tat-chief-executive-o
 
 ### WELCOME REMARKS BY MR CHEE HONG TAT, CHIEF EXECUTIVE OF ENERGY MARKET AUTHORITY AT THE EMA DISTINGUISHED SPEAKER PROGRAMME, 25 APRIL 2012
 
-Dr Noeleen Heyzer, Under-Secretary-General of the United Nations and Executive Secretary of the Economic and Social Commission for Asia and the Pacific,
-
-Excellencies
-
-Distinguished guests
-
+Dr Noeleen Heyzer, Under-Secretary-General of the United Nations and Executive Secretary of the Economic and Social Commission for Asia and the Pacific,  
+Excellencies  
+Distinguished guests  
 Ladies and gentlemen
 
 Thank you for joining us at this morning’s lecture by Dr Noeleen Heyzer. Dr Heyzer will be speaking to us on “Rio+20: Implications for Energy Access and Sustainable Development in Asia”. This is a timely topic given that the United Nations has designated 2012 as the “International Year of Sustainable Energy for All”. In June, world leaders will gather in Rio de Janeiro at the Rio+20 United Nations Conference on Sustainable Development to explore ways that governments, the private sector and global institutions can promote sustainable development. The United Nations has also set out three intertwined energy objectives for the world to achieve by 2030 - (i) ensuring universal access to modern energy services, (ii) doubling the rate of improvement in energy efficiency, and (iii) doubling the share of renewable energy in the global energy mix. 
@@ -30,6 +27,7 @@ The Distinguished Speaker Programme or DSP builds on the success of SIEW in prov
 As Executive Secretary of the Economic and Social Commission for Asia and the Pacific or ESCAP [pronounced S-CAP], Dr Heyzer is responsible for promoting regional cooperation to achieve inclusive and sustainable development in Asia Pacific. Under her able leadership, ESCAP has become a powerful platform for promoting stronger regional cooperation in areas such as green growth, food and energy security, and social development. Prior to her appointment at ESCAP, Dr Heyzer was the first Executive Director from the South to head the United Nations Development Fund for Women (UNIFEM). I am proud to add that Dr Heyzer is a fellow Singaporean. 
 
 It is now my pleasure to invite Dr Heyzer on stage to deliver her address. Dr Heyzer, please.
+
 
 
 Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609BwJXuKETbUoi" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609BwJXuKETbUoi)

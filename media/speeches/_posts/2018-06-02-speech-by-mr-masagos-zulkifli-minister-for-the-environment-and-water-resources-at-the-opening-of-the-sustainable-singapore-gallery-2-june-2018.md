@@ -7,8 +7,7 @@ permalink: /media/speeches/speech-by-mr-masagos-zulkifli-minister-for-the-enviro
 
 ### SPEECH BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE OPENING OF THE SUSTAINABLE SINGAPORE GALLERY, 2 JUNE 2018
 
-Distinguished Guests
-
+Distinguished Guests  
 Ladies and Gentlemen
 
 A very good evening to all of you. I hope you will enjoy our revamped Sustainable Singapore Gallery (SSG), which tells the story of Singapore’s sustainability journey.

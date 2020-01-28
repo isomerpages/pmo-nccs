@@ -9,12 +9,10 @@ permalink: /media/speeches/national-statement-of-singapore-delivered-by-dr-vivia
 
 Mr President,
 
-**Moment for action**
-
+**Moment for action**  
 The IPCC's 5th Assessment Report provides a stark warning of the consequences if we do not limit global warming to below 1.5 or 2°C. This COP-20 is a crucial test of whether we stay on-track or let ourselves get distracted. It is incumbent on all of us to be pragmatic and constructive. We need to affirm the concepts of 'applicable to all' and 'universal participation'. Whilst we cannot solve everything here in Lima, it would be negligent of us to delay what we can agree upfront. We must try to build momentum to clear a pathway to Paris next year. 
 
-**Way Forward**
-
+**Way Forward**  
 As we work towards a new global agreement, it is important to remember that we are not starting from scratch. We are building on the foundations of the UNFCCC. To build a durable and effective post-2020 regime, we should be prepared to give each other some reassurances: 
 
 (i) First, that the principles and provisions of the Convention should be upheld in toto. This means that the previously achieved fine balance in the Convention should not be wrecked by selective cherry-picking of partisan interests. We should simply use the entire Framework Convention, as is, as the durable foundation for the new regime; 
@@ -31,13 +29,10 @@ In our view, if these three assurances are in place, this will help drive moment
 
 (iii) Third, the enhancement of pre-2020 ambition. As this is the base for our post-2020 goals, we should not avoid doing more before 2020, but when that happens, the 2015 agreement should recognise the early actions of countries. Otherwise, countries will have perverse incentives to delay action until the new agreement is implemented in 2020. 
 
-**Singapore's Commitment**
+**Singapore's Commitment**  
+Singapore is a member of the Small Island Developing States. We contribute very little at aggregate level to global emissions but we will play our part. Singapore generates relatively low levels of carbon emissions per GDP dollar in the world, ranking 113th out of 140 countries[1]. From the year 2000 to 2010, our carbon intensity decreased by 30 per cent, which compares favourably with the global average decrease of only 0.12 per cent. We ratified the Doha Amendment to the Kyoto Protocol and we will submit our INDC in a timely manner before COP-21. We just submitted our [<a href="/docs/default-source/news-documents/ncbur2014_19bee07f1abd64fdaab538ae5badc1df4.pdf" target="_blank">Biennial Update Report</a>](/docs/default-source/news-documents/ncbur2014_19bee07f1abd64fdaab538ae5badc1df4.pdf) and we have also launched the [<a href="/docs/default-source/news-documents/ssb_2015.pdf" target="_blank">Sustainable Singapore Blueprint 2015</a>](/docs/default-source/news-documents/ssb_2015.pdf) which updates our plans, especially in areas such as energy efficiency and climate resilience. 
 
-Singapore is a member of the Small Island Developing States. We contribute very little at aggregate level to global emissions but we will play our part. Singapore generates relatively low levels of carbon emissions per GDP dollar in the world, ranking 113th out of 140 countries[1]. From the year 2000 to 2010, our carbon intensity decreased by 30%, which compares favourably with the global average decrease of only 0.12%. We ratified the Doha Amendment to the Kyoto Protocol and we will submit our INDC in a timely manner before COP-21. We just submitted our [<a href="/docs/default-source/news-documents/ncbur2014_19bee07f1abd64fdaab538ae5badc1df4.pdf" target="_blank">Biennial Update Report</a>](/docs/default-source/news-documents/ncbur2014_19bee07f1abd64fdaab538ae5badc1df4.pdf) and we have also launched the [<a href="/docs/default-source/news-documents/ssb_2015.pdf" target="_blank">Sustainable Singapore Blueprint 2015</a>](/docs/default-source/news-documents/ssb_2015.pdf) which updates our plans, especially in areas such as energy efficiency and climate resilience. 
-
-**Closing**
-
+**Closing**  
 In conclusion Mr President, I assure you of our commitment and support for Peru's leadership and we look forward to a successful conclusion of this meeting. I would also like to add Singapore's appreciation to the government and people of Peru for the warm hospitality and meticulous arrangements at this Conference. 
-___
 
 [1] Source: IEA Key World Energy Statistics, 2014. 

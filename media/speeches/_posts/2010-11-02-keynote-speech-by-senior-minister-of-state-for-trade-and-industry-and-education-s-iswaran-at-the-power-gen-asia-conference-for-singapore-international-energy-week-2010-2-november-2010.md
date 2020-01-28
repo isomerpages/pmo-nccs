@@ -13,14 +13,12 @@ Ladies and Gentlemen
 
 Good morning
 
-**Introduction**
-
+**Introduction**  
 I am pleased to be here this morning to join you at the Power-Gen Asia conference which is being held during the Singapore International Energy Week.
 
 Now into its third year, the Singapore International Energy Week (SIEW) is Singapore’s principal platform to bring together energy professionals, academia and policy makers to discuss the challenges within the energy sector and exchange views on policies and strategies to deal with them. And, this year, we are pleased to have Power-Gen Asia as a key SIEW event.
 
-**Promoting Competitive Energy Markets**
-
+**Promoting Competitive Energy Markets**  
 Electricity is a key factor of production for the Singapore economy, as indeed it is for any modern economy. Our energy policy objective is to ensure that households and industries have access to reliable and competitively priced electricity. As a small economy, we are a price-taker in the global energy market and import almost all our energy needs. It is therefore crucial that we foster effective competition in our energy markets. Competitive markets can help reap efficiency gains in the way we generate and use energy, and mitigate, to some extent, the impact of volatility in global energy markets and prices. Indeed, promoting competitive energy markets is a key plank in Singapore’s strategy to build a Smart Energy Economy – one that is innovative, resilient and sustainable.
 
 Towards this end of enhanced competition, we have progressively restructured and liberalised our electricity and gas markets. Our regulator, the Energy Market Authority (EMA), has put in place a transparent and equitable licensing framework, together with market rules and codes of practice. This is with a view to maintaining a level and competitive playing field among market players, and realising the attendant benefits of innovation, efficiencies, as well as cost savings that eventually cascade to end-users.
@@ -29,8 +27,7 @@ These developments have yielded tangible benefits. Our power generation companie
 
 Looking ahead, the challenge for our power generation sector is to continue to meet demand that is rising in tandem with economic growth with competitive, secure and sustainable electricity supply. This year, along with Singapore’s strong recovery from the global financial crisis, electricity demand has increased sharply. Average demand in the first half of 2010 increased by approximately 11 per cent compared to the same period a year ago. With electricity demand forecasted to rise by up to 3 per cent annually till 2018, the demand for natural gas will similarly increase.
 
-**Tapping on New Opportunities with the LNG Terminal**
-
+**Tapping on New Opportunities with the LNG Terminal**  
 As part of our energy diversification strategy, we are building a Liquefied Natural Gas (LNG) terminal. The LNG terminal will enable Singapore to import LNG from global markets to meet our growing needs. It will also ensure greater energy security by diversifying our sources. The development of the LNG terminal is on track and commercial operations will begin in 2013, as planned.
 
 With the impending entry of LNG, current and new players have announced plans to leverage on the additional supply to bring in new generation capacity, or repower existing fuel oil-fired generation capacity. Specifically,
@@ -51,8 +48,7 @@ Expanding the terminal’s throughput capacity now will put Singapore in a posit
 
 The increased capacity could also catalyse new business opportunities. International LNG traders have expressed their interest to leverage off the terminal to trade in LNG spot cargoes. Already, we have a growing number of companies like BP, ConocoPhillips, Gazprom and Shell establishing their LNG trading offices in Singapore. With the third tank, there will be more of such LNG trading opportunities. It will allow us to tap on the growing market for spot and short-term LNG contracts. Just as Singapore has achieved a competitive advantage as one of the world’s leading commodity hubs and Asia’s top oil trading centre, we similarly aim to establish ourselves as a centre for LNG trading in Asia.
 
-**Conclusion**
-
+**Conclusion**  
 The next few decades promise to be an exciting time for energy players in Asia. While the world economic outlook remains subdued, Asia’s economies are primed for growth. This means greater demand for power to fuel growing industries and expanding populations. Robust growth means new opportunities could be created across the various segments of the energy sector, be it in clean energy, new technologies or spinoffs in other related services. Industry players must, therefore, be well-positioned to seize these opportunities.
 
 Likewise, Singapore’s energy sector will offer many new opportunities. Aside from enhancing our energy security, the entry of LNG will bring about new business opportunities, and promote a more competitive and efficient power generation sector through the entry of new generation capacity.
@@ -61,4 +57,6 @@ To remain a leading global city, Singapore must continue to be nimble to meet gl
 
 On this note, I would like to wish you all fruitful discussions at the Power-Gen Asia conference and a productive experience at this year’s Singapore International Energy Week. Thank you.
 
-Source: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry</a>](https://www.mti.gov.sg/)
+
+
+*Source*: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry</a>](https://www.mti.gov.sg/)

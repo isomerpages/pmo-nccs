@@ -28,4 +28,5 @@ As you can tell, Tan Sri’s long and illustrious career in energy straddled bot
 It is my pleasure to invite Tan Sri Moggie to address us. Tan Sri, please.
 
 
+
 Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609DTX680ETB9aa" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609DTX680ETB9aa)

@@ -588,7 +588,7 @@ li {
   font-size: 0.9rem !important;
 }
 em {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 .bp-sec-button .is-uppercase {
   text-transform: uppercase !important;
@@ -674,4 +674,10 @@ a[href$=".pdf"]:before {
 .imgsize {
   width: 300px;
   height: 300px;
+}
+hr {
+  margin-top: 2rem !important;
+}
+.content ol {
+  margin-left: 0.9rem !important;
 }

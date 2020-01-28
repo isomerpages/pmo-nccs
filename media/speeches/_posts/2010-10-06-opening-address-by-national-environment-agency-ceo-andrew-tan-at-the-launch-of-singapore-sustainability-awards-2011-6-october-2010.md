@@ -7,34 +7,29 @@ permalink: /media/speeches/opening-address-by-national-environment-agency-ceo-an
 
 ### OPENING ADDRESS BY NATIONAL ENVIRONMENT AGENCY CEO ANDREW TAN AT THE LAUNCH OF SINGAPORE SUSTAINABILITY AWARDS 2011, 6 OCTOBER 2010
 
-Mr. Tony Chew
-
+Mr. Tony Chew  
 Chairman, Singapore Business Federation
 
-Mr. Teng Theng Dar
-
+Mr. Teng Theng Dar  
 CEO, Singapore Business Federation
 
 Distinguished Guests
 
 Ladies and Gentlemen
 
-**Introduction**
-
+**Introduction**  
 I am delighted to join you this evening for the launch of the Singapore Sustainability Awards 2011 held in conjunction with the GES Opening Reception.
 
 Started in 2009, the Singapore Sustainability Awards – an initiative of the Singapore Business Federation (SBF) – aims to recognize and showcase the sustainable business practices and green solutions of Singapore companies.
 
-**From Margin to Mainstream**
-
+**From Margin to Mainstream**  
 The concept of sustainable development is often associated with the United Nations Conference on Environment and Development held in Rio de Janeiro in 1992, which marked the first international attempt to draw up action plans and strategies towards a more sustainable path of development. However, it enjoys a much longer history, starting with the green movement of the 50s and 60s.
 
 The notion that development and environment - hitherto addressed separately - could be managed in a mutually beneficial manner is now a fundamental tenet underpinning the concept of sustainable development. Today, the most common definition is found in the Brundtland Report of 1987 – “development which meets the needs of the present without compromising the ability of future generations to meet their own needs”.
 
 Several driving forces have led to what we see today as the “mainstreaming” of sustainable development. First, there is this growing environmental consciousness in many countries, including in emerging markets as China and India, even with South East Asia itself. Disasters such as Bhopal and Chernobyl have also played their part in raising public awareness. Second, related to the first, is the growing influence of environmental non-governmental organizations (NGOs), sometimes working in partnership, other times, at odds with governments. Third, the growing seriousness of challenges to our environment, such as resource scarcity, extreme weather patterns, and of course, climate change and the effect of global warming.
 
-**Impact on Businesses – Managing Risk, Compliance and Competitiveness**
-
+**Impact on Businesses – Managing Risk, Compliance and Competitiveness**  
 These developments have drastically transformed the strategic environment for many businesses operating in today’s borderless and interconnected world. What it means is that the whole concept of risk has to be re-examined even by the least enlightened of businesses. Businesses must now access the risk exposure of their activities and supply chain to possible disruptions caused by climate change, water and energy shortages. For others, higher standards of sustainability may be an issue of regulatory compliance and competitiveness, especially access to many developed markets in the West.
 
 Likewise, businesses can no longer dismiss changing consumer preferences or the interests of private and institutional investors who are keen to know how managements of these businesses are addressing these new areas of risks. Even stock exchanges have come on board the sustainable agenda, requiring higher disclosure requirements, including disclosure on social, environmental or climate change risks.
@@ -45,8 +40,7 @@ Around the world, we are therefore seeing growing attention towards climate chan
 
 The businesses that strive in this new environment are those that take a longer term perspective, embrace the sustainability agenda because it makes good sense for them to do so, and leverage on these developments to differentiate themselves. These businesses adopt a balanced approach towards corporate social responsibility, environmental sustainability and business growth. Indeed, in the current economic climate, any improvements in efficiency – energy, water, other resources – can benefit the environment as well as the bottom line.
 
-**3P - Public-Private-People Sector - Approach to Sustainability**
-
+**3P - Public-Private-People Sector - Approach to Sustainability**  
 In Singapore’s context, strong public-private-people sector collaboration has always been a cornerstone of our success story. To achieve a more liveable and sustainable Singapore, our private, public sector and community leaders have to share a common vision and work towards bringing about changes needed in our households, our communities, our businesses, and our country.
 
 In this regard, I applaud the efforts of the SBF and various industry partners to promote the understanding and practice of sustainable development amongst the business community.
@@ -55,8 +49,7 @@ I understand that the SBF, together with Singapore Environment Council and Temas
 
 Tonight’s launch of the Singapore Sustainable Awards aims not only to inspire more companies towards sustainable business excellence, it also serves as a platform for companies to exchange and showcase their best practices.
 
-**Singapore Sustainability Awards 2011**
-
+**Singapore Sustainability Awards 2011**  
 Building on the success of its inaugural launch last year, the Singapore Sustainability Awards 2011 comprises of the Sustainable Business Awards and Green IT Awards.
 
 The Sustainable Business Awards has been renamed this year from what was known as the Outstanding Sustainability Awards to better reflect its recognition of enterprise sustainability based on triple bottom lines of social, economic and environmental considerations. These awards will be presented by SBF with KPMG as the knowledge partner and IE Singapore, SPRING Singapore and the Singapore Environment Council as the strategic partners. The awards recognize the innovative and impactful sustainable business practices and green solutions of Singapore companies that are at the forefront of an emerging green economy. Companies will be assessed on their innovation, corporate social responsibility, commercial potential, sustainable business growth and environmental benefits, health and safety and production process management system.
@@ -72,4 +65,5 @@ In conclusion, I congratulate SBF for taking the lead in helping its members to 
 I wish you all a pleasant evening of business networking. Thank you.
 
 
-Source: [<a href="https://www.nea.gov.sg/" target="_blank">National Environment Agency</a>](https://www.nea.gov.sg/)
+
+*Source*: [<a href="https://www.nea.gov.sg/" target="_blank">National Environment Agency</a>](https://www.nea.gov.sg/)

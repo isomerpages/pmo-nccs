@@ -7,8 +7,7 @@ permalink: /media/speeches/speech-by-mr-masagos-zulkifli-minister-for-the-enviro
 
 ### SPEECH BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE OFFICIAL OPENING OF THE TUAS DESALINATION PLANT, 28 JUNE 2018
 
-Distinguished Guests
-
+Distinguished Guests  
 Ladies and Gentlemen
 
 I am pleased to join you this morning for the official opening of the Tuas Desalination Plant, or TDP.  

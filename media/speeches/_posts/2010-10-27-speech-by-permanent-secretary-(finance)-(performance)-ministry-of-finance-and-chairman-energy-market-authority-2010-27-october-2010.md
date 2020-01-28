@@ -7,20 +7,16 @@ permalink: /media/speeches/speech-by-permanent-secretary-(finance)-(performance)
 
 ### SPEECH BY PERMANENT SECRETARY (FINANCE) (PERFORMANCE), MINISTRY OF FINANCE, AND CHAIRMAN, ENERGY MARKET AUTHORITY CHAN LAI FUNG AT THE OPENING CEREMONY OF CARBON FORUM ASIA 2010, 27 OCTOBER 2010
 
-Mr Henry Derwent
-
+Mr Henry Derwent  
 President and CEO, International Emissions Trading Association
 
-Mr Michael Dreyer
-
+Mr Michael Dreyer  
 Vice President, Asia Pacific, Koelnmesse
 
-Mr Edwin Khew
-
+Mr Edwin Khew  
 Chairman, Sustainable Energy Association of Singapore
 
-Distinguished Guests
-
+Distinguished Guests  
 Ladies and Gentlemen
 
 I am pleased to join you for the opening of Carbon Forum Asia 2010. I would like to congratulate the International Emissions Trading Association and Koelnmesse for organising this very successful conference for the fourth year running. Today, Carbon Forum Asia is the leading platform for key industry players to discuss carbon market trends and issues. This year, being part of the Singapore International Energy Week, we can expect the event to further extend its reach, and benefit from the synergies from the gathering of the world’s foremost energy thought leaders.
@@ -58,5 +54,7 @@ In August this year, the commencement of trading activities of the Singapore Mer
 **Conclusion**
 
 To conclude, the global carbon market indeed holds both exciting possibilities as well as challenges. How the market will develop would depend not just on how the regulatory environment would evolve, but also how market players would respond. There have been many proposals for CDM reform. It is premature to speculate how the regulatory environment would pan out exactly. But whatever the eventual environment, I believe there is enough resourcefulness and expertise among industry players like yourselves to make the market work. Over the next two days, I trust you will hear many resourceful ideas and benefit from the collective expertise in this room. I wish all of you fruitful discussions, and hope to see you again at next year’s Singapore International Energy Week.
+
+
 
 Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609o4X5wXxVfRHQ" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609o4X5wXxVfRHQ)

@@ -5,13 +5,12 @@ subtitle: 11 Jan 2010
 permalink: /media/speeches/transcript-of-minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim's-reply-to-parliamentary-question-on-the-copenhagen-climate-change-conference-on-11-january-2010
 ---
 
-### TRANSCRIPT OF MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM'S REPLY TO PARLIAMENTARY QUESTION ON THE COPENHAGEN CLIMATE CHANGE CONFERENCE ON 11 JANUARY 2010
+### TRANSCRIPT OF MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM'S REPLY TO PARLIAMENTARY QUESTION ON THE SINGAPORE SUSTAINABLE BLUEPRINT ON 11 JANUARY 2010
 
-#### ORAL ANSWERS TO QUESTIONS FOR THE PARLIAMENT SITTING ON 11 JANUARY 2010
-
+#### ORAL ANSWERS TO QUESTIONS FOR THE PARLIAMENT SITTING ON 11 JANUARY 2010  
 **Title: Copenhagen Climate Change Conference (key achievements and implications)**
 
-2. **Assoc Prof Paulin Tay Straughan** asked the Minister for the Environment and Water Resources (a) what are the key achievements of the 2009 Copenhagen Climate Change Conference; (b) what are the implications for ASEAN and Singapore; and (c) whether there are plans to advance environment-friendly practices in Singapore.
+3.**Assoc Prof Paulin Tay Straughan** asked the Minister for the Environment and Water Resources (a) what are the key achievements of the 2009 Copenhagen Climate Change Conference; (b) what are the implications for ASEAN and Singapore; and (c) whether there are plans to advance environment-friendly practices in Singapore.
 
 **The Minister for the Environment and Water Resources (Dr Yaacob Ibrahim)**: Mr Speaker, Sir, the Copenhagen Climate Change Conference was held from 7th to 18th December 2009. As is now well-known, it was not able to achieve the widely expected political framework agreement leading to a legally binding outcome in 2010. Instead, countries agreed to extend the mandate of the work into this year and present the outcome at the next Climate Change Conference in Mexico in December 2010. In addition, countries also "took note" of the significant political deal struck by a small group of Leaders on the last day of the Conference. As such, it has yet to be adopted as a formal agreement.
 

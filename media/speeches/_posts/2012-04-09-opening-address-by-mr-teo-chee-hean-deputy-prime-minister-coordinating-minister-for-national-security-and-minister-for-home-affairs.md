@@ -8,21 +8,15 @@ permalink: /media/speeches/opening-address-by-mr-teo-chee-hean-deputy-prime-mini
 ### OPENING ADDRESS BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER, COORDINATING MINISTER FOR NATIONAL SECURITY AND MINISTER FOR HOME AFFAIRS AT THE 6TH ASIA-PACIFIC PROGRAMME FOR SENIOR NATIONAL SECURITY OFFICERS (APPSNO) ON 9 APRIL 2012
 
 Mr Eddie Teo, Chairman, S. Rajaratnam School of International Studies Board of Governors
-
-Ambassador Barry Desker, Dean, RSIS
-
-Excellencies
-
-Distinguished Guests
-
+Ambassador Barry Desker, Dean, RSIS  
+Excellencies  
+Distinguished Guests  
 Ladies and Gentlemen
 
-**Introduction**
-
+**Introduction**  
 Good morning and welcome to the 6th Asia-Pacific Programme for Senior National Security Officers, or APPSNO in short. Since its inception in 2007, APPSNO has been a key forum for officials from the Asia-Pacific to come together, network and exchange perspectives on the latest developments impacting national security. This year’s APPSNO carries on this useful tradition.
 
-**The Complex Global Risk Landscape**
-
+**The Complex Global Risk Landscape**  
 The theme for this year’s APPSNO – “Complexities: Interactions and Interdependencies for National Security” is a timely one. Over the past decade, globalisation and advances in technology have deepened systemic interdependencies, not all of which are obvious, and injected a high level of complexity into the global risk landscape. This has made tackling security risk issues more challenging.
 
 Paradoxically, the attempt to reduce risk at the local level by providing redundancy and fail-soft modes via interconnections with a wider system can increase risk at the overall system level if one part of the interconnected system fails and threatens to bring the whole system down. The Eurozone crisis precipitated by the situation in Greece is one example. One might argue that Britain, which stayed outside the Eurozone, has been less affected, at least by this particular crisis.
@@ -45,8 +39,7 @@ Climate change will also become increasingly important as a risk multiplier, exa
 
 Taken together, what this means is that the risk landscape will become increasingly complex and diverse, with no single dominant risk, but a series of interconnected ones which could coalesce into a major event. This in turn makes achieving security more difficult. We not only have to improve our ability to identify potential risks as quickly as possible, but also have to raise our game, and be adaptable in tackling those same risks in order to safeguard vital national interests.
 
-**Approaches to Address Complexity**
-
+**Approaches to Address Complexity**  
 How then can we tackle these complex risks?
 
 First, a multi-disciplinary approach is needed. We have to develop anticipatory capabilities and policy interventions that go beyond the individual stakeholder, agency or even country. Instead, we need to consider the full range of perspectives from various stakeholders to better understand the causal factors and interconnections, so as to deal with them more effectively.
@@ -69,8 +62,7 @@ Third, international collaboration is essential for effective response to comple
 
 Because crime does not recognise national borders, and indeed will exploit them, enforcement agencies in different countries must work together in order to fight transnational crime. A good example is the new INTERPOL Global Complex for Innovation, which will open in Singapore in 2014. It will carry out research and development and build up new capabilities such as digital forensics. This facility will also allow enforcement officers around the world to share real-time criminal data, analyse cyber threats and trends, and work more closely together when fighting new types of crime, including transnational crime and cybercrime.
 
-**Conclusion**
-
+**Conclusion**  
 Your participation in APPSNO today is a good indication that you see the necessity and value of working together across countries and agencies to deal with a more dynamic and complex risk landscape. We need to revisit issues periodically, broaden our horizons by sharing perspectives, and constantly challenge our mental models so that we can be better prepared for the future.
 
 APPSNO provides a useful platform to bring together senior officials from the Asia-Pacific region to start conversations and build relationships that will strengthen in the years to come.

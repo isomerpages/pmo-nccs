@@ -7,10 +7,8 @@ permalink: /media/speeches/speech-by-ms-grace-fu-second-minister-for-the-environ
 
 ### SPEECH BY MS GRACE FU, SECOND MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AT THE OPENING OF 2015 INTERNATIONAL CSR SUMMIT BY GLOBAL COMPACT NETWORK SINGAPORE ON 26TH AUGUST 2015
 
-Mr Kwek Leng Joo, President of Global Compact Network Singapore,
-
-Distinguished Guests, 
-
+Mr Kwek Leng Joo, President of Global Compact Network Singapore,  
+Distinguished Guests,   
 Ladies and Gentlemen,
 
 Good morning. I am happy to be here with you as we celebrate the 10th anniversary of Global Compact Network Singapore.
@@ -43,4 +41,4 @@ Let me conclude by congratulating our winners for the Young CSR Leaders Award. I
 
 Thank you very much and have a fruitful and meaningful summit ahead.
 
-Source: [<a href="https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--second-minister-for-the-environment-and-water-resources-at-the-opening-of-2015-international-csr-summit-by-global-compact-network-singapore-on-26th-august-2015-at-suntec-singapore-convention-and-exhibition-centre" target="_blank">CleaMinistry of the Environment and Water ResourcesnTech</a>](https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--second-minister-for-the-environment-and-water-resources-at-the-opening-of-2015-international-csr-summit-by-global-compact-network-singapore-on-26th-august-2015-at-suntec-singapore-convention-and-exhibition-centre)
+Source: [<a href="https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--second-minister-for-the-environment-and-water-resources-at-the-opening-of-2015-international-csr-summit-by-global-compact-network-singapore-on-26th-august-2015-at-suntec-singapore-convention-and-exhibition-centre" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--second-minister-for-the-environment-and-water-resources-at-the-opening-of-2015-international-csr-summit-by-global-compact-network-singapore-on-26th-august-2015-at-suntec-singapore-convention-and-exhibition-centre)

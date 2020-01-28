@@ -7,7 +7,7 @@ permalink: /media/speeches/keynote-address-by-masagos-zulkifli-minister-for-the-
 
 ### KEYNOTE ADDRESS BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AT THE YOUNG NTUC GREEN JOBS SYMPOSIUM AND NETWORKING 2017, 8 NOVEMBER 2017
 
-Mr Desmond Choo, 
+Mr Desmond Choo,   
 Executive Secretary of Young NTUC and MP of Tampines GRC
 
 Distinguished Guests,

@@ -7,8 +7,7 @@ permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-env
 
 ### SPEECH BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE INAUGURAL WONGPARTNERSHIP LEADERS FORUM, 10 FEBRUARY 2012
 
-**Greening the Singapore economy**
-
+**Greening the Singapore economy**  
 We live in a world which is simultaneously confronting a global financial crisis, political upheavals in many parts of the world due to growing inequality, resource depletions, a high energy crisis, a looming food and water crisis, the threat of future global pandemics and of course climate change.
 
 Let’s think about this - at the risk of some exaggeration, these are the ingredients for a perfect storm. There are not going to be any quick and easy solutions and we are certainly not going to solve the world’s problems in this morning’s session. But I just wanted to offer a hypothesis, and then perhaps some principles as to how we could maybe address some of these problems.
@@ -54,4 +53,5 @@ So let me conclude with 6 words for you to bear in mind - Right pricing, informe
 Thank you very much.
 
 
-Source: [<a href="https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources-at-the-inaugural-wongpartnership-leaders-forum--10-february-2012-at-shangri-la" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources-at-the-inaugural-wongpartnership-leaders-forum--10-february-2012-at-shangri-la)
+
+*Source*: [<a href="https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources-at-the-inaugural-wongpartnership-leaders-forum--10-february-2012-at-shangri-la" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources-at-the-inaugural-wongpartnership-leaders-forum--10-february-2012-at-shangri-la)

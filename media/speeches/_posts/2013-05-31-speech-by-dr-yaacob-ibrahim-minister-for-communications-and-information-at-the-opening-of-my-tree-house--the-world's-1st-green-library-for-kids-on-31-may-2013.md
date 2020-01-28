@@ -7,13 +7,11 @@ permalink: /media/speeches/speech-by-dr-yaacob-ibrahim-minister-for-communicatio
 
 ### SPEECH BY DR YAACOB IBRAHIM, MINISTER FOR COMMUNICATIONS AND INFORMATION, AT THE OPENING OF MY TREE HOUSE- THE WORLD'S 1ST GREEN LIBRARY FOR KIDS, ON 31 MAY 2013
 
-Mrs Elaine Ng
+Mrs Elaine Ng  
+Chief Executive Officer, National Library Board
 
-    Chief Executive Officer, National Library Board
-
-Mr Kwek Leng Joo
-
-    Managing Director, City Developments Limited
+Mr Kwek Leng Joo  
+Managing Director, City Developments Limited
 
 Distinguished Guests
 
