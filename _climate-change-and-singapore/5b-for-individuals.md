@@ -4,7 +4,7 @@ permalink: /climate-change-and-singapore/for-individuals/
 third_nav_title: What We Can Do
 ---
 
-### FOR INDIVIDUAL
+### FOR INDIVIDUALS
 
 **Small Changes Make a Difference**  
 Smart decision making at home or at work could mean lower energy use, lower emissions and a better world for everyone. We can start by using energy, water and other resources more carefully so that we minimise wastage.
