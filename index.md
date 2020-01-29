@@ -29,7 +29,7 @@ sections:
         title: CLIMATE CHANGE PUBLIC PERCEPTION SURVEY 2019
         description: The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a survey from May to July 2019 to gauge public perception and views on climate change.
         button: View All
-        url: /media/news/test/
+        url: /media/
     - resources:
       - title: Media
         subtitle: Subtitle
