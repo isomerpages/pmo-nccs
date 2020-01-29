@@ -62,4 +62,3 @@ permalink: /media/speeches/new-year-message-2010-delivered-by-prime-minister-lee
 22.These are not one-off measures, but long term goals that we will implement over several years. Singaporeans should be prepared for these changes to come. The Economic Strategies Committee is reviewing our longer-term strategies for growth, and will propose policies to achieve our full potential. It will publish its main recommendations soon, which the Govern¬ment will respond to in the coming Budget.
 
 23.This transformation will not be easy, but I am confident we can succeed. Our history has been one of overcoming difficult odds to survive and prosper. We have got here by being an extraordinary nation. What sets us apart from other countries is our steadfastness in the face of crisis, our commitment to deliver what we aim to do, and most of all our spirit of meeting challenges as one people.
-

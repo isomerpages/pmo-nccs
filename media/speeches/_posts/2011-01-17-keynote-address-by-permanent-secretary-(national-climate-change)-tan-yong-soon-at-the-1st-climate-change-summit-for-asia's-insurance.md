@@ -125,4 +125,3 @@ d. Vibrant IOs and NGOs Community.
 <sup>[7]</sup> Swiss Re Sigma Report 1/2010  
 <sup>[8]</sup> defined as those with annual disposable income of US$5,000 to US$15,000  
 <sup>[9]</sup> an international organisation in sustainable development owned by German government
-

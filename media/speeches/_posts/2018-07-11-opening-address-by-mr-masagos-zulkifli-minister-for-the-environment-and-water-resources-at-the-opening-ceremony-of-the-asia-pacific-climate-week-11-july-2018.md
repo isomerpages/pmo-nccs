@@ -5,14 +5,11 @@ subtitle: 11 Jul 2018
 permalink: /media/speeches/opening-address-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-opening-ceremony-of-the-asia-pacific-climate-week-11-july-2018
 ---
 
-### OPENING ADDRESS BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE OPENING CEREMONY OF THE ASIA-PACIFIC CLIMATE WEEK, 11 JULY 2018
-
+### OPENING ADDRESS BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE OPENING CEREMONY OF THE ASIA-PACIFIC CLIMATE WEEK, 11 JULY 2018  
 ***“Driving Change in Asia Pacific through Innovation”***
 
-UNFCCC Executive Secretary Ms Patricia Espinosa
-
-COP-23 Chief Negotiator Ambassador Luke Daunivalu
-
+UNFCCC Executive Secretary Ms Patricia Espinosa  
+COP-23 Chief Negotiator Ambassador Luke Daunivalu  
 COP-24 President-Designate Mr Michal Kurtyka
 
 Vice President, Knowledge Management, Asian Development Bank Mr Bambang Susantono
@@ -37,7 +34,7 @@ I would like to focus on two thrusts that are key to driving change in the Asia-
 
 **Driving Change through Innovation**
 
-***First***, innovation is an important enabler that will help us make the leap to a low carbon and climate-resilient future. For green innovation to flourish, governments must establish the correct policy environment. The setting of a carbon price for example, captures the external costs of greenhouse emissions and sends an important price signal to encourage emissions reduction and cleantech solutions.
+<u>First</u>, innovation is an important enabler that will help us make the leap to a low carbon and climate-resilient future. For green innovation to flourish, governments must establish the correct policy environment. The setting of a carbon price for example, captures the external costs of greenhouse emissions and sends an important price signal to encourage emissions reduction and cleantech solutions.
 
 Singapore will join the growing list of countries, including many in the Asia-Pacific region, which have introduced a carbon tax. We will implement an economy-wide carbon tax from 2019. We will start at a price of SGD5 per tonne of CO2-equivalent of greenhouse gas emissions for facilities that exceed 25 kilotonnes emission annually. This will cover 80 per cent of our emitters. Our carbon tax will apply uniformly to all sectors, without exemption. This will maintain a transparent, fair, and consistent carbon price across the economy. The carbon tax complements our comprehensive mitigation measures across all sectors including industry, transport, buildings and power generation. It will help spur the development and adoption of innovative eco-friendly solutions. Indeed, the carbon tax is not intended as a fiscal measure of our Government for the first five years but will be primarily used for innovations and transformation of the industries responsible for emissions.
 
@@ -47,7 +44,7 @@ Globally, the scope for green innovation is tremendous. The World Bank estimates
 
 **Collaboration at All Levels**
 
-This brings me to my ***second point***, collaboration.  As I have highlighted earlier, our response to climate change must be a global response. To realise the Paris Agreement and galvanise the investments required, all stakeholders at the national, regional and global levels must engage one another, cement partnerships, and collaborate climate action.
+This brings me to my <u>second</u> point, collaboration.  As I have highlighted earlier, our response to climate change must be a global response. To realise the Paris Agreement and galvanise the investments required, all stakeholders at the national, regional and global levels must engage one another, cement partnerships, and collaborate climate action.
 
 This is the crux of the Talanoa Dialogue, which aims to mobilise climate action through inclusive conversation. Singapore is doing our part to mobilise action and collaboration at all levels.
 
@@ -59,9 +56,8 @@ Yesterday, we convened the Special ASEAN Ministerial Meeting on Climate Action (
 
 Internationally, we are also doing our part to support the efforts of fellow developing countries. Yesterday, I announced a Climate Action Package that will develop capacity in the ASEAN region and support climate action efforts. And since 1992, we have worked with 120,000 officials from fellow developing countries to build capacity in key areas such as sustainable development under the Singapore Cooperation Programme (SCP).
 
-The meetings here this week complement the ongoing international climate change negotiations. To ensure that we achieve a meaningful outcome in Katowice, we need to ***first*** preserve the integrity of the Paris Agreement; ***second***, provide the necessary assurances to encourage everyone to put their best foot forward; and ***third***, push for a balanced, pragmatic and credible implementation package in Katowice. This will ensure the full and effective implementation of the Paris Agreement and maintain the global momentum on climate action.
+The meetings here this week complement the ongoing international climate change negotiations. To ensure that we achieve a meaningful outcome in Katowice, we need to <u>first</u> preserve the integrity of the Paris Agreement; <u>second</u>, provide the necessary assurances to encourage everyone to put their best foot forward; and <u>third</u>, push for a balanced, pragmatic and credible implementation package in Katowice. This will ensure the full and effective implementation of the Paris Agreement and maintain the global momentum on climate action.
 
 Let me conclude. The impact of climate change respects no geographical or national boundaries. A global response is required, and the time for action is now. I wish all of you a fruitful meeting. Thank you.
-
 
 *Source: [<a href="https://www.mewr.gov.sg/news/opening-address-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-asia-pacific-climate-week-on-11-july-2018" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/opening-address-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-asia-pacific-climate-week-on-11-july-2018)*

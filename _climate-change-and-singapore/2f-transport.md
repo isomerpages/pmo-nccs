@@ -10,7 +10,7 @@ Private cars contribute the largest share of emissions by the transport sector a
 
 **Land Transport Carbon Emissions by Vehicle Mode (2005)**
 
-![Land Transport Carbon Emissions by Vehicle Mode (2005)](https://www.nccs.gov.sg/images/default-source/default-album/land-transport-carbon-emissions-by-vehicle-mode-2005.gif "Land Transport Carbon Emissions by Vehicle Mode (2005)")
+![Land Transport Carbon Emissions by Vehicle Mode (2005)](/images/land-transport-carbon-emissions-by-vehicle-mode-2005.gif "Land Transport Carbon Emissions by Vehicle Mode (2005)")
 
 Singapore is aiming for 75 per cent of trips made during the morning and evening peak hours to be made by public transport by 2030, and increase this to at least 85 per cent by the 2050s. This will help to reduce emissions as public transport is the most energy efficient mode of travel. The government's main thrusts include:
 
@@ -20,7 +20,7 @@ The Singapore Government has already invested S$60 billion to double the existin
 
 To facilitate this expansion, more trains are being purchased and the number of weekly train trips has been increased to ensure that the MRT continues to remain an accessible, energy-efficient mode of travel for Singaporeans.
 
-![Increasing Investment in Mass Rapid Transit (MRT)](https://www.nccs.gov.sg/images/default-source/default-album/increasing-investment-in-mass-rapid-transit-mrt.jpg "Increasing Investment in Mass Rapid Transit (MRT)")
+![Increasing Investment in Mass Rapid Transit (MRT)](/images/increasing-investment-in-mass-rapid-transit-mrt.jpg "Increasing Investment in Mass Rapid Transit (MRT)")
 *The MRT is a fuel-efficient mode of public transport.*
 
 **The Bus Option**
@@ -31,7 +31,7 @@ With the introduction of another 800 buses, (a 20 per cent increase) over the ne
 
 In addition, greater road priority for buses, such as full-day and part-day bus lanes and the Mandatory Give Way to Buses Scheme implemented island-wide make bus travel even more efficient.
 
-![The Bus Option](https://www.nccs.gov.sg/images/default-source/default-album/the-bus-option.jpg "The Bus Option")
+![The Bus Option](/images/the-bus-option.jpg "The Bus Option")
 *Source: The Straits Times © Singapore Press Holdings Limited. Reproduced with permission.*
 
 **Stricter Vehicle Ownership**

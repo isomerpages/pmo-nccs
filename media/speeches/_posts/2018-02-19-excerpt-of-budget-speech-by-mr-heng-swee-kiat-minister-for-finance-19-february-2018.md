@@ -5,8 +5,7 @@ subtitle: 19 Feb 2018
 permalink: /media/speeches/excerpt-of-budget-speech-by-mr-heng-swee-kiat-minister-for-finance-19-february-2018
 ---
 
-### EXCERPT OF BUDGET SPEECH BY MR HENG SWEE KIAT, MINISTER FOR FINANCE, 19 FEBRUARY 2018
-
+### EXCERPT OF BUDGET SPEECH BY MR HENG SWEE KIAT, MINISTER FOR FINANCE, 19 FEBRUARY 2018  
 **Reducing Emissions**
 
 To improve our living environment, we must also address one of the most pressing challenges the world faces – climate change.
@@ -85,7 +84,4 @@ For our households, the impact of the carbon tax will be small, at about 1 per c
 
 We have designated 2018 as the Year of Climate Action, to encourage all Singaporeans to fight climate change. The Minister for the Environment and Water Resources will speak more on our other plans to reduce energy use and carbon emissions at the COS.
 
-For full speech, please go to  
-[<a href="https://www.singaporebudget.gov.sg/data/budget_2018/download/FY2018_Budget_Statement.pdf" target="_blank">http://www.singaporebudget.gov.sg/data/budget_2018/download/FY2018_Budget_Statement.pdf</a>](https://www.singaporebudget.gov.sg/data/budget_2018/download/FY2018_Budget_Statement.pdf)
-
-
+For full speech, please go to : [<a href="https://www.singaporebudget.gov.sg/data/budget_2018/download/FY2018_Budget_Statement.pdf" target="_blank">http://www.singaporebudget.gov.sg/data/budget_2018/download/FY2018_Budget_Statement.pdf</a>](https://www.singaporebudget.gov.sg/data/budget_2018/download/FY2018_Budget_Statement.pdf)

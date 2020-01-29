@@ -30,6 +30,6 @@ Singapore ranks 27th out of 142 countries in terms of emissions per capita based
 
 Projecting from 2005, our business-as-usual (BAU) emissions are expected to reach 77.2 million tonnes (MT) in 2020.
 
-![Projected 2020 Business-As-Usual Greenhouse Gas Emissions](/images/projected-2020-business-as-usual-greenhouse-gas-emissions.gif "Projected 2020 Business-As-Usual Greenhouse Gas Emissions")
+![Projected 2020 Business-As-Usual Greenhouse Gas Emissions](/images/projected-2020-business-as-usual-greenhouse-gas-emissions.gif "Projected 2020 Business-As-Usual Greenhouse Gas Emissions"){: style="width:450px; height:643px;"}
 
 Source: [<a href="/pdf/national-climate-change-strategy.pdf" target="_blank">Climate Change & Singapore: Challenges. Opportunities. Partnerships</a>](/pdf/national-climate-change-strategy.pdf)

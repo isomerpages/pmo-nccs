@@ -22,5 +22,3 @@ Minister Balakrishnan also emphasised Singapore's commitment to support the mult
 Ministry of the Environment and Water Resources
 
 National Climate Change Secretariat
-
-

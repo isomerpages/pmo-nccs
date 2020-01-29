@@ -5,12 +5,12 @@ subtitle: 11 Jan 2010
 permalink: /media/speeches/transcript-of-minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim's-reply-to-parliamentary-question-on-the-copenhagen-climate-change-conference-on-11-january-2010
 ---
 
-### TRANSCRIPT OF MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM'S REPLY TO PARLIAMENTARY QUESTION ON THE SINGAPORE SUSTAINABLE BLUEPRINT ON 11 JANUARY 2010
+### TRANSCRIPT OF MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM'S REPLY TO PARLIAMENTARY QUESTION ON THE COPENHAGEN CLIMATE CHANGE CONFERENCE ON 11 JANUARY 2010
 
 #### ORAL ANSWERS TO QUESTIONS FOR THE PARLIAMENT SITTING ON 11 JANUARY 2010  
 **Title: Copenhagen Climate Change Conference (key achievements and implications)**
 
-3.**Assoc Prof Paulin Tay Straughan** asked the Minister for the Environment and Water Resources (a) what are the key achievements of the 2009 Copenhagen Climate Change Conference; (b) what are the implications for ASEAN and Singapore; and (c) whether there are plans to advance environment-friendly practices in Singapore.
+2.**Assoc Prof Paulin Tay Straughan** asked the Minister for the Environment and Water Resources (a) what are the key achievements of the 2009 Copenhagen Climate Change Conference; (b) what are the implications for ASEAN and Singapore; and (c) whether there are plans to advance environment-friendly practices in Singapore.
 
 **The Minister for the Environment and Water Resources (Dr Yaacob Ibrahim)**: Mr Speaker, Sir, the Copenhagen Climate Change Conference was held from 7th to 18th December 2009. As is now well-known, it was not able to achieve the widely expected political framework agreement leading to a legally binding outcome in 2010. Instead, countries agreed to extend the mandate of the work into this year and present the outcome at the next Climate Change Conference in Mexico in December 2010. In addition, countries also "took note" of the significant political deal struck by a small group of Leaders on the last day of the Conference. As such, it has yet to be adopted as a formal agreement.
 
@@ -41,4 +41,3 @@ We are investing in solar energy, even though we have pointed out that we may no
 To the Member's first question – which industries emit most of the greenhouse gases. We know that there is a large petrochemical sector in Singapore. But the most important thing is that we work with the industry very closely. At the end of the day, whatever that we do, as mentioned earlier, it must not impact our economic growth. So, the various agencies have been working together and ensuring that industries understand where we are coming from, so that whatever we do or whatever we want them to do, they do it in a manner which is to preserve jobs, preserve our economic growth, and switch over to more efficient technologies which are available in the market.
 
 Sir, let me just give Members some examples. We have worked with some companies within the pharmaceutical sectors where they have moved towards tri-generation where within their own premises they have generated electricity, water and steam for their own purposes. By doing so, they reap greater efficiency, and reduce our carbon footprint. So, these are the things in which we should do with the industries and find ways in which they can continue to do business in Singapore in a cost-effective manner, yet at the same time reduce the greenhouse gas emissions. As I mentioned earlier, this has to be balanced carefully. I want to assure the House that the various agencies are working very closely with the industries so that we can meet our 16 per cent target, if there is a global agreement.
-

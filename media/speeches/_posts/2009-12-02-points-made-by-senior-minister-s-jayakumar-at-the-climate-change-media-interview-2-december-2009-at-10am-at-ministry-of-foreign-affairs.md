@@ -78,7 +78,7 @@ The past actions we have already taken to conserve energy have also limited our 
 
 Despite all these constraints, we have always taken the environment seriously. Long before climate change became a global issue, we took several actions which have resulted in significant reduction in emissions growth. Otherwise, Singapore today would not be livable. These past measures include:
 
-(a) Green cover: Over the 20-year period from 1986-2007, our policies to actively "green" Singapore led to an increase of over 10 per cent in our green cover from 36 per cent to 46 per centeven though our population had increased by 68 per cent during this period.
+(a) Green cover: Over the 20-year period from 1986-2007, our policies to actively "green" Singapore led to an increase of over 10 per cent in our green cover from 36 per cent to 46 per cent even though our population had increased by 68 per cent during this period.
 
 (b) Transport policies: We are one of the few countries to cap vehicle growth. In the past, we limited annual car growth to 3 per cent, and have lowered it down to 1.5 per cent from 2009. These stringent policies to limit vehicle growth and usage have reduced emissions by approximately 5 per cent.
 
@@ -169,6 +169,7 @@ We are prepared to do more in spite of what we have done in the past, to go beyo
 
 If you look at how the modal split has changed, if you look at how travel patterns have changed, I think you will realise that this 70 percent by 2020 will require a huge change in people's travelling behaviour, will require huge investments in transportation infrastructure like rail, will require changes in roads, public transport facilities and so on. So that is one area. Take another example, in the area of energy efficiency in buildings, we have already committed in the IMCSD blueprint to converting 80 percent of our buildings to achieving the Green Mark certified rating. Now the Green Mark certified rating is the lowest Green Mark rating. If we are to achieve this 16 percent, that is not going to be enough. We have got to up the minimum rating to something like the GoldPlus or even the Platinum rating which is a much more difficult standard to achieve but that is something that we would need to do if we are to achieve minus 16 percent. So this is just to give you a flavour of what are some of the measures we would need to implement in order to achieve what I consider to be a very tough target but it is something that we believe we will be able to meet if all parties involved put in the effort, and through various measures. So I just wanted to add these comments to what Professor Jayakumar has said.
 
+
 **REMARKS MADE BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES YAACOB IBRAHIM**  
 Thank you, SM. Let me now just say a few words about the flavour of the negotiations. As you know, since 2005, Singapore has been actively participating in the climate change negotiations both at the officials' level and the political level.
 
@@ -189,5 +190,3 @@ Let me give you some numbers. Our wind speed is only 2 metres per second, not en
 So being an AED, energy efficiency is our key strategy. We have to be efficient in the way we use energy in order to combat climate change and there are clear benefits. Energy efficiency will lower household utility bills. Businesses will improve their competitiveness and Singapore will enhance our energy security because even without climate change we have to move towards energy efficiency because as Prof (SM Jayakumar) mentioned it is practical, and realistic measure that we have to do anyway. So as you heard from Minister Mah, we had set an energy intensity target of 35 percent by 2030 from 2005 levels. So we are committed to what we can do and I share the aspirations of Prof and Minister Mah that we will have to do this come what may because it is the only thing that you have in order to ensure that we can combat climate change.
 
 Thank you very much.
-
-

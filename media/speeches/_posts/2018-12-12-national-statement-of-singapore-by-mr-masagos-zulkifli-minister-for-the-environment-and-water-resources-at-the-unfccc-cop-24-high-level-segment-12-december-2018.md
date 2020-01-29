@@ -49,7 +49,7 @@ We also launched the ASEAN Smart Cities Network (ASCN), a collaborative platform
 
 Singapore is also supporting the Southeast Asia Disaster Risk Insurance Facility (SEADRIF), which will be ASEAN’s first regional catastrophe risk pool. The SEADRIF will be set up in Singapore by 2019 to address the rising natural catastrophe protection gap in the region.
 
-ASEAN is making real progress. At the ASEAN Energy Ministers’ meeting in Singapore on 29 October 2018, it was announced that ASEAN has exceeded itsenergy efficiency target, reducing energy intensity by more than 20% in 2016 compared to 2005 levels, well ahead of its 2020 target.[4]  But we are not resting on our laurels. ASEAN has signed an MOU with IRENA in October to scale up renewable deployment further. ASEAN will continue with our efforts to implement the Paris Agreement and the 2030 Agenda for Sustainable Development.
+ASEAN is making real progress. At the ASEAN Energy Ministers’ meeting in Singapore on 29 October 2018, it was announced that ASEAN has exceeded itsenergy efficiency target, reducing energy intensity by more than 20 per cent in 2016 compared to 2005 levels, well ahead of its 2020 target.[4]  But we are not resting on our laurels. ASEAN has signed an MOU with IRENA in October to scale up renewable deployment further. ASEAN will continue with our efforts to implement the Paris Agreement and the 2030 Agenda for Sustainable Development.
 
 **Working with the International Community**
 

@@ -87,4 +87,5 @@ I wish everyone here a fruitful conference ahead.
 
 
 **Footnote**  
+
 <sup>1</sup>From 165 litres in 2003 to 153 litres in 2011. Our long-term target, set out in the Sustainable Singapore Blueprint, is to lower consumption to 147 litres by year 2020

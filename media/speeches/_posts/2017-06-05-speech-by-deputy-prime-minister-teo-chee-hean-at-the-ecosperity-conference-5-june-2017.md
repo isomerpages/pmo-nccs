@@ -21,11 +21,11 @@ Since the 1970s, economic development has helped to lift billions of people out 
 
 But this progress is not even, and important challenges remain, at the community, national and global levels. Social inequality, education and work opportunities for women, and youth unemployment remain areas of concern for many countries. Rising populism and protectionism in several advanced economies, technological disruptions, and new transnational security and pandemic threats add more complexity and uncertainty to health, safety and development.
 
-Our environment is also under stress. Since 1972, world population has grown from 3.8 billion to 7.3 billion in 2015, and is expected to grow to 9.7 billion by 2050.<sup>[1]</sup>
+Our environment is also under stress. Since 1972, world population has grown from 3.8 billion to 7.3 billion in 2015, and is expected to grow to 9.7 billion by 2050.<a href="#1"><sup>[1]</sup></a>
 
-More than 54 per cent already live in urban areas.<sup>[2]</sup>.  Access to clean air, clean water, power and sanitation are challenges in many countries.
+More than 54 per cent already live in urban areas.<a href="#2"><sup>[2]</sup></a>.  Access to clean air, clean water, power and sanitation are challenges in many countries.
 
-Coastal communities, of which Singapore is a small, low-lying one, are also more vulnerable to rising sea levels due to global climate change. The Asian Development Bank estimates that rising sea levels could lead to flooding and damage amounting to up to 10 percent of global GDP by the end of the century.<sup>[3]</sup>
+Coastal communities, of which Singapore is a small, low-lying one, are also more vulnerable to rising sea levels due to global climate change. The Asian Development Bank estimates that rising sea levels could lead to flooding and damage amounting to up to 10 percent of global GDP by the end of the century.<a href="#3"><sup>[3]</sup></a>
 
 So individuals, companies, countries, and the global community will need to work together to develop solutions for sustainable development. This afternoon, I will speak on four aspects of Singapore’s sustainable development experience, as a small, densely populated, island nation with no natural resources - building a sustainable economy, creating a sustainable living environment, ensuring sustainable development for our people, and contributing to international collaboration.
 
@@ -33,11 +33,11 @@ So individuals, companies, countries, and the global community will need to work
 
 First, building a sustainable economy. Economic growth generates the resources to invest in education, R&D, security, infrastructure and public services. With no natural resources, we have had to be resourceful so as to make a living for ourselves. Finding ways to create and add value, producing goods and services that are in demand by others, and making careful use of resources, as everything we use has to be imported and paid for. This has required integrated and long-term planning to optimise resources such as budget, land, manpower, energy and more recently, carbon emissions, to ensure sustainable growth.
 
-We made early choices to turn away very pollutive industries. We took early action to switch to natural gas, the cleanest form of fossil fuel, for power generation. Today, natural gas generates around 95 per cent of our electricity and we are among the 20 most carbon-efficient countries in the world.<sup>[4]</sup> This means that we produce low levels of carbon emissions for every dollar of GDP generated.
+We made early choices to turn away very pollutive industries. We took early action to switch to natural gas, the cleanest form of fossil fuel, for power generation. Today, natural gas generates around 95 per cent of our electricity and we are among the 20 most carbon-efficient countries in the world.<a href="#4"><sup>[4]</sup></a> This means that we produce low levels of carbon emissions for every dollar of GDP generated.
 
-We will intensify our efforts, as we work towards achieving our commitment under the Paris Agreement. We will reduce emissions intensity by 36 per cent from 2005 levels by 2030, and to stabilise emissions with the aim of peaking by then. We plan to introduce a carbon tax from 2019 so that those who emit the most carbon emissions will bear the cost to our environment and be encouraged to reduce their emissions. There is also much potential for our industries to save costs as we raise energy efficiency. The carbon tax will also help to align the costs and benefits of reducing emissions. We are also scaling up deployment for solar, aggregating demand<sup>[5]</sup> across our agencies and testing floating solar photovoltaics on our reservoirs.
+We will intensify our efforts, as we work towards achieving our commitment under the Paris Agreement. We will reduce emissions intensity by 36 per cent from 2005 levels by 2030, and to stabilise emissions with the aim of peaking by then. We plan to introduce a carbon tax from 2019 so that those who emit the most carbon emissions will bear the cost to our environment and be encouraged to reduce their emissions. There is also much potential for our industries to save costs as we raise energy efficiency. The carbon tax will also help to align the costs and benefits of reducing emissions. We are also scaling up deployment for solar, aggregating demand<a href="#5"><sup>[5]</sup></a> across our agencies and testing floating solar photovoltaics on our reservoirs.
 
-These plans can help us to move towards a low-carbon society, and also be a Living Laboratory for businesses, agencies and research institutes to develop new products and services for the global economy.  According to the “Better Business, Better World” Asia report launched earlier today, opportunities in sustainability could contribute US$ 12 trillion to global GDP and 380 million new jobs by 2030<sup>[6]</sup>.  I encourage our businesses to seize these opportunities, and develop low-carbon solutions for Singapore and the region.
+These plans can help us to move towards a low-carbon society, and also be a Living Laboratory for businesses, agencies and research institutes to develop new products and services for the global economy.  According to the “Better Business, Better World” Asia report launched earlier today, opportunities in sustainability could contribute US$ 12 trillion to global GDP and 380 million new jobs by 2030<a href="#6"><sup>[6]</sup></a>.  I encourage our businesses to seize these opportunities, and develop low-carbon solutions for Singapore and the region.
 
 **Sustainable Living Environment**
 
@@ -45,7 +45,7 @@ Second, creating a sustainable living environment. Our pioneer generation had a 
 
 Mr Lee Kuan Yew started Tree Planting Day in 1963 and today, we are a City in a Garden, with about 47 per cent green cover in Singapore.
 
-More than 80 per cent of households are within a 10 minute walk from a park.  Given our urban environment, we are now focusing on skyrise greenery to reduce the urban heat island effect. We are not only looking at horizontal spaces, but vertical spaces as well. We have 72 ha of rooftop gardens and green walls today, and aim to triple this by 2030<sup>[7]</sup>. These plans are outlined in our “Sustainable Singapore Blueprint”. I have also launched the Public Sector Sustainability Plan this morning which will catalyse sustainable practices, generate demand for green products and services and encourage our public officers to think green. These initiatives will help sustain a green and sustainable living environment for all Singaporeans.
+More than 80 per cent of households are within a 10 minute walk from a park.  Given our urban environment, we are now focusing on skyrise greenery to reduce the urban heat island effect. We are not only looking at horizontal spaces, but vertical spaces as well. We have 72 ha of rooftop gardens and green walls today, and aim to triple this by 2030<a href="#7"><sup>[7]</sup></a>. These plans are outlined in our “Sustainable Singapore Blueprint”. I have also launched the Public Sector Sustainability Plan this morning which will catalyse sustainable practices, generate demand for green products and services and encourage our public officers to think green. These initiatives will help sustain a green and sustainable living environment for all Singaporeans.
 
 **Sustainable Development for our People**
 
@@ -61,7 +61,7 @@ SkillsFuture Singapore will work closely with our associations, unions and compa
 
 Fourth, nations need to work together to address global challenges. Issues such as trans-boundary air pollution or pandemics require a regional response, while others such as climate change require the contribution of all countries to be fully effective. Singapore remains committed to the Paris Agreement and supports the United Nations 2030 Agenda for Sustainable Development.
 
-The 2030 Agenda provides a framework to guide national efforts in achieving these 17 Sustainable Development Goals<sup>[8]</sup>. In support of this Agenda, we have trained more than 112 000 officials from over 170 developing countries in key areas such as sustainable urban, water and human resource management, health and education.  We will continue to build on our past contributions to the Millennium Development Goals through our technical assistance initiative. This new Sustainable Development Programme will focus on sharing Singapore’s sustainable development policies and expertise, through leadership seminars in policy making, workshops on urban governance in cities, and water and sanitation projects.
+The 2030 Agenda provides a framework to guide national efforts in achieving these 17 Sustainable Development Goals<a href="#8"><sup>[8]</sup></a>. In support of this Agenda, we have trained more than 112 000 officials from over 170 developing countries in key areas such as sustainable urban, water and human resource management, health and education.  We will continue to build on our past contributions to the Millennium Development Goals through our technical assistance initiative. This new Sustainable Development Programme will focus on sharing Singapore’s sustainable development policies and expertise, through leadership seminars in policy making, workshops on urban governance in cities, and water and sanitation projects.
 
 In the course of our development journey, Singapore has benefited from the experience of many countries as we developed, and we continue to do so. We hope that our collaborations in sustainable development can in a similar way help make a small contribution to the development paths and journeys of other countries.
 
@@ -78,20 +78,19 @@ Thank you very much.
 
 ___
 
-[1] United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision, Key Findings and Advance Tables. Working Paper No. ESA/P/WP.241.
+<a id="1" name="1">[1]</a> United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision, Key Findings and Advance Tables. Working Paper No. ESA/P/WP.241.
 
-[2] United Nations, Department of Economic and Social Affairs, Population Division (2014). World Urbanization Prospects: The 2014 Revision, Highlights (ST/ESA/SER.A/352).
+<a id="2" name="1">[2]</a> United Nations, Department of Economic and Social Affairs, Population Division (2014). World Urbanization Prospects: The 2014 Revision, Highlights (ST/ESA/SER.A/352).
 
-[3] Impact of Sea Level Rise on Economic Growth in Developing Asia, ADB Economics Working Paper No. 507, Jan 2017.
+<a id="3" name="3">[3]</a> Impact of Sea Level Rise on Economic Growth in Developing Asia, ADB Economics Working Paper No. 507, Jan 2017.
 
-[4] IEA World Energy Statistics (2016), 2014 data
+<a id="4" name="4">[4]</a> IEA World Energy Statistics (2016), 2014 data
 
-[5] Singapore plans to increase our solar PV deployment to 350MWp by 2020. To date, the installed capacity has risen to 126 MWp, from 0.4 MWp in 2008. Looking beyond 2020, we plan to further raise the adoption of solar power to 1GWp.
+<a id="5" name="5">[5]</a> Singapore plans to increase our solar PV deployment to 350MWp by 2020. To date, the installed capacity has risen to 126 MWp, from 0.4 MWp in 2008. Looking beyond 2020, we plan to further raise the adoption of solar power to 1GWp.
 
-[6] The Business and Sustainable Development Commission was launched in Davos in 2016 and brings together leaders from business, finance, civil society to contribute to the UN Sustainable Development Goals.
+<a id="6" name="6">[6]</a> The Business and Sustainable Development Commission was launched in Davos in 2016 and brings together leaders from business, finance, civil society to contribute to the UN Sustainable Development Goals.
 
-[7] Sustainable Singapore Blueprint 2015
+<a id="7" name="7">[7]</a> Sustainable Singapore Blueprint 2015
 
-[8] The 17 goals are: 1) No Poverty, 2) Zero Hunger, 3) Good Health and Well-being, 4) Quality Education, 5) Gender Equality, 6) Clean Water and Sanitation, 7) Affordable and Clean Energy, 8) Decent Work and Economic Growth, 9) Industry, Innovation and Infrastructure, 10) Reduced Inequalities, 11) Sustainable Cities and Communities, 12) Responsible Consumption and Production, 13) Climate Action, 14) Conserve Life Below Water, 15) Protect Life on Land, 16) Peace, Justice and Strong Institutions, and 17) Partnerships for all Goals.
-
+<a id="8" name="8">[8]</a> The 17 goals are: 1) No Poverty, 2) Zero Hunger, 3) Good Health and Well-being, 4) Quality Education, 5) Gender Equality, 6) Clean Water and Sanitation, 7) Affordable and Clean Energy, 8) Decent Work and Economic Growth, 9) Industry, Innovation and Infrastructure, 10) Reduced Inequalities, 11) Sustainable Cities and Communities, 12) Responsible Consumption and Production, 13) Climate Action, 14) Conserve Life Below Water, 15) Protect Life on Land, 16) Peace, Justice and Strong Institutions, and 17) Partnerships for all Goals.
 

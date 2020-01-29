@@ -20,7 +20,7 @@ ___
 
 [<a href="/docs/default-source/news-documents/members-of-central-bank-and-supervisors-network-for-green-finance.pdf" target="_blank">Members of Central Bank and Supervisors Network for Green Finance</a>](/docs/default-source/news-documents/members-of-central-bank-and-supervisors-network-for-green-finance.pdf)
 
-[<a href="/docs/default-source/news-documents/faqs---greening-the-financial-system.pdf" target="_blank">FAQs - Greening the Financial System</a>](https://www.nccs.gov.sg/docs/default-source/news-documents/faqs---greening-the-financial-system.pdf)
+[<a href="/docs/default-source/news-documents/faqs---greening-the-financial-system.pdf" target="_blank">FAQs - Greening the Financial System</a>](/docs/default-source/news-documents/faqs---greening-the-financial-system.pdf)
 
 
 

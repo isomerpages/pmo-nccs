@@ -56,4 +56,3 @@ I am pleased to join you today for the opening ceremony of A*STAR’s Experiment
 
 
 Source: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade & Industry</a>](https://www.mti.gov.sg/)
-

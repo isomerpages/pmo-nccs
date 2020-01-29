@@ -32,5 +32,4 @@ I am very pleased to join you this morning at the opening ceremony of the inaugu
 8.Having said that, I thank you all for being here and I look forward to hearing from Mr Pistorio. He has been a good and faithful friend to Singapore for many years. I am sure the minor surgery you had on your wrist will not affect your ability to inspire us. Thank you.
 
 
-
 Source: [<a href="https://www.mewr.gov.sg/news/brief-remarks-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-national-energy-efficiency-conference-2011-on-24-may-2011--935am-at-suntec-city-convention-centre-ballroom" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/brief-remarks-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-national-energy-efficiency-conference-2011-on-24-may-2011--935am-at-suntec-city-convention-centre-ballroom)

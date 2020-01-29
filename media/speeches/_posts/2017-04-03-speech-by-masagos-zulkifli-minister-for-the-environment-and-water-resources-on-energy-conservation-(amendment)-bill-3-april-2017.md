@@ -25,9 +25,9 @@ While innovative technologies can supplement our energy needs, Singapore will st
 
 The Climate Action Plan, which was launched last year, lays out four key strategies to fulfil this commitment, namely:
 
-* improving energy and carbon efficiency,
-* reducing emissions from power generation,
-* developing and deploying low-carbon technology, and
+* improving energy and carbon efficiency,  
+* reducing emissions from power generation,  
+* developing and deploying low-carbon technology, and  
 * encouraging collective climate action.
 
 In Singapore, the industry sector is the largest energy user, consuming about two-thirds of our total energy consumption, and contributing about 60 per cent of our carbon emissions in 2014. Improving energy efficiency, or EE for short, in the industrial sector, is thus key to achieving our climate change goals.

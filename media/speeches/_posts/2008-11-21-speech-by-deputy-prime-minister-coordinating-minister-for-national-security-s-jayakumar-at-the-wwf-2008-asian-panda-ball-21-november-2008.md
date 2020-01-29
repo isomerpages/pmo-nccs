@@ -30,4 +30,5 @@ Finding this balance requires the commitment and political will of governments a
 
 Singapore will continue to working with our regional partners as well as international and non-governmental organisations to protect the ecosystem and biodiversity of our land and territorial seas. Organisations like the WWF play a crucial role in raising public awareness on conservation and biodiversity, and in implementing practical solutions that benefit both humanity and nature. We look forward to working in closer association with the WWF and other organisations in the future.
 
+
 I wish the WWF a successful Panda Ball and all distinguished guests an enjoyable evening.
