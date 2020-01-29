@@ -12,11 +12,11 @@ To support efforts to develop Singapore’s plan to reduce carbon emissions and 
 
 The online public consultation closed on 31 Mar 2015. Topics included energy efficient homes, carbon efficiency in the transport sector, energy efficiency and renewable energy opportunities for businesses, carbon efficiency in the power, waste and water sectors, and economic and green growth opportunities. In addition, a series of closed-door stakeholder dialogues was conducted.
 
-<a href="/images/stakeholder-dialogues.jpg" target="_blank"> ![Stakeholder dialogues](/images/stakeholder-dialogues.jpg "Stakeholder dialogues")</a>
+<a href="/images/stakeholder-dialogues.jpg" target="_blank"> ![Stakeholder dialogues](/images/stakeholder-dialogues.jpg "Stakeholder dialogues"){: style="width:48%; float:right; padding:8px"}</a>
+<a href="/images/stakeholder-dialogues1.jpg" target="_blank"> ![Stakeholder dialogues](/images/stakeholder-dialogues1.jpg "Stakeholder dialogues"){: style="width:48%; float:right; padding:8px"}</a>
 
-<a href="/images/stakeholder-dialogues1.jpg" target="_blank"> ![Stakeholder dialogues](/images/stakeholder-dialogues1.jpg "Stakeholder dialogues")</a>
 
-**Stakeholder dialogues**
+**Stakeholder dialogues**{: style="margin:41%;"}
 
 Many responses and suggestions were received online, as well as at the dialogues. A summary overview of the feedback received is available for download at the bottom of this page. Responses to the written suggestions are also available.
 
@@ -26,22 +26,13 @@ ___
 
 [<a href="/docs/default-source/default-document-library/nccs-public-consultation-overview-(june-2015).pdf" target="_blank">Overview of feedback received</a>](/docs/default-source/default-document-library/nccs-public-consultation-overview-(june-2015).pdf)
 
-**Responses to feedback and suggestions**
+<u>Responses to feedback and suggestions</u>
 
-[<a href="/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-energy-efficient-homes-2-(june-2015).pdf" target="_blank">Energy Efficient Homes</a>](/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-energy-efficient-homes-2-(june-2015).pdf)
-
-[<a href="/docs/default-source/default-document-library/responses_to_transport_sector_suggestions_(updated).pdf" target="_blank">Carbon Efficiency in the Transport Sector</a>](/docs/default-source/default-document-library/responses_to_transport_sector_suggestions_(updated).pdf)
-
-[<a href="/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-ee-and-re-opportunities-for-businesses-(june-2015).pdf" target="_blank">Energy Efficiency & Renewable Energy Opportunities for Businesses</a>](/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-ee-and-re-opportunities-for-businesses-(june-2015).pdf)
-
-[<a href="/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-carbon-efficiency-in-the-power-waste-water-sectors-2-(june-2015).pdf?sfvrsn=d42094d9_0" target="_blank">Carbon Efficiency in the Power, Waste and Water Sectors</a>](/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-carbon-efficiency-in-the-power-waste-water-sectors-2-(june-2015).pdf?sfvrsn=d42094d9_0)
-
-[<a href="/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-economic-and-green-growth-opportunities-(june-2015).pdf?sfvrsn=b45e7523_0" target="_blank">Economic & Green Growth Opportunities</a>](/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-economic-and-green-growth-opportunities-(june-2015).pdf?sfvrsn=b45e7523_0)
-
+[<a href="/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-energy-efficient-homes-2-(june-2015).pdf" target="_blank">Energy Efficient Homes</a>](/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-energy-efficient-homes-2-(june-2015).pdf)  
+[<a href="/docs/default-source/default-document-library/responses_to_transport_sector_suggestions_(updated).pdf" target="_blank">Carbon Efficiency in the Transport Sector</a>](/docs/default-source/default-document-library/responses_to_transport_sector_suggestions_(updated).pdf)  
+[<a href="/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-ee-and-re-opportunities-for-businesses-(june-2015).pdf" target="_blank">Energy Efficiency & Renewable Energy Opportunities for Businesses</a>](/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-ee-and-re-opportunities-for-businesses-(june-2015).pdf)  
+[<a href="/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-carbon-efficiency-in-the-power-waste-water-sectors-2-(june-2015).pdf?sfvrsn=d42094d9_0" target="_blank">Carbon Efficiency in the Power, Waste and Water Sectors</a>](/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-carbon-efficiency-in-the-power-waste-water-sectors-2-(june-2015).pdf?sfvrsn=d42094d9_0)  
+[<a href="/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-economic-and-green-growth-opportunities-(june-2015).pdf?sfvrsn=b45e7523_0" target="_blank">Economic & Green Growth Opportunities</a>](/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-economic-and-green-growth-opportunities-(june-2015).pdf?sfvrsn=b45e7523_0)  
 [<a href="/docs/default-source/default-document-library/responses-to-other-suggestions-(june-2015).pdf?sfvrsn=6f5bb939_0" target="_blank">Others</a>](/docs/default-source/default-document-library/responses-to-other-suggestions-(june-2015).pdf?sfvrsn=6f5bb939_0)
-
-
-
-
 
 
