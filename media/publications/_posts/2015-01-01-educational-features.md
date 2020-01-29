@@ -13,7 +13,7 @@ This 4-part series produced by NCCS is aimed at raising awareness of climate cha
 
 **Download:**
 
-* [<a href="/docs/default-source/publications/climate-change-and-the-greenhouse-effect.pdf" target="_blank">Climate Change and the Greenhouse Effect (PDF, 700KB)</a>](https://www.nccs.gov.sg/docs/default-source/publications/climate-change-and-the-greenhouse-effect.pdf)
+* [<a href="/docs/default-source/publications/climate-change-and-the-greenhouse-effect.pdf" target="_blank">Climate Change and the Greenhouse Effect (PDF, 700KB)</a>](/docs/default-source/publications/climate-change-and-the-greenhouse-effect.pdf)
 
 * [<a href="/docs/default-source/publications/singapores-efforts-to-address-climate-change.pdf" target="_blank">Singapore's Efforts to Address Climate Change (PDF, 1MB)</a>](/docs/default-source/publications/singapores-efforts-to-address-climate-change.pdf)
 

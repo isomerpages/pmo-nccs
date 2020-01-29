@@ -47,9 +47,9 @@ With the rollout of the Open Electricity Market from 2018, small<sup>[1]</sup> c
 
 For non-standard price plans, retailers who wish to exercise the contractual right to adjust the electricity rate, and/or add a new charge for contracted consumers due to genuine rise in business costs (e.g. carbon tax) even if the contract provides for this, *shall seek EMA’s prior approval*. Specifically, for carbon tax, the retailer is required to provide the following information to EMA as part of the approval process:
 
-- Justification on the amount of carbon tax to be imposed and how it is calculated; and
+-Justification on the amount of carbon tax to be imposed and how it is calculated; and
 
-- Communications and customer engagement plan.
+-Communications and customer engagement plan.
 
 ___
 

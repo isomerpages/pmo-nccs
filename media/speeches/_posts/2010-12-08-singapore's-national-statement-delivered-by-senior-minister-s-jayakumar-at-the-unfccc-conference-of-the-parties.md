@@ -39,8 +39,3 @@ Senior Minister S Jayakumar and Minister Yaacob Ibrahim at the 16th UNFCCC Confe
 
 
 12 We are at an important turning point in our negotiations. Climate change is a global common that will affect all of us. Many pledges are for 2020. So, the clock is ticking. As we draw nearer to the end of the first commitment period of Kyoto Protocol, it is important to send a strong political signal here in Cancun on the continuity of the Kyoto Protocol. How we choose to proceed, and what outcome we can have, is entirely up to us as sovereign states. If we have the political will, we can avoid the worst case scenario. We should also avoid a scenario of muddling along. If there is political will, we can achieve the best-case scenario of a climate regime built on a legally-binding global agreement. But to get there, we have to lay the foundation here in Cancun. Let’s work together towards a successful outcome in Cancun.
-
-
-
-
-

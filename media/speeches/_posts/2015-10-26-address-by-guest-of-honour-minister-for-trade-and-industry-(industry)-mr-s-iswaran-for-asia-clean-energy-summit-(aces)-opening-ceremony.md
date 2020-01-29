@@ -67,4 +67,3 @@ ___
 [4] Cleantechnica.com. India Eyes 100 GW Solar Power Capacity By 2022.
 
 [5] PV Magazine. Conergy to build Indonesia’s first utility-scale PV plant; announces 62 MW Philippines project. October 2015.
- 

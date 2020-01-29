@@ -34,5 +34,3 @@ Paris has been an occasion where we all faced difficult conversations. But it al
 So I want to end by thanking especially the Government of France, especially the efforts of Laurent Fabius and Laurence Tubiana, and their many colleagues for bringing us all together and making this possible. If we remember and we can uphold the spirit of Paris, then I think we can prove to the rest of the world on this and many other issues, we can succeed and can make this world a better place. Thank you very much.
 
 *Source: [<a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos" target="_blank">Ministry of Foreign Affairs</a>](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos)*
-
-

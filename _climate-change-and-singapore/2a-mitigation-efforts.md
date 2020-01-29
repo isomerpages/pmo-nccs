@@ -12,7 +12,7 @@ Despite these challenges, we have taken the next best step by switching from car
 
 **Sectoral Measures to Reduce Emissions**
 
-<a href="/images/sectoral-measures-to-reduce-emissions.gif" target="_blank"> ![Reducing Emissions](/images/sectoral-measures-to-reduce-emissions.gif "Reducing Emissions")</a>
+<a href="/images/sectoral-measures-to-reduce-emissions.gif" target="_blank"> ![Reducing Emissions](/images/sectoral-measures-to-reduce-emissions.gif "Reducing Emissions")</a>  
 *(click to download larger image)*
 
 Source: Climate Change & Singapore: Challenges. Opportunities. Partnerships.

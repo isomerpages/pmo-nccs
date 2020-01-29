@@ -35,9 +35,12 @@ I am heartened by the public response so far. More than 300,000 people, schools,
 
 We have done well to make Singapore a clean, green and liveable place. All of us have a part to play in building a liveable and endearing home – from the simple act of binning our rubbish, to not wasting electricity and recycling right, especially e-waste which Maliki spoke about just now. It is all about being gracious and considerate to those who share our living spaces and environment, and paying attention to protecting this planet earth that we all live on.
 
-We still have a lot to do to tackle climate change. We must start now to protect the environment, ourselves and our future against climate change. Every one of us can be a steward of our environment. Every one of us must do our part to keep Singapore a clean, green and sustainable home for many more years to come.
+We still have a lot to do to tackle climate change. We must start now to protect the environment, ourselves and our future against climate change. Every one of us can be a steward of our environment. Every one of us must do our part to keep Singapore a clean, green and sustainable home for many more years to come.  
 
  
-Thank you very much.
+
+Thank you very much.  
+
+ 
 
 *Source: [<a href="https://www.pmo.gov.sg/newsroom/dpm-tharman-singapore-apex-corporate-sustainability-awards-gala-dinner" target="_blank">Prime Minister's Office</a>](https://www.pmo.gov.sg/newsroom/dpm-tharman-singapore-apex-corporate-sustainability-awards-gala-dinner)*

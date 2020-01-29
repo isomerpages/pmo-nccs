@@ -21,19 +21,14 @@ Some reports also allocate international marine and aviation bunker emissions to
 
 The Energy Conservation Act (ECA) aims to promote a coordinated approach to energy efficiency that will help large energy consuming companies to identify and address inefficiency gaps within their organisations. Under the ECA, large energy users in the industry and transport sectors that consume more than 15 gigawatt-hours (or 54 terajoules) of energy per year are required to observe the following requirements:
 
-a) Appoint an energy manager;
-
-b) Monitor and report energy usage;
-
-c) Submit plans for energy efficiency improvements to the appropriate agencies;
-
-d) Conduct energy efficiency assessments periodically to identify opportunities for improvements;
-
-e) Implement a structured energy management system;
-
+a) Appoint an energy manager;  
+b) Monitor and report energy usage;  
+c) Submit plans for energy efficiency improvements to the appropriate agencies;  
+d) Conduct energy efficiency assessments periodically to identify opportunities for improvements;  
+e) Implement a structured energy management system;  
 f) Ensure that new or retrofits of energy intensive facilities are designed to be energy efficient.
 
-Singapore has also introduced Industry Energy Efficiency (IEE) incentives in 2010 to encourage industrial and power generation facilities to be more energy efficient through the adoption of energy efficient technologies and equipment. These incentives were further enhanced in 2018 to give stronger support to companies in their drive to become more energy efficient and reduce carbon emissions. More details can be found [<a href="/docs/default-source/default-document-library/incentives/power-your-business-with-the-enhanced-industry-energy-efficiency-package.pdf" target="_blank">here</a>](/docs/default-source/default-document-library/incentives/power-your-business-with-the-enhanced-industry-energy-efficiency-package.pdf).
+Singapore has also introduced Industry Energy Efficiency (IEE) incentives in 2010 to encourage industrial and power generation facilities to be more energy efficient through the adoption of energy efficient technologies and equipment. These incentives were further enhanced in 2018 to give stronger support to companies in their drive to become more energy efficient and reduce carbon emissions. More details can be found [<a href="/docs/default-source/default-document-library/power-your-business-with-the-enhanced-industry-energy-efficiency-package.pdf" target="_blank">here</a>](/docs/default-source/default-document-library/power-your-business-with-the-enhanced-industry-energy-efficiency-package.pdf).
 
 **4. How will the Government help companies improve their energy efficiency?**
 
@@ -53,10 +48,8 @@ Lastly, BCA has been engaging building users to adopt eco-friendly practices and
 
 The Land Transport Authority (LTA) has taken a three-pronged approach to address emissions from the land transport sector, as follows:
 
-a) promoting the use of public transport and active mobility;
-
-b) managing the growth and use of vehicles; and
-
+a) promoting the use of public transport and active mobility;  
+b) managing the growth and use of vehicles; and  
 c) encouraging the adoption of cleaner vehicles including electric vehicles (EVs).
 
 The Government will take the lead in building a cleaner transport system and has committed to a 100 per cent cleaner energy public bus fleet by 2040, like electric or hybrid vehicles. LTA has awarded a tender for the supply of 60 electric buses. The electric buses will be progressively delivered from end-2019 and will be deployed for service by 2020. In addition, LTA has started deploying 50 diesel hybrid buses for service from December 2018. LTA will assess their performance under Singapore’s operating conditions and their cost effectiveness, and may buy more of such buses if the trials prove successful.

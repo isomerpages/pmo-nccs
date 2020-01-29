@@ -50,4 +50,3 @@ Thank you.
 ²Source: Meteorological Service Singapore
 
 ³National Climate Change Secretariat, “National Climate Change Strategy 2012”, June 2012. ([<a href="/docs/default-source/default-document-library/national-climate-change-strategy.pdf" target="_blank">National Climate Change Strategy.pdf</a>](/docs/default-source/default-document-library/national-climate-change-strategy.pdf))
-

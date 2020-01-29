@@ -14,18 +14,18 @@ Since 2000, we have increased the percentage of natural gas used in electricity 
 
 Our fuel mix makes us much less carbon intensive than many other nations still use coal as an important part of their power generation.
 
-![A More Environment-friendly Method to Power Our Nation](https://www.nccs.gov.sg/images/default-source/default-album/a-more-enviroment-friendly-method-to-power-our-nation.jpg "A More Environment-friendly Method to Power Our Nation")
+![A More Environment-friendly Method to Power Our Nation](/images/a-more-enviroment-friendly-method-to-power-our-nation.jpg "A More Environment-friendly Method to Power Our Nation")
 *Singapore has switched from fuel oil to natural gas as out main energy source for electricity generation. The picture above shows Senoko Energy's repowered units that were completed in 2005. The repowering involved the conversion of three oil-fired steam thermal plants into three gas-fired combined cycle plant. (Image courtesy of Senoko Energy)*
 
 **Fuel Mix for Power Generation by Country (2013)**
 
-![Fuel Mix for Power Generation by Country (2013)](https://www.nccs.gov.sg/images/default-source/default-album/fuel-mix-for-power-generation-by-country-2013.jpg "Fuel Mix for Power Generation by Country (2013)")
+![Fuel Mix for Power Generation by Country (2013)](/images/fuel-mix-for-power-generation-by-country-2013.jpg "Fuel Mix for Power Generation by Country (2013)")
 
 **Decreasing Our Fuel Oil Usage**
 
 Our electricity is produced by the combustion of natural gas that is piped from Malaysia and Indonesia. We have diversified our supply of natural gas with the development of a liquefied natural gas (LNG) terminal on Jurong Island. There are further plans to build a second LNG terminal to support new industrial sites and power plants. This will not only provide critical mass for enhanced energy security, but it will also enable Singapore to be a hub for LNG-related businesses.
 
-![Decreasing Our Fuel Oil Usage](https://www.nccs.gov.sg/images/default-source/default-album/decreasing-our-fuel-oil-usage.jpg "Decreasing Our Fuel Oil Usage")
+![Decreasing Our Fuel Oil Usage](/images/decreasing-our-fuel-oil-usage.jpg "Decreasing Our Fuel Oil Usage")
 
 Source: Energy Market Authority
 
@@ -39,11 +39,11 @@ To accelerate solar deployment in Singapore, the SolarNova programme has been la
 
 The total installed solar PV capacity in Singapore is currently about 47 megawatt peak (MWp) for both residential and non-residential areas. This includes installations at:
 
-* HDB rooftops
-* Keppel Seghers Ulu Pandan NEWater Plant
-* Resorts World Sentosa
-* GreenPac Pte Ltd
-* Applied Materials Singapore Operational Centre
-* Sheng Siong Supermarket
+* HDB rooftops  
+* Keppel Seghers Ulu Pandan NEWater Plant  
+* Resorts World Sentosa  
+* GreenPac Pte Ltd  
+* Applied Materials Singapore Operational Centre  
+* Sheng Siong Supermarket  
 * Singapore Sports Hub
 

@@ -95,4 +95,3 @@ ___
 
 
 Source: [<a href="https://www.mewr.gov.sg/news/speech-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-national-energy-efficiency-conference-2015-and-presentation-of-the-energy-efficiency-national-partnership-awards-on-6-october-2015-" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-national-energy-efficiency-conference-2015-and-presentation-of-the-energy-efficiency-national-partnership-awards-on-6-october-2015-)
-

@@ -17,7 +17,7 @@ NEA will place greater emphasis on improving manufacturing SMEs’ energy effici
 
 For more details on the E2F, please refer to **[<a href="/docs/default-source/news-documents/annex-b_nea_pr_310317.pdf" target="_blank">Annex B</a>](/docs/default-source/news-documents/annex-b_nea_pr_310317.pdf)** or visit the e2Singapore website at [<a href="https://www.e2singapore.gov.sg/" target="_blank">www.e2singapore.gov.sg</a>](https://www.e2singapore.gov.sg/).
 
-Annex C – [<a href="/docs/default-source/news-documents/annex-c_nea_pr_310317.pdf" target="_blank">Components supported under E2F at a glance</a>](https://www.nccs.gov.sg/docs/default-source/news-documents/annex-c_nea_pr_310317.pdf)with the aim of peaking around 2030. *Emissions Intensity refers to GHG emissions per dollar of GDP, measured in CO2-equivalent per dollar.*
+Annex C – [<a href="/docs/default-source/news-documents/annex-c_nea_pr_310317.pdf" target="_blank">Components supported under E2F at a glance</a>](/docs/default-source/news-documents/annex-c_nea_pr_310317.pdf)with the aim of peaking around 2030. *Emissions Intensity refers to GHG emissions per dollar of GDP, measured in CO2-equivalent per dollar.*
 
 *[2]  Based on a range of 0.75kW to 185kW motors, 24 hours of daily usage and an electricity tariff rate of $0.15/kWh. The upfront cost includes the cost of 1 motor used in normal operation and the cost of a standby motor for redundancy purpose.*
 

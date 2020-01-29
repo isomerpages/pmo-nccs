@@ -5,14 +5,11 @@ subtitle: 10 Jul 2018
 permalink: /media/speeches/address-by-deputy-prime-minister-teo-chee-hean-at-the-expanded-special-asean-ministerial-meeting-on-climate-action-(e-samca)-10-july-2018
 ---
 
-### ADDRESS BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE EXPANDED-SPECIAL ASEAN MINISTERIAL MEETING ON CLIMATE ACTION (E-SAMCA), 10 JULY 2018
+### ADDRESS BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE EXPANDED-SPECIAL ASEAN MINISTERIAL MEETING ON CLIMATE ACTION (E-SAMCA), 10 JULY 2018  
+*"Building a Climate-Resilient and Low-Carbon ASEAN”*
 
-*Building a Climate-Resilient and Low-Carbon ASEAN”*
-
-Excellencies,
-
-Ladies and Gentlemen,
-
+Excellencies,  
+Ladies and Gentlemen,  
 Good afternoon.
 
 I am happy to join you at this Expanded-Special ASEAN Ministerial Meeting on Climate Action or “E-SAMCA”. To our overseas guests, a very warm welcome to Singapore.  
@@ -65,4 +62,3 @@ Thank you.
 
 
 *Source: [<a href="https://www.pmo.gov.sg/newsroom/dpm-teo-chee-hean-expanded-special-asean-ministerial-meeting-climate-action" target="_blank">Prime Minister's Office</a>](https://www.pmo.gov.sg/newsroom/dpm-teo-chee-hean-expanded-special-asean-ministerial-meeting-climate-action)*
-

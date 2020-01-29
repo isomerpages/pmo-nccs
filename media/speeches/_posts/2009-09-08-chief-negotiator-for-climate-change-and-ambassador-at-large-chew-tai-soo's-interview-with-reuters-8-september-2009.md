@@ -5,17 +5,11 @@ subtitle: 8 Sep 2009
 permalink: /media/speeches/chief-negotiator-for-climate-change-and-ambassador-at-large-chew-tai-soo's-interview-with-reuters-8-september-2009
 ---
 
-
-
 ### Chief Negotiator For Climate Change And Ambassador-At-Large Chew Tai Soo's Interview With Reuters, 8 September 2009
 
 **Q1**: Is Singapore willing to undertake additional measures to curb the growth of the country's greenhouse gas emissions as part of international efforts to reach agreement on a post-Kyoto pact?
 
 **A1**: The PM has on several occasions made it clear that Singapore will, as a responsible member of the global community, play our part in a global agreement. We are constantly looking for ways to improve energy efficiency and curb greenhouse gas emissions.
-
-
-
-
 
 
 **Q2**: The government is pursuing energy efficiency measures and backs construction of green buildings. But will the government also consider national emissions trading, incentives for hybrid and electric cars, smart grids and other measures?

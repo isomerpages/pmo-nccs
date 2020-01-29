@@ -6,7 +6,6 @@ permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-comm
 ---
 
 ### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT COMMITEE OF SUPPLY DEBATE, 2 MARCH 2017
-
 **A Well-Coordinated, Technology-Enabled, and Future-Ready Public Service**
 
 Thank you Madam Chairperson.
@@ -19,9 +18,9 @@ I want to assure Members that our public officers do work tirelessly to serve Si
 
 It is in this spirit that today, I outline four priorities for the Public Service:
 
-* Integrating Strategic Planning and Execution;
-* Driving innovation;
-* Building new capabilities; and
+* Integrating Strategic Planning and Execution;  
+* Driving innovation;     
+* Building new capabilities; and  
 * Developing our public officers.
 
 **Integrating Strategic Planning and Execution**
@@ -38,7 +37,7 @@ As Mr Seah pointed out, there are cross-cutting issues which have longer term im
 
 Climate change is another cross-cutting issue with long-term implications that will be even more keenly felt by future generations. Coordinated actions by all countries are needed to help reduce greenhouse gas emissions.
 
-Singapore played a constructive and facilitative role in the Paris Agreement under the United Nations Framework Convention on Climate Change which came into force on 4 November 2016.  Singapore is a Party to the Agreement and has pledged to reduce emissions intensity<sup>[1]</sup> by 36 per cent from 2005 levels by 2030 and stabilise our emissions with the aim of peaking around 2030.
+Singapore played a constructive and facilitative role in the Paris Agreement under the United Nations Framework Convention on Climate Change which came into force on 4 November 2016.  Singapore is a Party to the Agreement and has pledged to reduce emissions intensity<a href="#_ftn1" name="_ftnref1" id="_ftnref1">[1]</a> by 36 per cent from 2005 levels by 2030 and stabilise our emissions with the aim of peaking around 2030.
 
 Mr Kok Heng Leun asked how we intend to achieve this. We have identified four strategies in our Climate Action Plan published last year. We will improve our energy efficiency, reduce our emissions from power generation, develop and deploy low-carbon technologies, and encourage collective action among all stakeholders. This plan is an example of how different government agencies work together, coordinated by the National Climate Change Secretariat, which is now in PMO-SG. We evaluated every option carefully, what its cost was to the economy and to Singaporeans, and what effect it would have on mitigating carbon emissions. Then, we prioritised those which were more efficient and made the most sense for us.
 
@@ -137,6 +136,6 @@ Thank you.
 
 ___
 
-<sup>[1]</sup> Emissions intensity refers to GHG emissions per dollar of GDP
+<sup><a href="#_ftnref1" name="_ftn1" id="_ftn1">[1]</a></sup> Emissions intensity refers to GHG emissions per dollar of GDP
 
 Source: [<a href="https://www.psd.gov.sg/press-room/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-commitee-of-supply-2017" target="_blank">Public Service Division</a>](https://www.psd.gov.sg/press-room/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-commitee-of-supply-2017)

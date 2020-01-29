@@ -12,14 +12,14 @@ Energy efficiency measures provide the economic benefits of lowering energy cost
 
 Beginning in April 2013, energy users in the industry and transport sectors who consume more than 15 gigawatt-hours (or 54 terajoules) of energy per year must observe the following guidelines:
 
-* Appoint an energy manager
-* Monitor and report energy usage and greenhouse emissions
+* Appoint an energy manager  
+* Monitor and report energy usage and greenhouse emissions  
 * Submit plans for energy efficiency improvements to the appropriate agencies
 
 To further drive energy efficiency improvements in the industry, the following new requirements will be introduced over the next few years:
 
-* Adopt a structured Energy Management System by 2021 or 2022 (depending on the facility's energy consumption)
-* Conduct regular energy efficiency opportunities assessments and submit first assessment by 2021
+* Adopt a structured Energy Management System by 2021 or 2022 (depending on the facility's energy consumption)  
+* Conduct regular energy efficiency opportunities assessments and submit first assessment by 2021  
 * New industrial facilities and major expansion projects to undergo design reviews to incorporate energy efficiency measures from 2018
 
 Through the legislation of mandates for large energy consumers, we aim to promote a coordinated approach to energy efficiency that will help companies identify and address inefficiency gaps within their organisations.
@@ -28,8 +28,8 @@ Through the legislation of mandates for large energy consumers, we aim to promot
 
 The Energy Efficiency Fund (E2F) supports a wide range of energy efficiency efforts in the industrial sector:
 
-* **Resource efficient design** – Co-funding of up to 50 per cent on consultancy fees (capped at $600,000 per project)
-* **Energy assessment** – Co-funding of up to 50 per cent of the costs of energy audits (capped at $200,000 per project)
+* **Resource efficient design** – Co-funding of up to 50 per cent on consultancy fees (capped at $600,000 per project)  
+* **Energy assessment** – Co-funding of up to 50 per cent of the costs of energy audits (capped at $200,000 per project)  
 * **Energy efficient equipment or technologies** – Co-funding of up to 30 per cent of the investment cost of energy efficient equipment or technologies
 
 Apart from grants, tax incentive schemes such as the **Accelerated Depreciation Allowance Scheme (ADAS)** allows the early write-off or depreciation of capital expenditure on energy efficient or energy-saving equipment to replace older, more energy-consuming ones. The **Investment Allowance – Energy Efficiency Scheme (IA)** allows an additional 30 per cent investment allowance for energy efficiency investments against taxable income, on top of normal capital allowances.
@@ -38,7 +38,7 @@ Apart from grants, tax incentive schemes such as the **Accelerated Depreciation 
 
 Specialised skills are needed to measure and benchmark current system performance accurately, analyse data to identify opportunities and design a holistic plan to realise system efficiency gains. Current schemes, such as the [<a href="https://www.nea.gov.sg/programmes-grants/schemes/esco-accreditation" target="_blank">Energy Services Company (ESCO) Accreditation Scheme</a>](https://www.nea.gov.sg/programmes-grants/schemes/esco-accreditation) and the [<a href="https://www.e2singapore.gov.sg/incentives/singapore-certified-energy-manager-(scem)-programme-and-training-grant" target="_blank">Singapore Certified Energy Manager (SCEM) Programme</a>](https://www.e2singapore.gov.sg/incentives/singapore-certified-energy-manager-(scem)-programme-and-training-grant) help grow technical and professional capabilities in Singapore.
 
-![Participants attending a SCEM programme](https://www.nccs.gov.sg/images/default-source/default-album/development-of-expertise-in-singapore-to-drive-energy-efficiency-improvements.jpg "Participants attending a SCEM programme")
+![Participants attending a SCEM programme](/images/development-of-expertise-in-singapore-to-drive-energy-efficiency-improvements.jpg "Participants attending a SCEM programme")  
 *Participants attending a SCEM programme. (Image courtesy of the National Environment Agency)*
 
 **ESCO Accreditation Scheme**

@@ -28,15 +28,15 @@ For Singapore, our vision is to be a smart, green and liveable city. Digital inn
 
 To realise this future of green growth, governments have a role to play: as regulator, as promoter of research and development (R&D), and as lead user of green solutions.
 
-**Carbon Tax**
+<u>Carbon Tax</u>
 
 In its role as regulator, Singapore will be implementing carbon pricing in 2019. The carbon tax will provide an economy-wide price signal to encourage companies to take measures to reduce greenhouse gas emissions reductions where it is most cost-effective. Revenue from the carbon tax will be channelled to worthwhile projects which reduce emissions, and help companies improve energy and carbon efficiencies. We believe that carbon pricing will create opportunities for companies to develop solutions in the areas such as clean energy, energy efficiency, and energy management. Our carbon tax can also help to spur more innovation among Singapore-based companies to reduce emissions and to develop green products and services for Southeast Asia and beyond.
 
-**Developing innovative technologies**
+<u>Developing innovative technologies</u>
 
 As a promoter of R&D, Singapore is setting aside up to $55 million to develop the next generation grid (i.e. “Grid 2.0”) under our Research, Innovation and Enterprise 2020 Plan (RIE2020). Grid 2.0 aims to enable the grid to integrate clean energy sources and be more responsive while maintaining grid reliability. Our research will focus on four key areas - (1) power distribution, (2) district cooling and energy system, (3) energy intelligence and management system and (4) modelling and simulation. We hope to work with industry partners and academics to develop capabilities in disruptive, innovative technologies in these areas. Using Singapore as a test-bed, promising demonstrations can be scaled up for large-scale deployment in the region and beyond to achieve an intelligent, integrated energy system of the future.
 
-**Smart and Green Estates**
+<u>Smart and Green Estates</u>
 
 As a lead user, the Singapore Government aims to make use of our unique feature, that 80 per cent of our population lives in public housing, managed by the Government. If we are able to integrate smart and green technologies into our housing estates, we can achieve nation-wide impact. For example, we are deploying solar panels extensively on our housing estate rooftops, making best use of our limited land to capture solar.  We are also deploying smart meters to help families monitor and save energy and water.
 
@@ -48,7 +48,7 @@ Although Governments have much to do, the success of green growth will lie on th
 
 Government can set the rules, but it is the private sector that will come up with the solution. For example, ENGIE, a European company, announced in March 2018 that it will invest $80 million in Singapore over the next five years to drive regional energy efficiency. More recently, it announced the launch of a platform to control data energy use and improve energy savings. Another company in the same space is Red Dot Analytics (Red Dot), which spun off from Nanyang Technological University. Red Dot has developed an artificial intelligence (AI) based software for real-time energy monitoring and optimisation. Its 3D thermal model has been implemented in various data centres here, helping clients to minimise the data centre’s cooling load and save energy. Such innovations by companies like ENGIE and Red Dot will help data centres here meet the data centre green mark standards, which the Government recently launched in 2018.
 
-**Green Financing**
+<u>Green Financing</u>
 
 One key area that we want greater private sector play is green financing. There is only that much of taxpayers’ dollars that can be expended in new infrastructure and green technology deployment. The world will need to rely on green financing to make sustainability, well, financially sustainable. Globally, the need for global investment in climate solutions is estimated at US$88 trillion (S$120 trillion) over the next 15 years. This need for investment is especially significant in key Asian economies like China and India.
 

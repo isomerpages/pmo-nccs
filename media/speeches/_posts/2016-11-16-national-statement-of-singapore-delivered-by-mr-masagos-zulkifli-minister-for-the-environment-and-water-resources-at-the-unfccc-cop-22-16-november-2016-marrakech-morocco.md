@@ -35,7 +35,7 @@ At the same time, we must recognise that deforestation and forest fires are stil
 
 Regional efforts can play a useful role in catalysing climate action as well. In Southeast Asia, ASEAN Member States collaborate on climate change efforts through the ASEAN Working Group on Climate Change. This platform allows us to share best practices and lessons learnt with each other. ASEAN seeks to be open and inclusive, and we welcome other UNFCCC Parties to work with us to achieve our common aims.
 
-Voluntary initiatives by non-Party stakeholders are an important complement to national efforts. The Global Climate Action Agenda is important in this context. The Action Agenda allows various stakeholders to identify synergies and formulate holistic strategies to facilitate the fundamental changes we need. Sustained investments of time and effort are required to catalyse such initiatives. We are thus pleased that the Climate Champions<sup>[1]</sup> are personally overseeing this Action Agenda.
+Voluntary initiatives by non-Party stakeholders are an important complement to national efforts. The Global Climate Action Agenda is important in this context. The Action Agenda allows various stakeholders to identify synergies and formulate holistic strategies to facilitate the fundamental changes we need. Sustained investments of time and effort are required to catalyse such initiatives. We are thus pleased that the Climate Champions<a href="#1"><sup>[1]</sup></a> are personally overseeing this Action Agenda.
 
 Even as we collaborate globally, we need to work locally to achieve our respective pre-2020 pledges, so as to lay down a firm foundation for the effective implementation of our post-2020 pledges.
 
@@ -43,7 +43,7 @@ Singapore is on track to meet our pre-2020 pledge. We will be submitting our 2nd
 
 With the ratification of the Agreement, Singapore has also formalised our Nationally Determined Contribution (NDC) – to lower our Emissions Intensity (EI) by 36 per cent from 2005 levels, and to stabilise our emissions with the aim of peaking around 2030. Singapore takes our pledge seriously. We released our latest Climate Action Plan in July 2016 which explains Singapore’s strategies to achieve our NDC objectives. For example, despite our small land area and high urban density constraints, we aim to raise the adoption of solar power in our system from around 100 megawatt peak (MWp) today to 350 MWp by 2020. We are also undertaking various actions to enhance our resilience to climate change. For example, the future Changi Airport Terminal 5 will be built 5.5 metres above the mean sea level.
 
-Singapore’s climate efforts build on our early actions which have been recognised by the international community. According to the 2016 Arcadis Sustainable Cities index, Singapore is Asia’s most sustainable city and the second most sustainable city in the world, after Zurich.<sup>[2]</sup> Our commitment to sustainable development has also resulted in us being ranked among the 20 best-performing countries in the world on Emissions Intensity in 2015.<sup>[3]</sup>
+Singapore’s climate efforts build on our early actions which have been recognised by the international community. According to the 2016 Arcadis Sustainable Cities index, Singapore is Asia’s most sustainable city and the second most sustainable city in the world, after Zurich.<a href="#2"><sup>[2]</sup></a> Our commitment to sustainable development has also resulted in us being ranked among the 20 best-performing countries in the world on Emissions Intensity in 2015.<a href="#3"><sup>[3]</sup></a>
 
 Climate change mitigation and adaptation are long term endeavours that extend well beyond 2030.
 
@@ -65,14 +65,11 @@ Thank you Mr President.
 
 ___
 
-[1] Under the COP-21 decisions, Parties agreed to appoint two Climate Champions between 2016-2020 to speed up and scale up immediate climate action, who would be selected successively from outgoing and incoming Presidencies of the annual UN climate change conference.
+<a href="1" name="1" id="1">[1]</a> Under the COP-21 decisions, Parties agreed to appoint two Climate Champions between 2016-2020 to speed up and scale up immediate climate action, who would be selected successively from outgoing and incoming Presidencies of the annual UN climate change conference.
 
-[2] Source: Arcadis Sustainable Cities Index, 2016.
+<a id="1" name="1">[1]</a> Source: Arcadis Sustainable Cities Index, 2016.
 
-[3] Source: IEA Key World Energy Stat
+<a id="1" name="1">[1]</a> Source: IEA Key World Energy Stat
 
 
 Source: [<a href="http://www.mewr.gov.sg/news/national-statement-of-singapore-delivered-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-the-unfccc-cop-22--16-november-2016--marrakech--morocco" target="_blank">Ministry of the Environment and Water Resources</a>](http://www.mewr.gov.sg/news/national-statement-of-singapore-delivered-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-the-unfccc-cop-22--16-november-2016--marrakech--morocco)
-
-
-

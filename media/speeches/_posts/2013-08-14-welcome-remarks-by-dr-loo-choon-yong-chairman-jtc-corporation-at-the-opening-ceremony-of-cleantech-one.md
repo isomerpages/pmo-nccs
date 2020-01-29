@@ -42,5 +42,4 @@ It is now my honour to invite our Minister for Trade & Industry to address us. M
 *² Energy Research Institute at NTU (ERI@N)*
 
 
-
 Source: [<a href="https://www.jtc.gov.sg/Pages/default.aspx" target="_blank">JTC Corporation</a>](https://www.jtc.gov.sg/Pages/default.aspx)
