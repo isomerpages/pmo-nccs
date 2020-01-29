@@ -15,4 +15,7 @@ Singapore has taken early measures on sustainable development, such as managing 
 However, given the small size of our nation, and our dense urban landscape, there are challenges to using alternative energy options like solar and wind power on an island-wide scale. Such limitations in switching to alternatives are recognised by the United Nations Framework Convention on Climate Change (UNFCCC¹).  
 
 
+
 *¹ Articles 4.8 and 4.10 of UNFCCC take into consideration the national circumstances of developing countries - especially small island countries, countries with low-lying coastal areas, land-locked and transit countries, and countries disadvantaged in the use of alternative energy sources, amongst others. Article 4.10 recognises the circumstances of such countries with "serious difficulties in switching to alternatives".*
+
+

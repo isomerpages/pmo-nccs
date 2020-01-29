@@ -11,7 +11,7 @@ Emissions Intensity refers to the amount of greenhouse gas emitted per dollar GD
 
 Singapore has chosen an Emissions Intensity reduction target as this is consistent with our approach to achieve growth in a sustainable manner. Moreover, Emissions Intensity can be computed and compared across countries, which makes it a useful benchmark.
 
-**2. In terms of absolute emissions, where will Singapore be after a 36% reduction in Emissions Intensity?**
+**2. In terms of absolute emissions, where will Singapore be after a 36 per cent reduction in Emissions Intensity?**
 
 Under our pledge, Singapore's emissions could stabilise at around 65 MTCO2e in 2030 based on current projected emissions growth.
 

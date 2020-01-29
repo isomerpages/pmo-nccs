@@ -4,7 +4,7 @@ permalink: /climate-change-and-singapore/for-organisations/
 third_nav_title: What We Can Do
 ---
 
-### FOR ORGANISATION
+### FOR ORGANISATIONS
 
 **Become Part of the National Effort to Tackle Climate Change**  
 Organisations can play their part in reducing emissions by understanding the environmental impact of their business operations and by adopting carbon-friendly measures and practices.
