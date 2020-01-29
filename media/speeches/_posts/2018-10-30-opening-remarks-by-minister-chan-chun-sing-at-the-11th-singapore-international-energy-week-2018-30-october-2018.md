@@ -69,7 +69,7 @@ In an increasingly carbon-constrained future, improving energy efficiency will d
 
 At a broader level, we can also look at the use of materials and design to reduce energy consumption. For example, can we design industrial complexes in such a way that they can leverage each other’s waste heat? How about the type of building materials used? There are many interesting ideas available in the market. With increased collaboration between businesses, academia as well as international dialogue partners, we can test-bed many of these solutions here and share the learning points with our ASEAN partners, and even to cities beyond.
 
-Skills needed for Production, Management and Consumption
+**Skills needed for Production, Management and Consumption**
 
 All of these ideas and innovations can only succeed if we have a pool of manpower equipped with the necessary skillsets and know-how to implement them on the ground.
 
