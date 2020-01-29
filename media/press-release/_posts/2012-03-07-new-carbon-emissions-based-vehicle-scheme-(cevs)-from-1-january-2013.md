@@ -33,12 +33,9 @@ The current GVR scheme for commercial vehicles, buses and motorcycles will be ex
 
 To assist car buyers make informed decisions, the CO2/km performance data for each car model will be provided on mandatory information labels at car showrooms. LTA will also set up a new FELS online database and online fuel cost calculator so that buyers can easily access and compare the carbon emissions and fuel efficiency performance data across car models. These changes will be made progressively after LTA takes over the administration of the Fuel Economy Labelling Scheme (FELS) from NEA around mid 2012. More details on FELS will be made available then.
 
-[<a href="https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-A.pdf" target="_blank">Annex A: Details on CEVS </a>](https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-A.pdf)
-
-[<a href="https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-B.pdf" target="_blank">Annex B: Examples of Existing Car Models in CEVS bands </a>](https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-B.pdf)
-
-[<a href="https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-C.pdf" target="_blank">Annex C: Common Questions on CEVS </a>](https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-C.pdf)
-
+[<a href="https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-A.pdf" target="_blank">Annex A: Details on CEVS </a>](https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-A.pdf)  
+[<a href="https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-B.pdf" target="_blank">Annex B: Examples of Existing Car Models in CEVS bands </a>](https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-B.pdf)  
+[<a href="https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-C.pdf" target="_blank">Annex C: Common Questions on CEVS </a>](https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-C.pdf)  
 [<a href="https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-D.pdf" target="_blank">Annex D: New fuel economy label </a>](https://www.lta.gov.sg/data/apps/news/press/2012/2012-03-07_CEV-Annex-D.pdf)
 
 **Footnotes:**

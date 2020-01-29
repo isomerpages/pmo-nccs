@@ -74,4 +74,4 @@ I look forward to hearing your views and having a discussion so that we can work
 
 Thank you very much.
 
-*Source: [<a href="https://www.pmo.gov.sg/newsroom/dpm-tharman-singapore-apex-corporate-sustainability-awards-gala-dinner" target="_blank">Prime Minister's Office</a>](https://www.pmo.gov.sg/newsroom/dpm-tharman-singapore-apex-corporate-sustainability-awards-gala-dinner)*
+*Source: [<a href="https://www.pmo.gov.sg/newsroom/dpm-teo-chee-hean-global-compact-network-singapore-summit-2018" target="_blank">Prime Minister's Office</a>](https://www.pmo.gov.sg/newsroom/dpm-teo-chee-hean-global-compact-network-singapore-summit-2018)*
