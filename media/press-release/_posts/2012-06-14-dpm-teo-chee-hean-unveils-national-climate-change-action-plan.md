@@ -23,10 +23,8 @@ At the National Climate Change Youth Conference, DPM Teo also presented prizes t
 
 The short film category attracted 126 entries from students from primary to tertiary institutions. A list of the winning videos in each of the categories is at [<a href="/docs/default-source/news-documents/nccs-2012_press_release_annex_b.pdf" target="_blank">Annex B</a>](/docs/default-source/news-documents/nccs-2012_press_release_annex_b.pdf). The videos can also be viewed at https://www.nccs.gov.sg/competition/NCCC2012/winning_videos.html.
 
-**About the National Climate Change Secretariat (NCCS)**
-
+**About the National Climate Change Secretariat (NCCS)**    
 The NCCS was set up as a dedicated agency under the Prime Minister’s Office on 1 July 2010 to coordinate Singapore's domestic and international policies, plans and actions on climate change so as to secure a sustainable living environment for our future generations. NCCS will achieve this by adopting a Whole-of-Government approach and working with the People and Private sectors to devise and implement cost-effective mitigation and adaptation solutions, reap the opportunities arising from addressing climate change challenges and contribute towards global efforts to address climate change. For more information, please visit [<a href="https://www.nccs.gov.sg/" target="_blank">www.nccs.gov.sg</a>](https://www.nccs.gov.sg/).
 
-**About the National Climate Change Youth Conference (NCCYC)**
-
+**About the National Climate Change Youth Conference (NCCYC)**  
 The NCCYC is co-organised by the National Youth Achievement Award Council of Singapore (NYAA) and the National Climate Change Secretariat (NCCS) for youths to discuss climate change and the actions that individuals, the community and businesses can take in addressing the challenges.

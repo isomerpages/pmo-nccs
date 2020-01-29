@@ -19,6 +19,5 @@ Minister Balakrishnan also emphasised Singapore's commitment to support the mult
 
 **The Conference is a joint session of the 20th Session of the Conference of the Parties to the United National Framework Convention on Climate Change (COP 20), the 10th Session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP10) and relevant subsidiary bodies.*
 
-Ministry of the Environment and Water Resources
-
+Ministry of the Environment and Water Resources  
 National Climate Change Secretariat
