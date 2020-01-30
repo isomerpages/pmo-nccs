@@ -1,7 +1,7 @@
 ---
 title: Drainage And Flood Prevention
 permalink: /singapores-climate-action/drainage-and-flood-prevention/
-third_nav_title: Adaption Efforts
+third_nav_title: Adaptation Efforts
 ---
 
 ### DRAINAGE AND FLOOD PROTECTION

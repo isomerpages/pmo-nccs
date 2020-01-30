@@ -7,19 +7,19 @@ permalink: /media/speeches/speech-by-ms-grace-fu-minister-prime-minister-s-offic
 
 ### SPEECH BY MS GRACE FU, MINISTER, PRIME MINISTER’S OFFICE, SECOND MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES & SECOND MINISTER FOR FOREIGN AFFAIRS, AT THE OPENING OF THE SINGAPORE GREEN BUILDING WEEK, IGBC AND BEX ASIA 2012
 
-Mr Quek See Tiat
-Chairman
+Mr Quek See Tiat  
+Chairman  
 Building and Construction Authority
 
-Mr Tai Lee Siang
-President
+Mr Tai Lee Siang  
+President  
 Singapore Green Building Council
 
-Mr Paul Reh
-President, Asia Pacific
+Mr Paul Reh  
+President, Asia Pacific  
 Reed Exhibitions
 
-Distinguished guests
+Distinguished guests  
 Ladies and gentlemen
 
 1. A very good morning to all of you and it is indeed my very great pleasure to return to International Green Building Conference, having attended the first one in Singapore in 2009. It is certainly good to be back.
@@ -50,6 +50,7 @@ Ladies and gentlemen
 
 14. It gives me great pleasure to declare the Singapore Green Building Week, the International Green Building Conference 2012 and the BEX Asia 2012 open. I wish everyone a very fruitful conference and to our foreign visitors, do enjoy your stay in Singapore.
 
-Thank you.
+Thank you.  
+<br><br><br>
 
 Source: [<a href="https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--minister--prime-ministers-office--second-minister-for-the-environment-and-water-resources-and-second-minister-for-foreign-affairs--at-the-opening-of-the-singapore-green-building-week--igbc-and-bex-asia-2012--10-october-2012" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--minister--prime-ministers-office--second-minister-for-the-environment-and-water-resources-and-second-minister-for-foreign-affairs--at-the-opening-of-the-singapore-green-building-week--igbc-and-bex-asia-2012--10-october-2012)

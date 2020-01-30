@@ -14,7 +14,7 @@ Teachers & Students,
 I am happy to join you this morning at the opening of the National Climate Change Youth Conference. This event organised by the National Youth Achievement Award Council and the National Climate Change Secretariat brings together youth leaders and students to share experiences on climate change action, and forge and strengthen partnerships to address climate change.
 
 **Climate Change – A Global Challenge**  
-Many countries are already experiencing more extreme weather events. In 2011, France, Spain and Switzerland had their warmest year since national records began. Several southern US states experienced their warmest summer since records began in 1895. North Korea had temperatures below freezing for 40 consecutive days, making it the longest cold spell since 1945. Sichuan saw its worst floods since records began in 1847. Korea had its wettest summer on record, with Seoul experiencing the heaviest single-day rainfall since 1907. On the other hand, crippling drought gripped much of the Horn of Africa for most of the year, and some locations had their driest 12-month period on record1.
+Many countries are already experiencing more extreme weather events. In 2011, France, Spain and Switzerland had their warmest year since national records began. Several southern US states experienced their warmest summer since records began in 1895. North Korea had temperatures below freezing for 40 consecutive days, making it the longest cold spell since 1945. Sichuan saw its worst floods since records began in 1847. Korea had its wettest summer on record, with Seoul experiencing the heaviest single-day rainfall since 1907. On the other hand, crippling drought gripped much of the Horn of Africa for most of the year, and some locations had their driest 12-month period on record<sup>1</sup>.
 
 Singaporeans have also experienced changes in our own weather patterns, with annual average temperatures and rainfall rising over the last few decades. Our food supplies and business supply chains can also be disrupted due to extreme weather events in other countries, as was the case when Thailand experienced its worst floods since 1942.
 
@@ -23,7 +23,7 @@ Scientists and experts may differ on how fast the changes will occur, and the ef
 **National Climate Change Strategy 2012**  
 Today, I am pleased to launch the National Climate Change Strategy 2012, or NCCS-2012 in short. This document outlines our strategies and initiatives to realize Singapore’s vision to be a climate resilient global city that is well-positioned for green growth. Developed by the National Climate Change Secretariat in collaboration with other relevant public agencies, with inputs from the private sector and public consultations, the NCCS-2012 seeks to raise awareness about climate change and to encourage everyone to play a part through his or her daily actions.
 
-Let me speak briefly about what Singapore is doing in three broad areas: **First**, Tackling Climate Change. **Second**, Gearing up for Green Growth. And **third**, Involving People and Building Partnerships
+Let me speak briefly about what Singapore is doing in three broad areas: <u>First</u>, Tackling Climate Change. <u>Second</u>, Gearing up for Green Growth. And <u>third</u>, Involving People and Building Partnerships
 
 **Tackling Climate Change**  
 Let me start with how Singapore is addressing the challenges of climate change. As a small, land constrained city-state, with limited access to alternative energy, it is not easy for us to reduce our carbon emissions. But we have already taken proactive steps to do so. About 80 per cent of our electricity is generated from natural gas, the cleanest form of fossil fuel. Few countries have done as much as we have to manage vehicular growth and usage. The growth of the vehicle population is tied to available road space, and vehicle usage is priced to reduce congestion. Both measures help reduce carbon emissions from vehicles. A new Carbon Emissions-based Vehicle Scheme will come into effect from January 2013, to encourage car buyers to switch to vehicles with lower emissions.
@@ -59,7 +59,7 @@ I hope all of us will continue to work together to ensure that Singapore remains
 Thank you and I wish everyone a fulfilling and enjoyable Conference.
 
 
-**Footnotes:**  
+<u>Footnotes:</u>    
 1 World Meteorological Organization, “WMO statement on the status of the global climate in 2011”, March 2012 ([<a href="http://www.wmo.int/pages/prog/wcp/wcdmp/documents/1085_en.pdf" target="_blank">http://www.wmo.int/pages/prog/wcp/wcdmp/documents/1085_en.pdf</a>](http://www.wmo.int/pages/prog/wcp/wcdmp/documents/1085_en.pdf))
 
 2 The UN Climate Change Conference in Durban was a series of meetings of the 17th Conference of the Parties to the UNFCCC, and the 7th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (COP-17/CMP-7).

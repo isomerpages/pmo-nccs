@@ -1,7 +1,7 @@
 ---
 title: Water Resource Management
 permalink: /singapores-climate-action/water-resource-management/
-third_nav_title: Adaption Efforts
+third_nav_title: Adaptation Efforts
 ---
 
 ### WATER RESOURCE MANAGEMENT
