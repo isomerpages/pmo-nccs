@@ -1,7 +1,7 @@
 ---
 title: Enhancing Knowledge And Expertise
 permalink: /singapores-climate-action/enhancing-knowledge-and-expertise/
-third_nav_title: Adaption Efforts
+third_nav_title: Adaptation Efforts
 ---
 
 ### ENHANCING KNOWLEDGE AND EXPERTISE
