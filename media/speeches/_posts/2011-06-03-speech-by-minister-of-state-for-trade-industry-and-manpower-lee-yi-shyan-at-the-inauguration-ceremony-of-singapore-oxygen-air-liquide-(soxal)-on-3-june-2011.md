@@ -54,7 +54,8 @@ In closing, allow me to extend my heartiest congratulations to the management an
 
 SOXAL has been a long-standing partner for Singapore industries since 1916, I am certain that we would want to extend this strong partnership long into the future. May I wish SOXAL every success in your future endeavours.
 
-Thank you.
+Thank you.  
+<br><br>
 
 
 
