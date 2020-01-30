@@ -66,7 +66,7 @@ To signify the official beginning of our rallying together for climate action, I
 
 We have received more than 200 pledges from individuals and organisations to date. I want to encourage everyone here to make a pledge, if you have not already done so.  It is a good positive action and will help us push forward collectively during this Year of Climate Action.
 
-We have set up a new [<a href="https://climateaction.sg/" target="_blank">Climate Action SG</a>](https://climateaction.sg/) blog to keep the public up-to-date on all climate-related matters in Singapore. This blog will be a community-run effort and I hope all of you can contribute and share your climate action stories, articles, events and photos with us on this site.
+We have set up a new [<a href="https://climateaction.sg/">Climate Action SG blog</a>](https://climateaction.sg/) to keep the public up-to-date on all climate-related matters in Singapore. This blog will be a community-run effort and I hope all of you can contribute and share your climate action stories, articles, events and photos with us on this site.
 
 I also encourage all of you to use the Climate Action Logo to brand your sustainability activities and events. The “red dot” in the logo references Singapore as a small country amongst the global family of nations; while the iconic Singapore skyline forms a strong base, and shows that everyone has a part to play in Climate Action. Taking climate action will help to preserve a Sustainable Singapore.  Please use the hashtag #ClimateActionSG for your social media posts – to help raise awareness on this call to action.
 

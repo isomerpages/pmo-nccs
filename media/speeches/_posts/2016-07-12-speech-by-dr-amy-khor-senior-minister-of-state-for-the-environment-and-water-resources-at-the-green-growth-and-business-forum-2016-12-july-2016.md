@@ -33,7 +33,7 @@ According to the 2015 report by the New Climate Economy, global analysis shows t
 
 **Singapore is a vibrant market for green growth**
 
-On this note, Singapore places considerable focus in creating a vibrant market that promotes green growth. In the area of renewable energy, Singapore plans to raise the adoption of solar power in our system to 350 Mega-Watt-peak (MWp) by 2020 under the SolarNova programme that aggregates solar demand amongst government agencies. This is a significant increase from the present 60MWp [1] of installed capacity today, and an ambitious step given our small land area and high urban density. This will build up and support the solar ecosystem in Singapore, in manufacturing, project development, system integration, financing and so on.
+On this note, Singapore places considerable focus in creating a vibrant market that promotes green growth. In the area of renewable energy, Singapore plans to raise the adoption of solar power in our system to 350 Mega-Watt-peak (MWp) by 2020 under the SolarNova programme that aggregates solar demand amongst government agencies. This is a significant increase from the present 60MWp <a href="#1" id="1sub"><sub>[1]</sub></a> of installed capacity today, and an ambitious step given our small land area and high urban density. This will build up and support the solar ecosystem in Singapore, in manufacturing, project development, system integration, financing and so on.
 
 Demand for renewable energy is also picking up in the private sector. As most of you are aware, Apple announced in October last year that they will rely entirely on solar energy for its operations in Singapore through a first-of-its-kind Offsite Power Purchase Agreement. With solar power approaching grid parity worldwide and new financing models such as solar leasing in Singapore, there is strong reason and a viable environment for businesses to consider solar adoption.
 
@@ -65,7 +65,8 @@ Let me wish you an enjoyable and fruitful experience at this forum. Thank you.
 
 ___
 
-[1] As of 2015
+<a href="#1sub" id="1" name="1">[1]</a> As of 2015
+<br><br><br>
 
 
 Source: [<a href="https://www.mewr.gov.sg/news/opening-address-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources-at-the-green-growth-business-forum-on-12-july-2016" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/opening-address-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources-at-the-green-growth-business-forum-on-12-july-2016)

@@ -59,5 +59,6 @@ Going underground is not make-believe, there is a very real potential beyond the
 **Conclusion**
 
 To reiterate, 50 years ago, the Marina Bay was just water – there was no Marina Bay Sands, Marina Barrage and Gardens by the Bay. Today, we have an outstanding global business and financial centre with state-of-the-art infrastructure support. It is truly a remarkable transformation. With more successful public-private partnerships like this, and the collective efforts of all Singaporeans, we can look forward to an even more sustainable and liveable Singapore in future! Thank you.
+<br><br><br><br>
 
 Source: [<a href="https://www.mnd.gov.sg/" target="_blank">Ministry of National Development</a>](https://www.mnd.gov.sg/)

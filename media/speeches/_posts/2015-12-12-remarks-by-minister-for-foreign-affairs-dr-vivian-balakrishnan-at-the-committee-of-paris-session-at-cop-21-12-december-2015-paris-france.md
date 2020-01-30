@@ -36,5 +36,6 @@ Finally, as a member of AOSIS, let me express our appreciation to all the Partie
 Mr President, on behalf of all the citizens of Singapore, it is my honour to thank you. It is not often in the lives of politicians, diplomats or [members of] civil society to be present at the genesis of a major earth-changing moment, and we have been blessed to be here, in Paris on the 12th of December 2015.
 
 Thank you all very much.
+<br><br><br><br>
 
 Source: [<a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos" target="_blank">Ministry of Foreign Affairs</a>](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos)
