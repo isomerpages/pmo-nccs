@@ -64,9 +64,9 @@ There are also opportunities arising from climate change. We can create high-val
 Sir, we need a whole-of-nation effort – involving the people, the private, and the public sectors to realise our vision. Together, we can ensure that Singapore remains a vibrant and liveable nation for our future generations.
 
 Thank you, sir.
-
+<br><br>
 
 
 **Footnotes**  
-<sup>1</sup>Gross Floor Area above 2,000 sqm  
-<sup>2</sup>Air-conditioned floor area above 5,000 sqm
+<u><sup>1</sup>Gross Floor Area above 2,000 sqm  
+<sup>2</sup>Air-conditioned floor area above 5,000 sqm</u>

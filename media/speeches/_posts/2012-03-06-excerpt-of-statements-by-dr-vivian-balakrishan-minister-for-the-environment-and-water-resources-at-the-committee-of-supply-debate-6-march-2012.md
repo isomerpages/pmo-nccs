@@ -38,6 +38,7 @@ In the industry and transport sectors, energy management practices will be manda
 To further moderate energy consumption in households, we have the Minimum Energy Performance Standards (MEPS) which I am glad that Dr Teo has supported. So far this has been implemented for refrigerators and air conditioners, and it basically works by removing inefficient models from the market, and therefore consumers can avoid being locked into the high operating cost of inefficient appliances. 
 
 We will be further tightening the energy performance standards for household air conditioners and refrigerators by the end of 2013. MEPS will also be extended to general lighting by 2014. We will consider extending MEPS to other appliances, such as televisions, in the future.
+<br><br><br>
 
 
 

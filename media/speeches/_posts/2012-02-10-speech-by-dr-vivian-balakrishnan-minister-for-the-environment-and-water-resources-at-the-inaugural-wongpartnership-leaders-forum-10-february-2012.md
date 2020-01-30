@@ -51,7 +51,7 @@ For example, let’s take the Mandatory Energy Performance Standards. This allow
 So let me conclude with 6 words for you to bear in mind - Right pricing, informed choices and value creation. If we can get to a world where the right price is exposed and discovered for whatever resource we consume, if we can get to a world where individuals are empowered to make informed choices and a world in which the private sector is truly creating value and not just engaging in predatory behaviour on labour or on the environment - I think we will have a much better world and a sustainable future for all of us and our grandchildren.
 
 Thank you very much.
-
+<br><br><br>
 
 
 *Source*: [<a href="https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources-at-the-inaugural-wongpartnership-leaders-forum--10-february-2012-at-shangri-la" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources-at-the-inaugural-wongpartnership-leaders-forum--10-february-2012-at-shangri-la)

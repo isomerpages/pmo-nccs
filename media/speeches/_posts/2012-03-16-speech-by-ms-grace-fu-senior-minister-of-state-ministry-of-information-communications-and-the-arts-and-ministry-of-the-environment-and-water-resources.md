@@ -36,7 +36,6 @@ Indeed, the Green Labelling Scheme is actually one of the longstanding initiativ
 Ultimately, we need the concerted efforts of all stakeholders – the Government to provide the regulatory and fiscal framework, changing public mindset; the corporate sector to comply with standards and fulfil its corporate social responsibility to the environment by adopting responsible practices; and consumers that are aware of their individual responsibility to the environment that we live in, and to exercise their right as consumers. Green labelling is an important piece of the jigsaw on sustainable development. Even after 20 years, I am confident that the Green Label can grow even more in its stature as a trustworthy benchmark of environmental-friendliness and quality for everyone. Once again, congratulations to the SEC in taking the Green Label to the next level and doing her part in making Singapore more environmentally friendly. 
 
 Thank you for your time, and I wish you a fruitful day ahead.
-
-
+<br><br><br>
 
 Source: [<a href="Ministry of the Environment and Water Resources" target="_blank">Ministry of the Environment and Water Resources</a>](Ministry of the Environment and Water Resources)

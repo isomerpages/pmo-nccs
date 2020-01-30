@@ -62,6 +62,7 @@ In conclusion, the global EV landscape is a dynamic and evolving one. Government
 With EV pilots and programmes being implemented in various cities worldwide, it is also important that we share our experiences and learning points with one another, through platforms such as today’s seminar. We look forward to hearing from the various distinguished speakers who will discuss various aspects of the EV landscape.
 
 I wish you all a fruitful discussion and a successful seminar. Thank you.
+<br><br><br>
 
 
 Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609qzmN4smytfim" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609qzmN4smytfim)
