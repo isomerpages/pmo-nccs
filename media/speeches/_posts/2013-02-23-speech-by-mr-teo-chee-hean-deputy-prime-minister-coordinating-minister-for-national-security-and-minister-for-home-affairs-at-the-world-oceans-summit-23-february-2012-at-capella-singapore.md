@@ -40,8 +40,8 @@ This is not surprising. There are huge advantages to living near the seas. Coast
 
 However, the growing coastal population has also led to three sets of challenges for our oceans.
 
-**Challenges for the Oceans**  
-**(i) Degradation of Coastal and Marine Ecosystems**  
+**Challenges for the Oceans**    
+(<u>i</u>) <u>Degradation of Coastal and Marine Ecosystems</u>    
 First, the degradation of coastal and marine ecosystems when increasing coastal population density and economic activity create pressures on coastal ecosystems. There are now greater demands for water resources from desalination and food from the oceans; while at the same time there are more pollutant discharges, and greater reliance on coastal waters for transporting people and goods across regions.
 
 In some areas, heavy fisheries exploitation has reduced endemic coastal fish stocks to 10 to 30 per cent of the supply that existed 30 years ago<sup>5</sup>. Mangroves have been reduced to 30 to 50 per cent of their historical cover.  
@@ -55,7 +55,7 @@ I am also glad to note that the International Maritime Organisation (IMO) has ra
 
 To encourage environmentally-friendly shipping practices above and beyond what is IMO-mandated, the Maritime and Port Authority of Singapore is investing up to S$100 million over 5 years from 2011 in the Maritime Singapore Green Initiative. For example, MPA will provide incentives to ship owners of Singapore-flagged ships that adopt energy efficient ship designs which reduce fuel consumption and carbon dioxide, beyond the requirements of IMO's Energy Efficiency Design Index.
 
-**(ii) Securing the Highways of the World**  
+(<u>ii</u>) <u>Securing the Highways of the World</u>     
 As world trade grows, the sea will remain the most efficient and environmentally friendly mode of transporting goods. This poses the second set of challenges – securing the highways of the world.
 
 UNCLOS struck a delicate balance between the rights of coastal states and the rights to freedom of navigation, especially in straits used for international navigation.
@@ -68,14 +68,14 @@ Singapore will therefore continue to work with the IMO and the international com
 
 The incidence of marauders on land, or pirates at sea, has also influenced the choice of trade routes. Hence it is also important, even in this modern day, for all countries to work together to suppress piracy, both at sea, as well as from the places on land that pirates operate from.
 
-**(iii) Impacts of Climate Change**  
+(<u>iii</u>) <u>Impacts of Climate Change</u>   
 The third set of challenges relates to the impacts of climate change. Coastal communities and island states will be affected disproportionately from the severe impacts of climate change. It has been estimated that up to 23 per cent of the world’s population lives within 100 kilometres of the coast and less than 100 metres above sea level<sup>11</sup>, making them particularly vulnerable to the effects of rising sea levels, extreme weather events and coastal inundation. In recent years, the scientific community within the ambit of the Intergovernmental Panel on Climate Change has been studying how the impacts of climate change will affect the livelihoods of coastal communities.
 
 There is much that can and must be done at the local and national levels to address these impending impacts. For instance, ecosystem-based adaptive management, which promotes the preservation and restoration of coastal ecosystems as natural buffers, can be strengthened to increase the resilience of coastal ecosystems and communities.
 
 As a low-lying island state, Singapore takes the issue of climate change seriously. Singapore’s coastal reclamation sites were previously required to be at a minimum level of 1.25 metres above the highest recorded tide levels. This minimum level has now been raised by an additional 1 metre to safeguard against projected sea level rises by the year 2100<sup>12</sup>. New York City has also done some work in assessing what a projected rise in sea levels might mean for the areas in the city that are most likely to flood. It is currently working on a "risk index", with indicative cost-benefit analysis of where the risks are, relative to land value or population density<sup>13</sup>.
 
-**Emerging Norms for the Governance of Oceans**  
+**Emerging Norms for the Governance of Oceans**    
 While littoral states can address the sustainability of coastal and marine eco-systems, and the localised impacts of climate change at the national and regional level, we need a robust multilateral system to effectively deal with these complex issues at the global level. At the UN Climate Change Conference in Durban<sup>14</sup> last December, the world reaffirmed its collective commitment to a multilateral rules-based system to deal with climate change. It is also important to have a global dialogue on the governance of oceans, given the growing calls for additional norms to complement UNCLOS.
 
 One of the issues is over areas beyond national jurisdiction (ABNJ), which represent 59 per cent of the area of the global oceans<sup>15</sup>. Given the growing momentum at the UN to develop a system for managing these areas and their resources, this Summit provides a timely and useful platform to debate issues and surface ideas related to the governance of areas beyond national jursidiction. Some of the questions that we need to think about include: How do we continue to ensure that all competing uses of these areas are adequately balanced? How do we create a compliance and enforcement mechanism to regulate activities beyond national jurisdiction, and how do we resolve disputes that arise in these areas?
@@ -84,7 +84,7 @@ One of the issues is over areas beyond national jurisdiction (ABNJ), which repre
 
 30.We cannot ignore the growing calls for additional norms of ocean governance, but at the same time we must ensure that any emerging norms must strengthen or at least complement the existing framework, and not unravel all that we have achieved over the years.
 
-**Proposed Principles to Guide Emerging Norms for Ocean Governance**  
+**Proposed Principles to Guide Emerging Norms for Ocean Governance**    
 31.Let me take this opportunity to suggest three over-arching principles that could be applied to the current discussions on emerging international norms for ocean governance.
 
 32.First, UNCLOS must remain the primary basis for all discussions. In areas where UNCLOS is seen to be silent or less well-defined, any supplementary norms of ocean governance must be built upon the existing provisions of UNCLOS and not contradict nor undermine UNCLOS. This is to ensure that we continue to uphold the UNCLOS principles of the “common heritage of mankind”, and ensure that diverse interests are adequately balanced, whether they be the exploitation of resources, freedom of navigation, conservation of biodiversity or the right to other uses already provided for in UNCLOS.
@@ -95,10 +95,11 @@ One of the issues is over areas beyond national jurisdiction (ABNJ), which repre
 
 35.I hope these principles provide some useful parameters to spark off discussions during this Summit.
 
-**Conclusion**  
+**Conclusion**    
 36.This World Oceans Summit, held on the 30th anniversary of UNCLOS and the 20th anniversary of the Earth Summit, has brought together stakeholders and interested parties, with leading experts and scientists. I am confident that you will collectively surface fresh insights and ideas for strengthening our existing framework of ocean governance. We all have a common interest, and a common responsibility, for harmoniously managing the use of our oceans, in a sustainable manner, for the benefit of the generations to come.
 
 37.I wish everyone a stimulating and fruitful time at the Summit. Thank you.
+<br><br>
 
 <sup>1</sup>International Maritime Organisation (IMO), “International Shipping Facts and Figures – Information Resources on Trade, Safety, Security, Environment” (Maritime Knowledge Centre, July 2011).
 
@@ -106,16 +107,13 @@ One of the issues is over areas beyond national jurisdiction (ABNJ), which repre
 
 <sup>3</sup>Biliana Cicin-Sain et al, “Oceans at Rio+20: How Well are we Doing in Meeting the Commitments from the 1992 Earth Summit and the 2002 World Summit on Sustainable Development?”, University of Delaware and Global Ocean Forum, September 2011 (Oceans at Rio+20)
 
-<sup>4</sup>Presentation by Takehiro Nakamura, UN Environment Programme, given at the 2011 World Water Week, Stockholm, 21-27 Aug 11,  
-[<a href="https://www.worldwaterweek.org/documents/WWW_PDF/2011/Wednesday/T4/Living-on-the-Edge-Management-in-Coastal-Cities/Living-on-the-edge-Hilltops-2-Oceans.pdf" target="_blank">http://www.worldwaterweek.org/documents/WWW_PDF/2011/Wednesday/T4/Living-on-the-Edge-Management-in-Coastal-Cities/Living-on-the-edge-Hilltops-2-Oceans.pdf</a>](https://www.worldwaterweek.org/documents/WWW_PDF/2011/Wednesday/T4/Living-on-the-Edge-Management-in-Coastal-Cities/Living-on-the-edge-Hilltops-2-Oceans.pdf)
+<sup>4</sup>Presentation by Takehiro Nakamura, UN Environment Programme, given at the 2011 World Water Week, Stockholm, 21-27 Aug 11, [<a href="https://www.worldwaterweek.org/documents/WWW_PDF/2011/Wednesday/T4/Living-on-the-Edge-Management-in-Coastal-Cities/Living-on-the-edge-Hilltops-2-Oceans.pdf" target="_blank">http://www.worldwaterweek.org/documents/WWW_PDF/2011/Wednesday/T4/Living-on-the-Edge-Management-in-Coastal-Cities/Living-on-the-edge-Hilltops-2-Oceans.pdf</a>](https://www.worldwaterweek.org/documents/WWW_PDF/2011/Wednesday/T4/Living-on-the-Edge-Management-in-Coastal-Cities/Living-on-the-edge-Hilltops-2-Oceans.pdf)
 
 <sup>5</sup>Liz Creel, “Ripple Effects: Population and Coastal Regions”, Population Reference Bureau, September 2003.
 
-<sup>6</sup>Intergovernmental Oceanographic Commission of UNESCO, IMO, Food and Agriculture Organisation of United Nations, United Nations Development Programme, “A Blueprint for Ocean and Coastal Sustainability”, 2011.  
-([<a href="http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf" target="_blank">http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf</a>](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf))
+<sup>6</sup>Intergovernmental Oceanographic Commission of UNESCO, IMO, Food and Agriculture Organisation of United Nations, United Nations Development Programme, “A Blueprint for Ocean and Coastal Sustainability”, 2011. ([<a href="http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf" target="_blank">http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf</a>](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf))
 
-<sup>7</sup>United Nations Environment Programme, “Land Based Sources of Pollution”,  
-([<a href="https://www.unenvironment.org/explore-topics/oceans-seas/what-we-do/working-regional-seas" target="_blank">http://web.unep.org/regionalseas/what-we-do/land-based-pollution</a>](https://www.unenvironment.org/explore-topics/oceans-seas/what-we-do/working-regional-seas))
+<sup>7</sup>United Nations Environment Programme, “Land Based Sources of Pollution”, ([<a href="https://www.unenvironment.org/explore-topics/oceans-seas/what-we-do/working-regional-seas" target="_blank">http://web.unep.org/regionalseas/what-we-do/land-based-pollution</a>](https://www.unenvironment.org/explore-topics/oceans-seas/what-we-do/working-regional-seas))
 
 <sup>8</sup>The Economist, “Troubled waters: A special report on the seas”, January 3, 2009. Scientists believe that as much as 100 million tonnes of plastic jetsam are suspended in two separate gyres of garbage in the central Pacific, over an area twice the size of the US.
 
@@ -125,12 +123,10 @@ One of the issues is over areas beyond national jurisdiction (ABNJ), which repre
 
 <sup>11</sup>United Nations Environment Programme/GRID-Arendal, “Climate in Peril: Projected climate changes and its impacts” ([<a href="http://www.grida.no/publications/climate-in-peril/page/3545.aspx" target="_blank">http://www.grida.no/publications/climate-in-peril/page/3545.aspx</a>](http://www.grida.no/publications/climate-in-peril/page/3545.aspx))
 
-<sup>12</sup>Drainage Code Revised to Enhance Singapore’s Flood Protection, 30 November 2011  
-([<a href="https://www.pub.gov.sg/Documents/COP_Final.pdf" target="_blank">https://www.pub.gov.sg/Documents/COP_Final.pdf</a>](https://www.pub.gov.sg/Documents/COP_Final.pdf))
+<sup>12</sup>Drainage Code Revised to Enhance Singapore’s Flood Protection, 30 November 2011 ([<a href="https://www.pub.gov.sg/Documents/COP_Final.pdf" target="_blank">https://www.pub.gov.sg/Documents/COP_Final.pdf</a>](https://www.pub.gov.sg/Documents/COP_Final.pdf))
 
 <sup>13</sup>Katharine Jose, “Before the flood: New York City is just beginning to gird for the ‘100- year storm’, if it is not already too late”, February 3, 2012. ([<a href="http://www.capitalnewyork.com/article/politics/2012/02/5190075/flood-new-york-city-just-beginning-gird-100-year-storm-if-its-not-a?page=all" target="_blank">http://www.capitalnewyork.com/article/politics/2012/02/5190075/flood-new-york-city-just-beginning-gird-100-year-storm-if-its-not-a?page=all</a>](http://www.capitalnewyork.com/article/politics/2012/02/5190075/flood-new-york-city-just-beginning-gird-100-year-storm-if-its-not-a?page=all))
 
 <sup>14</sup>The UN Climate Change Conference in Durban was a series of meetings of the 17th Conference of the Parties to the UNFCCC, and the 7th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (COP-17/CMP-7)
 
-<sup>15</sup>Deputy Secretary-General Asha-Rose Migiro’s statement to the Ad Hoc Open-ended Informal Working Group to study issues relating to the conservation and sustainable use of marine biological diversity beyond areas of national jurisdiction in New York, 1 February 2010.  
-([<a href="http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm" target="_blank">http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm</a>](http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm))
+<sup>15</sup>Deputy Secretary-General Asha-Rose Migiro’s statement to the Ad Hoc Open-ended Informal Working Group to study issues relating to the conservation and sustainable use of marine biological diversity beyond areas of national jurisdiction in New York, 1 February 2010. ([<a href="http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm" target="_blank">http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm</a>](http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm))

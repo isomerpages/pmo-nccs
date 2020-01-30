@@ -160,5 +160,6 @@ Today, Singapore is in a position where we are not only able to safeguard our so
 As we face the new and multi-faceted challenges of the future, deft diplomacy, and a strong and versatile SAF will still be required, to enable us to create the space for a stable, secure and prosperous Singapore.
 
 Thank you.
+<br><br><br>
 
-Source: [<a href="https://www.mha.gov.sg/" target="_blank">Ministry of Home Affairs</a>](https://www.mha.gov.sg/)
+*Source*: [<a href="https://www.mha.gov.sg/" target="_blank">Ministry of Home Affairs</a>](https://www.mha.gov.sg/)

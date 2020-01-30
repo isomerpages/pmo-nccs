@@ -9,7 +9,7 @@ permalink: /media/speeches/singapores-national-statement-delivered-by-deputy-pri
 
 Mr President,
 
-I would like to begin by congratulating you on your election as the President of this Conference. I thank you for the warm hospitality and excellent arrangements at this Conference. We assure you of our support to make this Conference a success.
+1.would like to begin by congratulating you on your election as the President of this Conference. I thank you for the warm hospitality and excellent arrangements at this Conference. We assure you of our support to make this Conference a success.
 
 **Way forward**
 

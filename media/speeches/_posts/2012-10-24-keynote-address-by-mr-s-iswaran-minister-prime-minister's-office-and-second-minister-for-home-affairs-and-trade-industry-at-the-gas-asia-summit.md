@@ -40,7 +40,6 @@ Good morning. I am pleased to join you today at the inaugural Gas Asia Summit.
 12.On this note, I wish you all a fruitful summit and a rewarding experience at this year’s Singapore International Energy Week.
 
 13.Thank you.
+<br><br><br>
 
-
-    
-Source: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry Singapore</a>](https://www.mti.gov.sg/)
+*Source*: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry Singapore</a>](https://www.mti.gov.sg/)

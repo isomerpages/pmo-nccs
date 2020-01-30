@@ -7,13 +7,13 @@ permalink: /media/speeches/oral-reply-by-mr-s-iswaran-minister-prime-minister's-
 
 ### ORAL REPLY BY MR S ISWARAN, MINISTER, PRIME MINISTER'S OFFICE AND SECOND MINISTER FOR HOME AFFAIRS AND TRADE & INDUSTRY, TO PARLIAMENTARY QUESTION ON THE USE OF COAL AT TEMBUSU MULTI-UTILITIES COMPLEX ON JURONG ISLAND, 13 MARCH 2013
 
-**Question by Mrs Lina Chiam:**
+**<u>Question by Mrs Lina Chiam:</u>**
 
 To ask the Minister for Trade and Industry:  
 a. Why is the coal-burning Tembusu Multi-Utilities Complex on Jurong Island allowed to operate considering that coal is one of the most polluting source of energy; and  
 b. Whether Singapore has met its international obligations to reduce its carbon emissions.
 
-**Response:**
+**<u>Response:</u>**
 
 The Tembusu Multi-Utilities Complex (TMUC) employs a mix of clean coal and biomass to produce steam and electricity for chemical companies on Jurong Island. Clean coal is a significantly cheaper fuel option compared to fuel oil and natural gas, and the use of coal is expected to reduce steam prices by at least 10 per cent for customers of TMUC. 
 
@@ -22,6 +22,6 @@ To strike a balance with environmental concerns, only the use of low ash and low
 In addition, measures have been put in place by our environmental agencies to ensure that the TMUC meets environmental standards as stipulated under the Environmental Protection and Management Act and its Regulations. TMUC is held to stringent requirements for pollutants such as particulate matter (PM) and mercury. The company is also required to transport coal via covered transportation systems to prevent fugitive dust emissions, and recycle ash as construction material. 
 
 Singapore is on track to meet its unconditional pledge of reducing GHG emissions by 7 to 11 per cent below 2020 business-as-usual (BAU) levels. To this end, we have already implemented several energy efficiency measures to reduce the carbon footprint of our industries. These include the Grant for Energy Efficient Technologies (GREET), tax incentives via the Investment Allowance for Energy Efficiency (IA for EE), and the Design for Efficiency (DfE) scheme. This year, we are also piloting third party financing schemes to encourage private financing of EE projects.
+<br><br><br>
 
-
-Source: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry </a>](https://www.mti.gov.sg/)
+*Source*: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry </a>](https://www.mti.gov.sg/)
