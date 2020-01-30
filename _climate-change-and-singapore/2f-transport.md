@@ -1,6 +1,6 @@
 ---
 title: Transport
-permalink: /climate-change-and-singapore/transport/
+permalink: /singapores-climate-action/transport/
 third_nav_title: Mitigation Efforts
 ---
 

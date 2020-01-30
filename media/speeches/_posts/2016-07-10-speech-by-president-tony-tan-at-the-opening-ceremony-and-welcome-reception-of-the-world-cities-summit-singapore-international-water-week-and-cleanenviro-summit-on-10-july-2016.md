@@ -5,8 +5,7 @@ subtitle: 10 Jul 2016
 permalink: /media/speeches/speech-by-president-tony-tan-at-the-opening-ceremony-and-welcome-reception-of-the-world-cities-summit-singapore-international-water-week-and-cleanenviro-summit-on-10-july-2016
 ---
 
-### SPEECH BY PRESIDENT TONY TAN AT THE OPENING CEREMONY AND WELCOME RECEPTION OF THE WORLD CITIES SUMMIT, SINGAPORE INTERNATIONAL WATER WEEK AND CLEANENVIRO SUMMIT ON 10 JULY 2016 AT SANDS EXPO AND CONVENTION CENTRE
-
+### SPEECH BY PRESIDENT TONY TAN AT THE OPENING CEREMONY AND WELCOME RECEPTION OF THE WORLD CITIES SUMMIT, SINGAPORE INTERNATIONAL WATER WEEK AND CLEANENVIRO SUMMIT ON 10 JULY 2016 AT SANDS EXPO AND CONVENTION CENTRE  
 Excellencies
 
 Distinguished Guests
@@ -50,6 +49,6 @@ Culture provides an anchor for identity. The Singapore urban development experie
 This week's Summits are excellent platforms for exchanging ideas and learning about innovative and emerging solutions in creating liveable and sustainable communities. Many of us here today are city leaders, practitioners or urban solution providers who are at the forefront of spearheading such efforts. 
 
 I wish you a fruitful and productive time networking and learning from one another, and hope you will continue to maintain the friendships and networks forged here and continue the meaningful dialogue beyond the Summits.
+<br><br><br>
 
-
-Source: [<a href="https://www.istana.gov.sg/" target="_blank">The Istana</a>](https://www.istana.gov.sg/)
+*Source: [<a href="https://www.istana.gov.sg/" target="_blank">The Istana</a>](https://www.istana.gov.sg/)*

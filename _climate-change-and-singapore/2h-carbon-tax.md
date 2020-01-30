@@ -1,6 +1,6 @@
 ---
 title: Carbon Tax
-permalink: /climate-change-and-singapore/carbon-tax/
+permalink: /singapores-climate-action/carbon-tax/
 third_nav_title: Mitigation Efforts
 ---
 

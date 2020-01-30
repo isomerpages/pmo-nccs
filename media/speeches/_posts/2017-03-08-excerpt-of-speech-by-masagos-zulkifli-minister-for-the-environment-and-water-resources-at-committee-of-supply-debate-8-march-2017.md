@@ -5,8 +5,7 @@ subtitle: 8 Mar 2017
 permalink: /media/speeches/excerpt-of-speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-committee-of-supply-debate-8-march-2017
 ---
 
-### EXCERPT OF SPEECH BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT COMMITTEE OF SUPPLY DEBATE, 8 MARCH 2017
-
+### EXCERPT OF SPEECH BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT COMMITTEE OF SUPPLY DEBATE, 8 MARCH 2017  
 **Climate change**
 
 While we stand on solid footing, the road ahead is uncertain. A major concern for us is climate change, a far-reaching threat we can already see and feel today. Our Met Service recorded 2016 as the hottest year since 1929, when we started keeping temperature records. In recent years, our water managers, too, have had a foretaste of the looming challenge of coping with extended dry spells on the one hand and higher intensity rainfall on the other. Singapore has to plan ahead to deal with climate change impacts. We will not only need to protect our buildings, coasts, and infrastructure, but also foster greater awareness, so that we are a resilient people. 
@@ -28,6 +27,7 @@ To pave the way for a robust carbon tax regime, we need to have a sound measurem
 We have also received feedback on the need to improve the current incentive schemes. NEA will be consolidating their existing energy efficiency incentive schemes into a single fund called the Energy Efficiency Fund (E2F). NEA will redesign the E2F to better support companies to identify and undertake energy efficiency retrofits. We will especially help our SMEs by co-funding up to 30 per cent of their investments in energy efficient technologies. Further details will be released by NEA. 
 
 We need a sustainable way to grow our economy. This is even more important as the world becomes increasingly carbon-constrained.
+<br><br><br><br>
 
 For the full speech, please go to [<a href="http://www.mewr.gov.sg/news/speech-by-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-mewr-cos-2017-on-8-mar-2017" target="_blank">http://www.mewr.gov.sg/news/speech-by-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-mewr-cos-2017-on-8-mar-2017</a>](http://www.mewr.gov.sg/news/speech-by-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-mewr-cos-2017-on-8-mar-2017).
 

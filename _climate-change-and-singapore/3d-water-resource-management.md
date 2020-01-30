@@ -1,6 +1,6 @@
 ---
 title: Water Resource Management
-permalink: /climate-change-and-singapore/water-resource-management/
+permalink: /singapores-climate-action/water-resource-management/
 third_nav_title: Adaption Efforts
 ---
 

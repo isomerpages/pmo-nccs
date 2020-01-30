@@ -1,6 +1,6 @@
 ---
 title: Energy Efficiency
-permalink: /climate-change-and-singapore/energy-efficiency/
+permalink: /singapores-climate-action/energy-efficiency/
 third_nav_title: Mitigation Efforts
 ---
 

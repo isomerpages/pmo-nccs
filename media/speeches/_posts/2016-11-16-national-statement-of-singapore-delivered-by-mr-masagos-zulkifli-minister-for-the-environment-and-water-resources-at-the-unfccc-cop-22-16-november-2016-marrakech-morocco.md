@@ -67,9 +67,8 @@ ___
 
 <a href="1" name="1" id="1">[1]</a> Under the COP-21 decisions, Parties agreed to appoint two Climate Champions between 2016-2020 to speed up and scale up immediate climate action, who would be selected successively from outgoing and incoming Presidencies of the annual UN climate change conference.
 
-<a id="1" name="1">[1]</a> Source: Arcadis Sustainable Cities Index, 2016.
+<a id="2" name="2">[2]</a> Source: Arcadis Sustainable Cities Index, 2016.
 
-<a id="1" name="1">[1]</a> Source: IEA Key World Energy Stat
-
-
+<a id="3" name="3">[3]</a> Source: IEA Key World Energy Stat
+<br><br><br>
 Source: [<a href="http://www.mewr.gov.sg/news/national-statement-of-singapore-delivered-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-the-unfccc-cop-22--16-november-2016--marrakech--morocco" target="_blank">Ministry of the Environment and Water Resources</a>](http://www.mewr.gov.sg/news/national-statement-of-singapore-delivered-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-the-unfccc-cop-22--16-november-2016--marrakech--morocco)

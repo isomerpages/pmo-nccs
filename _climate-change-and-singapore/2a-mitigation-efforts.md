@@ -1,6 +1,6 @@
 ---
 title: Mitigation Efforts 
-permalink: /climate-change-and-singapore/mitigation-efforts/
+permalink: /singapores-climate-action/mitigation-efforts/
 third_nav_title: Mitigation Efforts
 ---
 

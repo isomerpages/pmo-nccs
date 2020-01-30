@@ -1,6 +1,6 @@
 ---
 title: Power Generation
-permalink: /climate-change-and-singapore/power-generation/
+permalink: /singapores-climate-action/power-generation/
 third_nav_title: Mitigation Efforts
 ---
 

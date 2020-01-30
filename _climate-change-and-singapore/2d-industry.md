@@ -1,6 +1,6 @@
 ---
 title: Industry
-permalink: /climate-change-and-singapore/industry/
+permalink: /singapores-climate-action/industry/
 third_nav_title: Mitigation Efforts
 ---
 

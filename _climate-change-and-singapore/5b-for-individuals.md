@@ -1,6 +1,6 @@
 ---
 title: For Individuals 
-permalink: /climate-change-and-singapore/for-individuals/
+permalink: /singapores-climate-action/for-individuals/
 third_nav_title: What We Can Do
 ---
 

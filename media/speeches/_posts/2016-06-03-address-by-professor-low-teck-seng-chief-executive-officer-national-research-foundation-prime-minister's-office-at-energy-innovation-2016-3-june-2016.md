@@ -70,5 +70,6 @@ I am delighted to learn that the symposium will be featuring exciting topics ran
 With this, I wish you all a fruitful and enjoyable experience at this symposium.
 
 Thank you.
+<br><br><br>
 
 *Source: [<a href="https://www.nrf.gov.sg/" target="_blank">National Research Foundation</a>](https://www.nrf.gov.sg/)*
