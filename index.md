@@ -13,16 +13,16 @@ sections:
         key_highlights:
             - title: Mitigation Efforts
               description: Reducing our carbon emissions in all sectors
-              url: /climate-change-and-singapore/mitigation-efforts/
+              url: /singapores-climate-action/mitigation-efforts/
             - title: Adaption Efforts
               description: Adapting to the impact of climate change
-              url: /climate-change-and-singapore/overview/adapting-overview/
+              url: /singapores-climate-action/overview/adapting-overview/
             - title: Green Growth Opportunities
               description: Harnessing green growth opportunities
-              url: /climate-change-and-singapore/overview/green-growth-opportunities/
+              url: /singapores-climate-action/overview/green-growth-opportunities/
             - title: Singapore And International Efforts
               description: Forging international collaborations
-              url: /climate-change-and-singapore/singapore-and-international-efforts/
+              url: /singapores-climate-action/singapore-and-international-efforts/
     - infopic:
         image: /images/pps-banner.jpg
         alt: Members of the Ministry of ABC shaking hands

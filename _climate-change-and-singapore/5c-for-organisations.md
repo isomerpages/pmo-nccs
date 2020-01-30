@@ -1,6 +1,6 @@
 ---
 title: For Organisations
-permalink: /climate-change-and-singapore/for-organisations/
+permalink: /singapores-climate-action/for-organisations/
 third_nav_title: What We Can Do
 ---
 

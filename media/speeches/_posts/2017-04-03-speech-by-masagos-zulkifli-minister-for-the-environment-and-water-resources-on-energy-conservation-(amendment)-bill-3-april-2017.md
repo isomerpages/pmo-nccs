@@ -77,5 +77,5 @@ The third set of revisions to the ECA concerns the Vehicular Emissions Scheme, o
 Madam Speaker, and members of the House, let me conclude. The proposed enhancements to the ECA are forward-looking, and aim to guide how we view and conserve precious energy resources. The ECA provides a framework to shape positive choices in the industry, transport and household sectors, to achieve a carbon-efficient and sustainable future. It will also catalyse demand for energy efficiency and clean energy services, which could become the seeds of future growth. I encourage all stakeholders to work with us on efforts to conserve energy, as we seek a sustainable future together.
 
 Madam Speaker, I beg to move.
-
+<br><br><br>
 Source: [<a href="https://www.mewr.gov.sg/news/speech-by-masagos-zulkifli--minister-for-the-environment-and-water-resources-on-energy-conservation-amendment-bill-on-3-april-2017" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-masagos-zulkifli--minister-for-the-environment-and-water-resources-on-energy-conservation-amendment-bill-on-3-april-2017)

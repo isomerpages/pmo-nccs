@@ -1,6 +1,6 @@
 ---
 title: Buildings
-permalink: /climate-change-and-singapore/buildings/
+permalink: /singapores-climate-action/buildings/
 third_nav_title: Mitigation Efforts
 ---
 

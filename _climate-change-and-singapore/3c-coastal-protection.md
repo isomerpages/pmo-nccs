@@ -1,6 +1,6 @@
 ---
 title: Coastal Protection
-permalink: /climate-change-and-singapore/coastal-protection/
+permalink: /singapores-climate-action/coastal-protection/
 third_nav_title: Adaption Efforts
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Waste And Water
-permalink: /climate-change-and-singapore/waste-and-water/
+permalink: /singapores-climate-action/waste-and-water/
 third_nav_title: Mitigation Efforts
 ---
 

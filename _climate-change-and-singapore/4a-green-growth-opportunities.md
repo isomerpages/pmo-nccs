@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /climate-change-and-singapore/overview/green-growth-opportunities
+permalink: /singapores-climate-action/overview/green-growth-opportunities
 third_nav_title: Green Growth Opportunities
 ---
 

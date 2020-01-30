@@ -1,6 +1,6 @@
 ---
 title: Singapore And International Efforts
-permalink: /climate-change-and-singapore/singapore-and-international-efforts/
+permalink: /singapores-climate-action/singapore-and-international-efforts/
 ---
 
 ### SINGAPORE AND INTERNATIONAL EFFORTS

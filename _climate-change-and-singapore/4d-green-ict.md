@@ -1,6 +1,6 @@
 ---
 title: Green ICT
-permalink: /climate-change-and-singapore/green-ict/
+permalink: /singapores-climate-action/green-ict/
 third_nav_title: Green Growth Opportunities
 ---
 
