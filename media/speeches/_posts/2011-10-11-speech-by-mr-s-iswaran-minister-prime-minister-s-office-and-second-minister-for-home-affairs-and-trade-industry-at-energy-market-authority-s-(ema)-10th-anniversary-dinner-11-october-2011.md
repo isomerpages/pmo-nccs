@@ -65,7 +65,7 @@ Good evening. I am pleased to join you this evening to celebrate the Energy Mark
 
 17.&nbsp;I congratulate EMA on its 10th anniversary, and commend you on an eventful decade with significant milestones. I wish you all a pleasant evening.
 
-18.Thank you.  
+18.&nbsp;Thank you.  
 <br><br><br>
 
 
