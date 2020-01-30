@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speech by Minister Khaw at the Joint Official Opening Ceremony of International Green Building Conference and Bex Asia 2014
-subtitle: 31 Aug 2014
+subtitle: 1 Sep 2014
 permalink: /media/speeches/speech-by-minister-khaw-at-the-joint-official-opening-ceremony-of-international-green-building-conference-and-bex-asia-2014
 ---
 

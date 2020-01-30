@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opening Address by Dr Vivian Balakrishnan, Minister for the Environment and Water Resources, at the Responsible Business Forum on Sustainable Development, 25 November 2013 at Marina Bay Sands Convention Centre
-subtitle: 25 Nov 2013
+subtitle: 27 Nov 2013
 permalink: /media/speeches/opening-address-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-responsible-business-forum-on-sustainable-development
 ---
 

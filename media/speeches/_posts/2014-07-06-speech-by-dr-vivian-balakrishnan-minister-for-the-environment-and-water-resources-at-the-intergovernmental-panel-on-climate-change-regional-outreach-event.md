@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speech by Dr Vivian Balakrishnan, Minister for the Environment and Water Resources, at the Intergovernmental Panel on Climate Change Regional Outreach Event
-subtitle: 6 Jul 2014
+subtitle: 7 Jul 2014
 permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-intergovernmental-panel-on-climate-change-regional-outreach-event
 ---
 

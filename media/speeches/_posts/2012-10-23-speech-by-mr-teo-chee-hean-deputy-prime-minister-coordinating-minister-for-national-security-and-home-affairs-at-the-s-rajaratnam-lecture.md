@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speech by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security and Home Affairs at the S Rajaratnam Lecture
-subtitle: 23 Oct 2012
+subtitle: 24 Oct 2012
 permalink: /media/speeches/speech-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-home-affairs-at-the-s-rajaratnam-lecture
 ---
 
