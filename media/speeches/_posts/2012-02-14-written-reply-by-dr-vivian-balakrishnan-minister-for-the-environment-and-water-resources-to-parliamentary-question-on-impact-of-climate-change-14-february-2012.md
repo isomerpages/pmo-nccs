@@ -7,14 +7,14 @@ permalink: /media/speeches/written-reply-by-dr-vivian-balakrishnan-minister-for-
 
 ### WRITTEN REPLY BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, TO PARLIAMENTARY QUESTION ON IMPACT OF CLIMATE CHANGE, 14 FEBRUARY 2012
 
-Question by **Er Dr Lee Bee Wah:**
+<u>Question by **Er Dr Lee Bee Wah:**</u>
 
 To ask the Minister for the Environment and Water Resources:  
 a. How has the rise in sea water levels affected all the reclaimed land on our shorelines;  
 b. How is the Ministry monitoring climate change and its impact on our building design and structure; and  
 c. Whether there is an inter-Ministry committee to focus on climate change and study its implications on lifestyles.
 
-**Response:**
+<u>Response:</u>
 
 The Inter-Ministerial Committee on Climate Change (IMCCC) chaired by DPM Teo Chee Hean and which comprises Ministers from MFA, MTI, MEWR, MND, MOF and MOT, oversees Singapore's domestic and international policies, plans and actions on climate change.
 
@@ -35,7 +35,7 @@ As part of whole-of-government efforts, BCA has, together with other agencies an
 
 **Conclusion**  
 While the government has taken action based on available studies, MEWR and NEA are building up enhanced capabilities in climate science and modelling with the establishment of a Centre for Climate Science Singapore (CCRS) within the Meteorological Service Singapore (MSS). We will also form networks with relevant experts and institutions at the forefront of climate research. Strong climate science capabilities and updated scientific information will further enhance our assessment of risk to adverse impacts of climate change, and better inform agencies on the adaptive measures required to mitigate these risks.
-
+<br><br><br>
 
 
 Source: [<a href="https://www.mewr.gov.sg/" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/)
