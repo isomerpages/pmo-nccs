@@ -44,7 +44,7 @@ However, the decisions of individuals count too. Collectively, the everyday choi
 This Bill reflects our collective commitment to commence a process that will transform our approach to the use of energy and other resources. It provides a legislative framework to shape more rational energy choices in industry, transport and households, and to encourage a more conscientious consciousness of the energy we consume. It is an important step towards ensuring that we are prepared for an energy efficient future and sustainable development.
 
 Sir, I beg to move.
-
+<br><br><br>
 
 
 Source: [<a href="https://www.mewr.gov.sg/news/second-reading-speech-by-minister-for-the-environment-and-water-resources--dr-vivian-balakrishnan--on-the-energy-conservation-bill-in-parliament-on-9-april-2012" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/second-reading-speech-by-minister-for-the-environment-and-water-resources--dr-vivian-balakrishnan--on-the-energy-conservation-bill-in-parliament-on-9-april-2012)

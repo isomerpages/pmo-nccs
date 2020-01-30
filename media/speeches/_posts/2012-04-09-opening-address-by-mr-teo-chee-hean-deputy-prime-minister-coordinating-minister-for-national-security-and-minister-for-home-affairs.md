@@ -7,7 +7,7 @@ permalink: /media/speeches/opening-address-by-mr-teo-chee-hean-deputy-prime-mini
 
 ### OPENING ADDRESS BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER, COORDINATING MINISTER FOR NATIONAL SECURITY AND MINISTER FOR HOME AFFAIRS AT THE 6TH ASIA-PACIFIC PROGRAMME FOR SENIOR NATIONAL SECURITY OFFICERS (APPSNO) ON 9 APRIL 2012
 
-Mr Eddie Teo, Chairman, S. Rajaratnam School of International Studies Board of Governors
+Mr Eddie Teo, Chairman, S. Rajaratnam School of International Studies Board of Governors  
 Ambassador Barry Desker, Dean, RSIS  
 Excellencies  
 Distinguished Guests  

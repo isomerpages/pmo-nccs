@@ -52,7 +52,7 @@ Looking ahead, EAS countries will play an increasingly major role in the global 
 Finally, I wish to say that if we force people to choose between the environment and the economy, some will choose the economy. However, the choices do not have to be mutually exclusive. We have to find a way to make it a win-win outcome for both the environment and the economy, to find the right formula that will allow countries to adopt a low-carbon roadmap and strategy.
 
 Thank you.
-
+<br><br><br>
 
 
 Source: [<a href="https://www.mewr.gov.sg/news" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news)
