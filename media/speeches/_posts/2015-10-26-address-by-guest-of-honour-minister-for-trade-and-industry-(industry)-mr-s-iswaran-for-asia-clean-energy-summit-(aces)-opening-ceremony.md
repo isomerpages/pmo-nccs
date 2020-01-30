@@ -18,6 +18,7 @@ A very good morning.  It gives me great pleasure to join you this morning for th
 **Clean Energy Solutions will become even more important in a carbon-constrained world**
 
 Decision makers will gather in Paris later this year in December to negotiate a post-2020 climate agreement. Regardless of the outcome, many countries and cities are already planning their economic growth within an increasingly carbon-constrained operating environment, with clean energy viewed as a key solution to reduce pollution and mitigate climate change. Renewable energy has also become attractive in many jurisdictions due to its growing cost competitiveness and its contributions to enhancing energy security. Closer to home, the haze that has affected several countries in Southeast Asia has further reinforced the need for sustainable development. 
+
 For these and other reasons, renewable energy continues its strong growth around the world. According to the International Energy Agency (IEA), in 2014, renewables accounted for 128 gigawatts (GW)[1], or nearly half, of all new energy generating capacity in the world.  
 
 Asia is now at the centre of global clean energy growth, driven by the region’s robust energy demand, which is expected to more than double by 2035[2], and the desire for sustainable growth. China recently raised its solar deployment ambitions to 150 GW by 2020[3], and India has announced its target to install 100 GW of solar by 2022[4].  We are also seeing a growing renewables market in Southeast Asia.  For instance, Conergy, a German solar system integration company with a regional base in Singapore, recently secured over 200 megawatts (MW) of utility-scale solar projects in Indonesia and the Philippines[5].
@@ -28,15 +29,11 @@ Singapore aims to contribute to Asia’s clean energy journey, and play our part
 
 Notably, the Economic Development Board (EDB) has recently secured a number of new investments across the fields of solar, fuel cells, smart grids and testing services in Singapore. These projects will collectively create over 100 professional jobs and S$150 million in cumulative business spending over the next five years.
 
-   i. **Gräss (pronounced as “Gre-as”) Energy**, a leading solar engineering, procurement and construction (EPC) company from Germany, is establishing its global Headquarters in Singapore in a joint venture with SBI, a local marine company. 
-
-   ii. **Intelligent Energy**, a leading fuel cells company from the UK, is opening its global supply chain office here.
-
-   iii. **Accenture** will launch its Smart Grid Services team, which will lead the development of global micro-grid solutions architecture.
-
-   iv. **Omnetric**, a joint venture company between Siemens (pronounced as “Zee-mens”) and Accenture, will establish a consultancy and incubation team to provide smart grid solutions.
-
-   v.And last but not least, **DNV GL** will launch its Test Centre for Substation Automation, the first its kind in Asia, to test new network technology innovations.
++ **Gräss (pronounced as “Gre-as”) Energy**, a leading solar engineering, procurement and construction (EPC) company from Germany, is establishing its global Headquarters in Singapore in a joint venture with SBI, a local marine company. 
++ **Intelligent Energy**, a leading fuel cells company from the UK, is opening its global supply chain office here.
++ **Accenture** will launch its Smart Grid Services team, which will lead the development of global micro-grid solutions architecture.
++ **Omnetric**, a joint venture company between Siemens (pronounced as “Zee-mens”) and Accenture, will establish a consultancy and incubation team to provide smart grid solutions.
++ And last but not least, **DNV GL** will launch its Test Centre for Substation Automation, the first its kind in Asia, to test new network technology innovations.
 
 These investments are a strong vote of confidence in Singapore’s role as an effective Cleantech hub, with an emphasis on innovation, project development, and financing activities.
 
@@ -67,3 +64,9 @@ ___
 [4] Cleantechnica.com. India Eyes 100 GW Solar Power Capacity By 2022.
 
 [5] PV Magazine. Conergy to build Indonesia’s first utility-scale PV plant; announces 62 MW Philippines project. October 2015.
+
+<style type='text/css'>
+	li { list-style-type: lower-roman; padding-left: 10px}
+    .content li > ul { margin-top: 0px !important; }
+    .content ul > li:last-child { margin-top: 0px !important; }
+</style>
