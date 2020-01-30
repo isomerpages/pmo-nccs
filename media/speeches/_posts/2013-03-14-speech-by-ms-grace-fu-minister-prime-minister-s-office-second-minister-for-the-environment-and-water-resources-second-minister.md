@@ -60,7 +60,7 @@ Beyond making it more convenient for households to recycle by enhancing the recy
 As I conclude, let me encourage you to take advantage of the many opportunities that are available at this event through conferences, forums and networking sessions, to share and deepen your understanding of sustainability. Whether you are a consumer or a business, you have a key role to play in achieving our common environmental goals. Let me also take this opportunity to thank the organisers: the Asian Productivity Organisation, the Waste Management & Recycling Association of Singapore and SPRING Singapore, on their joint efforts in organising and bringing the Eco-Products International Fair to Singapore again.
 
 I wish you great success and hope you have a wonderful stay in Singapore. Thank you.
-
+<br><br><br>
 
 
 Source: <a href="https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--minister--prime-ministers-office--second-minister-for-the-environment-and-water-resources-and-second-minister-for-foreign-affairs--at-the-eco-products-international-fair-2013-on-14-mar-2013" target="_blank">Ministry of Environment and Water Resources</a>
