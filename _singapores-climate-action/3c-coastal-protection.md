@@ -1,7 +1,7 @@
 ---
 title: Coastal Protection
 permalink: /singapores-climate-action/coastal-protection/
-third_nav_title: Adaption Efforts
+third_nav_title: Adaptation Efforts
 ---
 
 ### COASTAL PROTECTION

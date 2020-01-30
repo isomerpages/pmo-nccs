@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opening remarks by Minister of State Tan Chuan-Jin at the Asian Network of Major Cities 21 (ANMC21) in Singapore
-subtitle: 29 Jun 2012
+subtitle: 30 Jun 2012
 permalink: /media/speeches/opening-remarks-by-minister-of-state-tan-chuan-jin-at-the-asian-network-of-major-cities-21-(anmc21)-in-singapore
 ---
 
@@ -33,7 +33,8 @@ I wish all of you a fruitful and enjoyable stay in Singapore and trust that you 
 
 Finally, I would also like to extend my appreciation to the Secretariat from Tokyo, for their guidance in helping Singapore organise this meeting, as well as to member cities for all your continued support.
 
-Thank you very much.
+Thank you very much.  
+<br><br><br>
 
 
 

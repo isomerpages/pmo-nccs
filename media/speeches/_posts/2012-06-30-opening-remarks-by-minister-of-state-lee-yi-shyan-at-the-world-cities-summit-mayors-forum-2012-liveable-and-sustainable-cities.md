@@ -21,16 +21,16 @@ Nevertheless, many of the challenges we face in building better cities are long 
 Speaking of cities’ sustainable development, I am also conscious of the fact that the 100 cities represented here are diverse in size, demographics, history and stages of development. Despite our differences, I am quite certain that our collective experiences would still offer unique and new insights into better approaches and solutions as we build our future cities and cities’ future.
 
 **Key Urban Challenges**  
-**Emergence of Mega Cities**  
+<u>Emergence of Mega Cities</u>    
 Rapid urbanisation will see the world’s population concentrating in cities. By 2025, the UN forecasts that there will be 37 megacities (defined as a metropolitan area with a total population of more than 10 million)accounting for 13.6 per cent of the world’s urban population. More than half the world’s population already live in cities and the number will swell to almost 5 billion by 2030. And 2030 is not very far away, especially if we consider the kind of environmental pressures which will be added to our cities by the day, and the long lead time needed for adequate infrastructure to be put in place.
 
-**Inadequate Basic Urban Services**  
+<u>Inadequate Basic Urban Services</u>  
 It is no wonder that worldwide; 828 million people live in slum conditions, lacking basic services such as drinking water and sanitation. This number is increasing by 6 million each year to hit a total of 889 million by 2020. In many cities, we are trying to catch up with adequate infrastructure. We are behind the curve.
 
-**High Urban Poverty Level**  
+<u>High Urban Poverty Level</u>  
 The pressure on growing cities is not limited to public hygiene and sanitation. Poverty and lack of employment are other key challenges. For instance, almost 25 per cent of Asia’s urban population is poor and the rate has been increasing as a result of rural-urban migration.
 
-**Environmental Degradation** 
+<u>Environmental Degradation</u>
 In short, growing cities face many challenges, including a whole host of issues related to environmental degradation due to our inability to manage water pollution, waste disposal and excessive carbon emission. All these, added together, present a set of grave challenges against our vision of better cities and better lives.
 
 **Key Outcomes**  
@@ -41,7 +41,8 @@ To help us delve deep into the various functional aspects of sustainable develop
 It is my plan to capture the insights and perspectives gleaned from this morning’s discussions in a post-meeting report, serving as a useful context to various discussions taking place at the World Cities Summit. In this way, we can establish some of the critical success factors leading to the theme of this forum “Liveable and Sustainable Cities”.
 
 **Conclusion**  
-Finally, let me thank you once again for your presence and participation. I look forward to interacting with you in the rest of the forum proceedings. Fellow mayors, ladies and gentlemen, it is my pleasure to declare the 3rd Mayors Forum open.
+Finally, let me thank you once again for your presence and participation. I look forward to interacting with you in the rest of the forum proceedings. Fellow mayors, ladies and gentlemen, it is my pleasure to declare the 3rd Mayors Forum open.  
+<br><br><br>
 
 
 

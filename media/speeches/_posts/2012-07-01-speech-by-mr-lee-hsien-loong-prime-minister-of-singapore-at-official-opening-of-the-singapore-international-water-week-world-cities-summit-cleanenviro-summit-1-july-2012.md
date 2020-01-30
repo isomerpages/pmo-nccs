@@ -44,7 +44,8 @@ I hope these experiences will prove useful to you, and we look very much forward
 
 So I wish you all fruitful discussions and an enjoyable stay, and I hope beyond your conference, you have a chance to visit our city, see what it looks like, see how things turn out in action, and particularly to visit our new Gardens by the Bay – it just opened, and it is not bad. So I wish you all the best in making our world a more sustainable and liveable one for all our humanity.
 
-Thank you very much.
+Thank you very much.  
+<br><br><br>
 
 
 
