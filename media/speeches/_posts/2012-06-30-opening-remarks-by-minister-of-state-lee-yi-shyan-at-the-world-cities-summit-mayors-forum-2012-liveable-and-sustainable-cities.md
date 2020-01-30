@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opening Remarks by Minister of State Lee Yi Shyan at the World Cities Summit Mayors Forum 2012 "Liveable and Sustainable Cities"
-subtitle: 30 Jun 2012
+subtitle: 1 Jul 2012
 permalink: /media/speeches/opening-remarks-by-minister-of-state-lee-yi-shyan-at-the-world-cities-summit-mayors-forum-2012-liveable-and-sustainable-cities
 ---
 
