@@ -27,6 +27,7 @@ The Distinguished Speaker Programme or DSP builds on the success of SIEW in prov
 As Executive Secretary of the Economic and Social Commission for Asia and the Pacific or ESCAP [pronounced S-CAP], Dr Heyzer is responsible for promoting regional cooperation to achieve inclusive and sustainable development in Asia Pacific. Under her able leadership, ESCAP has become a powerful platform for promoting stronger regional cooperation in areas such as green growth, food and energy security, and social development. Prior to her appointment at ESCAP, Dr Heyzer was the first Executive Director from the South to head the United Nations Development Fund for Women (UNIFEM). I am proud to add that Dr Heyzer is a fellow Singaporean. 
 
 It is now my pleasure to invite Dr Heyzer on stage to deliver her address. Dr Heyzer, please.
+<br><br><br>
 
 
 

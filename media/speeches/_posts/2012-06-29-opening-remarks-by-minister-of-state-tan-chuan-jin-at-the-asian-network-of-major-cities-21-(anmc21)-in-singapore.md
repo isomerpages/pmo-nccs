@@ -33,7 +33,8 @@ I wish all of you a fruitful and enjoyable stay in Singapore and trust that you 
 
 Finally, I would also like to extend my appreciation to the Secretariat from Tokyo, for their guidance in helping Singapore organise this meeting, as well as to member cities for all your continued support.
 
-Thank you very much.
+Thank you very much.  
+<br><br><br>
 
 
 
