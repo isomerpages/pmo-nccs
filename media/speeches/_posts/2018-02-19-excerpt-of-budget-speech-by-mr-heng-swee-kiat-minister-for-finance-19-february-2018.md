@@ -83,10 +83,10 @@ We have designated 2018 as the Year of Climate Action, to encourage all Singapor
 
 For full speech, please go to : [<a href="https://www.singaporebudget.gov.sg/data/budget_2018/download/FY2018_Budget_Statement.pdf" target="_blank">http://www.singaporebudget.gov.sg/data/budget_2018/download/FY2018_Budget_Statement.pdf</a>](https://www.singaporebudget.gov.sg/data/budget_2018/download/FY2018_Budget_Statement.pdf)
 
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
+
+<style type='text/css'>
 	li { list-style-type: lower-alpha; padding-left: 10px}
     li li { list-style-type: lower-roman; }
     .content li > ul { margin-top: 0px !important; }
     .content ul > li:last-child { margin-top: 0px !important; }
-</style>")
+</style>
