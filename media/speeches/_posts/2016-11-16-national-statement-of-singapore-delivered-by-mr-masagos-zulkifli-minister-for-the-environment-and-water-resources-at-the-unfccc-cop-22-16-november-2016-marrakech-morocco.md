@@ -35,7 +35,7 @@ At the same time, we must recognise that deforestation and forest fires are stil
 
 Regional efforts can play a useful role in catalysing climate action as well. In Southeast Asia, ASEAN Member States collaborate on climate change efforts through the ASEAN Working Group on Climate Change. This platform allows us to share best practices and lessons learnt with each other. ASEAN seeks to be open and inclusive, and we welcome other UNFCCC Parties to work with us to achieve our common aims.
 
-Voluntary initiatives by non-Party stakeholders are an important complement to national efforts. The Global Climate Action Agenda is important in this context. The Action Agenda allows various stakeholders to identify synergies and formulate holistic strategies to facilitate the fundamental changes we need. Sustained investments of time and effort are required to catalyse such initiatives. We are thus pleased that the Climate Champions<a href="#1"><sup>[1]</sup></a> are personally overseeing this Action Agenda.
+Voluntary initiatives by non-Party stakeholders are an important complement to national efforts. The Global Climate Action Agenda is important in this context. The Action Agenda allows various stakeholders to identify synergies and formulate holistic strategies to facilitate the fundamental changes we need. Sustained investments of time and effort are required to catalyse such initiatives. We are thus pleased that the Climate Champions<sup>[1]</sup> are personally overseeing this Action Agenda.
 
 Even as we collaborate globally, we need to work locally to achieve our respective pre-2020 pledges, so as to lay down a firm foundation for the effective implementation of our post-2020 pledges.
 
