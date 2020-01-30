@@ -50,7 +50,6 @@ Ladies and Gentlemen
 17.Allow me to conclude. As a small country almost wholly reliant on imported energy, Singapore has to adapt to the evolving global environment to shape our energy landscape. Diversification of fuels and sources, imbuing competition in our markets, empowering consumers to make informed decisions on energy consumption, and building capabilities for the future – these are key elements of our strategy.
 
 18.The Singapore Energy Summit touches on some of these strategies. You will hear from distinguished speakers who are leaders in their respective fields. A range of topics will be discussed, including options for a future energy mix, energy financing, climate change, and the energy-water-food nexus. These are important issues facing us today, and I trust you will have an engaging time discussing them. Thank you once again for joining us at the Singapore International Energy Week, and I wish you a productive week ahead.
-
-
+<br><br><br>
 
 Source: [<a href="http://www.mti.gov.sg/NewsRoom/Pages/Second-Minister-S-Iswaran-at-the-Singapore-Energy-Summit-2012.aspx" target="_blank">Ministry of Trade and Industry Singapore</a>](http://www.mti.gov.sg/NewsRoom/Pages/Second-Minister-S-Iswaran-at-the-Singapore-Energy-Summit-2012.aspx)

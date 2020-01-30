@@ -82,10 +82,10 @@ In conclusion, the challenges we face in water and the environment are increasin
 
 I was thus heartened to learn of the opening of the new Interdisciplinary Graduate School in NTU earlier this week to encourage PhD students to combine two or more disciplines in their research. For example, incorporating chemistry and material science engineering to increase efficiency for solar harvesting. This conference, with so many distinguished academicians from diverse disciplines present today, is another important step towards fostering a multi-disciplinary approach. Your knowledge and expertise applied collectively to some of the greatest challenges confronting us will yield important solutions to humankind.
 
-I wish everyone here a fruitful conference ahead.
+I wish everyone here a fruitful conference ahead.  
+<br><br><br>
 
 
 
-**Footnote**  
-
+<u>Footnote</u>  
 <sup>1</sup>From 165 litres in 2003 to 153 litres in 2011. Our long-term target, set out in the Sustainable Singapore Blueprint, is to lower consumption to 147 litres by year 2020
