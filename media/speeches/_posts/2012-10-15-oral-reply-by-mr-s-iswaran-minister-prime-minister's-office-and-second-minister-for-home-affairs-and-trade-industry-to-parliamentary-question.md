@@ -28,6 +28,6 @@ In view of these developments, Singapore needs to continue to monitor the progre
 We will, therefore, support research in relevant areas of nuclear science and engineering, and train a pool of scientists and experts through education programmes in local and overseas universities. We will also play an active role in global and regional cooperation on nuclear safety. Singapore currently participates in several platforms to facilitate cooperation on nuclear energy and safety. For example, we are a member of the International Atomic Energy Agency (IAEA) and are working closely with other member countries on implementing the IAEA Action Plan on Nuclear Safety. Through such platforms, we can foster greater collaboration to share best practices in nuclear safety, coordinate emergency planning and response, jointly develop human resources, and discuss the implications of regional and global developments. 
 
 Mr Speaker Sir, in summary, nuclear energy technologies presently available are not yet suitable for deployment in Singapore. However, Singapore must continue to monitor developments and will develop capabilities – to prepare for the growth of nuclear energy in the region; to contribute actively to global and regional nuclear safety efforts; and to keep abreast of progress in nuclear energy technologies so as to keep our options open for the future.  
-<br><br><br><br>
+<br><br><br>
 
 Source: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry </a>](https://www.mti.gov.sg/)
