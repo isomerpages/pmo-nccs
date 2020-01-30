@@ -97,5 +97,6 @@ We also launched the $300 million Energy National Innovation Challenge and the $
 [4] We are an island state nation of approximately 700km2.
 
 [5] 56 out of the 305 rooms at Westin Hotel are equipped with an energy meter, displayed through the rooms’ television screens. Westin makes a $1 contribution to UNICEF when the guests’ energy consumption remains within the green range, equivalent to about a 20 percent reduction as compared to an average guest.
+<br><br><br>
 
 Source: Ministry of the Environment and Water Resources

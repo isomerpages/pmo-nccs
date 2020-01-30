@@ -7,7 +7,7 @@ permalink: /media/speeches/speech-by-mr-s-iswaran-minister-in-the-prime-minister
 
 ### SPEECH BY MR S ISWARAN, MINISTER IN THE PRIME MINISTER'S OFFICE AND SECOND MINISTER FOR HOME AFFAIRS AND TRADE AND INDUSTRY, AT THE OPENING CEREMONY OF THE ASIA CLEAN ENERGY SUMMIT
 
-Mr Edwin Khew,
+Mr Edwin Khew,  
 Chairman, Sustainable Energy Association of Singapore,
 
 Members of the Industry
@@ -18,8 +18,7 @@ Ladies and gentlemen,
 
 I am pleased to join you today for the inaugural edition of the Asia Clean Energy Summit (ACES), a key partner event of the Singapore International Energy Week. With this new beginning, I wish ACES every success in its aim to bring together the industry’s most creative and influential executives, innovators and thought leaders in policy, business and research, to discuss and develop practical solutions that can make a difference to the clean energy future of Asia.
 
-**Asia is now the World's Largest Clean Energy Market**
-
+**Asia is now the World's Largest Clean Energy Market**  
 The International Energy Agency reported that global renewable energy capacity grew at its fastest pace ever in 2013, and now accounts for 22 per cent of the world's electricity generation. McKinsey has also noted that the clean energy sector has been leaving its "consolidation" phase in the last few years, and is now witnessing accelerating market growth with less government assistance. Solar and wind energy adoption is being spurred by falling costs and convergence on grid parity, which has been achieved in several parts of the world.
 
 Today, Asia is at the centre of global clean energy growth, driven by the region's robust energy demand which is expected to more than double by 2035, and the desire for sustainable growth. For example, China and Japan have become the two largest solar markets globally. India has recently announced plans to raise its solar target to 15 gigawatts (GW) by 2019. South-East Asia is also contributing to regional clean energy growth with new targets and support mechanisms across renewable energy sectors such as biomass, geothermal, solar and wind.
@@ -28,8 +27,7 @@ The increased penetration of intermittent renewables, coupled with the push for 
 
 With growing opportunities across renewable generation, energy efficiency, and energy management systems, there is no doubt that Asia has entered an exciting era in its quest for clean and sustainable energy.
 
-**Singapore is a catalyst for Asian Clean Energy Growth**
-
+**Singapore is a catalyst for Asian Clean Energy Growth**  
 Despite our geographic limitations, Singapore aims to play a meaningful role in Asia's clean energy journey. Since 2007, we have committed to developing our clean energy sector, and leveraged on our strengths as a leading financial centre to support the region in clean energy project development and financing.
 
 With an initial investment of $170m to jump-start activities, the inter-agency Energy Innovation Programme Office (EIPO) was set-up to coordinate research and development, pilot and test-bedding initiatives. Led by the Singapore Economic Development Board and Energy Market Authority, the Programme Office expanded its coverage from an initial focus on solar energy, to venture into new R&D areas such as smart grids, green buildings, and other renewable generation sources, with additional funding of $195m in 2011.
@@ -44,20 +42,19 @@ Many companies have found Singapore to be an excellent location to develop new s
 
 Today, Singapore has developed a vibrant clean energy ecosystem, comprising industry-oriented research institutes, companies, finance institutions and test-bed opportunities. With these key ingredients in place to take clean energy concepts from ideas to market deployment, Singapore is well regarded as a hub in Asia for clean energy.
 
-**The newly launched REIDS will create and demonstrate new solutions for Asia**
-
+**The newly launched REIDS will create and demonstrate new solutions for Asia**  
 Today, I am pleased to announce that Singapore is launching the region's first large-scale integrated microgrid test-bed on Semakau Landfill. The initiative, also known as the "Renewable Energy Integration Demonstrator – Singapore" (REIDS, pronounced “reeds”) will be spearheaded by the Energy Research Institute at the Nanyang Technological University (ERI@N), with support from the Economic Development Board and National Environment Agency.
 
 This test-bed will integrate a range of solar PV, wind, tidal, diesel, energy storage and power-to-gas technologies in a one megawatt hybrid AC-DC microgrid network. REIDS will demonstrate, on a large scale, the successful operation of a broad range of renewable energy production within a stable remote microgrid environment. While many renewable energy sources are inherently intermittent, the smart use of storage and control algorithms will ensure that this intermittency is not disruptive to energy users. I believe that the successful demonstration of these technologies will translate into the ability for Singapore, together with our partners, to provide electricity to island communities and remote villages, as well as strengthen grid stability in urban communities, all of which are acute needs in Asia.
 
 As a first step towards meeting these needs, I am pleased to note that REIDS has attracted many leading energy companies to test pre-competitive solutions, as well as to showcase solutions which are ready for broad market penetration. Along with an estimated $8 million of investment in the grid infrastructure, REIDS is expected to draw in an additional $20 million of investments in industry projects. NTU will share the details of REIDS and the participating companies shortly.
 
-**Conclusion**
-
+**Conclusion**  
 As the definitive clean energy event in Asia, ACES provides a good platform for decision makers to come together to debate issues and focus on being future-ready. Shaping the future of clean energy is a collective effort and we need to work together to realise the full promise of its widespread adoption.
 
 I hope all of you will benefit from the exciting learning and networking opportunities at ACES over these two days. On this note, I wish the organisers SEAS, ERI@N, and the Solar Energy Research Institute of Singapore (SERIS), and their many partners, every success as you continue to bring ACES to greater heights in the years to come.
 
 Thank you.
+<br><br><br><br>
 
 Source: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry</a>](https://www.mti.gov.sg/)

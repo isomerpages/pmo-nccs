@@ -7,16 +7,14 @@ permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-env
 
 ### SPEECH BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE REGIONAL OUTREACH EVENT
 
-Prof Jean-Pascal van Ypersele
-
+Prof Jean-Pascal van Ypersele  
 Vice-Chair of the Intergovernmental Panel on Climate Change
 
 Distinguished Guests
 
 Ladies and Gentlemen
 
-**Introduction**
-
+**Introduction**  
 A very good morning to all of you, and welcome to Singapore. I was going to say "a warm welcome" to Singapore, but realised that may be politically incorrect for this conference. But, nevertheless, I am glad to see so many of you here. To be honest, I was a bit surprised. I expected a small clique of people who are only focused on climate change.
 
 Climate change is a difficult issue. It is characterised by complex science, which is not easily understood by everyone, and is confounded by politics. This makes it all the more imperative to discover the facts, explain the science and to contemplate both the long-term and short-term implications in a rational way.
@@ -29,10 +27,9 @@ Nevertheless, the statistical and scientific evidence continues to escalate. Cli
 
 As a low-lying and densely populated island city-state, Singapore is acutely aware of its vulnerabilities to climate change. We have witnessed for ourselves the increases in both the frequency and intensity of rainfall, as well as higher mean temperatures and longer periods of dry spells.
 
-Climate change will require a collective and sustained effort by the global community. I hope that we can make good progress at the international climate change negotiations in Peru this year and Paris next year. But, and I speak quite frankly as a person who has been involved in negotiations for several years, we cannot take a positive outcome for granted. Our region remains highly vulnerable and will remain highly vulnerable for the foreseeable future. Therefore, there is an urgent need for us to update our understanding of our climate systems and how this will impact on our future livelihoods and security. Frankly, from the point of view of Singapore, we will not be able to alter the trajectory of the world by our actions; we are price-takers not makers. So, a lot of our focus has to be on adapting to climate change and making sure that we are resilient no matter what happens.
+Climate change will require a collective and sustained effort by the global community. I hope that we can make good progress at the international climate change negotiations in Peru this year and Paris next year. But, and I speak quite frankly as a person who has been involved in negotiations for several years,we cannot take a positive outcome for granted. Our region remains highly vulnerable and will remain highly vulnerable for the foreseeable future. Therefore, there is an urgent need for us to update our understanding of our climate systems and how this will impact on our future livelihoods and security. Frankly, from the point of view of Singapore, we will not be able to alter the trajectory of the world by our actions; we are price-takers not makers. So, a lot of our focus has to be on adapting to climate change and making sure that we are resilient no matter what happens.
 
-**Uncertainties in climate change will always remain**
-
+**Uncertainties in climate change will always remain**  
 To decide what is adequate and effective is not straightforward and not a trivial matter. I wanted to make three points today, all focused on uncertainties: the first being the uncertainty inherent in the science; the second, the uncertainties with the economics of climate change; and the third, the uncertainties surrounding the political process.
 
 Let me move on to the first point, on scientific uncertainties. Climate science has advanced rapidly in the last few decades and many of you in this room have played a key role. With better technology, measurements, recording, and analytical tools, we now have a better idea of what is going on and the changes that are occurring across the world today. We also have a better appreciation and understanding of the climate system dynamics, and we certainly have more advanced and sophisticated climate projection models. These have enabled scientists, like many of you in this room, to gain new insights and expand the field of knowledge.
@@ -51,24 +48,24 @@ The point I am making is that fairness, which is a deep human obsession, is also
 
 Many stakeholders, especially government agencies and business owners, would be very uncomfortable and hesitant to operate in the face of these three uncertainties that I have mentioned - the science, the economics and the politics. Because, from the business point of view, what you want is certainty and a level playing field. The risk of being overtaken by scientific discoveries and new technologies; the risk that economic assumptions and policy incentives will change and the risk that the politics will also change very rapidly - all these uncertainties weigh on the minds of business owners and investors. Nevertheless, I am glad that there is a growing body of investors who do understand that their own long-term interests lie in pursuing sustainable development and responsible business practices. I want to thank those business owners who have been positive and supportive of this cause.
 
-**Singapore is taking action to address climate change**
-
+**Singapore is taking action to address climate change**  
 Let me now quickly turn to Singapore. We acknowledge that climate change involves uncertainties. But, we are even more cognisant, because we are a low-lying island city-state, that inaction and paralysis are not viable options. Since our independence in 1965, long before environmental sustainability and being green became fashionable, long before climate change became a global issue, the Singapore Government had very deliberately and persistently ensured that our aggressive push for economic development would be accompanied by environmental protection and making sure that we will be clean, green, safe and sustainable. For us, the environment and economy are not trade-offs between each other, but a positive virtuous cycle. It always amazes me that this posture was formulated five decades ago when we were much poorer and under greater stress and challenged on the developmental front, than we are today.
 
 We need to continue to build on our pioneers' legacy and we need to do even more, because climate change should add a greater sense of urgency than what we have today. Our foreign friends - for those of you who flew in, when you look at the island of Singapore, two things would have struck you - first, the density and height of our buildings in our city. About 90 per cent of us live in high-rise buildings. But the other important thing that you may have noticed is that because we are dense and high, we have also been able to ensure that almost half of our land is covered in greenery. This is because we have invested heavily in long-term sustainable urban planning. We have intensified the use of our land in order to conserve our greenery. We have invested heavily in public transport infrastructure and capped our vehicular growth. We pay the highest prices for cars in the world, at great political cost. We switched from fuel oil to natural gas - which is still the cleanest form of fossil fuel - for the generation of over 90 per cent of our electricity. We price energy and water at full cost with no subsidies. Last year, we introduced the Energy Conservation Act (ECA) to motivate large energy users to manage, measure and report their energy consumption in order to improve their energy efficiency. We provide grants to incentivise the adoption of more energy efficient technologies. Looking ahead, we plan to raise the adoption of solar power in our system to 350 Mega-Watt-peak (MWp) by 2020. This may not seem like a very large number at this point in time, but given the amount of cloud cover, given the limited extent of the land that we have on which solar panels can be installed, this is still a challenge.
 
 These are some of the key initiatives that I have outlined. But, I also want to say that because we are realist, we recognise that even with the best of intentions, it is likely that the world will not do enough to stop the progression of climate change. Therefore, in Singapore, we also have to look at adaptation. One key example that I would like to raise is reclamation. A significant proportion of our land - around 20 per cent of our land has been reclaimed. Our reclaimed land used to be set at a platform level of 1.25m above the highest historical tide level. In 2011, we changed our policy to add another metre to that. So, now, all reclaimed land will stand at 2.25m above the highest recorded tide level. Bearing in mind the fact that every cubic metre of sand has to be imported, making a decision like this has tremendous economic cost. But we do so, because we recognise that we have to pay a premium to deal with future uncertainties. When the sea levels rise by one metre, then at least, getting ourselves an additional metre of buffer will give us some level of protection. If it does not, then I will say that Singapore will have extra sand banks in the future, that is a long-term insurance policy. 
 
-I hope I have given you some idea of the way that we deal with climate change, from the perspective of a small vulnerable city state. We applaud the work of the IPCC. What they are doing is absolutely critical; to discover the science, to explain the science and to add a sense of urgency both to the public and policymakers. But we recognise that it is likely that the world will not do enough. Hence, although we will do our part as a responsible member of the global community, we will also have to do our part to look after our citizens; to prepare for a warmer, more uncertain world, in which resilience will be key and essential.
+I hope I have given you some idea of the way that we deal with climate change, from the perspective of a small vulnerable city state. We applaud the work of the IPCC. What they are doing is absolutely critical;to discover the science, to explain the science and to add a sense of urgency both to the public and policymakers. But we recognise that it is likely that the world will not do enough. Hence, although we will do our part as a responsible member of the global community, we will also have to do our part to look after our citizens; to prepare for a warmer, more uncertain world, in which resilience will be key and essential.
 
 I hope I have given you enough food for thought and also an idea of how we look at this issue. Thank you for being in Singapore. Thank you for your work. You may rest assured of our fullest support and cooperation in the decades to come. Thank you very much.
 
-**********
+*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 [1] Hurricane Katrina in August 2005 took more than 1,800 lives in Florida, Louisiana, Mississippi and Alabama, and caused an estimated damage of approximately USD$81 billion; In 2012, Superstorm Sandy resulted in at least 286 people dead across 7 countries, and the total estimated damage (as of March 2014) was about USD$68 billion.
 
 [2] According to the National Oceanic and Atmospheric, the combined average temperature over global land and ocean surfaces for May 2014 was the record highest for this month, at 0.74°C (1.33°F) above the 20th century average of 14.8°C (58.6°F).
 
 [3] Figures taken from IPCC AR4 Chapter 5 Table 5.2 Estimated global macro-economic costs in 2030 and 2050. Costs are relative to the baseline for least-cost trajectories towards different long-term stabilisation levels.
+<br><br><br>
 
 Source: [<a href="https://www.mewr.gov.sg/" target="_blank">Ministry of Environment and Water Resources</a>](https://www.mewr.gov.sg/)

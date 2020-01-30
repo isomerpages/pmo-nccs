@@ -72,10 +72,10 @@ Ladies and Gentlemen,
 **Conclusion**
 
 22.In conclusion, I commend the organisers for this Green Growth and Business Forum and for bringing together UK and Singapore companies together to explore partnerships and green growth opportunities in Asia. I thank the right honourable Minister Greg Clark for speaking at this forum and visiting Singapore. I wish everyone a fruitful time ahead.
+<br><br><br>
 
---------------------------------------------------------------------------------
-
-
+-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+<br><br>
 [1] Singapore’s 1st to 3rd largest trading partners in the EU is Germany, France and Netherlands in descending order.
 
 [2] Source: Bloomberg New Energy Finance.
@@ -85,7 +85,7 @@ Ladies and Gentlemen,
 [4] The UK Carbon Price Floor is a tax on fossil fuels used to generate electricity which came into effect on 1st April 2013. It changes the existing Climate Change Levy by introducing a carbon price support to fossil fuel generated electricity, which provides more price certainty to the volatile and low EU Emissions Trade Scheme (ETS) prices.
 
 [5] Source: Bloomberg New Energy Finance
-
+<br><br><br>
 
 
 Source: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry Singapore</a>](https://www.mti.gov.sg/)

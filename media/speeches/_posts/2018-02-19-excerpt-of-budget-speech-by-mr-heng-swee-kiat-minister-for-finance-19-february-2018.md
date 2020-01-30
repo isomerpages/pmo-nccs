@@ -24,7 +24,7 @@ Over the years, we have made various efforts to manage our greenhouse gas emissi
 
     b. We are investing in public transport to make Singapore car-lite, and green-certified buildings have become a hallmark of our urban landscape.
 
-    c. Our early measures to be a green city have shown results. Singapore produces less carbon emissions per dollar of GDP than most countries. We intend to further reduce our emissions intensity, to make a bigger effort to combat climate change.
+    c. Our early measures to be a green city have shown results. Singapore produces less carbon emissions per dollar of GDP than most countries. We intend to further reduce our emissions intensity,to make a bigger effort to combat climate change.
 
 To encourage companies to further reduce emissions, I announced last year that we intend to implement a carbon tax from 2019.
 
@@ -42,7 +42,7 @@ The carbon tax will apply uniformly to all sectors, without exemption. This is t
 
     a. This means our initial carbon tax rate of $5 cannot be directly compared with that in other countries. Jurisdictions with higher headline carbon prices often also have significant exemptions for particular sectors, which lowers their effective carbon prices.
 
-The carbon tax will be levied on major emitters, which account for about 80 per cent of Singapore’s emissions. The remaining 20 per cent is contributed by many other sources of varying sizes. We will study how to account for these emissions, and take action where necessary.
+The carbon tax will be levied on major emitters, which account for about 80% of Singapore’s emissions. The remaining 20% is contributed by many other sources of varying sizes. We will study how to account for these emissions, and take action where necessary.
 
 For petrol, diesel and compressed natural gas (CNG), we have excise duties, which already encourage reduction of the use of these fuels, and therefore reduce greenhouse gas emissions.
 
@@ -74,7 +74,7 @@ To give companies and households a strong push in the first five years when we i
 
         iii. The Ministry of Trade and Industry (MTI) and the Ministry of the Environment and Water Resources (MEWR) will share more details at a later date.
 
-For our households, the impact of the carbon tax will be small, at about 1 per cent of total electricity and gas expenses on average.
+For our households, the impact of the carbon tax will be small, at about 1% of total electricity and gas expenses on average.
 
     a. Still, to help households adjust, I will provide additional U-Save for three years. Eligible HDB households will each receive $20 more per year, from 2019 to 2021.
 

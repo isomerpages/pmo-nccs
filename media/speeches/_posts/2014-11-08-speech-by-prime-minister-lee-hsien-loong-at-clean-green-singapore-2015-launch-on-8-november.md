@@ -5,8 +5,7 @@ subtitle: 8 Nov 2014
 permalink: /media/speeches/speech-by-prime-minister-lee-hsien-loong-at-clean-green-singapore-2015-launch-on-8-november
 ---
 
-### SPEECH BY PRIME MINISTER LEE HSIEN LOONG AT CLEAN & GREEN SINGAPORE 2015 LAUNCH ON 8 NOVEMBER
-
+### SPEECH BY PRIME MINISTER LEE HSIEN LOONG AT CLEAN & GREEN SINGAPORE 2015 LAUNCH ON 8 NOVEMBER  
 Mayor Low Yen Ling, friends, ladies and gentlemen. 
 
 I am very happy to be here this morning for the Clean and Green Singapore 2015 Launch. Sunshine, a few drops of rain and beautiful green environment. 2015 going to be Singapore's 50th birthday and I think it is good time for us celebrate our clean and green efforts which we have been doing all these many years and to chart our vision for the future. 
@@ -38,5 +37,7 @@ We have an idea, we have a dream. We want to make this vision come to life, but 
 I am very encouraged that many Singaporeans are already organising themselves and to do their part. For example those who are passionate about cycling and about educating both drivers and cyclists to be safe, or those who are interested in nature, flora and fauna, the plants and the animals, and are discovering new green trails, or groups that are trying to get Singaporeans not to waste food or others who go on walks to pick up rubbish on beaches or in the nature parks. 
 
 We have a blueprint and I think we have enthusiasts. We need to work together and make sure that it translates into real outcomes. I hope you will all step forward – give us your ideas, take part in the activities, and do your bit for the environment. Especially the young people; you have got the talent, energy, drive and passion to change the world. This is your future, this is our home. No one has a bigger stake in Singapore than the young people here. So look around and ask yourself: "What can I do to make our environment better?" Imagine it, decide it, make it happen – we will partner you to do that. Together, we will make Singapore better, cleaner and greener. A home for ourselves and our children. Thank you very much. 
+<br><br><br><br>
+
 
 Source: [<a href="https://www.pmo.gov.sg/" target="_blank">Prime Minister's Office</a>](https://www.pmo.gov.sg/)
