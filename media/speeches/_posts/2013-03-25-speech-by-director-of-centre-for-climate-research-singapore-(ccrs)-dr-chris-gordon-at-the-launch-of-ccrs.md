@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speech by Director of Centre for Climate Research Singapore (CCRS), Dr Chris Gordon, at the launch of CCRS
-subtitle: 25 Mar 2013
+subtitle: 26 Mar 2013
 permalink: /media/speeches/speech-by-director-of-centre-for-climate-research-singapore-(ccrs)-dr-chris-gordon-at-the-launch-of-ccrs
 ---
 

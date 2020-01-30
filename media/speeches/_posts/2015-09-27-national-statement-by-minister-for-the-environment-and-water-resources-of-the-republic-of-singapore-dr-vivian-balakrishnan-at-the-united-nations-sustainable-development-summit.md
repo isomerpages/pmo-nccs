@@ -1,7 +1,7 @@
 ---
 layout: post
 title: National Statement by Minister for the Environment and Water Resources of the Republic of Singapore, Dr Vivian Balakrishnan, at the United Nations Sustainable Development Summit
-subtitle: 27 Sep 2015
+subtitle: 28 Sep 2015
 permalink: /media/speeches/national-statement-by-minister-for-the-environment-and-water-resources-of-the-republic-of-singapore-dr-vivian-balakrishnan-at-the-united-nations-sustainable-development-summit
 ---
 

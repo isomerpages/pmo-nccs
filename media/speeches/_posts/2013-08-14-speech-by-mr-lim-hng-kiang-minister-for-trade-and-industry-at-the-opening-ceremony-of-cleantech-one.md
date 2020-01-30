@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speech by Mr Lim Hng Kiang Minister for Trade and Industry at the Opening Ceremony of CleanTech One
-subtitle: 14 Aug 2013
+subtitle: 15 Aug 2013
 permalink: /media/speeches/speech-by-mr-lim-hng-kiang-minister-for-trade-and-industry-at-the-opening-ceremony-of-cleantech-one
 ---
 
