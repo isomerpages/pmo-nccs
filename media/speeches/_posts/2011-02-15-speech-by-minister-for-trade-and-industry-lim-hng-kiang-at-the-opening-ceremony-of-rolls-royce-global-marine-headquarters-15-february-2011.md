@@ -37,7 +37,6 @@ In this regard, we welcome maritime industry leaders such as Rolls-Royce to capi
 
 **Conclusion**  
 Today’s opening marks yet another significant milestone in the Rolls-Royce-Singapore partnership.  I congratulate the management and staff of Rolls-Royce on the opening of your Global Marine Headquarters.  We look forward to many more years of successful partnership between Rolls-Royce and Singapore. Thank you.
+<br><br><br>
 
-
-
-Source: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry</a>](https://www.mti.gov.sg/)
+*Source*: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry</a>](https://www.mti.gov.sg/)

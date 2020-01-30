@@ -55,7 +55,6 @@ The objective of the workshop is to help enhance the capability of the ASEAN cou
 I would also like to express my appreciation to Mr John Hirst for coming to Singapore for the MOU signing despite his busy schedule. We look forward to a robust partnership between our two organisations, building on our extensive and longstanding scientific and research ties with the British Government. I am confident our collaboration with the UK Met Office will be a fruitful one.
 
 Thank you.
+<br><br><br>
 
-
-
-Source: [<a href="https://www.nea.gov.sg/" target="_blank">National Environment Agency</a>](https://www.nea.gov.sg/)
+*Source*: [<a href="https://www.nea.gov.sg/" target="_blank">National Environment Agency</a>](https://www.nea.gov.sg/)

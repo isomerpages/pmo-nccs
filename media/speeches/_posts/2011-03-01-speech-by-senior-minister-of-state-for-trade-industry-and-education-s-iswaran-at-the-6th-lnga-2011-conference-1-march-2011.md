@@ -41,7 +41,6 @@ The LNG terminal could also offer low-cost and low-carbon integrated services fo
 Like many other countries, Singapore continues to keep a keen eye on global energy market trends. Governments and businesses alike are mindful of the need to tack our sails according to the prevailing political and economic winds that buffet energy prices. Policy makers and business leaders have to synthesise a gamut of information on the market and global developments before charting a course. This conference is a good platform for public and private sector participants to network, keep abreast of recent trends and glean key insights on the evolving LNG market. I wish you all a fruitful conference and a pleasant stay in Singapore.
  
 Thank you.
+<br><br><br>
 
-
-
-Source: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry</a>](https://www.mti.gov.sg/)
+*Source*: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry</a>](https://www.mti.gov.sg/)
