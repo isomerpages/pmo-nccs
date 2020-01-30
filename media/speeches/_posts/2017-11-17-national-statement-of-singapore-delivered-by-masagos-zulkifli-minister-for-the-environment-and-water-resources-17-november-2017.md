@@ -15,13 +15,13 @@ Mdm Executive Secretary, we would also like to thank you and the Secretariat tea
 
 Mr President,
 
-The world has seen multiple records. 2016 was the warmest year on record, and the third consecutive year that record temperatures have been set. Sixteen of the 17 warmest years on record have occurred since 2001[1]. This year has brought little relief with the severe drought in Africa, torrential floods in South Asia, hurricanes and cyclones that pounded the Caribbean, Northeast Asia, the Pacific and even North America. Our hearts go out to the families affected and we hope that these areas will return to normalcy soon. The global community needs to work together, urgently and resolutely to stem the warming trend. 
+The world has seen multiple records. 2016 was the warmest year on record, and the third consecutive year that record temperatures have been set. Sixteen of the 17 warmest years on record have occurred since 2001<a href="#1">[1]</a>. This year has brought little relief with the severe drought in Africa, torrential floods in South Asia, hurricanes and cyclones that pounded the Caribbean, Northeast Asia, the Pacific and even North America. Our hearts go out to the families affected and we hope that these areas will return to normalcy soon. The global community needs to work together, urgently and resolutely to stem the warming trend. 
 
 The Paris Agreement sets a clear goal to bring the world towards climate safety. We have to stay within the 2°C/1.5°C global warming limits and achieve net zero emissions in the second half of this century. We are heartened by the resolute global support for the Paris Agreement, despite various challenges. Close to 170 Parties have ratified and the numbers are still rising – showing the continued strong global support for the Paris Agreement. 
 
 **Advancing the Paris Agreement Work Programme**
 
-Last year, we set ourselves a deadline to complete the Paris Agreement Work Programme by the resumed session of the CMA-1[2] in Katowice in December 2018. With just over a year remaining, we must stay focused to complete this complex task.  
+Last year, we set ourselves a deadline to complete the Paris Agreement Work Programme by the resumed session of the CMA-1<a href="#2">[2]</a> in Katowice in December 2018. With just over a year remaining, we must stay focused to complete this complex task.  
 
 First, it is crucial that Parties start implementing their Nationally Determined Contributions (NDCs) as soon as possible, and to progressively improve their transparency and ambition. We have to move expeditiously to finalise the modalities, procedures and guidelines (MPGs) necessary to guide the implementation of the NDCs. Provisions can be made to revisit and improve the MPGs over time.  
 
@@ -33,7 +33,7 @@ The 2018 Facilitative Dialogue is a key weigh-station on the road to implementin
 
 **Singapore’s Efforts**
 
-As a small island city-state vulnerable to the impacts of climate change, Singapore is committed to the effective implementation of the Paris Agreement. Since our early years of nation building, Singapore has placed considerable emphasis on sustainable development. Today, we are ranked the most sustainable city in Asia, and second in the world, according to the Sustainable Cities Index 2016[3]. Even so, we want to do more to instil awareness of climate change amongst our citizens and inspire them to act in partnership. I am happy to announce that Singapore will designate 2018 as the Year of Climate Action.
+As a small island city-state vulnerable to the impacts of climate change, Singapore is committed to the effective implementation of the Paris Agreement. Since our early years of nation building, Singapore has placed considerable emphasis on sustainable development. Today, we are ranked the most sustainable city in Asia, and second in the world, according to the Sustainable Cities Index 2016<a href="#3">[3]</a>. Even so, we want to do more to instil awareness of climate change amongst our citizens and inspire them to act in partnership. I am happy to announce that Singapore will designate 2018 as the Year of Climate Action.
 
 This will complement the steps Singapore is taking to build resilience against climate change.  The rate of warming over Singapore from 1951 to 2012 was 0.26°C per decade, more than double the global average over the same period (0.12°C). Our daily mean temperature is projected to rise by up to 4.6°C towards the end of the century, and our mean sea level is estimated to rise by up to about 1.0 metre by 2100. We have developed a resilience framework to guide our adaptation efforts - protecting our buildings, coasts, infrastructure and public health, as well as diversifying our water supply and enhancing food security.
 
@@ -45,7 +45,7 @@ Given our unique challenges as a small island nation, innovation will be key for
 
 The scale of solar energy deployment in Singapore is limited by space constraints and issues with intermittency. But we are not easily deterred. Singapore is pushing ahead to increase our solar PV deployment to 350 MWp by 2020, and further to 1GWp beyond 2020. Last year, we launched one of the world’s largest floating solar panel test-bed on one of our reservoirs. Singapore is now conducting engineering and environmental studies into the deployment of floating solar systems to be extended to other reservoirs. Our reservoirs will serve not only as a key source of our drinking water, but also contribute to clean energy as well.
 
-We are making efforts in other sectors as well. Global forecasts show that electric cars could reach cost parity with internal combustion engine vehicles in the next decade[4]. In a month’s time, Singapore’s first electric-vehicle car sharing programme will be rolled out. We will progressively deploy 1,000 electric cars and 2,000 charging points island-wide by 2020. This July, the Building and Construction Authority (BCA) launched a new research collaboration to transform BCA’s Zero Energy Building into a positive energy building which will serve as a unique living laboratory for smart building technologies, or an “Office of the Future”. These efforts can serve as references for many other cities, particularly those in the tropics, to adopt similar technologies.
+We are making efforts in other sectors as well. Global forecasts show that electric cars could reach cost parity with internal combustion engine vehicles in the next decade<a href="#4">[4]</a>. In a month’s time, Singapore’s first electric-vehicle car sharing programme will be rolled out. We will progressively deploy 1,000 electric cars and 2,000 charging points island-wide by 2020. This July, the Building and Construction Authority (BCA) launched a new research collaboration to transform BCA’s Zero Energy Building into a positive energy building which will serve as a unique living laboratory for smart building technologies, or an “Office of the Future”. These efforts can serve as references for many other cities, particularly those in the tropics, to adopt similar technologies.
 
 **International Collaboration**
 
@@ -58,13 +58,14 @@ Singapore is also pleased to host the World Meteorological Organisation’s (WMO
 Mr President, I conclude with Singapore’s commitment and support for climate action, a successful conclusion to this week’s very important work and to the work programme leading to Katowice next year. To quote an African proverb, “If you want to go fast, go alone. But if you want to go far, go together.” We can be true to the Talanoa spirit, have frank discussion, and work towards the sustained and effective implementation of the Paris Agreement – that we may go both fast and far together.
 
 Thank you Mr President.
+<br><br>
 
-<sup>[1]</sup> NASA, “NASA, NOAA Data Show 2016 Warmest Year on Record Globally” [Press release], 18 Jan 2017, accessed 9 October 2017.
+<sup id="1">[1]</sup> NASA, “NASA, NOAA Data Show 2016 Warmest Year on Record Globally” [Press release], 18 Jan 2017, accessed 9 October 2017.
 
-<sup>[2]</sup> The resumed first session of the Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA-1).
+<sup id="2">[2]</sup> The resumed first session of the Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA-1).
 
-<sup>[3]</sup> Joe Myers, “These are the world’s most sustainable cities”, World Economic Forum, 20 Sept 2016, accessed 9 October 2017.
+<sup id="3">[3]</sup> Joe Myers, “These are the world’s most sustainable cities”, World Economic Forum, 20 Sept 2016, accessed 9 October 2017.
 
-<sup>[4]</sup> Jess Shankleman, “Pretty soon electric cars will cost less than gasoline”, Bloomberg, 26 May 2017, accessed 9 October 2017.
+<sup id="4">[4]</sup> Jess Shankleman, “Pretty soon electric cars will cost less than gasoline”, Bloomberg, 26 May 2017, accessed 9 October 2017.
 
 Source: [<a href="https://www.mewr.gov.sg/news/national-statement-of-singapore-delivered-by-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-unfccc-cop-23-cmp-13-cma12-high-level-segment--november-2017--bonn--germany" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/national-statement-of-singapore-delivered-by-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-unfccc-cop-23-cmp-13-cma12-high-level-segment--november-2017--bonn--germany)

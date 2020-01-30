@@ -52,5 +52,6 @@ Today, Singapore has an economically vibrant city that is clean, green and livea
 I thank ExxonMobil for partnering us in our sustainable development journey over the years, and for inviting me to officiate at the opening of this plant.
 
 Thank you.
+<br><br>
 
 Source: [<a href="https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-exxonmobil-jurong-cogeneration-plant-opening-ceremony-on-12-oct-2017" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-exxonmobil-jurong-cogeneration-plant-opening-ceremony-on-12-oct-2017)

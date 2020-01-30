@@ -50,6 +50,7 @@ These laboratories will also deepen partnerships between researchers and industr
 **Conclusion**
 
 It is encouraging therefore to know that our research institutes and industry partners are working closely to design and develop new and innovative green living solutions to advance Singapore’s green movement. I wish all of you every success. With your support and innovation, an endearing, liveable, smart and green Singapore will be within reach. Congratulations to all the partners on the successful launch of these laboratories.
+<br><br><br><br>
 
 Source: [<a href="https://www.mnd.gov.sg/" target="_blank">Ministry of National Development</a>](https://www.mnd.gov.sg/)
 
