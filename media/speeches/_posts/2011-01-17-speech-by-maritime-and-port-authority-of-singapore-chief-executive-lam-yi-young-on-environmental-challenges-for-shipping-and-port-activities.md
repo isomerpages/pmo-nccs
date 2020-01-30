@@ -111,7 +111,7 @@ The CSNOx System is an emission abatement system that can remove sulphur dioxide
 
 MPA is supporting the test bedding of the CSNOx System, which is part of the process for the CSNOx System to be type approved by the IMO. The work is still ongoing and the first set of results, as verified by ABS, has been encouraging. The test, conducted onboard a 100,000-tonne oil tanker, showed that the CSNOx System was able to remove 99 per cent of sulphur dioxide, 77 per cent of carbon dioxide and 66 per cent of nitrogen oxides from the ship's exhaust.
 
-MPA is also supporting the Institute of Environmental Science and Engineering in conducting R&D into biocracking of heavy fuel oil using biological catalysts, such as bacteria, fungi and enzymes, to break down the heavy carbon chains into simpler chains to form distillates. The conventional cracking process utilises high temperature, high pressure, and sometimes expensive catalysts, and in the process emit large amounts of greenhouse gases.
+MPA is also supporting the Institute of Environmental Science and Engineering in conducting R&D into biocracking of heavy fuel oil using biological catalysts,such as bacteria, fungi and enzymes, to break down the heavy carbon chains into simpler chains to form distillates. The conventional cracking process utilises high temperature, high pressure, and sometimes expensive catalysts, and in the process emit large amounts of greenhouse gases.
 
 Researchers are currently developing and optimising the methodology for the culture of micro organisms and the biocracking process.
 
@@ -134,7 +134,6 @@ In so doing, it is important that we strike a balance between protecting the mar
 MPA, as Singapore's maritime administrator and port authority, is committed to, and will continue to work in partnership with our local, regional and global partners towards addressing the environmental concerns facing shipping and port activities.
 
 On that note, thank you very much for your attention and I wish you an enjoyable and fruitful afternoon.
-
-
+<br><br><br>
 
 *Source*: [<a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/53c43621-0c27-4b98-b598-c7dedea7d943" target="_blank">The Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/53c43621-0c27-4b98-b598-c7dedea7d943)

@@ -26,7 +26,6 @@ After retiring from Government, Tan Sri Moggie was appointed Chairman of Tenaga 
 As you can tell, Tan Sri’s long and illustrious career in energy straddled both the policy and business worlds. Given his vast experience, Tan Sri Moggie is uniquely qualified to speak to us on how the interrelated elements of energy security, cost competitiveness, environmental sustainability and safety, drive the dynamics of the electricity supply industry. In his lecture, Tan Sri will also touch on how each ASEAN country has chosen to address these dynamics based on their own circumstances. Tan Sri will also share with us his views and insights on the opportunities and benefits of the proposed ASEAN Power Grid.
 
 It is my pleasure to invite Tan Sri Moggie to address us. Tan Sri, please.
+<br><br>
 
-
-
-Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609DTX680ETB9aa" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609DTX680ETB9aa)
+*Source*: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609DTX680ETB9aa" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609DTX680ETB9aa)

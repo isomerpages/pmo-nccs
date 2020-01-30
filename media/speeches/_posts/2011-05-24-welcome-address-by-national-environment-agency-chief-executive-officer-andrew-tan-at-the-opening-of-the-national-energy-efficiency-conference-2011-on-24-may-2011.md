@@ -36,7 +36,6 @@ I would also like to take the opportunity to welcome Mr Pasquale Pistorio, our d
 Finally, on behalf of the three organising agencies – NEA, EDB and EMA – I would like wish all of you a fruitful two days.
 
 Thank you.
+<br><br><br>
 
-
-
-Source: [<a href="https://www.nea.gov.sg/" target="_blank">National Environment Agency</a>](https://www.nea.gov.sg/)
+*Source*: [<a href="https://www.nea.gov.sg/" target="_blank">National Environment Agency</a>](https://www.nea.gov.sg/)
