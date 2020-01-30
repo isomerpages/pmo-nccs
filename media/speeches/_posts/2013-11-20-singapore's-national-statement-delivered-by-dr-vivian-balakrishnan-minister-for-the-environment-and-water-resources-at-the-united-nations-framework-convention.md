@@ -51,7 +51,7 @@ Thank you Madam Vice-Mr President,
 
 12\. All countries must discharge our responsibilities in the global effort against climate change. As a sign of our strong commitment to forging the 2015 agreement, Warsaw should send a strong signal that all Parties would begin domestic preparations and stakeholder consultations for the submission of their mitigation commitments. Likewise, we must provide the enabling environment for Parties who have not yet done so to come forward and make pledges for the pre-2020 period.
 
-**Singapore is Committed**
+<u>Singapore is Committed</u>  
 
 13\. Singapore is fully committed to play our part, notwithstanding our constraints as a small city-state with limited potential for alternative or renewable energy. Prior to Copenhagen, we had pledged to reduce emissions by 16 per cent below 2020 business-as-usual (BAU) levels if there is a legally binding global agreement in which all countries implement their commitments in good faith. Ahead of this, we embarked on policies and measures to reduce our emissions by 7 per cent-11 per cent below 2020 BAU levels. This is a challenging target, given our extremely limited access to alternative energy sources. Nonetheless, we are currently on track towards meeting this target.
 
