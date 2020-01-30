@@ -5,20 +5,17 @@ subtitle: 13 Nov 2014
 permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2014-prize-award-ceremony
 ---
 
-### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE NATIONAL CLIMATE CHANGE COMPETITION 2014 PRIZE AWARD CEREMONY AND LAUNCH OF NEW CLIMATE CHANGE EXHIBITION AT THE SINGAPORE SCIENCE CENTRE
-
+### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE NATIONAL CLIMATE CHANGE COMPETITION 2014 PRIZE AWARD CEREMONY AND LAUNCH OF NEW CLIMATE CHANGE EXHIBITION AT THE SINGAPORE SCIENCE CENTRE  
 Distinguished guests
 
 Teachers and students
 
 Ladies and gentlemen
 
-**Introduction**
-
+**Introduction**  
 Congratulations to the winners of the National Climate Change Competition, and thank you to all the participants. All of you have played a part in spreading the word on climate change.
 
-**Everyone has a part to play**
-
+**Everyone has a part to play**  
 It is especially heartening to see so many of our young people taking part in this year’s National Climate Change Competition, with the theme #change4future. Because we all need to take action now to make a positive change in the future.
 
 Tackling climate change requires all of us to make changes, sometimes only in small ways. For instance, there are now stickers on energy-intensive home appliances like air-conditioners, refrigerators, clothes dryers and TVs to show how energy efficient they are. By choosing to buy a 4-tick air con instead of a 1-tick air con, a household can save hundreds of dollars a year in electricity bills. Buying the most efficient air-con is, however, just the first step. If a person uses a four-tick air-con for long hours every day at very low temperatures, he will use more energy than another person who uses a less efficient air-con only occasionally. And if he switches to using a fan instead of an air-con, he can save even more energy and money.
@@ -29,13 +26,12 @@ This is why the National Climate Change Secretariat (NCCS) started this short vi
 
 The new climate change exhibition that will be opened today is another initiative to tell Singaporeans more about the importance of this issue. Through interactive exhibits, visitors can learn about the causes of climate change, its impact on Singapore and the region, and how everyone can play a part in reducing our carbon footprint.
 
-We are already seeing the impact of climate change, such as more extreme weather events, on a global scale. In Singapore for example, we have seen more severe storms, even hail. And we may get more frequent prolonged dry spells, as we experienced at the beginning of this year. The latest assessment report by the Intergovernmental Panel on Climate Change (IPCC) released earlier this month found that there is greater certainty that human activities have been the dominant cause of global warming [1]. The atmosphere and oceans have warmed, the amount of snow and ice has diminished, the sea level has risen and the concentration of carbon dioxide has increased to a level unprecedented in at least the last 800,000 years. Global greenhouse gas emissions have grown more quickly between 2000 and 2010 than in each of the three previous decades [2]. The IPCC report concludes that if not addressed, climate change will increase the likelihood of severe, pervasive, and irreversible impacts for people and ecosystems.
+We are already seeing the impact of climate change, such as more extreme weather events, on a global scale. In Singapore for example, we have seen more severe storms, even hail. And we may get more frequent prolonged dry spells, as we experienced at the beginning of this year. The latest assessment report by the Intergovernmental Panel on Climate Change (IPCC) released earlier this month found that there is greater certainty that human activities have been the dominant cause of global warming <a href="#[1]">[1]</a>. The atmosphere and oceans have warmed, the amount of snow and ice has diminished, the sea level has risen and the concentration of carbon dioxide has increased to a level unprecedented in at least the last 800,000 years. Global greenhouse gas emissions have grown more quickly between 2000 and 2010 than in each of the three previous decades <a href="#[2]">[2]</a>. The IPCC report concludes that if not addressed, climate change will increase the likelihood of severe, pervasive, and irreversible impacts for people and ecosystems.
 
-We should therefore start to take appropriate measures to prepare for the future. As technology develops, we can use energy more efficiently, and explore innovative solutions. This exhibition will help to allow more Singaporeans to understand what we already know about climate change, including how the Government, companies and all Singaporeans can all play our part. We are also positioning Singapore well for green growth. There are opportunities in engineering, sustainable design and energy efficiency, as well as in water technologies and renewable energy project development.
+We should therefore start to take appropriate measures to prepare for the future. As technology develops,we can use energy more efficiently, and explore innovative solutions. This exhibition will help to allow more Singaporeans to understand what we already know about climate change, including how the Government, companies and all Singaporeans can all play our part. We are also positioning Singapore well for green growth. There are opportunities in engineering, sustainable design and energy efficiency, as well as in water technologies and renewable energy project development.
 
-**Preparing for the global agreement on climate change**
-
-Singapore has pursued environmentally responsible development well before this became the accepted wisdom globally. One indicator of this is that our carbon emissions per dollar GDP is better than most countries – developed or developing. We are ranked 113th out of 140 countries, among the best-performing 20 per cent globally [3]. This is in spite of our lack of alternative power sources such as hydro, nuclear or wind. We will continue to do our part to contribute to international efforts.
+**Preparing for the global agreement on climate change**  
+Singapore has pursued environmentally responsible development well before this became the accepted wisdom globally. One indicator of this is that our carbon emissions per dollar GDP is better than most countries – developed or developing. We are ranked 113th out of 140 countries, among the best-performing 20 per cent globally <a href="#[3]">[3]</a>. This is in spite of our lack of alternative power sources such as hydro, nuclear or wind. We will continue to do our part to contribute to international efforts.
 
 In 2012, we unveiled Singapore’s national strategy to address climate change. It included our plans to reduce emissions, adapt to the impact of climate change and tap on the economic opportunities arising from climate change. The Sustainable Singapore Blueprint 2015 launched by Prime Minister Lee Hsien Loong last Saturday contains updates to our plans in the areas of resource conservation, climate resilience and green economy. We will continue to monitor developments in climate science and clean energy, and review our climate change strategy periodically to ensure that it addresses the challenges which lie ahead.
 
@@ -45,16 +41,13 @@ Singapore has started preparations on our contributions for the post-2020 agreem
 
 We will review ongoing efforts to reduce emissions and study possible new measures, for example to improve energy efficiency and lower emissions from electricity consumption. NCCS will engage key stakeholders and members of the public in early 2015 for their views on these measures, as well as on how they can contribute to efforts to address climate change and promote green growth. NCCS will release more details on the public engagement plans in the next few months.
 
-**Conclusion**
-
+**Conclusion**  
 Addressing the challenges of climate change requires consistent long-term participation by everyone. Each and every one of us must play our part in this effort to tackle to climate change.
 
 By taking part in this short video competition, you have gone one step further, by helping to disseminate the message of climate change. Please continue your good work, and encourage your family and friends to adopt a more climate-friendly lifestyle. Congratulations to all the winning teams in this year’s competition, and I hope all of you enjoy the exhibition. Thank you.
 
 ___
 
-[1] IPCC Press Release: Concluding instalment of the Fifth Assessment Report, 2 Nov 2014
-
-[2] IPCC Press Release: Greenhouse gas emissions accelerate despite reduction efforts, 13 Apr 2014
-
-[3] Source: 2014 Key World Energy Statistics report by the International Energy Agency (IEA).
+<a name="[1]" id="[1]">[1]</a> IPCC Press Release: Concluding instalment of the Fifth Assessment Report, 2 Nov 2014  
+<a name="[2]" id="[2]">[2]</a> IPCC Press Release: Greenhouse gas emissions accelerate despite reduction efforts, 13 Apr 2014  
+<a name="[3]" id="[3]">[3]</a> Source: 2014 Key World Energy Statistics report by the International Energy Agency (IEA).

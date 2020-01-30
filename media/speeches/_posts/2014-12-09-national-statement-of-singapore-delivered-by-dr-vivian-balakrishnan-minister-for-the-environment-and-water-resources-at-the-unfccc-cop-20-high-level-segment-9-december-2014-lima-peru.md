@@ -5,8 +5,7 @@ subtitle: 9 Dec 2014
 permalink: /media/speeches/national-statement-of-singapore-delivered-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-unfccc-cop-20-high-level-segment-9-december-2014-lima-peru
 ---
 
-### NATIONAL STATEMENT OF SINGAPORE DELIVERED BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AT THE UNFCCC COP-20 HIGH LEVEL SEGMENT, 9 DECEMBER 2014, LIMA, PERU
-
+### NATIONAL STATEMENT OF SINGAPORE DELIVERED BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AT THE UNFCCC COP-20 HIGH LEVEL SEGMENT, 9 DECEMBER 2014, LIMA, PERU  
 Mr President,
 
 **Moment for action**  
@@ -29,12 +28,11 @@ In our view, if these three assurances are in place, this will help drive moment
 
 (iii) Third, the enhancement of pre-2020 ambition. As this is the base for our post-2020 goals, we should not avoid doing more before 2020, but when that happens, the 2015 agreement should recognise the early actions of countries. Otherwise, countries will have perverse incentives to delay action until the new agreement is implemented in 2020. 
 
-**Singapore's Commitment**
-
-Singapore is a member of the Small Island Developing States. We contribute very little at aggregate level to global emissions but we will play our part. Singapore generates relatively low levels of carbon emissions per GDP dollar in the world, ranking 113th out of 140 countries[1]. From the year 2000 to 2010,our carbon intensity decreased by 30 per cent, which compares favourably with the global average decrease of only 0.12 per cent. We ratified the Doha Amendment to the Kyoto Protocol and we will submit our INDC in a timely manner before COP-21. We just submitted our [<a href="/docs/default-source/news-documents/ncbur2014_19bee07f1abd64fdaab538ae5badc1df4.pdf" target="_blank">Biennial Update Report</a>](/docs/default-source/news-documents/ncbur2014_19bee07f1abd64fdaab538ae5badc1df4.pdf) and we have also launched the [<a href="/docs/default-source/news-documents/ssb_2015.pdf" target="_blank">Sustainable Singapore Blueprint 2015</a>](/docs/default-source/news-documents/ssb_2015.pdf) which updates our plans, especially in areas such as energy efficiency and climate resilience. 
+**Singapore's Commitment**  
+Singapore is a member of the Small Island Developing States. We contribute very little at aggregate level to global emissions but we will play our part. Singapore generates relatively low levels of carbon emissions per GDP dollar in the world, ranking 113th out of 140 countries<a href="#1">[1]</a>. From the year 2000 to 2010,our carbon intensity decreased by 30 per cent, which compares favourably with the global average decrease of only 0.12 per cent. We ratified the Doha Amendment to the Kyoto Protocol and we will submit our INDC in a timely manner before COP-21. We just submitted our [<a href="/docs/default-source/news-documents/ncbur2014_19bee07f1abd64fdaab538ae5badc1df4.pdf" target="_blank">Biennial Update Report</a>](/docs/default-source/news-documents/ncbur2014_19bee07f1abd64fdaab538ae5badc1df4.pdf) and we have also launched the [<a href="/docs/default-source/news-documents/ssb_2015.pdf" target="_blank">Sustainable Singapore Blueprint 2015</a>](/docs/default-source/news-documents/ssb_2015.pdf) which updates our plans, especially in areas such as energy efficiency and climate resilience. 
 
 
 **Closing**  
 In conclusion Mr President, I assure you of our commitment and support for Peru's leadership and we look forward to a successful conclusion of this meeting. I would also like to add Singapore's appreciation to the government and people of Peru for the warm hospitality and meticulous arrangements at this Conference. 
 
-[1] Source: IEA Key World Energy Statistics, 2014. 
+<a id="1" name="1">[1]</a> Source: IEA Key World Energy Statistics, 2014. 

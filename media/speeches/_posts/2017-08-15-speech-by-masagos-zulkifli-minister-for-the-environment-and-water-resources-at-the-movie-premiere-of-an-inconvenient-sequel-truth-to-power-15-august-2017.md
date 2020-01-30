@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech by Masagos Zulkifli, Minister for the Environment and Water Resources at the movie premiere of An Inconvenient Sequel - Truth to Power, 15 August 2017
+title: 'Speech by Masagos Zulkifli, Minister for the Environment and Water Resources at the movie premiere of An Inconvenient Sequel: Truth to Power, 15 August 2017'
 subtitle: 15 Aug 2017
 permalink: /media/speeches/speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-movie-premiere-of-an-inconvenient-sequel-truth-to-power-15-august-2017
 ---

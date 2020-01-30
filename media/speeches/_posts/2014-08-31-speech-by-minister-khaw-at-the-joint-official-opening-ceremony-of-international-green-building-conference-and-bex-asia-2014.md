@@ -60,5 +60,6 @@ The Report confirmed that our commercial buildings have indeed become more energ
 The challenges of climate change and greater urbanisation are here to stay and affect us all. Government, businesses, community groups and individuals, all have a part to play to address these challenges. This Conference is a good opportunity for us to have a full and free exchange of ideas, insights, and experiences.
 
 To end off, I wish all of you a very productive time in the next three days in Singapore.
+<br><br><br>
 
 Source: [<a href="https://www.mnd.gov.sg/" target="_blank">Ministry of National Development</a>](https://www.mnd.gov.sg/)
