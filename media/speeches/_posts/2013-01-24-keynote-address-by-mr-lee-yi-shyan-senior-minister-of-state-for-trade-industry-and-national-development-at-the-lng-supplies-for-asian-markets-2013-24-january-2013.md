@@ -44,4 +44,5 @@ Good morning. Thank you for inviting me to be part of this conference.
 12.&nbsp;It is clear that the emergence of new supplies is shaping a new global LNG market. Singapore, as one of the energy centres in the world, has a keen interests in the development. We therefore welcome this conference and the insights it will bring. On this note, I wish you all a fruitful and rewarding time at this year’s conference. Thank you.
 <br><br><br>
 
+
 *Source*: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry Singapore</a>](https://www.mti.gov.sg/)
