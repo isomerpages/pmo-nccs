@@ -7,7 +7,7 @@ permalink: /media/speeches/keynote-address-by-mr-lee-yi-shyan-senior-minister-of
 
 ### KEYNOTE ADDRESS BY MR LEE YI SHYAN, SENIOR MINISTER OF STATE FOR TRADE & INDUSTRY AND NATIONAL DEVELOPMENT, AT THE LNG SUPPLIES FOR ASIAN MARKETS 2013, 24 JANUARY 2013
 
-Conference co-chairmen, Dr Andy Flower and Dr Fereidun Fesharaki, Distinguished Guests
+Conference co-chairmen, Dr Andy Flower and Dr Fereidun Fesharaki, Distinguished Guests  
 
 Ladies and Gentlemen
 
