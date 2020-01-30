@@ -7,13 +7,13 @@ permalink: /media/speeches/oral-reply-by-mr-s-iswaran-minister-prime-minister's-
 
 ### ORAL REPLY BY MR S ISWARAN, MINISTER, PRIME MINISTER'S OFFICE AND SECOND MINISTER FOR HOME AFFAIRS AND TRADE & INDUSTRY, TO PARLIAMENTARY QUESTION ON NUCLEAR ENERGY PRE-FEASIBILITY STUDY IN SINGAPORE, 15 OCTOBER 2012
 
-<u>Question by **Er Dr Lee Bee Wah:**</u>
+<u>Question by <b>Er Dr Lee Bee Wah:</b></u>
 
 To ask the Minister for Trade and Industry:  
 a. Whether he can provide an update on the nuclear energy pre-feasibility study in Singapore; and  
 b. Whether there are plans to engage countries in the region to prevent or respond to nuclear incidents.
 
-<u>**Response:**</u>
+<u><b>Response:</b></u>
 
 In 2010, I announced in Parliament that Singapore would embark on a pre-feasibility study on nuclear energy. Singapore relies heavily on imported energy. This pre-feasibility study was part of our efforts to continually explore all options to overcome our energy constraints, and enhance our energy security. The study was, thus, a preliminary step to assess the feasibility of nuclear energy as an option to meet Singapore’s long-term energy needs.
 
