@@ -108,7 +108,6 @@ So what do these all mean for Singapore? The future world is likely to be fossil
 But I am confident that we can make these changes and progress to a smart energy economy because we are small, compact and we can organize ourselves well and undertake rational policies on a very long term basis so as to get to the right phase over the horizon. The choices we make will affect not just our generation but the next generation and generations to come. But with far sighted planning and creative implementation, we can keep Singapore both economically vibrant and environmentally sustainable and build Singapore into one of the most livable cities in the world. Clean, green, safe and efficient now and for a long time into the future.
 
 Thank you very much.
+<br><br>
 
-
-
-Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609ZronVlD5w6is" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609ZronVlD5w6is)
+*Source*: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609ZronVlD5w6is" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609ZronVlD5w6is)
