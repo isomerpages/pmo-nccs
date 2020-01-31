@@ -38,7 +38,7 @@ Financing mitigation and adaptation in developing countries is also a politicall
 **WHAT TO EXPECT AT COPENHAGEN?**
 
 These complications have led to an impasse. Given the limited time left, countries are no longer aiming to reach a comprehensive and legally binding international agreement by Copenhagen. A more realistic aim is a political framework agreement which contains the key elements for a legally binding agreement with details to be further negotiated in 2010.
-
+<br><br><br>
 
 
 
@@ -59,7 +59,7 @@ c. Our contribution to global CO2 emissions is negligible, i.e. less than 0.2 pe
 Importance of maintaining economic competitiveness. While climate change is clearly a very serious problem,we cannot ignore the impact of mitigation measures on our economy. Whatever we do, maintaining economic competitiveness is a key consideration because we have to preserve growth in order to have the resources to continue to take mitigation and adaptation actions.
 
 
-
+<br><br><br>
 **SINGAPORE'S CONSTRAINTS: ALTERNATIVE ENERGY DISADVANTAGED COUNTRY**
 
 As small country, there are inherent limitations to what we can do to reduce emissions. We face significant constraints in switching to alternative or renewable energies, such as geothermal, wind or hydropower, to reduce our dependence on fossil fuels. 
