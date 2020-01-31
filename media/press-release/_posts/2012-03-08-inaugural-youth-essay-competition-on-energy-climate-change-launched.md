@@ -23,4 +23,4 @@ More information and entry forms for this competition can be found on the ESS we
 The closing date for this competition is 8 May 2012.
 
 
-Source: [<a href="http://www.ess.org.sg/Events/Competitions/2012-1.htm" target="_blank">Economics Society Singapore</a>](http://www.ess.org.sg/Events/Competitions/2012-1.htm)
+Source: [<a href="http://www.ess.org.sg/Events/Competitions/2012-1.htm" target="_blank">Economic Society Singapore</a>](http://www.ess.org.sg/Events/Competitions/2012-1.htm)
