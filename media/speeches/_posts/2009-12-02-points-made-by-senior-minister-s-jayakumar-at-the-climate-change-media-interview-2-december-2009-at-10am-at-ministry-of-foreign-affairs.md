@@ -150,9 +150,9 @@ The Government will do what is necessary to buffer this impact, and to help them
 Let me wrap up by saying that the approach we have taken is a constructive, pragmatic and realistic one, bearing in mind our special circumstances. 
 
 Climate change is a long-term issue that the world will have to grapple with for many decades to come. As a responsible member of the international community, Singapore will play our part and continue to contribute to the global effort in reducing emissions. Although our emissions are an insignificant percentage of the global total and we have no historical responsibility for climate change, we are prepared to do our part in the context of a global agreement in which all countries implement their mitigation actions and emissions targets in good faith.
+<br><br><br> 
 
-**REMARKS MADE BY MINISTER FOR NATIONAL DEVELOPMENT MAH BOW TAN**
-
+**REMARKS MADE BY MINISTER FOR NATIONAL DEVELOPMENT MAH BOW TAN**  
 Thank you very much, Senior Minister Jayakumar. Let me just add on to what Professor Jayakumar had said in one particular area, and that is in the area of what we had done in the past and what is the implication of that.
 
 Long before climate change was an issue, Singapore had done a lot. We had to do this - one, because we are a resource constrained country and therefore as a result of that, energy efficiency was one of the areas that allowed Singapore to be competitive. And secondly, of course, as a small country with resource constraints, it was important for us to make sure that Singapore remained a liveable city. That is the first point.
