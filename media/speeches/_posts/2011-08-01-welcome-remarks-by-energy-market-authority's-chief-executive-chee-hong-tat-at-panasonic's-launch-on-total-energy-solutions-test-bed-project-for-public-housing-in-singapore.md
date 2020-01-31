@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome Remarks by Energy Market Authority's Chief Executive Chee Hong Tat at Panasonic's launch on total energy solutions test-bed project for public housing in Singapore
-subtitle: 31 Jul 2011
+subtitle: 1 Aug 2011
 permalink: /media/speeches/welcome-remarks-by-energy-market-authority's-chief-executive-chee-hong-tat-at-panasonic's-launch-on-total-energy-solutions-test-bed-project-for-public-housing-in-singapore
 ---
 

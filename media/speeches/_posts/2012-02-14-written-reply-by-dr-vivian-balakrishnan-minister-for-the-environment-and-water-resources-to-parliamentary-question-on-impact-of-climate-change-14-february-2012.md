@@ -7,7 +7,7 @@ permalink: /media/speeches/written-reply-by-dr-vivian-balakrishnan-minister-for-
 
 ### WRITTEN REPLY BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, TO PARLIAMENTARY QUESTION ON IMPACT OF CLIMATE CHANGE, 14 FEBRUARY 2012
 
-<u>Question by **Er Dr Lee Bee Wah:**</u>
+<u>Question by <b>Er Dr Lee Bee Wah:</b></u>
 
 To ask the Minister for the Environment and Water Resources:  
 a. How has the rise in sea water levels affected all the reclaimed land on our shorelines;  
