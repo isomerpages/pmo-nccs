@@ -23,7 +23,7 @@ Ladies and Gentlemen
 **Introduction**  
 1\. It is my great pleasure to welcome our guests to the opening ceremony of the World Green Building International Congress, the Singapore Green Building Council's Green Building Conference, and BEX Asia Exhibition 2010. These events are held in conjunction with the 2nd Singapore Green Building Week.
 
-*\* Importance of Buildings to Environmental Sustainability**  
+**Importance of Buildings to Environmental Sustainability**  
 2\. Buildings are an essential component of our urban landscape and a key contributor towards our energy consumption. According to a report by the United Nations Environment Programme published last year, buildings consume some 40 per cent of our global energy used and contribute as much as a third of our global total carbon emissions. The report also highlighted that if we do nothing to improve the environmental sustainability of our buildings, the carbon emissions from buildings will more than double in the next 20 years. Here in Singapore, our buildings consume more than one-third of our total end-use electricity, and is the second largest consumer of electricity, after the industrial sector.
 
 3\. Singapore has taken pro-active steps to ensure our sustainable development. We have set out strategies in the Sustainable Singapore Blueprint, launched in April 2009, to achieve a reduction in energy intensity by 20 per cent from 2005 levels by 2020. Every sector, transport, industry, households and the building sector will have to play their part to contribute collectively to our efforts in sustainable development.
