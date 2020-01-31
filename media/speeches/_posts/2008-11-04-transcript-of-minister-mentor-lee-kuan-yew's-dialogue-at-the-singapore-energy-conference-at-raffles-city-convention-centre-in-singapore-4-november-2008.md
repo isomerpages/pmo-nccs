@@ -87,7 +87,7 @@ Mr Lee: “If you exclude what we export, the energy that we have to use for shi
 
 Moderator: “Yes, sir.”
 
-Q: “Thank you, Your Excellency. My name is …(indistinct)… with the National Centre for Manufacturing Sciences, Ann Arbor, USA and my question is ¬-\- a famous saying says, “Some people change when they see the light, others when they feel the heat, feel the heat of things”. What is your take on faith-based initiatives as a basis for creating change among individual communities and, you know, eventually, nations?”
+Q: “Thank you, Your Excellency. My name is …(indistinct)… with the National Centre for Manufacturing Sciences, Ann Arbor, USA and my question is - a famous saying says, “Some people change when they see the light, others when they feel the heat, feel the heat of things”. What is your take on faith-based initiatives as a basis for creating change among individual communities and, you know, eventually, nations?”
 
 Mr Lee: “What do you mean by faith-based initiatives?”
 
