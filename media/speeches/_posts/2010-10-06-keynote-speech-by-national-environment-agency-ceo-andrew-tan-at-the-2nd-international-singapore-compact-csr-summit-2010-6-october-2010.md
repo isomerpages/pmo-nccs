@@ -78,7 +78,7 @@ In conclusion, tackling climate change is both a complex challenge and an opport
 Asia now stands at a cross-road in its development where it has a choice between following the old model of industrialisation or embarking on a greener, more sustainable pathway that makes good economic and environmental sense. In this regard, Asia can set a good example for other emerging markets by taking a lead and creating new opportunities for growth. Governments, businesses and communities should take advantage of these developments - and help shape a better future not only for this generation, but the next.
 
 Thank you.
-
+<br><br><br> 
 
 
 *Source*: [<a href="https://www.nea.gov.sg/" target="_blank">National Environment Agency</a>](https://www.nea.gov.sg/)

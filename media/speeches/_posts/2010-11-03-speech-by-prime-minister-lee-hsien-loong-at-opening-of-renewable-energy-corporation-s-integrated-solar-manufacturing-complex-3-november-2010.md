@@ -100,7 +100,7 @@ a) Confident that sector will see strong growth
 b) Singapore will work with clean energy companies to seize these opportunities
 
 c) Wish REC success in this and future ventures
-
+<br><br><br>
 
 
 *Source*: [<a href="https://www.edb.gov.sg/" target="_blank">Economic Development Board</a>](https://www.edb.gov.sg/)

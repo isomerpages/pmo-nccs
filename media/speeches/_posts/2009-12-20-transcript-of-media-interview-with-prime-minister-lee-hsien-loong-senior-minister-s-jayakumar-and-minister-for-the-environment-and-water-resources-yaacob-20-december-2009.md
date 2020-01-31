@@ -7,7 +7,7 @@ permalink: /media/speeches/transcript-of-media-interview-with-prime-minister-lee
 
 ### TRANSCRIPT OF MEDIA INTERVIEW WITH PRIME MINISTER LEE HSIEN LOONG, SENIOR MINISTER S JAYAKUMAR, AND MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES YAACOB IBRAHIM IN COPENHAGEN, DENMARK, 20 DECEMBER 2009
 
-**Question 1**: Prime Minister, could you tell us what your reaction is to the progress?  
+<u>**Question 1**</u>: Prime Minister, could you tell us what your reaction is to the progress?  
 **Prime Minister Lee**: We are disappointed with the outcome so far.
 
 This is a very difficult negotiation because we are dealing with a problem which is very long term - maybe decades, maybe beyond 100 years. And we are having to contemplate actions on a very long-term basis. What you do now is not going to show results before the next elections, not even after the next three elections. For governments to weigh these very far-off risks with the very far-off commitments that are involved is very difficult.
@@ -25,7 +25,7 @@ Our offer stands. Whether or not there is an agreement, we will start to do part
 **Senior Minister Jayakumar**: We are disappointed. But what has been achieved, let us keep it alive and see how procedurally and substantially we can get more countries on board.
 
 
-**Question 2**: Has Singapore been asked to do anything, in terms of making changes and making compromises?
+<u>**Question 2**</u>: Has Singapore been asked to do anything, in terms of making changes and making compromises?
 
 **PM Lee**: No. We have made our offer of 16 per cent below BAU. It has been noted and welcomed. And we have not been the focus of the difficulties because even if Singapore were to stop breathing, it is not going to save the earth.
 
@@ -38,7 +38,7 @@ Our offer stands. Whether or not there is an agreement, we will start to do part
 **SM Jayakumar**: So that will not be discounted.
 
 
-**Question 3**: Does that mean that we will not have any new measures in the Sustainable Blueprint?
+<u>**Question 3**</u>: Does that mean that we will not have any new measures in the Sustainable Blueprint?
 
 **PM Lee**: No, that depends. To reach 16 per cent, we will have to take new measures. We have to consider what these will be. There will be regulations. For example, more stringent energy efficiency standards may be necessary. There may be other requirements for building, insulation, air-conditioning - Green Marks, Platinum Standards and so on and so forth.
 
@@ -46,7 +46,7 @@ There may have to be fiscal measures because if you look at other countries, eit
 
 We have to plan and consider all these possibilities now. Whether we do them, when we do them,how we phase them in, it depends on what the final outcome will be, whether there is a new treaty.
 
-**Question 4**: PM, you mentioned you were disappointed with the outcome. What is the most disappointing?
+<u>**Question 4**</u>: PM, you mentioned you were disappointed with the outcome. What is the most disappointing?
 
 **PM Lee**: We have always known that reaching an agreement would be very difficult. When Danish Prime Minister (Anders Fogh) Rasmussen came to Singapore during Apec (the Asia-Pacific Economic Cooperation forum) in November, he already said that a legally binding treaty was out of the question and that we should aim for a political statement.
 
@@ -62,7 +62,7 @@ Similarly, for the Chinese to compromise their growth is going to be very, very 
 
 For us today, there is a cost to achieve this 16 per cent below business-as-usual, but if other countries are doing their part, then this is our small contribution to reducing the problem. If not, then it does not make sense for us to do it by ourselves.
 
-**Question 5**: In your speech (to the conference), you asked developed countries to step in. What is the reaction?
+<u>**Question 5**</u>: In your speech (to the conference), you asked developed countries to step in. What is the reaction?
 
 **PM Lee**: The US has committed to doing something. They put down a target of 17 per cent. It is the first time they have put down a target because they never signed up to Kyoto. They repudiated Kyoto. The Europeans have committed to reducing by 80 per cent by 2050.
 
@@ -73,7 +73,7 @@ That has happened in Australia, where the Senate has thrice rejected Prime Minis
 In terms of contributing finances, the developed countries have made certain commitments - promises of money - to help the poorer countries adapt. But they would want to make sure that the money is well directed and properly spent. And that will be quite complicated.
 
 
-**Question 6**: What is Singapore's position towards the deal or the agreement that has been reached by the US and a few major (developing countries)?
+<u>**Question 6**</u>: What is Singapore's position towards the deal or the agreement that has been reached by the US and a few major (developing countries)?
 
 **PM Lee**: We think it is a useful basis to take the process forward... in order to try and reach a less imperfect arrangement.
 

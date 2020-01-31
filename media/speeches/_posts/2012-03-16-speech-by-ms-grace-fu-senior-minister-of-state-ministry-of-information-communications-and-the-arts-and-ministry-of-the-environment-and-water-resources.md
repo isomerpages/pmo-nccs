@@ -38,4 +38,4 @@ Ultimately, we need the concerted efforts of all stakeholders – the Government
 Thank you for your time, and I wish you a fruitful day ahead.
 <br><br><br>
 
-Source: [<a href="Ministry of the Environment and Water Resources" target="_blank">Ministry of the Environment and Water Resources</a>](Ministry of the Environment and Water Resources)
+Source: [<a href="https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--senior-minister-of-state--ministry-of-information--communications-and-the-arts-and-ministry-of-the-environment-and-water-resources" target="_blank">Ministry of the Environment and Water Resources</a>](Ministry of the Environment and Water Resources)

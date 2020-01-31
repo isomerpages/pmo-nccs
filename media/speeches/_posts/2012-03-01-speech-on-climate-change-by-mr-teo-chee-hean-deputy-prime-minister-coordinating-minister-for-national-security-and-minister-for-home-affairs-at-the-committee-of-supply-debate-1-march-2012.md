@@ -64,7 +64,7 @@ There are also opportunities arising from climate change. We can create high-val
 Sir, we need a whole-of-nation effort – involving the people, the private, and the public sectors to realise our vision. Together, we can ensure that Singapore remains a vibrant and liveable nation for our future generations.
 
 Thank you, sir.
-<br><br>
+<br><br><br>
 
 
 **Footnotes**  

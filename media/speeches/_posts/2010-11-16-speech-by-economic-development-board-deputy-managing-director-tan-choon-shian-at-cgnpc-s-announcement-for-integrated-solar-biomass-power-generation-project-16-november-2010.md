@@ -44,7 +44,7 @@ Ladies and Gentlemen,)
 
 11.最后，我衷心地感谢中广核集团对新加坡的信心和信赖。我们期望以这项目为基础，继续与贵公司增强成功的合作关系。我谨再次向谭总经理、中广核集团的领导和员工们表示最衷心的祝贺！祝愿你们马到成功！谢谢大家！  
 (Last but not least, I would like to thank CGNPC for its trust and confidence in Singapore. We will continue to support CGNPC’s efforts and look forward to forging a strong long-term partnership with you. Once again, congratulations to the management and staff of CGNPC and I wish you success and growth in the coming years. Thank you!)
-
+<br><br><br> 
 
 
 *Source*: [<a href="https://www.edb.gov.sg/" target="_blank">Economic Development Board</a>](https://www.edb.gov.sg/)
