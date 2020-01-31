@@ -20,8 +20,7 @@ Ladies and Gentlemen
 
 4\. In the coming years, China and India are expected to be among the countries with the fastest growth in solar photovoltaics (PV) capacity; while Southeast Asia is emerging as a new growth market for solar PV. Governments in Thailand, Malaysia and Indonesia are keen to accelerate solar deployment. For example, Thailand and Malaysia have set PV installation targets of 2 GW4 (gigawatt) and 1.3 GW5 by 2021 respectively. At the company level, REC’s integrated solar production facility in Singapore has a module production target of 750 MW for 2012.
 
-**Test-bedding projects**    
-
+**Test-bedding projects**  
 5\. In Singapore, we too are experimenting with more test-bed PV projects. Recently, Panasonic partnered with the government to launch Asia’s first “total energy solutions public housing test-bed” in Punggol Eco-Town. Under this project, Panasonic will install solar panels on an existing public residential building and integrate its home energy management systems. This will help households realise greener lifestyles through greater energy efficiency and demand management.
 
 6\. Another example is Keppel Seghers’ 1 MW (megawatt) PV system on a waste water treatment plant. This will be Singapore’s first commercial-scale PV system to supply solar energy for water treatment.
@@ -31,7 +30,6 @@ Ladies and Gentlemen
 8\. Our test-bedding efforts have catalysed a steady growth in Singapore's total solar installed generation capacity. Over the last three years, grid-connected solar generation capacity in Singapore grew from 1.9 MW to 5.5 MW in 2011.
 
 **R&D efforts**  
-
 9\. Singapore offers a sophisticated environment for R&D in clean energy systems. Under the Energy Innovation Programme Office (EIPO), we have set aside $140 million for research into clean energy technologies. Recently, EDB launched a grant call6 to invite research proposals in the area of solar PV, and EMA a grant call in the area of smart grids. EDB and EMA will announce the selected projects by the end of the year.
 
 10\. Going forward, the Solar Energy Research Institute of Singapore (SERIS) will be developing a technology roadmap on Solar Photovoltaics in Singapore. This roadmap aims to chart technology development pathways in order to identify promising technologies best-suited for deployment in Singapore. SERIS is also collaborating with the Energy Research Institute @ NTU (ERI@N) to develop thin-film solar cells7 which will improve the efficiency of solar PV generation.

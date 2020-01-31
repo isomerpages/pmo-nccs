@@ -115,6 +115,8 @@ d. Vibrant IOs and NGOs Community.
 35.&nbsp;In conclusion, I would like to emphasise that the insurance industry is an important part of any global climate change strategy as it helps society adapt to climate change by educating people and getting them to reduce the risk and impact from climate change events. Here in Asia, where vulnerability is high and insurance penetration is low, there is scope for the industry to play an even bigger role by raising awareness, tailoring products to local market needs and acting in a responsible manner. The insurance companies must convince the consumers that their insurance products are affordable, valuable and meaningful.
 
 36.&nbsp;And Singapore can serve as a very efficient and effective regional platform. It is most appropriate that the first Climate Change Summit for Asia’s Insurance Industry is held here. With that, I would like to wish everybody here a fruitful conference. Thank you.
+<br><br>
+
 
 <sup>[1]</sup> The AR4 projections are for the period 2090-2099. The temperature and sea level changes are expressed as the difference from the reference period 1980-1999. The year 1990 represents the mid-point of the reference period.  
 <sup>[2]</sup> Munich Re report in November 2009  
