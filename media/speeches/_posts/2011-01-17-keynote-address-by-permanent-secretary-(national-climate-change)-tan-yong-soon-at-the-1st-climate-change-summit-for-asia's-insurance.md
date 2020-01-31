@@ -65,6 +65,7 @@ c. Act in a responsible manner.
 
 20.&nbsp;Such products are typically aimed at protecting against catastrophic events. Insurance companies will have to assess the needs and demands of the target market. Affordability and product design preferences should be investigated together to provide real value to the target market. For instance, in the case of flood insurance, if the trigger is too high, residents may not be keen to buy the product as it rarely happens. But if it is too low, moral hazard could set in as residents may become less careful.
 <br><br>
+
 <u>Act in a Responsible Manner</u>
 
 21.&nbsp;Designing and offering innovative products like microinsurance benefits both the insured and the commercial insurers. For the former, microinsurance is a lower cost form of protection for the less affluent community against catastrophes. For the latter, it is a means to gaining insurance market penetration in the country and also larger and diversified risk pools. Needless to say, such schemes must be designed responsibly. Trust plays a key role in product take up. In the end, insurance companies must be able to convince the people that their insurance products are valuable, meaningful, and also affordable.
