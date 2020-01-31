@@ -58,7 +58,6 @@ This session marks the successful conclusion of the 4th Carbon Forum Asia confer
 I hope that you have had a productive conference and a pleasant stay in Singapore. On this note, we look forward to welcoming Carbon Forum Asia back to Singapore next year.
 
 Thank you very much.
-
-
+<br><br>
 
 *Source*: [<a href="https://www.nea.gov.sg/corporate-functions/newsroom/speeches/year/2010/month/10/speech-by-mr-andrew-tan-ceo-national-environment-agency-at-the-closing-session-of-carbon-forum-asia-2010-thursday-28-october-2010-5-45pm-raffles-city-convention-centre" target="_blank">National Environment Agency </a>](https://www.nea.gov.sg/corporate-functions/newsroom/speeches/year/2010/month/10/speech-by-mr-andrew-tan-ceo-national-environment-agency-at-the-closing-session-of-carbon-forum-asia-2010-thursday-28-october-2010-5-45pm-raffles-city-convention-centre)

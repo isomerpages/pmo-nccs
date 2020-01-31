@@ -19,7 +19,7 @@ Good evening. It gives me great pleasure to join you for the 6th Singapore Inter
 2.&nbsp;These sterling results are only possible because of the passion and dedication of our partners to grow the industry here. Tonight, we honour those who have made outstanding contributions to Singapore's development as a premier global hub port and an international maritime centre. Let me add my personal thanks to all of you for your unwavering support and belief in the Singapore Maritime story.
 
 **Growing Maritime Singapore**  
-3.Ladies and gentlemen, even as we celebrate today's achievements, we should be mindful of the challenges that continue to confront the maritime industry. Recent events in Japan and the Middle East remind us of the need to remain vigilant and to never take the status quo for granted. The Singapore Government remains strongly committed to helping our partners overcome the challenges ahead and to keep Maritime Singapore growing.
+3.&nbsp;Ladies and gentlemen, even as we celebrate today's achievements, we should be mindful of the challenges that continue to confront the maritime industry. Recent events in Japan and the Middle East remind us of the need to remain vigilant and to never take the status quo for granted. The Singapore Government remains strongly committed to helping our partners overcome the challenges ahead and to keep Maritime Singapore growing.
 
 **Going 'Green'**  
 4.&nbsp;One key challenge confronting the maritime industry today is balancing economic growth with the need to protect our marine environment. Today, shipping remains by far the most efficient form of cargo transport. It carries more than 90 percent of world trade but contributes only about 3 percent to global carbon dioxide emission. Nevertheless, as a responsible international player, the shipping industry is committed to play its part to reduce greenhouse gas emissions.
@@ -38,12 +38,12 @@ Good evening. It gives me great pleasure to join you for the 6th Singapore Inter
 
 11.&nbsp;Altogether, the MPA will invest up to S$100 million over the next five years in the Maritime Singapore Green Initiative. MPA will release details of this new initiative. I strongly encourage companies to make full use of this opportunity.
 
-12.Promoting environmentally responsible maritime activities requires the participation and support of every stakeholder in the maritime ecosystem. Later, we will witness some of them signing a 'Green Pledge' as an affirmation of their commitment to support and promote clean and green shipping in Singapore. I applaud these pathfinders for championing this effort. Tonight's signing is but the beginning. The charter will be kept open and I hope that many more companies will come on board as part of their own corporate social responsibility efforts.
+12.&nbsp;Promoting environmentally responsible maritime activities requires the participation and support of every stakeholder in the maritime ecosystem. Later, we will witness some of them signing a 'Green Pledge' as an affirmation of their commitment to support and promote clean and green shipping in Singapore. I applaud these pathfinders for championing this effort. Tonight's signing is but the beginning. The charter will be kept open and I hope that many more companies will come on board as part of their own corporate social responsibility efforts.
 
 **Conclusion**  
 13.&nbsp;Ladies and gentlemen, the extraordinary growth of Maritime Singapore is the direct result of the close partnership between Government and industry. With your feedback, we ensure that our schemes remain relevant and competitive. The Maritime Singapore Green Initiative is but the latest example. We look forward to working with you to realise a cleaner and greener future for shipping and posterity.
 
 14.&nbsp;Thank you.
-<br><br><br>
+<br><br>
 
 *Source*: [<a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/b775e4f3-d939-4e17-8fb4-9a5638ea111d" target="_blank">Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/b775e4f3-d939-4e17-8fb4-9a5638ea111d)

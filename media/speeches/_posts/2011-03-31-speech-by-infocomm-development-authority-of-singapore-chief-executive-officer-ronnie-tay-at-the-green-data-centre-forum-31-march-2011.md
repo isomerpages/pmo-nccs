@@ -29,7 +29,7 @@ Good Morning. A very warm welcome to everyone here at The Green Data Centre Foru
 
 7.&nbsp;Many innovations can be leveraged upon to improve the energy efficiency of servers, network equipment and infrastructure, as well as optimise the overall efficiency of the data centres. For example, virtualisation technology can drastically reduce the number of physical servers in a data centre. This decreases energy consumption and waste heat, and consequently the amount of cooling equipment required. Another emerging innovation is exploring the use of outside air cooling in tropical regions to reduce cooling energy consumption. It is now being investigated in some parts of the United States and in the Middle East.
 
-8.I would like now to take this opportunity to elaborate on IDA's initiatives in enabling greater energy efficiency and environmental sustainability in Singapore data centres.
+8.&nbsp;I would like now to take this opportunity to elaborate on IDA's initiatives in enabling greater energy efficiency and environmental sustainability in Singapore data centres.
 
 **IDA's Green Data Centre Initiatives**  
 <u>Establishing a Common Yardstick</u>  
@@ -80,6 +80,6 @@ Good Morning. A very warm welcome to everyone here at The Green Data Centre Foru
 6 Source: ITSC Working Group on Green Data Centre Standards
 
 7 Gartner Says Energy-Related Costs Account for Approximately 12 Percent of Overall Data Centre Expenditures [<a href="http://www.gartner.com/it/page.jsp?id=1442113" target="_blank">http://www.gartner.com/it/page.jsp?id=1442113</a>](http://www.gartner.com/it/page.jsp?id=1442113)
-<br><br><br>
+<br><br>
 
 *Source*: [<a href="https://www.imda.gov.sg/about/newsroom/archived/ida/speeches/2011/speech-by-ida-ceo-at-the-green-data-centre-forum" target="_blank">Infocomm Development Authority of Singapore</a>](https://www.imda.gov.sg/about/newsroom/archived/ida/speeches/2011/speech-by-ida-ceo-at-the-green-data-centre-forum)
