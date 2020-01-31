@@ -40,7 +40,7 @@ Please allow me to first warmly welcome everyone here this evening. I am pleased
 
 **Singapore’s Experience – Dealing with Sustainable Urban Living in a Holistic Way**
 
-**From Independence to Today**
+<u>From Independence to Today</u>
 
 11\. As a small city-state with no natural resources and a high population density (about 7000 per sq km), Singapore has always had to struggle with basic issues of liveability and sustainability. As we gained independence in 1965, Singapore faced serious basic bread and butter problems – problems that are familiar to many cities today – unemployment, housing, public health and safety, transportation, education, sanitation, and the provision of safe and adequate drinking water.
 
@@ -52,7 +52,7 @@ Please allow me to first warmly welcome everyone here this evening. I am pleased
 
 15\. Water reuse and desalination are commercially viable solutions that are not only workable in Singapore, but globally as well. Several Singapore-based companies have capitalised on these technologies and their track record in major water projects around the world. For example, Hyflux is building one of the world’s largest desalination plants (500,000 cu m/day) using reverse osmosis membrane technology in Algeria.
 
-**Ensuring Sustainability into the Future**
+<u>Ensuring Sustainability into the Future</u>
 
 16\. The challenges of sustainable cities continue to loom large as we look into the future. Singapore has thus been taking pro-active steps early. We have set out targets in the Sustainable Singapore blueprint (launched in April 2009) to bring about more efficient use of resources and develop diversified sources of water and energy, to provide sustainable growth for our population and economy.
 
@@ -68,13 +68,13 @@ Please allow me to first warmly welcome everyone here this evening. I am pleased
 
 21\. The global challenges today are multi-faceted and more often than not require a coordinated response across borders. It is therefore imperative that cities continue to share knowledge and experiences so that innovative and better solutions can be developed. I would like to make three suggestions on how this can be done.
 
-**Greater Sharing of Expertise**
+<u>Greater Sharing of Expertise</u>
 
 22\. First, there should be more sharing of expertise between cities. The best learning can take place amongst cities that face common challenges. We hope to promote more peer-to-peer sharing of expertise and encourage collaborative projects. An example is the Singapore-China partnership to co-develop the 30 square kilometre Tianjin Eco-City in China into a socially harmonious, environmentally-friendly, resource-efficient and economically vibrant city, to serve as a model for sustainable development. It will be home to a projected population of 350,000 when fully developed, with the first group of residents possibly moving into their homes as early as the second half of next year. This is the second flagship bilateral cooperation project between Singapore and China after the successful Suzhou Industrial Park, which occupies 288 square kilometres (of which 80 square kilometers belongs to the China-Singapore Cooperation Zone), and is home to more than 700,000 people. Fostering Global Dialogue on Cities
 
 23\. Second, we can also leverage on global platforms, such as the Singapore International Water Week and World Cities Summit, to promote and facilitate the exchange of global best practices, new ideas and innovative technologies. The Mayors’ Forum and Water Leaders Summit are two events this week that allow for high-level interaction among leaders and decision-makers. These platforms also provide excellent opportunities for networking and interaction among cities, leaders, international organisations and industry. During the week, the recipients of the Lee Kuan Yew Water and World City prizes will also be sharing their experiences and insights with us. I encourage you to take this opportunity to interact with them.
 
-**Greater Investments in R&D and Test-bedding of Solutions**
+<u>Greater Investments in R&D and Test-bedding of Solutions</u>
 
 24\. Third, we urge governments and organizations around the world to give added emphasis and support to the research, development and test-bedding of solutions. Many cities today are investing in new infrastructure, and test-bedding technology and concepts like smart grids, renewable energy, water solutions and sustainable urban design.
 
@@ -89,6 +89,6 @@ Please allow me to first warmly welcome everyone here this evening. I am pleased
 28\. The growth of cities can take place in harmony with the environment. A long-term integrated approach to sustainability coupled with good governance will help cities reap high dividends. We also need to go beyond our own city and national boundaries to share insights, seek collaborations and address issues that have regional or global impact.
 
 29\. It is in this spirit that we meet for the Singapore International Water Week and World Cities Summit. People congregate in cities because of the promise of a better life that cities offer. It is our collective responsibility to live up to this promise and build liveable and sustainable cities that will enhance the well-being of people all over the world. After all, these are places which we all call home.
-<br><br><br>
+<br><br>
 
 Source: [<a href="https://www.edb.gov.sg/" target="_blank">Economic Development Board</a>](https://www.edb.gov.sg/)

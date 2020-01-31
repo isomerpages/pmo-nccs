@@ -5,13 +5,15 @@ subtitle: 2 Dec 2009
 permalink: /media/speeches/points-made-by-senior-minister-s-jayakumar-at-the-climate-change-media-interview-2-december-2009-at-10am-at-ministry-of-foreign-affairs
 ---
 
-### POINTS MADE BY SENIOR MINISTER S JAYAKUMAR AT THE CLIMATE CHANGE MEDIA INTERVIEW, 2 DECEMBER 2009 AT 10AM AT MINISTRY OF FOREIGN AFFAIRS  
-#### SINGAPORE'S DELEGATION TO COPENHAGEN CONFERENCE
+
+### POINTS MADE BY SENIOR MINISTER S JAYAKUMAR AT THE CLIMATE CHANGE MEDIA INTERVIEW, 2 DECEMBER 2009 AT 10AM AT MINISTRY OF FOREIGN AFFAIRS
+### **SINGAPORE'S DELEGATION TO COPENHAGEN CONFERENCE**
 
 PM, SM/CMNS and Min (EWR) will attend the Copenhagen Conference. 
 
-We have actively participated in the talks. We have taken a whole of Government approach in our preparations. In 2007, we set up the Inter-Ministerial Committee on Climate Change (IMCCC)to study this issue carefully. The IMCCC, which I chair, comprises the Ministers from 6 Ministries - MFA, MTI, MEWR, MND,MOF, and MOT. In addition, we set up the Inter-Ministerial Committee on Sustainable Development (IMCSD), co-chaired by MND and MEWR, in January 2008 to give sustainable development a stronger focus. Energy efficiency is a key thrust of the Sustainable Singapore blueprint, which was released in May this year.
-<br><br><br>
+We have actively participated in the talks. We have taken a whole of Government approach in our preparations. In 2007, we set up the Inter-Ministerial Committee on Climate Change (IMCCC)to study this issue carefully. The IMCCC, which I chair, comprises the Ministers from 6 Ministries - MFA, MTI, MEWR, MND,MOF, and MOT. In addition, we set up the Inter-Ministerial Committee on Sustainable Development (IMCSD), co-chaired by MND and MEWR, in January 2008 to give sustainable development a stronger focus. Energy efficiency is a key thrust of the Sustainable Singapore blueprint, which was released in May this year.  
+<br><br>
+
 
 **STATE OF PLAY AT UNFCCC NEGOTIATIONS**
 
@@ -86,7 +88,8 @@ Despite all these constraints, we have always taken the environment seriously. L
 
 (d) Energy efficiency: In 2006, carbon intensity was approximately 30 per cent below 1990 levels.
 
-(e) Recycling: We recycle 56 per cent and incinerate 41 per cent of our wastes. Incidentally, incineration provides 2-3 per cent of our electricity and reduces methane emissions from landfills. Methane has 21 times the warming potential of CO2.
+(e) Recycling: We recycle 56 per cent and incinerate 41 per cent of our wastes. Incidentally, incineration provides 2-3 per cent of our electricity and reduces methane emissions from landfills. Methane has 21 times the warming potential of CO2.  
+<br><br>
 
 
 
@@ -105,7 +108,9 @@ Through, inter alia, following policies:
 * Managing the growth of private transport, refining our Electronic Road Pricing system, and improving schemes.  
 * Encourage cycling and walking with investments in infrastructure such as covered linkways, cycling paths and parking facilities for cyclists at MRT stations.  
 * Promoting energy efficient Green Building through incentives to co-fund the cost premium to achieve higher Green mark standards of Goldplus and Platinum, demonstration projects such as the first-ever retrofitted Zero Energy Building in South East Asia, and making Green Mark a pre-requsite land sales requirement for new growth areas.  
-<br><br><br>
+<br><br>
+
+
 
 
 **FURTHER EFFORTS ... RECALL PM SAID WE ARE STUDYING WHAT MORE WE CAN DO**

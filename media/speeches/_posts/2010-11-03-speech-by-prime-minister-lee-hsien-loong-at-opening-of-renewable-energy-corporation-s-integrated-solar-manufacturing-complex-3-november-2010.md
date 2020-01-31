@@ -58,7 +58,7 @@ b)&nbsp;We are applying this model to the clean energy sector
 
 c)&nbsp;Our cluster strategy is no secret. In fact many others try to adopt it too
 
-d)&nbsp;Hence critical for us to play to our strengths
+d)&nbsp;Hence critical for us to play to our strengths  
 i.&nbsp;e.g. we are going into solar energy as it leverages on our existing strengths in electronics
 
 **Investing in Our Workforce**  
