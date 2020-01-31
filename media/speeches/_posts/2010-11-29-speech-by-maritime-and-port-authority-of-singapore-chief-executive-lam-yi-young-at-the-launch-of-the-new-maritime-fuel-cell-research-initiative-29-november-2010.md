@@ -33,8 +33,8 @@ As a major flag registry and the world's busiest port, Singapore is strongly com
 
 All these cannot be achieved without the commitment and support from all partners and stakeholders in the maritime industry. I look forward to more partnerships with Temasek Polytechnic in the future, and on this note, I wish you a pleasant afternoon ahead.
 
-Thank you.
-
-
-
+Thank you.  
+<br>
+<br>
+<br>
 Source: [<a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/ea51dfba-7082-4b16-a181-9744f05a1f4f" target="_blank">Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/ea51dfba-7082-4b16-a181-9744f05a1f4f)
