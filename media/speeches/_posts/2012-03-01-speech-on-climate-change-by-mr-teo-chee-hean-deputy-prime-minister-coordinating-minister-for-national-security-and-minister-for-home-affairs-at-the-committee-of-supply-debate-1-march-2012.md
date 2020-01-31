@@ -67,6 +67,6 @@ Thank you, sir.
 <br><br><br>
 
 
-<u><b>Footnotes</b></u>  
+<u>Footnotes</u>  
 <u><sup>1</sup>Gross Floor Area above 2,000 sqm  
 <sup>2</sup>Air-conditioned floor area above 5,000 sqm</u>
