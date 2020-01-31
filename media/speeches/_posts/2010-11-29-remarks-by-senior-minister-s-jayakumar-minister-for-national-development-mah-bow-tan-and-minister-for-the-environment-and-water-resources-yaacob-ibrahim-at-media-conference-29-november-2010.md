@@ -7,7 +7,7 @@ permalink: /media/speeches/remarks-by-senior-minister-s-jayakumar-minister-for-n
 
 ### REMARKS BY SENIOR MINISTER S JAYAKUMAR, MINISTER FOR NATIONAL DEVELOPMENT MAH BOW TAN AND MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES YAACOB IBRAHIM AT MEDIA CONFERENCE, 29 NOVEMBER 2010
 
-#### Remarks by Senior Minister S Jayakumar
+### Remarks by Senior Minister S Jayakumar
 
 ### UPDATE ON THE STATE OF NEGOTIATIONS
 
