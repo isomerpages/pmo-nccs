@@ -79,7 +79,7 @@ Good morning, and to all our foreign delegates, a warm welcome to Singapore. Tha
 25\. By bringing together people of vision from multiple disciplines, by presenting the best examples from around the world, and by facilitating the exchange of ideas, I believe that participants, through the World Cities Summit and the Singapore International Water Week, will collectively take away useful practices and be inspired to play an active role in creating liveable and sustainable cities for the future.
 
 26\. I wish you a fruitful week ahead at the World Cities Summit and the Singapore International Water Week.
-<br><br><br>
+<br><br>
 
 *Source*: [<a href="https://www.edb.gov.sg/" target="_blank">Economic Development Board</a>](https://www.edb.gov.sg/)
 
