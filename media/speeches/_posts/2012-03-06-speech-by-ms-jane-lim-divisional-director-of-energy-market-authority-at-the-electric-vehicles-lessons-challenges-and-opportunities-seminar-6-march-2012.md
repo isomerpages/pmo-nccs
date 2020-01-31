@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech by Ms Jane Lim, Divisional Director of Energy Market Authority at the Electric Vehicles -  Lessons, Challenges and Opportunities Seminar, 6 March 2012
+title: Speech by Ms Jane Lim, Divisional Director of Energy Market Authority at the Electric Vehicles: Lessons, Challenges and Opportunities Seminar, 6 March 2012
 subtitle: 6 Mar 2012
 permalink: /media/speeches/speech-by-ms-jane-lim-divisional-director-of-energy-market-authority-at-the-electric-vehicles-lessons-challenges-and-opportunities-seminar-6-march-2012
 ---

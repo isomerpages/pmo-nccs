@@ -34,10 +34,7 @@ The IES pilot and other industry collaboration projects are part of EMA’s effo
 Hence, we are very happy to have this opportunity to explore collaboration with Panasonic for our IES pilot. This supports our vision of working with the industry to use Singapore as a “Living Lab” to test out innovative energy solutions, products and services. We welcome more companies to partner with us to co-create new energy technologies which can bring value and expertise to Singapore’s energy sector.
 
 Let me conclude by extending my heartiest congratulations to Panasonic on the launch of its test-bed. We look forward to working with you on the IES pilot and other energy-related projects. Thank you.  
-<br><br>
-
-
-
+<br><br><br>
 
 
 

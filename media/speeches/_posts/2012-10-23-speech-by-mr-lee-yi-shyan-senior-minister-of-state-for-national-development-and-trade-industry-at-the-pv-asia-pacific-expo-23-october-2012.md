@@ -14,7 +14,7 @@ Ladies and Gentlemen
 1\. Good morning. Welcome to the second PV Asia Pacific Expo (PVAP). Last year, I participated in the launch of the Asian PV Industry Association (APVIA). I am happy to join you again at this year’s expo to progress our discussion on renewable energy.
 
 **Global Trends in Renewable Energy and Solar PV**    
-2\. With rising energy costs and increasing need for environmental protection, countries around the world have become even more serious in the development and deployment of renewable energy. Global investments in renewables have grown almost six-fold since 2004.1 From 2011 to 2017, the International Energy Agency (IEA) is predicting that global renewable power generation will increase further by 40.2 per cent
+2\. With rising energy costs and increasing need for environmental protection, countries around the world have become even more serious in the development and deployment of renewable energy. Global investments in renewables have grown almost six-fold since 2004.1 From 2011 to 2017, the International Energy Agency (IEA) is predicting that global renewable power generation will increase further by 40 per cent
 
 3\. Amongst renewable sources of energy, the use of solar energy has in fact risen 52 per cent in 2011.3 Current economic uncertainties notwithstanding, Asia’s steady adoption of solar energy would make Asia a large production and deployment site of solar power.
 
@@ -42,5 +42,6 @@ Ladies and Gentlemen
 
 Thank you.
 <br><br><br>
+
 
 *Source*: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry Singapore</a>](https://www.mti.gov.sg/)

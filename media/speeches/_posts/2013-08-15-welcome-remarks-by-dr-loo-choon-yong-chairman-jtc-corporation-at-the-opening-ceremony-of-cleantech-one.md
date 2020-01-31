@@ -37,7 +37,7 @@ Today's event is only the beginning of JTC's journey in designing sustainable de
 I am confident that CleanTech One, with its design, location and cleantech community, is well-positioned to attract talent and companies in the CleanTech industry. I am very excited to be here today, as I feel we are witnessing the beginning of many innovations that will come out of this community. We would like to thank all our partners who have supported the development of CleanTech One. Last but not least, a big thank you to our customers who have made this building their home.
 
 It is now my honour to invite our Minister for Trade & Industry to address us. Mr Lim Hng Kiang, please.
-<br><br>
+<br><br><br>
 
 *¹ Nanyang Environment and Water Research Institute (NEWRI)*  
 *² Energy Research Institute at NTU (ERI@N)*

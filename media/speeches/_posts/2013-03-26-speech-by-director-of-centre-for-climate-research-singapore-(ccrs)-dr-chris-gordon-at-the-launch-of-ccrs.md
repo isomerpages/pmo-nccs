@@ -41,7 +41,7 @@ On a personal note, I am very pleased to be moving here to Singapore with my wif
 
 As people are our most important resource, I am committed to building a strong team of local and international experts at CCRS and to inspire more young people in Singapore to join the centre.
 
-Finally, I would like to give credit to the weather and climate research that has already been undertaken within the Met Service Singapore and which provides the foundation on which this new climate centre will be built.  
+Finally, I would like to give credit to the weather and climate research that has already been undertaken within the Met Service Singapore and which provides the foundation on which this new climate centre will be built.
 <br><br><br>
 
 

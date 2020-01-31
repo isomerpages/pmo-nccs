@@ -78,6 +78,7 @@ iv. In the solar business, a key reference point for players is when grid parity
 * But overall trends are positive  
 * If they continue in the right direction, then should be a matter of time before grid parity is reached
 
+<br>
 7.&nbsp;To enable Singapore to scale up quickly when solar becomes a cost-effective option, the Clean Energy Programme Office (CEPO), co-chaired by the Economic Development Board and the Energy Market Authority, has rolled out various initiatives to build critical capabilities and catalyse research innovation in this field 
 
 a) Solar Capability Scheme (SCS) – encourages innovative design and integration of solar technologies into energy efficient buildings 
