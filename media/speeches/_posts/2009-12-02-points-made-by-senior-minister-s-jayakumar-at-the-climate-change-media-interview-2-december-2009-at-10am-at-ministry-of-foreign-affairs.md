@@ -52,8 +52,7 @@ PM stated in Bali that Singapore will do our part in a global agreement on clima
 
 This is a long term global problem that requires a global solution. But an equitable global deal must take into account each country's capability and constraints. If there is a global agreement, we are prepared to bear our share of reduction in emissions growth. 
 
-What we cannot agree to is unreasonable pressures by some developed countries to get advanced developing countries like Singapore to take on greater responsibility in reducing emissions, solely because of our high per capita GDP. Some even want to graduate us into Annex 1, i.e. take on mandatory economy-wide emission cuts. We cannot agree, because:
-
+What we cannot agree to is unreasonable pressures by some developed countries to get advanced developing countries like Singapore to take on greater responsibility in reducing emissions, solely because of our high per capita GDP. Some even want to graduate us into Annex 1, i.e. take on mandatory economy-wide emission cuts. We cannot agree, because:  
 a. Benchmarks like per capita GDP are artificial, distorted and unfairly penalise small urbanised countries like Singapore.  
 b. Singapore has severe constraints such as lack of recourse to alternative energy sources. I will elaborate on these constraints later.  
 c. Our contribution to global CO2 emissions is negligible, i.e. less than 0.2 per cent. 
