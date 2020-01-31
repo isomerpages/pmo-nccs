@@ -7,10 +7,8 @@ permalink: /media/speeches/speech-by-mr-lim-hng-kiang-minister-for-trade-and-ind
 
 ### SPEECH BY MR LIM HNG KIANG MINISTER FOR TRADE AND INDUSTRY AT THE OPENING CEREMONY OF CLEANTECH ONE
 
-Dr Loo Choon Yong, Chairman, JTC
-
-Distinguished Guests,
-
+Dr Loo Choon Yong, Chairman, JTC  
+Distinguished Guests,  
 Ladies and Gentlemen
 
 **INTRODUCTION**  
