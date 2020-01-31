@@ -27,8 +27,7 @@ Third, the framework must take into account differences in national circumstance
 Given this wide range of situations of different countries, the post-2012 framework cannot use a one-size-fits-all approach. An equitable solution must take account of diverse national circumstances. The smaller and more vulnerable countries in particular will need technical assistance to put in place effective adaptation measures.
 
 **Approaches to Mitigating Climate Change**  
-Based on these broad principles, let me suggest a few effective approaches to mitigate climate change. 
-
+Based on these broad principles, let me suggest a few effective approaches to mitigate climate change.   
 First, we should pursue pragmatic and cost-effective ways to reduce greenhouse gas emissions. This includes exploiting technology to improve energy efficiency and reduce wastage, for example by using more public transport instead of cars, and not over- cooling or over-heating buildings. We should also apply economics to price energy properly and avoid subsidising over-consumption of fossil fuels. 
 
 Second, we need to protect the world's carbon sinks. Slash-and-burn practices and the large-scale burning of peatlands release massive amounts of carbon into the atmosphere. We must stop these practices and the loss of forested areas. This requires the continued attention and support of the international community, as well as responsible policies and effective enforcement by the countries which own these forests. Singapore supports the idea of reducing emissions from deforestation and forest degradation (REDD) proposed by Indonesia, and regional initiatives like the Heart of Borneo project, which covers 220,000 sq km of forests in Brunei, Indonesia and Malaysia. We are also working bilaterally with Indonesia to tackle peatland fires and develop sustainable land-clearing practices.
