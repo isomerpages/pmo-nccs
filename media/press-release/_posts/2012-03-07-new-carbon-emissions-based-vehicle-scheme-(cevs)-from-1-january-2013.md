@@ -33,7 +33,7 @@ The current GVR scheme for commercial vehicles, buses and motorcycles will be ex
 
 To assist car buyers make informed decisions, the CO2/km performance data for each car model will be provided on mandatory information labels at car showrooms. LTA will also set up a new FELS online database and online fuel cost calculator so that buyers can easily access and compare the carbon emissions and fuel efficiency performance data across car models. These changes will be made progressively after LTA takes over the administration of the Fuel Economy Labelling Scheme (FELS) from NEA around mid 2012. More details on FELS will be made available then.
 
-<u>**Footnotes:**
+<u>Footnotes:
 
 <sup>1</sup>The Green Vehicle Rebate (GVR) scheme was introduced in 2001 to encourage the take up of green vehicles. Electric, petrol-electric hybrid, compressed natural gas (CNG) and bi-fuel (CNG/petrol) vehicles are given a rebate of up to 40 per cent of the vehicle’s Open Market Value (OMV) which is offset against the vehicle’s Additional Registration Fee (ARF).
 
@@ -42,5 +42,5 @@ To assist car buyers make informed decisions, the CO2/km performance data for ea
 <sup>3</sup>CEVS rebate is subject to a minimum ARF payable of $5,000, as cars that have relatively low ARF payable and are already fuel-efficient do not need to be further incentivised.
 </u>
 
-<br><br>
+<br><br><br>
 Source: [<a href="https://www.lta.gov.sg/content/ltagov/en/newsroom.html" target="_blank">Land Transport Authority</a>](https://www.lta.gov.sg/content/ltagov/en/newsroom.html)
