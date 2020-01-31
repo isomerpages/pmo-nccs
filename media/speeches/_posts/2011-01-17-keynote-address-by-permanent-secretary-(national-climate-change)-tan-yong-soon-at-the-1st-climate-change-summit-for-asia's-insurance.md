@@ -11,7 +11,7 @@ permalink: /media/speeches/keynote-address-by-permanent-secretary-(national-clim
 
 **Impact of Climate Change**
 
-2.&nbsp;Climate Change is a serious long term global challenge. It is also one of the most complex challenges we face today. The Intergovernmental Panel on Climate Change or IPCC Fifth Assessment Report is underway. But we know from its Fourth Assessment Report (AR4) published in 2007 that warming of the climate by man-made emissions of greenhouse gases is happening. The AR4 assessed that by the end of the 21st century, global average temperatures could rise by 1.1◦C to 6.4◦C over 1990 levels. And sea levels could rise by 0.18 metres to 0.59 metres over 1990 levels,<sup>1</sup>.
+2.&nbsp;Climate Change is a serious long term global challenge. It is also one of the most complex challenges we face today. The Intergovernmental Panel on Climate Change or IPCC Fifth Assessment Report is underway. But we know from its Fourth Assessment Report (AR4) published in 2007 that warming of the climate by man-made emissions of greenhouse gases is happening. The AR4 assessed that by the end of the 21st century, global average temperatures could rise by 1.1◦C to 6.4◦C over 1990 levels. And sea levels could rise by 0.18 metres to 0.59 metres over 1990 levels<sup>1</sup>.
 
 3.&nbsp;As a result of global warming, the frequency and intensity of extreme weather events like tropical cyclones and droughts are also expected to increase. It has been estimated that “globally, the average number of major weather-related catastrophes such as wind storms, floods and droughts is now three times as high as at the beginning of the 1980s. Losses have risen even more, with an average increase of 11 percent per year since 1980.” <sup>2</sup>
 

@@ -60,5 +60,6 @@ With this green ecosystem taking shape, I am confident that CleanTech Park will 
 I wish JTC and the tenants of CleanTech One every success as they continue to push the boundaries of innovation and scale new heights. Thank you.
 <br><br><br> 
 
+
 Source: [<a href="https://www.jtc.gov.sg/Pages/default.aspx" target="_blank">JTC Corporation</a>](https://www.jtc.gov.sg/Pages/default.aspx)
 

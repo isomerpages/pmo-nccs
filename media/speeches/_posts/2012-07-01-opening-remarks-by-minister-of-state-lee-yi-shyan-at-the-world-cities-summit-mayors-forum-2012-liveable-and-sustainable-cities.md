@@ -30,7 +30,7 @@ It is no wonder that worldwide; 828 million people live in slum conditions, lack
 <u>High Urban Poverty Level</u>  
 The pressure on growing cities is not limited to public hygiene and sanitation. Poverty and lack of employment are other key challenges. For instance, almost 25 per cent of Asia’s urban population is poor and the rate has been increasing as a result of rural-urban migration.
 
-<u>Environmental Degradation</u>
+<u>Environmental Degradation</u>  
 In short, growing cities face many challenges, including a whole host of issues related to environmental degradation due to our inability to manage water pollution, waste disposal and excessive carbon emission. All these, added together, present a set of grave challenges against our vision of better cities and better lives.
 
 **Key Outcomes**  

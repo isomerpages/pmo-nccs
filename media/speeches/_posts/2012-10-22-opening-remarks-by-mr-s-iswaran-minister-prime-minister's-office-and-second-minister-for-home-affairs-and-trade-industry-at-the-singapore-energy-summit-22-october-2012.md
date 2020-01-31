@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opening remarks by Mr S Iswaran, Minister, Prime Minister's Office and Second Minister for Home Affairs and Trade & Industry, at the Singapore Energy Summit, 22 October 2012
-subtitle: 21 Oct 2012
+subtitle: 22 Oct 2012
 permalink: /media/speeches/opening-remarks-by-mr-s-iswaran-minister-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-singapore-energy-summit-22-october-2012
 ---
 
