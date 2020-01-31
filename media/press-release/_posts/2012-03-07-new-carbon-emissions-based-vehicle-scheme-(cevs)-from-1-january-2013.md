@@ -33,8 +33,8 @@ The current GVR scheme for commercial vehicles, buses and motorcycles will be ex
 
 To assist car buyers make informed decisions, the CO2/km performance data for each car model will be provided on mandatory information labels at car showrooms. LTA will also set up a new FELS online database and online fuel cost calculator so that buyers can easily access and compare the carbon emissions and fuel efficiency performance data across car models. These changes will be made progressively after LTA takes over the administration of the Fuel Economy Labelling Scheme (FELS) from NEA around mid 2012. More details on FELS will be made available then.
 
-<u>Footnotes:
 
+<u>Footnotes:</u>  
 <sup>1</sup>The Green Vehicle Rebate (GVR) scheme was introduced in 2001 to encourage the take up of green vehicles. Electric, petrol-electric hybrid, compressed natural gas (CNG) and bi-fuel (CNG/petrol) vehicles are given a rebate of up to 40 per cent of the vehicle’s Open Market Value (OMV) which is offset against the vehicle’s Additional Registration Fee (ARF).
 
 <sup>2</sup>Carbon emissions refer to the release of carbon dioxide from the use of a vehicle, and provide a good indicator of the amount of fuel the vehicle uses. The g CO2 /km is a measure that quantifies the weight of carbon dioxide (CO2) released for every kilometre that the vehicle is driven i.e. the vehicle’s fuel efficiency. The more CO2 released over the same distance means more fuel is being used.
