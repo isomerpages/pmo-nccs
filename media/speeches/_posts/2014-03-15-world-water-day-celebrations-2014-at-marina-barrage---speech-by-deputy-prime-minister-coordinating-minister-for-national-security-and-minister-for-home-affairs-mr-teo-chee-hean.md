@@ -46,5 +46,6 @@ Boys and girls
 12. As we mark World Water Day, it is timely to remember the importance of water, and the progress that Singapore has made in our water supply since the 1960s, when water rationing was last carried out. Let us all do our part to save water, and spread the message of water conservation. Let us also work towards more innovative solutions that conserve both water and energy. Together, we can create a more sustainable Singapore for the future.
 
 13. Thank you.
+<br><br><br> 
 
 Source: [<a href="https://www.mha.gov.sg/" target="_blank">Ministry of Home Affairs</a>](https://www.mha.gov.sg/)

@@ -56,7 +56,7 @@ Likewise, Singapore’s energy sector will offer many new opportunities. Aside f
 To remain a leading global city, Singapore must continue to be nimble to meet global energy challenges and seize emerging opportunities. As the global energy landscape evolves, so too will Singapore’s strategies. Building a Smart Energy Economy will better prepare us to meet future challenges and achieve the energy policy imperatives of energy security, economic competitiveness and environmental sustainability. This will further consolidate Singapore’s position as an energy hub for Asia.
 
 On this note, I would like to wish you all fruitful discussions at the Power-Gen Asia conference and a productive experience at this year’s Singapore International Energy Week. Thank you.
-
+<br><br><br>
 
 
 *Source*: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry</a>](https://www.mti.gov.sg/)

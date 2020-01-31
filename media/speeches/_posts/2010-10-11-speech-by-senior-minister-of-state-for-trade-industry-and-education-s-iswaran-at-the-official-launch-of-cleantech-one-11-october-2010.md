@@ -48,7 +48,7 @@ Finally, such capital-intensive investments require low-risk environments for te
 
 **Conclusion**  
 In conclusion, I would like to congratulate JTC on the launch of CleanTech One. I wish the tenants of CleanTech Park every success, and look forward to the emergence of a host of new cleantech solutions which are conceptualised, developed and manufactured in Singapore. Thank you.
-
+<br><br><br>
 
 
 *Source*: [<a href="https://www.mot.gov.sg/" target="_blank">Ministry of Trade and Industry</a>](https://www.mot.gov.sg/)

@@ -58,6 +58,7 @@ I share Dr Loo's excitement about the promising beginnings of the CleanTech Park
 With this green ecosystem taking shape, I am confident that CleanTech Park will lead the way in creating a conducive and sustainable environment within which cleantech businesses can thrive.
 
 I wish JTC and the tenants of CleanTech One every success as they continue to push the boundaries of innovation and scale new heights. Thank you.
+<br><br><br> 
 
 Source: [<a href="https://www.jtc.gov.sg/Pages/default.aspx" target="_blank">JTC Corporation</a>](https://www.jtc.gov.sg/Pages/default.aspx)
 

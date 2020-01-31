@@ -63,7 +63,7 @@ Last year winners of the awards, namely, City Development Ltd (CDL), Tetrapak Ju
 In conclusion, I congratulate SBF for taking the lead in helping its members to position themselves in the new business environment where people, profits and planet must now co-exist. Public sector agencies such as the National Environment Agency would be more than happy to work with SBF to raise the level of environmental stewardship. Our collective efforts will provide the momentum for Singapore Inc, as a whole, to work towards becoming a leading hub for sustainable development practices as well as innovative green business solutions.
 
 I wish you all a pleasant evening of business networking. Thank you.
-
+<br><br><br> 
 
 
 *Source*: [<a href="https://www.nea.gov.sg/" target="_blank">National Environment Agency</a>](https://www.nea.gov.sg/)

@@ -9,7 +9,7 @@ permalink: /media/speeches/minister-for-the-environment-and-water-resources-dr-y
 
 #### ORAL ANSWERS TO QUESTIONS FOR THE PARLIAMENT SITTING ON 18 OCTOBER 2010
 
-11.**Nominated Member Mr Viswa Sadasivan** asked the Minister for the Environment and Water Resources in light of the next UN Framework Convention on Climate Change Conference in November 2010 (a) whether detailed carbon emission reduction measures have been drawn up or implemented for the various sectors in Singapore to meet the 16 per cent target committed to at the 2009 Copenhagen Conference; (b) whether Singapore is on track to meet the target; and (c) what innovative measures or approaches have been employed.
+11\. **Nominated Member Mr Viswa Sadasivan** asked the Minister for the Environment and Water Resources in light of the next UN Framework Convention on Climate Change Conference in November 2010 (a) whether detailed carbon emission reduction measures have been drawn up or implemented for the various sectors in Singapore to meet the 16 per cent target committed to at the 2009 Copenhagen Conference; (b) whether Singapore is on track to meet the target; and (c) what innovative measures or approaches have been employed.
 
 **The Minister for the Environment and Water Resources (Dr Yaacob Ibrahim)**: Sir, in the run-up to the Copenhagen Climate Change Conference in December 2009, Singapore pledged to reduce its greenhouse gas emissions by 16 per cent below Business-as-Usual levels in 2020, contingent on a legally-binding global agreement in which all parties implement their commitments in good faith.
 

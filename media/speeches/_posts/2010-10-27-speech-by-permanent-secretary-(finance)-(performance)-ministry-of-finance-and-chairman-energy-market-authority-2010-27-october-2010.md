@@ -54,7 +54,7 @@ In August this year, the commencement of trading activities of the Singapore Mer
 **Conclusion**
 
 To conclude, the global carbon market indeed holds both exciting possibilities as well as challenges. How the market will develop would depend not just on how the regulatory environment would evolve, but also how market players would respond. There have been many proposals for CDM reform. It is premature to speculate how the regulatory environment would pan out exactly. But whatever the eventual environment, I believe there is enough resourcefulness and expertise among industry players like yourselves to make the market work. Over the next two days, I trust you will hear many resourceful ideas and benefit from the collective expertise in this room. I wish all of you fruitful discussions, and hope to see you again at next year’s Singapore International Energy Week.
-
+<br><br><br> 
 
 
 Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609o4X5wXxVfRHQ" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609o4X5wXxVfRHQ)
