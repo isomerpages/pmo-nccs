@@ -18,15 +18,15 @@ permalink: /media/speeches/remarks-by-senior-minister-s-jayakumar-on-mrv-and-ica
 **Principles**  
 5\. In designing an effective ICA system, we have to ensure that it is based on sound guiding principles. There are five which I believe are important:
 
-**Number One**: there must be universal application of any ICA process.
+<u>Number One</u>: there must be universal application of any ICA process.
 
-**Number Two**: the ICA must be a party-driven process. The participation of external experts and stakeholders may be necessary but the ultimate aim is to encourage a dialogue between parties.
+<u>Number Two</u>: the ICA must be a party-driven process. The participation of external experts and stakeholders may be necessary but the ultimate aim is to encourage a dialogue between parties.
 
-**Number Three**: the ICA must fully respect national sovereignty. It must not become intrusive or inquisitorial. The confidentiality of information provided, especially commercially sensitive information, must be protected and respected.
+<u>Number Three</u>: the ICA must fully respect national sovereignty. It must not become intrusive or inquisitorial. The confidentiality of information provided, especially commercially sensitive information, must be protected and respected.
  
-**Number Four**: the ICA must be designed as a technical exercise. It should not become a political or politicised process.
+<u>Number Four</u>: the ICA must be designed as a technical exercise. It should not become a political or politicised process.
  
-**Number Five**: the ICA process must be conducted in a spirit of mutual respect aimed at promoting better understanding and information sharing on the policies and priorities of Parties.
+<u>Number Five</u>: the ICA process must be conducted in a spirit of mutual respect aimed at promoting better understanding and information sharing on the policies and priorities of Parties.
 
 6\. Let me elaborate on the principle of universal application. I am aware that the ICA is mentioned only in the context of non-Annex I Parties’ mitigation actions in the Copenhagen Accord. But there is no reason why any ICA process should be confined to just the developing countries.
 

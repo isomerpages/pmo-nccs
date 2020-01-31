@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speech by Deputy Prime Minister and Minister for Defence Teo Chee Hean at the Opening Ceremony of the World Cities Summit 2010 and the Singapore International Water Week 2010, 28 June 2010
-subtitle: 27 Jun 2010
+subtitle: 28 Jun 2010
 permalink: /media/speeches/speech-by-deputy-prime-minister-and-minister-for-defence-teo-chee-hean-at-the-opening-ceremony-of-the-world-cities-summit-2010-and-the-singapore-international-water-week-2010-28-june-2010
 ---
 

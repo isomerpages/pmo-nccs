@@ -42,7 +42,7 @@ Good morning, and to all our foreign delegates, a warm welcome to Singapore. Tha
 
 11\. Cities differ from one another in size and character. They are shaped by their own demographics, cultures and traditions, their history and geography. But there are some recurring themes in the sustainable development practices of successful cities. Examples of these themes are strong governance, citizen engagement, balancing development and the environment, and international collaborations. Let me take this opportunity to illustrate some of these ideas using examples from cities around the world.
 
-**Strong Governance and Citizen Engagement**
+<u>Strong Governance and Citizen Engagement</u>
 
 12\. Our laureate for the inaugural Lee Kuan Yew World City Prize, the Bilbao City Hall in Spain, showed us the importance of strong governance and citizen engagement in shaping a vibrant and sustainable city.
 
@@ -52,7 +52,7 @@ Good morning, and to all our foreign delegates, a warm welcome to Singapore. Tha
 
 15\. One critical ingredient that differentiates Bilbao’s achievements from other cities is their active citizenry. The formulation of the Bilbao Ria 2000 in close consultation with key public and private stakeholders, instilled in the citizens a sense of ownership and responsibility in the sculpting of the city, catalysing the vast improvements in Bilbao. The active citizen engagement in the success of Bilbao is something which other cities can emulate.
 
-**Balancing Development and Environment**
+<u>Balancing Development and Environment</u>
 
 16\. The next key factor in building sustainable cities is balancing development and the environment. Countries which invest in far-sighted policies that promote energy-efficient transport, reduce urban sprawl and encourage the use of environmentally-friendly sources of energy can reduce their ecological footprint and carbon emission significantly. This could ultimately mitigate, and even reverse the effect of, global climate change.
 
@@ -62,7 +62,7 @@ Good morning, and to all our foreign delegates, a warm welcome to Singapore. Tha
 
 19\. Curitiba, Brazil, is known to city planners world-wide as a showpiece of urban planning and innovation. Their comprehensive and integrated public transit system and pedestrianised downtown walkways have significantly reduced Curitibans’ dependence on motor vehicles. The driving force behind Curitiba’s fame, Mr. Jamie Lerner, is with us this morning. His vision of “A city for people, not for cars” has not only transformed Curitiba, but also inspired and influenced the transportation policies of many other cities.
 
-**International Collaboration**
+<u>International Collaboration</u>
 
 20\. Last but not least, international collaboration plays a key role in elevating the standards of sustainable development practices, whether within a city, within the region, or even globally. The Sino-Singapore Tianjin Eco-City Project illustrates how a vision shared by two governments, to build a thriving, environmentally-friendly and resource-efficient city based on the concept of harmonious urbanization, by pooling together resources and expertise, has spurred innovations in both technology and methods of governance for sustainable development.
 
