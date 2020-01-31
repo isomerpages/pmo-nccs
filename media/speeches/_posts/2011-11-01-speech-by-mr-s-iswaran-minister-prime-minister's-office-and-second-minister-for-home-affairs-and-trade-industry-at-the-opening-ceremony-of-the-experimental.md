@@ -47,7 +47,8 @@ I am pleased to join you today for the opening ceremony of A*STAR’s Experiment
 
 **Conclusion**
 
-12\. The opening of EPGC is a landmark in Singapore’s efforts to play a leading role in the development of smart grid technologies. The journey of EPGC began at a ground breaking ceremony just fifteen months ago, and I am glad that EPGC has already shown strong good progress, especially in its engagement with industry partners. This is evident in the MOUs that EPGC will be signing later this morning with partners like SPPG, National Instruments and Meiden. I congratulate A*STAR and EPGC on this exciting new milestone and wish you a fruitful journey ahead. Thank you.
+12\. The opening of EPGC is a landmark in Singapore’s efforts to play a leading role in the development of smart grid technologies. The journey of EPGC began at a ground breaking ceremony just fifteen months ago, and I am glad that EPGC has already shown strong good progress, especially in its engagement with industry partners. This is evident in the MOUs that EPGC will be signing later this morning with partners like SPPG, National Instruments and Meiden. I congratulate A*STAR and EPGC on this exciting new milestone and wish you a fruitful journey ahead. Thank you.  
+<br><br>
 
 
 

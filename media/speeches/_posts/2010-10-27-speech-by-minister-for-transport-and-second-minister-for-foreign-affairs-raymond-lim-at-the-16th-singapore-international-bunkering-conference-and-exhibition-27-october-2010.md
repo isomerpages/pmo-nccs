@@ -45,7 +45,8 @@ Ladies and Gentlemen,
 
 11\. Ladies and gentlemen, these are interesting times for the bunkering industry. The Singapore Government remains committed to the continued development of Singapore as a premier bunkering port. On this note, it gives me great pleasure to declare SIBCON 2010 officially open. I look forward to your active participation and your continued support of our efforts to continuously expand Singapore as a leading bunkering centre.
 
-12\. Thank you.
+12\. Thank you.  
+<br><br><br>
 
 <sup>[1]</sup> MPA has issued 5 Bunkering Licences (Bunker Supplier) since Jan 2010. The new entrants are Brightoil, Universal, Southern Petrochemical, Vermont-UM and Noble Resources.
 
