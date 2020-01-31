@@ -5,13 +5,13 @@ subtitle: 2 Dec 2009
 permalink: /media/speeches/points-made-by-senior-minister-s-jayakumar-at-the-climate-change-media-interview-2-december-2009-at-10am-at-ministry-of-foreign-affairs
 ---
 
-### POINTS MADE BY SENIOR MINISTER S JAYAKUMAR AT THE CLIMATE CHANGE MEDIA INTERVIEW, 2 DECEMBER 2009 AT 10AM AT MINISTRY OF FOREIGN AFFAIRS
-
+### POINTS MADE BY SENIOR MINISTER S JAYAKUMAR AT THE CLIMATE CHANGE MEDIA INTERVIEW, 2 DECEMBER 2009 AT 10AM AT MINISTRY OF FOREIGN AFFAIRS  
 #### SINGAPORE'S DELEGATION TO COPENHAGEN CONFERENCE
 
 PM, SM/CMNS and Min (EWR) will attend the Copenhagen Conference. 
 
 We have actively participated in the talks. We have taken a whole of Government approach in our preparations. In 2007, we set up the Inter-Ministerial Committee on Climate Change (IMCCC)to study this issue carefully. The IMCCC, which I chair, comprises the Ministers from 6 Ministries - MFA, MTI, MEWR, MND,MOF, and MOT. In addition, we set up the Inter-Ministerial Committee on Sustainable Development (IMCSD), co-chaired by MND and MEWR, in January 2008 to give sustainable development a stronger focus. Energy efficiency is a key thrust of the Sustainable Singapore blueprint, which was released in May this year.
+<br><br><br>
 
 **STATE OF PLAY AT UNFCCC NEGOTIATIONS**
 
@@ -105,7 +105,7 @@ Through, inter alia, following policies:
 * Managing the growth of private transport, refining our Electronic Road Pricing system, and improving schemes.  
 * Encourage cycling and walking with investments in infrastructure such as covered linkways, cycling paths and parking facilities for cyclists at MRT stations.  
 * Promoting energy efficient Green Building through incentives to co-fund the cost premium to achieve higher Green mark standards of Goldplus and Platinum, demonstration projects such as the first-ever retrofitted Zero Energy Building in South East Asia, and making Green Mark a pre-requsite land sales requirement for new growth areas.  
-
+<br><br><br>
 
 
 **FURTHER EFFORTS ... RECALL PM SAID WE ARE STUDYING WHAT MORE WE CAN DO**
@@ -157,7 +157,7 @@ Thank you very much, Senior Minister Jayakumar. Let me just add on to what Profe
 
 Long before climate change was an issue, Singapore had done a lot. We had to do this - one, because we are a resource constrained country and therefore as a result of that, energy efficiency was one of the areas that allowed Singapore to be competitive. And secondly, of course, as a small country with resource constraints, it was important for us to make sure that Singapore remained a liveable city. That is the first point.
 
-The second point is that as a result of what we had done, because of these past efforts, there is really less potential compared to other countries --- for us to do more. But that does not mean that we are not going to do anything, that we just rest on our laurels and say this is what we have done full-stop. No, in fact, we have taken further measures to do even more and I will elaborate on that later on.
+The second point is that as a result of what we had done, because of these past efforts, there is really less potential compared to other countries - for us to do more. But that does not mean that we are not going to do anything, that we just rest on our laurels and say this is what we have done full-stop. No, in fact, we have taken further measures to do even more and I will elaborate on that later on.
 
 So, a) we have done a lot since independence and b) because of what we have done, there is less potential compared to other countries to reduce our emission growth further. What we had done in the past, our past sustainable development efforts, have contributed significantly to the reduction of emissions growth. Some of the more significant areas that we have embarked upon include for example, the area of transport. As you know, we are one of the few countries in the world, if not the only one, to do both the limitation of vehicle growth through the COE (Certificate of Entitlement) system as well as the introduction of congestion pricing, usage controls through the ERP (Electronic Road Pricing) system.
 
