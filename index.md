@@ -16,7 +16,7 @@ sections:
               url: /singapores-climate-action/mitigation-efforts/
             - title: Adaptation Efforts
               description: Adapting to the impact of climate change
-              url: /singapores-climate-action/overview/adapting-overview/
+              url: /singapores-climate-action/overview/adaptation-overview/
             - title: Green Growth Opportunities
               description: Harnessing green growth opportunities
               url: /singapores-climate-action/overview/green-growth-opportunities/
