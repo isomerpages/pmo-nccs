@@ -54,8 +54,8 @@ It is clear that countries and cities can work together to maintain the positive
 **Conclusion**
 
 Let me conclude by wishing all of you a fruitful Conference and I hope in the midst of attending all the worthwhile programmes here, you will find some time to spend and see the sights, experience the sounds, the taste of Singapore food as well, and have an enjoyable time in Singapore. Thank you very much.
+<br><br><br>
 
-
-Source: [<a href="https://www.mnd.gov.sg/" target="_blank">Ministry of National Development</a>](https://www.mnd.gov.sg/)
+*Source: [<a href="https://www.mnd.gov.sg/" target="_blank">Ministry of National Development</a>](https://www.mnd.gov.sg/)*
 
 
