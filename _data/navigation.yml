@@ -13,9 +13,7 @@ links:
     collection: about-climate-change
   - title: Singapore's Climate Action
     collection: singapores-climate-action
-  - title: Public Consultation
-    collection: public-consultation
-  - title: media
+  - title: Media
     url: /media/
     sublinks:
       - title: All
@@ -31,3 +29,5 @@ links:
       - title: Publications
         url: /media/publications/
     resource_room: true
+  - title: Public Consultation
+    collection: public-consultation
