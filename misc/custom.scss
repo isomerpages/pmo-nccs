@@ -684,3 +684,8 @@ hr {
 pre {
   padding: 0 1.3rem !important;
 }
+@media screen and (min-width: 1280px) {
+  .navbar-end {
+      margin-left: -20px !important;
+  }
+}
