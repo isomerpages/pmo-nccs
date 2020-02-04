@@ -686,7 +686,7 @@ pre {
 }
 @media screen and (min-width: 1280px) {
   .navbar-end {
-      margin-left: -20px !important;
+      margin-left: -30px !important;
   }
 }
 .bp-footer .bp-container {
@@ -729,4 +729,10 @@ pre {
   .bp-section {
     padding: 0 1rem !important;
   }
+}
+.navbar-end {
+  margin-left: -20px !important;
+}
+.navbar-start {
+  margin: 0 !important;
 }
