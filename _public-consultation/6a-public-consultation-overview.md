@@ -8,3 +8,6 @@ third_nav_title: Overview
 
 There are no ongoing online public consultations at the moment. 
 
+
+<a href="/images/public-consultation-overview.jpg" target="_blank"> ![Public Consultation](/images/public-consultation-overview.jpg "Public Consultation")</a>
+
