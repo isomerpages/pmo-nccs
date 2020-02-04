@@ -707,4 +707,20 @@ pre {
   h3 {
     font-size: 1rem;
   }
+  .bp-button .icon:last-child:not(:first-child) {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+@media (max-width: 700px) {
+  .bp-dropdown-button {
+    padding: 2.25rem 0.5rem;
+  }
+  p {
+    font-size: .7rem;
+  }
+  .bp-button .icon:last-child:not(:first-child) {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
 }
