@@ -711,6 +711,9 @@ pre {
     margin-left: 0 !important;
     margin-right: 0 !important;
   }
+  .bp-section {
+    padding: 0 1rem !important;
+  }
 }
 @media (max-width: 700px) {
   .bp-dropdown-button {
@@ -722,5 +725,8 @@ pre {
   .bp-button .icon:last-child:not(:first-child) {
     margin-left: 0 !important;
     margin-right: 0 !important;
+  }
+  .bp-section {
+    padding: 0 1rem !important;
   }
 }
