@@ -1,5 +1,5 @@
 ---
-title: '[Closed]: Singapores Climate Change Strategy And Carbon Tax'
+title: '[Closed]: Singapore''s Climate Change Strategy And Carbon Tax'
 permalink: /public-consultation/public-consultation-on-singapore's-climate-change-strategy-and-carbon-tax/
 third_nav_title: Overview
 ---

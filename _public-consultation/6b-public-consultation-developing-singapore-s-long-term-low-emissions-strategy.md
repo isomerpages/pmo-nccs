@@ -1,5 +1,5 @@
 ---
-title: '[Closed]: Developing Singapores Long-Term Low Emissions Strategy'
+title: '[Closed]: Developing Singapore''s Long-Term Low Emissions Strategy'
 permalink: /public-consultation/public-consultation-on-developing-singapore-s-long-term-low-emissions-strategy/
 third_nav_title: Overview
 ---
