@@ -1,5 +1,5 @@
 ---
-title: '[Closed]: Climate Change And Singapore'
+title: '[Closed on 31 Mar 2015] Climate Change And Singapore'
 permalink: /public-consultation/public-consultation-on-climate-change-and-singapore/
 third_nav_title: Overview
 ---
