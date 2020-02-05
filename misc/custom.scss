@@ -712,7 +712,7 @@ pre {
     margin-right: 0 !important;
   }
   .bp-section {
-    padding: 1rem 0.5rem 0 0.5rem !important;
+    padding: 2rem 0.5rem 0 0.5rem !important;
   }
 }
 @media (max-width: 700px) {
@@ -720,17 +720,19 @@ pre {
     padding: 2.25rem 0.2rem;
   }
   p {
-    font-size: .7rem;
+    font-size: 0.7rem;
   }
   .bp-button .icon:last-child:not(:first-child) {
     margin-left: 0 !important;
     margin-right: 0 !important;
   }
   .bp-section {
-    padding: 1rem 0.5rem 0 0.5rem !important;
+    padding: 2rem 0.5rem 0 0.5rem !important;
   }
-  .padding--top--lg {
-    padding-top: 0 !important;
+}
+@media (max-width: 320px) {
+  p {
+    font-size: 0.6rem;
   }
 }
 .navbar-end {
