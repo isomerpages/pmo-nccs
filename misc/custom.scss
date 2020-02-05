@@ -730,9 +730,22 @@ pre {
     padding: 2rem 0.5rem 0 0.5rem !important;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 375px) {
   p {
     font-size: 0.6rem;
+  }
+  .bp-dropdown-button {
+    padding: 2.25rem 0rem;
+  }
+}
+@media (max-width: 360px) {
+  p {
+    font-size: 0.6rem;
+  }
+}
+@media (max-width: 320px) {
+  p {
+    font-size: 0.5rem;
   }
 }
 .navbar-end {
