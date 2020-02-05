@@ -697,7 +697,7 @@ pre {
     font-size: .7rem;
   }
   .bp-dropdown-button {
-    padding: 2.25rem 1rem;
+    padding: 2.25rem 0.2rem;
   }
   h1 {
     font-family: "Lato", sans-serif;
@@ -712,12 +712,12 @@ pre {
     margin-right: 0 !important;
   }
   .bp-section {
-    padding: 0 1rem !important;
+    padding: 1rem 0.5rem 0 0.5rem !important;
   }
 }
 @media (max-width: 700px) {
   .bp-dropdown-button {
-    padding: 2.25rem 0.5rem;
+    padding: 2.25rem 0.2rem;
   }
   p {
     font-size: .7rem;
@@ -727,7 +727,10 @@ pre {
     margin-right: 0 !important;
   }
   .bp-section {
-    padding: 0 1rem !important;
+    padding: 1rem 0.5rem 0 0.5rem !important;
+  }
+  .padding--top--lg {
+    padding-top: 0 !important;
   }
 }
 .navbar-end {
