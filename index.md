@@ -1,35 +1,38 @@
 ---
 layout: homepage
-title: Isomer Site
+title: NCCS
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/nccs-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: <font size=8>Welcome to National Climate Change Secretariat</font>
+        background: /images/hero-banner.jpg
+        button: Read More
+        url: /who-we-are/about-nccs
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
+            - title: Mitigation Efforts
+              description: Reducing our carbon emissions in all sectors
+              url: /singapores-climate-action/mitigation-efforts/
+            - title: Adaptation Efforts
+              description: Adapting to the impact of climate change
+              url: /singapores-climate-action/overview/adaptation-overview/
+            - title: Green Growth Opportunities
+              description: Harnessing green growth opportunities
+              url: /singapores-climate-action/overview/green-growth-opportunities/
+            - title: Singapore And International Efforts
+              description: Forging international collaborations
+              url: /singapores-climate-action/singapore-and-international-efforts/
+    - infopic:
+        image: /images/pps-banner.jpg
+        alt: Members of the Ministry of ABC shaking hands
+        title: CLIMATE CHANGE PUBLIC PERCEPTION SURVEY 2019
+        description: The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a survey from May to July 2019 to gauge public perception and views on climate change.
+        button: View All
+        url: /media/
+    - resources:
+      - title: Media
         subtitle: Subtitle
         description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+        button: View All
 ---

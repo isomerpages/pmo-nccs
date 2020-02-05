@@ -1,16 +1,20 @@
-title: Title
+title: National Climate Change Secretariat
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-nccs.ico
 
 collections:
   who-we-are:
     output: true
   about-climate-change:
     output: true
-  climate-change-and-singapore:
+  singapores-climate-action:
+    output: true
+  public-consultation:
+    output: true
+  faqs:
     output: true
 resources_name: media
-
+  
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
