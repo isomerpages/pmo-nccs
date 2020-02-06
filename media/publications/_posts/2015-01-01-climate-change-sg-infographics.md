@@ -11,7 +11,7 @@ permalink: /media/publications/climate-change-sg-infographics
 
 These easy-to-understand infographics were produced for the Climate Change SG Facebook page in 2015.
 
-**Download:**
+<u>Download:</u>
 
 * [<a href="/docs/default-source/publications/energy-saving-devices-for-your-home.pdf" target="_blank">Energy-saving devices for your home (PDF, 149KB)</a>](/docs/default-source/publications/energy-saving-devices-for-your-home.pdf)
 
