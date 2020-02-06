@@ -1,10 +1,10 @@
 ---
-title: '[Closed on 30 Sept 2019] Developing Singapore''s Long-Term Low Emissions Strategy'
+title: '[Closed on 30 Sept 2019] Public Consultation on Developing Singapore''s Long-Term Low Emissions Strategy'
 permalink: /public-consultation/public-consultation-on-developing-singapore-s-long-term-low-emissions-strategy/
 third_nav_title: Overview
 ---
 
-### [CLOSED ON 30 SEPT 2019]: DEVELOPING SINGAPORE'S LONG-TERM LOW EMISSIONS STRATEGY
+### [CLOSED ON 30 SEPT 2019]: PUBLIC CONSULTATION ON DEVELOPING SINGAPORE'S LONG-TERM LOW EMISSIONS STRATEGY
 
 
 The global climate situation is changing. Extreme weather events are expected to be more intense and frequent, and global mean sea levels are projected to rise.
