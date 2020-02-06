@@ -718,6 +718,12 @@ pre {
     white-space: normal;
     text-align: left;
   }
+  #key-highlights .col {
+    border-left: 1px solid #1f487e;
+  }
+  #key-highlights {
+    padding: 0 !important;
+  }
 }
 @media (max-width: 700px) {
   .bp-dropdown-button {
@@ -737,6 +743,9 @@ pre {
     white-space: normal;
     text-align: left;
   }
+  #key-highlights {
+    padding: 0 !important;
+  }
 }
 @media (max-width: 375px) {
   p {
@@ -749,6 +758,9 @@ pre {
     white-space: normal;
     text-align: left;
   }
+  #key-highlights {
+    padding: 0 !important;
+  }
 }
 @media (max-width: 360px) {
   p {
@@ -758,6 +770,9 @@ pre {
     white-space: normal;
     text-align: left;
   }
+  #key-highlights {
+    padding: 0 !important;
+  }
 }
 @media (max-width: 320px) {
   p {
@@ -766,6 +781,9 @@ pre {
   .bp-button {
     white-space: normal;
     text-align: left;
+  }
+  #key-highlights {
+    padding: 0 !important;
   }
 }
 .navbar-end {
