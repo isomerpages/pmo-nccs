@@ -10,7 +10,7 @@ permalink: /media/publications/singapores-national-communications-and-biennial-u
 
 Singapore ratified the United Nations Framework Convention on Climate Change (UNFCCC) in 1997. Under the UNFCCC, Parties are required to prepare and submit National Communications (NCs) and Biennial Update Reports (BURs) to the Conference Of Parties. The NCs provide information on a Party's greenhouse gas inventory and measures to address climate change, while the BURs provide updates on a Party’s greenhouse gas inventory and mitigation measures.
 
-**Download:**
+<u>Download:</u>
 
 * [<a href="/docs/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf" target="_blank">[2018] Singapore's Fourth National Communication and Third Biennial Update (PDF, 7MB)</a>](/docs/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf)
 
