@@ -690,7 +690,7 @@ pre {
   }
 }
 .bp-footer .bp-container {
-  margin-top: 30px;
+  margin-top: 1rem;
 }
 @media (max-width: 768px) {
   p {
@@ -712,7 +712,7 @@ pre {
     margin-right: 0 !important;
   }
   .bp-section {
-    padding: 2rem 0.5rem 0 0.5rem !important;
+    padding: 2rem 1rem 0 1rem !important;
   }
   .bp-button {
     white-space: normal;
@@ -724,7 +724,16 @@ pre {
   #key-highlights {
     padding: 0 !important;
   }
-}
+  .bp-footer.top-section {
+    margin-top: 0;
+  }
+  .bottom-navigation {
+    background-color: #102442;
+    float: left;
+    width: 100%;
+    display: inline-table;
+  }
+ }
 @media (max-width: 700px) {
   .bp-dropdown-button {
     padding: 2.25rem 0.2rem;
@@ -737,7 +746,7 @@ pre {
     margin-right: 0 !important;
   }
   .bp-section {
-    padding: 2rem 0.5rem 0 0.5rem !important;
+    padding: 2rem 1rem 0 1rem !important;
   }
   .bp-button {
     white-space: normal;
@@ -745,6 +754,15 @@ pre {
   }
   #key-highlights {
     padding: 0 !important;
+  }
+  .bp-footer.top-section {
+    margin-top: 0;
+  }
+  .bottom-navigation {
+    background-color: #102442;
+    float: left;
+    width: 100%;
+    display: inline-table;
   }
 }
 @media (max-width: 375px) {
@@ -761,6 +779,15 @@ pre {
   #key-highlights {
     padding: 0 !important;
   }
+  .bp-footer.top-section {
+    margin-top: 0;
+  }
+  .bottom-navigation {
+    background-color: #102442;
+    float: left;
+    width: 100%;
+    display: inline-table;
+  }
 }
 @media (max-width: 360px) {
   p {
@@ -772,6 +799,15 @@ pre {
   }
   #key-highlights {
     padding: 0 !important;
+  }
+  .bp-footer.top-section {
+    margin-top: 0;
+  }
+  .bottom-navigation {
+    background-color: #102442;
+    float: left;
+    width: 100%;
+    display: inline-table;
   }
 }
 @media (max-width: 320px) {
@@ -785,10 +821,30 @@ pre {
   #key-highlights {
     padding: 0 !important;
   }
+  .bp-footer.top-section {
+    margin-top: 0;
+  }
+  .bottom-navigation {
+    background-color: #102442;
+    float: left;
+    width: 100%;
+    display: inline-table;
+  }
 }
 .navbar-end {
   margin-left: -20px !important;
 }
 .navbar-start {
   margin: 0 !important;
+}
+
+/**Footer**/
+.bp-footer.top-section {
+  margin-top: 82px;
+}
+.bg-newssection {
+  margin-bottom: -6rem;
+}
+.bp-footer .sub-header {
+  margin-top: -2rem;
 }
