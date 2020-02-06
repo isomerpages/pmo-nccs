@@ -28,15 +28,8 @@ sections:
         alt: Members of the Ministry of ABC shaking hands
         title: CLIMATE CHANGE PUBLIC PERCEPTION SURVEY 2019
         description: The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a survey from May to July 2019 to gauge public perception and views on climate change.
-        button: Read More
+        button: View All
         url: media/press-release/climate-change-public-perception-survey-2019
-        - infopic:
-        image: /images/leds-response.jpg
-        alt: Members of the Ministry of ABC shaking hands
-        title: RESPONSE TO FEEDBACK ON SINGAPORE'S LONG-TERM LOW EMISSIONS DEVELOPMENT STRATEGY
-        description: The National Climate Change Secretariat (NCCS) conducted a public consultation on Singapore’s Long-Term Low Emissions Development Strategy (LEDS) from 16 July to 30 September 2019. 
-        button: Read More
-        url: public-consultation/
     - resources:
       - title: Media
         subtitle: Subtitle
