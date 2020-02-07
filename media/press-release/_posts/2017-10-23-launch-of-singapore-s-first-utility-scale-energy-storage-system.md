@@ -18,5 +18,6 @@ Mr Ng Wai Choong, Chief Executive of EMA, said: "Insights from this test-bed wou
 "SP Group is committed to helping Singapore save energy and cost. We will adopt technology and solutions that would deliver savings. This project is a collaboration with EMA to assess how we may adopt storage to save costs." said Mr Wong Kim Yin, Group Chief Executive Officer of SP Group. Page 2 of 3
 
 EMA and SP Group had earlier launched a Request for Proposal to implement a utility-scale ESS test-bed. Details of the two consortiums can be found in the Annex attached.
+<br><br><br>
 
 Source: [<a href="https://www.ema.gov.sg/media_release.aspx?news_sid=20171023Q2Ay3V8ycW9P" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/media_release.aspx?news_sid=20171023Q2Ay3V8ycW9P)

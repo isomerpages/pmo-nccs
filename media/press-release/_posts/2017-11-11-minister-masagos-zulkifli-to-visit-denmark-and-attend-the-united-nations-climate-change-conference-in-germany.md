@@ -12,5 +12,6 @@ permalink: /media/press-release/minister-masagos-zulkifli-to-visit-denmark-and-a
 In Copenhagen, Minister Masagos will meet his Danish counterpart and officials from the Ministry of Immigration and Integration. He will visit facilities to observe Danish solutions and innovations in water management and waste management. Minister Masagos will be accompanied by officials from the Ministry of the Environment and Water Resources, the National Environment Agency and PUB, Singapore’s National Water Agency.
 
 The COP-23 and its associated meetings will focus on the implementation of the Paris Agreement. Minister Masagos will deliver Singapore's National Statement and attend various high-level events. He will be accompanied by officials from agencies in the Inter-Ministerial Committee on Climate Change.
+<br><br><br>
 
 Source: [<a href="https://www.mewr.gov.sg/news/minister-masagos-zulkifli-to-visit-denmark-and-attend-the-united-nations-climate-change-conference-in-germany" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/minister-masagos-zulkifli-to-visit-denmark-and-attend-the-united-nations-climate-change-conference-in-germany)

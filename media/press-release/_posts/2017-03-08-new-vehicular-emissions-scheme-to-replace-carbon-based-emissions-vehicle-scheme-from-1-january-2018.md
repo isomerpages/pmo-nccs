@@ -15,11 +15,10 @@ In addition to the carbon dioxide (CO2) criterion in the existing CEVS, the VES 
 
 The rebates and surcharges for the respective VES bands are shown in Table 1:
 
-<a href="/images/ves-banding-rebates-and-surcharges.jpg" target="_blank"> ![VES Banding Rebates and Surcharges](/images/ves-banding-rebates-and-surcharges.jpg "VES Banding Rebates and Surcharges")</a>
-
+<a href="/images/ves-banding-rebates-and-surcharges.jpg" target="_blank"> ![VES Banding Rebates and Surcharges](/images/ves-banding-rebates-and-surcharges.jpg "VES Banding Rebates and Surcharges")</a>  
 *Table 1: VES Banding Rebates and Surcharges*
 
-The VES rebate<sup>[1]</sup> or surcharge for a car or taxi will be determined by its worst-performing pollutant. This is to encourage buyers to choose models that have lower emissions across all criteria and are cleaner overall, so as to further improve ambient air quality and thereby improve public health<sup>[2]</sup> (refer to [<a href="/docs/default-source/news-documents/annex-a_lta_pr_080317.pdf" target="_blank">Annex A</a>](/docs/default-source/news-documents/annex-a_lta_pr_080317.pdf) for Singapore’s air quality targets).
+The VES rebate<a href="#[1]"><sup>[1]</sup></a> or surcharge for a car or taxi will be determined by its worst-performing pollutant. This is to encourage buyers to choose models that have lower emissions across all criteria and are cleaner overall, so as to further improve ambient air quality and thereby improve public health<a href="#[2]"><sup>[2]</sup></a> (refer to [<a href="/docs/default-source/news-documents/annex-a_lta_pr_080317.pdf" target="_blank">Annex A</a>](/docs/default-source/news-documents/annex-a_lta_pr_080317.pdf) for Singapore’s air quality targets).
 
 Similar to the existing CEVS, the rebate and surcharge for taxis under the VES will be 50 per cent higher to better encourage taxi companies to adopt lower emission models for their fleets, as taxis generally clock higher mileage than cars.
 
@@ -37,9 +36,9 @@ To help potential vehicle buyers make informed decisions, fuel economy labels wi
 
 ___
 
-[1] The Preferential Additional Registration Fee (PARF) is calculated based on the ARF paid after accounting for the VES rebate. The VES rebate is subject to a minimum ARF payable of $5,000.
+<a id="[1]" name="[1]">[1] </a> The Preferential Additional Registration Fee (PARF) is calculated based on the ARF paid after accounting for the VES rebate. The VES rebate is subject to a minimum ARF payable of $5,000.
 
-[2] Long-term exposure to PM is associated with decreased lung function, development of chronic bronchitis, stroke and premature death. In addition to increasing the risk of respiratory infection and impairment of lung functions in asthmatics, HC and NOx are also precursors to ozone; excessive ozone can also impair respiratory functions. CO reduces the amount of oxygen that can be transported in the blood stream to critical organs like the heart and brain. Singapore currently does not meet its 2020 air quality targets for PM10, PM2.5 and ozone.
+<a id="[2]" name="[2]">[2]</a> Long-term exposure to PM is associated with decreased lung function, development of chronic bronchitis, stroke and premature death. In addition to increasing the risk of respiratory infection and impairment of lung functions in asthmatics, HC and NOx are also precursors to ozone; excessive ozone can also impair respiratory functions. CO reduces the amount of oxygen that can be transported in the blood stream to critical organs like the heart and brain. Singapore currently does not meet its 2020 air quality targets for PM10, PM2.5 and ozone.
 
 Source: [<a href="https://www.lta.gov.sg/apps/news/page.aspx?c=2&id=08685840-d664-4713-9ccb-96dcd8936d08" target="_blank">Land Transport Authority</a>](https://www.lta.gov.sg/apps/news/page.aspx?c=2&id=08685840-d664-4713-9ccb-96dcd8936d08)
 

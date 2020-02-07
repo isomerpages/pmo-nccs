@@ -13,16 +13,18 @@ This long term strategy will build on Singapore’s on-going effort to achieve i
 
 As a small, low-lying island city-state, Singapore is especially vulnerable to the effects of climate change. Rising sea levels, changes to our rainfall patterns, and increasing temperatures will affect our health, water supply, biodiversity and greenery, and coastline, among other things. It is a global challenge, and Singapore needs to do our part by further reducing our greenhouse gas emissions and embarking on a transition to a low-carbon future.
 
-### Consultation Details 
+**Consultation Details**  
 
-i) Improving energy efficiency across all sectors
-ii) Encouraging responsible climate action through carbon pricing
-iii) Reducing emissions from power generation, increasing alternative energy sources
-iv) Deploying emerging low-carbon technologies
-v) Encouraging collective climate action
+The public consultation seeks views on measures and actions that can be taken by the Government, businesses, households, and individuals towards becoming a low carbon global city-state. The key areas where views are sought are as follows:
+
+i) Improving energy efficiency across all sectors  
+ii) Encouraging responsible climate action through carbon pricing  
+iii) Reducing emissions from power generation, increasing alternative energy sources  
+iv) Deploying emerging low-carbon technologies  
+v) Encouraging collective climate action  
 vi) Tapping on green growth opportunities
 
-The online public consultation will take place between 16 July 2019 to 30 August 2019. Members of the public are invited to view the consultation papers on www.reach.gov.sg or www.nccs.gov.sg and submit their views or feedback to any of the questions at nccs_contact@pmo.gov.sg.
+The online public consultation will take place between 16 July 2019 to 30 August 2019. Members of the public are invited to view the consultation papers on [<a href="https://www.reach.gov.sg/" target="_blank">www.reach.gov.sg</a>](https://www.reach.gov.sg/) or [<a href="https://www.nccs.gov.sg/" target="_blank">www.nccs.gov.sg</a>](https://www.nccs.gov.sg/) and submit their views or feedback to any of the questions at nccs_contact@pmo.gov.sg.
 
 A summary of the feedback received will be released at the end of the consultation exercise on REACH and the NCCS website. The Government will take the feedback into consideration in determining the key strategies to enable Singapore’s long-term low emissions strategy.
 
