@@ -3,7 +3,7 @@ title: Contact Info
 permalink: /pages/contact-us/contact-info/
 ---
 
-### CONTACT
+### CONTACT US
 
 **National Climate Change Secretariat, Strategy Group, Prime Minister's Office**
 

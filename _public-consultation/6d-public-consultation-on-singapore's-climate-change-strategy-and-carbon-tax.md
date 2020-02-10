@@ -1,10 +1,10 @@
 ---
-title: '[Closed]: Singapore''s Climate Change Strategy And Carbon Tax'
+title: '[Closed on 20 Apr 2017] Public Consultation on Singapore''s Climate Change Strategy And Carbon Tax'
 permalink: /public-consultation/public-consultation-on-singapore's-climate-change-strategy-and-carbon-tax/
 third_nav_title: Overview
 ---
 
-### [CLOSED ON 20 APR 2017] SINGAPORE'S CLIMATE STRATEGY AND CARBON TAX
+### [CLOSED ON 20 APR 2017] PUBLIC CONSULTATION ON SINGAPORE'S CLIMATE STRATEGY AND CARBON TAX
 
 **Response to comments received from the Singapore's Climate Change Strategy And Carbon Tax**
 

@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  'Education Materials : "Let’s join hands to fight climate change” Posters"'
+title:  'Education Materials : "Let’s join hands to fight climate change” Posters'
 permalink: /media/publications/lets-join-hands-to-flight-climate-change-posters
 ---
 
 
-### "LETS'S JOIN HANDS TO FLIGHT CLIMATE CHANGE" POSTERS
+### "LET'S JOIN HANDS TO FLIGHT CLIMATE CHANGE" POSTERS
 
 ![Let’s join hands to fight climate change” Posters](/images/lets-join-hands-to-fight-climate-change-posters.jpg "Let’s join hands to fight climate change” Posters"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 
 Posters to raise awareness on the simple actions that individuals can take to reduce Singapore’s greenhouse gas emissions.
 
-**Download:**
+<u>Download:</u>
 
 * [<a href="/docs/default-source/publications/lets-join-hands-to-fight-climate-change-households.pdf" target="_blank">Households (PDF, 859KB)</a>](/docs/default-source/publications/lets-join-hands-to-fight-climate-change-households.pdf)
 

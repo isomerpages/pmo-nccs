@@ -1,10 +1,10 @@
 ---
-title: '[Closed]: Climate Change And Singapore'
+title: '[Closed on 31 Mar 2015] Public Consultation on Climate Change And Singapore'
 permalink: /public-consultation/public-consultation-on-climate-change-and-singapore/
 third_nav_title: Overview
 ---
 
-### [CLOSED ON 31 MAR 2015] CLIMATE CHANGE AND SINGAPORE
+### [CLOSED ON 31 MAR 2015] PUBLIC CONSULTATION ON CLIMATE CHANGE AND SINGAPORE
 
 As a party to the United Nations Framework Convention on Climate Change, Singapore is participating in ongoing negotiations towards a new global agreement on climate change by end 2015. Singapore is a small, low-lying island state that will benefit from global efforts to reduce emissions, and we will do our part.
 

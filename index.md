@@ -6,7 +6,7 @@ image: /images/nccs-logo.svg
 permalink: /
 sections:
     - hero:
-        title: <font size=8>Welcome to National Climate Change Secretariat</font>
+        title: <font size=8>National Climate Change Secretariat</font>
         background: /images/hero-banner.jpg
         button: Read More
         url: /who-we-are/about-nccs
@@ -24,12 +24,19 @@ sections:
               description: Forging international collaborations
               url: /singapores-climate-action/singapore-and-international-efforts/
     - infopic:
+        image: /images/leds-response.jpg
+        alt: Members of the Ministry of ABC shaking hands
+        title: <font size=6.5>RESPONSE TO FEEDBACK ON SINGAPORE’S LONG-TERM LOW EMISSIONS STRATEGY</font>
+        description: The National Climate Change Secretariat (NCCS) conducted a public consultation on Singapore’s Long-Term Low Emissions Development Strategy (LEDS) from 16 July to 30 September 2019. 
+        button: Read More
+        url: /public-consultation/response-to-feedback-on-singapore's-long-term-low-emissions-development-strategy
+    - infopic:
+        title: <font size=6.5>CLIMATE CHANGE PUBLIC PERCEPTION SURVEY 2019</font>
+        description: The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a survey from May to July 2019 to gauge public perception and views on climate change.
+        button: Read More
+        url: /media/press-release/climate-change-public-perception-survey-2019
         image: /images/pps-banner.jpg
         alt: Members of the Ministry of ABC shaking hands
-        title: CLIMATE CHANGE PUBLIC PERCEPTION SURVEY 2019
-        description: The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a survey from May to July 2019 to gauge public perception and views on climate change.
-        button: View All
-        url: /media/
     - resources:
       - title: Media
         subtitle: Subtitle

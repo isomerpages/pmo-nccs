@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  'Education Materials : "Let’s build a climate-resilient Singapore” Posters"'
+title:  'Education Materials : "Let’s build a climate-resilient Singapore” Posters'
 permalink: /media/publications/lets-build-a-climate-resilient-singapore-posters
 ---
 
 
-### "LET'S BUILD A CLIMATE-RESILIENT SINGAPORE" POSTERS"
+### "LET'S BUILD A CLIMATE-RESILIENT SINGAPORE" POSTERS
 
 ![Let’s build a climate-resilient Singapore” Posters](/images/lets-build-a-climate-resilient-singapore-posters.jpg "Let’s build a climate-resilient Singapore” Posters"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 
 Posters to raise awareness on the potential impact of climate change on Singapore and how individuals and developers can play a part in building climate resilience.
 
-**Download:**
+<u>Download:</u>
 
 * [<a href="/docs/default-source/publications/lets-build-a-climate-resilient-singapore-intense-rainfall.pdf" target="_blank">Intense Rainfall (PDF, 425KB)</a>](/docs/default-source//publications/lets-build-a-climate-resilient-singapore-intense-rainfall.pdf)
 
