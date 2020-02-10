@@ -694,7 +694,8 @@ pre {
 }
 @media (max-width: 768px) {
   p {
-    font-size: .8rem;
+    font-size: 0.9rem;
+    padding: 0 10px;
   }
   .bp-dropdown-button {
     padding: 2.25rem 0.2rem;
@@ -712,7 +713,7 @@ pre {
     margin-right: 0 !important;
   }
   .bp-section {
-    padding: 2rem 1rem 0 1rem !important;
+    padding: 2rem 0 0 0 !important;
   }
   .bp-button {
     white-space: normal;
@@ -736,20 +737,39 @@ pre {
   .bp-masthead {
     margin-top: -30px;
   }
+  .content {
+    padding: 0 10px;
+  }
+  .bp-button.is-fullwidth {
+    padding: 30px 10px 40px 10px;
+  }
+  .has-text-white {
+    padding: 0 10px;
+  }
+  .bp-breadcrumb {
+    padding: 0 10px;
+  }
+  .has-text-secondary {
+    padding: 0 10px 0 10px;
+  }
+  .bp-sec-button span {
+    padding: 0 10px 0 10px;
+  }
  }
 @media (max-width: 700px) {
   .bp-dropdown-button {
     padding: 2.25rem 0.2rem;
   }
   p {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
+    padding: 0 10px;
   }
   .bp-button .icon:last-child:not(:first-child) {
     margin-left: 0 !important;
     margin-right: 0 !important;
   }
   .bp-section {
-    padding: 2rem 1rem 0 1rem !important;
+    padding: 2rem 0 0 0 !important;
   }
   .bp-button {
     white-space: normal;
@@ -770,10 +790,28 @@ pre {
   .bp-masthead {
     margin-top: -30px;
   }
+  .content {
+    padding: 0 10px;
+  }
+  .bp-button.is-fullwidth {
+    padding: 30px 10px 40px 10px;
+  }
+  .has-text-white {
+    padding: 0 10px;
+  }
+  .bp-breadcrumb {
+    padding: 0 10px;
+  }
+  .has-text-secondary {
+    padding: 0 10px 0 10px;
+  }
+  .bp-sec-button span {
+    padding: 0 10px 0 10px;
+  }
 }
 @media (max-width: 375px) {
   p {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
   }
   .bp-dropdown-button {
     padding: 2.25rem 0rem;
@@ -797,7 +835,7 @@ pre {
 }
 @media (max-width: 360px) {
   p {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
   }
   .bp-button {
     white-space: normal;
@@ -818,7 +856,7 @@ pre {
 }
 @media (max-width: 320px) {
   p {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
   }
   .bp-button {
     white-space: normal;
@@ -859,4 +897,7 @@ u {
 }
 code {
   background-color: #ffffff !important;
+}
+.content pre {
+  overflow-x: hidden; 
 }
