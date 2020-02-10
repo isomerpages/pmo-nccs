@@ -733,6 +733,9 @@ pre {
     width: 100%;
     display: inline-table;
   }
+  .bp-masthead {
+    margin-top: -30px;
+  }
  }
 @media (max-width: 700px) {
   .bp-dropdown-button {
@@ -763,6 +766,9 @@ pre {
     float: left;
     width: 100%;
     display: inline-table;
+  }
+  .bp-masthead {
+    margin-top: -30px;
   }
 }
 @media (max-width: 375px) {
@@ -843,7 +849,7 @@ pre {
   margin-top: 82px;
 }
 .bg-newssection {
-  margin-bottom: -6rem;
+  margin-bottom: 0;
 }
 .bp-footer .sub-header {
   margin-top: -2rem;
