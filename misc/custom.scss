@@ -546,7 +546,7 @@ code {
 .content code {
   font-weight: $font-weight-normal;
   color: $font-color;
-  font-size: $p-size;
+  font-size: 1rem;
 }
 .highlight {
   background-color: $background-color-white;
@@ -856,4 +856,7 @@ pre {
 }
 u {
   color: #222222;
+}
+code {
+  background-color: #ffffff !important;
 }
