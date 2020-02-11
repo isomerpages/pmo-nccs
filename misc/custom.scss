@@ -627,6 +627,9 @@ em {
 }
 
 /* Footer */
+footer.top-section {
+  padding-top: 110px;
+}
 .bp-footer {
  background-color: $secondary !important;
 }
@@ -721,8 +724,8 @@ pre {
   #key-highlights {
     padding: 0 !important;
   }
-  .bp-footer.top-section {
-    margin-top: 0;
+  footer.top-section {
+    padding-top: 30px;
   }
   .bottom-navigation {
     background-color: #102442;
@@ -731,8 +734,8 @@ pre {
     display: inline-table;
   }
   .bp-masthead {
-    margin-top: -30px;
-    margin-bottom: -30px;  
+    margin-top: -45px;
+    margin-bottom: -45px;  
   }
   .content {
     padding: 0 10px;
@@ -748,6 +751,12 @@ pre {
   }
   .bp-section {
     padding: 3rem 1rem;
+  }
+  footer .has-text-white {
+    padding: 0;
+  }
+  .bp-footer .bp-container {
+    margin-top: 3rem;
   }
 }
 @media (max-width: 700px) {
@@ -768,7 +777,7 @@ pre {
   #key-highlights {
     padding: 0 !important;
   }
-  .bp-footer.top-section {
+  .top-section {
     margin-top: 0;
   }
   .bottom-navigation {
@@ -778,8 +787,8 @@ pre {
     display: inline-table;
   }
   .bp-masthead {
-    margin-top: -30px;
-    margin-bottom: -30px;
+    margin-top: -45px;
+    margin-bottom: -45px;
   }
   .content {
     padding: 0 10px;
@@ -796,6 +805,12 @@ pre {
   .bp-section {
     padding: 3rem 1rem;
   }
+  footer .has-text-white {
+    padding: 0;
+  }
+  .bp-footer .bp-container {
+    margin-top: 3rem;
+  }
 }
 @media (max-width: 375px) {
   p {
@@ -811,8 +826,8 @@ pre {
   #key-highlights {
     padding: 0 !important;
   }
-  .bp-footer.top-section {
-    margin-top: 0;
+  footer.top-section {
+    padding-top: 30px;
   }
   .bottom-navigation {
     background-color: #102442;
@@ -832,8 +847,8 @@ pre {
   #key-highlights {
     padding: 0 !important;
   }
-  .bp-footer.top-section {
-    margin-top: 0;
+  footer.top-section {
+    padding-top: 30px;
   }
   .bottom-navigation {
     background-color: #102442;
@@ -853,8 +868,8 @@ pre {
   #key-highlights {
     padding: 0 !important;
   }
-  .bp-footer.top-section {
-    margin-top: 0;
+  footer.top-section {
+    padding-top: 30px;
   }
   .bottom-navigation {
     background-color: #102442;
@@ -871,9 +886,6 @@ pre {
 }
 
 /**Footer**/
-.bp-footer.top-section {
-  margin-top: 82px;
-}
 .bg-newssection {
   margin-bottom: 0;
 }
