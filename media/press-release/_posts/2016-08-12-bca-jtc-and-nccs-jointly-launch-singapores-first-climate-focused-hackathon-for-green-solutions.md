@@ -29,7 +29,7 @@ Funding and test-bed opportunities are available for teams with promising soluti
 
 **Funding and test-bedding opportunities**
 
-a) [<a href="https://www.bca.gov.sg/ResearchInnovation/2stage_innovationgrant.html" target="_blank">BCA 2-stage Innovation Grant (i-Grant)</a>](https://www.bca.gov.sg/ResearchInnovation/2stage_innovationgrant.html)
+a) BCA 2-stage Innovation Grant (i-Grant)
 
 **Summary**
 
