@@ -60,4 +60,3 @@ I hope that you have had a productive conference and a pleasant stay in Singapor
 Thank you very much.
 <br><br>
 
-*Source*: [<a href="https://www.nea.gov.sg/corporate-functions/newsroom/speeches/year/2010/month/10/speech-by-mr-andrew-tan-ceo-national-environment-agency-at-the-closing-session-of-carbon-forum-asia-2010-thursday-28-october-2010-5-45pm-raffles-city-convention-centre" target="_blank">National Environment Agency </a>](https://www.nea.gov.sg/corporate-functions/newsroom/speeches/year/2010/month/10/speech-by-mr-andrew-tan-ceo-national-environment-agency-at-the-closing-session-of-carbon-forum-asia-2010-thursday-28-october-2010-5-45pm-raffles-city-convention-centre)
