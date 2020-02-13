@@ -81,5 +81,3 @@ Good Morning. A very warm welcome to everyone here at The Green Data Centre Foru
 
 7 Gartner Says Energy-Related Costs Account for Approximately 12 Percent of Overall Data Centre Expenditures [<a href="http://www.gartner.com/it/page.jsp?id=1442113" target="_blank">http://www.gartner.com/it/page.jsp?id=1442113</a>](http://www.gartner.com/it/page.jsp?id=1442113)
 <br><br>
-
-*Source*: [<a href="https://www.imda.gov.sg/about/newsroom/archived/ida/speeches/2011/speech-by-ida-ceo-at-the-green-data-centre-forum" target="_blank">Infocomm Development Authority of Singapore</a>](https://www.imda.gov.sg/about/newsroom/archived/ida/speeches/2011/speech-by-ida-ceo-at-the-green-data-centre-forum)
