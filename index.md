@@ -7,7 +7,7 @@ permalink: /
 sections:
     - hero:
         title: <font size=8>National Climate Change Secretariat</font>
-        background: /images/hero-banner.jpg
+        background: /images/solar-panel.jpg
         button: Read More
         url: /who-we-are/about-nccs
         key_highlights:
