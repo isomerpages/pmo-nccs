@@ -74,4 +74,4 @@ ___
 
 [2] The microsite can be found at [<a href="https://www.e2singapore.gov.sg/" target="_blank">www.e2singapore.gov.sg</a>](https://www.e2singapore.gov.sg/)
 
-[3] The technology roadmaps can be found at [<a href="/media/publications/roadmap" target="_blank">technology-roadmaps</a>](/media/publications/roadmap)
+[3] The technology roadmaps can be found at [<a href="/media/publications/technology-roadmap" target="_blank">technology-roadmaps</a>](/media/publications/technology-roadmap)
