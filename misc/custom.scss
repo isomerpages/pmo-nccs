@@ -165,33 +165,33 @@ body {
 	color: $secondary !important;
 }
 .bg-media-color-1 {
-  background-color: $primary  !important;
+  background-color: #43565A  !important;
   &:hover {
-    background-color: $secondary !important;
+    background-color: #37474a !important;
   }
 }
 .bg-media-color-2 {
-  background-color: $primary  !important;
+  background-color: #122347  !important;
   &:hover {
-    background-color: $secondary !important;
+    background-color: #152a55 !important;
   }
 }
 .bg-media-color-3 {
-  background-color: $primary  !important;
+  background-color: #486CA3  !important;
   &:hover {
-    background-color: $secondary !important;
+    background-color: #3e5e8f !important;
   }
 }
 .bg-media-color-4 {
-  background-color: $primary  !important;
+  background-color: #5D7877  !important;
   &:hover {
-    background-color: $secondary !important;
+    background-color: #4e6564 !important;
   }
 }
 .bg-media-color-5 {
-  background-color: $primary  !important;
+  background-color: #17497F  !important;
   &:hover {
-    background-color: $secondary !important;
+    background-color: #144070 !important;
   }
 }
 
@@ -577,7 +577,7 @@ code {
 }
 .content strong {
   color: #333333;
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 .has-text-white {
   color: white !important;
@@ -910,6 +910,8 @@ pre {
 }
 .bp-footer .sub-header {
   margin-top: -2rem;
+  font-family: inherit;
+  font-size: 1.375rem;
 }
 u {
   color: #222222;
