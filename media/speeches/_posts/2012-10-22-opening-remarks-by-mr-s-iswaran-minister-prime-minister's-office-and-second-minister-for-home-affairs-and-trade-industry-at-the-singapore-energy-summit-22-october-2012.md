@@ -52,4 +52,3 @@ Ladies and Gentlemen
 18.The Singapore Energy Summit touches on some of these strategies. You will hear from distinguished speakers who are leaders in their respective fields. A range of topics will be discussed, including options for a future energy mix, energy financing, climate change, and the energy-water-food nexus. These are important issues facing us today, and I trust you will have an engaging time discussing them. Thank you once again for joining us at the Singapore International Energy Week, and I wish you a productive week ahead.
 <br><br><br>
 
-Source: [<a href="http://www.mti.gov.sg/NewsRoom/Pages/Second-Minister-S-Iswaran-at-the-Singapore-Energy-Summit-2012.aspx" target="_blank">Ministry of Trade and Industry Singapore</a>](http://www.mti.gov.sg/NewsRoom/Pages/Second-Minister-S-Iswaran-at-the-Singapore-Energy-Summit-2012.aspx)

@@ -69,5 +69,3 @@ b.&nbsp;Last month, SLNG commenced construction for the secondary berth of its L
 <br><br><br>
 
 
-
-Source: [<a href="https://www.iesingapore.gov.sg/Media-Centre/Speeches/2011/9/Speech-by-Mr-Teo-Eng-Cheong-Chief-Executive-Officer-International-Enterprise-IE-Singapore" target="_blank">International Enterprise Singapore</a>](https://www.iesingapore.gov.sg/Media-Centre/Speeches/2011/9/Speech-by-Mr-Teo-Eng-Cheong-Chief-Executive-Officer-International-Enterprise-IE-Singapore)
