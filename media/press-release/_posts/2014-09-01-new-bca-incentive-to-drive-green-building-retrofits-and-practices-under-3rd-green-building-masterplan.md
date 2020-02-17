@@ -61,4 +61,4 @@ The report provides key findings and statistics for building owners to benchmark
 
 "As the population in Singapore increases, more focused policies and measures are needed to foster greater awareness amongst tenants and occupants. By proactively changing their energy consumption behaviour and practices, tenants and occupants can be part of the solution rather than the problem. Through the initiatives launched today under the 3rd Green Building Masterplan we hope that more owners of existing buildings and tenants will recognise the important role they play in helping to shape a more sustainable and future-ready built environment for Singapore," said Dr Keung.
 
-[<a href="https://www.bca.gov.sg/Newsroom/pr01092014_3GBM.html" target="_blank">Building & Construction Authority</a>](https://www.bca.gov.sg/Newsroom/pr01092014_3GBM.html)
+

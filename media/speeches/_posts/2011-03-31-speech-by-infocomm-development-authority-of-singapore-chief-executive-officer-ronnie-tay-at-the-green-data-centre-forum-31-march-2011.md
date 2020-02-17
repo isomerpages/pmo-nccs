@@ -23,7 +23,7 @@ Good Morning. A very warm welcome to everyone here at The Green Data Centre Foru
 **Data Centre Energy Efficiency**  
 4.&nbsp;Data centres are contributors to the carbon footprint given their heavy usage of energy. According to OECD5, data centres and network equipment account for almost 32 per cent of the entire ICT sector's energy and carbon footprint. To put it in another perspective, the top 10 largest data centres in Singapore consumed energy equivalent to 130,000 households6, which is more than 10 per cent of all households in Singapore.
 
-5.&nbsp;The rising cost of energy is a key challenge for many data centre operators as their energy bill makes up a significant portion of their operating budget. Gartner has estimated that energy-related costs account for approximately 12 per cent of overall data centre expenditure7 and is the fastest rising cost item in the data centre.
+5.&nbsp;The rising cost of energy is a key challenge for many data centre operators as their energy bill makes up a significant portion of their operating budget. Gartner has estimated that energy-related costs account for approximately 12 per cent of overall data centre expenditure and is the fastest rising cost item in the data centre.
 
 6.&nbsp;Today, much of the energy going into data centres is lost to cooling systems, power supplies and inefficient servers. The industry norm is that IT equipment utilises only 30 per cent of the total energy consumed by a data centre. The remaining 70 per cent is taken up by cooling, electrical and other loads. This usage scenario presents significant opportunities for data centres to reduce their energy consumption and operating costs, through implementing green practices in both the IT and non-IT domains.
 
@@ -79,7 +79,4 @@ Good Morning. A very warm welcome to everyone here at The Green Data Centre Foru
 
 6 Source: ITSC Working Group on Green Data Centre Standards
 
-7 Gartner Says Energy-Related Costs Account for Approximately 12 Percent of Overall Data Centre Expenditures [<a href="http://www.gartner.com/it/page.jsp?id=1442113" target="_blank">http://www.gartner.com/it/page.jsp?id=1442113</a>](http://www.gartner.com/it/page.jsp?id=1442113)
 <br><br>
-
-*Source*: [<a href="https://www.imda.gov.sg/about/newsroom/archived/ida/speeches/2011/speech-by-ida-ceo-at-the-green-data-centre-forum" target="_blank">Infocomm Development Authority of Singapore</a>](https://www.imda.gov.sg/about/newsroom/archived/ida/speeches/2011/speech-by-ida-ceo-at-the-green-data-centre-forum)

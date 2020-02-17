@@ -7,14 +7,9 @@ permalink: /pages/contact-us/contact-info/
 # National Climate Change Secretariat
 ### HQ Address
 
-**National Climate Change Secretariat,**  
-**Strategy Group, Prime Minister's Office**    
-100 High Street,  
-The Treasury,  
-Singapore 179434
+**National Climate Change Secretariat, Strategy Group, Prime Minister's Office**
 
-### Fax  
-65 - 6259 1907
+100 High Street, The Treasury, Singapore 179434
 
 ### Email  
 [<a href="mailto:NCCS_Contact@pmo.gov.sg" target="_blank">NCCS_Contact@pmo.gov.sg</a>](mailto:NCCS_Contact@pmo.gov.sg)

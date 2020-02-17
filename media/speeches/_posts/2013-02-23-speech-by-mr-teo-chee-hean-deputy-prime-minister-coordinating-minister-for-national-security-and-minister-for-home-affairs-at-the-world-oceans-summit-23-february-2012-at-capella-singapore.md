@@ -121,12 +121,12 @@ One of the issues is over areas beyond national jurisdiction (ABNJ), which repre
 
 <sup>10</sup>The Co-operative Mechanism was a landmark initiative as it realised, for the first time, Article 43 of UNCLOS which states that "user states and states bordering a strait should by agreement cooperate: (a) in the establishment and maintenance in a strait of necessary navigational and safety aids or other improvements in aid of international navigation; and (b) for the prevention, reduction and control of pollution from ships".
 
-<sup>11</sup>United Nations Environment Programme/GRID-Arendal, “Climate in Peril: Projected climate changes and its impacts” ([<a href="http://www.grida.no/publications/climate-in-peril/page/3545.aspx" target="_blank">http://www.grida.no/publications/climate-in-peril/page/3545.aspx</a>](http://www.grida.no/publications/climate-in-peril/page/3545.aspx))
+<sup>11</sup>United Nations Environment Programme/GRID-Arendal, “Climate in Peril: Projected climate changes and its impacts” 
 
 <sup>12</sup>Drainage Code Revised to Enhance Singapore’s Flood Protection, 30 November 2011 ([<a href="https://www.pub.gov.sg/Documents/COP_Final.pdf" target="_blank">https://www.pub.gov.sg/Documents/COP_Final.pdf</a>](https://www.pub.gov.sg/Documents/COP_Final.pdf))
 
-<sup>13</sup>Katharine Jose, “Before the flood: New York City is just beginning to gird for the ‘100- year storm’, if it is not already too late”, February 3, 2012. ([<a href="http://www.capitalnewyork.com/article/politics/2012/02/5190075/flood-new-york-city-just-beginning-gird-100-year-storm-if-its-not-a?page=all" target="_blank">http://www.capitalnewyork.com/article/politics/2012/02/5190075/flood-new-york-city-just-beginning-gird-100-year-storm-if-its-not-a?page=all</a>](http://www.capitalnewyork.com/article/politics/2012/02/5190075/flood-new-york-city-just-beginning-gird-100-year-storm-if-its-not-a?page=all))
+<sup>13</sup>Katharine Jose, “Before the flood: New York City is just beginning to gird for the ‘100- year storm’, if it is not already too late”, February 3, 2012. 
 
 <sup>14</sup>The UN Climate Change Conference in Durban was a series of meetings of the 17th Conference of the Parties to the UNFCCC, and the 7th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (COP-17/CMP-7)
 
-<sup>15</sup>Deputy Secretary-General Asha-Rose Migiro’s statement to the Ad Hoc Open-ended Informal Working Group to study issues relating to the conservation and sustainable use of marine biological diversity beyond areas of national jurisdiction in New York, 1 February 2010. ([<a href="http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm" target="_blank">http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm</a>](http://www.un.org/News/Press/docs/2010/dsgsm485.doc.htm))
+<sup>15</sup>Deputy Secretary-General Asha-Rose Migiro’s statement to the Ad Hoc Open-ended Informal Working Group to study issues relating to the conservation and sustainable use of marine biological diversity beyond areas of national jurisdiction in New York, 1 February 2010. 
