@@ -12,11 +12,10 @@ To support efforts to develop Singapore’s plan to reduce carbon emissions and 
 
 The online public consultation closed on 31 Mar 2015. Topics included energy efficient homes, carbon efficiency in the transport sector, energy efficiency and renewable energy opportunities for businesses, carbon efficiency in the power, waste and water sectors, and economic and green growth opportunities. In addition, a series of closed-door stakeholder dialogues was conducted.
 
-<a href="/images/stakeholder-dialogues.jpg" target="_blank"> ![Stakeholder dialogues](/images/stakeholder-dialogues.jpg "Stakeholder dialogues"){: style="width:48%; float:right; padding:8px"}</a>
-<a href="/images/stakeholder-dialogues1.jpg" target="_blank"> ![Stakeholder dialogues](/images/stakeholder-dialogues1.jpg "Stakeholder dialogues"){: style="width:48%; float:right; padding:8px"}</a>
+<a href="/images/stakeholder-dialogues.jpg" target="_blank"> ![Stakeholder dialogues](/images/stakeholder-dialogues.jpg "Stakeholder dialogues"){: style="width:50%; float:right; padding:2%;"}</a>
+<a href="/images/stakeholder-dialogues1.jpg" target="_blank"> ![Stakeholder dialogues](/images/stakeholder-dialogues1.jpg "Stakeholder dialogues"){: style="width:50%; float:right; padding:2%;"}</a>  
 
-
-**Stakeholder dialogues**{: style="margin:41%;"}
+**Stakeholder dialogues**{: style="float: left; width: 100%; padding: 5px 0 10px 0; text-align: center;"}
 
 Many responses and suggestions were received online, as well as at the dialogues. A summary overview of the feedback received is available for download at the bottom of this page. Responses to the written suggestions are also available.
 

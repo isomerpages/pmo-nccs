@@ -585,7 +585,7 @@ code {
   text-transform: capitalize;
 }
 li {
-  font-size: 1rem !important;
+  font-size: 1rem;
 }
 em {
   font-size: 1rem;
@@ -651,6 +651,13 @@ footer.top-section {
   flex: none;
   width: 100%;
 }
+.print-content h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#get-in-touch-with {
+  color: #484848;
+}
 
 /* link */
 a[target="_blank"]:after {
@@ -697,10 +704,25 @@ pre {
 }
 @media (max-width: 768px) {
   p {
-    font-size: 0.9rem;
+    font-size: 1.25rem;
+    line-height: 2rem;
+  }
+  .content p {
+    line-height: 2.2rem;
+  }
+  .bp-dropdown p {
+    font-size: 1rem;
+    line-height: 1.6rem;
   }
   .bp-dropdown-button {
     padding: 2.25rem 0.2rem;
+  }
+  li {
+    font-size: 1.25rem;
+  }
+  .content strong {
+    color: #333333;
+    font-size: 1.25rem;
   }
   h1 {
     font-family: "Lato", sans-serif;
@@ -709,6 +731,10 @@ pre {
   }
   h3 {
     font-size: 1rem;
+  }
+  .content h3 {
+    font-size: 1.2rem;
+    line-height: 1.875rem;
   }
   .bp-button .icon:last-child:not(:first-child) {
     margin-left: 0 !important;
@@ -741,13 +767,7 @@ pre {
     padding: 0 10px;
   }
   .bp-button.is-fullwidth {
-    padding: 3rem 1rem;
-  }
-  .has-text-white {
-    padding: 0 10px;
-  }
-  .bp-breadcrumb {
-    padding: 0 10px;
+    padding: 3rem 1.4rem;
   }
   .bp-section {
     padding: 3rem 1rem;
@@ -758,13 +778,18 @@ pre {
   .bp-footer .bp-container {
     margin-top: 3rem;
   }
+  .print-content h1 {
+    font-size: 2rem;
+    line-height: 2.2rem;
+  }
+  .content pre {
+    font-size: 1.25rem;
+    line-height: 2.2rem;
+  }
 }
 @media (max-width: 700px) {
   .bp-dropdown-button {
     padding: 2.25rem 0.2rem;
-  }
-  p {
-    font-size: 0.9rem;
   }
   .bp-button .icon:last-child:not(:first-child) {
     margin-left: 0 !important;
@@ -794,13 +819,7 @@ pre {
     padding: 0 10px;
   }
   .bp-button.is-fullwidth {
-    padding: 3rem 1rem;
-  }
-  .has-text-white {
-    padding: 0 10px;
-  }
-  .bp-breadcrumb {
-    padding: 0 10px;
+    padding: 3rem 1.4rem;
   }
   .bp-section {
     padding: 3rem 1rem;
@@ -813,9 +832,6 @@ pre {
   }
 }
 @media (max-width: 375px) {
-  p {
-    font-size: 0.9rem;
-  }
   .bp-dropdown-button {
     padding: 2.25rem 0rem;
   }
@@ -840,9 +856,6 @@ pre {
   }
 }
 @media (max-width: 360px) {
-  p {
-    font-size: 0.9rem;
-  }
   .bp-button {
     white-space: normal;
     text-align: left;
@@ -869,9 +882,6 @@ pre {
   }
 }
 @media (max-width: 320px) {
-  p {
-    font-size: 0.9rem;
-  }
   .bp-button {
     white-space: normal;
     text-align: left;
@@ -895,6 +905,9 @@ pre {
   }
   .pagination span.sgds-icon {
     padding: 0 2rem 0 1rem;
+  }
+  .bp-button.is-fullwidth {
+    padding: 4rem 1.4rem;
   }
 }
 .navbar-end {

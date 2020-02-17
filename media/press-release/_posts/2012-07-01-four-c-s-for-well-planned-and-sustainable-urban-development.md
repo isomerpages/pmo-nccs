@@ -38,4 +38,3 @@ Mr Greg Clark, Chairman of the OECD LEED Forum and Senior Fellow of Urban Land I
 The WCSMF is a key highlight at this year’s World Cities Summit (WCS), a global premier platform for city leaders and experts to exchange new ideas on liveable and sustainable urban solutions, explore the latest technologies and forge new business partnerships. The third edition of WCS is currently being held from 1 to 4 July 2012 at the Sands Expo & Convention Center, Marina Bay Sands, in
 Singapore.
 
-Source: [<a href="http://www.worldcitiessummit.com.sg/sites/default/files/Media%20Release-WCSMF2012%20_Final_.pdf" target="_blank">Centre for Liveable Cities</a>](http://www.worldcitiessummit.com.sg/sites/default/files/Media%20Release-WCSMF2012%20_Final_.pdf)

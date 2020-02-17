@@ -24,5 +24,4 @@ ___
 <br><br><br>
 
 
-Source: [<a href="https://www.mas.gov.sg/News-and-Publications/Media-Releases/2017/Joint-statement-by-the-Founding-Members-of-the-Central-Banks-and-Supervisors-Network.aspx" target="_blank">Monetary Authority of Singapore</a>](https://www.mas.gov.sg/News-and-Publications/Media-Releases/2017/Joint-statement-by-the-Founding-Members-of-the-Central-Banks-and-Supervisors-Network.aspx)
 
