@@ -9,9 +9,6 @@ permalink: /pages/contact-us/contact-info/
 
 100 High Street, The Treasury, Singapore 179434
 
-**Fax**
-
-65 - 6259 1907
 
 **Email**
 
