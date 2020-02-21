@@ -42,7 +42,7 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 * BG (NS) Chee Wee Kiong, Permanent Secretary (Foreign Affairs)  
 * Mrs Ow Foong Pheng, Permanent Secretary (National Development)  
 * Ms Chan Lai Fung, Permanent Secretary (National Research and Development)  
-* Mr Gabriel Lim, Permanent Secretary (Trade and Industry)  
+* Mr Lee Chuan Teck, Permanent Secretary (Trade and Industry)(Development) 
 * Mr Loh Ngai Seng, Permanent Secretary (Transport)  
 * Dr Beh Swan Gin, Chairman, Economic Development Board
 
@@ -64,7 +64,7 @@ The International Negotiations Working Group (INWG) develops Singapore's interna
 
 * Mr Albert Chua, Permanent Secretary (Environment and Water Resources)  
 * Mrs Ow Foong Pheng, Permanent Secretary (National Development)  
-* Mr Gabriel Lim, Permanent Secretary (Trade and Industry)  
+* Mr Lee Chuan Teck, Permanent Secretary (Trade and Industry)(Development) 
 * Mr Loh Ngai Seng, Permanent Secretary (Transport)  
 * Mr Ngiam Shih Chun, Chief Executive, Energy Market Authority  
 * Mr Tan Meng Dui, Chief Executive Officer, National Environment Agency  
@@ -85,7 +85,7 @@ The Long Term Emissions and Mitigation Working Group (LWG) studies how Singapore
 **Co-Chairmen**
 
 * **Mr Leo Yip, Head Civil Service, Permanent Secretary (Prime Minister's Office)(Strategy)**  
-* **Mr Gabriel Lim, Permanent Secretary (Trade and Industry)**
+* **Mr Lee Chuan Teck, Permanent Secretary (Trade and Industry)(Development)**
 
 **Members**
 
