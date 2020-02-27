@@ -502,7 +502,7 @@ h5 {
   text-transform: lowercase;
 }
 .navbar .navbar-item a {
-  font-size: 0.9rem !important;
+  font-size: 0.9rem;
   text-transform: uppercase !important;
   font-weight: 600;
 }
@@ -672,13 +672,13 @@ a[href$=".pdf"]:before {
 
 @media (max-width: 1366px) {
   .navbar .navbar-item a {
-    font-size: 0.8rem !important;
+    font-size: 0.8rem;
   }
 }
 
 @media (max-width: 1280px) {
   .navbar .navbar-item a {
-    font-size: 0.7rem !important;
+    font-size: 0.7rem;
   }
 }
 .imgsize {
@@ -711,7 +711,7 @@ pre {
     line-height: 2.2rem;
   }
   .bp-dropdown p {
-    font-size: 1rem;
+    font-size: 18px;
     line-height: 1.6rem;
   }
   .bp-dropdown-button {
@@ -791,6 +791,9 @@ pre {
   }
   em {
     font-size: 1.25rem;
+  }
+  .navbar .navbar-item a {
+    font-size: 15px;
   }
 }
 @media (max-width: 700px) {
@@ -943,5 +946,10 @@ code {
 }
 .bp-dropdown-item {
   padding: 0.75rem 0.7rem;
+}
+@media (max-width: 1024px) {
+  .navbar .navbar-item a {
+    font-size: 15px;
+  }
 }
 
