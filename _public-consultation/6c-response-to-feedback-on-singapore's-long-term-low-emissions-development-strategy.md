@@ -97,7 +97,7 @@ The National Climate Change Secretariat (NCCS) conducted a public consultation o
 31\. NCCS wishes to thank all individuals, businesses, organisations and councils for their feedback. Members of the public who wish to make their feedback submitted during the 2019 consultation exercise publicly available may do so via the following web link: [<a href="https://form.gov.sg/#!/5e27bdfa3acc0e0011417190" target="_blank">http://bit.ly/ledsform</a>](https://form.gov.sg/#!/5e27bdfa3acc0e0011417190).
 <br><br><br>
 
-**Post-note:** We have received over 2,000 feedback submissions, and 21 members of the public gave permission for NCCS to have their feedback published. View their feedback <a href="/public-consultation/response-to-feedback-on-singapore's-long-term-low-emissions-development-strategy/" target="_blank">here</a>.
+**Post-note:** We have received over 2,000 feedback submissions, and 21 members of the public gave permission for NCCS to have their feedback published. View their feedback <a href="/public-consultation/feedback-from-public-on-singapores-long-term-low-emissions-development-strategy/" target="_blank">here</a>.
 
 
 
