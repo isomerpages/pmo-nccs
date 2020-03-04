@@ -100,7 +100,6 @@ The National Climate Change Secretariat (NCCS) conducted a public consultation o
 **Post-note:** Click <a href="/public-consultation/feedback-from-public-on-singapores-long-term-low-emissions-development-strategy/" target="_blank">here</a> to read the responses received from members of the public on Singapore's Long-Term Low-Emissions Development Strategy. 
 
 
-
 ___
 
 <a id="1" name="_ftn1">[1]</a> [<a href="https://www.e2singapore.gov.sg/overview/households/households" target="_blank">https://www.e2singapore.gov.sg/overview/households/households</a>](https://www.e2singapore.gov.sg/overview/households/households).
