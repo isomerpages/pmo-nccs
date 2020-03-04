@@ -9,11 +9,11 @@ permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Senior-Mi
 WRITTEN ANSWER  
 TUESDAY, 3 MARCH 2020**  
 
-*Mr Louis Ng:*
+**Mr Louis Ng:**
 
 To ask the Prime Minister whether the Ministry will consider requiring all Ministries to produce a climate compliance certificate explaining how their budgets and operations will comply with Singapore's climate commitments prior to budget approval.
 
-*Mr Teo Chee Hean (for the Prime Minister):*
+**Mr Teo Chee Hean (for the Prime Minister):**
 
 Meeting Singapore’s climate commitments requires a whole-of-nation effort. Under the Inter-Ministerial Committee on Climate Change (IMCCC), various government agencies are involved in implementing a series of sectoral mitigation measures to enable Singapore to meet our climate commitments. For example, BCA’s initiatives under the Green Building Masterplan will accelerate the proliferation of green buildings. This will help Singapore become an even more sustainable and highly liveable city.
 
