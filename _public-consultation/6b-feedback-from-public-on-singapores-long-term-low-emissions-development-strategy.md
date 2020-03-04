@@ -14,26 +14,23 @@ The National Climate Change Secretariat (NCCS) conducted a public consultation o
 Read their views here:
 
  - <a href="/docs/default-source/publications/350 Singapore.pdf" target="_blank">350 Singapore (9.7mb, pdf)</a>
- - Allen, Marc (2.5mb, pdf)
- - Ang, Shawn (159kb, pdf)
- - Apsley, Holly (39kb, pdf)
- - Climate Conversations (247kb, pdf)
- - Eriksson, Tobias (48kb, pdf)
- - Ferguson, Angela (687kb, pdf)
- - Ho, Estella (55kb, pdf)
- - Lepak in SG (121kb, pdf)
- - Lommen, Dave (134kb, pdf)
- - Low, Chip Khoon (183kb, pdf)
- - Low, Melissa (130kb, pdf)
- - Mock, Aidan (45kb, pdf)
- - Ng, Yan Ping Sammie (96kb, pdf)
- - Nor Lastrina Hamid (87kb, pdf)
- - Seah, Bertrand (776kb, pdf)
- - Soo, Daniel (247kb, pdf)
- - Szto, Mark (46kb, pdf)
- - Teng, Chu Yu (64kb, pdf)
- - Tim, Min Jie (375kb, pdf)
- - Tng, Pei Ling (110kb, pdf)
- 
-
-* [<a href="/docs/default-source/publications/leds-infographic-final.pdf" target="_blank">Infographic: Charting Singapore's Low-Carbon Future (PDF, 4.2MB)</a>](/docs/default-source/publications/leds-infographic-final.pdf)
+ - <a href="/docs/default-source/publications/Allen, Marc" target="_blank">Allen, Marc (2.5mb, pdf) </a>
+ - <a href="/docs/default-source/publications/Ang, Shawn" target="_blank">Ang, Shawn (159kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Apsley, Holly" target="_blank">Apsley, Holly (39kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Climate Conversations" target="_blank">Climate Conversations (247kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Eriksson, Tobias" target="_blank">Eriksson, Tobias (48kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Ferguson, Angela" target="_blank">Ferguson, Angela (687kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Ho, Estella" target="_blank">Ho, Estella (55kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Lepak in SG" target="_blank">Lepak in SG (121kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Lommen, Dave" target="_blank">Lommen, Dave (134kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Low, Chip Khoon" target="_blank">Low, Chip Khoon (183kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Low, Melissa" target="_blank">Low, Melissa (130kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Mock, Aidan" target="_blank">Mock, Aidan (45kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Ng, Yan Ping Sammie" target="_blank">Ng, Yan Ping Sammie (96kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Nor Lastrina Hamid" target="_blank">Nor Lastrina Hamid (87kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Seah, Bertrand" target="_blank">Seah, Bertrand (776kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Soo, Daniel" target="_blank">Soo, Daniel (247kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Szto, Mark" target="_blank">Szto, Mark (46kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Teng, Chu Yu" target="_blank">Teng, Chu Yu (64kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Tim, Min Jie" target="_blank">Tim, Min Jie (375kb, pdf) </a>
+ - <a href="/docs/default-source/publications/Tng, Pei Ling" target="_blank">Tng, Pei Ling (110kb, pdf) </a>
