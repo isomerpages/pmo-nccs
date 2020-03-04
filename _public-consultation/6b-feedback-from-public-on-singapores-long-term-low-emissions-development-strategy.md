@@ -36,3 +36,6 @@ Read their views here:
  - <a href="/docs/default-source/publications/Teng, Chu Yu.pdf" target="_blank">Teng, Chu Yu (64kb, pdf) </a>
  - <a href="/docs/default-source/publications/Tim, Min Jie.pdf" target="_blank">Tim, Min Jie (375kb, pdf) </a>
  - <a href="/docs/default-source/publications/Tng, Pei Ling.pdf" target="_blank">Tng, Pei Ling (110kb, pdf) </a>
+ 
+<br>
+Click <a href="/public-consultation/response-to-feedback-on-singapore's-long-term-low-emissions-development-strategy/" target="_blank">here</a> to read NCCS's response to feedback on Singapore's Long-Term Low-Emissions Development Strategy.
