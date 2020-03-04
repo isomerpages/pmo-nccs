@@ -13,7 +13,7 @@ The National Climate Change Secretariat (NCCS) conducted a public consultation o
 
 Read their views here:
 
- - 350 Singapore (9.7mb, pdf)
+ - <a href="/docs/default-source/publications/350 Singapore.pdf" target="_blank">350 Singapore (9.7mb, pdf)</a>
  - Allen, Marc (2.5mb, pdf)
  - Ang, Shawn (159kb, pdf)
  - Apsley, Holly (39kb, pdf)
@@ -34,3 +34,6 @@ Read their views here:
  - Teng, Chu Yu (64kb, pdf)
  - Tim, Min Jie (375kb, pdf)
  - Tng, Pei Ling (110kb, pdf)
+ 
+
+* [<a href="/docs/default-source/publications/leds-infographic-final.pdf" target="_blank">Infographic: Charting Singapore's Low-Carbon Future (PDF, 4.2MB)</a>](/docs/default-source/publications/leds-infographic-final.pdf)
