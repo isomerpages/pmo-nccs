@@ -1,14 +1,14 @@
 ---
-title: '[7 Feb 2020] Response to Feedback on Singapore''s Long-Term Low Emissions Development Strategy'
+title: '[7 Feb 2020] Response to Feedback on Singapore''s Long-Term Low-emissions Development Strategy'
 permalink: /public-consultation/response-to-feedback-on-singapore's-long-term-low-emissions-development-strategy/
 third_nav_title: Overview
 ---
 
-### RESPONSE TO FEEDBACK ON SINGAPORE’S LONG-TERM LOW EMISSIONS DEVELOPMENT STRATEGY
+### RESPONSE TO FEEDBACK ON SINGAPORE’S LONG-TERM LOW-EMISSIONS DEVELOPMENT STRATEGY
 
 7 February 2020
 
-The National Climate Change Secretariat (NCCS) conducted a public consultation on Singapore’s Long-Term Low Emissions Development Strategy (LEDS) from 16 July to 30 September 2019. About 2,000 responses from the public were received, of which 1,600 were received through the World Wide Fund for Nature (WWF) Singapore and Speak for Climate that had created online forms for the public to submit their feedback. Generally, we received feedback from environmental groups, academics, businesses, and individuals. Prior to the release of this document, several engagement sessions were also organised between August 2019 and January 2020 to facilitate in-depth discussions with stakeholders such as green groups, academics and businesses from various sectors (e.g. transport, infocomm etc.).
+The National Climate Change Secretariat (NCCS) conducted a public consultation on Singapore’s Long-Term Low-Emissions Development Strategy (LEDS) from 16 July to 30 September 2019. About 2,000 responses from the public were received, of which 1,600 were received through the World Wide Fund for Nature (WWF) Singapore and Speak for Climate that had created online forms for the public to submit their feedback. Generally, we received feedback from environmental groups, academics, businesses, and individuals. Prior to the release of this document, several engagement sessions were also organised between August 2019 and January 2020 to facilitate in-depth discussions with stakeholders such as green groups, academics and businesses from various sectors (e.g. transport, infocomm etc.).
 
 2\. A summary of the key feedback and our initial responses can be found below. More details on the feedback and our responses can be found in the [<a href="/docs/default-source/default-document-library/annex-for-singapore's-leds-public-consultation-response-(final).pdf" target="_blank">Annex</a>](/docs/default-source/default-document-library/annex-for-singapore's-leds-public-consultation-response-(final).pdf). This Annex will be updated regularly as the Government continues to study the suggestions and work with stakeholders in developing implementation plans to realise Singapore’s LEDS.
 
@@ -96,6 +96,10 @@ The National Climate Change Secretariat (NCCS) conducted a public consultation o
 
 31\. NCCS wishes to thank all individuals, businesses, organisations and councils for their feedback. Members of the public who wish to make their feedback submitted during the 2019 consultation exercise publicly available may do so via the following web link: [<a href="https://form.gov.sg/#!/5e27bdfa3acc0e0011417190" target="_blank">http://bit.ly/ledsform</a>](https://form.gov.sg/#!/5e27bdfa3acc0e0011417190).
 <br><br><br>
+
+**Post-note:** We have received over 2,000 feedback submissions, and 21 members of the public gave permission for NCCS to have their feedback published. View their feedback <a href="/public-consultation/response-to-feedback-on-singapore's-long-term-low-emissions-development-strategy/" target="_blank">here</a>.
+
+
 
 ___
 
