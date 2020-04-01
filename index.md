@@ -24,7 +24,7 @@ sections:
               description: Forging international collaborations
               url: /singapores-climate-action/singapore-and-international-efforts/
     - infopic:
-        image: /images/leds-cover.jpg
+        image: /images/ledscover.jpg
         alt: Members of the Ministry of ABC shaking hands
         title: <font size=6.5>CHARTING SINGAPORE'S LOW-CARBON AND CLIMATE RESILIENT FUTURE</font>
         description: On 31 March 2020, Singapore submitted its enhanced Nationally Determined Contribution (NDC) and Long-Term Low-Emissions Development Strategy (LEDS) document to the United Nations Framework Convention on Climate Change (UNFCCC). 
