@@ -7,7 +7,10 @@ permalink: "/media/press-release/submission-of-singapores-enhanced-nationally-de
 
 
 
-On 31 March 2020, Singapore submitted its enhanced Nationally Determined Contribution (NDC) and Long-Term Low-Emissions Development Strategy (LEDS) document to the United Nations Framework Convention on Climate Change (UNFCCC). These documents can be viewed at https://www4.unfccc.int/sites/ndcstaging/Pages/Party.aspx?party=SGP&prototype=1 and https://unfccc.int/process/the-paris-agreement/long-term-strategies respectively.
+On 31 March 2020, Singapore submitted its enhanced Nationally Determined Contribution (NDC) and Long-Term Low-Emissions Development Strategy (LEDS) document to the United Nations Framework Convention on Climate Change (UNFCCC). These documents can be viewed at [<a href="https://www4.unfccc.int/sites/ndcstaging/Pages/Party.aspx?party=SGP&prototype=1" target="_blank">https://www4.unfccc.int/sites/ndcstaging/Pages/Party.aspx?party=SGP&prototype=1</a>](https://www4.unfccc.int/sites/ndcstaging/Pages/Party.aspx?party=SGP&prototype=1) and [<a href="https://unfccc.int/process/the-paris-agreement/long-term-strategies" target="_blank">https://unfccc.int/process/the-paris-agreement/long-term-strategies</a>](https://unfccc.int/process/the-paris-agreement/long-term-strategies)  respectively.
+
+
+
 
 On 28 February 2020, Senior Minister and Coordinating Minister for National Security and Chairman of the Inter-Ministerial Committee on Climate Change, Mr Teo Chee Hean, had announced in Parliament, that Singapore would be making  these submissions.
 
