@@ -24,18 +24,18 @@ sections:
               description: Forging international collaborations
               url: /singapores-climate-action/singapore-and-international-efforts/
     - infopic:
-        image: /images/leds-response.jpg
+        image: /images/ledscover.jpg
         alt: Members of the Ministry of ABC shaking hands
+        title: <font size=6.5>CHARTING SINGAPORE'S LOW-CARBON AND CLIMATE RESILIENT FUTURE</font>
+        description: On 31 March 2020, Singapore submitted its enhanced Nationally Determined Contribution (NDC) and Long-Term Low-Emissions Development Strategy (LEDS) document to the United Nations Framework Convention on Climate Change (UNFCCC). 
+        button: Read More
+        url: /media/press-release/submission-of-singapores-enhanced-nationally-determined-contribution-and-long-term-low-emissions-development-strategy
+    - infopic:
         title: <font size=6.5>RESPONSE TO FEEDBACK ON SINGAPORE’S LONG-TERM LOW EMISSIONS STRATEGY</font>
-        description: The National Climate Change Secretariat (NCCS) conducted a public consultation on Singapore’s Long-Term Low Emissions Development Strategy (LEDS) from 16 July to 30 September 2019. 
+        description: The National Climate Change Secretariat (NCCS) conducted a public consultation on Singapore’s Long-Term Low Emissions Development Strategy (LEDS) from 16 July to 30 September 2019.
         button: Read More
         url: /public-consultation/response-to-feedback-on-singapore's-long-term-low-emissions-development-strategy
-    - infopic:
-        title: <font size=6.5>CLIMATE CHANGE PUBLIC PERCEPTION SURVEY 2019</font>
-        description: The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a survey from May to July 2019 to gauge public perception and views on climate change.
-        button: Read More
-        url: /media/press-release/climate-change-public-perception-survey-2019
-        image: /images/pps-banner.jpg
+        image: /images/leds-response.jpg
         alt: Members of the Ministry of ABC shaking hands
     - resources:
       - title: Media
