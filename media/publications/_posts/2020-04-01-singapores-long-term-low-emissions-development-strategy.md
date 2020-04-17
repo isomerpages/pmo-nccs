@@ -8,7 +8,7 @@ permalink: /media/publications/singapores-long-term-low-emissions-development-st
 
 ![Singapore's Long-Term Low-Emissions Development Strategy](/images/charting.png "Singapore's Long-Term Low-Emissions Development Strategy"){: style="width:312px; height:420px; margin-left:15px; border:1px solid #ededed;"}
 
-Singapore's Long-Term Low-Emissions Development Strategy (LEDS) document titled “Charting Singapore’s Low-Carbon and Climate Resilient Future”, builds on the enhanced NDC’s target by aspiring to halve our emissions from its peak to 33MtCO<sub>2</sub>e by 2050, with a view to achieving net zero emissions as soon as viable in the second half of the century. To enable Singapore’s low-carbon transition, the LEDS will have three thrusts:
+Singapore's Long-Term Low-Emissions Development Strategy (LEDS) document titled “Charting Singapore’s Low-Carbon and Climate Resilient Future”, builds on the enhanced NDC’s target by aspiring to halve our emissions from its peak to 33MtCO<sub>2</sub>e by 2050, with a view to achieving net zero emissions as soon as viable in the second half of the century. To enable Singapore’s low-carbon transition, the LEDS will have three thrusts: 
 
 a.	Transformations in industry, economy and society, e.g. more renewable energy, greater energy efficiency, reducing energy consumption;
 
