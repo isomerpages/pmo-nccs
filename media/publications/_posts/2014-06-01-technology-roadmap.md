@@ -18,9 +18,10 @@ Summaries of completed Roadmaps are attached below.
 **Lead Agency (or Lead Agencies)**: EDB, EMA & NCCS  
 **Date of Publication**: Jul 2014
 
-[<a href="/docs/default-source/default-document-library/solar-photovoltaic-roadmap-for-singapore-a-summary.pdf" target="_blank">Solar Photovoltaic</a>](/docs/default-source/default-document-library/solar-photovoltaic-roadmap-for-singapore-a-summary.pdf)  
+[<a href="/docs/default-source/default-document-library/Solar-PV-Roadmap-for-Singapore-2020.pdf" target="_blank">Solar Photovoltaic</a>](/docs/default-source/default-document-library/Solar-PV-Roadmap-for-Singapore-2020.pdf)  
+[<a href="/docs/default-source/default-document-library/Addendum-to-the-Update-of-the-Solar-PV-Roadmap-(-March-2020-).pdf" target="_blank">Addendum to the Update of the Solar Photovoltaic Roadmap</a>](/docs/default-source/default-document-library/solar-photovoltaic-roadmap-for-singapore-a-summary.pdf)  
 **Lead Agency (or Lead Agencies)**: EDB & EMA  
-**Date of Publication**: Jul 2014
+**Date of Publication**: Mar 2020
 
 [<a href="/docs/default-source/default-document-library/green-data-centre-technology-roadmap.pdf" target="_blank">Green Data Centre</a>](/docs/default-source/default-document-library/green-data-centre-technology-roadmap.pdf)  
 **Lead Agency (or Lead Agencies)**: IDA  
