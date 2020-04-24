@@ -18,8 +18,8 @@ Summaries of completed Roadmaps are attached below.
 **Lead Agency (or Lead Agencies)**: EDB, EMA & NCCS  
 **Date of Publication**: Jul 2014
 
-[<a href="/docs/default-source/default-document-library/Solar-PV-Roadmap-for-Singapore-2020.pdf" target="_blank">Solar Photovoltaic</a>](/docs/default-source/default-document-library/Solar-PV-Roadmap-for-Singapore-2020.pdf)  
-[<a href="/docs/default-source/default-document-library/Addendum-to-the-Update-of-the-Solar-PV-Roadmap-(-March-2020-).pdf" target="_blank">Addendum to the Update of the Solar Photovoltaic Roadmap</a>](/docs/default-source/default-document-library/solar-photovoltaic-roadmap-for-singapore-a-summary.pdf)  
+[<a href="/docs/default-source/default-document-library/Solar%20PV%20Roadmap%20for%20Singapore%202020.pdf" target="_blank">Solar Photovoltaic</a>](/docs/default-source/default-document-library/Solar%20PV%20Roadmap%20for%20Singapore%202020.pdf)  
+[<a href="/docs/default-source/default-document-library/Addendum%20to%20the%20Update%20of%20the%20Solar%20PV%20Roadmap%20(March%202020).pdf" target="_blank">Addendum to the Update of the Solar Photovoltaic Roadmap</a>](/docs/default-source/default-document-library/Addendum%20to%20the%20Update%20of%20the%20Solar%20PV%20Roadmap%20(March%202020).pdf)  
 **Lead Agency (or Lead Agencies)**: EDB & EMA  
 **Date of Publication**: Mar 2020
 
