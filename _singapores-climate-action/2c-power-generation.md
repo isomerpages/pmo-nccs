@@ -15,7 +15,7 @@ Since 2000, we have increased the percentage of natural gas used in electricity 
 Our fuel mix makes us much less carbon intensive than many other nations still use coal as an important part of their power generation.
 
 ![A More Environment-friendly Method to Power Our Nation](/images/a-more-enviroment-friendly-method-to-power-our-nation.jpg "A More Environment-friendly Method to Power Our Nation")
-*Singapore has switched from fuel oil to natural gas as out main energy source for electricity generation. The picture above shows Senoko Energy's repowered units that were completed in 2005. The repowering involved the conversion of three oil-fired steam thermal plants into three gas-fired combined cycle plant. (Image courtesy of Senoko Energy)*
+*Singapore has switched from fuel oil to natural gas as our main energy source for electricity generation. The picture above shows Senoko Energy's repowered units that were completed in 2005. The repowering involved the conversion of three oil-fired steam thermal plants into three gas-fired combined cycle plant. (Image courtesy of Senoko Energy)*
 
 **Fuel Mix for Power Generation by Country (2013)**
 
