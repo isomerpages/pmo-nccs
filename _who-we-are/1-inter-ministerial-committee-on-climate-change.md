@@ -15,11 +15,13 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 
 **Members**
 
-* Mr Masagos Zulkifli, Minister for the Environment and Water Resources  
+* Ms Grace Fu Hai Yien, Minister for Sustainability and Environment 
 * Dr Vivian Balakrishnan, Minister for Foreign Affairs  
-* Mr Lawrence Wong, Minister for National Development and Second Minister for Finance  
+* Mr Lawrence Wong, Second Minister for Finance  
 * Mr Chan Chun Sing, Minister for Trade and Industry  
-* Mr Khaw Boon Wan, Minister for Transport and Coordinating Minister for Infrastructure
+* Mr Ong Ye Kung, Minister for Transport
+* Mr Desmond Lee, Minister for National Development
+* Ms Indranee Rajah, Second Minister for National Development
 
 **Committees and Work Groups Addressing Singapore's Climate Change-related Issues**
 
