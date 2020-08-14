@@ -20,8 +20,8 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 * Mr Lawrence Wong, Second Minister for Finance  
 * Mr Chan Chun Sing, Minister for Trade and Industry  
 * Mr Ong Ye Kung, Minister for Transport
-* Mr Desmond Lee, Ministr for National Development
-* Ms Indranee Rajah, Second Ministr for National Development
+* Mr Desmond Lee, Minister for National Development
+* Ms Indranee Rajah, Second Minister for National Development
 
 **Committees and Work Groups Addressing Singapore's Climate Change-related Issues**
 
