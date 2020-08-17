@@ -5,7 +5,7 @@ permalink: /who-we-are/inter-ministerial-committee-on-climate-change/
 
 ### INTER-MINISTERIAL COMMITTEE ON CLIMATE CHANGE
 
-The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Government coordination on climate change policies to ensure that Singapore is prepared for the impacts of climate change. Established in 2007, IMCCC is chaired by Mr Teo Chee Hean, Senior Minister and Co-ordinating Minister for National Security.
+The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Government coordination on climate change policies to ensure that Singapore is prepared for the impacts of climate change. Established in 2007, IMCCC is chaired by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security.
 
 ### IMCCC Members
 
