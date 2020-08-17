@@ -10,7 +10,7 @@ third_nav_title: Green Growth Opportunities
 
 Singapore is home to many energy traders, who make up most of the clientele for carbon services companies. This makes Singapore an ideal location for companies working on carbon projects in the region, especially since it is close to the biggest sources of carbon credits, India and China.
 
-The Economic Development Board (EDB) and IE Singapore have engaged carbon companies to establish a presence here. These companies offer:
+The Economic Development Board (EDB) and Enterprise Singapor (ESG) have engaged carbon companies to establish a presence here. These companies offer:
 
 * Low carbon project development  
 * Consulting and verification services for clean development mechanism (CDM)  
