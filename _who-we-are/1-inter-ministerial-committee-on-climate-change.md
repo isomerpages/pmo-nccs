@@ -103,13 +103,13 @@ The Long Term Emissions and Mitigation Working Group (LWG) studies how Singapore
 * Mr Tan Meng Dui, Chief Executive Officer, National Environment Agency  
 * Mr Ng Joo Hee, Chief Executive, PUB, The National Water Agency   
 * Mr Lim Eng Hwee, Chief Executive Officer, Urban Redevelopment Authority
-* Mr Lew Chuen Hong, Chief Executive Officer, Info-Communications Media Development Authority
+* Mr Tan Kiat How, Chief Executive Officer, Info-Communications Media Development Authority
 
 **Secretariat**
 
-* Mr Heng Jian Wei, Director (Policy and Planning), National Climate Change Secretariat, Strategy Group, Prime Minister's Office  
-* Ms Leow Lay May, Director (Energy Division), Ministry of Trade and Industry  
-* Mr Khalil Bakar, Director (Energy & Climate Policy Division), Ministry of Sustainability and the Environment 
+* Ms Pamela Lee, Director (Policy and Planning), National Climate Change Secretariat, Strategy Group, Prime Minister's Office  
+* Ms Tan Pei Shan, Director (Energy Division), Ministry of Trade and Industry  
+* Ms Leonie Lee, Director (Energy & Climate Policy Division), Ministry of Sustainability and the Environment 
 
 **Resilience Working Group**
 
@@ -126,16 +126,15 @@ The Resilience Working Group (RWG) studies Singapore's vulnerability to the effe
 
 * Ms Lim Wan Yong, Deputy Secretary (Planning), Ministry of National Development  
 * Ms Amy Hing, Deputy Secretary (Policy), Ministry of Sustainability and the Environment  
-* Mr Han Neng Hsiu, Deputy Secretary (Development), Ministry of Finance  
+* Mr Yee Ping Yi, Deputy Secretary (Policy), Ministry of Finance  
 * Mr Lim Kok Thai, Chief Executive Officer, Singapore Food Agency  
-* Ms Ngiam Siew Ying, Deputy Secretary (Policy), Ministry of Health 
-* Mr Tan Kok Yam, Deputy Secretary, Prime Minister's Office (Strategy)  
+* Ms Ngiam Siew Ying, Deputy Secretary (Policy), Ministry of Health  
 * Mr Hugh Lim, Chief Executive Officer, Building and Construction Authority  
 * Mr Kevin Shum, Director General, Civil Aviation Authority of Singapore  
 * Mr Ngiam Shih Chun, Chief Executive, Energy Market Authority  
 * Dr Cheong-Chua Koon Hean, Chief Executive Officer, Housing Development Board  
-* Mr Lew Chuen Hong, Chief Executive Officer, Info-Communications Media Development Authority 
-* Mr David Tan, Assistant Chief Executive Officer, JTC Corporation  
+* Mr Tan Kiat How, Chief Executive Officer, Info-Communications Media Development Authority 
+* Mr Ng Lang, Chief Executive Officer, JTC Corporation  
 * Mr Ngien Hoon Ping, Chief Executive, Land Transport Authority  
 * Mr Tan Meng Dui, Chief Executive Officer, National Environment Agency  
 * Mr Kenneth Er, Chief Executive Officer, National Parks Board  
@@ -147,7 +146,7 @@ The Resilience Working Group (RWG) studies Singapore's vulnerability to the effe
 **Secretariat**
 
 * Mr Chan Khar Liang, Senior Director (Infrastructure), Ministry of National Development
-* Mr Khalil Bakar, Director (Energy & Climate Policy Division), Ministry of Sustainability and the Environment 
+* Ms Leonie Lee, Director (Energy & Climate Policy Division), Ministry of Sustainability and the Environment 
 
 
 
