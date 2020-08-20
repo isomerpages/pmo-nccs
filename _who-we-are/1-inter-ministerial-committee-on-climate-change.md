@@ -111,7 +111,7 @@ The Long Term Emissions and Mitigation Working Group (LWG) studies how Singapore
 * Ms Leow Lay May, Director (Energy Division), Ministry of Trade and Industry  
 * Mr Khalil Bakar, Director (Energy & Climate Policy Division), Ministry of Sustainability and the Environment 
 
-### Resilience Working Group
+**Resilience Working Group**
 
 The Resilience Working Group (RWG) studies Singapore's vulnerability to the effects of climate change and recommends long-term plans that ensure the nation’s adaptation to future environmental changes.
 
@@ -129,7 +129,7 @@ The Resilience Working Group (RWG) studies Singapore's vulnerability to the effe
 * Mr Han Neng Hsiu, Deputy Secretary (Development), Ministry of Finance  
 * Mr Lim Kok Thai, Chief Executive Officer, Singapore Food Agency  
 * Ms Ngiam Siew Ying, Deputy Secretary (Policy), Ministry of Health 
-* Mr Tan Kok Yam, Deputy Secretary, Prime Minister's Office (Strategy Group)  
+* Mr Tan Kok Yam, Deputy Secretary, Prime Minister's Office (Strategy)  
 * Mr Hugh Lim, Chief Executive Officer, Building and Construction Authority  
 * Mr Kevin Shum, Director General, Civil Aviation Authority of Singapore  
 * Mr Ngiam Shih Chun, Chief Executive, Energy Market Authority  
