@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Singapore United Kingdom, Climate Change Bilateral Dialogue"
-date:   2020-12-14
+date:   2020-11-30
 permalink: "/media/press-release/first-singapore-united-kingdom-climate-change-bilateral-dialogue"
 ---
 
