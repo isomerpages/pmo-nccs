@@ -12,7 +12,7 @@ Singapore ratified the United Nations Framework Convention on Climate Change (UN
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/default-document-library/singapore's-fourth-biennial-update-report.pdf" target="_blank">[2020] Singapore's Fourth National Communication and Third Biennial Update (PDF, 7MB)</a>](/docs/default-source/default-document-library/singapore's-fourth-biennial-update-report.pdf.pdf)
+* [<a href="/docs/default-source/default-document-library/2020-singapore-fourth-biennial-report.pdf" target="_blank">[2020] Singapore's Fourth Biennial Update (PDF, 4MB)</a>](/docs/default-source/default-document-library/2020-singapore-fourth-biennial-report.pdf)
 
 * [<a href="/docs/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf" target="_blank">[2018] Singapore's Fourth National Communication and Third Biennial Update (PDF, 7MB)</a>](/docs/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf)
 
