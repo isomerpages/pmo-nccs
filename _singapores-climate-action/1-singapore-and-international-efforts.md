@@ -81,7 +81,7 @@ On 31 March 2020, Singapore submitted its enhanced Nationally Determined Contrib
 
 This pledge is an ambitious one given our limited access to renewable energy and will require concerted effort by all stakeholders, including the Government, businesses, households and individuals.
 
-More details on Singapore’s climate actions can be found * [<a href="/singapores-climate-action/mitigation-efforts/" target="_blank">here</a>](/singapores-climate-action/mitigation-efforts/).
+More details on Singapore’s climate actions can be found [<a href="/singapores-climate-action/mitigation-efforts/" target="_blank">here</a>](/singapores-climate-action/mitigation-efforts/).
 
 **Promoting International Co-operation on Climate Change**
 
