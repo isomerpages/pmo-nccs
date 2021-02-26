@@ -33,7 +33,16 @@ Source: Energy Market Authority
 
 Among the alternative energy options available to us, solar energy offers the most promising opportunity for Singapore. With the fall in solar photovoltaic (PV) panel prices, solar energy is currently economically comparable to electricity derived from fossil fuels.
 
-To accelerate solar deployment in Singapore, the SolarNova programme has been launched to promote and aggregate solar demand across government agencies. In Nov 2015, the first SolarNova tender was awarded for solar photovoltaic (PV) systems to be deployed on the facilities of government agencies including the Housing Development Board (HDB), the Ministry of Home Affairs (MHA), and PUB, the national water angecy.
+To accelerate solar deployment in Singapore, the SolarNova programme has been launched, as a Whole-of-Government effort, to promote and aggregate solar demand across government agencies. Since 2015, four leasing tenders totalling 236 MWp of solar energy, have been awarded, with a fifth tender of 60 MWp awarded in 2020. 
+
+Singapore aims to deploy at least 2 GWp of solar by 2030, equivalent to the annual electricity needs of around 350,000 households in Singapore. 
+
+Grid-connected installed solar PV capacity in Singapore has grown significantly to 384.1 MWp as at end Q1 2020. This is contributed via the 4,116 installations across Singapore at: 
+
+•	Non-residential private sector 
+•	Town councils and grassroots units 
+•	Public sector 
+•	Residential estates
 
 **Notable Solar Installations**
 
