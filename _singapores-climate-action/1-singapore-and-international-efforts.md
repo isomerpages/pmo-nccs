@@ -81,11 +81,11 @@ On 31 March 2020, Singapore submitted its enhanced Nationally Determined Contrib
 
 This pledge is an ambitious one given our limited access to renewable energy and will require concerted effort by all stakeholders, including the Government, businesses, households and individuals.
 
-More details on Singapore’s climate actions can be found [<a href="/singapores-climate-action/2a-mitigation-efforts/" target="_blank">here</a>](/singapores-climate-action/2a-mitigation-efforts/).
+More details on Singapore’s climate actions can be found [<a href="/singapores-climate-action/mitigation-efforts/" target="_blank">here</a>](/singapores-climate-action/mitigation-efforts/).
 
 **Promoting International Co-operation on Climate Change**
 
-Singapore also participates in other multilateral efforts that support a comprehensive and holistic approach to dealing with climate change including discussions under the World Trade Organisation (WTO), the World Intellectual Property Organisation (WIPO), the International Maritime Organisation (IMO) and the International Civil Aviation Organisation (ICAO).
+Singapore also participates in other multilateral efforts that support a comprehensive and holistic approach to dealing with climate change including discussions under the World Trade Organization (WTO), the World Intellectual Property Organization (WIPO), the International Maritime Organization (IMO) and the International Civil Aviation Organization (ICAO).
 
 We are actively engaged in environmental cooperation through bilateral and regional platforms such as the Sino-Singapore Tianjin Eco-City, the Asia-Pacific Economic Cooperation (APEC) and the Association of Southeast Asian Nations (ASEAN).
 
@@ -93,15 +93,15 @@ Singapore is a partner in key regional initiatives, such as the Sino-Singapore T
 
 We also provide technical assistance and human resource capacity building to climate-related areas through the Singapore Cooperation Programme (SCP). For instance, under the ambit of the SCP, we have established a Small Island Developing States Technical Cooperation Programme that caters to the specific needs of small island developing states, including climate-related issues and challenges. The SCP training courses cover a wide range of topics including sustainable urban development, water management and energy efficiency and emissions reduction.
 
-Singapore actively collaborates with countries such as Japan, Korea, Thailand, France, Germany and Norway in order to leverage our respective strengths and experiences and to provide training to developing countries on climate change and environment-related issues. These initiatives reflect our commitment to sharing our knowledge, experience and expertise with other developing countries to help them implement sustainable environmental and climate policies and practices.
-
-As of December 2015, we have trained over 10,700 developing country officials in climate change-related programmes, and will continue to deepen this effort.
+Singapore actively collaborates with countries such as Australia, France, Germany, Japan, Norway, New Zealand, the Republic of Korea, Thailand,  and the UK in order to leverage our respective strengths and experiences and to provide training to developing countries on climate change and environment-related issues. These initiatives reflect our commitment to sharing our knowledge, experience and expertise  to help developing countries implement sustainable environmental and climate policies and practices.
+As of September 2020, we have trained more than 131,000 officials from over 170 countries in climate change-related programmes, and will continue to deepen this effort.
 
 **C40**
 
-Singapore joined the C40 Cities Climate Leadership Group (C40) as an observer city in March 2012. The C40 is a network of 83 global cities (including Berlin, Hong Kong, Jakarta, Johannesburg, Los Angeles, London, New York, Sao Paulo, Seoul and Tokyo) committed to implementing meaningful and sustainable climate-related actions locally that will address global climate change. It collaborates with several international organisations such as the World Bank, OECD, the Clinton Climate Initiative and the World Resources Institute, on initiatives that advance urban action on climate change solutions.
+Singapore joined the C40 Cities Climate Leadership Group (C40) as an observer city in March 2012. The C40 is a network of about 100 global cities (including Berlin, Hong Kong, Jakarta, Johannesburg, Los Angeles, London, New York, Sao Paulo, Seoul and Tokyo) committed to implementing meaningful and sustainable climate-related actions locally that will address global climate change. It collaborates with several international organisations such as the World Bank, OECD, the Clinton Climate Initiative and the World Resources Institute, on initiatives that advance urban action on climate change solutions.
 
 Our participation with the C40 has allowed us to learn from the best practices of other C40 cities in areas such as building energy efficiency, transportation, climate change resilience and adaptation. Singapore has also contributed to C40 by sharing our experiences in urban development and transport infrastructure.
 
-Singapore's efforts in promoting urban sustainability and addressing climate change were also recognised by C40 in 2013 when it was presented with the C40 City Climate Leadership Award.
+Singapore’s efforts in promoting urban sustainability and addressing climate change were also recognised by C40 in 2013 when it was presented with the C40 & Siemens City Climate Leadership Award.
+
 
