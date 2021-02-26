@@ -19,7 +19,7 @@ Singapore’s inaugural Zero Waste Masterplan launched in 2019 further sets targ
 **Reducing Methane from Wastewater**
 <br>Singapore will also seek to reduce direct methane emissions from wastewater sludge through incineration. Sumitomo Mitsui Banking Corporation and ECO-Special Waste Management (ECO-SWM) have collaborated on the development of one of Southeast Asia's largest sludge incineration plants in Singapore.
 
-With an estimated annual average reduction of 129,000 tonnes of carbon dioxide-equivalent (CO2e), the plant has been registered as an emissions reduction project with United Nations Framework Convention on Climate Change, and will generate carbon credits in Singapore.
+With an estimated annual average reduction of 129,000 tonnes of carbon dioxide-equivalent (CO<sub>2</sub>e), the plant has been registered as an emissions reduction project with United Nations Framework Convention on Climate Change, and will generate carbon credits in Singapore.
 
 **Reducing Energy Usage by Desalination**
 <br>Desalinated water is one of Singapore's water supply sources, meeting about 10 per cent of the country's water needs. We have been investing in R&D to improve the energy efficiency of the desalination process. One such project uses electrochemical desalting to reduce energy usage to less than half the volume currently being used by membrane-based desalination methods.
