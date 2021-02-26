@@ -21,7 +21,7 @@ Waste being prepared for incineration at the Keppel Seghers Tuas Waste-to-Energy
 
 With an estimated annual average reduction of 129,000 tonnes of carbon dioxide-equivalent (CO2e), the plant has been registered as an emissions reduction project with United Nations Framework Convention on Climate Change, and will generate carbon credits in Singapore.
 
-**Reducing Energy Usage by Desalination**  
+**Reducing Energy Usage by Desalination**
 <br>Desalinated water is one of Singapore's water supply sources, meeting about 10 per cent of the country's water needs. We have been investing in R&D to improve the energy efficiency of the desalination process. One such project uses electrochemical desalting to reduce energy usage to less than half the volume currently being used by membrane-based desalination methods.
 
 **Reducing Waste by Sustainable Waste Management**
