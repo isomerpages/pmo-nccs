@@ -8,7 +8,7 @@ third_nav_title: National Circumstances
 
 Singapore is not insulated from the impact of climate change. From 1980 to 2020, the annual mean temperature has increased from 26.9°C to 28.0°C. The mean sea level in the Straits of Singapore has also increased at the rate of 1.2mm to 1.7mm per year in the period 1975 to 2009.
 
-Rainfall has become more intense in recent years. According to Singapore's Second National Climate Change Study, there has been a general uptrend in annual average rainfall from 2192mm in 1980 to 2727mm in 2014.
+Rainfall has become more intense in recent years. Annual rainfall total for Singapore since 1980 has increased at an average rate of 67 mm per decade. 
 
 In 2001, the first recorded cyclone near the equator, Typhoon Vamei, swept north of Singapore and caused major flooding in the region. It is uncertain whether such tropical cyclones near the equator will occur more frequently in the future.
 
