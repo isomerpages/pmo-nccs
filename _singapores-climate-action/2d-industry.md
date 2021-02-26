@@ -16,6 +16,10 @@ Beginning in April 2013, energy users in the industry and transport sectors who 
 * Monitor and report energy usage and greenhouse emissions  
 * Submit plans for energy efficiency improvements to the appropriate agencies
 
+Since the enactment of the Act, energy savings have been realised and annual energy efficiency has improved over each year. 
+
+
+
 To further drive energy efficiency improvements in the industry, the following new requirements will be introduced over the next few years:
 
 * Adopt a structured Energy Management System by 2021 or 2022 (depending on the facility's energy consumption)  
