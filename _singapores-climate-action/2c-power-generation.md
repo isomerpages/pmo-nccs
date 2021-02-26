@@ -16,8 +16,6 @@ Our fuel mix makes us much less carbon intensive than many other nations still u
 
 ![grid-emission-factor](/images/grid-emission-factor.png "grid-emission-factor")
 
-**Fuel Mix for Power Generation by Country (2013)**
-
 ![electricity-generation-fuel-mix](/images/electricity-generation-fuel-mix.png "electricity-generation-fuel-mix")
 
 **Decreasing Our Fuel Oil Usage**
