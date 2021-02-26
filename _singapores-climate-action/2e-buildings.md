@@ -6,9 +6,7 @@ third_nav_title: Mitigation Efforts
 
 ### BUILDINGS
 
-The design of a building has direct impact on  can directly contribute to more efficient energy efficiency. use, which is why it is important for buildings to be constructed or adapted with green designs.
-
-Existing buildings can be retrofitted to incorporate green such designs to increase their energy efficiency. This lowers electricity costs for the building’s tenants and typically pays for itself and benefits tenants  in as little as five to seven years.
+The design of a building has direct impact on energy efficiency. Existing buildings can be retrofitted to incorporate green designs to increase their energy efficiency. This lowers electricity costs and benefits tenants.
 
 **Test-bedding and Sharing Knowledge on Energy Efficient Technologies for Buildings**
 
