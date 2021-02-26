@@ -18,7 +18,7 @@ In 2001, the first recorded cyclone near the equator, Typhoon Vamei, swept north
 
 As a low-lying island, the rise in sea level poses the most immediate threat to Singapore. Much of our nation lies only 15 m above the Singapore Height Datum <sup><a href="#fn1" id="ref1">1</a></sup>, with about 30 per cent of our island being less than 5 m above the Singapore Height Datum.
 
-<sup id="fn1">1.Singapore Height Datum is the reference established based on the mean sea level determined at the tide gauge located at Victoria Dock in Tanjong Pagar between 1935-1937. It is used for height measurement in engineering and mapping activities.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+<sup id="fn1">1. Singapore Height Datum is the reference established based on the mean sea level determined at the tide gauge located at Victoria Dock in Tanjong Pagar between 1935-1937. It is used for height measurement in engineering and mapping activities.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
 
 **Water resources**
 
