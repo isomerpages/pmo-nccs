@@ -5,17 +5,17 @@ permalink: /singapores-climate-action/singapore-and-international-efforts/
 
 ### SINGAPORE AND INTERNATIONAL EFFORTS
 
-The causes and impacts of global climate change can only be addressed effectively by a concerted international effort. Every country needs to play its part to reduce global concentrations of greenhouse gases (GHGs) and adapt to the impacts of climate change.
+The causes and impact of climate change can only be addressed effectively by a concerted international effort. Every country needs to play its part to reduce global concentrations of greenhouse gases (GHGs) and adapt to the impact of climate change.
 
-As a small low-lying city-state with an open economy, Singapore is particularly vulnerable to the consequence of climate change. We have a deep interest in global efforts to address potential disruptions to natural ecosystems and human societies. Singapore has always been a strong supporter of multilateral approaches to global issues, and we work closely with other countries to tackle the climate challenge.
+As a small low-lying city-state with an open economy, Singapore is particularly vulnerable to the consequences of climate change. We have a deep interest in global efforts to address potential disruptions to natural ecosystems and human societies. Singapore has always been a strong supporter of multilateral approaches to global issues, and we work closely with other countries to tackle the climate challenge.
 
 **The UN Framework Convention on Climate Change**
 
 At the centre of the global effort is the [<a href="http://unfccc.int/" target="_blank">UN Framework Convention on Climate Change (UNFCCC)</a>](http://unfccc.int/), which sets the framework for governments to cooperate to address climate change, based on the principle of "common but differentiated responsibilities and respective capabilities, in light of different national circumstances". International negotiations have been ongoing under the UNFCCC since the 1990s to increase international action on climate change.
 
-At Paris in December 2015, Parties to the UNFCCC adopted a landmark global climate agreement. The Paris Agreement will replace the Kyoto Protocol when it expires in 2020 and will require all countries to take action to address climate change. The Paris Agreement reaffirms the commitment by all nations towards the UN multilateral framework to address the challenges of climate change.
+At Paris in December 2015, Parties to the UNFCCC adopted a landmark global climate agreement. The Paris Agreement  reaffirmed the commitment of the global community to advance the UN multilateral framework to address the challenges of climate change.
 
-Singapore has been an active player in the international climate change negotiations. We ratified the UNFCCC in 1997, and acceded to the Kyoto Protocol in 2006. We further ratified the Doha Amendment to the Kyoto Protocol in 2014. Under the UNFCCC process, we have been, and will continue to work with other parties to advance the international climate change agenda.
+Singapore has been an active player in the international climate change negotiations. We ratified the UNFCCC in 1997, and acceded to the Kyoto Protocol in 2006. We further ratified the Doha Amendment to the Kyoto Protocol in 2014, and signed the Paris Agreement on 22 April 2016 and ratified it on 21 September 2016. Under the UNFCCC process, we have been, and will continue to work with other parties to advance the international climate change agenda.
 
 ### Evolution of the UN Framework Convention on Climate Change
 
@@ -25,7 +25,7 @@ IPCC's First Assessment Report underscored the seriousness of climate change and
 
 **1992**
 
-The draft of the Framework Convention deliberated at the UN Conference on Environment and Development (UNCED) in Rio de Janeiro. The preparatory committee of UNCED and the Main Committee of the Rio meeting was chaired by Singapore's Ambassador-at-Large Tommy Koh. It lead to the landmark UNFCCC adopted by the United Nations. The framework required governments to develop policies and strategies to reduce greenhouse gas emissions within their national boundaries and adapt to irreversible climate change.
+The draft of the Framework Convention deliberated at the UN Conference on Environment and Development (UNCED) in Rio de Janeiro. The preparatory committee of UNCED and the Main Committee of the Rio meeting was chaired by Singapore's Ambassador-at-Large Tommy Koh. It led to the landmark UNFCCC adopted by the United Nations. The framework required governments to develop policies and strategies to reduce greenhouse gas emissions within their national boundaries and adapt to irreversible climate change.
 
 The Convention on Climate Change enjoyed near universal membership, making it one of the most globally supported international agreements under the UN.
 
@@ -59,25 +59,29 @@ At the UN Climate Change Conference in Doha, Parties agreed to a new commitment 
 
 **2013**
 
-In Warsaw, Poland, the Parties produced a set of decisions including a rulebook for [<a href="https://redd.unfccc.int/" target="_blank">reducing emissions from deforestation and forest degradation</a>](https://redd.unfccc.int/) and a mechanism to address [<a href="http://unfccc.int/adaptation/workstreams/loss_and_damage/items/6056.php" target="_blank">loss and damage</a>](http://unfccc.int/adaptation/workstreams/loss_and_damage/items/6056.php) caused by long-term climate change impacts. They also agreed to communicate their respective contributions towards the global climate agreement well in advance of COP-21 in Paris in 2015.
+In Warsaw, Poland, the Parties produced a set of decisions including a rulebook for [<a href="https://redd.unfccc.int/" target="_blank">reducing emissions from deforestation and forest degradation</a>](https://redd.unfccc.int/) and a mechanism to address [<a href="http://unfccc.int/adaptation/workstreams/loss_and_damage/items/6056.php" target="_blank">loss and damage</a>](http://unfccc.int/adaptation/workstreams/loss_and_damage/items/6056.php) caused by long-term climate change impacts. They also agreed to communicate their respective contributions towards the global climate agreement well in advance of the 21st Conference of the Parties to the UNFCCC (COP-21) in Paris in 2015.
 
 **2014**
 
-In Lima, Peru, the Parties agreed on various ground rules to guide the submission of their respective contributions towards the global climate agreement.Pledges made by both developed and developing countries prior to and during the COP also took the capitalisation of the new Green Climate Fund (GCF) past an initial $10 billion target.
+In Lima, Peru, the Parties agreed on various ground rules to guide the submission of their respective contributions towards the global climate agreement.Pledges made by both developed and developing countries prior to and during the COP-20 also took the capitalisation of the new Green Climate Fund past an initial $10 billion target.
 
 **2015**
 
-On 12 December 2015 at the 21st Conference of the Parties to the UNFCCC (COP-21) in Paris, 196 Parties adopted a new climate agreement applicable to all Parties. The Paris Agreement, which will take effect post-2020, aims to hold the increase in global average temperature to well below 2°C, and pursue efforts to limit the temperature increase to 1.5°C.
+On 12 December 2015 at the COP-21 in Paris, 196 Parties adopted a new climate agreement applicable to all Parties. The Paris Agreement, which will take effect post-2020, aims to hold the increase in global average temperature to well below 2°C, and pursue efforts to limit the temperature increase to 1.5°C.
 
-![The UN Framework Convention on Climate Change](/images/the-un-framework-convention-on-climate-change.jpg "The UN Framework Convention on Climate Change")
+**2018**
 
-Deputy Prime Minister Teo Chee Hean speaking at the 17th UNFCCC Conference of the Parties (COP-17) in Durban, South Africa.
+Following three years of negotiations, the Parties adopted the Katowice Climate Package, which comprise a set of guidelines and procedures relating to the implementation of the Paris Agreement in Katowice, Poland. The conclusion of the Katowice Climate Package marks a major milestone to operationalise the Paris Agreement and reinforces the role of the UNFCCC in the multilateral system for global climate action. 
 
-**Singapore's Pledge to Reduce Emissions**
+**Singapore’s Pledge to Reduce Emissions**
 
-Prior to the UNFCCC Climate Change Conference in Copenhagen in 2009, Singapore pledged to reduce our greenhouse gas emissions by 16 per cent below business-as-usual (BAU) levels in 2020, based on the condition that there should be a legally binding global agreement in which all countries implement their commitments in good faith. In line with the agreement adopted in Paris in December 2015, Singapore has made a further commitment to reduce our Emissions Intensity by 36 per cent from 2005 levels by 2030, and stabilise our greenhouse gas emissions with the aim of peaking around 2030.
+Prior to the UNFCCC Climate Change Conference in Copenhagen in 2009, Singapore pledged to reduce our greenhouse gas emissions by 16 per cent below business-as-usual (BAU) levels in 2020. In line with the agreement adopted in Paris in December 2015, Singapore has made a further commitment to reduce our Emissions Intensity by 36 per cent from 2005 levels by 2030, and stabilise our greenhouse gas emissions with the aim of peaking around 2030. 
+
+On 31 March 2020, Singapore submitted its enhanced Nationally Determined Contribution (NDC) and Long-Term Low-Emissions Development Strategy (LEDS) document to the UNFCCC. Singapore's enhanced NDC now states an absolute emissions target to peak emissions at 65 MtCO<sub>2</sub>e around 2030. Singapore's LEDS builds on the enhanced NDC by aspiring to halve emissions from its peak to 33 MtCO<sub>2</sub>e by 2050, with a view to achieving net zero emissions as soon as viable in the second half of the century.
 
 This pledge is an ambitious one given our limited access to renewable energy and will require concerted effort by all stakeholders, including the Government, businesses, households and individuals.
+
+More details on Singapore’s climate actions can be found here .
 
 **Promoting International Co-operation on Climate Change**
 
