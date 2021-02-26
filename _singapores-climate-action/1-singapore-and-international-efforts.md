@@ -63,7 +63,7 @@ In Warsaw, Poland, the Parties produced a set of decisions including a rulebook 
 
 **2014**
 
-In Lima, Peru, the Parties agreed on various ground rules to guide the submission of their respective contributions towards the global climate agreement.Pledges made by both developed and developing countries prior to and during the COP-20 also took the capitalisation of the new Green Climate Fund past an initial $10 billion target.
+In Lima, Peru, the Parties agreed on various ground rules to guide the submission of their respective contributions towards the global climate agreement. Pledges made by both developed and developing countries prior to and during the COP-20 also took the capitalisation of the new Green Climate Fund past an initial $10 billion target.
 
 **2015**
 
