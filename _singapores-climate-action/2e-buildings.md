@@ -12,7 +12,7 @@ The design of a building has direct impact on energy efficiency. Existing buildi
 
 The Building and Construction Authority (BCA) has set up the Green Buildings Innovation Cluster (GBIC) in 2014 as an integrated RD&D hub to support the national drive towards greater energy efficiency as well as to streamline, coordinate and disseminate building energy efficiency-related activities. GBIC will be a one-stop integrated RD&D hub to experiment, exhibit, and exchange knowledge of promising building energy-efficient solutions with industry stakeholders.
 
-The Super Low Energy Smart Hub is set up as a resource centre with centralised national database where researchers, building owners and industry players can access and share data, best practices and energy efficiency technologies. 
+The Super Low Energy Smart Hub is set up as a resource centre with a centralised national database where researchers, building owners and industry players can access and share data, best practices and energy efficiency technologies. 
 
 **Reducing Emissions through Green Mark Standards**
 
