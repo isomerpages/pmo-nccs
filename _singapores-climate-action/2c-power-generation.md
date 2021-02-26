@@ -39,20 +39,8 @@ Singapore aims to deploy at least 2 GWp of solar by 2030, equivalent to the annu
 
 Grid-connected installed solar PV capacity in Singapore has grown significantly to 384.1 MWp as at end Q1 2020. This is contributed via the 4,116 installations across Singapore at: 
 
-•	Non-residential private sector 
-•	Town councils and grassroots units 
-•	Public sector 
-•	Residential estates
-
-**Notable Solar Installations**
-
-The total installed solar PV capacity in Singapore is currently about 47 megawatt peak (MWp) for both residential and non-residential areas. This includes installations at:
-
-* HDB rooftops  
-* Keppel Seghers Ulu Pandan NEWater Plant  
-* Resorts World Sentosa  
-* GreenPac Pte Ltd  
-* Applied Materials Singapore Operational Centre  
-* Sheng Siong Supermarket  
-* Singapore Sports Hub
+* Non-residential private sector 
+* Town councils and grassroots units 
+* Public sector 
+* Residential estates
 
