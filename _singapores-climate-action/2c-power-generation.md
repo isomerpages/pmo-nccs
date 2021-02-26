@@ -10,7 +10,7 @@ Power generation is one of the major sources of carbon emissions. With our limit
 
 **A More Environment-friendly Method to Power Our Nation**
 
-Since 2000, we have increased the percentage of natural gas used in electricity generation from 19 per cent to 95 per cent today. Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. By so doing, we have cut the amount of carbon we release into the atmosphere.
+Since 2000, we have increased the percentage of natural gas used in electricity generation from 19 per cent to more than 95 per cent today. Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. By so doing, we have cut the amount of carbon we release into the atmosphere.
 
 Our fuel mix makes us much less carbon intensive than many other nations still use coal as an important part of their power generation.
 
@@ -23,7 +23,7 @@ Our fuel mix makes us much less carbon intensive than many other nations still u
 
 **Decreasing Our Fuel Oil Usage**
 
-Our electricity is produced by the combustion of natural gas that is piped from Malaysia and Indonesia. We have diversified our supply of natural gas with the development of a liquefied natural gas (LNG) terminal on Jurong Island. There are further plans to build a second LNG terminal to support new industrial sites and power plants. This will not only provide critical mass for enhanced energy security, but it will also enable Singapore to be a hub for LNG-related businesses.
+Our electricity is produced by the combustion of natural gas that is piped from Malaysia and Indonesia. We have diversified our supply of natural gas with the opening of a liquefied natural gas (LNG) terminal on Jurong Island. There are further plans to build a second LNG terminal to support new industrial sites and power plants. This will not only provide critical mass for enhanced energy security, but it will also enable Singapore to be a hub for LNG-related businesses.
 
 ![Decreasing Our Fuel Oil Usage](/images/decreasing-our-fuel-oil-usage.jpg "Decreasing Our Fuel Oil Usage")
 
