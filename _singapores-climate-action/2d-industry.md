@@ -54,7 +54,7 @@ Created to encourage the growth of ESCOs and enhance their professionalism and q
 
 **SCEM Programme**
 
-This programme was initiated to help engineering professionals develop the technical skills and competencies needed to lead energy services and management work in their organisations. It is jointly administered by the NEA and the Institution of Engineers Singapore (IES). To encourage professionals to upgrade their skills, the Employment and Employability Institute (e2i) offers a training grant to co-fund about 70 per cent of the cost of the SCEM training course.
+This programme was initiated to help engineering professionals develop the technical skills and competencies needed to lead energy services and management work in their organisations. It is jointly administered by NEA and the Institution of Engineers Singapore (IES). To encourage professionals to upgrade their skills, the Employment and Employability Institute (e2i) offers a training grant to co-fund about 70 per cent of the cost of the SCEM training course.
 
 ### Energy Efficiency National Partnership Programme (EENP)
 
