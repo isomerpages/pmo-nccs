@@ -12,7 +12,7 @@ Power generation is one of the major sources of carbon emissions. With our limit
 
 Since 2000, we have increased the percentage of natural gas used in electricity generation from 19 per cent to more than 95 per cent today. Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. By so doing, we have cut the amount of carbon we release into the atmosphere.
 
-Our fuel mix makes us much less carbon intensive than many other nations still use coal as an important part of their power generation.
+Our fuel mix makes us much less carbon intensive than many other nations that still use coal as an important part of their power generation.
 
 ![grid-emission-factor](/images/grid-emission-factor.png "grid-emission-factor")
 
