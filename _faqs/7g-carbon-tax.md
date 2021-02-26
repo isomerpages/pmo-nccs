@@ -13,7 +13,7 @@ A carbon tax will enhance Singapore's existing and planned mitigation efforts un
 
 **2. Who is covered under the carbon tax?**
 
-The tax is applied on the total direct emissions of facilities that emit 25,000 tCO2e or more of emissions annually. This is equivalent to emissions produced by the annual electricity consumption of 12,500 HDB 4-room households. About 30 to 40 companies are expected to be liable for carbon tax. It covers the six greenhouse gases (GHGs) that Singapore is currently reporting to the United Nations Framework Convention on Climate Change (UNFCCC), namely carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF6).
+The tax is applied on the total direct emissions of facilities that emit 25,000 tCO2e or more of emissions annually. This is equivalent to emissions produced by the annual electricity consumption of 12,500 HDB 4-room households. About 40 to 50 companies are expected to be liable for carbon tax. It covers the six greenhouse gases (GHGs) that Singapore is currently reporting to the United Nations Framework Convention on Climate Change (UNFCCC), namely carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF6).
 
 **3. Why has the government decided on a carbon tax regime with no exemptions?**
 
@@ -25,17 +25,17 @@ Also, setting such benchmarks can be a complicated process, and implementing the
 
 **4. Which other countries or jurisdictions have implemented carbon pricing?**
 
-Singapore is not alone in pricing carbon. About 67 jurisdictions (42 national and 25 sub-national jurisdictions) have implemented, or have plans to implement, carbon pricing. These jurisdictions account for roughly half of global greenhouse gas emissions. A few of these jurisdictions such as Finland, Norway and Sweden have implemented carbon pricing as early as the 1990s.
+Singapore is not alone in pricing carbon. About 78 jurisdictions (46 national and 32 sub-national jurisdictions) have implemented, or have plans to implement, carbon pricing. These jurisdictions account for roughly half of global greenhouse gas emissions. A few of these jurisdictions such as Finland, Norway and Sweden have implemented carbon pricing as early as the 1990s.
 
 **5. What is the expected impact of the carbon tax on households?**
 
-On average, the impact of the carbon tax on total electricity and gas expenses will be small, ranging from about $0.30 per month for a HDB 1-room flat to about $1.10 per month for a HDB executive flat.
+Our strategies for climate action take into account the needs of all stakeholders, including the low-income and the vulnerable.
 
-The extent to which a power generation company may pass on its marginal cost of producing electricity (including the cost of fuel and carbon tax) will depend on its overall cost structure and market dynamics. Even if power generation companies pass on the full costs of a $5/tCO2e carbon tax to consumers, the increase would be equivalent to a rise in electricity prices of about 0.21 cents/kWh, or about a one per cent increase from current electricity tariffs of 21.56 cents/kWh for the first quarter of 2018. This is small, compared to historical quarterly electricity tariffs which have fluctuated by up to 10 percent between the first quarter of 2010 and the first quarter of 2018 due to changes in fuel prices.
+Our range of adaptation and mitigation measures is designed to be inclusive. The measures aim to minimise the adverse effects that climate change could have on the economy, society and on our daily lives.
 
-To help households adjust, the Government will provide additional [<a href="https://www.gstvoucher.gov.sg/Pages/U-Save.aspx" target="_blank">U-Save rebates</a>](https://www.gstvoucher.gov.sg/Pages/U-Save.aspx) for three years. Eligible HDB households will each receive $20 more per year, from 2019 to 2021. On average, the increase in U-Save rebates will cover the expected increase in electricity and gas arising from the carbon tax for HDB households who receive U-Save rebates.
+For example, the Government has been improving the liveability of our public housing estates through novel ways of weaving greenery into our estates and towns, which reduces temperatures while improving air quality. HDB flats are also designed to maximise cross-ventilation, thereby reducing reliance on air-conditioning which is a large contributor to household utility bills. The recently announced HDB Green Towns Programme will further enable reduction in energy consumption and cool our HDB towns. These sustainability measures ensure that the impact of climate change on all residents, including low-income groups, are minimised.
 
-Households are encouraged to adopt energy-saving habits to reduce their electricity expenses. By switching off the power at the socket when appliances are not in use, households can save up to $16 a year. By using a more energy-efficient refrigerator (changing from a model with “1 tick” to one with “3 ticks”), households can save up to $35 a year.
+The Government also ensures that cost of mitigation measures is minimised for households. As recently announced, the Government will introduce incentives to support lower-income households in purchasing more energy efficient appliances. To help households adjust to the impact of the carbon tax on their electricity and gas expenses, eligible HDB households are given an additional $20 GST Voucher – U-Save on top of the regular U-Save rebate each year from 2019 to 2021. Eligible households living in smaller HDB flats benefit more as they receive a larger quantum of U-Save rebates, and typically have smaller annual utilities bills.
 
 **6. How would the Government ensure that consumers are not over-charged by electricity retailers passing on more than 100 per cent of the carbon tax to consumers?**
 
