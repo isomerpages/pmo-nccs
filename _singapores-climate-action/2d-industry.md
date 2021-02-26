@@ -26,7 +26,7 @@ To further drive energy efficiency improvements in the industry, the following n
 * Conduct regular energy efficiency opportunities assessments and submit first assessment by 2021  
 * New industrial facilities and major expansion projects to undergo design reviews to incorporate energy efficiency measures from 2018
 
-Through the legislation of mandates for large energy consumers, Singapore aims to promote a coordinated approach to energy efficiency that will help companies identify and address inefficiency gaps within their organisations. 
+Through the legislation of mandates for large energy consumers, Singapore aims to promote a coordinated approach to energy efficiency that will help companies identify and address inefficiency gaps within their organisations. Minimum Energy Efficiency Standards (MEES) have been introduced to phase out the least efficient industrial electric motors in 2018 and chilled water systems in 2020.
 
 **Energy Efficiency Fund (E2F)**
 
