@@ -30,4 +30,4 @@ The Resource Sustainability Act introduced in 2019 gives legislative effect to t
 **World’s First Integrated Waste and Water Treatment Facility**
 The integrated development of Tuas Water Reclamation Plant and the Integrated Waste Management Facility, jointly known as Tuas Nexus, aims to maximise both energy and resources recovery in solid waste and used water treatment processes. Biogas, produced from the co-digestion of food waste and used water sludge, will be used to generate electricity which will be used for running the energy self-sufficient facility.  
 
-![Tuas Nexus](/images/tuas-nexus.jpg "Tuas Nexus")  
+![tuas-nexus](/images/tuas-nexus.png "tuas-nexus")
