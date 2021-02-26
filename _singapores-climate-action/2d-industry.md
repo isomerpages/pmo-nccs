@@ -18,7 +18,7 @@ Beginning in April 2013, energy users in the industry and transport sectors who 
 
 Since the enactment of the Act, energy savings have been realised and annual energy efficiency has improved over each year. 
 
-
+![annual-ee-improvement](/images/annual-ee-improvement.png "annual-ee-improvement")
 
 To further drive energy efficiency improvements in the industry, the following new requirements will be introduced over the next few years:
 
@@ -26,7 +26,7 @@ To further drive energy efficiency improvements in the industry, the following n
 * Conduct regular energy efficiency opportunities assessments and submit first assessment by 2021  
 * New industrial facilities and major expansion projects to undergo design reviews to incorporate energy efficiency measures from 2018
 
-Through the legislation of mandates for large energy consumers, we aim to promote a coordinated approach to energy efficiency that will help companies identify and address inefficiency gaps within their organisations.
+Through the legislation of mandates for large energy consumers, Singapore aims to promote a coordinated approach to energy efficiency that will help companies identify and address inefficiency gaps within their organisations. 
 
 **Energy Efficiency Fund (E2F)**
 
@@ -35,8 +35,11 @@ The Energy Efficiency Fund (E2F) supports a wide range of energy efficiency effo
 * **Resource efficient design** – Co-funding of up to 50 per cent on consultancy fees (capped at $600,000 per project)  
 * **Energy assessment** – Co-funding of up to 50 per cent of the costs of energy audits (capped at $200,000 per project)  
 * **Energy efficient equipment or technologies** – Co-funding of up to 30 per cent of the investment cost of energy efficient equipment or technologies
+* **Energy Management Information System** – Co-funding of up to 50 per cent of implementing EMIS (capped at $250,000 per energy-intensive facility or $125,000 per project for other facilities)
+* **Low-GWP Refrigerants Chillers** – Support for adoption of water-cooled chillers using low-GWP refrigerants 
 
-Apart from grants, tax incentive schemes such as the **Accelerated Depreciation Allowance Scheme (ADAS)** allows the early write-off or depreciation of capital expenditure on energy efficient or energy-saving equipment to replace older, more energy-consuming ones. The **Investment Allowance – Energy Efficiency Scheme (IA)** allows an additional 30 per cent investment allowance for energy efficiency investments against taxable income, on top of normal capital allowances.
+
+Apart from grants, tax incentive schemes such as the **Accelerated Depreciation Allowance Scheme** allows the early write-off or depreciation of capital expenditure on energy efficient or energy-saving equipment to replace older, more energy-consuming ones. The **Investment Allowance – Energy Efficiency Scheme (IA)** allows an additional 30 per cent investment allowance for energy efficiency investments against taxable income, on top of normal capital allowances.
 
 ### Development of Expertise in Singapore to Drive Energy Efficiency Improvements
 
