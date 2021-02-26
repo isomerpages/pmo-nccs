@@ -14,7 +14,7 @@ The Government aims to improve our current recycling rate of 59 per cent to 70 p
 Singapore’s inaugural Zero Waste Masterplan launched in 2019 further sets target to reduce the amount of waste sent to Semakau Landfill per capita per day by 30 per cent by 2030. 
 
 ![Combating Waste Emissions](/images/combating-waste-emissions.jpg "Combating Waste Emissions")  
-Waste being prepared for incineration at the Keppel Seghers Tuas Waste-to-Energy plant. Besides diverting waste from landfills, incinerating waste also recovers heat energy that is used to produce and supply electricity to homes and factories. (Image courtesy of Keppel Corporation Limited)
+<i>Waste being prepared for incineration at the Keppel Seghers Tuas Waste-to-Energy plant. Besides diverting waste from landfills, incinerating waste also recovers heat energy that is used to produce and supply electricity to homes and factories. (Image courtesy of Keppel Corporation Limited)</i>
 
 **Reducing Methane from Wastewater**
 <br>Singapore will also seek to reduce direct methane emissions from wastewater sludge through incineration. Sumitomo Mitsui Banking Corporation and ECO-Special Waste Management (ECO-SWM) have collaborated on the development of one of Southeast Asia's largest sludge incineration plants in Singapore.
