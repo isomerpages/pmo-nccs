@@ -13,7 +13,7 @@ A carbon tax will enhance Singapore's existing and planned mitigation efforts un
 
 **2. Who is covered under the carbon tax?**
 
-The tax is applied on the total direct emissions of facilities that emit 25,000 tCO2e or more of emissions annually. This is equivalent to emissions produced by the annual electricity consumption of 12,500 HDB 4-room households. About 40 to 50 companies are expected to be liable for carbon tax. It covers the six greenhouse gases (GHGs) that Singapore is currently reporting to the United Nations Framework Convention on Climate Change (UNFCCC), namely carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF6).
+The tax is applied on the total direct emissions of facilities that emit 25,000 tCO<sub>2</sub>e or more of emissions annually. This is equivalent to emissions produced by the annual electricity consumption of 12,500 HDB 4-room households. About 40 to 50 companies are expected to be liable for carbon tax. It covers the six greenhouse gases (GHGs) that Singapore is currently reporting to the United Nations Framework Convention on Climate Change (UNFCCC), namely carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2<sub>O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF<sub>6</sub>).
 
 **3. Why has the government decided on a carbon tax regime with no exemptions?**
 
@@ -43,7 +43,7 @@ Today's electricity retail market is competitive and discourages retailers from 
 
 **7. How would my electricity price plan under the Open Electricity Market be affected by the carbon tax?**
 
-With the rollout of the Open Electricity Market from 2018, small<sup>[1]</sup> consumers who have bought standard price plans will continue to pay the electricity rate contracted with their retailers even when the carbon tax is implemented on 1 January 2019. This is because the electricity rate under standard price plans are inclusive of all applicable charges, i.e. consumers’ contracted electricity rate will not change during the contract duration even after the carbon tax comes into effect.
+With the rollout of the Open Electricity Market from 2018, small<sup>[1]</sup> consumers who have bought standard price plans will continue to pay the electricity rate contracted with their retailers even when the carbon tax was implemented on 1 January 2019. This is because the electricity rate under standard price plans are inclusive of all applicable charges, i.e. consumers’ contracted electricity rate will not change during the contract duration even after the carbon tax comes into effect.
 
 For non-standard price plans, retailers who wish to exercise the contractual right to adjust the electricity rate, and/or add a new charge for contracted consumers due to genuine rise in business costs (e.g. carbon tax) even if the contract provides for this, *shall seek EMA’s prior approval*. Specifically, for carbon tax, the retailer is required to provide the following information to EMA as part of the approval process:
 
