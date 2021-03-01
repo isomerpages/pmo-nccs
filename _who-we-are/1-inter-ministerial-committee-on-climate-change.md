@@ -15,7 +15,7 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 
 **Members**
 
-* Ms Grace Fu Hai Yien, Minister for Sustainability and the Environment 
+* Ms Grace Fu, Minister for Sustainability and the Environment 
 * Dr Vivian Balakrishnan, Minister for Foreign Affairs  
 * Mr Lawrence Wong, Second Minister for Finance  
 * Mr Chan Chun Sing, Minister for Trade and Industry  
@@ -29,7 +29,7 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 
 **IMCCC Executive Committee**
 
-IMCCC is supported by an Executive Committee (Exco) comprising the permanent secretaries of the respective Ministries. The IMCCC Exco oversees the work of the International Negotiations Working Group (INWG), Long Term Emissions and Mitigation Working Group (LWG), and the Resilience Working Group (RWG).
+IMCCC is supported by an Executive Committee (Exco) comprising the permanent secretaries of the respective Ministries. The IMCCC Exco oversees the work of the Long Term Emissions and Mitigation Working Group (LWG), Resilience Working Group (RWG), Sustainability Working Group (SWG), Green Economy Working Group (GEWG) and Communications and Engagement Working Group (CEWG).
 
 ### IMCCC Exco Members
 
@@ -47,109 +47,27 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 * Mr Lee Chuan Teck, Permanent Secretary (Trade and Industry)(Development) 
 * Mr Loh Ngai Seng, Permanent Secretary (Transport)  
 * Dr Beh Swan Gin, Chairman, Economic Development Board
+* Mr Ravi Menon, Managing Director, Monetary Authority of Singapore
 
 **Secretariat**
 
 * Mr Benedict Chia, Director (Strategic Issues), National Climate Change Secretariat, Strategy Group, Prime Minister's Office
-
-**International Negotiations Working Group**
-
-The International Negotiations Working Group (INWG) develops Singapore's international climate change negotiations strategy under the UN Framework Convention on Climate Change (UNFCCC).
-
-### INWG Members
-
-**Chairman**
-
-* **BG (NS) Chee Wee Kiong, Permanent Secretary (Foreign Affairs)**
-
-**Members**
-
-* Mr Albert Chua, Permanent Secretary (Sustainability and the Environment)  
-* Mrs Ow Foong Pheng, Permanent Secretary (National Development)  
-* Mr Lee Chuan Teck, Permanent Secretary (Trade and Industry)(Development) 
-* Mr Loh Ngai Seng, Permanent Secretary (Transport)  
-* Mr Ngiam Shih Chun, Chief Executive, Energy Market Authority  
-* Mr Tan Meng Dui, Chief Executive Officer, National Environment Agency  
-* Mr Kenneth Er, Chief Executive Officer, National Parks Board  
-* Mr Cheah Sin Liang, Lead Coordinator for Climate Negotiations, National Climate Change Secretariat  
-* Mr Lionel Yee, Second Solicitor General / Director-General (International Affairs), Attorney-General's Chambers
-
-**Secretariat**
-
-* Mr Kevin Khng, Deputy Lead Coordinator for Climate Negotiations, Ministry of Sustainability and the Environment 
+* Mr Heng Jian Wei, Director (Policy and Planning), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
 
 **Long Term Emissions and Mitigation Working Group**
 
-The Long Term Emissions and Mitigation Working Group (LWG) studies how Singapore can stabilise its long-term emissions. LWG examines options for emission reduction and identifies the capabilities, infrastructure and policies needed for long-term mitigation.
-
-### LWG Members
-
-**Co-Chairmen**
-
-* **Mr Leo Yip, Head Civil Service, Permanent Secretary (Prime Minister's Office)(Strategy)**  
-* **Mr Lee Chuan Teck, Permanent Secretary (Trade and Industry)(Development)**
-
-**Members**
-
-* Mr Albert Chua, Permanent Secretary (Sustainability and the Environment)  
-* Mrs Tan Ching Yee, Permanent Secretary (Finance)  
-* Mrs Ow Foong Pheng, Permanent Secretary (National Development)  
-* Ms Chan Lai Fung, Permanent Secretary (National Research and Development)  
-* Mr Loh Ngai Seng, Permanent Secretary (Transport)  
-* Mr Hugh Lim, Chief Executive Officer, Building and Construction Authority  
-* Mr Chng Kai Fong, Managing Director, Economic Development Board  
-* Mr Ngiam Shih Chun, Chief Executive, Energy Market Authority  
-* Mr Ngien Hoon Ping, Chief Executive, Land Transport Authority  
-* Mr Tan Meng Dui, Chief Executive Officer, National Environment Agency  
-* Mr Ng Joo Hee, Chief Executive, PUB, The National Water Agency   
-* Mr Lim Eng Hwee, Chief Executive Officer, Urban Redevelopment Authority
-* Mr Tan Kiat How, Chief Executive Officer, Info-Communications Media Development Authority
-
-**Secretariat**
-
-* Ms Pamela Lee, Director (Policy and Planning), National Climate Change Secretariat, Strategy Group, Prime Minister's Office  
-* Ms Tan Pei Shan, Director (Energy Division), Ministry of Trade and Industry  
-* Ms Leonie Lee, Director (Energy & Climate Policy Division), Ministry of Sustainability and the Environment 
+The Long Term Emissions and Mitigation Working Group (LWG) develops plans to reduce Singapore’s  long-term emissions. LWG examines mitigation options, and identifies the capabilities, infrastructure and policies needed for long-term emissions reduction.
 
 **Resilience Working Group**
 
-The Resilience Working Group (RWG) studies Singapore's vulnerability to the effects of climate change and recommends long-term plans that ensure the nation’s adaptation to future environmental changes.
+The Resilience Working Group (RWG) studies Singapore’s vulnerability to the effects of climate change and develops long-term plans that ensure the nation’s resilience to future environmental changes.
 
-### RWG Members
+**Sustainability Working Group**
 
-**Co-Chairmen** 
+The Sustainability Working Group (SWG) develops the national sustainability agenda to strengthen Singapore’s resource resilience, and addresses emerging and cross-cutting issues on sustainability. 
 
-* **Mrs Ow Foong Pheng, Permanent Secretary (National Development)**  
-* **Mr Albert Chua, Permanent Secretary (Sustainability and the Environment)**
+**Green Economy Working Group** 
+The Green Economy Working Group (GEWG) coordinates and enables the growth of Singapore’s green economy, so as to seize new economic opportunities in sustainability and create good jobs for Singaporeans. 
 
-**Members**
-
-* Ms Lim Wan Yong, Deputy Secretary (Planning), Ministry of National Development  
-* Ms Amy Hing, Deputy Secretary (Policy), Ministry of Sustainability and the Environment  
-* Mr Yee Ping Yi, Deputy Secretary (Policy), Ministry of Finance  
-* Mr Lim Kok Thai, Chief Executive Officer, Singapore Food Agency  
-* Ms Ngiam Siew Ying, Deputy Secretary (Policy), Ministry of Health  
-* Mr Hugh Lim, Chief Executive Officer, Building and Construction Authority  
-* Mr Kevin Shum, Director General, Civil Aviation Authority of Singapore  
-* Mr Ngiam Shih Chun, Chief Executive, Energy Market Authority  
-* Dr Cheong-Chua Koon Hean, Chief Executive Officer, Housing Development Board  
-* Mr Tan Kiat How, Chief Executive Officer, Info-Communications Media Development Authority 
-* Mr Ng Lang, Chief Executive Officer, JTC Corporation  
-* Mr Ngien Hoon Ping, Chief Executive, Land Transport Authority  
-* Mr Tan Meng Dui, Chief Executive Officer, National Environment Agency  
-* Mr Kenneth Er, Chief Executive Officer, National Parks Board  
-* Ms Quah Ley Hoon, Chief Executive, Maritime and Port Authority of Singapore  
-* Mr Ng Joo Hee, Chief Executive, PUB, The National Water Agency  
-* Mr Tan Boon Khai, Chief Executive, Singapore Land Authority  
-* Mr Lim Eng Hwee, Chief Executive Officer, Urban Redevelopment Authority  
-
-**Secretariat**
-
-* Mr Chan Khar Liang, Senior Director (Infrastructure), Ministry of National Development
-* Ms Leonie Lee, Director (Energy & Climate Policy Division), Ministry of Sustainability and the Environment 
-
-
-
-
-
-
+**Communications and Engagement Working Group**
+Communications and Engagement Working Group (CEWG) establishes communications priorities, to achieve greater whole-of-government coordination in climate change communications and engagement efforts, to build consensus on Singapore’s climate change plans and targets. 
