@@ -25,7 +25,7 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 
 **Committees and Work Groups Addressing Singapore's Climate Change-related Issues**
 
-![committees-and-work-groups-addressing-singapores-climate-change-related-issues-updated](/images/committees-and-work-groups-addressing-singapores-climate-change-related-issues-updated.jpg  "committees-and-work-groups-addressing-singapores-climate-change-related-issues-updated")
+![committees-and-work-groups-addressing-singapores-climate-change-related-issues-updated](/images/committees-and-work-groups-addressing-singapores-climate-change-related-issues-updated.png  "committees-and-work-groups-addressing-singapores-climate-change-related-issues-updated")
 
 **IMCCC Executive Committee**
 
