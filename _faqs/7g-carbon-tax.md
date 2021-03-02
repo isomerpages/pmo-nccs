@@ -13,7 +13,7 @@ A carbon tax will enhance Singapore's existing and planned mitigation efforts un
 
 **2. Who is covered under the carbon tax?**
 
-The tax is applied on the total direct emissions of facilities that emit 25,000 tCO<sub>2</sub>e or more of emissions annually. This is equivalent to emissions produced by the annual electricity consumption of 12,500 HDB 4-room households. About 40 to 50 companies are expected to be liable for carbon tax. It covers the six greenhouse gases (GHGs) that Singapore is currently reporting to the United Nations Framework Convention on Climate Change (UNFCCC), namely carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2<sub>O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF<sub>6</sub>).
+The tax is applied on the total direct emissions of facilities that emit 25,000 tCO<sub>2</sub>e or more of emissions annually. This is equivalent to emissions produced by the annual electricity consumption of 12,500 HDB 4-room households. About 40 to 50 companies are expected to be liable for carbon tax. It covers the six greenhouse gases (GHGs) that Singapore is currently reporting to the United Nations Framework Convention on Climate Change (UNFCCC), namely carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF<sub>6</sub>).
 
 **3. Why has the government decided on a carbon tax regime with no exemptions?**
 
