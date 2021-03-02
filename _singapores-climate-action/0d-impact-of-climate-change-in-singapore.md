@@ -6,9 +6,9 @@ third_nav_title: National Circumstances
 
 ### IMPACT OF CLIMATE CHANGE ON SINGAPORE
 
-Singapore is not insulated from the impact of climate change. From 1972 to 2014, the annual mean temperature has increased from 26.6°C to 27.7°C. The mean sea level in the Straits of Singapore has also increased at the rate of 1.2mm to 1.7mm per year in the period 1975 to 2009. 
+Singapore is not insulated from the impact of climate change. From 1980 to 2020, the annual mean temperature has increased from 26.9°C to 28.0°C. The mean sea level in the Straits of Singapore has also increased at the rate of 1.2mm to 1.7mm per year in the period 1975 to 2009.
 
-Rainfall has become more intense in recent years. According to Singapore's Second National Climate Change Study, there has been a general uptrend in annual average rainfall from 2192mm in 1980 to 2727mm in 2014.
+Rainfall has become more intense in recent years. Annual rainfall total for Singapore has increased at an average rate of 67 mm per decade from 1980 to 2019. 
 
 In 2001, the first recorded cyclone near the equator, Typhoon Vamei, swept north of Singapore and caused major flooding in the region. It is uncertain whether such tropical cyclones near the equator will occur more frequently in the future.
 
@@ -16,7 +16,9 @@ In 2001, the first recorded cyclone near the equator, Typhoon Vamei, swept north
 
 **Sea level rise**
 
-As a low-lying island, the rise in sea level poses the most immediate threat to Singapore. Much of our nation lies only 15 m above the mean sea level, with about 30 per cent of our island being less than 5 m above the mean sea level.
+As a low-lying island, the rise in sea level poses the most immediate threat to Singapore. Much of our nation lies only 15 m above the Singapore Height Datum <sup><a href="#fn1" id="ref1">1</a></sup>, with about 30 per cent of our island being less than 5 m above the Singapore Height Datum.
+
+<sup id="fn1">1. Singapore Height Datum is the reference established based on the mean sea level determined at the tide gauge located at Victoria Dock in Tanjong Pagar between 1935-1937. It is used for height measurement in engineering and mapping activities.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
 
 **Water resources**
 
@@ -56,7 +58,7 @@ The second study, which updated the projections for Singapore based on the findi
 
 *Source: Ministry of Sustainability and the Environment*
 
-Phase 2 of the study will make use of the projections from Phase 1 to examine the climate change impacts on areas such as water resources and drainage, biodiversity and greenery, network infrastructure and building infrastructure. 
+Phase 2 of the study makes use of the projections from Phase 1 to examine the climate change impacts on areas such as water resources and drainage, biodiversity and greenery, network infrastructure and building infrastructure. 
 
 
 

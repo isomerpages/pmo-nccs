@@ -6,14 +6,14 @@ third_nav_title: Adaptation Efforts
 
 ### COASTAL PROTECTION
 
-With most of Singapore being within 15 m above sea level and 30 per cent of our island being less than 5 m above sea level, any additional increase caused by climate change is an immediate threat.
+With most of Singapore being within 15 m above Singapore Height Datum and around 30 per cent of our island being less than 5 m above Singapore Height Datum, any additional increase caused by climate change is an immediate threat.
 
 Protecting our coastline and improving drainage is one of our priorities in dealing with the effects of climate change.
 
-To cater for long-term sea level rise, the minimum land reclamation level in Singapore was raised from 3 metres to 4 metres above the mean sea level in 2011. This level is adequate in addressing projected sea level rise under the Second National Climate Change Study. PUB and related agencies will continue to review the minimum reclamation levels with information from new studies available.
+To cater for long-term sea level rise, the minimum land reclamation level in Singapore was raised from 3 metres to 4 metres above the Singapore Height Datum in 2011. This level is adequate in addressing projected sea level rise under the Second National Climate Change Study. PUB and related agencies will continue to review the minimum reclamation levels with information from new studies available.
 
 ![Coastal Protection](/images/coastal-protection.jpg "Coastal Protection")  
-Minimum platform levels for new reclamation projects were increased to cope with potential rising sea levels.
+<i>Minimum platform levels for new reclamation projects were increased to cope with potential rising sea levels.</i>
 
 **Safeguarding Our Coastline**  
 Our current efforts to defend our coastal areas from erosion include the construction of walls and stone embankments covering 70 per cent to 80 per cent of Singapore's coastline. The rest are natural areas such as beaches and mangroves. Coastal engineering, wave dynamics, coastal morphology and hydrodynamics all contribute to the development of appropriate protective measures.

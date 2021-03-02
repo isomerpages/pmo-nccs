@@ -17,5 +17,5 @@ While a localised temperature change of 2°C or 3°C may not seem serious, it ha
 
 The following diagram summarises the environmental impact created by an increase in the global average annual temperature :
 
-![Global Consequences](/images/global-consequences.jpg "Global Consequences")
+![spm-4](/images/spm-4.png "spm-4")
 

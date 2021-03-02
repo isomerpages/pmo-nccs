@@ -19,9 +19,9 @@ For more details, please refer to our [<a href="/docs/default-source/publication
 
 **2. Is Singapore safe from rising sea levels?**
 
-As a low-lying island in the tropics, with 30 per cent of our island being less than 5 metres above sea level, any increase in sea levels caused by climate change is an immediate threat.
+As a low-lying island in the tropics, with 30 per cent of our island being less than 5 metres above Singapore Height Datum, any increase in sea levels caused by climate change is an immediate threat.
 
-To cater for long-term sea level rise, the minimum land reclamation level in Singapore was raised from 3 to 4 metres above the mean sea level in 2011. This would be adequate based on the projected rise in sea level to 1 metre by 2100, based on the Second National Climate Change Study in 2015. 
+To cater for long-term sea level rise, the minimum land reclamation level in Singapore was raised from 3 to 4 metres above the Singapore Height Datum in 2011. This would be adequate based on the projected rise in sea level to 1 metre by 2100, based on the Second National Climate Change Study in 2015. 
 
 In addition, the Building and Construction Authority (BCA) commissioned a Coastal Adaptation Study in 2013, to assess the potential impact of coastal inundation, and to study possible long-term adaptation measures. The Government is reviewing the findings of the CAS to develop strategies to protect Singapore’s coastline.
 
@@ -39,6 +39,10 @@ PUB has taken a system-wide approach to introduce flexibility and adaptability t
 
 **5. How prepared is Singapore against food scarcity resulting from climate change impacts on agriculture?**
 
-As a country that imports over 90 per cent of our food supply, Singapore is vulnerable to fluctuations in food supply and prices. To ensure that Singapore has access to food at affordable prices, the Singapore Food Agency (SFA) has put in place a Food Security Roadmap, with the core strategies of food source diversification and local production to ensure food security for Singapore. Further details can be found [<a href="https://www.sfa.gov.sg/files/avavision/issues3-4_2013/food-security-roadmap.html" target="_blank">here</a>](https://www.sfa.gov.sg/files/avavision/issues3-4_2013/food-security-roadmap.html).
+As a country that imports over 90 per cent of our food supply, Singapore is vulnerable to fluctuations in food supply and prices. To enhance our food security, we are pursuing three strategies, also known as our three “food baskets”:
+
+1.	Diversify import sources;
+2.	Grow local; and
+3.	Grow overseas.
 
 The Government has also set a goal to meet 30 per cent of Singapore’s nutritional needs locally by 2030. This represents a multi-fold increase to our current production of 10 per cent. It will require our agri-food industry to transform into one that is highly productive, and uses climate-resilient and sustainable technologies that will enable us to overcome our land, water, energy and manpower constraints.

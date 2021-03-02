@@ -10,20 +10,17 @@ Power generation is one of the major sources of carbon emissions. With our limit
 
 **A More Environment-friendly Method to Power Our Nation**
 
-Since 2000, we have increased the percentage of natural gas used in electricity generation from 19 per cent to 95 per cent today. Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. By so doing, we have cut the amount of carbon we release into the atmosphere.
+Since 2000, we have increased the percentage of natural gas used in electricity generation from 19 per cent to more than 95 per cent today. Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. By so doing, we have cut the amount of carbon we release into the atmosphere.
 
-Our fuel mix makes us much less carbon intensive than many other nations still use coal as an important part of their power generation.
+Our fuel mix makes us much less carbon intensive than many other nations that still use coal as an important part of their power generation.
 
-![A More Environment-friendly Method to Power Our Nation](/images/a-more-enviroment-friendly-method-to-power-our-nation.jpg "A More Environment-friendly Method to Power Our Nation")
-*Singapore has switched from fuel oil to natural gas as our main energy source for electricity generation. The picture above shows Senoko Energy's repowered units that were completed in 2005. The repowering involved the conversion of three oil-fired steam thermal plants into three gas-fired combined cycle plant. (Image courtesy of Senoko Energy)*
+![grid-emission-factor](/images/grid-emission-factor.png "grid-emission-factor")
 
-**Fuel Mix for Power Generation by Country (2013)**
-
-![Fuel Mix for Power Generation by Country (2013)](/images/fuel-mix-for-power-generation-by-country-2013.jpg "Fuel Mix for Power Generation by Country (2013)")
+![electricity-generation-fuel-mix](/images/electricity-generation-fuel-mix.png "electricity-generation-fuel-mix")
 
 **Decreasing Our Fuel Oil Usage**
 
-Our electricity is produced by the combustion of natural gas that is piped from Malaysia and Indonesia. We have diversified our supply of natural gas with the development of a liquefied natural gas (LNG) terminal on Jurong Island. There are further plans to build a second LNG terminal to support new industrial sites and power plants. This will not only provide critical mass for enhanced energy security, but it will also enable Singapore to be a hub for LNG-related businesses.
+Our electricity is produced by the combustion of natural gas that is piped from Malaysia and Indonesia. We have diversified our supply of natural gas with the opening of a liquefied natural gas (LNG) terminal on Jurong Island. There are further plans to build a second LNG terminal to support new industrial sites and power plants. This will not only provide critical mass for enhanced energy security, but it will also enable Singapore to be a hub for LNG-related businesses.
 
 ![Decreasing Our Fuel Oil Usage](/images/decreasing-our-fuel-oil-usage.jpg "Decreasing Our Fuel Oil Usage")
 
@@ -33,17 +30,14 @@ Source: Energy Market Authority
 
 Among the alternative energy options available to us, solar energy offers the most promising opportunity for Singapore. With the fall in solar photovoltaic (PV) panel prices, solar energy is currently economically comparable to electricity derived from fossil fuels.
 
-To accelerate solar deployment in Singapore, the SolarNova programme has been launched to promote and aggregate solar demand across government agencies. In Nov 2015, the first SolarNova tender was awarded for solar photovoltaic (PV) systems to be deployed on the facilities of government agencies including the Housing Development Board (HDB), the Ministry of Home Affairs (MHA), and PUB, the national water angecy.
+To accelerate solar deployment in Singapore, the SolarNova programme has been launched, as a Whole-of-Government effort, to promote and aggregate solar demand across government agencies. Since 2015, four leasing tenders totalling 236 MWp of solar energy, have been awarded, with a fifth tender of 60 MWp awarded in 2020. 
 
-**Notable Solar Installations**
+Singapore aims to deploy at least 2 GWp of solar by 2030, equivalent to the annual electricity needs of around 350,000 households in Singapore. 
 
-The total installed solar PV capacity in Singapore is currently about 47 megawatt peak (MWp) for both residential and non-residential areas. This includes installations at:
+Grid-connected installed solar PV capacity in Singapore has grown significantly to 384.1 MWp as at end Q1 2020. This is contributed via the 4,116 installations across Singapore at: 
 
-* HDB rooftops  
-* Keppel Seghers Ulu Pandan NEWater Plant  
-* Resorts World Sentosa  
-* GreenPac Pte Ltd  
-* Applied Materials Singapore Operational Centre  
-* Sheng Siong Supermarket  
-* Singapore Sports Hub
+* Non-residential private sector 
+* Town councils and grassroots units 
+* Public sector 
+* Residential estates
 
