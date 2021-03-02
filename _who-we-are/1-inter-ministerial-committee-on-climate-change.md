@@ -67,7 +67,9 @@ The Resilience Working Group (RWG) studies Singapore’s vulnerability to the ef
 The Sustainability Working Group (SWG) develops the national sustainability agenda to strengthen Singapore’s resource resilience, and addresses emerging and cross-cutting issues on sustainability. 
 
 **Green Economy Working Group** 
+
 The Green Economy Working Group (GEWG) coordinates and enables the growth of Singapore’s green economy, so as to seize new economic opportunities in sustainability and create good jobs for Singaporeans. 
 
 **Communications and Engagement Working Group**
+
 Communications and Engagement Working Group (CEWG) establishes communications priorities, to achieve greater whole-of-government coordination in climate change communications and engagement efforts, to build consensus on Singapore’s climate change plans and targets. 
