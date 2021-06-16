@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Singapore’s National Statement by Minister Vivian Balakrishnan at the United Nations Sustainable Development Summit 2015
+title: 'Singapore’s National Statement by Minister Vivian Balakrishnan at the United Nations Sustainable Development Summit 2015'
 subtitle: 28 Sept 2015
 permalink: /media/press-release/singapore-s-national-statement-by-minister-vivian-balakrishnan-at-the-united-nations-sustainable-development-summit-2015
 ---
