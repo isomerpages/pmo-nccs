@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NEA launches ‘Energy-Saving Challenge’ to promote reduction in electricity consumption among households
+title: 'NEA launches ‘Energy-Saving Challenge’ to promote reduction in electricity consumption among households'
 subtitle: 15 Jun 2017
 permalink: /media/press-release/nea-launches-energy-saving-challenge-to-promote-reduction-in-electricity-consumption-among-households
 ---
