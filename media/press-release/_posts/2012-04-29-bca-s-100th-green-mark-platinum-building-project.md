@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BCA’S 100th Green Mark Platinum Building Project
+title: 'BCA’S 100th Green Mark Platinum Building Project'
 subtitle: 29 Apr 2012
 permalink: /media/press-release/bca-s-100th-green-mark-platinum-building-project
 ---
