@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Businesses, Communities, And Individuals Helping To Shape Singapore’s Long-Term Low Emissions Development Strategy
+title: 'Businesses, Communities, And Individuals Helping To Shape Singapore’s Long-Term Low Emissions Development Strategy'
 subtitle: 7 Feb 2020
 permalink: /media/press-release/businesses-communities-and-individuals-helping-to-shape-singapore-s-long-term-low-emissions-development-strategy
 ---
