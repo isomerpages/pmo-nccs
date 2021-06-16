@@ -15,7 +15,7 @@ The Centre for Climate Research Singapore has projected that Singapore could exp
 
 Rising temperatures and reduced rainfall can affect our water supply, biodiversity and greenery, increase the energy demand for cooling, and pose implications for public health. For example, the occurrence of vector-borne diseases such as dengue could increase in a warmer environment.
 
-For more details, please refer to our [<a href="/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf" target="_blank">Climate Action Plan</a>](/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf).
+For more details, please refer to our [<a href="/files/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf" target="_blank">Climate Action Plan</a>](/files/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf).
 
 **2. Is Singapore safe from rising sea levels?**
 

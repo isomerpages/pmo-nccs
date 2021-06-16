@@ -19,8 +19,8 @@ The network will conduct a stock-taking exercise during 2018 and hold a physical
 
 ___
 
-[<a href="/docs/default-source/news-documents/members-of-central-bank-and-supervisors-network-for-green-finance.pdf" target="_blank">Members of Central Bank and Supervisors Network for Green Finance</a>](/docs/default-source/news-documents/members-of-central-bank-and-supervisors-network-for-green-finance.pdf)  
-[<a href="/docs/default-source/news-documents/faqs---greening-the-financial-system.pdf" target="_blank">FAQs - Greening the Financial System</a>](/docs/default-source/news-documents/faqs---greening-the-financial-system.pdf)
+[<a href="/files/default-source/news-documents/members-of-central-bank-and-supervisors-network-for-green-finance.pdf" target="_blank">Members of Central Bank and Supervisors Network for Green Finance</a>](/files/default-source/news-documents/members-of-central-bank-and-supervisors-network-for-green-finance.pdf)  
+[<a href="/files/default-source/news-documents/faqs---greening-the-financial-system.pdf" target="_blank">FAQs - Greening the Financial System</a>](/files/default-source/news-documents/faqs---greening-the-financial-system.pdf)
 <br><br><br>
 
 

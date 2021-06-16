@@ -19,7 +19,7 @@ The revised rebates and surcharges for the respective CEVS bands are as follows:
 
 The revised CEVS will be applicable from 1 July 2015 to 30 June 2017, after which it will be subject to further review.
 
-[<a href="/docs/default-source/news-documents/cevs_revised_bands_eg_car_models_annex_a.pdf" target="_blank">Annex A:  Examples of Existing Car Models in revised CEVS bands</a>](/docs/default-source/news-documents/cevs_revised_bands_eg_car_models_annex_a.pdf)
+[<a href="/files/default-source/news-documents/cevs_revised_bands_eg_car_models_annex_a.pdf" target="_blank">Annex A:  Examples of Existing Car Models in revised CEVS bands</a>](/files/default-source/news-documents/cevs_revised_bands_eg_car_models_annex_a.pdf)
 
 ********** 
 

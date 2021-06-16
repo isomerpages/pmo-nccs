@@ -17,6 +17,6 @@ The study will review the design of the existing structures at the coastal reser
  
 To cater to long-term sea level rise, the minimum land reclamation level in Singapore has been raised by another 1 metre in 2011. This level is more than 2 metres above the highest recorded sea level and is adequate in addressing projected sea levels. 
 
-Please click [<a href="/docs/default-source/news-documents/20160127_pub_annex-a.pdf" target="_blank">here</a>](/docs/default-source/news-documents/20160127_pub_annex-a.pdf) for Annex A.
+Please click [<a href="/files/default-source/news-documents/20160127_pub_annex-a.pdf" target="_blank">here</a>](/files/default-source/news-documents/20160127_pub_annex-a.pdf) for Annex A.
 
 Source: [<a href="https://www.pub.gov.sg/news/pressreleases/20160127" target="_blank">PUB, the national water agency</a>](https://www.pub.gov.sg/news/pressreleases/20160127)

@@ -27,11 +27,11 @@ Details of new measures or enhancements to existing incentive schemes will be an
 
 Climate change is a global challenge and it requires a global solution where all countries play their part. Although Singapore contributes only about 0.11 per cent of global emissions, we are fully committed to reducing carbon emissions and to supporting the UNFCCC process for an international agreement on climate change. Singapore’s INDC is a demonstration of our commitment to UNFCCC objectives.
 
-[<a href="/docs/default-source/news-documents/appendix-i-singapore's-indc.pdf" target="_blank">Appendix I</a>](/docs/default-source/news-documents/appendix-i-singapore's-indc.pdf)
+[<a href="/files/default-source/news-documents/appendix-i-singapore's-indc.pdf" target="_blank">Appendix I</a>](/files/default-source/news-documents/appendix-i-singapore's-indc.pdf)
 
-[<a href="/docs/default-source/news-documents/appendix-ii-international-comparison-of-emissions-intensity.pdf" target="_blank">Appendix II</a>](/docs/default-source/news-documents/appendix-ii-international-comparison-of-emissions-intensity.pdf)
+[<a href="/files/default-source/news-documents/appendix-ii-international-comparison-of-emissions-intensity.pdf" target="_blank">Appendix II</a>](/files/default-source/news-documents/appendix-ii-international-comparison-of-emissions-intensity.pdf)
 
-[<a href="/docs/default-source/news-documents/appendix-iii-indc-infographic.pdf" target="_blank">Appendix III</a>](/docs/default-source/news-documents/appendix-iii-indc-infographic.pdf)
+[<a href="/files/default-source/news-documents/appendix-iii-indc-infographic.pdf" target="_blank">Appendix III</a>](/files/default-source/news-documents/appendix-iii-indc-infographic.pdf)
 
 
 ___

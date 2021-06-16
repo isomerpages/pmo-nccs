@@ -13,7 +13,7 @@ The theme for the NCCC 2013 is "Be the Change. It Starts with You." It recognise
 
 The NCCC 2013 attracted 214 entries from over 700 students from primary schools to tertiary institutions. The winning videos were selected based on their creativity, originality and how well they conveyed the message of climate change.
 
-A Viewers' Choice contest was conducted separately on the National Climate Change Secretariat's (NCCS) Climate Change SG Facebook ([<a href="https://www.facebook.com/ClimateChangeSG/" target="_blank">www.facebook.com/climatechangeSG</a>](https://www.facebook.com/ClimateChangeSG/)). Members of the public were invited to cast their votes for their favourite video. The contest attracted over 900 voters, and *Save Us* by Yio Chu Kang Secondary School emerged as the most popular video. The list of winning videos in each of the categories is at [<a href="/docs/default-source/news-documents/nccc2013_press_release_annex_a.pdf" target="_blank">Annex A</a>](/docs/default-source/news-documents/nccc2013_press_release_annex_a.pdf).
+A Viewers' Choice contest was conducted separately on the National Climate Change Secretariat's (NCCS) Climate Change SG Facebook ([<a href="https://www.facebook.com/ClimateChangeSG/" target="_blank">www.facebook.com/climatechangeSG</a>](https://www.facebook.com/ClimateChangeSG/)). Members of the public were invited to cast their votes for their favourite video. The contest attracted over 900 voters, and *Save Us* by Yio Chu Kang Secondary School emerged as the most popular video. The list of winning videos in each of the categories is at [<a href="/files/default-source/news-documents/nccc2013_press_release_annex_a.pdf" target="_blank">Annex A</a>](/files/default-source/news-documents/nccc2013_press_release_annex_a.pdf).
 
 DPM Teo also unveiled plans by the NCCS, Science Centre Singapore (SCS) and Meteorological Service Singapore (MSS) to revamp the Climate Change Exhibition at the Science Centre Singapore. The Climate Change Exhibition was first launched in May 2008.
 
@@ -21,6 +21,6 @@ Aimed at generating a deeper understanding of the challenges of climate change a
 
 In his speech at the event, DPM Teo highlighted the growth opportunities for Singaporeans in areas such as climate science and the clean tech sector. He said, "As Singapore positions itself as a green growth hub, there will be exciting new options for Singaporeans to pursue studies and careers in these fields. You can be at the fore-front of climate change action, and play a part to develop solutions that benefit Singapore, and the rest of the world."
 
-More details on the climate change exhibition are at [<a href="/docs/default-source/news-documents/nccc2013_press_release_annex_b.pdf" target="_blank">Annex B</a>](/docs/default-source/news-documents/nccc2013_press_release_annex_b.pdf).
+More details on the climate change exhibition are at [<a href="/files/default-source/news-documents/nccc2013_press_release_annex_b.pdf" target="_blank">Annex B</a>](/files/default-source/news-documents/nccc2013_press_release_annex_b.pdf).
 
 Issued by the [<a href="https://www.nccs.gov.sg/" target="_blank">National Climate Change Secretariat</a>](https://www.nccs.gov.sg/)

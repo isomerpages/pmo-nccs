@@ -41,5 +41,5 @@ The survey found that over 90 per cent of Singapore residents are aware of clima
 
 Addressing climate change is a whole-of-society effort, and requires the Government, Businesses, the Community and Individuals to work together. The Government will continue to encourage collective climate action, and work closely with businesses and citizens to co-create solutions to build a resilient and sustainable Singapore.
 
-Details of findings can be found in [<a href="/docs/default-source/publications/pps-infographic-final.pdf" target="_blank">this infographic </a>](/docs/default-source/publications/pps-infographic-final.pdf)(1.21mb). 
+Details of findings can be found in [<a href="/files/default-source/publications/pps-infographic-final.pdf" target="_blank">this infographic </a>](/files/default-source/publications/pps-infographic-final.pdf)(1.21mb). 
 

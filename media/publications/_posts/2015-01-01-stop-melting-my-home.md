@@ -13,7 +13,7 @@ Stop *Melting My Home* is an educational drama programme to raise awareness and 
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/publications/my-guide-to-climate-change.pdf" target="_blank">Students' Guide (PDF, 6MB)</a>](/docs/default-source/publications/my-guide-to-climate-change.pdf)
+* [<a href="/files/default-source/publications/my-guide-to-climate-change.pdf" target="_blank">Students' Guide (PDF, 6MB)</a>](/files/default-source/publications/my-guide-to-climate-change.pdf)
 
-* [<a href="/docs/default-source/publications/a-teachers-companion-my-guide-to-climate-change.pdf" target="_blank">Teachers' Guide (PDF, 1MB)</a>](/docs/default-source/publications/a-teachers-companion-my-guide-to-climate-change.pdf)
+* [<a href="/files/default-source/publications/a-teachers-companion-my-guide-to-climate-change.pdf" target="_blank">Teachers' Guide (PDF, 1MB)</a>](/files/default-source/publications/a-teachers-companion-my-guide-to-climate-change.pdf)
 

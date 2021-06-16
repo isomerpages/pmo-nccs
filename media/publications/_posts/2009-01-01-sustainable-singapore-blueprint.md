@@ -12,8 +12,8 @@ The Sustainable Singapore Blueprint (SSB) 2015 was unveiled by Prime Minister Le
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/default-document-library/ssb-2015-(2016-version).pdf" target="_blank">Singapore Sustainable Blueprint 2015 (2016 version) (PDF, 9MB)</a>](/docs/default-source/default-document-library/default-document-library/ssb-2015-(2016-version).pdf)
+* [<a href="/files/default-source/default-document-library/ssb-2015-(2016-version).pdf" target="_blank">Singapore Sustainable Blueprint 2015 (2016 version) (PDF, 9MB)</a>](/files/default-source/default-document-library/default-document-library/ssb-2015-(2016-version).pdf)
 
-* [<a href="/docs/default-source/default-document-library/sustainable-singapore-blueprint-2015.pdf" target="_blank">Sustainable Singapore Blueprint 2015 (PDF, 8MB)</a>](/docs/default-source/default-document-library/sustainable-singapore-blueprint-2015.pdf)
+* [<a href="/files/default-source/default-document-library/sustainable-singapore-blueprint-2015.pdf" target="_blank">Sustainable Singapore Blueprint 2015 (PDF, 8MB)</a>](/files/default-source/default-document-library/sustainable-singapore-blueprint-2015.pdf)
 
-* [<a href="/docs/default-source/default-document-library/a-lively-and-liveable-singapore-strategies-for-sustainable-growth.pdf" target="_blank">Sustainable Singapore Blueprint 2009 (PDF, 4MB)</a>](/docs/default-source/default-document-library/a-lively-and-liveable-singapore-strategies-for-sustainable-growth.pdf)
+* [<a href="/files/default-source/default-document-library/a-lively-and-liveable-singapore-strategies-for-sustainable-growth.pdf" target="_blank">Sustainable Singapore Blueprint 2009 (PDF, 4MB)</a>](/files/default-source/default-document-library/a-lively-and-liveable-singapore-strategies-for-sustainable-growth.pdf)

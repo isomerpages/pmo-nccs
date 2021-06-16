@@ -23,7 +23,7 @@ The top entry in the Institutes of Higher Learning category was submitted by ITE
 
 A Viewers’ Choice contest was conducted separately on [<a href="https://www.facebook.com/ClimateChangeSG/" target="_blank">NCCS’ Climate Change SG Facebook page</a>](https://www.facebook.com/ClimateChangeSG/) where members of the public voted for their favourite videos. The teams whose videos gathered the most votes in each category also received their prizes from DPM Teo.
 
-The complete list of winning videos for NCCC 2016 is at the [<a href="/docs/default-source/news-documents/annex---nccc-2016-winners.pdf" target="_blank">Annex</a>](/docs/default-source/news-documents/annex---nccc-2016-winners.pdf).
+The complete list of winning videos for NCCC 2016 is at the [<a href="/files/default-source/news-documents/annex---nccc-2016-winners.pdf" target="_blank">Annex</a>](/files/default-source/news-documents/annex---nccc-2016-winners.pdf).
 
 ___
 

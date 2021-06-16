@@ -7,7 +7,7 @@ permalink: /faqs/mitigation-action/
 
 **1. What is the main greenhouse gas emitted in Singapore?**
 
-The most significant greenhouse gas emitted in Singapore is carbon dioxide, primarily produced by the burning of fossil fuels to generate energy used in the industry, building, household and transport sectors. Details of Singapore's greenhouse gas inventory can be found in [<a href="/docs/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf" target="_blank">Singapore's Biennial Update Report to the United Nations Framework Convention on Climate Change (UNFCCC)</a>](/docs/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf).
+The most significant greenhouse gas emitted in Singapore is carbon dioxide, primarily produced by the burning of fossil fuels to generate energy used in the industry, building, household and transport sectors. Details of Singapore's greenhouse gas inventory can be found in [<a href="/files/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf" target="_blank">Singapore's Biennial Update Report to the United Nations Framework Convention on Climate Change (UNFCCC)</a>](/files/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf).
 
 **2. Is it true that Singapore has a very high carbon footprint?**
 
@@ -28,7 +28,7 @@ d) Conduct energy efficiency assessments periodically to identify opportunities 
 e) Implement a structured energy management system;  
 f) Ensure that new or retrofits of energy intensive facilities are designed to be energy efficient.
 
-Singapore has also introduced Industry Energy Efficiency (IEE) incentives in 2010 to encourage industrial and power generation facilities to be more energy efficient through the adoption of energy efficient technologies and equipment. These incentives were further enhanced in 2018 to give stronger support to companies in their drive to become more energy efficient and reduce carbon emissions. More details can be found [<a href="/docs/default-source/default-document-library/power-your-business-with-the-enhanced-industry-energy-efficiency-package.pdf" target="_blank">here</a>](/docs/default-source/default-document-library/power-your-business-with-the-enhanced-industry-energy-efficiency-package.pdf).
+Singapore has also introduced Industry Energy Efficiency (IEE) incentives in 2010 to encourage industrial and power generation facilities to be more energy efficient through the adoption of energy efficient technologies and equipment. These incentives were further enhanced in 2018 to give stronger support to companies in their drive to become more energy efficient and reduce carbon emissions. More details can be found [<a href="/files/default-source/default-document-library/power-your-business-with-the-enhanced-industry-energy-efficiency-package.pdf" target="_blank">here</a>](/files/default-source/default-document-library/power-your-business-with-the-enhanced-industry-energy-efficiency-package.pdf).
 
 **4. How will the Government help companies improve their energy efficiency?**
 

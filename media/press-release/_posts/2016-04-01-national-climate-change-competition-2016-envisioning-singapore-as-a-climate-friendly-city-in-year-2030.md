@@ -23,7 +23,7 @@ The NCCC will comprise three categories:
 
 Students can register for the competition at www.nccc.gov.sg by 9 May 2016.
 
-The best videos will stand to win up to $4,000 in cash prizes. Three “Viewers’ Choice” awards will also be presented to the most popular videos decided via a public voting exercise on NCCS’ Climate Change SG Facebook page. Details of the competition are at [<a href="/docs/default-source/news-documents/nccc2016_annex.pdf" target="_blank">Annex</a>](/docs/default-source/news-documents/nccc2016_annex.pdf).
+The best videos will stand to win up to $4,000 in cash prizes. Three “Viewers’ Choice” awards will also be presented to the most popular videos decided via a public voting exercise on NCCS’ Climate Change SG Facebook page. Details of the competition are at [<a href="/files/default-source/news-documents/nccc2016_annex.pdf" target="_blank">Annex</a>](/files/default-source/news-documents/nccc2016_annex.pdf).
 
 The results of the competition will be announced in an award ceremony held in November 2016.
 

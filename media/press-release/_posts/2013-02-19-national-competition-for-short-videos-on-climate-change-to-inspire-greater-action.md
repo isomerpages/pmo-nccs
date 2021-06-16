@@ -82,5 +82,5 @@ $500
 
 Congratulating the winners, Mr Niam said, “I am impressed by our youths’ energy and enthusiasm to develop their ideas into prototypes to address climate change. The ideas utilise technology in different ways to achieve greater energy efficiency, reduce emissions and mitigate climate change.”
 
-A factsheet of the winners of the Technology Project Challenge, descriptions of their projects and the prizes is at the [<a href="/docs/default-source/news-documents/nccc2013_media-release_annex.pdf" target="_blank">Annex</a>](/docs/default-source/news-documents/nccc2013_media-release_annex.pdf).
+A factsheet of the winners of the Technology Project Challenge, descriptions of their projects and the prizes is at the [<a href="/files/default-source/news-documents/nccc2013_media-release_annex.pdf" target="_blank">Annex</a>](/files/default-source/news-documents/nccc2013_media-release_annex.pdf).
  

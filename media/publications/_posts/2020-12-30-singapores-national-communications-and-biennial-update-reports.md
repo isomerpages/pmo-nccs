@@ -12,14 +12,14 @@ Singapore ratified the United Nations Framework Convention on Climate Change (UN
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/default-document-library/2020-singapore-fourth-biennial-report.pdf" target="_blank">[2020] Singapore's Fourth Biennial Update (PDF, 4MB)</a>](/docs/default-source/default-document-library/2020-singapore-fourth-biennial-report.pdf)
+* [<a href="/files/default-source/default-document-library/2020-singapore-fourth-biennial-report.pdf" target="_blank">[2020] Singapore's Fourth Biennial Update (PDF, 4MB)</a>](/files/default-source/default-document-library/2020-singapore-fourth-biennial-report.pdf)
 
-* [<a href="/docs/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf" target="_blank">[2018] Singapore's Fourth National Communication and Third Biennial Update (PDF, 7MB)</a>](/docs/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf)
+* [<a href="/files/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf" target="_blank">[2018] Singapore's Fourth National Communication and Third Biennial Update (PDF, 7MB)</a>](/files/default-source/default-document-library/singapore's-fourth-national-communication-and-third-biennial-update-repo.pdf)
 
-* [<a href="/docs/default-source/default-document-library/singapore-second-biennial-update-report-2016.pdf" target="_blank">[2016] Singapore's Second Biennial Update Report (PDF, 3MB)</a>](/docs/default-source/default-document-library/singapore-second-biennial-update-report-2016.pdf)
+* [<a href="/files/default-source/default-document-library/singapore-second-biennial-update-report-2016.pdf" target="_blank">[2016] Singapore's Second Biennial Update Report (PDF, 3MB)</a>](/files/default-source/default-document-library/singapore-second-biennial-update-report-2016.pdf)
 
-* [<a href="/docs/default-source/default-document-library/singapores-third-national-communication-and-first-biennial-update-report.pdf" target="_blank">[2014] Singapore's Third National Communication and First Biennial Update (PDF, 3MB)</a>](/docs/default-source/default-document-library/singapores-third-national-communication-and-first-biennial-update-report.pdf)
+* [<a href="/files/default-source/default-document-library/singapores-third-national-communication-and-first-biennial-update-report.pdf" target="_blank">[2014] Singapore's Third National Communication and First Biennial Update (PDF, 3MB)</a>](/files/default-source/default-document-library/singapores-third-national-communication-and-first-biennial-update-report.pdf)
 
-* [<a href="/docs/default-source/publications/singapores-second-national-communication.pdf" target="_blank">[2010] Singapore's Second National Communication (PDF, 3MB)</a>](/docs/default-source/publications/singapores-second-national-communication.pdf)
+* [<a href="/files/default-source/publications/singapores-second-national-communication.pdf" target="_blank">[2010] Singapore's Second National Communication (PDF, 3MB)</a>](/files/default-source/publications/singapores-second-national-communication.pdf)
 
-* [<a href="/docs/default-source/default-document-library/singapores-initial-national-communication.pdf" target="_blank">[2000] Singapore's First National Communication (PDF, 2MB)</a>](/docs/default-source/default-document-library/singapores-initial-national-communication.pdf)
+* [<a href="/files/default-source/default-document-library/singapores-initial-national-communication.pdf" target="_blank">[2000] Singapore's First National Communication (PDF, 2MB)</a>](/files/default-source/default-document-library/singapores-initial-national-communication.pdf)

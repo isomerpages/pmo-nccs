@@ -45,9 +45,9 @@ The effects of climate change operate in the long term, but the Government is ta
 
 A Stakeholder Report which provides a summary of the study’s methodologies and findings is now available on the CCRS website [<a href="http://ccrs.weather.gov.sg/" target="_blank">(http://ccrs.weather.gov.sg/)</a>](http://ccrs.weather.gov.sg/). The Report is intended for those who will be actively engaged in the use of the projections for impact studies and adaptation planning.
 
-[<a href="/docs/default-source/news-documents/2ndvulnerabilitystudy_annex-a.pdf" target="_blank">Annex A: Overview of the Intergovernmental Panel on Climate Change</a>](/docs/default-source/news-documents/2ndvulnerabilitystudy_annex-a.pdf)
+[<a href="/files/default-source/news-documents/2ndvulnerabilitystudy_annex-a.pdf" target="_blank">Annex A: Overview of the Intergovernmental Panel on Climate Change</a>](/files/default-source/news-documents/2ndvulnerabilitystudy_annex-a.pdf)
 
-[<a href="/docs/default-source/news-documents/infographic---climate-change-in-singapore.pdf" target="_blank">Infographic: Climate change in Singapore</a>](/docs/default-source/news-documents/infographic---climate-change-in-singapore.pdf)
+[<a href="/files/default-source/news-documents/infographic---climate-change-in-singapore.pdf" target="_blank">Infographic: Climate change in Singapore</a>](/files/default-source/news-documents/infographic---climate-change-in-singapore.pdf)
 
 *******
 

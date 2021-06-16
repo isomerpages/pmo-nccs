@@ -15,6 +15,6 @@ For the power sector, EMA has launched a Genco Energy Efficiency Grant Call to c
 
 *<sup>1</sup> Qualifying costs refer to manpower, equipment or technology, and professional services cost.*
 
-Infographic: [<a href="/docs/default-source/default-document-library/power-your-business-with-the-enhanced-industry-energy-efficiency-package.pdf" target="_blank">Power Your Business with the Enhanced Industry Energy Efficiency Package</a>](/docs/default-source/default-document-library/power-your-business-with-the-enhanced-industry-energy-efficiency-package.pdf)
+Infographic: [<a href="/files/default-source/default-document-library/power-your-business-with-the-enhanced-industry-energy-efficiency-package.pdf" target="_blank">Power Your Business with the Enhanced Industry Energy Efficiency Package</a>](/files/default-source/default-document-library/power-your-business-with-the-enhanced-industry-energy-efficiency-package.pdf)
 
 *Source: [<a href="https://www.edb.gov.sg/en/news-and-events/news/enhanced-industry-energy-efficiency-package.html" target="_blank">Economic Development Board</a>](https://www.edb.gov.sg/en/news-and-events/news/enhanced-industry-energy-efficiency-package.html)*

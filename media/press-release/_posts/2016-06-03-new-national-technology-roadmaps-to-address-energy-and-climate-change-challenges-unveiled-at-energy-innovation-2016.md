@@ -14,19 +14,19 @@ The energy technology roadmaps are part of efforts under the Energy National Inn
 Developed in collaboration with industry stakeholders, academic experts and technical consultants, the roadmaps are led by public agencies and cover the following 
 technology areas:
 
-[<a href="/docs/default-source/news-documents/roadmap_e-m_1.pdf" target="_blank">Electro-Mobility</a>](/docs/default-source/news-documents/roadmap_e-m_1.pdf)
+[<a href="/files/default-source/news-documents/roadmap_e-m_1.pdf" target="_blank">Electro-Mobility</a>](/files/default-source/news-documents/roadmap_e-m_1.pdf)
 
 Land Transport Authority (LTA)
 
-[<a href="/docs/default-source/news-documents/roadmap_iee_14b7fe7569e074b0d87d1537f409ded34.pdf" target="_blank">Industry Energy Efficiency</a>](/docs/default-source/news-documents/roadmap_iee_14b7fe7569e074b0d87d1537f409ded34.pdf)
+[<a href="/files/default-source/news-documents/roadmap_iee_14b7fe7569e074b0d87d1537f409ded34.pdf" target="_blank">Industry Energy Efficiency</a>](/files/default-source/news-documents/roadmap_iee_14b7fe7569e074b0d87d1537f409ded34.pdf)
 
 National Environment Agency (NEA), Economic Development Board (EDB)
 
-[<a href="/docs/default-source/news-documents/roadmap_swm-(for-web)_1.pdf" target="_blank">Solid Waste Management</a>](/docs/default-source/news-documents/roadmap_swm-(for-web)_1.pdf)
+[<a href="/files/default-source/news-documents/roadmap_swm-(for-web)_1.pdf" target="_blank">Solid Waste Management</a>](/files/default-source/news-documents/roadmap_swm-(for-web)_1.pdf)
 
 NEA
 
-(See [<a href="/docs/default-source/news-documents/roadmaps_annexa.pdf" target="_blank">Annex A</a>](/docs/default-source/news-documents/roadmaps_annexa.pdf) for highlights of the technology roadmaps.)
+(See [<a href="/files/default-source/news-documents/roadmaps_annexa.pdf" target="_blank">Annex A</a>](/files/default-source/news-documents/roadmaps_annexa.pdf) for highlights of the technology roadmaps.)
 
 Professor Low Teck Seng, CEO, NRF said in his opening remarks at Energy Innovation 2016: “The technology roadmaps that we are sharing today are one of the critical tools in our strategy to understand global technological trends. They highlight the research and development priorities for Singapore to develop the energy solutions we need for tomorrow. We believe the roadmaps will help stakeholders evaluate their business options and direct their investments, sharpen their R&D strategies, as well as develop policy to facilitate high impact outcomes for Singapore.”
 

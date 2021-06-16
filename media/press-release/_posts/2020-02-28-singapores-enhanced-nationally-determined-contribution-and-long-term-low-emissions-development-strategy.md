@@ -74,7 +74,7 @@ Singapore’s strategy for climate action is one that is considered, committed, 
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/publications/leds-infographic-final.pdf" target="_blank">Infographic: Charting Singapore's Low-Carbon Future (PDF, 4.2MB)</a>](/docs/default-source/publications/leds-infographic-final.pdf)
+* [<a href="/files/default-source/publications/leds-infographic-final.pdf" target="_blank">Infographic: Charting Singapore's Low-Carbon Future (PDF, 4.2MB)</a>](/files/default-source/publications/leds-infographic-final.pdf)
 
 
 

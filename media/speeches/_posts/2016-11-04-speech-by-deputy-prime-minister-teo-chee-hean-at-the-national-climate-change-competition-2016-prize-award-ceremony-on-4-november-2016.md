@@ -67,5 +67,5 @@ ___
 
 <a href="#_ftnref2" name="_ftn2" id="_ftn2">[2]</a> “SolarNova Programme”, HDB, [<a href="https://www.hdb.gov.sg/cs/infoweb/homepage" target="_blank">http://www.hdb.gov.sg</a>](https://www.hdb.gov.sg/cs/infoweb/homepage), Oct 16 2016, assessed 2 Nov 2016.
 
-<a href="#_ftnref3" name="_ftn3" id="_ftn3">[3]</a> [<a href="/docs/default-source/news-documents/roadmap_gdc_20140729ba35a337d5384e139e513d90018a9824.pdf" target="_blank">Green Data Centre Technology Roadmap</a>](/docs/default-source/news-documents/roadmap_gdc_20140729ba35a337d5384e139e513d90018a9824.pdf), 2014
+<a href="#_ftnref3" name="_ftn3" id="_ftn3">[3]</a> [<a href="/files/default-source/news-documents/roadmap_gdc_20140729ba35a337d5384e139e513d90018a9824.pdf" target="_blank">Green Data Centre Technology Roadmap</a>](/files/default-source/news-documents/roadmap_gdc_20140729ba35a337d5384e139e513d90018a9824.pdf), 2014
 

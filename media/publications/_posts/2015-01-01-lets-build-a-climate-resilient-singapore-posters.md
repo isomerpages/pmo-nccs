@@ -13,11 +13,11 @@ Posters to raise awareness on the potential impact of climate change on Singapor
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/publications/lets-build-a-climate-resilient-singapore-intense-rainfall.pdf" target="_blank">Intense Rainfall (PDF, 425KB)</a>](/docs/default-source//publications/lets-build-a-climate-resilient-singapore-intense-rainfall.pdf)
+* [<a href="/files/default-source/publications/lets-build-a-climate-resilient-singapore-intense-rainfall.pdf" target="_blank">Intense Rainfall (PDF, 425KB)</a>](/files/default-source//publications/lets-build-a-climate-resilient-singapore-intense-rainfall.pdf)
 
-* [<a href="/docs/default-source/publications/lets-build-a-climate-resilient-singapore-dry-spell.pdf" target="_blank">Dry Spell (PDF, 455KB)</a>](/docs/default-source/publications/lets-build-a-climate-resilient-singapore-dry-spell.pdf)
+* [<a href="/files/default-source/publications/lets-build-a-climate-resilient-singapore-dry-spell.pdf" target="_blank">Dry Spell (PDF, 455KB)</a>](/files/default-source/publications/lets-build-a-climate-resilient-singapore-dry-spell.pdf)
 
-* [<a href="/docs/default-source/publications/lets-build-a-climate-resilient-singapore-temperature-increase.pdf" target="_blank">Temperature Increase (PDF, 422KB)</a>](/docs/default-source/publications/lets-build-a-climate-resilient-singapore-temperature-increase.pdf)
+* [<a href="/files/default-source/publications/lets-build-a-climate-resilient-singapore-temperature-increase.pdf" target="_blank">Temperature Increase (PDF, 422KB)</a>](/files/default-source/publications/lets-build-a-climate-resilient-singapore-temperature-increase.pdf)
 
-* [<a href="/docs/default-source/publications/lets-build-a-climate-resilient-singapore-sea-level-rise.pdf" target="_blank">Sea-level Rise (PDF, 384KB)</a>](/docs/default-source/publications/lets-build-a-climate-resilient-singapore-sea-level-rise.pdf)
+* [<a href="/files/default-source/publications/lets-build-a-climate-resilient-singapore-sea-level-rise.pdf" target="_blank">Sea-level Rise (PDF, 384KB)</a>](/files/default-source/publications/lets-build-a-climate-resilient-singapore-sea-level-rise.pdf)
 

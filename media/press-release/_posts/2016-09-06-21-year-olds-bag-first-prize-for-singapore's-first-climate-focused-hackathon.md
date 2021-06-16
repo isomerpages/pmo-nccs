@@ -41,7 +41,7 @@ The winning ideas will be on exhibit at Marina Bay Sands Level 3 from 7 to 9 Sep
 
 Enclosed:
 
-[<a href="/docs/default-source/news-documents/hackathon_annexa.pdf" target="_blank">Annex A</a>](/docs/default-source/news-documents/hackathon_annexa.pdf)
+[<a href="/files/default-source/news-documents/hackathon_annexa.pdf" target="_blank">Annex A</a>](/files/default-source/news-documents/hackathon_annexa.pdf)
 
 *Jointly issued by: Building and Construction Authority, JTC Corporation and National Climate Change Secretariat, Strategy Group*
 
