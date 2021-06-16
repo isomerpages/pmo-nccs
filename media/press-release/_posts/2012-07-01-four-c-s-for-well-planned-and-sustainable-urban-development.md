@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Four ‘C’s for well-planned and sustainable urban development
+title: 'Four ‘C’s for well-planned and sustainable urban development'
 subtitle: 01 Jul 2012
 permalink: /media/press-release/four-c-s-for-well-planned-and-sustainable-urban-development
 ---
