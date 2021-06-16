@@ -1,0 +1,37 @@
+collections:
+  singapores-climate-action:
+    output: true
+    order:
+      - national-circumstances/.keep
+      - national-circumstances/overview.md
+      - national-circumstances/singapore-s-emissions-profile.md
+      - national-circumstances/singapore-s-approach-to-alternative-energy.md
+      - national-circumstances/impact-of-climate-change-in-singapore.md
+      - singapore-and-international-efforts.md
+      - mitigation-efforts/.keep
+      - mitigation-efforts/mitigation-efforts.md
+      - mitigation-efforts/energy-efficiency.md
+      - mitigation-efforts/power-generation.md
+      - mitigation-efforts/industry.md
+      - mitigation-efforts/buildings.md
+      - mitigation-efforts/transport.md
+      - mitigation-efforts/waste-and-water.md
+      - mitigation-efforts/carbon-tax.md
+      - mitigation-efforts/low-carbon-technologies.md
+      - adaptation-efforts/.keep
+      - adaptation-efforts/overview.md
+      - adaptation-efforts/enhancing-knowledge-and-expertise.md
+      - adaptation-efforts/coastal-protection.md
+      - adaptation-efforts/water-resource-management.md
+      - adaptation-efforts/drainage-and-flood-prevention.md
+      - green-growth-opportunities/.keep
+      - green-growth-opportunities/overview.md
+      - green-growth-opportunities/clean-technology.md
+      - green-growth-opportunities/test-bedding.md
+      - green-growth-opportunities/green-ict.md
+      - green-growth-opportunities/carbon-services-and-climate-finance.md
+      - green-growth-opportunities/climate-risk-management.md
+      - what-we-can-do/.keep
+      - what-we-can-do/overview.md
+      - what-we-can-do/for-individuals.md
+      - what-we-can-do/for-organisations.md
