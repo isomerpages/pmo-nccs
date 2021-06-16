@@ -1,0 +1,11 @@
+collections:
+  public-consultation:
+    output: true
+    order:
+      - overview/.keep
+      - overview/public-consultation.md
+      - overview/4-mar-2020-feedback-from-public-on-singapore-s-long-term-low-emissions-development-strategy.md
+      - overview/7-feb-2020-response-to-feedback-on-singapore-s-long-term-low-emissions-development-strategy.md
+      - overview/closed-on-30-sept-2019-public-consultation-on-developing-singapore-s-long-term-low-emissions-strategy.md
+      - overview/closed-on-20-apr-2017-public-consultation-on-singapore-s-climate-change-strategy-and-carbon-tax.md
+      - overview/closed-on-31-mar-2015-public-consultation-on-climate-change-and-singapore.md
