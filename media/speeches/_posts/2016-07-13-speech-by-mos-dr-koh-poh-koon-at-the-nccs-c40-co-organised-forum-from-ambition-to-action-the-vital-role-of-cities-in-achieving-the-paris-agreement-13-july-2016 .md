@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech by MOS Dr Koh Poh Koon at the NCCS-C40 Co-organised Forum "From Ambition to Action - The Vital Role of Cities in Achieving the Paris Agreement”, 13 July 2016
+title: Speech by MOS Dr Koh Poh Koon at the NCCS-C40 Co-organised Forum "From Ambition to Action - The Vital Role of Cities in Achieving the Paris Agreement", 13 July 2016
 subtitle: 13 Jul 2016
 permalink: /media/speeches/speech-by-mos-dr-koh-poh-koon-at-the-nccs-c40-co-organised-forum-from-ambition-to-action-the-vital-role-of-cities-in-achieving-the-paris-agreement-13-july-2016 
 ---
