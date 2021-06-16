@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Launch of Singapore’s first utility-scale energy storage system
+title: 'Launch of Singapore’s first utility-scale energy storage system'
 subtitle: 23 Oct 2017
 permalink: /media/press-release/launch-of-singapore-s-first-utility-scale-energy-storage-system
 ---
