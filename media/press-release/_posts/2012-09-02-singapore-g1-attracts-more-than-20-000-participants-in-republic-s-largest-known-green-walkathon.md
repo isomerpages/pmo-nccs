@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Singapore G1 attracts more than 20,000 participants in republic’s largest known green walkathon
+title: 'Singapore G1 attracts more than 20,000 participants in republic’s largest known green walkathon'
 subtitle: 2 Sep 2012
 permalink: /media/press-release/singapore-g1-attracts-more-than-20-000-participants-in-republic-s-largest-known-green-walkathon
 ---
