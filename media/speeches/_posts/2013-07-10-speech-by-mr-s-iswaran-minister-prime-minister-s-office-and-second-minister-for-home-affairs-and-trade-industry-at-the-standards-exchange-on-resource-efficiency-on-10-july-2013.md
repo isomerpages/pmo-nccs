@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech by Mr S Iswaran, Minister, Prime Minister’s Office and Second Minister for Home Affairs, and Trade & Industry at the Standards eXchange on Resource Efficiency on 10 July 2013
+title: "Speech by Mr S Iswaran, Minister, Prime Minister’s Office and Second Minister for Home Affairs, and Trade & Industry at the Standards eXchange on Resource Efficiency on 10 July 2013"
 subtitle: 10 Jul 2013
 permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister-s-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-standards-exchange-on-resource-efficiency-on-10-july-2013
 ---

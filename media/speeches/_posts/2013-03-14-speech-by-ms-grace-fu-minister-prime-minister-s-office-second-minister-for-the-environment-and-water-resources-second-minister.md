@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech by Ms Grace Fu, Minister, Prime Minister’s Office, Second Minister for the Environment and Water Resources & Second Minister for Foreign Affairs, at the Eco-products International Fair 2013 on 14 Mar 2013
+title: "Speech by Ms Grace Fu, Minister, Prime Minister’s Office, Second Minister for the Environment and Water Resources & Second Minister for Foreign Affairs, at the Eco-products International Fair 2013 on 14 Mar 2013"
 subtitle: 14 Mar 2013
 permalink: /media/speeches/speech-by-ms-grace-fu-minister-prime-minister-s-office-second-minister-for-the-environment-and-water-resources-second-minister
 ---

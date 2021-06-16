@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech by Mr S Iswaran, Minister, Prime Minister’s Office and Second Minister for Home Affairs and Trade & Industry at Energy Market Authority’s (EMA) 10th Anniversary Dinner,11 October 2011
+title: "Speech by Mr S Iswaran, Minister, Prime Minister’s Office and Second Minister for Home Affairs and Trade & Industry at Energy Market Authority’s (EMA) 10th Anniversary Dinner,11 October 2011"
 subtitle: 11 Oct 2011
 permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister-s-office-and-second-minister-for-home-affairs-and-trade-industry-at-energy-market-authority-s-(ema)-10th-anniversary-dinner-11-october-2011
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech by Ms Grace Fu, Minister, Prime Minister’s Office, Second Minister for the Environment and Water Resources & Second Minister for Foreign Affairs, at the opening of Asia Future Energy Forum and Asia Smart Grid 2012, 23 October 2012
+title: "Speech by Ms Grace Fu, Minister, Prime Minister’s Office, Second Minister for the Environment and Water Resources & Second Minister for Foreign Affairs, at the opening of Asia Future Energy Forum and Asia Smart Grid 2012, 23 October 2012"
 subtitle: 23 Oct 2012
 permalink: /media/speeches/speech-by-ms-grace-fu-minister-prime-minister-s-office-second-minister-for-the-environment-and-water-resources-second-minister-for-foreign-affairs
 ---

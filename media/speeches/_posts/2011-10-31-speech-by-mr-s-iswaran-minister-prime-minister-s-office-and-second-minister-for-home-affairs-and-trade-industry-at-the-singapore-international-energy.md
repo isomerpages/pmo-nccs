@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech by Mr S Iswaran, Minister, Prime Minister’s Office and Second Minister for Home Affairs and Trade & Industry at the Singapore International Energy Week 2011, 31 October 2011
+title: "Speech by Mr S Iswaran, Minister, Prime Minister’s Office and Second Minister for Home Affairs and Trade & Industry at the Singapore International Energy Week 2011, 31 October 2011"
 subtitle: 31 Oct 2011
 permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister-s-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-singapore-international-energy
 ---
