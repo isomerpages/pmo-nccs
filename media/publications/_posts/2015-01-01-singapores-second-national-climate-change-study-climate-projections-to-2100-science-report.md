@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Singapore's Second National Climate Change Study – Climate Projections to 2100 Science Report'
+title:  "Singapore's Second National Climate Change Study – Climate Projections to 2100 Science Report"
 permalink: /media/publications/singapores-second-national-climate-change-study-climate-projections-to-2100-science-report
 ---
 
