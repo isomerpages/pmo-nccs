@@ -8,6 +8,6 @@ third_nav_title: Mitigation Efforts
 
 CCUS content
 
-(Overview description of Low CArbon Techonolgies) 
+(Overview description of Low Carbon Techonolgies for CCUS) 
 
 
