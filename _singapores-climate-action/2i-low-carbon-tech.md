@@ -121,22 +121,6 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
-    <div class="card">
-        <a href="/initiatives/strategic-national-projects/lifesg">
-                <img src="/images/initiatives/overview-pages/LifeSG.png">
-            <div class="card-content">
-                <h6>LifeSG</h6>
-            </div><!-- .card-content -->
-        </a>
-    </div><!-- .card -->
-    <div class="card">
-        <a href="/initiatives/strategic-national-projects/national-digital-identity">
-                <img src="/images/initiatives/overview-pages/national-digital-identity.png">
-            <div class="card-content">
-                <h6>National Digital Identity (NDI)</h6>
-            </div><!-- .card-content -->
-        </a>
-    </div><!-- .card -->
 </section><!-- .cards -->
 
 
