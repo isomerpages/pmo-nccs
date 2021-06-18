@@ -107,17 +107,17 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <section class="cards">
     <div class="card">
         <a href="/initiatives/strategic-national-projects/codex">
-                <img src="/images/initiatives/overview-pages/codex.png">
+                <img src="/images/education-features.jpg">
             <div class="card-content">
-                <h6>CODEX</h6>
+                <h6>HC</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
         <div class="card">
         <a href="/initiatives/strategic-national-projects/e-payments">
-                <img src="/images/initiatives/overview-pages/e-payments.png">
+                <img src="/images/education-features.jpg">
             <div class="card-content">
-                <h6>E-Payments</h6>
+                <h6>CCUS</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -134,30 +134,6 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
                 <img src="/images/initiatives/overview-pages/national-digital-identity.png">
             <div class="card-content">
                 <h6>National Digital Identity (NDI)</h6>
-            </div><!-- .card-content -->
-        </a>
-    </div><!-- .card -->
-    <div class="card">
-        <a href="/initiatives/strategic-national-projects/smart-nation-sensor-platform">
-                <img src="/images/initiatives/overview-pages/smart-nation-sensor-platform.png">
-            <div class="card-content">
-                <h6>Smart Nation Sensor Platform</h6>
-            </div><!-- .card-content -->
-        </a>
-    </div><!-- .card -->
-    <div class="card">
-        <a href="/initiatives/strategic-national-projects/smart-urban-mobility">
-                <img src="/images/initiatives/overview-pages/smart-urban-mobility.png">
-            <div class="card-content">
-                <h6>Smart Urban Mobility</h6>
-            </div><!-- .card-content -->
-        </a>
-    </div><!-- .card -->
-	<div class="card">
-        <a href="/initiatives/strategic-national-projects/covid-19">
-                <img src="/images/initiatives/overview-pages/initiative-overview-covid-19.png">
-            <div class="card-content">
-                <h6>Combatting Covid-19</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
