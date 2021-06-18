@@ -106,7 +106,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="policies-container">
 <section class="cards">
     <div class="card">
-        <a href="/initiatives/strategic-national-projects/codex">
+        <a href="/singapores-climate-action/low-carbon-tech/hc">
                 <img src="/images/education-features.jpg">
             <div class="card-content">
                 <h6>HC</h6>
@@ -114,7 +114,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
         <div class="card">
-        <a href="/initiatives/strategic-national-projects/e-payments">
+        <a href="/singapores-climate-action/low-carbon-tech/ccus">
                 <img src="/images/education-features.jpg">
             <div class="card-content">
                 <h6>CCUS</h6>
