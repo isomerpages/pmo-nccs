@@ -8,7 +8,7 @@ third_nav_title: Mitigation Efforts
 
 LOW CARBON TECHNOLOGIES OVERVIEW
 
-(Overview description of Low CArbon Techonolgies) 
+(Overview description of Low Carbon Techonolgies) 
 
 <style>
 /*--------------------------------------------------------------
