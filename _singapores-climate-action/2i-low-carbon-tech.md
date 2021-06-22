@@ -17,9 +17,126 @@ We welcome further collaboration with stakeholders, and opportunities to pilot n
 
 As an alternative energy disadvantaged country, we expect these technologies to play important roles in our transition to a low-carbon future. They will help us in our effort to meet our commitments and ambitions in climate action, as set out in our enhanced 2030 Nationally Determined Contribution and Long-Term Low-Emissions Development Strategy, and the Singapore Green Plan 2030.
 
-For the Hydrogen feasibility study report, click [<a href="/pdf/hydrogen-study-report.pdf" target="_blank">here</a>](/pdf/hydrogen-study-report.pdf).
+<style>
+/*--------------------------------------------------------------
+CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
+--------------------------------------------------------------*/
 
-For the CCUS feasibility study report, click [<a href="/pdf/ccus-study-report.pdf" target="_blank">here</a>](/pdf/ccus-study-report.pdf).
+/* refrain from using pure img selector as it changes the MSE logo size */
+#policies-container > section > div > a > img {
+    display: block;
+    border: 0;
+    width: 100%;
+    height: 75%;
+    padding: 1em;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.card {
+    flex: 1 0 500px;
+    box-sizing: border-box;
+    margin: 1rem .25em;
+    background: white;
+    margin-bottom: 1em;
+    /* border: 0.13em solid rgba(0,0,0,.2); */
+    border-radius: 15px;
+    /* box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3); */
+}
+
+.card a {
+  color: inherit;
+  text-decoration: none; /* no underline */
+}
+
+.card-content h6 {
+    padding: .5em;
+    margin-top: 0.5em;
+    margin-bottom: .5em;
+    font-weight: bold;
+    color: inherit;
+    text-decoration: none;
+}
+
+.card:hover {
+    transition: all 0.0s ease-out;
+    box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
+    /* top: -4px; */
+    border: 2px solid #cccccc;
+    background-color: white;
+    margin-top: 0.5em;
+    margin-bottom: .5em;
+  }
+
+.card a:hover {
+  color: black;
+  text-decoration: none; /* no underline */
+}
+
+/* Flexbox stuff */
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    /* padding: 0 1em; */
+    text-align: center;
+ }
+
+@media screen and (min-width: 40em) {
+    .card {
+       max-width: calc(50% -  1em);
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .card {
+        max-width: calc(33% - 1em);
+    }
+}
+
+@media screen and (min-width: 52em) {
+    .img {
+        max-width: 52em;
+    }
+}
+
+@media screen and (max-width : 480px) {
+	.card { 
+        max-width: 100%; }
+}
+
+/*--------------------------------------------------------------
+CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
+--------------------------------------------------------------*/
+</style>
+
+<main id="policies-container">
+<section class="cards">
+    <div class="card">
+        <a href="/singapores-climate-action/low-carbon-tech/hc">
+                <img src="/images/education-features.jpg">
+            <div class="card-content">
+                <h6>For the Hydrogen feasibility study report, click here</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+        <div class="card">
+        <a href="/singapores-climate-action/low-carbon-tech/ccus">
+                <img src="/images/education-features.jpg">
+            <div class="card-content">
+                <h6>For the CCUS feasibility study report, click here</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+</section><!-- .cards -->
+
+
+
+</main>
+
+<!--For the Hydrogen feasibility study report, click [<a href="/pdf/hydrogen-study-report.pdf" target="_blank">here</a>](/pdf/hydrogen-study-report.pdf).
+
+For the CCUS feasibility study report, click [<a href="/pdf/ccus-study-report.pdf" target="_blank">here</a>](/pdf/ccus-study-report.pdf).-->
 
 For the joint media release by NCCS, EDB, EMA, CAAS and MPA on both reports, click [<a href="https://www.nccs.gov.sg/media/press-release/" target="_blank">here</a>](https://www.nccs.gov.sg/media/press-release/).
 
