@@ -6,8 +6,6 @@ third_nav_title: Mitigation Efforts
 
 ### LOW CARBON TECHNOLOGIES - HC
 
-HC content
-
-(Overview description of Low Carbon Techonolgies HC) 
+For the Hydrogen feasibility study report, click [<a href="/pdf/hydrogen-study-report.pdf" target="_blank">here</a>](/pdf/hydrogen-study-report.pdf).
 
 
