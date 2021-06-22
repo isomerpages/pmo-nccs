@@ -134,11 +134,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 
 </main>
 
-<!--For the Hydrogen feasibility study report, click [<a href="/pdf/hydrogen-study-report.pdf" target="_blank">here</a>](/pdf/hydrogen-study-report.pdf).
-
-For the CCUS feasibility study report, click [<a href="/pdf/ccus-study-report.pdf" target="_blank">here</a>](/pdf/ccus-study-report.pdf).-->
-
-For the joint media release by NCCS, EDB, EMA, CAAS and MPA on both reports, click [<a href="https://www.nccs.gov.sg/media/press-release/" target="_blank">here</a>](https://www.nccs.gov.sg/media/press-release/).
+<!-- For the joint media release by NCCS, EDB, EMA, CAAS and MPA on both reports, click [<a href="https://www.nccs.gov.sg/media/press-release/" target="_blank">here</a>](https://www.nccs.gov.sg/media/press-release/). -->
 
 **Carbon Capture, Utilisation and Storage**
 
@@ -158,7 +154,7 @@ In October 2020, the government announced a $49 million fund to support Low-Carb
 
 Research projects could include technologies that enable the effective capture of CO<sub>2</sub> from low-concentration emission sources in the industrial and power sectors, and to convert the CO<sub>2</sub> into useful products such as building materials, reclamation sand and synthetic fuels. Test-beds for emerging technologies, such as the blending of low-carbon hydrogen with natural gas in combined cycle gas turbines will also reduce carbon emissions from electricity generation. These test-beds could yield insights in applying low carbon technologies in Singapore’s context, and facilitate future deployment.
 
-This funding initiative is a multi-agency effort. It is jointly fronted by the [<a href="https://www.a-star.edu.sg/" target="_blank">Agency for Science, Technology and Research (A*STAR)</a>](https://www.a-star.edu.sg/), [<a href="https://www.edb.gov.sg/" target="_blank">Economic Development Board (EDB)</a>](https://www.edb.gov.sg/), [<a href="https://www.ema.gov.sg/index.aspx" target="_blank">Energy Market Authority (EMA)</a>](https://www.ema.gov.sg/index.aspx), [<a href="https://www.nrf.gov.sg/" target="_blank">National Climate Change Secretariat and the National Research Foundation</a>](https://www.nrf.gov.sg/).
+This funding initiative is a multi-agency effort. It is jointly fronted by the [<a href="https://www.a-star.edu.sg/" target="_blank">Agency for Science, Technology and Research (A*STAR)</a>](https://www.a-star.edu.sg/), [<a href="https://www.edb.gov.sg/" target="_blank">Economic Development Board (EDB)</a>](https://www.edb.gov.sg/), [<a href="https://www.ema.gov.sg/index.aspx" target="_blank">Energy Market Authority (EMA)</a>](https://www.ema.gov.sg/index.aspx), National Climate Change Secretariat and the [<a href="https://www.nrf.gov.sg/" target="_blank">National Research Foundation</a>](https://www.nrf.gov.sg/).
 
 It will be co-driven by EDB and EMA to ensure projects are relevant to the industrial and power sectors, with A*STAR as the implementing agency on behalf of the government.
 
