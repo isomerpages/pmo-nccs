@@ -93,7 +93,11 @@ Singapore is a partner in key regional initiatives, such as the Sino-Singapore T
 
 We also provide technical assistance and human resource capacity building to climate-related areas through the Singapore Cooperation Programme (SCP). For instance, under the ambit of the SCP, we have established a Small Island Developing States Technical Cooperation Programme that caters to the specific needs of small island developing states, including climate-related issues and challenges. The SCP training courses cover a wide range of topics including sustainable urban development, water management and energy efficiency and emissions reduction.
 
-Singapore actively collaborates with countries such as Australia, France, Germany, Japan, Norway, New Zealand, the Republic of Korea, Thailand,  and the UK in order to leverage our respective strengths and experiences and to provide training to developing countries on climate change and environment-related issues. These initiatives reflect our commitment to sharing our knowledge, experience and expertise  to help developing countries implement sustainable environmental and climate policies and practices.
+Singapore actively collaborates with countries around the world, to build on one another's strengths and experiences in climate change, and to provide training to developing countries on climate change and environment-related issues. These countries include Australia, France, Germany, Japan, Norway, New Zealand, the Republic of Korea, Thailand, and the United Kingdom.
+
+To further strengthen our efforts in global collaboration, Singapore has also concluded Memoranda of Understanding (MoUs) with our international partners on low-emissions solutions, like Australia and Chile.
+
+These initiatives reflect our commitment to sharing our knowledge, experience and expertise  to help developing countries implement sustainable environmental and climate policies and practices.
 As of September 2020, we have trained more than 131,000 officials from over 170 countries in climate change-related programmes, and will continue to deepen this effort.
 
 **C40**
