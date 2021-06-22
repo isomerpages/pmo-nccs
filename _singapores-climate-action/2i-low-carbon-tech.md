@@ -1,10 +1,10 @@
 ---
-title: Low Carbon Technologies
+title: Low-carbon Technologies
 permalink: /singapores-climate-action/low-carbon-tech/
 third_nav_title: Mitigation Efforts
 ---
 
-### LOW CARBON TECHNOLOGIES
+### LOW-CARBON TECHNOLOGIES
 
 Singapore is studying emerging advanced low-carbon technologies such as Carbon Capture, Utilisation and Storage (CCUS) and low-carbon hydrogen as potential longer-term options to reduce Singapore’s carbon emissions. This includes the following studies which were concluded in June 2021:  
 
@@ -142,9 +142,9 @@ For the joint media release by NCCS, EDB, EMA, CAAS and MPA on both reports, cli
 
 **Carbon Capture, Utilisation and Storage**
 
-CCUS has the potential to reduce emissions by capturing and converting Carbon Dioxide (CO2) from the emissions of power plants and industrial facilities into useful products (e.g. building materials, reclamation sand and synthetic fuels and chemicals). Captured CO2 can also be stored in natural sub-surface underground geological formations. This prevents CO2 from being emitted into the atmosphere.
+CCUS has the potential to reduce emissions by capturing and converting Carbon Dioxide (CO<sub>2</sub>) from the emissions of power plants and industrial facilities into useful products (e.g. building materials, reclamation sand and synthetic fuels and chemicals). Captured CO<sub>2</sub> can also be stored in natural sub-surface underground geological formations. This prevents CO<sub>2</sub> from being emitted into the atmosphere.
 
-Singapore is currently studying potential CCUS pathways to reduce Singapore’s carbon emissions. Carbon capture costs for low-concentration CO2 streams, such as the emissions from natural gas power plants, are high at the moment. In addition, the manufacture of fuel and chemicals from CO2 requires additional inputs of low-carbon hydrogen which is currently more energy-intensive and expensive than conventional processes.
+Singapore is currently studying potential CCUS pathways to reduce Singapore’s carbon emissions. Carbon capture costs for low-concentration CO<sub>2</sub> streams, such as the emissions from natural gas power plants, are high at the moment. In addition, the manufacture of fuel and chemicals from CO<sub>2</sub> requires additional inputs of low-carbon hydrogen which is currently more energy-intensive and expensive than conventional processes.
 
 **Low-carbon hydrogen**
 
@@ -156,7 +156,7 @@ However, there are challenges that need to be overcome before hydrogen can be mo
 
 In October 2020, the government announced a $49 million fund to support Low-Carbon Energy Research over the next five years. It will support research, development and demonstration projects in low-carbon energy technologies such as CCUS and hydrogen.  These efforts aim to accelerate the technical and economic viability of such emerging technologies to reduce Singapore’s carbon emissions, particularly for emissions intensive sectors such as the power and industrial sectors.
 
-Research projects could include technologies that enable the effective capture of CO2 from low-concentration emission sources in the industrial and power sectors, and to convert the CO2 into useful products such as building materials, reclamation sand and synthetic fuels. Test-beds for emerging technologies, such as the blending of low-carbon hydrogen with natural gas in combined cycle gas turbines will also reduce carbon emissions from electricity generation. These test-beds could yield insights in applying low carbon technologies in Singapore’s context, and facilitate future deployment.
+Research projects could include technologies that enable the effective capture of CO<sub>2</sub> from low-concentration emission sources in the industrial and power sectors, and to convert the CO<sub>2</sub> into useful products such as building materials, reclamation sand and synthetic fuels. Test-beds for emerging technologies, such as the blending of low-carbon hydrogen with natural gas in combined cycle gas turbines will also reduce carbon emissions from electricity generation. These test-beds could yield insights in applying low carbon technologies in Singapore’s context, and facilitate future deployment.
 
 This funding initiative is a multi-agency effort. It is jointly fronted by the [<a href="https://www.a-star.edu.sg/" target="_blank">Agency for Science, Technology and Research (A*STAR)</a>](https://www.a-star.edu.sg/), [<a href="https://www.edb.gov.sg/" target="_blank">Economic Development Board (EDB)</a>](https://www.edb.gov.sg/), [<a href="https://www.ema.gov.sg/index.aspx" target="_blank">Energy Market Authority (EMA)</a>](https://www.ema.gov.sg/index.aspx), [<a href="https://www.nrf.gov.sg/" target="_blank">National Climate Change Secretariat and the National Research Foundation</a>](https://www.nrf.gov.sg/).
 
