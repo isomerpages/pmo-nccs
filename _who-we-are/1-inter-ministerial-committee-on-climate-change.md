@@ -29,7 +29,7 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 
 **IMCCC Executive Committee**
 
-IMCCC is supported by an Executive Committee (Exco) comprising the permanent secretaries of the respective Ministries. The IMCCC Exco oversees the work of the Long Term Emissions and Mitigation Working Group (LWG), Resilience Working Group (RWG), Sustainability Working Group (SWG), Green Economy Working Group (GEWG) and Communications and Engagement Working Group (CEWG).
+IMCCC is supported by an Executive Committee (Exco) comprising the permanent secretaries of the respective Ministries. The IMCCC Exco oversees the work of the Long-Term Emissions and Mitigation Working Group (LWG), Resilience Working Group (RWG), Sustainability Working Group (SWG), Green Economy Working Group (GEWG) and Communications and Engagement Working Group (CEWG).
 
 ### IMCCC Exco Members
 
@@ -56,7 +56,7 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 
 **Long-Term Emissions and Mitigation Working Group**
 
-The Long Term Emissions and Mitigation Working Group (LWG) develops plans to reduce Singapore’s  long-term emissions. LWG examines mitigation options, and identifies the capabilities, infrastructure and policies needed for long-term emissions reduction.
+The Long-Term Emissions and Mitigation Working Group (LWG) develops plans to reduce Singapore’s  long-term emissions. LWG examines mitigation options, and identifies the capabilities, infrastructure and policies needed for long-term emissions reduction.
 
 **Resilience Working Group**
 
