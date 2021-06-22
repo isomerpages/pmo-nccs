@@ -6,8 +6,5 @@ third_nav_title: Mitigation Efforts
 
 ### LOW CARBON TECHNOLOGIES - CCUS
 
-CCUS content
-
-(Overview description of Low Carbon Techonolgies for CCUS) 
-
+For the CCUS feasibility study report, click [<a href="/pdf/ccus-study-report.pdf" target="_blank">here</a>](/pdf/ccus-study-report.pdf).
 
