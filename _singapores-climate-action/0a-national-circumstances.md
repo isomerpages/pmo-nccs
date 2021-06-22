@@ -5,7 +5,7 @@ third_nav_title: National Circumstances
 ---
 
 ### NATIONAL CIRCUMSTANCES  
-Singapore has always maintained a balance between development and conserving the environment. Successive environmental blueprints, such as the [<a href="https://www.mewr.gov.sg/grab-our-research/singapore-green-plan-2012" target="_blank">Singapore Green Plan 2012 (SGP2012)</a>](https://www.mewr.gov.sg/grab-our-research/singapore-green-plan-2012) and the [<a href="http://www.sustainablesingapore.gov.sg/" target="_blank">Sustainable Singapore Blueprint (SSB) 2015</a>](http://www.sustainablesingapore.gov.sg/) have set forth our strategies and initiatives to achieve economic growth and a good living environment.
+Singapore has always maintained a balance between development and conserving the environment. Successive environmental blueprints, such as the [<a href="https://www.greenplan.gov.sg/" target="_blank">Singapore Green Plan 2030</a>](https://www.greenplan.gov.sg/) and the [<a href="http://www.sustainablesingapore.gov.sg/" target="_blank">Sustainable Singapore Blueprint (SSB) 2015</a>](http://www.sustainablesingapore.gov.sg/) have set forth our strategies and initiatives to achieve economic growth and a good living environment.
 
 ![National Circumstances](/images/national-circumstances.jpg "National Circumstances")
 *Singapore's development as a clean and green city is the result of decades of deliberate planning and effort.*
