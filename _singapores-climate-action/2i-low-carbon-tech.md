@@ -17,9 +17,9 @@ We welcome further collaboration with stakeholders, and opportunities to pilot n
 
 As an alternative energy disadvantaged country, we expect these technologies to play important roles in our transition to a low-carbon future. They will help us in our effort to meet our commitments and ambitions in climate action, as set out in our enhanced 2030 Nationally Determined Contribution and Long-Term Low-Emissions Development Strategy, and the Singapore Green Plan 2030.
 
-For the Hydrogen feasibility study report, click [<a href="https://www.greenplan.gov.sg/" target="_blank">here</a>](https://www.greenplan.gov.sg/).
+For the Hydrogen feasibility study report, click [<a href="/pdf/hydrogen-study-report.pdf" target="_blank">here</a>](/pdf/hydrogen-study-report.pdf).
 
-For the CCUS feasibility study report, click [<a href="https://www.greenplan.gov.sg/" target="_blank">here</a>](https://www.greenplan.gov.sg/).
+For the CCUS feasibility study report, click [<a href="/pdf/ccus-study-report.pdf" target="_blank">here</a>](/pdf/ccus-study-report.pdf).
 
 For the joint media release by NCCS, EDB, EMA, CAAS and MPA on both reports, click [<a href="https://www.nccs.gov.sg/media/press-release/" target="_blank">here</a>](https://www.nccs.gov.sg/media/press-release/).
 
