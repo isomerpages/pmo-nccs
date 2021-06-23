@@ -29,7 +29,7 @@ permalink: /media/press-release/singapore-looks-to-develop-and-deploy-lc-technol
 
 5. Following the release of the both reports, <u>Singapore will also seek to partner other countries to advance emerging low-carbon technological solutions</u>. Such collaborations could include joint contributions to international regulations, standards and certification on these emerging technologies, and participation in joint RD&D and test-beds. To date, Singapore has signed a Memorandum of Understanding (MOU) with Australia on low-emissions technologies and an MOU with Chile on low-carbon hydrogen, and is actively in discussions with other like-minded countries.
 
-#### ANNEX A: Whole-of-Government’s Assessment of the Hydrogen Feasibility Study<sup>7</sup>
+#### <u>ANNEX A: Whole-of-Government’s Assessment of the Hydrogen Feasibility Study<sup>7</sup></u>
 
 1. Hydrogen can serve as an energy carrier to store and transport renewable energy, and has the potential to diversify Singapore’s fuel mix towards low-carbon options for electricity generation and heavy transportation (e.g. in goods vehicles, international shipping and aviation), for example. Hydrogen is also required as a raw material for some industrial processes.
 
@@ -49,7 +49,7 @@ permalink: /media/press-release/singapore-looks-to-develop-and-deploy-lc-technol
     
     * **Mobility Sector** – As hydrogen technology for transport remains nascent, the report does not foresee a global shift towards hydrogen fuel cell electric vehicles (FCEVs) in the near-term. Battery electric vehicles (BEVs) are projected to remain the more viable cleaner-energy vehicle technology. A possible exception is the heavy vehicle segment, where FCEVs could be more economically viable than BEVs by 2050. However, this is also contingent on sufficiently widespread adoption of hydrogen in other areas in Singapore.
 
-#### ANNEX B: Key Findings From The CCUS Study<sup>10</sup>
+#### <u>ANNEX B: Key Findings From The CCUS Study<sup>10</sup></u>
 
 1. CCUS can, like low-carbon hydrogen, reduce Singapore’s emissions from the industry and power sector, and can complement the adoption of low-carbon hydrogen.
 
@@ -60,31 +60,31 @@ permalink: /media/press-release/singapore-looks-to-develop-and-deploy-lc-technol
 
 3. While the CCUS study has identified significant potential for CCUS to reduce Singapore’s emissions in the long-term, near-term technical and economic challenges must be overcome for the large-scale deployment of CCUS solutions:
 
-    * Capture – The majority of carbon dioxide emissions from industrial and power plant facilities are dilute (3-15%). As such, substantial energy and costs are needed today to separate and concentrate CO2 from these dilute emissions sources. Further capture technology development and upscaling is needed to lower the energy and costs presently required.
-    * Utilisation – Manufacturing fuel and chemicals from CO2 often requires low-carbon hydrogen and is more energy-intensive than conventional processes, although this will improve over time as technology matures and new pathways develop. Agencies will study new catalysts and novel chemical pathways in utilising CO2 for more cost-effective solutions for Singapore.
-    * Storage – Singapore does not have any known suitable geological formations for the permanent storage of CO2 underground. Singapore will explore partnerships with companies and other countries with suitable geological formations to enable CO2 storage opportunities.
+    * **Capture** – The majority of carbon dioxide emissions from industrial and power plant facilities are dilute (3-15%). As such, substantial energy and costs are needed today to separate and concentrate CO2 from these dilute emissions sources. Further capture technology development and upscaling is needed to lower the energy and costs presently required.
+    * **Utilisation** – Manufacturing fuel and chemicals from CO2 often requires low-carbon hydrogen and is more energy-intensive than conventional processes, although this will improve over time as technology matures and new pathways develop. Agencies will study new catalysts and novel chemical pathways in utilising CO2 for more cost-effective solutions for Singapore.
+    * **Storage** – Singapore does not have any known suitable geological formations for the permanent storage of CO2 underground. Singapore will explore partnerships with companies and other countries with suitable geological formations to enable CO2 storage opportunities.
 
 4. To overcome these challenges, A*STAR evaluated technologies and research capabilities that need further development for CCUS based on key findings from the CCUS feasibility study. Singapore will continue to invest in RD&D to develop innovative solutions to overcome these barriers and reduce the costs of CCUS. Singapore will also seek partnerships on opportunities to pilot and testbed new CCUS solutions which have the potential to scale in the long run.
 
-#### ANNEX C: Factsheet on Singapore's Vision To Be A Bright Green Spark
+#### <u>ANNEX C: Factsheet on Singapore's Vision To Be A Bright Green Spark</u>
 
 1. To tackle climate change concerns, Singapore has to change the way we produce and consume energy. Then-Minister for Trade and Industry Mr Chan Chun Sing shared Singapore’s aspiration to be a “Bright Green Spark” at the Singapore International Energy Week (SIEW) in October 2020 to be an inspiration to other cities as we move towards a cleaner, more reliable and affordable energy future.
 
 3. As part of this vision, we will harness four switches to transform and diversify our energy supply. The four switches are natural gas, solar energy, regional power grids, and emerging low-carbon alternatives. This will be supported by energy conservation efforts and improving energy efficiency across all sectors.
 
-    * 1st Switch: Natural Gas
+    * **1st Switch: Natural Gas**
       
       Natural gas is the cleanest form of fossil fuel and will continue to be a dominant fuel for Singapore’s electricity in the near future. EMA will continue to diversify our gas sources and work with our power generation companies to improve the efficiency of their power plants.
       
-    * 2nd Switch: Solar
+    * **2nd Switch: Solar**
      
       Solar is the most promising renewable energy source for Singapore. Energy storage systems are also vital as it helps us manage the intermittency of renewable energy sources. Singapore is working towards a solar target of 1.5 gigawatt-peak by 2025, and at least 2 gigawatt-peak by 2030, with an energy storage deployment target of at least 200 megawatts beyond 2025.
       
-    * 3rd Switch: Regional Power Grids
+    * **3rd Switch: Regional Power Grids**
 
       We are studying ways to develop regional power grids for cost-competitive and low-carbon energy. This could be realised through bilateral cooperation and regional initiatives. For a start, we intend to embark on a two-year trial for 100 megawatts<sup>11</sup> of electricity imports from Peninsular Malaysia to Singapore. We are also initiating cross-border power trade under the 4-country Lao PDR-Thailand-Malaysia-Singapore Power Integration Project (LTMS-PIP).
       
-    * 4th Switch: Emerging Low-Carbon Alternatives
+    * **4th Switch: Emerging Low-Carbon Alternatives**
 
       We are exploring emerging low-carbon solutions (e.g. carbon capture, utilisation and storage technologies, low-carbon hydrogen) that can help reduce Singapore's carbon footprint.
 
@@ -92,7 +92,7 @@ We will continue to improve our energy efficiency in the various sectors. We wil
 
 3. Visit [<a href="www.beyondthecurrent.gov.sg" target="_blank">www.beyondthecurrent.gov.sg</a>](www.beyondthecurrent.gov.sg) for more information.
 
-#### ANNEX D: Factsheet For Singapore's Long-Term Low-Emissions Development Strategy
+#### <u>ANNEX D: Factsheet For Singapore's Long-Term Low-Emissions Development Strategy</u>
 
 1. On 31 March 2020, Singapore submitted its Long-Term Low-Emissions Development Strategy (LEDS) to the United Nations Framework Convention on Climate Change (UNFCCC).
 
@@ -114,3 +114,7 @@ We will continue to improve our energy efficiency in the various sectors. We wil
 ![sg-green-plan.jpg](/images/sg-green-plan.jpg "sg-green-plan.jpg")
 
 *For more information on the Singapore Green Plan 2030, please refer to this [<a href="http://www.greenplan.gov.sg/" target="_blank">link</a>](http://www.greenplan.gov.sg/).*
+
+</hr>
+
+*For full report, please click [<a href="/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf" target="_blank">here</a>](/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf).*
