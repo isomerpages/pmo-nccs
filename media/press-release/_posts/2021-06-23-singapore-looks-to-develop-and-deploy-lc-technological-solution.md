@@ -38,7 +38,7 @@ permalink: /media/press-release/singapore-looks-to-develop-and-deploy-lc-technol
 <br><sup>5</sup> Chiyoda, Mitsubishi, PSA, Jurong Port, City Gas, Sembcorp, SLNG (with the support of MPA and NRF) signed an MoU to develop a business case for the technical and commercial feasibility of hydrogen import to Singapore.
 <br><sup>6</sup> Itochu Corp signed an MoU with Itochu Enex, Vopak, Pavilion Energy, Mitsui OSK line, and Total on the joint development study of ammonia as a new marine fuel in Singapore.
 
-</hr>
+<hr>
 
 *Annex information viewable by clicking [<a href="/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf" target="_blank">here</a>](/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf).*
 
