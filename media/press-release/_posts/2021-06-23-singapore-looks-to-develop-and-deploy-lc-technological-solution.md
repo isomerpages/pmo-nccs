@@ -32,14 +32,15 @@ permalink: /media/press-release/singapore-looks-to-develop-and-deploy-lc-technol
 ----------
 
 <sup>1</sup> More information on Singapore’s Long-Term Low-Emissions Development Strategy can be found in Annex D.
-<sup>2</sup> More information on the Singapore Green Plan 2030 can be found in Annex E.
-<sup>3</sup> More information (including topics of interest) can be found at this link (https://www.astar.edu.sg/Research/funding-opportunities/lcer-fi-grant).
-<sup>5</sup> Chiyoda, Mitsubishi, PSA, Jurong Port, City Gas, Sembcorp, SLNG (with the support of MPA and NRF) signed an MoU to develop a business case for the technical and commercial feasibility of hydrogen import to Singapore.
-<sup>6</sup> Itochu Corp signed an MoU with Itochu Enex, Vopak, Pavilion Energy, Mitsui OSK line, and Total on the joint development study of ammonia as a new marine fuel in Singapore.
+<br><sup>2</sup> More information on the Singapore Green Plan 2030 can be found in Annex E.
+<br><sup>3</sup> More information (including topics of interest) can be found at this link (https://www.astar.edu.sg/Research/funding-opportunities/lcer-fi-grant).
+<br><sup>4</sup> Keppel Data Centres announced an MoU with Kawasaki Heavy Industries, Mitsui O.S.K. Lines, Vopak LNG, and Linde to study the commercial viability of a liquefied hydrogen supply chain in May 2021.
+<br><sup>5</sup> Chiyoda, Mitsubishi, PSA, Jurong Port, City Gas, Sembcorp, SLNG (with the support of MPA and NRF) signed an MoU to develop a business case for the technical and commercial feasibility of hydrogen import to Singapore.
+<br><sup>6</sup> Itochu Corp signed an MoU with Itochu Enex, Vopak, Pavilion Energy, Mitsui OSK line, and Total on the joint development study of ammonia as a new marine fuel in Singapore.
 
 </hr>
 
-*For additional details and Annex information, please click [<a href="/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf" target="_blank">here</a>](/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf).*
+*Annex information viewable by clicking [<a href="/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf" target="_blank">here</a>](/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf).*
 
 
 
