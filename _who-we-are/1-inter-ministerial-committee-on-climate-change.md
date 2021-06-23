@@ -17,11 +17,11 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 
 * Ms Grace Fu, Minister for Sustainability and the Environment 
 * Dr Vivian Balakrishnan, Minister for Foreign Affairs  
-* Mr Lawrence Wong, Second Minister for Finance  
-* Mr Chan Chun Sing, Minister for Trade and Industry  
-* Mr Ong Ye Kung, Minister for Transport
+* Mr Lawrence Wong, Minister for Finance 
+* Mr Gan Kim Yong, Minister for Trade and Industry  
+* Mr S Iswaran, Minister for Transport, and Minister-in-charge of Trade Relations
 * Mr Desmond Lee, Minister for National Development
-* Ms Indranee Rajah, Second Minister for National Development
+* Ms Indranee Rajah, Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for National Development
 
 **Committees and Work Groups Addressing Singapore's Climate Change-related Issues**
 
@@ -29,7 +29,7 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 
 **IMCCC Executive Committee**
 
-IMCCC is supported by an Executive Committee (Exco) comprising the permanent secretaries of the respective Ministries. The IMCCC Exco oversees the work of the Long Term Emissions and Mitigation Working Group (LWG), Resilience Working Group (RWG), Sustainability Working Group (SWG), Green Economy Working Group (GEWG) and Communications and Engagement Working Group (CEWG).
+IMCCC is supported by an Executive Committee (Exco) comprising the permanent secretaries of the respective Ministries. The IMCCC Exco oversees the work of the Long-Term Emissions and Mitigation Working Group (LWG), Resilience Working Group (RWG), Sustainability Working Group (SWG), Green Economy Working Group (GEWG) and Communications and Engagement Working Group (CEWG).
 
 ### IMCCC Exco Members
 
@@ -54,9 +54,9 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 * Mr Benedict Chia, Director (Strategic Issues), National Climate Change Secretariat, Strategy Group, Prime Minister's Office
 * Mr Heng Jian Wei, Director (Policy and Planning), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
 
-**Long Term Emissions and Mitigation Working Group**
+**Long-Term Emissions and Mitigation Working Group**
 
-The Long Term Emissions and Mitigation Working Group (LWG) develops plans to reduce Singapore’s  long-term emissions. LWG examines mitigation options, and identifies the capabilities, infrastructure and policies needed for long-term emissions reduction.
+The Long-Term Emissions and Mitigation Working Group (LWG) develops plans to reduce Singapore’s  long-term emissions. LWG examines mitigation options, and identifies the capabilities, infrastructure and policies needed for long-term emissions reduction.
 
 **Resilience Working Group**
 
