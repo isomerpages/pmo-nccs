@@ -22,9 +22,10 @@ The key findings of the two studies were as follows:
       Hydrogen has the potential to diversify Singapore’s fuel mix towards low-carbon options for electricity generation, heavy transportation and some industrial processes. Given Singapore’s limited renewable energy resources, it is challenging for Singapore to produce green hydrogen at scale using domestic green electricity. As such, Singapore would need to explore various supply pathways for price-competitive low-carbon hydrogen. More details can be found in Annex A.
 
 
-    * **<u>Study on “Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors”</u>**
+   * **<u>Study on “Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors”</u>**
 
       The study identified carbon dioxide emissions, mainly from power plants and industrial facilities, that could be captured and stored in suitable sub-surface geological formations (i.e. CCS) or converted into useful products (i.e. CCU). For CCU, some of the more promising pathways include (i) mineralisation, to use waste-based feedstock or natural minerals to produce aggregates for reclamation or structural and non-structural building use, and (ii) conversion to chemicals and synthetic fuels, such as kerosene and methanol, which have the potential to be used as fuel for aircraft and marine vessels. More details can be found in Annex B.
+
 
 The findings will be used to inform existing Research, Development and Demonstration (RD&D) efforts, such as the S$49 million Low Carbon Energy Research (LCER) Funding Initiative (FI)<sup>3</sup>, a multi-agency effort involving the Agency for Science, Technology and Research (A*STAR), EDB, EMA, NCCS and the National Research Foundation (NRF); and to guide private sector consortiums such as those led by Keppel DC<sup>4</sup>, Chiyoda<sup>5</sup>, and Itochu<sup>6</sup> on the deployment of low-carbon solutions, and the development of the hydrogen supply chain. The <u>Singapore Government welcomes more of such partnerships</u>, and opportunities to pilot new technologies in sectors including maritime, aviation, mobility, industry and power sectors.
 
