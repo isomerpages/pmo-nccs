@@ -29,6 +29,17 @@ permalink: /media/press-release/singapore-looks-to-develop-and-deploy-lc-technol
 
 5. Following the release of the both reports, <u>Singapore will also seek to partner other countries to advance emerging low-carbon technological solutions</u>. Such collaborations could include joint contributions to international regulations, standards and certification on these emerging technologies, and participation in joint RD&D and test-beds. To date, Singapore has signed a Memorandum of Understanding (MOU) with Australia on low-emissions technologies and an MOU with Chile on low-carbon hydrogen, and is actively in discussions with other like-minded countries.
 
+----------
+
+<sup>1</sup> More information on Singapore’s Long-Term Low-Emissions Development Strategy can be found in Annex D.
+<sup>2</sup> More information on the Singapore Green Plan 2030 can be found in Annex E.
+<sup>3</sup> More information (including topics of interest) can be found at this link (https://www.astar.edu.sg/Research/funding-opportunities/lcer-fi-grant).
+<sup>5</sup> Chiyoda, Mitsubishi, PSA, Jurong Port, City Gas, Sembcorp, SLNG (with the support of MPA and NRF) signed an MoU to develop a business case for the technical and commercial feasibility of hydrogen import to Singapore.
+<sup>6</sup> Itochu Corp signed an MoU with Itochu Enex, Vopak, Pavilion Energy, Mitsui OSK line, and Total on the joint development study of ammonia as a new marine fuel in Singapore.
+
 </hr>
 
 *For additional details and Annex information, please click [<a href="/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf" target="_blank">here</a>](/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf).*
+
+
+
