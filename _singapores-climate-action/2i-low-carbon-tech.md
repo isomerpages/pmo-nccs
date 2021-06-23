@@ -134,7 +134,9 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 
 </main>
 
-<!-- For the joint media release by NCCS, EDB, EMA, CAAS and MPA on both reports, click [<a href="https://www.nccs.gov.sg/media/press-release/" target="_blank">here</a>](https://www.nccs.gov.sg/media/press-release/). -->
+/media/press-release/singapore-looks-to-develop-and-deploy-lc-technological-solution
+
+For the joint media release by NCCS, EDB, EMA, CAAS and MPA on both reports, click [<a href="/media/press-release/singapore-looks-to-develop-and-deploy-lc-technological-solution" target="_blank">here</a>](/media/press-release/singapore-looks-to-develop-and-deploy-lc-technological-solution).
 
 **Carbon Capture, Utilisation and Storage**
 
