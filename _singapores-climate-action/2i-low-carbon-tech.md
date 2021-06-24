@@ -58,6 +58,11 @@ CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     text-decoration: none;
 }
 
+.card a:hover {
+  color: white;
+  text-decoration: none; /* no underline */
+}
+
 .card:hover {
     transition: all 0.0s ease-out;
     box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
@@ -71,11 +76,6 @@ CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
   
 .card-content h6:hover {
 	color:white;
-}
-
-.card a:hover {
-  color: black;
-  text-decoration: none; /* no underline */
 }
 
 /* Flexbox stuff */
