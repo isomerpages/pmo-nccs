@@ -41,6 +41,7 @@ CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     /* border: 0.13em solid rgba(0,0,0,.2); */
     border-radius: 15px;
     /* box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3); */
+    transition: 0.3s;
 }
 
 .card a {
@@ -62,7 +63,7 @@ CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
     /* top: -4px; */
     border: 2px solid #cccccc;
-    background-color: white;
+    background-color: #0487bf;
     margin-top: 0.5em;
     margin-bottom: .5em;
   }
