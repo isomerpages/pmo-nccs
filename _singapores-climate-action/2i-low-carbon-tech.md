@@ -71,6 +71,7 @@ CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     background-color: #0487bf;
     margin-top: 0.5em;
     margin-bottom: .5em;
+    color:white;
     transition: 0.3s;
   }
   
