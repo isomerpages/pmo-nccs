@@ -41,6 +41,7 @@ CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     /* border: 0.13em solid rgba(0,0,0,.2); */
     border-radius: 15px;
     /* box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3); */
+    transition: 0.3s;
 }
 
 .card a {
@@ -57,19 +58,25 @@ CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     text-decoration: none;
 }
 
+.card a:hover {
+  color: white;
+  text-decoration: none; /* no underline */
+}
+
 .card:hover {
     transition: all 0.0s ease-out;
     box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
     /* top: -4px; */
     border: 2px solid #cccccc;
-    background-color: white;
+    background-color: #0487bf;
     margin-top: 0.5em;
     margin-bottom: .5em;
+    color:white;
+    transition: 0.3s;
   }
-
-.card a:hover {
-  color: black;
-  text-decoration: none; /* no underline */
+  
+.card-content h6:hover {
+	color:white;
 }
 
 /* Flexbox stuff */
@@ -133,8 +140,6 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 
 
 </main>
-
-/media/press-release/singapore-looks-to-develop-and-deploy-lc-technological-solution
 
 For the joint media release by NCCS, EDB, EMA, CAAS and MPA on both reports, click [<a href="/media/press-release/singapore-looks-to-develop-and-deploy-lc-technological-solution" target="_blank">here</a>](/media/press-release/singapore-looks-to-develop-and-deploy-lc-technological-solution).
 
