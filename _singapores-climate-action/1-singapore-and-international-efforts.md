@@ -95,7 +95,7 @@ We also provide technical assistance and human resource capacity building to cli
 
 Singapore actively collaborates with countries around the world, to build on one another's strengths and experiences in climate change, and to provide training to developing countries on climate change and environment-related issues. These countries include Australia, France, Germany, Japan, Norway, New Zealand, the Republic of Korea, Thailand, and the United Kingdom.
 
-To further strengthen our efforts in global collaboration, Singapore has also concluded Memoranda of Understanding (MoUs) with our international partners on low-emissions solutions, like Australia and Chile.
+To further strengthen our efforts in global collaboration, Singapore has also concluded Memoranda of Understanding (MoUs) with our international partners like Australia and Chile, on low-emissions solutions.
 
 These initiatives reflect our commitment to sharing our knowledge, experience and expertise  to help developing countries implement sustainable environmental and climate policies and practices.
 As of September 2020, we have trained more than 131,000 officials from over 170 countries in climate change-related programmes, and will continue to deepen this effort.
