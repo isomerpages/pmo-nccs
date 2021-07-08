@@ -35,11 +35,11 @@ The European Union is a close and strong partner in our fight against climate ch
 
 **Singapore’s Minister for Sustainability and the Environment Grace Fu** said: “Tackling climate change requires concerted international effort, and countries must work together to address this existential challenge. I had a good discussion with Mr Frans Timmermans, European Commission Executive Vice-President, on ways we can work together to advance global climate action, and strengthen Singapore-EU bilateral cooperation, notably in  low-carbon energy solutions, carbon trading and services, waste management and resource circularity, and food production and safety. Singapore is a strong supporter of global climate action and is committed to working with all parties, including the EU, for a successful outcome at COP26.”
 
-<!-- Image placeholder - ![2018-emissions-profile](/images/2018-emissions-profile.png "2018-emissions-profile") -->
+![sm-teo-evp-mci.jpeg](/images/sm-teo-evp-mci.jpeg "sm-teo-evp-mci")
 
 *Singapore's Senior Minister and Coordinating Minister for National Security Teo Chee Hean with European Commission Executive Vice-President Frans Timmermans in Singapore on 8 July 2021. (Photo credit: Ministry of Communications and Information, Singapore)*
 
-<!-- Image placeholder - ![2018-emissions-profile](/images/2018-emissions-profile.png "2018-emissions-profile") -->
+![min-fu-evp-mse.png](/images/min-fu-evp-mse.png "min-fu-evp-mse.png")
 
 *Singapore's Minister for Sustainability and the Environment Grace Fu meeting European Commission Executive Vice-President Frans Timmermans virtually on 8 July 2021. (Photo Credit: Ministry of Sustainability and the Environment, Singapore)*
 
@@ -52,4 +52,4 @@ The European Union is a close and strong partner in our fight against climate ch
 
 ---------
 
-*Annex information viewable by clicking [<a href="/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf" target="_blank">here</a>](/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf).*
+*Annex information viewable by clicking [<a href="/docs/default-source/news-documents/joint-media-release-evp-visit-final-080721.pdf" target="_blank">here</a>](/docs/default-source/news-documents/joint-media-release-evp-visit-final-080721.pdf).*
