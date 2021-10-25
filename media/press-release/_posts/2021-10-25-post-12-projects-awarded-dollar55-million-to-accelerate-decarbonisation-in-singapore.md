@@ -20,10 +20,13 @@ Carbon capture, utilisation and storage (CCUS): CCUS has the potential to reduce
 
 5      Emerging low-carbon alternatives is one of four switches in the Singapore Energy Story to build a more sustainable energy future. The Government has also conducted two feasibility studies on low-carbon hydrogen and CCUS technologies, from which key findings[4] were used to evaluate proposals received under the LCER FI grant call. The Singapore Government welcomes more of such partnerships, and opportunities to pilot new technologies in sectors including maritime, aviation, mobility, industry and power sectors.
 
-Annex A: Details of Awarded Projects
-Annex B: Factsheet on Advancing Singapore’s Energy Transition Towards a More Sustainable Future
-Annex C: Factsheet for Singapore’s Long-Term Low-Emissions Development Strategy
-Annex D: Factsheet for the Singapore Green Plan
+[Annex A:](/files/Annex%20A.pdf) Details of Awarded Projects 
+
+[Annex B:](/files/Annex%20B.pdf) Factsheet on Advancing Singapore’s Energy Transition Towards a More Sustainable Future
+
+[Annex C:](/files/Annex%20C.pdf) Factsheet for Singapore’s Long-Term Low-Emissions Development Strategy
+
+[Annex D:](/files/Annex%20D.pdf) Factsheet for the Singapore Green Plan
 
 
 [1] Details on Advancing Singapore’s Energy Transition Towards a More Sustainable Future can be found in Annex B.
@@ -34,5 +37,6 @@ Annex D: Factsheet for the Singapore Green Plan
 
 [4] The “Study of Hydrogen Imports and Downstream Applications for Singapore” was jointly commissioned by the National Climate Change Secretariat (NCCS), Singapore Economic Development Board (EDB) and Energy Market Authority (EMA); while the study on “Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors” was jointly commissioned by NCCS and EDB. Detailed findings of the feasibility studies are available at:
 
-https://www.nccs.gov.sg/docs/default-source/default-document-library/hydrogen-study-report.pdf
-https://www.nccs.gov.sg/docs/default-source/default-document-library/ccus-study-report.pdf
+[https://www.nccs.gov.sg/docs/default-source/default-document-library/hydrogen-study-report.pdf](https://www.nccs.gov.sg/docs/default-source/default-document-library/hydrogen-study-report.pdf)
+
+[https://www.nccs.gov.sg/docs/default-source/default-document-library/ccus-study-report.pdf](https://www.nccs.gov.sg/docs/default-source/default-document-library/ccus-study-report.pdf)
