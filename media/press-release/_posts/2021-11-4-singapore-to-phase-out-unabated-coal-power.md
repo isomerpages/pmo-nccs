@@ -13,7 +13,7 @@ Singapore has joined the Powering Past Coal Alliance (PPCA) at the 26th Conferen
 
 #### Powering Past Coal Alliance (PPCA) 
 
-Singapore’s membership of the PPCA, reflects its efforts to progressively phase out the use of unabated coal. Under the PPCA Declaration, Singapore has committed to continue phasing out the use of unabated coal in its electricity mix by 2050, and to restrict direct Government finance of unabated coal power internationally. Since independence, Singapore’s reliance on coal has been marginal, and makes up less than 2 per cent of its power generation capacity today. 
+Singapore’s membership of the PPCA reflects its efforts to progressively phase out the use of unabated coal. Under the PPCA Declaration, Singapore has committed to continue phasing out the use of unabated coal in its electricity mix by 2050, and to restrict direct Government finance of unabated coal power internationally. Since independence, Singapore’s reliance on coal has been marginal, and makes up less than 2 per cent of its power generation capacity today. 
 
 Minister for Sustainability and the Environment Grace Fu announced Singapore’s membership to the PPCA at the COP-26 Energy Day Presidency Event on 4 November 2021. She said, “The burning of coal is putting billions of people at immediate risk. This is why Singapore has decided to join the Powering Past Coal Alliance, one of the first countries in Asia to do so. Singapore is fully committed to accelerating the transition to a low-carbon future. We will transform our industry, economy, and society to be more energy and carbon efficient, and to adopt more low-carbon energy in support of the goals of the Paris Agreement.”
 
