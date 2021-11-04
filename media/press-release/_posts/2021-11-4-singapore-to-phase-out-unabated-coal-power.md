@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Joint Press Release by NCCS, MTI and MSE: Singapore to phase out unabated coal power by 2050
 subtitle: 4 November 2021
 permalink: /media/press-release/singapore-to-phase-out-unabated-coal-power
+layout: post
 ---
-
 ### JOINT PRESS RELEASE BY NCCS, MTI AND MSE: SINGAPORE TO PHASE OUT UNABATED COAL POWER BY 2050
 
 4 November 2021
