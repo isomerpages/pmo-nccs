@@ -9,7 +9,7 @@ layout: post
 
 4 November 2021
 
-Singapore has joined the Powering Past Coal Alliance (PPCA) at the 26<sub>th</sub> Conference of Parties (COP26) to the United Nations Framework Convention on Climate Change (UNFCCC) in Glasgow, one of 28 new members and one of the first countries in Asia to do so. Singapore has also signed the Global Coal to Clean Power Transition statement initiated by the UK COP26 Presidency.
+Singapore has joined the Powering Past Coal Alliance (PPCA) at the 26<sup>th</sup> Conference of Parties (COP26) to the United Nations Framework Convention on Climate Change (UNFCCC) in Glasgow, one of 28 new members and one of the first countries in Asia to do so. Singapore has also signed the Global Coal to Clean Power Transition statement initiated by the UK COP26 Presidency.
 
 **Powering Past Coal Alliance (PPCA)** 
 
