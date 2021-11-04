@@ -4,6 +4,11 @@ date: 2021-11-04
 permalink: /media/press-release/sg-phase-out-unabated-coal
 layout: post
 ---
+
+### JOINT PRESS RELEASE BY NCCS, MSE AND MTI: SINGAPORE TO PHASE OUT UNABATED COAL POWER BY 2050
+
+4 November 2021
+
 Singapore has joined the Powering Past Coal Alliance (PPCA) at the 26th Conference of Parties (COP-26) to the United Nations Framework Convention on Climate Change (UNFCCC) in Glasgow, one of 28 new members and one of the first countries in Asia to do so. Singapore has also signed the Global Coal to Clean Power Transition statement initiated by the UK COP26 Presidency.
 
 **Powering Past Coal Alliance (PPCA)** 
