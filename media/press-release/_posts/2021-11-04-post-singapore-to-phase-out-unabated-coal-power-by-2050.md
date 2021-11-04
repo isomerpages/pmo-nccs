@@ -25,4 +25,4 @@ In addition to its membership in the PPCA, Singapore has signed the Global Coal 
 
 Although Singapore is a small city-state with limited options to deploy renewable energy at scale, our commitment to phase out coal complements our plans to transition to a low-carbon future, set out under the Long-Term Low-Emissions Development Strategy (LEDS). 
 
-Effective international cooperation is needed to tackle climate change, a complex global challenge, and every country must do its part. Singapore seeks to work with international and regional partners to enable effective collaborations, strengthen consensus and in turn galvanise collective global climate action.
+Effective international cooperation is needed to tackle climate change, a complex global challenge, and every country must do its part. Singapore seeks to work with international and regional partners to enable effective collaborations, strengthen consensus and in turn, galvanise collective global climate action.
