@@ -4,6 +4,8 @@ date: 2021-11-09
 permalink: /media/press-release/Aust-Sg-low-emissions
 layout: post
 ---
+JOINT COMMUNIQUE BY SINGAPORE AND AUSTRALIA
+
 Australia is working with Singapore to find solutions to global climate change challenges through the Singapore-Australia Memorandum of Understanding (MoU) for Cooperation on Low-Emissions Solutions.
 
 The first annual dialogue under the MoU took place on 15 October 2021. The dialogue outlined the progress so far and the plan ahead for the MoU priority areas  in 2022 which includes: 
