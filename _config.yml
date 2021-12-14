@@ -2,17 +2,6 @@ title: National Climate Change Secretariat
 url: "https://www.nccs.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-nccs.ico
 
-collections:
-  who-we-are:
-    output: true
-  about-climate-change:
-    output: true
-  singapores-climate-action:
-    output: true
-  public-consultation:
-    output: true
-  faqs:
-    output: true
 resources_name: media
   
 ##################################################################################################################
@@ -33,10 +22,12 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+future: true
+prod: https://pmo-nccs-prod.netlify.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-future: true
+  - jekyll-remote-theme
