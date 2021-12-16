@@ -1,5 +1,5 @@
 title: National Climate Change Secretariat
-url: "https://www.nccs.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.nccs.gov.sg # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-nccs.ico
 resources_name: media
 permalink: none
