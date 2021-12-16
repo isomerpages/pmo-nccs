@@ -23,8 +23,7 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
+      layout: page
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 paginate: 12
