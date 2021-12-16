@@ -1,12 +1,7 @@
 title: National Climate Change Secretariat
 url: "https://www.nccs.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-nccs.ico
-
 resources_name: media
-  
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
 baseurl: ""
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
