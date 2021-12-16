@@ -30,6 +30,7 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
+staging: https://pmo-nccs-stag.netlify.com/
 prod: https://pmo-nccs-prod.netlify.com/
 plugins:
   - jekyll-feed
