@@ -41,4 +41,4 @@ I am very pleased to join you today for the opening of Carbon Forum Asia 2011. I
 <br><br><br>
 
 
-Source: [<a href="/docs/default-source/news-documents/opening-ceremony-of-carbon-forum-asia-2011.pdf" target="_blank">Opening Ceremony of Carbon Forum Asia 2011.pdf</a>](/docs/default-source/news-documents/opening-ceremony-of-carbon-forum-asia-2011.pdf)
+Source: [<a href="/files/docs/default-source/news-documents/opening-ceremony-of-carbon-forum-asia-2011.pdf" target="_blank">Opening Ceremony of Carbon Forum Asia 2011.pdf</a>](/files/docs/default-source/news-documents/opening-ceremony-of-carbon-forum-asia-2011.pdf)

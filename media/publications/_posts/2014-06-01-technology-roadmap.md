@@ -21,8 +21,8 @@ Taking reference from the studies, new programmes were launched to develop and d
 As understanding of science and technology advances, the technical studies will be refreshed. 
 An updated solar PV study has been completed and further studies on CCUS and hydrogen are underway.
 
-[<a href="/docs/default-source/default-document-library/Solar%20PV%20Roadmap%20for%20Singapore%202020.pdf" target="_blank">Solar Photovoltaic</a>](/docs/default-source/default-document-library/Solar%20PV%20Roadmap%20for%20Singapore%202020.pdf)  
-[<a href="/docs/default-source/default-document-library/Addendum%20to%20the%20Update%20of%20the%20Solar%20PV%20Roadmap%20(March%202020).pdf" target="_blank">Addendum</a>](/docs/default-source/default-document-library/Addendum%20to%20the%20Update%20of%20the%20Solar%20PV%20Roadmap%20(March%202020).pdf)  
+[<a href="/files/docs/default-source/default-document-library/Solar%20PV%20Roadmap%20for%20Singapore%202020.pdf" target="_blank">Solar Photovoltaic</a>](/files/docs/default-source/default-document-library/Solar%20PV%20Roadmap%20for%20Singapore%202020.pdf)  
+[<a href="/files/docs/default-source/default-document-library/Addendum%20to%20the%20Update%20of%20the%20Solar%20PV%20Roadmap%20(March%202020).pdf" target="_blank">Addendum</a>](/files/docs/default-source/default-document-library/Addendum%20to%20the%20Update%20of%20the%20Solar%20PV%20Roadmap%20(March%202020).pdf)  
 **Lead Agency (or Lead Agencies)**: EDB & EMA  
 **Date of Publication**: Mar 2020
 
@@ -34,27 +34,27 @@ Each Roadmap highlights the pathways from R&D to deployment for technologies tha
 
 These roadmaps provide references for government agencies’ research, development and demonstration funding initiatives (e.g. NTU’s Waste-to-Energy Research Facility, Green Building Innovation Cluster, Green Data Centre Programme) and supported the development of Singapore’s Paris Pledge.
 
-[<a href="/docs/default-source/default-document-library/carbon-capture-and-storage-utilisation-singapore-perspectives.pdf" target="_blank">Carbon Capture and Storage/Utilisation</a>](/docs/default-source/default-document-library/carbon-capture-and-storage-utilisation-singapore-perspectives.pdf)  
+[<a href="/files/docs/default-source/default-document-library/carbon-capture-and-storage-utilisation-singapore-perspectives.pdf" target="_blank">Carbon Capture and Storage/Utilisation</a>](/files/docs/default-source/default-document-library/carbon-capture-and-storage-utilisation-singapore-perspectives.pdf)  
 **Lead Agency (or Lead Agencies)**: EDB, EMA & NCCS  
 **Date of Publication**: Jul 2014
 
-[<a href="/docs/default-source/default-document-library/green-data-centre-technology-roadmap.pdf" target="_blank">Green Data Centre</a>](/docs/default-source/default-document-library/green-data-centre-technology-roadmap.pdf)  
+[<a href="/files/docs/default-source/default-document-library/green-data-centre-technology-roadmap.pdf" target="_blank">Green Data Centre</a>](/files/docs/default-source/default-document-library/green-data-centre-technology-roadmap.pdf)  
 **Lead Agency (or Lead Agencies)**: IDA  
 **Date of Publication**: Jul 2014
 
-[<a href="/docs/default-source/default-document-library/building-energy-efficiency-r-and-d-roadmap.pdf" target="_blank">Building Energy Efficiency</a>](/docs/default-source/default-document-library/building-energy-efficiency-r-and-d-roadmap.pdf)  
+[<a href="/files/docs/default-source/default-document-library/building-energy-efficiency-r-and-d-roadmap.pdf" target="_blank">Building Energy Efficiency</a>](/files/docs/default-source/default-document-library/building-energy-efficiency-r-and-d-roadmap.pdf)  
 **Lead Agency (or Lead Agencies)**: BCA  
 **Date of Publication**: Jul 2014
 
-[<a href="/docs/default-source/default-document-library/industry-energy-efficiency-technology-roadmap.pdf" target="_blank">Industry Energy Efficiency</a>](/docs/default-source/default-document-library/industry-energy-efficiency-technology-roadmap.pdf)  
+[<a href="/files/docs/default-source/default-document-library/industry-energy-efficiency-technology-roadmap.pdf" target="_blank">Industry Energy Efficiency</a>](/files/docs/default-source/default-document-library/industry-energy-efficiency-technology-roadmap.pdf)  
 **Lead Agency (or Lead Agencies)**: NEA & EDB  
 **Date of Publication**: Jun 2016
 
-[<a href="/docs/default-source/default-document-library/solid-waste-management-technology-roadmap.pdf" target="_blank">Waste Management</a>](/docs/default-source/default-document-library/solid-waste-management-technology-roadmap.pdf)  
+[<a href="/files/docs/default-source/default-document-library/solid-waste-management-technology-roadmap.pdf" target="_blank">Waste Management</a>](/files/docs/default-source/default-document-library/solid-waste-management-technology-roadmap.pdf)  
 **Lead Agency (or Lead Agencies)**: NEA
 **Date of Publication**: Jun 2016
 
-[<a href="/docs/default-source/default-document-library/e-mobility-technology-roadmap.pdf" target="_blank">E-Mobility</a>](/docs/default-source/default-document-library/e-mobility-technology-roadmap.pdf)
+[<a href="/files/docs/default-source/default-document-library/e-mobility-technology-roadmap.pdf" target="_blank">E-Mobility</a>](/files/docs/default-source/default-document-library/e-mobility-technology-roadmap.pdf)
 *(the data in the roadmap is superseded by recent technology progress.)*
 
 **Lead Agency (or Lead Agencies)**: LTA  
@@ -69,23 +69,23 @@ As part of Government's continuous effort to engage with industrial and academic
 
 Prior to the Technology Roadmaps, NCCS and NRF jointly commissioned a series of Technology Primers in 2011. The Primers sought to understand how various technologies could help Singapore increase energy efficiency, reduce carbon emissions, and increase energy options. Each Primer discussed the state of a technology, its technical feasibility for Singapore, related research activities in Singapore and possible research goals.
 
-[<a href="/docs/default-source/default-document-library/air-con-system-efficiency-primer-a-summary.pdf" target="_blank">Air-conditioning System Efficiency</a>](/docs/default-source/default-document-library/air-con-system-efficiency-primer-a-summary.pdf)  
+[<a href="/files/docs/default-source/default-document-library/air-con-system-efficiency-primer-a-summary.pdf" target="_blank">Air-conditioning System Efficiency</a>](/files/docs/default-source/default-document-library/air-con-system-efficiency-primer-a-summary.pdf)  
 **Date of Publication**: Aug 2011
 
-[<a href="/docs/default-source/default-document-library/air-con-system-efficiency-primer-a-summary.pdf" target="_blank">Biorenewables</a>](/docs/default-source/default-document-library/air-con-system-efficiency-primer-a-summary.pdf)  
+[<a href="/files/docs/default-source/default-document-library/air-con-system-efficiency-primer-a-summary.pdf" target="_blank">Biorenewables</a>](/files/docs/default-source/default-document-library/air-con-system-efficiency-primer-a-summary.pdf)  
 **Date of Publication**: Aug 2011
 
-[<a href="/docs/default-source/default-document-library/carbon-capture-and-storage-utilisation-technology-primer-a-summary.pdf" target="_blank">Carbon Capture and Utilisation</a>](/docs/default-source/default-document-library/carbon-capture-and-storage-utilisation-technology-primer-a-summary.pdf)  
+[<a href="/files/docs/default-source/default-document-library/carbon-capture-and-storage-utilisation-technology-primer-a-summary.pdf" target="_blank">Carbon Capture and Utilisation</a>](/files/docs/default-source/default-document-library/carbon-capture-and-storage-utilisation-technology-primer-a-summary.pdf)  
 **Date of Publication**: Aug 2011
 
-[<a href="/docs/default-source/default-document-library/energy-storage-technology-primer-a-summary.pdf" target="_blank">Energy Storage</a>](/docs/default-source/default-document-library/energy-storage-technology-primer-a-summary.pdf)  
+[<a href="/files/docs/default-source/default-document-library/energy-storage-technology-primer-a-summary.pdf" target="_blank">Energy Storage</a>](/files/docs/default-source/default-document-library/energy-storage-technology-primer-a-summary.pdf)  
 **Date of Publication**: Aug 2011
 
-[<a href="/docs/default-source/default-document-library/smart-grid-technology-primer-a-summary.pdf" target="_blank">Smart Grid</a>](/docs/default-source/default-document-library/smart-grid-technology-primer-a-summary.pdf)  
+[<a href="/files/docs/default-source/default-document-library/smart-grid-technology-primer-a-summary.pdf" target="_blank">Smart Grid</a>](/files/docs/default-source/default-document-library/smart-grid-technology-primer-a-summary.pdf)  
 **Date of Publication**: Aug 2011
 
-[<a href="/docs/default-source/default-document-library/solar-energy-technology-primer-a-summary.pdf" target="_blank">Solar Energy</a>](/docs/default-source/default-document-library/solar-energy-technology-primer-a-summary.pdf)  
+[<a href="/files/docs/default-source/default-document-library/solar-energy-technology-primer-a-summary.pdf" target="_blank">Solar Energy</a>](/files/docs/default-source/default-document-library/solar-energy-technology-primer-a-summary.pdf)  
 **Date of Publication**:  Aug 2011
 
-[<a href="/docs/default-source/default-document-library/green-data-centre-technology-primer-a-summary.pdf" target="_blank">Green Data Centre</a>](/docs/default-source/default-document-library/green-data-centre-technology-primer-a-summary.pdf)  
+[<a href="/files/docs/default-source/default-document-library/green-data-centre-technology-primer-a-summary.pdf" target="_blank">Green Data Centre</a>](/files/docs/default-source/default-document-library/green-data-centre-technology-primer-a-summary.pdf)  
 **Date of Publication**:  Aug 2011

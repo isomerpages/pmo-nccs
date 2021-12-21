@@ -9,7 +9,7 @@ permalink: /faqs/carbon-tax/
 
 Singapore's Climate Action Plan sets out four strategies to achieve its pledge: (i) improving energy efficiency, (ii) reducing carbon emissions from power generation, (iii) developing and deploying cutting-edge low-carbon technologies, and (iv) encouraging collective action among government agencies, individuals, businesses, and the community.
 
-A carbon tax will enhance Singapore's existing and planned mitigation efforts under its [<a href="/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf" target="_blank">Climate Action Plan</a>](/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf), and stimulate clean technology and market innovation. A tax on greenhouse gas (GHG) emissions will incentivise emitters to factor in the costs of their GHG emissions in their business decisions. This would encourage companies to improve their energy efficiency and innovate to reduce their GHG emissions.
+A carbon tax will enhance Singapore's existing and planned mitigation efforts under its [<a href="/files/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf" target="_blank">Climate Action Plan</a>](/files/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf), and stimulate clean technology and market innovation. A tax on greenhouse gas (GHG) emissions will incentivise emitters to factor in the costs of their GHG emissions in their business decisions. This would encourage companies to improve their energy efficiency and innovate to reduce their GHG emissions.
 
 **2. Who is covered under the carbon tax?**
 

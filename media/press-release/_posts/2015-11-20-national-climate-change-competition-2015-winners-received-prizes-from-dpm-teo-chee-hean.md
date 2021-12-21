@@ -67,7 +67,7 @@ Earth Story
 Yegg
 
 
-A Viewers’ Choice contest was conducted separately on the Climate Change SG Facebook ([<a href="https://www.facebook.com/ClimateChangeSG/" target="_blank">www.facebook.com/climatechangeSG</a>](https://www.facebook.com/ClimateChangeSG/)) page where members of the public voted for their favourite videos. The list of winning videos for NCCC 2015 is at [<a href="/docs/default-source/news-documents/annex---winners-of-nccc-2015.pdf" target="_blank">Annex</a>](/docs/default-source/news-documents/annex---winners-of-nccc-2015.pdf).
+A Viewers’ Choice contest was conducted separately on the Climate Change SG Facebook ([<a href="https://www.facebook.com/ClimateChangeSG/" target="_blank">www.facebook.com/climatechangeSG</a>](https://www.facebook.com/ClimateChangeSG/)) page where members of the public voted for their favourite videos. The list of winning videos for NCCC 2015 is at [<a href="/files/docs/default-source/news-documents/annex---winners-of-nccc-2015.pdf" target="_blank">Annex</a>](/files/docs/default-source/news-documents/annex---winners-of-nccc-2015.pdf).
 
 In his speech at the prize award ceremony, DPM Teo commended the participants for helping to raise awareness on climate change.  He also called on Singaporeans to build a more climate-friendly Singapore through their daily actions to conserve energy, for example by choosing energy efficient appliances, or by taking public transport or car-pooling.  
 

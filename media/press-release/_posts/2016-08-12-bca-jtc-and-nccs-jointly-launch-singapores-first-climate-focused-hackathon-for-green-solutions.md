@@ -45,5 +45,5 @@ JTC makes its buildings and estates available island-wide as a living lab for co
 
 Enclosed:
 
-[<a href="/docs/default-source/news-documents/press_cic_annexa.pdf" target="_blank">Annex A</a>](/docs/default-source/news-documents/press_cic_annexa.pdf) – Fact sheet on Challenge Statements
+[<a href="/files/docs/default-source/news-documents/press_cic_annexa.pdf" target="_blank">Annex A</a>](/files/docs/default-source/news-documents/press_cic_annexa.pdf) – Fact sheet on Challenge Statements
 

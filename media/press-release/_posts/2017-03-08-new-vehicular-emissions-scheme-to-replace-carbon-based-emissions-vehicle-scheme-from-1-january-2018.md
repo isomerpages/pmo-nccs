@@ -18,7 +18,7 @@ The rebates and surcharges for the respective VES bands are shown in Table 1:
 <a href="/images/ves-banding-rebates-and-surcharges.jpg" target="_blank"> ![VES Banding Rebates and Surcharges](/images/ves-banding-rebates-and-surcharges.jpg "VES Banding Rebates and Surcharges")</a>  
 *Table 1: VES Banding Rebates and Surcharges*
 
-The VES rebate<a href="#[1]"><sup>[1]</sup></a> or surcharge for a car or taxi will be determined by its worst-performing pollutant. This is to encourage buyers to choose models that have lower emissions across all criteria and are cleaner overall, so as to further improve ambient air quality and thereby improve public health<a href="#[2]"><sup>[2]</sup></a> (refer to [<a href="/docs/default-source/news-documents/annex-a_lta_pr_080317.pdf" target="_blank">Annex A</a>](/docs/default-source/news-documents/annex-a_lta_pr_080317.pdf) for Singapore’s air quality targets).
+The VES rebate<a href="#[1]"><sup>[1]</sup></a> or surcharge for a car or taxi will be determined by its worst-performing pollutant. This is to encourage buyers to choose models that have lower emissions across all criteria and are cleaner overall, so as to further improve ambient air quality and thereby improve public health<a href="#[2]"><sup>[2]</sup></a> (refer to [<a href="/files/docs/default-source/news-documents/annex-a_lta_pr_080317.pdf" target="_blank">Annex A</a>](/files/docs/default-source/news-documents/annex-a_lta_pr_080317.pdf) for Singapore’s air quality targets).
 
 Similar to the existing CEVS, the rebate and surcharge for taxis under the VES will be 50 per cent higher to better encourage taxi companies to adopt lower emission models for their fleets, as taxis generally clock higher mileage than cars.
 
