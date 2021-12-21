@@ -13,11 +13,11 @@ Posters to raise awareness on the simple actions that individuals can take to re
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/publications/lets-join-hands-to-fight-climate-change-households.pdf" target="_blank">Households (PDF, 859KB)</a>](/docs/default-source/publications/lets-join-hands-to-fight-climate-change-households.pdf)
+* [<a href="/files/docs/default-source/publications/lets-join-hands-to-fight-climate-change-households.pdf" target="_blank">Households (PDF, 859KB)</a>](/files/docs/default-source/publications/lets-join-hands-to-fight-climate-change-households.pdf)
 
-* [<a href="/docs/default-source/publications/lets-join-hands-to-fight-climate-change-green-buildings.pdf" target="_blank">Green Buildings (PDF, 967KB)</a>](/docs/default-source/publications/lets-join-hands-to-fight-climate-change-green-buildings.pdf)
+* [<a href="/files/docs/default-source/publications/lets-join-hands-to-fight-climate-change-green-buildings.pdf" target="_blank">Green Buildings (PDF, 967KB)</a>](/files/docs/default-source/publications/lets-join-hands-to-fight-climate-change-green-buildings.pdf)
 
-* [<a href="/docs/default-source/publications/lets-join-hands-to-fight-climate-change-transport.pdf" target="_blank">Transport (PDF, 1MB)</a>](/docs/default-source/publications/lets-join-hands-to-fight-climate-change-transport.pdf)
+* [<a href="/files/docs/default-source/publications/lets-join-hands-to-fight-climate-change-transport.pdf" target="_blank">Transport (PDF, 1MB)</a>](/files/docs/default-source/publications/lets-join-hands-to-fight-climate-change-transport.pdf)
 
-* [<a href="/docs/default-source/publications/lets-join-hands-to-fight-climate-change-solar-energy.pdf" target="_blank">Solar Energy (PDF, 953KB)</a>](/docs/default-source/publications/lets-join-hands-to-fight-climate-change-solar-energy.pdf)
+* [<a href="/files/docs/default-source/publications/lets-join-hands-to-fight-climate-change-solar-energy.pdf" target="_blank">Solar Energy (PDF, 953KB)</a>](/files/docs/default-source/publications/lets-join-hands-to-fight-climate-change-solar-energy.pdf)
 

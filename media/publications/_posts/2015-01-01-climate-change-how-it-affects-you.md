@@ -13,4 +13,4 @@ The brochure was launched by the National Environment Agency in May 2010. It inf
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/publications/climate-change-how-it-affects-you.pdf" target="_blank">Brochure - Climate Change: How It Affects You (PDF, 3MB)</a>](/docs/default-source/publications/climate-change-how-it-affects-you.pdf)
+* [<a href="/files/docs/default-source/publications/climate-change-how-it-affects-you.pdf" target="_blank">Brochure - Climate Change: How It Affects You (PDF, 3MB)</a>](/files/docs/default-source/publications/climate-change-how-it-affects-you.pdf)

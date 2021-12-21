@@ -12,4 +12,4 @@ permalink: "/media/press-release/infographic-charting-singapores-low-carbon-futu
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/publications/leds-infographic-final.pdf" target="_blank">Infographic: Charting Singapore's Low-Carbon Future (PDF, 4.2MB)</a>](/docs/default-source/publications/leds-infographic-final.pdf)
+* [<a href="/files/docs/default-source/publications/leds-infographic-final.pdf" target="_blank">Infographic: Charting Singapore's Low-Carbon Future (PDF, 4.2MB)</a>](/files/docs/default-source/publications/leds-infographic-final.pdf)

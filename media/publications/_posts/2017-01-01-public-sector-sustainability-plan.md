@@ -12,4 +12,4 @@ The Public Sector Sustainability Plan 2017-2020 charts the Singapore Governmentâ
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/publications/public-sector-sustainability-plan-2017-2020.pdf" target="_blank">Public Sector Sustainability Plan 2017-2020 (PDF, 3MB)</a>](/docs/default-source/publications/public-sector-sustainability-plan-2017-2020.pdf)
+* [<a href="/files/docs/default-source/publications/public-sector-sustainability-plan-2017-2020.pdf" target="_blank">Public Sector Sustainability Plan 2017-2020 (PDF, 3MB)</a>](/files/docs/default-source/publications/public-sector-sustainability-plan-2017-2020.pdf)

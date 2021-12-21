@@ -13,4 +13,4 @@ This brochure provides useful day-to-day tips on how anyone can lend a helping h
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/publications/climate-change-how-can-i-help.pdf" target="_blank">Brochure - Climate Change: How Can I Help? (PDF, 1MB)</a>](/docs/default-source/publications/climate-change-how-can-i-help.pdf)
+* [<a href="/files/docs/default-source/publications/climate-change-how-can-i-help.pdf" target="_blank">Brochure - Climate Change: How Can I Help? (PDF, 1MB)</a>](/files/docs/default-source/publications/climate-change-how-can-i-help.pdf)

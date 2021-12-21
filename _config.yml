@@ -1,35 +1,45 @@
 title: National Climate Change Secretariat
-url: "https://www.nccs.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.nccs.gov.sg"
 favicon: /images/favicon-nccs.ico
-
-collections:
-  who-we-are:
-    output: true
-  about-climate-change:
-    output: true
-  singapores-climate-action:
-    output: true
-  public-consultation:
-    output: true
-  faqs:
-    output: true
-resources_name: media
-  
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+colors:
+  primary-color: '#00ACD8'
+  secondary-color: '#102442'
+  media-colors:
+    - title: media-color-one
+      color: '#49759a'
+    - title: media-color-two
+      color: '#744d9f'
+    - title: media-color-three
+      color: '#00838f'
+    - title: media-color-four
+      color: '#00838f'
+    - title: media-color-five
+      color: '#00838f'
+description: test test
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -38,5 +48,7 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-future: true
+  - jekyll-remote-theme
+staging: https://pmo-nccs-stag.netlify.com
+prod: https://pmo-nccs-prod.netlify.com
+resources_name: media

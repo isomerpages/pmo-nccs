@@ -27,6 +27,6 @@ Students and members of the public can register to take part in the competition 
 
 (ii) Open Category
 
-Participants can stand to win up to $5,000 in cash prizes. Four ‘Viewers’ Choice’ awards will also be given to the most popular videos from the Schools and Open categories. A public voting exercise on NCCS’ Climate Change SG Facebook page will be held to determine the four most popular videos. Details of the competition are at [<a href="/docs/default-source/news-documents/annex_nccc.pdf" target="_blank">Annex</a>](/docs/default-source/news-documents/annex_nccc.pdf).
+Participants can stand to win up to $5,000 in cash prizes. Four ‘Viewers’ Choice’ awards will also be given to the most popular videos from the Schools and Open categories. A public voting exercise on NCCS’ Climate Change SG Facebook page will be held to determine the four most popular videos. Details of the competition are at [<a href="/files/docs/default-source/news-documents/annex_nccc.pdf" target="_blank">Annex</a>](/files/docs/default-source/news-documents/annex_nccc.pdf).
 
 The results of the competition will be announced in November 2015.
