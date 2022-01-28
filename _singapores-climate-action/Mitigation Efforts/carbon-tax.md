@@ -19,7 +19,7 @@ The Government will therefore review the trajectory and level of the carbon tax,
 The Government will announce the outcome of the review at Budget 2022, to provide time for businesses to adjust to any revision in the carbon tax trajectory.
 
 
-<a href="/docs/default-source/default-document-library/how-a-carbon-tax-works.pdf" target="_blank">![Carbon Pricing](/images/carbon-pricing.png "Carbon Pricing")</a>  
+<a href="/files/docs/default-source/default-document-library/how-a-carbon-tax-works.pdf" target="_blank">![Carbon Pricing](/images/carbon-pricing.png "Carbon Pricing")</a>  
 *Role of carbon tax in Singapore’s mitigation strategy (Click to download a larger image)*
 
 * [<a href="/faqs/carbon-tax/" target="_blank">Frequently asked questions on carbon tax</a>](/faqs/carbon-tax/)

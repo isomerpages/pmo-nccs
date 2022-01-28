@@ -12,8 +12,8 @@ Singapore's *Climate Action Plan: Take Action Today, for a Sustainable Future* c
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf" target="_blank">Take Action Today, for a Carbon-Efficient Singapore (PDF, 3MB)</a>](/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf)
+* [<a href="/files/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf" target="_blank">Take Action Today, for a Carbon-Efficient Singapore (PDF, 3MB)</a>](/files/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf)
 
-* [<a href="/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf" target="_blank">A Climate-Resilient Singapore, for a Sustainable Future (PDF, 2MB)</a>](/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf)
+* [<a href="/files/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf" target="_blank">A Climate-Resilient Singapore, for a Sustainable Future (PDF, 2MB)</a>](/files/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf)
 
-* [<a href="/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore-a-climate-resilient-singapore-for-a-sustainable-future-brochure.pdf" target="_blank">Brochure (PDF, 657KB)</a>](/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore-a-climate-resilient-singapore-for-a-sustainable-future-brochure.pdf)
+* [<a href="/files/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore-a-climate-resilient-singapore-for-a-sustainable-future-brochure.pdf" target="_blank">Brochure (PDF, 657KB)</a>](/files/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore-a-climate-resilient-singapore-for-a-sustainable-future-brochure.pdf)

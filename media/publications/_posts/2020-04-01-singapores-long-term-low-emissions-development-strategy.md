@@ -19,4 +19,4 @@ c.	Effective international collaboration, e.g. international climate action, reg
 
 <u>Download:</u>
 
-* [<a href="/docs/default-source/publications/nccsleds.pdf" target="_blank">Singapore's Long-Term Low-Emissions Development Strategy (PDF, 15MB)</a>](/docs/default-source/publications/nccsleds.pdf)
+* [<a href="/files/docs/default-source/publications/nccsleds.pdf" target="_blank">Singapore's Long-Term Low-Emissions Development Strategy (PDF, 15MB)</a>](/files/docs/default-source/publications/nccsleds.pdf)

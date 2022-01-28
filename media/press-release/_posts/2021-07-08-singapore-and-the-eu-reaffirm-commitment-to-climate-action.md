@@ -52,4 +52,4 @@ The European Union is a close and strong partner in our fight against climate ch
 
 ---------
 
-*Annex information viewable by clicking [<a href="/docs/default-source/news-documents/joint-media-release-evp-visit-final-080721.pdf" target="_blank">here</a>](/docs/default-source/news-documents/joint-media-release-evp-visit-final-080721.pdf).*
+*Annex information viewable by clicking [<a href="/files/docs/default-source/news-documents/joint-media-release-evp-visit-final-080721.pdf" target="_blank">here</a>](/files/docs/default-source/news-documents/joint-media-release-evp-visit-final-080721.pdf).*

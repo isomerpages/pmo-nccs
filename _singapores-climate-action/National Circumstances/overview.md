@@ -3,9 +3,8 @@ title: Overview
 permalink: /singapores-climate-action/overview/national-circumstances
 third_nav_title: National Circumstances
 ---
-
 ### NATIONAL CIRCUMSTANCES  
-Singapore has always maintained a balance between development and conserving the environment. Successive environmental blueprints, such as the [<a href="https://www.greenplan.gov.sg/" target="_blank">Singapore Green Plan 2030</a>](https://www.greenplan.gov.sg/) and the [<a href="http://www.sustainablesingapore.gov.sg/" target="_blank">Sustainable Singapore Blueprint (SSB) 2015</a>](http://www.sustainablesingapore.gov.sg/) have set forth our strategies and initiatives to achieve economic growth and a good living environment.
+Singapore has always maintained a balance between development and conserving the environment. Successive environmental blueprints, such as the [<a href="https://www.greenplan.gov.sg/" target="_blank">Singapore Green Plan 2030</a>](https://www.greenplan.gov.sg/) and the [<a href="https://www.nccs.gov.sg/docs/default-source/default-document-library/sustainable-singapore-blueprint-2015.pdf" target="_blank">Sustainable Singapore Blueprint (SSB) 2015</a>](http://www.sustainablesingapore.gov.sg/) have set forth our strategies and initiatives to achieve economic growth and a good living environment.
 
 ![National Circumstances](/images/national-circumstances.jpg "National Circumstances")
 *Singapore's development as a clean and green city is the result of decades of deliberate planning and effort.*
@@ -15,5 +14,3 @@ Singapore has taken early measures on sustainable development, such as managing 
 However, given the small size of our nation, and our dense urban landscape, there are challenges to using alternative energy options like solar and wind power on an island-wide scale. Such limitations in switching to alternatives are recognised by the United Nations Framework Convention on Climate Change (UNFCCC¹).  
 <br><br>
 *¹ Articles 4.8 and 4.10 of UNFCCC take into consideration the national circumstances of developing countries - especially small island countries, countries with low-lying coastal areas, land-locked and transit countries, and countries disadvantaged in the use of alternative energy sources, amongst others. Article 4.10 recognises the circumstances of such countries with "serious difficulties in switching to alternatives".*
-
-
