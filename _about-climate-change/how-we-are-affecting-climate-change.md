@@ -10,8 +10,6 @@ The greenhouse effect occurs naturally when heat from the Earth's surface is abs
 
 However, the burning of fossil fuels for energy, industrial production and the clearing of forests to raise livestock have increased the production of GHGs. These additional GHGs trap even more heat in the atmosphere, making the Earth warmer.
 
- [<a href="http://www.ipcc.ch/report/ar5/" target="_blank">Fifth Assessment Report (AR5)</a>](http://www.ipcc.ch/report/ar5/) that CO<sub>2</sub>e (or carbon dioxide equivalent) levels will need to stabilise at 450ppm in order to limit the global increase in temperature to 2°C.
-
 Based on the [Intergovernmental Panel on Climate Change’s (IPCC) Working Group I Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/) (released in August 2021)  , the global atmospheric CO<sub>2</sub> concentration stood at 410 parts per million (ppm) in 2019 and increased at approximately 2.4 ppm per year from 2011 to 2019.
 
 **The Enhanced Greenhouse Effect**
