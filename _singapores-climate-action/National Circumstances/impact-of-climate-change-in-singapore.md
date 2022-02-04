@@ -59,4 +59,4 @@ The second study, which updated the projections for Singapore based on the findi
 
 Phase 2 of the study makes use of the projections from Phase 1 to examine the climate change impacts on areas such as water resources and drainage, biodiversity and greenery, network infrastructure and building infrastructure.
 
-The CCRS has started work on the Third Climate Change Study for Singapore (V3) which will contextualise the findings from the Intergovernmental Panel on Climate Change’s (IPCC) Working Group I Sixth Assessment Report, study its impact on Singapore, and provide localised and high-resolution climate projections derived from the latest climate models used by the IPCC.
+The CCRS has started work on the Third Climate Change Study for Singapore (V3) which will contextualise the findings from the [Intergovernmental Panel on Climate Change’s (IPCC) Working Group I Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/), study its impact on Singapore, and provide localised and high-resolution climate projections derived from the latest climate models used by the IPCC.
