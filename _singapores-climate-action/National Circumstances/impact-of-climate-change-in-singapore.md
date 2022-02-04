@@ -62,4 +62,3 @@ The second study, which updated the projections for Singapore based on the findi
 *Source: Ministry of Sustainability and the Environment*
 
 Phase 2 of the study makes use of the projections from Phase 1 to examine the climate change impacts on areas such as water resources and drainage, biodiversity and greenery, network infrastructure and building infrastructure.
-
