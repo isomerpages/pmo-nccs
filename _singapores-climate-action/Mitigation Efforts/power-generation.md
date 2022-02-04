@@ -3,7 +3,6 @@ title: Power Generation
 permalink: /singapores-climate-action/power-generation/
 third_nav_title: Mitigation Efforts
 ---
-
 ### POWER GENERATION
 
 Power generation is one of the major sources of carbon emissions. With our limited capacity to tap on alternative energy resources, we rely heavily on imported fossil fuel to power our nation.
@@ -14,9 +13,9 @@ Since 2000, we have increased the percentage of natural gas used in electricity 
 
 Our fuel mix makes us much less carbon intensive than many other nations that still use coal as an important part of their power generation.
 
-![grid-emission-factor](/images/grid-emission-factor.png "grid-emission-factor")
+![Alt text for image on Isomer site](/images/GridEmissionFactor.jpg)
 
-![electricity-generation-fuel-mix](/images/electricity-generation-fuel-mix.png "electricity-generation-fuel-mix")
+![Alt text for image on Isomer site](/images/ElectricityGenerationFuelMix.png)
 
 **Decreasing Our Fuel Oil Usage**
 
@@ -40,4 +39,3 @@ Grid-connected installed solar PV capacity in Singapore has grown significantly 
 * Town councils and grassroots units 
 * Public sector 
 * Residential estates
-
