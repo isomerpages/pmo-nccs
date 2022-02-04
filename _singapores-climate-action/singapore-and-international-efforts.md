@@ -72,6 +72,15 @@ On 12 December 2015 at the COP-21 in Paris, 196 Parties adopted a new climate ag
 
 Following three years of negotiations, the Parties adopted the Katowice Climate Package, which comprise a set of guidelines and procedures relating to the implementation of the Paris Agreement in Katowice, Poland. The conclusion of the Katowice Climate Package marks a major milestone to operationalise the Paris Agreement and reinforces the role of the UNFCCC in the multilateral system for global climate action. 
 
+**2021**
+
+In November 2021, the 26th Conference of the Parties (COP-26) to the United Nations Framework Convention on Climate Change (UNFCCC) in Glasgow laid a firm foundation, and accelerated the momentum for global climate action. As part of a substantive and balanced package of decisions, known as the Glasgow Climate Pact, Parties agreed to revisit their 2030 climate pledges, or Nationally Determined Contributions (NDC), and communicate Long-term Low Emissions Development Strategies (LEDS) towards net zero emissions, to align with the Paris Agreement temperature goal. 
+
+At COP-26, Singapore, together with Norway, co-facilitated negotiations that brought the Article 6 rulebook across the finishing line, after six years of protracted talks. Article 6, which governs market and non-market cooperative mechanisms towards emission reduction, was the sole outstanding issue under the Paris Agreement Work Programme. 
+
+The agreement on Article 6 clears the path for the establishment of mechanisms that facilitate the transfer of emission reductions, or carbon credits, between countries to meet their NDC, while ensuring high standards of environmental integrity.
+
+
 **Singapore’s Pledge to Reduce Emissions**
 
 Prior to the UNFCCC Climate Change Conference in Copenhagen in 2009, Singapore pledged to reduce our greenhouse gas emissions by 16 per cent below business-as-usual (BAU) levels in 2020. In line with the agreement adopted in Paris in December 2015, Singapore has made a further commitment to reduce our Emissions Intensity by 36 per cent from 2005 levels by 2030, and stabilise our greenhouse gas emissions with the aim of peaking around 2030. 
