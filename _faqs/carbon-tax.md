@@ -32,14 +32,13 @@ The Government also provides support to help households reduce their emissions. 
 
 To help households adjust to the impact of the carbon tax on their electricity and gas expenses, eligible HDB households are given an additional $20 GST Voucher – U-Save on top of the regular U-Save rebate each year from 2019 to 2021. Eligible households living in smaller HDB flats benefit more as they receive a larger quantum of U-Save rebates, and typically have smaller annual utilities bills. 
 
-**6. How would the Government ensure that consumers are not over-charged by electricity retailers passing on more than 100 per cent of the carbon tax to consumers?**
+**5. How would the Government ensure that consumers are not over-charged by electricity retailers passing on more than 100 per cent of the carbon tax to consumers?**
 
 Today's electricity retail market is competitive and discourages retailers from raising their electricity rates excessively. Nevertheless, EMA will continue to ensure fair and efficient conduct of market players. Government agencies will also work closely with the Consumer Association of Singapore (CASE) and Competition & Consumer Commission of Singapore to monitor the market for unfair pricing and coordinated price hikes which are anti-competitive.
 
--Justification on the amount of carbon tax to be imposed and how it is calculated; and
+**6. Will companies be able to use international carbon credits to offset their carbon tax liabilities?**
 
--Communications and customer engagement plan.
+As part of the ongoing carbon tax review, the Government is studying the possibility of allowing the use of high-quality international carbon credits (aligned with the Paris Agreement’s Article 6 rules) to partially offset carbon tax liabilities. However, this option of using international credits will need to be balanced against the need to prioritise domestic abatement.
+ 
+To comply with the Article 6 rulebook decided at 26th Conference of the Parties (COP-26) to the United Nations Framework Convention on Climate Change (UNFCCC), international carbon offsets that are surrendered in lieu of carbon tax obligations must be authorised and possess corresponding adjustment to be eligible for use towards our climate targets under the Paris Agreement. This is to ensure that international carbon credits result in real emissions reduction and are not double counted. Currently, voluntary carbon credits in the market do not have corresponding adjustment and it will take time to develop credits with corresponding adjustments. 
 
-___
-
-*<sup>[1]</sup> Small consumers refer to (a) businesses with an average monthly consumption of less than 2,000 kWh and (b) all households.*
