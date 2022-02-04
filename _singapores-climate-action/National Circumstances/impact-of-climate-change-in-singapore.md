@@ -47,7 +47,11 @@ The effects of climate change, such as intense storms, flooding and prolonged dr
 
 **National Climate Change Study**
 
-Singapore has undertaken three National Climate Change Studies to better understand the potential impact of climate change on the country. The first study was completed in 2013.
+Singapore has undertaken three National Climate Change Studies to better understand the potential impact of climate change on the country. 
+
+The CCRS has started work on the third Climate Change Study for Singapore (V3) which will contextualise the findings from the [Intergovernmental Panel on Climate Change’s (IPCC) Working Group I Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/), study its impact on Singapore, and provide localised and high-resolution climate projections derived from the latest climate models used by the IPCC.
+
+The first study was completed in 2013.
 
 The second study, which updated the projections for Singapore based on the findings of the IPCC AR5, was a joint effort between the Meteorological Service Singapore’s (MSS) Centre for Climate Research Singapore (CCRS) and the UK Met Office, Hadley Centre. Phase 1 of the study was completed in 2015 and its findings were consistent with those from the IPCC AR5 which predicted global sea level rise, as well as higher temperatures and more extreme rainfall. The long-term effects of climate change would lead to a temperature increase of 1.4°C to 4.6°C and a rise in sea level by up to about 1m by the end of the century.
 
@@ -59,4 +63,3 @@ The second study, which updated the projections for Singapore based on the findi
 
 Phase 2 of the study makes use of the projections from Phase 1 to examine the climate change impacts on areas such as water resources and drainage, biodiversity and greenery, network infrastructure and building infrastructure.
 
-The CCRS has started work on the third Climate Change Study for Singapore (V3) which will contextualise the findings from the [Intergovernmental Panel on Climate Change’s (IPCC) Working Group I Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/), study its impact on Singapore, and provide localised and high-resolution climate projections derived from the latest climate models used by the IPCC.
