@@ -3,7 +3,6 @@ title: Buildings
 permalink: /singapores-climate-action/buildings/
 third_nav_title: Mitigation Efforts
 ---
-
 ### BUILDINGS
 
 The design of a building has direct impact on energy efficiency. Existing buildings can be retrofitted to incorporate green designs to increase their energy efficiency. This lowers electricity costs and benefits tenants.
@@ -16,7 +15,7 @@ The Super Low Energy Smart Hub is set up as a resource centre with a centralised
 
 **Reducing Emissions through Green Mark Standards**
 
-BCA's [<a href="http://www.bca.gov.sg/GreenMark/green_mark_buildings.html" target="_blank">Green Mark Scheme</a>](http://www.bca.gov.sg/GreenMark/green_mark_buildings.html) was launched to encourage developers and owners to build and maintain greener buildings. Green Mark standards require developers and owners to achieve a 28 per cent energy efficiency improvement from 2005 building codes. These standards, which apply to both new and existing buildings undergoing major retrofitting works (with a gross floor area of 2,000 m<sup>2</sup> or more), help buildings achieve energy savings of between 20 per cent to 40 per cent over their lifetimes.
+BCA's [Green Mark Scheme ](https://www1.bca.gov.sg/buildsg/sustainability/green-mark-certification-scheme) was launched to encourage developers and owners to build and maintain greener buildings. Green Mark standards require developers and owners to achieve a 28 per cent energy efficiency improvement from 2005 building codes. These standards, which apply to both new and existing buildings undergoing major retrofitting works (with a gross floor area of 2,000 m<sup>2</sup> or more), help buildings achieve energy savings of between 20 per cent to 40 per cent over their lifetimes.
 
 From the second half of 2013, the Building Control Act requires all existing buildings with a gross floor area of 15,000 m<sup>2</sup> or more to achieve the minimum Green Mark standard when they install or replace a chiller system. Audits of cooling systems will also be conducted every three years in new and existing buildings that have undergone retrofitting. In addition, companies have to submit energy consumption and energy-related building data.
 
