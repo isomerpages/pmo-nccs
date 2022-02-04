@@ -3,7 +3,6 @@ title: Energy Efficiency
 permalink: /singapores-climate-action/energy-efficiency/
 third_nav_title: Mitigation Efforts
 ---
-
 ### ENERGY EFFICIENCY
 
 Singapore has identified the following thrusts in our energy efficiency strategy:
@@ -28,4 +27,4 @@ Mandatory Energy Labelling Scheme (MELS) and Minimum Energy Performance Standard
 
 MELS, introduced in 2008, requires suppliers of major energy-consuming household appliances to affix their products with energy labels. This will help customers compare energy efficiency and make more informed purchasing decisions. 
 
-MEPS sets standards for minimum energy performance or maximum energy consumptions thus removing appliances which are energy inefficient from the market and raising the average energy efficiency of household appliance. 
+MEPS sets standards for minimum energy performance or maximum energy consumptions thus removing appliances which are energy inefficient from the market and raising the average energy efficiency of household appliance.

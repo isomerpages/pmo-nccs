@@ -2,40 +2,36 @@
 title: Carbon Tax
 permalink: /faqs/carbon-tax/
 ---
-
 ### CARBON TAX
 
 **1. What is the role of the carbon tax in Singapore’s mitigation strategy?**
 
-Singapore's Climate Action Plan sets out four strategies to achieve its pledge: (i) improving energy efficiency, (ii) reducing carbon emissions from power generation, (iii) developing and deploying cutting-edge low-carbon technologies, and (iv) encouraging collective action among government agencies, individuals, businesses, and the community.
-
-A carbon tax will enhance Singapore's existing and planned mitigation efforts under its [<a href="/files/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf" target="_blank">Climate Action Plan</a>](/files/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf), and stimulate clean technology and market innovation. A tax on greenhouse gas (GHG) emissions will incentivise emitters to factor in the costs of their GHG emissions in their business decisions. This would encourage companies to improve their energy efficiency and innovate to reduce their GHG emissions.
+The carbon tax forms part of our comprehensive suite of mitigation measures by providing a broad-based price signal across the economy, to achieve our climate targets. The carbon tax provides a broad-based price signal to encourage companies to reduce their emissions, yet gives them the flexibility to take action where it makes the most economic sense. This will accelerate the economic transformation necessary to transition to a future-ready green economy by enhancing the business case to implement energy efficiency improvements and other emission reduction solutions. This ensures the long-term viability of business investments and activities in a carbon-constrained world. 
 
 **2. Who is covered under the carbon tax?**
 
-The tax is applied on the total direct emissions of facilities that emit 25,000 tCO<sub>2</sub>e or more of emissions annually. This is equivalent to emissions produced by the annual electricity consumption of 12,500 HDB 4-room households. About 40 to 50 companies are expected to be liable for carbon tax. It covers the six greenhouse gases (GHGs) that Singapore is currently reporting to the United Nations Framework Convention on Climate Change (UNFCCC), namely carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF<sub>6</sub>).
+To maintain a transparent, fair, and consistent price signal across the economy, the carbon tax is applied uniformly to all sectors including energy-intensive and trade-exposed sectors, without exemption.
 
-**3. Why has the government decided on a carbon tax regime with no exemptions?**
+The tax is applied on facilities that directly emit at least 25,000 tCO<sub>2</sub>e of greenhouse gas (GHG) emissions annually, and includes the six GHGs that Singapore is currently reporting to the United Nations Framework Convention on Climate Change (UNFCCC) – namely carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF<sub>6</sub>). 
 
-Having a clean and simple carbon tax will help to preserve a fair, uniform and transparent price signal on all units of emissions, to incentivise emissions reduction where it presents the lowest cost.
+It covers 80% of our total GHG emissions from about 50 facilities mainly from the manufacturing, power, waste, and water sectors. Facilities in other sectors would also indirectly face a carbon price on the electricity they consume as power generation companies will pass on some degree of their own tax cost through increased electricity tariffs. When we account for the carbon price component within fuel excise duties for transport emissions, the overall coverage rises to about 90%.
 
-A system with benchmark-based exemptions, in which exemptions are provided to many sectors resulting in different facilities paying different prices, would erode the price signal of the carbon tax, and make it less transparent.
-
-Also, setting such benchmarks can be a complicated process, and implementing them could increase administrative and compliance costs.
-
-**4. Which other countries or jurisdictions have implemented carbon pricing?**
+**3. Which other countries or jurisdictions have implemented carbon pricing?**
 
 Singapore is not alone in pricing carbon. About 78 jurisdictions (46 national and 32 sub-national jurisdictions) have implemented, or have plans to implement, carbon pricing. These jurisdictions account for roughly half of global greenhouse gas emissions. A few of these jurisdictions such as Finland, Norway and Sweden have implemented carbon pricing as early as the 1990s.
 
-**5. What is the expected impact of the carbon tax on households?**
+**4. What does our carbon tax measures under the Singapore Green Plan mean for individuals?**
+Our strategies for climate action, including the carbon tax, take into account the needs of all stakeholders, including the low-income and the vulnerable.
 
-Our strategies for climate action take into account the needs of all stakeholders, including the low-income and the vulnerable.
+Under the whole-of-nation Singapore Green Plan 2030, we have designed our range of adaption and mitigation measures to be inclusive and equitable. Not only do Tthese measures support the building of a city in nature, an energy reset and a transition to a green economy, the measures also aim to build a resilient future for all, and to minimise the adverse effects that climate change could have on the economy, society and on our daily lives. 
 
-Our range of adaptation and mitigation measures is designed to be inclusive. The measures aim to minimise the adverse effects that climate change could have on the economy, society and on our daily lives.
+For example, the Government has been improving the liveability of our public housing estates through novel ways of weaving greenery into our estates and towns, which reduces temperatures while improving air quality. HDB flats are also designed to maximise cross-ventilation, thereby reducing reliance on air-conditioning which is a large contributor to household utility bills. Other Another initiatives include is maximising cross-ventilation through the design of HDB flats and promoting sustainable living with the introduction of energy-efficient centralised cooling systems in new HDB towns to support cooling. Coupled with the 10-year HDB Green Towns Programme’s initiatives, energy consumption is further reduced as towns become cooler. These sustainability initiatives ensure that the impact of climate change on all residents, including low-income groups,  are minimised.
 
-For example, the Government has been improving the liveability of our public housing estates through novel ways of weaving greenery into our estates and towns, which reduces temperatures while improving air quality. HDB flats are also designed to maximise cross-ventilation, thereby reducing reliance on air-conditioning which is a large contributor to household utility bills. The recently announced HDB Green Towns Programme will further enable reduction in energy consumption and cool our HDB towns. These sustainability measures ensure that the impact of climate change on all residents, including low-income groups, are minimised.
+The Government also provides support to help households reduce their emissions. Since December 2020, the Government has introduced incentives such as e-Vouchers ranging from $25 to $150 in value under the Climate Friendly Households Programme to support lower-income households in purchasing more energy efficient and climate-friendly appliances. These e-Vouchers can be used to purchase appliances such as 3-ticks water efficient shower fittings (inclusive of installation costs if required) and energy efficient and climate-friendly refrigerators. With the adoption of these appliances, households are able to do their part for the environment by reducing their energy and water consumption while saving costs in the long run. 
 
-The Government also ensures that cost of mitigation measures is minimised for households. As recently announced, the Government will introduce incentives to support lower-income households in purchasing more energy efficient appliances. To help households adjust to the impact of the carbon tax on their electricity and gas expenses, eligible HDB households are given an additional $20 GST Voucher – U-Save on top of the regular U-Save rebate each year from 2019 to 2021. Eligible households living in smaller HDB flats benefit more as they receive a larger quantum of U-Save rebates, and typically have smaller annual utilities bills.
+To help households adjust to the impact of the carbon tax on their electricity and gas expenses, eligible HDB households are given an additional $20 GST Voucher – U-Save on top of the regular U-Save rebate each year from 2019 to 2021. Eligible households living in smaller HDB flats benefit more as they receive a larger quantum of U-Save rebates, and typically have smaller annual utilities bills. 
+
+
 
 **6. How would the Government ensure that consumers are not over-charged by electricity retailers passing on more than 100 per cent of the carbon tax to consumers?**
 

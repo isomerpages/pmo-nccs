@@ -3,8 +3,7 @@ title: Impact Of Climate Change In Singapore
 permalink: /singapores-climate-action/impact-of-climate-change-in-singapore/
 third_nav_title: National Circumstances
 ---
-
-### IMPACT OF CLIMATE CHANGE ON SINGAPORE
+### IMPACT OF CLIMATE CHANGE IN SINGAPORE
 
 Singapore is not insulated from the impact of climate change. From 1980 to 2020, the annual mean temperature has increased from 26.9°C to 28.0°C. The mean sea level in the Straits of Singapore has also increased at the rate of 1.2mm to 1.7mm per year in the period 1975 to 2009.
 
@@ -58,10 +57,6 @@ The second study, which updated the projections for Singapore based on the findi
 
 *Source: Ministry of Sustainability and the Environment*
 
-Phase 2 of the study makes use of the projections from Phase 1 to examine the climate change impacts on areas such as water resources and drainage, biodiversity and greenery, network infrastructure and building infrastructure. 
+Phase 2 of the study makes use of the projections from Phase 1 to examine the climate change impacts on areas such as water resources and drainage, biodiversity and greenery, network infrastructure and building infrastructure.
 
-
-
-
-
-
+The CCRS has started work on the Third Climate Change Study for Singapore (V3) which will contextualise the findings from the [Intergovernmental Panel on Climate Change’s (IPCC) Working Group I Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/), study its impact on Singapore, and provide localised and high-resolution climate projections derived from the latest climate models used by the IPCC.

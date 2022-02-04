@@ -2,7 +2,6 @@
 title: Singapore And International Efforts
 permalink: /singapores-climate-action/singapore-and-international-efforts/
 ---
-
 ### SINGAPORE AND INTERNATIONAL EFFORTS
 
 The causes and impact of climate change can only be addressed effectively by a concerted international effort. Every country needs to play its part to reduce global concentrations of greenhouse gases (GHGs) and adapt to the impact of climate change.
@@ -73,6 +72,15 @@ On 12 December 2015 at the COP-21 in Paris, 196 Parties adopted a new climate ag
 
 Following three years of negotiations, the Parties adopted the Katowice Climate Package, which comprise a set of guidelines and procedures relating to the implementation of the Paris Agreement in Katowice, Poland. The conclusion of the Katowice Climate Package marks a major milestone to operationalise the Paris Agreement and reinforces the role of the UNFCCC in the multilateral system for global climate action. 
 
+**2021**
+
+In November 2021, the 26th Conference of the Parties (COP-26) to the United Nations Framework Convention on Climate Change (UNFCCC) in Glasgow laid a firm foundation, and accelerated the momentum for global climate action. As part of a substantive and balanced package of decisions, known as the Glasgow Climate Pact, Parties agreed to revisit their 2030 climate pledges, or Nationally Determined Contributions (NDC), and communicate Long-term Low Emissions Development Strategies (LEDS) towards net zero emissions, to align with the Paris Agreement temperature goal. 
+
+At COP-26, Singapore, together with Norway, co-facilitated negotiations that brought the Article 6 rulebook across the finishing line, after six years of protracted talks. Article 6, which governs market and non-market cooperative mechanisms towards emission reduction, was the sole outstanding issue under the Paris Agreement Work Programme. 
+
+The agreement on Article 6 clears the path for the establishment of mechanisms that facilitate the transfer of emission reductions, or carbon credits, between countries to meet their NDC, while ensuring high standards of environmental integrity.
+
+
 **Singapore’s Pledge to Reduce Emissions**
 
 Prior to the UNFCCC Climate Change Conference in Copenhagen in 2009, Singapore pledged to reduce our greenhouse gas emissions by 16 per cent below business-as-usual (BAU) levels in 2020. In line with the agreement adopted in Paris in December 2015, Singapore has made a further commitment to reduce our Emissions Intensity by 36 per cent from 2005 levels by 2030, and stabilise our greenhouse gas emissions with the aim of peaking around 2030. 
@@ -91,14 +99,15 @@ We are actively engaged in environmental cooperation through bilateral and regio
 
 Singapore is a partner in key regional initiatives, such as the Sino-Singapore Tianjin Eco-city project with China, and our collaboration with Jambi Province in Indonesia to improve peat land management and promote sustainable land use practices.
 
+During COP-26 in Glasgow in November 2021, Singapore joined the following initiatives that strengthen our collective global climate action: the Powering Past Coal Alliance and the Global Coal to Clean Power Transition Statement; the Global Methane Pledge; the Greening Government Initiative (GGI); the Agriculture Innovation Mission for Climate (AIM4C); and the Glasgow Leaders’ Declaration on Forests and Land Use.
+
 We also provide technical assistance and human resource capacity building to climate-related areas through the Singapore Cooperation Programme (SCP). For instance, under the ambit of the SCP, we have established a Small Island Developing States Technical Cooperation Programme that caters to the specific needs of small island developing states, including climate-related issues and challenges. The SCP training courses cover a wide range of topics including sustainable urban development, water management and energy efficiency and emissions reduction.
 
 Singapore actively collaborates with countries around the world, to build on one another's strengths and experiences in climate change, and to provide training to developing countries on climate change and environment-related issues. These countries include Australia, France, Germany, Japan, Norway, New Zealand, the Republic of Korea, Thailand, and the United Kingdom.
 
-To further strengthen our efforts in global collaboration, Singapore has also concluded Memoranda of Understanding (MoUs) with our international partners like Australia and Chile, on low-emissions solutions.
+To further strengthen our effort in global collaboration, we have commenced negotiations on a bilateral Green Economy Agreement (GEA) with Australia, which will be a world-first agreement that combines trade, economic and environment objectives. Singapore has also concluded Memoranda of Understanding (MoUs) with other international partners like Chile, on low-emissions solutions.
 
-These initiatives reflect our commitment to sharing our knowledge, experience and expertise  to help developing countries implement sustainable environmental and climate policies and practices.
-As of September 2020, we have trained more than 131,000 officials from over 170 countries in climate change-related programmes, and will continue to deepen this effort.
+These initiatives reflect our commitment to sharing our knowledge, experience, and expertise to help developing countries implement sustainable environmental and climate policies and practices. Under the Singapore Cooperation Programme, our flagship technical assistance programme, and its Climate Action Package, we have trained more than 137,000 officials from over 180 countries and territories in topics such as climate adaptation and mitigation, disaster risk management, and green finance.
 
 **C40**
 
@@ -107,5 +116,3 @@ Singapore joined the C40 Cities Climate Leadership Group (C40) as an observer ci
 Our participation with the C40 has allowed us to learn from the best practices of other C40 cities in areas such as building energy efficiency, transportation, climate change resilience and adaptation. Singapore has also contributed to C40 by sharing our experiences in urban development and transport infrastructure.
 
 Singapore’s efforts in promoting urban sustainability and addressing climate change were also recognised by C40 in 2013 when it was presented with the C40 & Siemens City Climate Leadership Award.
-
-
