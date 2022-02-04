@@ -33,7 +33,7 @@ To accelerate solar deployment in Singapore, the SolarNova programme has been la
 
 Singapore aims to deploy at least 2 GWp of solar by 2030, equivalent to the annual electricity needs of around 350,000 households in Singapore. 
 
-Grid-connected installed solar PV capacity in Singapore has grown significantly to 384.1 MWp as at end Q1 2020. This is contributed via the 4,116 installations across Singapore at: 
+Grid-connected installed solar PV capacity in Singapore has grown significantly to 527 MWp as at end Q2 2021. This is contributed via the 4,750 installations across Singapore at: 
 
 * Non-residential private sector 
 * Town councils and grassroots units 
