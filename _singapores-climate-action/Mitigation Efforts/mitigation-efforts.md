@@ -11,7 +11,6 @@ Despite these challenges, we have taken the next best step by switching from car
 
 **Sectoral Measures to Reduce Emissions**
 
-![Alt text for image on Isomer site](/images/2020ChartingSingaporesLowCarbonFuture.png)<a href="/images/sectoral-measures-to-reduce-emissions.gif" target="_blank"> ![Reducing Emissions](/images/sectoral-measures-to-reduce-emissions.gif "Reducing Emissions")</a>  
-*(click to download larger image)*
+![Alt text for image on Isomer site](/images/lowcarbonfuture.png)
 
 Source: Climate Change & Singapore: Challenges. Opportunities. Partnerships.
