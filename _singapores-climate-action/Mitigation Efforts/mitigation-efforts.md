@@ -1,9 +1,8 @@
 ---
-title: Mitigation Efforts 
+title: Mitigation Efforts
 permalink: /singapores-climate-action/mitigation-efforts/
 third_nav_title: Mitigation Efforts
 ---
-
 ### MITIGATION EFFORTS
 
 As the vast majority of carbon emissions originate from the combustion of fossil fuels for energy, the most direct way to reduce emissions is to cut down on the use of fossil fuels. While we are actively supporting research on clean energy technologies, Singapore has limited access to alternative or renewable energy.
@@ -12,7 +11,7 @@ Despite these challenges, we have taken the next best step by switching from car
 
 **Sectoral Measures to Reduce Emissions**
 
-<a href="/images/sectoral-measures-to-reduce-emissions.gif" target="_blank"> ![Reducing Emissions](/images/sectoral-measures-to-reduce-emissions.gif "Reducing Emissions")</a>  
+![Alt text for image on Isomer site](/images/2020ChartingSingaporesLowCarbonFuture.png)<a href="/images/sectoral-measures-to-reduce-emissions.gif" target="_blank"> ![Reducing Emissions](/images/sectoral-measures-to-reduce-emissions.gif "Reducing Emissions")</a>  
 *(click to download larger image)*
 
 Source: Climate Change & Singapore: Challenges. Opportunities. Partnerships.
