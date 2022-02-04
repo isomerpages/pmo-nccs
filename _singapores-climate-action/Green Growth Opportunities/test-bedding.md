@@ -3,18 +3,17 @@ title: Test Bedding
 permalink: /singapores-climate-action/test-bedding/
 third_nav_title: Green Growth Opportunities
 ---
-
 ### TEST BEDDING
 
 Singapore has developed a suite of supporting services and opportunities for firms and researchers to develop, test and validate clean-energy technologies in real-world settings. Test bedding facilitates the commercialisation process for new technologies and positions Singapore as a "living laboratory" to evaluate, pilot and commercialise innovative solutions for Asian and global markets.
 
 **Examples of Test Beds in Singapore**
 
-* **[<a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/cleantech-park.aspx" target="_blank">CleanTech Park</a>](http://www.jtc.gov.sg/industrial-land-and-space/Pages/cleantech-park.aspx)** is being developed by JTC Corporation as the first eco-business park in the region. It will cluster clean technology companies together and serve as a platform for test bedding and prototyping of clean technologies and sustainable urban solutions. The 50ha Park at Nanyang Avenue will be developed in three phases over the next 20 years. Upon completion, it will house a working population of 20,000 green collar workers.
+* **[CleanTech Park](https://www.enterprisesg.gov.sg/industries/hub/infrastructure-hub/build-on-singapores-infrastructure-ecosystem/notable-projects/jtc-cleantech-park )** is being developed by JTC Corporation as the first eco-business park in the region. It will cluster clean technology companies together and serve as a platform for test bedding and prototyping of clean technologies and sustainable urban solutions. The 50ha Park at Nanyang Avenue will be developed in three phases over the next 20 years. Upon completion, it will house a working population of 20,000 green collar workers.
 
 * **Floating Solar** PV Pilot is a joint project between the Singapore Economic Development Board (EDB) and national water agency PUB. The pilot project, a first of its kind in the region, aims to assess the feasibility and cost effectiveness of installing floating solar photovoltaic (PV) systems on freshwater reservoirs.
 
-* **[<a href="http://erian.ntu.edu.sg/REIDS/Pages/AboutREIDS.aspx" target="_blank">The Renewable Energy Integration Demonstrator in Singapore</a>](http://erian.ntu.edu.sg/REIDS/Pages/AboutREIDS.aspx)** (REIDS) is a large-scale offshore test and demonstration microgrid located in Semakau Landfill which integrates renewable energy production from solar, wind, tidal, biofuel and fuel cells with smart grid technologies.
+* **[The Renewable Energy Integration Demonstrator in Singapore ](https://www.ntu.edu.sg/erian/research-capabilities/renewable-energy-integration-demonstrator---singapore#:~:text=The%20Renewable%20Energy%20Integration%20Demonstrator,as%20the%20future%20of%20urban  )** (REIDS) is a large-scale offshore test and demonstration microgrid located in Semakau Landfill which integrates renewable energy production from solar, wind, tidal, biofuel and fuel cells with smart grid technologies.
 
 * **[<a href="http://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/punggol-eco-town" target="_blank">Punggol Eco-Town</a>](http://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/punggol-eco-town)** demonstrates sustainable urban planning and design, green technology adoption and active community partnership. Social, economic and environmental considerations have been formulated by HDB to steer its development. LED lighting and elevator energy regenerative systems, renewable solar energy, water conservation and rainwater harvesting systems, and recycling solutions are some of the technologies and solutions being test-bedded. HDB is also working with government agencies such as the EMA to pilot the IES smart grid project, and with industry partners such as Panasonic to test-bed Home Energy Management Systems, to monitor energy consumption to reduce overall energy consumption within the town.
 
