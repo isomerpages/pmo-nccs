@@ -2,32 +2,25 @@
 title: Carbon Tax
 permalink: /faqs/carbon-tax/
 ---
-
 ### CARBON TAX
 
 **1. What is the role of the carbon tax in Singapore’s mitigation strategy?**
 
-Singapore's Climate Action Plan sets out four strategies to achieve its pledge: (i) improving energy efficiency, (ii) reducing carbon emissions from power generation, (iii) developing and deploying cutting-edge low-carbon technologies, and (iv) encouraging collective action among government agencies, individuals, businesses, and the community.
-
-A carbon tax will enhance Singapore's existing and planned mitigation efforts under its [<a href="/files/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf" target="_blank">Climate Action Plan</a>](/files/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore.pdf), and stimulate clean technology and market innovation. A tax on greenhouse gas (GHG) emissions will incentivise emitters to factor in the costs of their GHG emissions in their business decisions. This would encourage companies to improve their energy efficiency and innovate to reduce their GHG emissions.
+The carbon tax forms part of our comprehensive suite of mitigation measures by providing a broad-based price signal across the economy, to achieve our climate targets. The carbon tax provides a broad-based price signal to encourage companies to reduce their emissions, yet gives them the flexibility to take action where it makes the most economic sense. This will accelerate the economic transformation necessary to transition to a future-ready green economy by enhancing the business case to implement energy efficiency improvements and other emission reduction solutions. This ensures the long-term viability of business investments and activities in a carbon-constrained world. 
 
 **2. Who is covered under the carbon tax?**
 
-The tax is applied on the total direct emissions of facilities that emit 25,000 tCO<sub>2</sub>e or more of emissions annually. This is equivalent to emissions produced by the annual electricity consumption of 12,500 HDB 4-room households. About 40 to 50 companies are expected to be liable for carbon tax. It covers the six greenhouse gases (GHGs) that Singapore is currently reporting to the United Nations Framework Convention on Climate Change (UNFCCC), namely carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF<sub>6</sub>).
+To maintain a transparent, fair, and consistent price signal across the economy, the carbon tax is applied uniformly to all sectors including energy-intensive and trade-exposed sectors, without exemption.
 
-**3. Why has the government decided on a carbon tax regime with no exemptions?**
+The tax is applied on facilities that directly emit at least 25,000 tCO<sub>2</sub>e of greenhouse gas (GHG) emissions annually, and includes the six GHGs that Singapore is currently reporting to the United Nations Framework Convention on Climate Change (UNFCCC) – namely carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF<sub>6</sub>). 
 
-Having a clean and simple carbon tax will help to preserve a fair, uniform and transparent price signal on all units of emissions, to incentivise emissions reduction where it presents the lowest cost.
+It covers 80% of our total GHG emissions from about 50 facilities mainly from the manufacturing, power, waste, and water sectors. Facilities in other sectors would also indirectly face a carbon price on the electricity they consume as power generation companies will pass on some degree of their own tax cost through increased electricity tariffs. When we account for the carbon price component within fuel excise duties for transport emissions, the overall coverage rises to about 90%.
 
-A system with benchmark-based exemptions, in which exemptions are provided to many sectors resulting in different facilities paying different prices, would erode the price signal of the carbon tax, and make it less transparent.
-
-Also, setting such benchmarks can be a complicated process, and implementing them could increase administrative and compliance costs.
-
-**4. Which other countries or jurisdictions have implemented carbon pricing?**
+**3. Which other countries or jurisdictions have implemented carbon pricing?**
 
 Singapore is not alone in pricing carbon. About 78 jurisdictions (46 national and 32 sub-national jurisdictions) have implemented, or have plans to implement, carbon pricing. These jurisdictions account for roughly half of global greenhouse gas emissions. A few of these jurisdictions such as Finland, Norway and Sweden have implemented carbon pricing as early as the 1990s.
 
-**5. What is the expected impact of the carbon tax on households?**
+**4. What is the expected impact of the carbon tax on households?**
 
 Our strategies for climate action take into account the needs of all stakeholders, including the low-income and the vulnerable.
 
