@@ -13,4 +13,5 @@ Despite these challenges, we have taken the next best step by switching from car
 
 ![Alt text for image on Isomer site](/images/lowcarbonfuture.png)
 
-Source: Climate Change & Singapore: Challenges. Opportunities. Partnerships.
+Source: 
+*“Charting Singapore’s Low-Carbon and Climate Resilient Future” pages 8-9*
