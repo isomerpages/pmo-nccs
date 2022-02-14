@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Interventions by Dr Vivian Balakrishnan, Minister for the Environment and Water Resources, at the East Asia Low Carbon Growth Partnership Dialogue on 15 April 2012
+title: Interventions by Dr Vivian Balakrishnan, Minister for the Environment and
+  Water Resources, at the East Asia Low Carbon Growth Partnership Dialogue on 15
+  April 2012
 subtitle: 15 Apr 2012
 permalink: /media/speeches/interventions-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-east-asia-low-carbon-growth-partnership-dialogue-on-15-april-2012
 ---
-
 ### INTERVENTIONS BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE EAST ASIA LOW CARBON GROWTH PARTNERSHIP DIALOGUE ON 15 APRIL 2012
 
 **Preamble**  
@@ -55,4 +56,4 @@ Thank you.
 <br><br><br>
 
 
-Source: [<a href="https://www.mewr.gov.sg/news" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20120415001.pdf)
