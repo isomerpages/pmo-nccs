@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Opening Speech by Masagos Zulkifli, Minister for the Environment and Water Resources, at the Second Reading of the Carbon Pricing Bill, 20 March 2018
+title: Opening Speech by Masagos Zulkifli, Minister for the Environment and
+  Water Resources, at the Second Reading of the Carbon Pricing Bill, 20 March
+  2018
 subtitle: 20 Mar 2018
 permalink: /media/speeches/opening-speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-second-reading-of-the-carbon-pricing-bill-20-march-2018
 ---
-
 ### OPENING SPEECH BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE SECOND READING OF THE CARBON PRICING BILL, 20 MARCH 2018
 
 Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
@@ -106,4 +107,4 @@ It is a significant step to bring us closer to a liveable and sustainable Singap
 Sir, I beg to move.
 
 
-Source: [<a href="https://www.mewr.gov.sg/news/opening-speech-by-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-second-reading-of-the-carbon-pricing-bill--20-march-2018" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/opening-speech-by-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-second-reading-of-the-carbon-pricing-bill--20-march-2018)
+*Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180320002.pdf)* 
