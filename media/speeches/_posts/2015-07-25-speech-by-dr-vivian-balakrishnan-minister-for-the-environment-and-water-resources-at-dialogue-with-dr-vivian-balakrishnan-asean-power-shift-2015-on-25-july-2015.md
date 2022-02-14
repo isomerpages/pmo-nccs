@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Dr Vivian Balakrishnan, Minister for the Environment and Water Resources at "Dialogue with Dr Vivian Balakrishnan", ASEAN Power Shift 2015 on 25 July 2015
+title: Speech by Dr Vivian Balakrishnan, Minister for the Environment and Water
+  Resources at "Dialogue with Dr Vivian Balakrishnan", ASEAN Power Shift 2015 on
+  25 July 2015
 subtitle: 25 Jul 2015
 permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-dialogue-with-dr-vivian-balakrishnan-asean-power-shift-2015-on-25-july-2015
 ---
-
 ### SPEECH BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AT "DIALOGUE WITH DR VIVIAN BALAKRISHNAN", ASEAN POWER SHIFT 2015 ON 25 JULY 2015
 
 Good morning. I am heartened to see so many passionate young people here today. 
@@ -46,6 +47,6 @@ The real impetus that can break this deadlock is when politicians everywhere fee
 So what your generation needs to do is to invent the technology and make people aware of the choices that they have and help them make the right choices. Eventually, when this feeds into the adoption of the right technologies, most of which is already available; and we have politicians and negotiators making the right choices because their own people want them to - then and only then, will we have a major breakthrough in solving this complicated problem that requires collective global action. 
 
 So I wish you all the best in your deliberations, and I hope you understand that this is not just a talk-shop, this is actually important for your future, and for the collective good of the world. Thank you all very much.
-<br><br><br><br>
+<br><br>
 
-Source: [<a href="https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources-at-dialogue-with-dr-vivian-balakrishnan--asean-power-shift-2015-on-25-july-2015--905am--united-world-college-of-south-east-asia" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources-at-dialogue-with-dr-vivian-balakrishnan--asean-power-shift-2015-on-25-july-2015--905am--united-world-college-of-south-east-asia)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20150725001.pdf)
