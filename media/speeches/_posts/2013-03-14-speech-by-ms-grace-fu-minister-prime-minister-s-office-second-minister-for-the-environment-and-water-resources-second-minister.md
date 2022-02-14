@@ -61,7 +61,6 @@ Beyond making it more convenient for households to recycle by enhancing the recy
 As I conclude, let me encourage you to take advantage of the many opportunities that are available at this event through conferences, forums and networking sessions, to share and deepen your understanding of sustainability. Whether you are a consumer or a business, you have a key role to play in achieving our common environmental goals. Let me also take this opportunity to thank the organisers: the Asian Productivity Organisation, the Waste Management & Recycling Association of Singapore and SPRING Singapore, on their joint efforts in organising and bringing the Eco-Products International Fair to Singapore again.
 
 I wish you great success and hope you have a wonderful stay in Singapore. Thank you.
-<br><br><br>
-
+<br><br>
 
 Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20130314001.pdf)
