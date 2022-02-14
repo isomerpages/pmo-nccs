@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Opening Address by Mr Masagos Zulkifli, Minister for the Environment and Water Resources, at the Opening Ceremony of the Asia Clean Energy Summit Conference and Exhibition, 25 October 2016
+title: Opening Address by Mr Masagos Zulkifli, Minister for the Environment and
+  Water Resources, at the Opening Ceremony of the Asia Clean Energy Summit
+  Conference and Exhibition, 25 October 2016
 subtitle: 25 Oct 2016
 permalink: /media/speeches/opening-address-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-opening-ceremony-of-the-asia-clean-energy-summit-conference-and-exhibition-25-october-2016
 ---
-
 ### OPENING ADDRESS BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE OPENING CEREMONY OF THE ASIA CLEAN ENERGY SUMMIT CONFERENCE AND EXHIBITION, 25 OCTOBER 2016
 
 Mr Edwin Khew, Chairman, Sustainable Energy Association of Singapore;
@@ -65,5 +66,4 @@ Aligned with our interest to develop a sophisticated green economy, Singapore co
 
 I will like to conclude by saying that being sustainable should not be considered as an alternative or a trade-off to economic development. Rather, the pursuit of clean and renewable energy development is a venture into greater opportunities and growth, and also a necessary step into the new green era. There is much more that we can do, and I hope that new partnerships and collaborations can be forged and strengthened at this conference and exhibition, as we work together towards a clean and sustainable Singapore. I wish you a pleasant event ahead. Thank you.
 
-Source: [<a href="https://www.mewr.gov.sg/news/opening-address-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-asia-clean-energy-summit-conference-and-exhibition--25-october-2016" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/opening-address-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-asia-clean-energy-summit-conference-and-exhibition--25-october-2016)
-
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20161025001.pdf)
