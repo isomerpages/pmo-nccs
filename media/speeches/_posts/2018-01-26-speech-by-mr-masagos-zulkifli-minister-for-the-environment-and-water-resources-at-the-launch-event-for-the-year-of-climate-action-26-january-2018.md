@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speech by Mr Masagos Zulkifli, Minister for the Environment and Water Resources, at the launch event for the Year of Climate Action, 26 January 2018
+title: Speech by Mr Masagos Zulkifli, Minister for the Environment and Water
+  Resources, at the launch event for the Year of Climate Action, 26 January 2018
 subtitle: 26 Jan 2018
 permalink: /media/speeches/speech-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-launch-event-for-the-year-of-climate-action-26-january-2018
 ---
-
 ### SPEECH BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE LAUNCH EVENT FOR THE YEAR OF CLIMATE ACTION, 26 JANUARY 2018
 
 Your Excellencies, 
@@ -78,4 +78,4 @@ Likewise, our efforts can multiply like the grains on the chessboard if all of u
 
 I thank CDL for co-organising this event with my Ministry, and for graciously hosting us at this beautiful Singapore Sustainability Academy. I also thank all of you for attending this morning’s event and supporting our Year of Climate Action.
 
-*Source: [<a href="https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-launch-event-for-the-year-of-climate-action--26-january-2018" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-launch-event-for-the-year-of-climate-action--26-january-2018)*
+*Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180126002.pdf)*
