@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Speech by Ms Grace Fu, Minister, Prime Minister’s Office, Second Minister for the Environment and Water Resources & Second Minister for Foreign Affairs, at the opening of Asia Future Energy Forum and Asia Smart Grid 2012, 23 October 2012
+title: Speech by Ms Grace Fu, Minister, Prime Minister’s Office, Second Minister
+  for the Environment and Water Resources & Second Minister for Foreign Affairs,
+  at the opening of Asia Future Energy Forum and Asia Smart Grid 2012, 23
+  October 2012
 subtitle: 23 Oct 2012
 permalink: /media/speeches/speech-by-ms-grace-fu-minister-prime-minister-s-office-second-minister-for-the-environment-and-water-resources-second-minister-for-foreign-affairs
 ---
-
 ### SPEECH BY MS GRACE FU, MINISTER, PRIME MINISTER’S OFFICE, SECOND MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES & SECOND MINISTER FOR FOREIGN AFFAIRS, AT THE OPENING OF ASIA FUTURE ENERGY FORUM AND ASIA SMART GRID 2012, 23 OCTOBER 2012
 
 Mr. Edwin Khew  
@@ -44,6 +46,6 @@ Distinguished guests, Ladies and gentlemen
 14\. I wish all of you fruitful discussions and hope that through this forum, and the Singapore International Energy Week, you can take away innovative ideas and ways to make our world a more sustainable and liveable one. It now gives me great pleasure to declare the Asia Future Energy Forum and Asia Smart Grid 2012 open.
 
 Thank you.
-<br><br><br>
+<br><br>
 
-*Source*: [<a href="https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--minister--prime-ministers-office--second-minister-for-the-environment-and-water-resources-and-second-minister-for-foreign-affairs--at-the-opening-of-asia-future-energy-forum-and-asia-smart-grid-2012-on-23-oct-2012" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--minister--prime-ministers-office--second-minister-for-the-environment-and-water-resources-and-second-minister-for-foreign-affairs--at-the-opening-of-asia-future-energy-forum-and-asia-smart-grid-2012-on-23-oct-2012)
+*Source*: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20121023001.pdf)
