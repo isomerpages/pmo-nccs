@@ -52,6 +52,6 @@ Ladies and gentlemen
 14\. It gives me great pleasure to declare the Singapore Green Building Week, the International Green Building Conference 2012 and the BEX Asia 2012 open. I wish everyone a very fruitful conference and to our foreign visitors, do enjoy your stay in Singapore.
 
 Thank you.  
-<br><br><br>
+<br><br>
 
 Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20121010001.pdf)
