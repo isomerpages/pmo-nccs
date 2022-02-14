@@ -107,4 +107,4 @@ It is a significant step to bring us closer to a liveable and sustainable Singap
 Sir, I beg to move.
 
 
-*Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180320002.pdf)* 
+*Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180320002.pdf)*
