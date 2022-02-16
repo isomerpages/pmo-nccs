@@ -3,12 +3,15 @@ title: Climate Risk Management
 permalink: /singapores-climate-action/climate-risk-management/
 third_nav_title: Green Growth Opportunities
 ---
-
 ### CLIMATE RISK MANAGEMENT
 
 The impact of climate change has been increasingly felt in recent years, adding to the growing importance of climate risk assessment. Climate risk assessment helps nations prepare for the effects of climate change by evaluating the distribution of resources, diversification, risk pooling, insurance, infrastructure and capability development.
 
 As a major financial centre, Singapore is an ideal launch pad for leading insurance, reinsurance and insurance brokerage companies wanting to meet the region's insurance needs for climate-related risks. Currently, there are more than 200 insurance players in Singapore tapping on Asia's market potential.
+
+**Singapore Green Finance Centre**
+
+The Singapore Green Finance Centre is Singapore’s first centre of excellence dedicated to green finance research and talent development.  It was launched in October 2020 by Imperial College Business School and Singapore Management University’s Lee Kong Chian School of Business, supported by MAS and nine founding industry partners. SGFC’s research includes regional climate risk modelling and impact assessment and measurement.
 
 **Researching Climate Change Risks**
 
