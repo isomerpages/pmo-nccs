@@ -105,7 +105,7 @@ We also provide technical assistance and human resource capacity building to cli
 
 Singapore actively collaborates with countries around the world, to build on one another's strengths and experiences in climate change, and to provide training to developing countries on climate change and environment-related issues. These countries include Australia, France, Germany, Japan, Norway, New Zealand, the Republic of Korea, Thailand, and the United Kingdom.
 
-To further strengthen our effort in global collaboration, we have commenced negotiations on a bilateral Green Economy Agreement (GEA) with Australia, which will be a world-first agreement that combines trade, economic and environment objectives. Singapore has also concluded Memoranda of Understanding (MoUs) with other international partners like Chile, on low-emissions solutions.
+To further strengthen our effort in global collaboration, we have commenced negotiations on a bilateral Green Economy Agreement (GEA) with Australia, which will be a world-first agreement that combines trade, economic and environment objectives. Singapore has also concluded Memoranda of Understanding (MoUs) with other international partners like Chile and Japan on low-emissions solutions.
 
 These initiatives reflect our commitment to sharing our knowledge, experience, and expertise to help developing countries implement sustainable environmental and climate policies and practices. Under the Singapore Cooperation Programme, our flagship technical assistance programme, and its Climate Action Package, we have trained more than 137,000 officials from over 180 countries and territories in topics such as climate adaptation and mitigation, disaster risk management, and green finance.
 
