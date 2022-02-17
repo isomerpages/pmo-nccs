@@ -16,6 +16,14 @@ The inclusion of NF<sub>3</sub> emissions under the carbon tax is expected to af
 
 In all, the carbon tax currently covers 80% of our total GHG emissions from about 50 facilities mainly from the manufacturing, power, waste, and water sectors. Facilities in other sectors would also indirectly face a carbon price on the electricity they consume as power generation companies are expected to pass on some degree of their own tax burden through increased electricity tariffs. When we account for fuel excise duties that incentivise reduction of transport emissions, the overall coverage rises to about 90%.
 
+**3. How are emissions-intensive trade-exposed (EITE) sectors determined? Why is there a need for the transition framework for EITE sectors?**
+
+Emissions-intensive trade-exposed (EITE) sectors face a higher risk of carbon leakage, where companies in these sectors may respond to higher carbon prices in Singapore by shifting their operations and emissions to locations with less stringent climate policies or carbon prices. This could result in job losses without benefitting the climate. As the Government raises the carbon tax, we are mindful of the impact on competitiveness for companies in the EITE sectors which typically employ a substantial number of Singaporeans. Examples of EITE sectors include Chemicals, Electronics and Biomedical Manufacturing sectors, while non-EITE sectors include domestic-oriented sectors like power generation and waste management.
+
+The transition framework therefore seeks to support existing companies in EITE sectors as they transition towards lower-carbon operations and minimise the impact on Singapore’s near to medium term competitiveness. We also recognise that existing investments were made amidst a different operating context and there are near-term challenges in transitioning to low-carbon operations (e.g. decarbonisation technologies need time to mature). New investments will not qualify for the transition framework. 
+
+Under the framework, transitory allowances are provided for part of companies’ emissions, based on efficiency standards and decarbonisation targets. Such frameworks are also found in other jurisdictions with carbon pricing regimes. We are currently consulting affected companies on the framework. The details will be finalised by 2023, ahead of the increase of carbon tax level in 2024. 
+
 **3. Which other countries or jurisdictions have implemented carbon pricing?**
 
 Singapore is not alone in pricing carbon. About 79 jurisdictions (45 national and 34 sub-national jurisdictions) have implemented carbon pricing. In 2021, these jurisdictions account for roughly 21.5% of global greenhouse gas emissions. A few of these jurisdictions such as Finland, Norway and Sweden have implemented carbon pricing as early as the 1990s. Other jurisdictions within the region that have announced plans to price carbon and introduce new carbon regulations include Indonesia and Brunei.
@@ -38,6 +46,6 @@ Today's electricity retail market is competitive and discourages retailers from 
 
 **6. Will companies be able to use international carbon credits to offset their carbon tax liabilities?**
 
-As part of the ongoing carbon tax review, the Government is studying the possibility of allowing the use of high-quality international carbon credits (aligned with the Paris Agreement’s Article 6 rules) to partially offset carbon tax liabilities. However, this option of using international credits will need to be balanced against the need to prioritise domestic abatement.
- 
-To comply with the [Article 6 rulebook](https://unfccc.int/process/the-paris-agreement/cooperative-implementation) decided at 26th Conference of the Parties (COP-26) to the United Nations Framework Convention on Climate Change (UNFCCC), international carbon offsets that are surrendered in lieu of carbon tax obligations must be authorised and possess corresponding adjustment to be eligible for use towards our climate targets under the Paris Agreement. This is to ensure that international carbon credits result in real emissions reduction and are not double counted. Currently, voluntary carbon credits in the market do not have corresponding adjustment and it will take time to develop credits with corresponding adjustments.
+Companies may surrender high quality international carbon credits to offset up to 5% of their taxable emissions from 2024. This will cushion the impact for companies that are able to source for credible carbon credits in a cost-effective manner.  This will also help to create local demand for high-quality carbon credits and catalyse the development of well-functioning and regulated carbon markets.   
+
+We will continue ongoing consultations with relevant stakeholders on the framework for the use of carbon credits. Details will be shared in 2023, ahead of the implementation of the revised carbon tax framework in 2024.
