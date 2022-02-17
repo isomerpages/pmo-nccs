@@ -31,10 +31,8 @@ sections:
           description: Forging international collaborations
           url: /singapores-climate-action/singapore-and-international-efforts/
   - infopic:
-      title: SINGAPORE’S CLIMATE AMBITION AND REVISED CARBON TAX LEVELS
-      description: As announced at Budget 2022, Singapore will raise our climate
-        ambition to achieve net zero emissions by or around mid-century. To
-        enable the transition to a low
+      title: <font size=6.5>SINGAPORE’S CLIMATE AMBITION AND REVISED CARBON TAX LEVELS</font>
+      description: As announced at Budget 2022, Singapore will raise our climate ambition to achieve net zero emissions by or around mid-century. To enable the transition to a low-carbon future, we will raise the carbon tax levels progressively from 2024 to send the right price signal to businesses and individuals to reduce their carbon footprint. 
       button: READ MORE
       url: https://www.nccs.gov.sg/
       alt: Image alt text
