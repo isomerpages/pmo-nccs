@@ -31,8 +31,10 @@ sections:
           description: Forging international collaborations
           url: /singapores-climate-action/singapore-and-international-efforts/
   - infopic:
-      title: <font size=6.5>SINGAPORE’S CLIM
-      description: As announced at Budget 2022, Singapor
+      title: <font size=6.5>SINGAPORE’S CLIMATE AMBITION AND REVISED CARB
+      description: As announced at Budget 2022, Singapore will raise our climate
+        ambition to achieve net zero emissions by or around mid-century. To
+        enable the transition to a low
       button: READ MORE
       url: https://www.nccs.gov.sg/
       alt: Image alt text
