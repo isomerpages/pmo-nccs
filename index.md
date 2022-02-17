@@ -31,6 +31,12 @@ sections:
           description: Forging international collaborations
           url: /singapores-climate-action/singapore-and-international-efforts/
   - infopic:
+      title: <font size=6.5>SINGAPORE’S CLIM
+      description: As announced at Budget 2022, Singapor
+      button: READ MORE
+      url: https://www.nccs.gov.sg/
+      alt: Image alt text
+  - infopic:
       image: /images/ledscover.jpg
       alt: Members of the Ministry of ABC shaking hands
       title: <font size=6.5>CHARTING SINGAPORE'S LOW-CARBON AND CLIMATE RESILIENT
@@ -47,10 +53,4 @@ sections:
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: View All
-  - infopic:
-      title: <font size=6.5>SINGAPORE’S CLIM
-      description: As announced at Budget 2022, Singapor
-      button: READ MORE
-      url: https://www.nccs.gov.sg/
-      alt: Image alt text
 ---
