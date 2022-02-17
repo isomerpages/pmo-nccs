@@ -40,7 +40,7 @@ sections:
         businesses and individuals to reduce their carbon footprint.
       button: READ MORE
       url: https://www.nccs.gov.sg/
-      alt: Image alt text
+      alt: Members of the Ministry
   - infopic:
       image: /images/ledscover.jpg
       alt: Members of the Ministry of ABC shaking hands
