@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Masagos Zulkifli, Minister of the Environment and Water Resources, at the Responsible Business Forum on Sustainable Development on 22 November 2017
+title: Speech by Masagos Zulkifli, Minister of the Environment and Water
+  Resources, at the Responsible Business Forum on Sustainable Development on 22
+  November 2017
 subtitle: 22 Nov 2017
 permalink: /media/speeches/speech-by-masagos-zulkifli-minister-of-the-environment-and-water-resources-at-the-responsible-business-forum-on-sustainable-development-on-22-november-2017
 ---
-
 ### SPEECH BY MASAGOS ZULKIFLI, MINISTER OF THE ENVIRONMENT AND WATER RESOURCES, AT THE RESPONSIBLE BUSINESS FORUM ON SUSTAINABLE DEVELOPMENT ON 22 NOVEMBER 2017
 
 Achim Steiner,  
@@ -57,4 +58,4 @@ On the global front, Singapore works closely with international partners to exch
 
 In conclusion, governments, businesses and civil society must work together to achieve the SDGs, so as to realise significant and lasting climate action. I encourage all of you to take the opportunity at this Forum to think about how your initiatives can help to accelerate action on sustainable development. I hope that you will learn from each other, and explore opportunities for further collaboration. I wish you a fruitful discussion. Thank you.
 
-Source: [<a href="https://www.mewr.gov.sg/news/speech-by-masagos-zulkifli--minister-of-the-environment-and-water-resources--at-the-responsible-business-forum-on-sustainable-development-on-22-nov-2017-at-marina-bay-sands--9am" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-masagos-zulkifli--minister-of-the-environment-and-water-resources--at-the-responsible-business-forum-on-sustainable-development-on-22-nov-2017-at-marina-bay-sands--9am)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20171122001.pdf)

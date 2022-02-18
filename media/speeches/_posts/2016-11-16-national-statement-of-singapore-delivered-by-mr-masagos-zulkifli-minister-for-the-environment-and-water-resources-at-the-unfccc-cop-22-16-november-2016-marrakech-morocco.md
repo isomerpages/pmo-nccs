@@ -1,10 +1,11 @@
 ---
 layout: post
-title: National Statement of Singapore Delivered by Mr Masagos Zulkifli, Minister for the Environment and Water Resources at the UNFCCC COP-22, 16 November 2016, Marrakech, Morocco
+title: National Statement of Singapore Delivered by Mr Masagos Zulkifli,
+  Minister for the Environment and Water Resources at the UNFCCC COP-22, 16
+  November 2016, Marrakech, Morocco
 subtitle: 16 Nov 2016
 permalink: /media/speeches/national-statement-of-singapore-delivered-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-unfccc-cop-22-16-november-2016-marrakech-morocco
 ---
-
 ### NATIONAL STATEMENT OF SINGAPORE DELIVERED BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AT THE UNFCCC COP-22, 16 NOVEMBER 2016, MARRAKECH, MOROCCO
 
 Mr President,
@@ -71,4 +72,4 @@ ___
 
 <a>[3]</a> Source: IEA Key World Energy Stat
 <br><br><br>
-Source: [<a href="http://www.mewr.gov.sg/news/national-statement-of-singapore-delivered-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-the-unfccc-cop-22--16-november-2016--marrakech--morocco" target="_blank">Ministry of the Environment and Water Resources</a>](http://www.mewr.gov.sg/news/national-statement-of-singapore-delivered-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-the-unfccc-cop-22--16-november-2016--marrakech--morocco)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20161116001.pdf)

@@ -83,13 +83,13 @@ The agreement on Article 6 clears the path for the establishment of mechanisms t
 
 **Singapore’s Pledge to Reduce Emissions**
 
-Prior to the UNFCCC Climate Change Conference in Copenhagen in 2009, Singapore pledged to reduce our greenhouse gas emissions by 16 per cent below business-as-usual (BAU) levels in 2020. In line with the agreement adopted in Paris in December 2015, Singapore has made a further commitment to reduce our Emissions Intensity by 36 per cent from 2005 levels by 2030, and stabilise our greenhouse gas emissions with the aim of peaking around 2030. 
+Prior to the UNFCCC Climate Change Conference in Copenhagen in 2009, Singapore pledged to reduce our greenhouse gas emissions by 16 per cent below business-as-usual (BAU) levels in 2020. In line with the agreement adopted in Paris in December 2015, Singapore has made a further commitment to reduce our Emissions Intensity by 36 per cent from 2005 levels by 2030, and stabilise our greenhouse gas emissions with the aim of peaking around 2030.
 
-On 31 March 2020, Singapore submitted its enhanced Nationally Determined Contribution (NDC) and Long-Term Low-Emissions Development Strategy (LEDS) document to the UNFCCC. Singapore's enhanced NDC now states an absolute emissions target to peak emissions at 65 MtCO<sub>2</sub>e around 2030. Singapore's LEDS builds on the enhanced NDC by aspiring to halve emissions from its peak to 33 MtCO<sub>2</sub>e by 2050, with a view to achieving net zero emissions as soon as viable in the second half of the century.
+On 31 March 2020, Singapore submitted its enhanced Nationally Determined Contribution (NDC) and Long-Term Low-Emissions Development Strategy (LEDS) document to the UNFCCC. Singapore’s enhanced NDC now states an absolute emissions target to peak emissions at 65 MtCO<sub>2</sub>e around 2030. Singapore’s LEDS builds on the enhanced NDC by aspiring to halve emissions from its peak to 33 MtCO<sub>2</sub>e by 2050, with a view to achieving net zero emissions as soon as viable in the second half of the century.
 
-This pledge is an ambitious one given our limited access to renewable energy and will require concerted effort by all stakeholders, including the Government, businesses, households and individuals.
+On 18 February 2022, Singapore announced that it will raise its ambition to achieve net zero emissions by or around mid-century. The government will consult closely with industry and citizen stakeholder groups to firm up and finalise Singapore’s plans before making a formal revision of the LEDS later in 2022. 
 
-More details on Singapore’s climate actions can be found [<a href="/singapores-climate-action/mitigation-efforts/" target="_blank">here</a>](/singapores-climate-action/mitigation-efforts/).
+More details on Singapore’s climate actions can be found [here](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/).
 
 **Promoting International Co-operation on Climate Change**
 
@@ -105,7 +105,7 @@ We also provide technical assistance and human resource capacity building to cli
 
 Singapore actively collaborates with countries around the world, to build on one another's strengths and experiences in climate change, and to provide training to developing countries on climate change and environment-related issues. These countries include Australia, France, Germany, Japan, Norway, New Zealand, the Republic of Korea, Thailand, and the United Kingdom.
 
-To further strengthen our effort in global collaboration, we have commenced negotiations on a bilateral Green Economy Agreement (GEA) with Australia, which will be a world-first agreement that combines trade, economic and environment objectives. Singapore has also concluded Memoranda of Understanding (MoUs) with other international partners like Chile, on low-emissions solutions.
+To further strengthen our effort in global collaboration, we have commenced negotiations on a bilateral Green Economy Agreement (GEA) with Australia, which will be a world-first agreement that combines trade, economic and environment objectives. Singapore has also concluded Memoranda of Understanding (MoUs) with other international partners like Chile and Japan on low-emissions solutions.
 
 These initiatives reflect our commitment to sharing our knowledge, experience, and expertise to help developing countries implement sustainable environmental and climate policies and practices. Under the Singapore Cooperation Programme, our flagship technical assistance programme, and its Climate Action Package, we have trained more than 137,000 officials from over 180 countries and territories in topics such as climate adaptation and mitigation, disaster risk management, and green finance.
 

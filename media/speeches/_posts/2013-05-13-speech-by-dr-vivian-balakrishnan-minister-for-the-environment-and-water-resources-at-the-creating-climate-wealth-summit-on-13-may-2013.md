@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speech by Dr Vivian Balakrishnan, Minister for the Environment and Water Resources, at the Creating Climate Wealth Summit on 13 May 2013
+title: Speech by Dr Vivian Balakrishnan, Minister for the Environment and Water
+  Resources, at the Creating Climate Wealth Summit on 13 May 2013
 subtitle: 13 May 2013
 permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-creating-climate-wealth-summit-on-13-may-2013
 ---
-
 ### SPEECH BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE CREATING CLIMATE WEALTH SUMMIT ON 13 MAY 2013
 
 Great fortunes will be made or lost at moments of inflexion, and our world is going through several inflexion points even as we speak.
@@ -65,4 +65,4 @@ I hope I have given you some food for thought, and hopefully some sense of crise
 
 
 
-Source: [<a href="https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources--at-the-creating-climate-wealth-summit--13-may-2013--910am-at-marina-bay-sands" target="_blank">Ministry of Environment and Water Resources </a>](https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources--at-the-creating-climate-wealth-summit--13-may-2013--910am-at-marina-bay-sands)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20130513001.pdf)

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Ms Grace Fu, Minister, Prime Minister’s Office, Second Minister for the Environment and Water Resources & Second Minister for Foreign Affairs, at the Eco-products International Fair 2013 on 14 Mar 2013
+title: Speech by Ms Grace Fu, Minister, Prime Minister’s Office, Second Minister
+  for the Environment and Water Resources & Second Minister for Foreign Affairs,
+  at the Eco-products International Fair 2013 on 14 Mar 2013
 subtitle: 14 Mar 2013
 permalink: /media/speeches/speech-by-ms-grace-fu-minister-prime-minister-s-office-second-minister-for-the-environment-and-water-resources-second-minister
 ---
-
 ### SPEECH BY MS GRACE FU, MINISTER, PRIME MINISTER’S OFFICE, SECOND MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES & SECOND MINISTER FOR FOREIGN AFFAIRS, AT THE ECO-PRODUCTS INTERNATIONAL FAIR 2013 ON 14 MAR 2013
 
 Mr Teisuke Kitayama,  
@@ -60,7 +61,6 @@ Beyond making it more convenient for households to recycle by enhancing the recy
 As I conclude, let me encourage you to take advantage of the many opportunities that are available at this event through conferences, forums and networking sessions, to share and deepen your understanding of sustainability. Whether you are a consumer or a business, you have a key role to play in achieving our common environmental goals. Let me also take this opportunity to thank the organisers: the Asian Productivity Organisation, the Waste Management & Recycling Association of Singapore and SPRING Singapore, on their joint efforts in organising and bringing the Eco-Products International Fair to Singapore again.
 
 I wish you great success and hope you have a wonderful stay in Singapore. Thank you.
-<br><br><br>
+<br><br>
 
-
-Source: <a href="https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--minister--prime-ministers-office--second-minister-for-the-environment-and-water-resources-and-second-minister-for-foreign-affairs--at-the-eco-products-international-fair-2013-on-14-mar-2013" target="_blank">Ministry of Environment and Water Resources</a>
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20130314001.pdf)

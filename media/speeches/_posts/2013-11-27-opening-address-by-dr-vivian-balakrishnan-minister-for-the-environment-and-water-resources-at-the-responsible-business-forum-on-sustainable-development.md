@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Opening Address by Dr Vivian Balakrishnan, Minister for the Environment and Water Resources, at the Responsible Business Forum on Sustainable Development, 25 November 2013 at Marina Bay Sands Convention Centre
+title: Opening Address by Dr Vivian Balakrishnan, Minister for the Environment
+  and Water Resources, at the Responsible Business Forum on Sustainable
+  Development, 25 November 2013 at Marina Bay Sands Convention Centre
 subtitle: 27 Nov 2013
 permalink: /media/speeches/opening-address-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-responsible-business-forum-on-sustainable-development
 ---
-
 ### OPENING ADDRESS BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE RESPONSIBLE BUSINESS FORUM ON SUSTAINABLE DEVELOPMENT, 25 NOVEMBER 2013 AT MARINA BAY SANDS CONVENTION CENTRE
 
 Mr Anthony Gourlay, Chief Executive Officer, Global Initiatives
@@ -63,4 +64,4 @@ Good afternoon, everyone. When I say, it’s a pleasure to be here, I really mea
 
 20 So, I am sorry that I took longer than I intended. But I hope that I gave you an idea of what is happening on the global level. We need political will to be exercised and for political capital and real money to be invested to deal with this challenge of climate change. I hope you will understand how in the case of Singapore, our very vulnerability has made us acutely conscious of environmental impacts since our conception as a sovereign state almost 50 years ago. We need a long term commitment by governments, empowered people and responsible businesses to create a virtuous cycle in which both the environment and economy can be sustained. I thank you all for your support and I hope you will help us all do the right thing for the long term.
 <br><br>
-Source: [<a href="https://www.mewr.gov.sg/news/opening-address-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources--at-the-responsible-business-forum-on-sustainable-development--25-november-2013--145pm-at-marina-bay-sands-convention-centre" target="_blank">Ministry of Environment and Water Resources</a>](https://www.mewr.gov.sg/news/opening-address-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources--at-the-responsible-business-forum-on-sustainable-development--25-november-2013--145pm-at-marina-bay-sands-convention-centre)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20131125001.pdf)

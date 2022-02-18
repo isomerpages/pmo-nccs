@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Second Reading Speech by Dr Vivian Balakrishnan, Minister for the Environment and Water Resources, on the Energy Conservation Bill in Parliament on 9 April 2012
+title: Second Reading Speech by Dr Vivian Balakrishnan, Minister for the
+  Environment and Water Resources, on the Energy Conservation Bill in Parliament
+  on 9 April 2012
 subtitle: 9 Apr 2012
 permalink: /media/speeches/second-reading-speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-on-the-energy-conservation-bill-in-parliament-on-9-april-2012
 ---
-
 ### SECOND READING SPEECH BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, ON THE ENERGY CONSERVATION BILL IN PARLIAMENT ON 9 APRIL 2012
 
 Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
@@ -47,4 +48,4 @@ Sir, I beg to move.
 <br><br><br>
 
 
-Source: [<a href="https://www.mewr.gov.sg/news/second-reading-speech-by-minister-for-the-environment-and-water-resources--dr-vivian-balakrishnan--on-the-energy-conservation-bill-in-parliament-on-9-april-2012" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/second-reading-speech-by-minister-for-the-environment-and-water-resources--dr-vivian-balakrishnan--on-the-energy-conservation-bill-in-parliament-on-9-april-2012)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20120409003.pdf)

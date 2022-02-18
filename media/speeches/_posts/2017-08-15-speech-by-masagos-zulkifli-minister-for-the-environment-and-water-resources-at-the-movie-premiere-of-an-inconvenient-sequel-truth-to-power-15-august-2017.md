@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 'Speech by Masagos Zulkifli, Minister for the Environment and Water Resources at the movie premiere of An Inconvenient Sequel: Truth to Power, 15 August 2017'
+title: "Speech by Masagos Zulkifli, Minister for the Environment and Water
+  Resources at the movie premiere of An Inconvenient Sequel: Truth to Power, 15
+  August 2017"
 subtitle: 15 Aug 2017
 permalink: /media/speeches/speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-movie-premiere-of-an-inconvenient-sequel-truth-to-power-15-august-2017
 ---
-
 ### SPEECH BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AT THE MOVIE PREMIERE OF AN INCONVENIENT SEQUEL: TRUTH TO POWER, 15 AUGUST 2017
 
 Mr Ang Wee Gee, Chief Executive Officer, Keppel Land  
@@ -35,4 +36,4 @@ As we enjoy the documentary in the comfort of this theatre, I hope you put on yo
 
 Thank you!
 <br><br><br><br>
-Source: [<a href="https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-the-movie-premiere-of-an-inconvenient-sequel--truth-to-power-on-15th-august-2017" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-the-movie-premiere-of-an-inconvenient-sequel--truth-to-power-on-15th-august-2017)
+Source: [National Archives of Singapore](National Archives of Singapore)

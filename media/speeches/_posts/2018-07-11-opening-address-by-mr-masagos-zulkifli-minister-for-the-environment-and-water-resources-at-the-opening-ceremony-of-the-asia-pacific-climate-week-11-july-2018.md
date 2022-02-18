@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Opening address by Mr Masagos Zulkifli, Minister for the Environment and Water Resources, at the opening ceremony of the Asia-Pacific Climate Week, 11 July 2018
+title: Opening address by Mr Masagos Zulkifli, Minister for the Environment and
+  Water Resources, at the opening ceremony of the Asia-Pacific Climate Week, 11
+  July 2018
 subtitle: 11 Jul 2018
 permalink: /media/speeches/opening-address-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-opening-ceremony-of-the-asia-pacific-climate-week-11-july-2018
 ---
-
 ### OPENING ADDRESS BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE OPENING CEREMONY OF THE ASIA-PACIFIC CLIMATE WEEK, 11 JULY 2018  
 ***“Driving Change in Asia Pacific through Innovation”***
 
@@ -60,4 +61,4 @@ The meetings here this week complement the ongoing international climate change 
 
 Let me conclude. The impact of climate change respects no geographical or national boundaries. A global response is required, and the time for action is now. I wish all of you a fruitful meeting. Thank you.
 
-*Source: [<a href="https://www.mewr.gov.sg/news/opening-address-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-asia-pacific-climate-week-on-11-july-2018" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/opening-address-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-asia-pacific-climate-week-on-11-july-2018)*
+*Source:*[National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180711003.pdf)

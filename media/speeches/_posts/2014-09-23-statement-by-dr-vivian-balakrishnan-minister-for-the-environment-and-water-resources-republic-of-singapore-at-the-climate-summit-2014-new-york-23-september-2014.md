@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Statement by Dr Vivian Balakrishnan, Minister for the Environment and Water Resources, Republic of Singapore, at the Climate Summit 2014, New York, 23 September 2014, at 4.40PM (24 September 2014, 4.40AM Singapore Time)
+title: Statement by Dr Vivian Balakrishnan, Minister for the Environment and
+  Water Resources, Republic of Singapore, at the Climate Summit 2014, New York,
+  23 September 2014, at 4.40PM (24 September 2014, 4.40AM Singapore Time)
 subtitle: 23 Sep 2014
 permalink: /media/speeches/statement-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-republic-of-singapore-at-the-climate-summit-2014-new-york-23-september-2014
 ---
-
 ### STATEMENT BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, REPUBLIC OF SINGAPORE, AT THE CLIMATE SUMMIT 2014, NEW YORK, 23 SEPTEMBER 2014, AT 4.40PM (24 SEPTEMBER 2014, 4.40AM SINGAPORE TIME)
 
 Your Excellencies John Kufour and Marçin Korolec,
@@ -36,4 +37,4 @@ It is our firm belief that we have a unique opportunity now to build an agreemen
 <a name="no1" id="no1">[1]</a> Projecting from 2005, Singapore's BAU emissions are expected to reach 77.2 million tonnes (MT) in 2020.
 <br><br><br>
 
-Source: [<a href="https://www.mewr.gov.sg/news/statement-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources--at-the-united-nations-climate-summit-2014--new-york-at-23-september-2014--440pm-ny-time" target="_blank">Ministry of the Environment and Water Resources </a>](https://www.mewr.gov.sg/news/statement-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources--at-the-united-nations-climate-summit-2014--new-york-at-23-september-2014--440pm-ny-time)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20140923001.pdf)

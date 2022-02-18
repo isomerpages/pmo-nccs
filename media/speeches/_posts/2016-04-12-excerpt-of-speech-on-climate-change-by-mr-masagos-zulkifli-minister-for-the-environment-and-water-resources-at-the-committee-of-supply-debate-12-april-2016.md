@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Excerpt of speech on climate change by Mr Masagos Zulkifli, Minister for the Environment and Water Resources, at the Committee of Supply Debate, 12 April 2016
+title: Excerpt of speech on climate change by Mr Masagos Zulkifli, Minister for
+  the Environment and Water Resources, at the Committee of Supply Debate, 12
+  April 2016
 subtitle: 12 Apr 2016
 permalink: /media/speeches/excerpt-of-speech-on-climate-change-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-committee-of-supply-debate-12-april-2016
 ---
-
 ### EXCERPT OF SPEECH ON CLIMATE CHANGE BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE COMMITTEE OF SUPPLY DEBATE, 12 APRIL 2016
 
 Minister for the Environment and Water Resources Mr Masagos Zulkifli spoke about climate change during the 2016 Committee of Supply Debate. The excerpt is below.
 
-For the full speech, please go to [<a href="https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-mewr-cos-2016" target="_blank">http://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli\-\-minister-for-the-environment-and-water-resources-at-mewr-cos-2016</a>](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources-at-mewr-cos-2016).
+For the full speech, please click [here](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20160412002.pdf).
 
 **C. Climate Change**
 

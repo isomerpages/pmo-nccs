@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  National Statement Of Singapore By Mr Masagos Zulkifli, Minister For The Environment And Water Resources, At The UNFCCC COP-24 High Level Segment, 12 December 2018
+title: National Statement Of Singapore By Mr Masagos Zulkifli, Minister For The
+  Environment And Water Resources, At The UNFCCC COP-24 High Level Segment, 12
+  December 2018
 subtitle: 12 Dec 2018
 permalink: /media/speeches/national-statement-of-singapore-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-unfccc-cop-24-high-level-segment-12-december-2018
 ---
-
 ### NATIONAL STATEMENT OF SINGAPORE BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE UNFCCC COP-24 HIGH LEVEL SEGMENT, 12 DECEMBER 2018
 
 Mr President,
@@ -72,4 +73,4 @@ ___
 <sup>[5]</sup> Source: Article contributed by Ban Ki-moon to Time magazine on 8 October 2018. [<a href="http://time.com/5416793/climate-change-ban-ki-moon-trump/" target="_blank">http://time.com/5416793/climate-change-ban-ki-moon-trump/</a>](http://time.com/5416793/climate-change-ban-ki-moon-trump/)
 
 
-*Source: [<a href="https://www.mewr.gov.sg/news/national-statement-of-singapore-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-unfccc-cop-24-high-level-segment--12-december-2018" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/national-statement-of-singapore-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-unfccc-cop-24-high-level-segment--12-december-2018)*
+*Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20181212001.pdf)*

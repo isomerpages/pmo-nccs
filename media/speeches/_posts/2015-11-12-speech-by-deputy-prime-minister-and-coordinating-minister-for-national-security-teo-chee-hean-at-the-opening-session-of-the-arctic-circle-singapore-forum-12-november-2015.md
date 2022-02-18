@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Deputy Prime Minister and Coordinating Minister for National Security Teo Chee Hean at the opening session of the Arctic Circle Singapore Forum, 12 November 2015
+title: Speech by Deputy Prime Minister and Coordinating Minister for National
+  Security Teo Chee Hean at the opening session of the Arctic Circle Singapore
+  Forum, 12 November 2015
 subtitle: 12 Nov 2015
 permalink: /media/speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-teo-chee-hean-at-the-opening-session-of-the-arctic-circle-singapore-forum-12-november-2015
 ---
-
 ### SPEECH BY DEPUTY PRIME MINISTER AND COORDINATING MINISTER FOR NATIONAL SECURITY TEO CHEE HEAN AT THE OPENING SESSION OF THE ARCTIC CIRCLE SINGAPORE FORUM, 12 NOVEMBER 2015
 
 His Excellency Ólafur Grímsson,
@@ -84,7 +85,7 @@ ___
 
 <a id="5">[5]</a> Farré, A.B., et al.  “Commercial Arctic Shipping Through the Northeast Passage: Routes, Resources, Governance, Technology, and Infrastructure.” Polar Geography 37:4, 298-324 (2014). DOI: 10.1080/1088937X.2014.965769
 
-<a id="6">[6]</a> International Maritime Organisation.  “Adoption of an International Code of Safety for Ships Operating in Polar Waters (Polar Code)”.  Accessed at [<a href="http://www.imo.org/en/MediaCentre/HotTopics/polar/Pages/default.aspx" target="_blank">http://www.imo.org/en/MediaCentre/HotTopics/polar/Pages/default.aspx</a>](http://www.imo.org/en/MediaCentre/HotTopics/polar/Pages/default.aspx)
+<a id="6">[6]</a> International Maritime Organisation.  “Adoption of an International Code of Safety for Ships Operating in Polar Waters (Polar Code)”. Latest updates at [International Maritime Organisation](https://www.imo.org/en/MediaCentre/PressBriefings/Pages/18-Polar-Code-MEPC.aspx)
 
 <a id="7">[7]</a> MPA has recognised eight classification societies to carry out the appropriate surveys and certifications: American Bureau of Shipping, Bureau Veritas, China Classification Society, DNV-GL, Korean Register of Shipping, Lloyd’s Register, Nippon Kaiji Kyokai, and Registro Italiano Navale. 
 

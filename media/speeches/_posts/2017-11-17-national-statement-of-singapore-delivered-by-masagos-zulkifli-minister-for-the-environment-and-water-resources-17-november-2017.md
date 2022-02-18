@@ -1,10 +1,11 @@
 ---
 layout: post
-title: National statement of Singapore delivered by Masagos Zulkifli, Minister for the Environment and Water Resources at the UNFCCC COP-23/ CMP-13/ CMA1.2 high level, 17 November 2017
+title: National statement of Singapore delivered by Masagos Zulkifli, Minister
+  for the Environment and Water Resources at the UNFCCC COP-23/ CMP-13/ CMA1.2
+  high level, 17 November 2017
 subtitle: 17 Nov 2017
 permalink: /media/speeches/national-statement-of-singapore-delivered-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-17-november-2017
 ---
-
 ### NATIONAL STATEMENT OF SINGAPORE DELIVERED BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AT THE UNFCCC COP-23/ CMP-13/ CMA1.2 HIGH LEVEL, 17 NOVEMBER 2017
 
 Mr President,
@@ -68,4 +69,4 @@ Thank you Mr President.
 
 <sup id="4">[4]</sup> Jess Shankleman, “Pretty soon electric cars will cost less than gasoline”, Bloomberg, 26 May 2017, accessed 9 October 2017.
 
-Source: [<a href="https://www.mewr.gov.sg/news/national-statement-of-singapore-delivered-by-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-unfccc-cop-23-cmp-13-cma12-high-level-segment--november-2017--bonn--germany" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/national-statement-of-singapore-delivered-by-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-unfccc-cop-23-cmp-13-cma12-high-level-segment--november-2017--bonn--germany)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20171116001.pdf)

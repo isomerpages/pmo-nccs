@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speech by Masagos Zulkifli, Minister for the Environment and Water Resources, on Energy Conservation (Amendment) Bill, 3 April 2017
+title: Speech by Masagos Zulkifli, Minister for the Environment and Water
+  Resources, on Energy Conservation (Amendment) Bill, 3 April 2017
 subtitle: 3 Apr 2017
 permalink: /media/speeches/speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-on-energy-conservation-(amendment)-bill-3-april-2017
 ---
-
 ### SPEECH BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, ON ENERGY CONSERVATION (AMENDMENT) BILL, 3 APRIL 2017
 
 Madam Speaker, I beg to move, “That the Bill be read a Second time.” 
@@ -78,4 +78,4 @@ Madam Speaker, and members of the House, let me conclude. The proposed enhanceme
 
 Madam Speaker, I beg to move.
 <br><br><br>
-Source: [<a href="https://www.mewr.gov.sg/news/speech-by-masagos-zulkifli--minister-for-the-environment-and-water-resources-on-energy-conservation-amendment-bill-on-3-april-2017" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-masagos-zulkifli--minister-for-the-environment-and-water-resources-on-energy-conservation-amendment-bill-on-3-april-2017)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20170404001.pdf)

@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Speech by Mr Masagos Zulkifli, Minister for the Environment and Water Resources, at the official opening of the Tuas Desalination Plant, 28 June 2018
+title: Speech by Mr Masagos Zulkifli, Minister for the Environment and Water
+  Resources, at the official opening of the Tuas Desalination Plant, 28 June
+  2018
 subtitle: 28 Jun 2018
 permalink: /media/speeches/speech-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-official-opening-of-the-tuas-desalination-plant-28-june-2018
 ---
-
 ### SPEECH BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE OFFICIAL OPENING OF THE TUAS DESALINATION PLANT, 28 JUNE 2018
 
 Distinguished Guests  
@@ -45,4 +46,4 @@ The 2013 World Resources Institute study ranked Singapore with the greatest risk
 It is now my pleasure to declare the plant open. Thank you.
 
 
-*Source: [<a href="https://www.mewr.gov.sg/" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/)*
+*Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180628001.pdf)*
