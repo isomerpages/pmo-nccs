@@ -39,7 +39,7 @@ sections:
         tax levels progressively from 2024 to send the right price signal to
         businesses and individuals to reduce their carbon footprint.
       button: READ MORE
-      url: https://www.isomer.gov.sg/faq/
+      url: /media/press-release/singapore-will-raise-climate-ambition
       alt: Members of the Ministry
       image: /images/CarbonTaxGlobe.png
   - infopic:
