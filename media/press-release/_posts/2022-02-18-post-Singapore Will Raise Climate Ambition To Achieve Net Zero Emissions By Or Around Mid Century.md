@@ -35,9 +35,10 @@ description: ""
 10.	The carbon tax will affect households mainly through an increase in utility bills.  The Government will build on existing measures to help households manage cost-of-living pressures, such as through additional U-Save rebates. Details of the support measures for households will be announced in 2023, ahead of the implementation of the revised carbon tax framework in 2024. 
 
 11.	Households are encouraged to practise energy-saving habits and switch to energy-efficient appliances to mitigate cost impact. Eligible households can tap on the Climate-Friendly Households Programme to make the switch to more energy or water efficient appliances.
+<br>
 
 
 ------
-<sub>1</sub>Examples of EITE sectors include the energy and chemicals, and electronics sectors. Non-EITE sectors include domestic-oriented sectors like power generation companies, waste management companies etc.
+<font size=3><sub>1</sub> Examples of EITE sectors include the energy and chemicals, and electronics sectors. Non-EITE sectors include domestic-oriented sectors like power generation companies, waste management companies etc.
 
- <sub>2</sub>Refers to the phenomenon where companies respond to higher carbon prices by shifting their operations and emissions to locations with less stringent climate policies or carbon prices, without taking steps to reduce emissions.
+ <sub>2</sub> Refers to the phenomenon where companies respond to higher carbon prices by shifting their operations and emissions to locations with less stringent climate policies or carbon prices, without taking steps to reduce emissions.</font>
