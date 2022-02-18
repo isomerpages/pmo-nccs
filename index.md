@@ -39,8 +39,9 @@ sections:
         tax levels progressively from 2024 to send the right price signal to
         businesses and individuals to reduce their carbon footprint.
       button: READ MORE
-      url: https://www.nccs.gov.sg/
+      url: https://www.isomer.gov.sg/faq/
       alt: Members of the Ministry
+      image: /images/CarbonTaxGlobe.png
   - infopic:
       image: /images/ledscover.jpg
       alt: Members of the Ministry of ABC shaking hands
