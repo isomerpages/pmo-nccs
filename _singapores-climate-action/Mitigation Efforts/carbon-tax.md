@@ -8,6 +8,7 @@ third_nav_title: Mitigation Efforts
 As announced by Minister for Finance Mr Lawrence Wong at Budget 2022, Singapore will raise our climate ambition to achieve net zero emissions by or around mid-century. To enable the transition to a low-carbon future, we will raise the carbon tax levels progressively from 2024. This will support our climate ambition and secure a greener and more sustainable living environment for future generations, while being economically competitive in a low-carbon future.  
 
 **Carbon Tax in Singapore from 2019 - 2023**
+
 Singapore implemented a carbon tax, the first carbon pricing scheme in Southeast Asia, on 1 January 2019. The carbon tax provides a broad-based price signal to encourage companies to reduce their emissions, yet gives them the flexibility to take action where it makes the most economic sense. The carbon tax forms part of Singapore’s comprehensive suite of mitigation measures to reduce emissions, create green growth opportunities, and transition to an energy-efficient low-carbon economy. To maintain a transparent, fair, and consistent price signal across the economy, the carbon tax is applied uniformly to all sectors including energy-intensive and trade-exposed sectors, without exemption.
 
 The carbon tax level is set at S$5/tCO<sub>2</sub>e in the first instance from 2019 to 2023, to provide a transitional period to give emitters time to adjust.
