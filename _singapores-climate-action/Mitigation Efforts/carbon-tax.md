@@ -40,3 +40,4 @@ On the international front, we have also enhanced our 2030 Nationally Determined
 
 
 * [<a href="/faqs/carbon-tax/" target="_blank">Frequently asked questions on carbon tax</a>](/faqs/carbon-tax/)
+
