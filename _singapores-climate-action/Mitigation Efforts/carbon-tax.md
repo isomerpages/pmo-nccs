@@ -35,7 +35,7 @@ Consultations with relevant stakeholders on the support measures, transition fra
 On the international front, we have also enhanced our 2030 Nationally Determined Contribution (NDC) and submitted our 2050 Long-term Low Emissions Development Strategy (LEDS) under the Paris Agreement in March 2020. Singapore will also continue to contribute to international climate action. In alignment with the Glasgow Climate Pact signed at COP-26 in November 2021 which requests countries to update LEDS to achieve net zero “by or around mid-century”, industry and citizen stakeholder groups will also be consulted on a proposed net zero year before making a formal revision of our LEDS. 
 
 
-<a href="/files/docs/default-source/default-document-library/how-a-carbon-tax-works.pdf" target="_blank">![Carbon Pricing](/images/carbon-pricing.png "Carbon Pricing")</a>  
-*Role of carbon tax in Singapore’s mitigation strategy (Click to download a larger image)*
+! [Singapore will raise ambition to achieve net zero emissions by or around mid-century](/images/to be uploaded CT Infographic Final.jpg)
+
 
 * [<a href="/faqs/carbon-tax/" target="_blank">Frequently asked questions on carbon tax</a>](/faqs/carbon-tax/)
