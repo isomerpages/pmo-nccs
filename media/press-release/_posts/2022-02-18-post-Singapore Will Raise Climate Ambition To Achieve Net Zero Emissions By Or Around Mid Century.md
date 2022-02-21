@@ -39,6 +39,7 @@ The carbon tax will affect households mainly through an increase in utility bill
 Households are encouraged to practise energy-saving habits and switch to energy-efficient appliances to mitigate cost impact. Eligible households can tap on the Climate-Friendly Households Programme to make the switch to more energy or water efficient appliances.
 <br>
 
+![Singapore will raise ambition to achieve net zero emissions by or around mid-century](/images/Infographic - SG Climate Ambition and Carbon Tax.jpg)
 
 ------
 [1] Examples of EITE sectors include the energy and chemicals, and electronics sectors. Non-EITE sectors include domestic-oriented sectors like power generation companies, waste management companies etc.
