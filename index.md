@@ -41,7 +41,7 @@ sections:
       button: READ MORE
       url: /media/press-release/singapore-will-raise-climate-ambition
       alt: Members of the Ministry
-      image: /images/CarbonTaxGlobe.png
+      image: /images/to be uploaded CT Infographic Final.jpg
   - infopic:
       image: /images/ledscover.jpg
       alt: Members of the Ministry of ABC shaking hands
