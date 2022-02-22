@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speech by Minister for the Environment and Water Resources Yaacob Ibrahim at the Opening Ceremony of the Clean Energy Expo, 2 November 2010
+title: Speech by Minister for the Environment and Water Resources Yaacob Ibrahim
+  at the Opening Ceremony of the Clean Energy Expo, 2 November 2010
 subtitle: 2 Nov 2010
 permalink: /media/speeches/speech-by-minister-for-the-environment-and-water-resources-yaacob-ibrahim-at-the-opening-ceremony-of-the-clean-energy-expo-2-november-2010
 ---
-
 ### SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES YAACOB IBRAHIM AT THE OPENING CEREMONY OF THE CLEAN ENERGY EXPO, 2 NOVEMBER 2010
 
 Mr Edwin Khew  
@@ -58,4 +58,4 @@ A very good morning.
 <br><br><br>
 
 
-*Source*: [<a href="https://www.mewr.gov.sg/news/speech-by-dr-yaacob-ibrahim--minister-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-clean-energy-expo-2010-on-tuesday--2-nov-2010--10-30am--at-the-suntec-international-convention-and-exhibition-centre" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-dr-yaacob-ibrahim--minister-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-clean-energy-expo-2010-on-tuesday--2-nov-2010--10-30am--at-the-suntec-international-convention-and-exhibition-centre)
+*Source*: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20101102001.pdf)
