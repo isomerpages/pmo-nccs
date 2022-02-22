@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speech by Masagos Zulkifli, Minister for the Environment and Water Resources, at the MEWR COS debates, 6 March 2018
+title: Speech by Masagos Zulkifli, Minister for the Environment and Water
+  Resources, at the MEWR COS debates, 6 March 2018
 subtitle: 06 Mar 2018
 permalink: /media/press-release/speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-mewr-cos-debates-6-march-2018
 ---
-
 ### SPEECH BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE MEWR COS DEBATES, 6 MARCH 2018
 
 **Introduction**
@@ -179,4 +179,4 @@ Taking climate action now is how we shall pass to our children a Singapore that 
 
 I now hand over to the SMS Dr Amy Khor.
 
-Source: [<a href="https://www.mewr.gov.sg/news/speech-by-masagos-zulkifli--minister-for-the-environment-and-water-resources-on-take-climate-action-for-a-sustainable-future-at-the-mewr-cos-debates-on-6-march-2018" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-masagos-zulkifli--minister-for-the-environment-and-water-resources-on-take-climate-action-for-a-sustainable-future-at-the-mewr-cos-debates-on-6-march-2018)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180306003.pdf)
