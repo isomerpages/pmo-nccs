@@ -27,7 +27,7 @@ In addition, as announced at Budget 2022, companies may also surrender high qual
 
 **Transition Framework**
 
-A transition framework will also be introduced to give existing emissions-intensive trade-exposed (EITE)  companies more time to adjust to a low-carbon economy. To help maintain business competitiveness in the near term and mitigate the risk of carbon leakage , existing facilities in EITE sectors will receive transitory allowances for part of their emissions. To continue to spur decarbonisation efforts and energy efficiency, the allowances will be determined based on efficiency standards and decarbonisation targets. The transition framework is not applicable to new facilities. 
+A transition framework will also be introduced to give existing emissions-intensive trade-exposed (EITE)  companies more time to adjust to a low-carbon economy. To help maintain business competitiveness in the near term and mitigate the risk of carbon leakage, existing facilities in EITE sectors will receive transitory allowances for part of their emissions. To continue to spur decarbonisation efforts and energy efficiency, the allowances will be determined based on efficiency standards and decarbonisation targets. The transition framework is not applicable to new facilities. 
 
 Consultations with relevant stakeholders on the support measures, transition framework, and the framework for the use of carbon credits are currently ongoing. Details will be shared in 2023, ahead of the implementation of the revised carbon tax framework in 2024. 
 
@@ -36,8 +36,7 @@ Consultations with relevant stakeholders on the support measures, transition fra
 On the international front, we have also enhanced our 2030 Nationally Determined Contribution (NDC) and submitted our 2050 Long-term Low Emissions Development Strategy (LEDS) under the Paris Agreement in March 2020. Singapore will also continue to contribute to international climate action. In alignment with the Glasgow Climate Pact signed at COP-26 in November 2021 which requests countries to update LEDS to achieve net zero “by or around mid-century”, industry and citizen stakeholder groups will also be consulted on a proposed net zero year before making a formal revision of our LEDS. 
 
 
-![Singapore will raise ambition to achieve net zero emissions by or around mid-century](/images/Infographic - SG Climate Ambition and Carbon Tax.jpg)
-
-
-* [<a href="/faqs/carbon-tax/" target="_blank">Frequently asked questions on carbon tax</a>](/faqs/carbon-tax/)
+![Infographic - SG Climate Ambition and Carbon Tax](/images/Infographic%20-%20SG%20Climate%20Ambition%20and%20Carbon%20Tax.jpg)
+<br>
+* [Frequently Asked Questions on Carbon Tax](https://www.nccs.gov.sg/faqs/carbon-tax/)
 
