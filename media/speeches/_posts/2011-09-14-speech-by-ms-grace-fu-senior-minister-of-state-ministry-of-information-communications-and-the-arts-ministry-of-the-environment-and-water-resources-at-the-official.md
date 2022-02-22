@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Speech By Ms Grace Fu, Senior Minister Of State, Ministry Of Information, Communications And The Arts & Ministry Of The Environment And Water Resources, At The Official Opening Of The Singapore Centre On Environmental Life Sciences Engineering
+title: Speech By Ms Grace Fu, Senior Minister Of State, Ministry Of Information,
+  Communications And The Arts & Ministry Of The Environment And Water Resources,
+  At The Official Opening Of The Singapore Centre On Environmental Life Sciences
+  Engineering
 subtitle: 14 Sep 2011
 permalink: /media/speeches/speech-by-ms-grace-fu-senior-minister-of-state-ministry-of-information-communications-and-the-arts-ministry-of-the-environment-and-water-resources-at-the-official
 ---
-
 ### SPEECH BY MS GRACE FU, SENIOR MINISTER OF STATE, MINISTRY OF INFORMATION, COMMUNICATIONS AND THE ARTS & MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES, AT THE OFFICIAL OPENING OF THE SINGAPORE CENTRE ON ENVIRONMENTAL LIFE SCIENCES ENGINEERING
 
 Mr Peter Ho, Governing Board Chairman, Singapore Centre on Environmental Life Sciences Engineering,
@@ -40,8 +42,7 @@ Ladies and gentlemen,
 6.&nbsp;I would like to wish SCELSE every success as it embarks on the development of novel biotechnologies for water and environmental sustainability. This is indeed a truly exciting initiative. I believe your unique endeavour will see you take on an increasingly important role, a role that will benefit all.
 
 7.&nbsp;Thank you  
-<br><br><br>
+<br><br>
 
 
-
-Source: [<a href="https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--senior-minister-of-state--ministry-of-information--communications-and-the-arts-and-ministry-of-the-environment-and-water-resources--at-the-official-opening-of-the-singapore-centre-on-environmental-life-sciences-engineering-14-sep-2011" target="_blank">Ministry of the Enviroment & Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--senior-minister-of-state--ministry-of-information--communications-and-the-arts-and-ministry-of-the-environment-and-water-resources--at-the-official-opening-of-the-singapore-centre-on-environmental-life-sciences-engineering-14-sep-2011)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20110914002.pdf)
