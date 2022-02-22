@@ -1,10 +1,10 @@
 ---
 layout: post
-title: BCA, JTC and NCCS jointly launch Singapore's first climate-focused hackathon for green solutions
+title: BCA, JTC and NCCS jointly launch Singapore's first climate-focused
+  hackathon for green solutions
 subtitle: 12 Aug 2016
 permalink: /media/press-release/bca-jtc-and-nccs-jointly-launch-singapores-first-climate-focused-hackathon-for-green-solutions
 ---
-
 ### BCA, JTC AND NCCS JOINTLY LAUNCH SINGAPORE'S FIRST CLIMATE-FOCUSED HACKATHON FOR GREEN SOLUTIONS
 
 *Funding and test-bed opportunities are available for teams with promising solutions to further develop their ideas*
@@ -37,7 +37,7 @@ a) BCA 2-stage Innovation Grant (i-Grant)
 
 **Funding and test-bedding opportunities**
 
-b) [<a href="https://www.jtc.gov.sg/infra-estate-solutions/Pages/open-innovation-call.aspx" target="_blank">JTC's Innovation Opportunities</a>](https://www.jtc.gov.sg/infra-estate-solutions/Pages/open-innovation-call.aspx)
+b) JTC’s Innovation Opportunities
 
 **Summary**
 
@@ -46,4 +46,3 @@ JTC makes its buildings and estates available island-wide as a living lab for co
 Enclosed:
 
 [<a href="/files/docs/default-source/news-documents/press_cic_annexa.pdf" target="_blank">Annex A</a>](/files/docs/default-source/news-documents/press_cic_annexa.pdf) – Fact sheet on Challenge Statements
-
