@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  Parliamentary reply by Masagos Zulkifli, Minister for the Environment and Water Resources, on climate action
+title: Parliamentary reply by Masagos Zulkifli, Minister for the Environment and
+  Water Resources, on climate action
 subtitle: 06 Aug 2018
 permalink: /media/news/parliamentary-reply-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-on-climate-action
 ---
-
-
 ### PARLIAMENTARY REPLY BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, ON CLIMATE ACTION
 
 **Miss Cheng Li Hui:** To ask the Minister for the Environment and Water Resources (a) what is the progress thus far on raising the awareness of climate change; (b) what is the number of individuals, organisations and educational institutions that have taken the Climate Action Pledge; (c) what are the plans to include more individuals, organisations and educational institutions in the second-half of the year; and (d) whether the Ministry will work with or track the organisations and educational institutions in terms of their follow-up actions and, if so, how.
@@ -24,4 +23,4 @@ We will continue to work with stakeholders to promote climate action messagesin 
 
 Individuals, organisations and educational institutions that have taken the climate action pledge have taken an important step by making a public commitment of their plans. As organisations and institutions are at different stages of their climate action journey, they are able to craft their own pledges to commit to a realistic and achievable climate action plan that works for them. My Ministry will not be tracking the fulfilment of the pledges but will be happy to work with interested parties to support their plans. NEA offers a Climate Action SG Grant for NGOs and interest groups to fund projects that promote climate action messages, promote the 3Rs and energy conservation. Successful applicants receive a grant of up to $5,000. We have also supported organisations with good ideas to reach out to a wider audience. For example, we worked with PacificLight on their climate action-themed “Crea8 Sustainability” competitions for educational institutions. We encourage parties who have taken the climate action pledge to share their progress at suitable events so that there is mutual sharing and mutual encouragement as we all walk the sustainability journey together for the good of Singapore and the world.
 
-Source: [<a href="https://www.mewr.gov.sg/news/written-reply-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--to-parliamentary-question-on-climate-action--6-august-2018" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/written-reply-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--to-parliamentary-question-on-climate-action--6-august-2018)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180806005.pdf)
