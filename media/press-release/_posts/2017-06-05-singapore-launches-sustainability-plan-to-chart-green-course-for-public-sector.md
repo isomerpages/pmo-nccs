@@ -16,7 +16,7 @@ To foster greater accountability and increase the transparency and disclosure of
 
 With the launch of the PSSP and through sharing our efforts in environmental sustainability, the public sector strongly encourages the people and private sectors to adopt more green practices and make sustainability a way of life. Everyone has a part to play in building a Sustainable Singapore.
 
-The PSSP is available for download at [https://www.nccs.gov.sg/media/publications/public-sector-sustainability-plan](https://www.nccs.gov.sg/media/publications/public-sector-sustainability-plan).  More information on the Sustainable Singapore Movement, now Singapore Green Plan, can be found [here](https://www.greenplan.gov.sg/resources/2021-02-10-press-release-on-green-plan).
+The PSSP is available for download at [https://www.nccs.gov.sg/media/publications/public-sector-sustainability-plan](https://www.nccs.gov.sg/media/publications/public-sector-sustainability-plan).  More information on the Sustainable Singapore Movement, (now [Singapore Green Plan](https://www.greenplan.gov.sg/resources/2021-02-10-press-release-on-green-plan)), can be found here.
 <br><br><br>
 
 Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20170605003/Press%20Release%20-%20Public%20Sector%20Sustainability%20Plan.pdf)
