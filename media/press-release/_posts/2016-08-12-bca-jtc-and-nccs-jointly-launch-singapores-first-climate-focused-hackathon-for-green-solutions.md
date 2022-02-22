@@ -46,3 +46,6 @@ JTC makes its buildings and estates available island-wide as a living lab for co
 Enclosed:
 
 [<a href="/files/docs/default-source/news-documents/press_cic_annexa.pdf" target="_blank">Annex A</a>](/files/docs/default-source/news-documents/press_cic_annexa.pdf) – Fact sheet on Challenge Statements
+<br><br>
+
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/20160812002/Joint%20Media%20Release%20%20for%20Climate%20Innovation%20Challenge.pdf)
