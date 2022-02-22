@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Dr Vivian Balakrishnan, Minister for the Environment and Water Resources Singapore, at the Clean Energy Expo Asia 2011, at Suntec Singapore International Convention & Exhibition Centre, 1 November 2011
+title: Speech by Dr Vivian Balakrishnan, Minister for the Environment and Water
+  Resources Singapore, at the Clean Energy Expo Asia 2011, at Suntec Singapore
+  International Convention & Exhibition Centre, 1 November 2011
 subtitle: 1 Nov 2011
 permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-singapore-at-the-clean-energy-expo-asia-2011
 ---
-
 ### SPEECH BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES SINGAPORE, AT THE CLEAN ENERGY EXPO ASIA 2011, AT SUNTEC SINGAPORE INTERNATIONAL CONVENTION & EXHIBITION CENTRE, 1 NOVEMBER 2011
 
 Dato Sri Peter Chin, Minister of Energy, Green Technology and Water, Malaysia
@@ -58,7 +59,7 @@ The big news for the last couple of days has been the fact that the world popula
 22\. So I thank you all for being here in Singapore and for contributing to the conversations on this very important topic and to join the dots between energy, food, water and ultimately the health and vitality of human needs on our one planet, Earth.
 
 23\. Thank you all very much
-<br><br><br>
+<br><br>
 
 
-Source: [<a href="https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources-singapore--at-the-clean-energy-expo-asia-2011--at-suntec-singapore-international-convention-and-exhibition-centre-on-1-november-2011-at-1030am" target="_blank">Ministry of the Environment & Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources-singapore--at-the-clean-energy-expo-asia-2011--at-suntec-singapore-international-convention-and-exhibition-centre-on-1-november-2011-at-1030am)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20111101001.pdf)
