@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Speech By Ms Grace Fu, Senior Minister of State, Ministry of Information, Communications and the Arts and Ministry of the Environment and Water Resources, at the 20th anniversary celebration of the Singapore Green Labelling Scheme, 16 March 2012
+title: Speech By Ms Grace Fu, Senior Minister of State, Ministry of Information,
+  Communications and the Arts and Ministry of the Environment and Water
+  Resources, at the 20th anniversary celebration of the Singapore Green
+  Labelling Scheme, 16 March 2012
 subtitle: 16 Mar 2012
 permalink: /media/speeches/speech-by-ms-grace-fu-senior-minister-of-state-ministry-of-information-communications-and-the-arts-and-ministry-of-the-environment-and-water-resources
 ---
-
 ### SPEECH BY MS GRACE FU, SENIOR MINISTER OF STATE, MINISTRY OF INFORMATION, COMMUNICATIONS AND THE ARTS AND MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES, AT THE 20TH ANNIVERSARY CELEBRATION OF THE SINGAPORE GREEN LABELLING SCHEME, 16 MARCH 2012
 
 Ms Isabella Loh, Chairman, Singapore Environment Council
@@ -36,7 +38,6 @@ Indeed, the Green Labelling Scheme is actually one of the longstanding initiativ
 Ultimately, we need the concerted efforts of all stakeholders – the Government to provide the regulatory and fiscal framework, changing public mindset; the corporate sector to comply with standards and fulfil its corporate social responsibility to the environment by adopting responsible practices; and consumers that are aware of their individual responsibility to the environment that we live in, and to exercise their right as consumers. Green labelling is an important piece of the jigsaw on sustainable development. Even after 20 years, I am confident that the Green Label can grow even more in its stature as a trustworthy benchmark of environmental-friendliness and quality for everyone. Once again, congratulations to the SEC in taking the Green Label to the next level and doing her part in making Singapore more environmentally friendly. 
 
 Thank you for your time, and I wish you a fruitful day ahead.
-<br><br><br>
+<br><br>
 
-
-Source: [<a href="https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--senior-minister-of-state--ministry-of-information--communications-and-the-arts-and-ministry-of-the-environment-and-water-resources" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-ms-grace-fu--senior-minister-of-state--ministry-of-information--communications-and-the-arts-and-ministry-of-the-environment-and-water-resources)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20120316002.pdf)
