@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Joint Press Release by NCCS, MSE, and The European Commission - Singapore and the EU reaffirm commitment to climate action
+title: Joint Press Release by NCCS, MSE, and The European Commission - Singapore
+  and the EU reaffirm commitment to climate action
 subtitle: 08 July 2021
 permalink: /media/press-release/singapore-and-the-eu-reaffirm-commitment-to-climate-action
 ---
-
 ### JOINT PRESS RELEASE BY NCCS, MSE, AND THE EUROPEAN COMMISSION: SINGAPORE AND THE EU REAFFIRM COMMITMENT TO CLIMATE ACTION
 
 8 July 2021
