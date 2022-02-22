@@ -35,7 +35,7 @@ Consultations with relevant stakeholders on the support measures, transition fra
 
 On the international front, we have also enhanced our 2030 Nationally Determined Contribution (NDC) and submitted our 2050 Long-term Low Emissions Development Strategy (LEDS) under the Paris Agreement in March 2020. Singapore will also continue to contribute to international climate action. In alignment with the Glasgow Climate Pact signed at COP-26 in November 2021 which requests countries to update LEDS to achieve net zero “by or around mid-century”, industry and citizen stakeholder groups will also be consulted on a proposed net zero year before making a formal revision of our LEDS. 
 
-
+![Infographic - SG Climate Ambition and Carbon Tax](/images/Infographic%20-%20SG%20Climate%20Ambition%20and%20Carbon%20Tax.jpg)
 
 
 * [Frequently Asked Questions on Carbon Tax](https://www.nccs.gov.sg/faqs/carbon-tax/)
