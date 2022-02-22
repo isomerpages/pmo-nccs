@@ -75,7 +75,7 @@ Good Morning. A very warm welcome to everyone here at The Green Data Centre Foru
 
 4 Data Centres South East Asia
 
-5 Greener and Smarter ICTs, the Environment and Climate Change (Sep 2010) [<a href="http://www.oecd.org/document/40/0,3343,en_21571361_45683854_45982952_1_1_1_1,00.html" target="_blank">http://www.oecd.org/document/40/0,3343,en_21571361_45683854_45982952_1_1_1_1,00.html</a>](http://www.oecd.org/document/40/0,3343,en_21571361_45683854_45982952_1_1_1_1,00.html)
+5 Greener and Smarter ICTs, the Environment and Climate Change (Sep 2010) <br> [https://www.oecd-ilibrary.org/greener-and-smarter_5k9h3635kdbt.pdf?itemId=%2Fcontent%2Fpaper%2F5k9h3635kdbt-en&mimeType=pdf](https://www.oecd-ilibrary.org/greener-and-smarter_5k9h3635kdbt.pdf?itemId=%2Fcontent%2Fpaper%2F5k9h3635kdbt-en&mimeType=pdf)
 
 6 Source: ITSC Working Group on Green Data Centre Standards
 
