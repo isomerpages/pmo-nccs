@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speech by Minister for the Environment and Water Resources Dr Yaacob Ibrahim at the World GBC International Congress 2010, 13 September 2010
+title: Speech by Minister for the Environment and Water Resources Dr Yaacob
+  Ibrahim at the World GBC International Congress 2010, 13 September 2010
 subtitle: 13 Sep 2010
 permalink: /media/speeches/speech-by-minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim-at-the-world-gbc-international-congress-2010-13-september-2010
 ---
-
 ### SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM AT THE WORLD GBC INTERNATIONAL CONGRESS 2010, 13 SEPTEMBER 2010
 
 Mr Tony Arnel  
@@ -57,4 +57,4 @@ Thank you.
 <br><br><br>
 
 
-*Source*: [<a href="https://www.mewr.gov.sg/news/speech-by-dr-yaacob-ibrahim--minister-for-the-environment-and-water-resources--at-the-opening-of-the-worldgbc-international-congress-2010--singapore-green-building-council-green-building-conference-and-bex-asia-exhibition--13-september-2010--9-00-am" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/speech-by-dr-yaacob-ibrahim--minister-for-the-environment-and-water-resources--at-the-opening-of-the-worldgbc-international-congress-2010--singapore-green-building-council-green-building-conference-and-bex-asia-exhibition--13-september-2010--9-00-am)
+*Source*: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20100913001.pdf)
