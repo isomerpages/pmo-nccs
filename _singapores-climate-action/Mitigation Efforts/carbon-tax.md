@@ -27,7 +27,7 @@ In addition, as announced at Budget 2022, companies may also surrender high qual
 
 **Transition Framework**
 
-A transition framework will also be introduced to give existing emissions-intensive trade-exposed (EITE)  companies more time to adjust to a low-carbon economy. To help maintain business competitiveness in the near term and mitigate the risk of carbon leakage , existing facilities in EITE sectors will receive transitory allowances for part of their emissions. To continue to spur decarbonisation efforts and energy efficiency, the allowances will be determined based on efficiency standards and decarbonisation targets. The transition framework is not applicable to new facilities. 
+A transition framework will also be introduced to give existing emissions-intensive trade-exposed (EITE)  companies more time to adjust to a low-carbon economy. To help maintain business competitiveness in the near term and mitigate the risk of carbon leakage, existing facilities in EITE sectors will receive transitory allowances for part of their emissions. To continue to spur decarbonisation efforts and energy efficiency, the allowances will be determined based on efficiency standards and decarbonisation targets. The transition framework is not applicable to new facilities. 
 
 Consultations with relevant stakeholders on the support measures, transition framework, and the framework for the use of carbon credits are currently ongoing. Details will be shared in 2023, ahead of the implementation of the revised carbon tax framework in 2024. 
 
