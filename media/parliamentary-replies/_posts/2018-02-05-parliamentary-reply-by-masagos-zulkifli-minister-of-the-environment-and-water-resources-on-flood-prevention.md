@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  Parliamentary reply by Masagos Zulkifli, Minister of the Environment and Water Resources, on flood prevention
+title: Parliamentary reply by Masagos Zulkifli, Minister of the Environment and
+  Water Resources, on flood prevention
 subtitle: 05 Feb 2018
 permalink: /media/news/parliamentary-reply-by-masagos-zulkifli-minister-of-the-environment-and-water-resources-on-flood-prevention
 ---
-
-
 ### PARLIAMENTARY REPLY BY MASAGOS ZULKIFLI, MINISTER OF THE ENVIRONMENT AND WATER RESOURCES, ON FLOOD PREVENTION
 
 **Question by: Mr Kwek Hian Chuan Henry, Member of Parliament for Nee Soon GRC**
@@ -16,7 +15,7 @@ To ask the Minister for the Environment and Water Resources (a) whether the floo
 
 To ask the Minister for the Environment and Water Resources with regard to the flash flood on 8 January 2018 at Bedok North Avenue 4 (a) whether the ongoing enhancement drainage works at Bedok Canal was one of the reasons that limits the water capacity that can be stored or discharged through the canal during heavy downpours and high tides; (b) if so, what are the interim measures to prevent potential flash floods at this area until enhancement works are completed in 2019; and (c) what measures are in place to ensure the public living and working near any canals are alerted before possible water overflow occurs.
 
-Question by: Miss Cheng Li Hui, Member of Parliament for Tampines GRC
+**Question by: Miss Cheng Li Hui, Member of Parliament for Tampines GRC**
 
 To ask the Minister for the Environment and Water Resources (a) what current mechanisms are in place to notify motorists of impending flash floods in order to redirect traffic from affected areas; and (b) whether such mechanisms are can be further enhanced to achieve broader and more effective notifications.
 
@@ -80,4 +79,4 @@ So, we have to be cautious about making commitments that everything will be sett
 
 So, it is not easy to answer. Just because the drains will be ready by this time, the flash floods will be gone. For example, right now, there are about 500 submissions for plans to do retention tanks for those developments above 0.2 hectares. Of this, only 158 have been completed. Now, together with the drain and the receptor, source and completion of all the projects there, we will have a better chance of avoiding the flash floods. But like I said, it is impossible to totally eliminate them because this will occur. It is more important for us to give as much timely warning as possible to our public, to ensure that they do not traverse these flash floods, which will usually go away within 50 to 60 minutes. Perhaps, take a detour.
 
-Source : [<a href="https://www.mewr.gov.sg/news/oral-reply-by-masagos-zulkifli--minister-for-the-environment-and-water-resources--to-parliamentary-question-on-flood-prevention-on-5-feb-2018" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/oral-reply-by-masagos-zulkifli--minister-for-the-environment-and-water-resources--to-parliamentary-question-on-flood-prevention-on-5-feb-2018)
+Source : [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180205002.pdf)

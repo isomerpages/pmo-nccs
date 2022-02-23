@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Brief remarks by Minister for the Environment and Water Resources Dr Vivian Balakrishnan at the opening ceremony of the National Energy Efficiency Conference 2011 on 24 May 2011
+title: Brief remarks by Minister for the Environment and Water Resources Dr
+  Vivian Balakrishnan at the opening ceremony of the National Energy Efficiency
+  Conference 2011 on 24 May 2011
 subtitle: 24 May 2011
 permalink: /media/speeches/brief-remarks-by-minister-for-the-environment-and-water-resources-dr-vivian-balakrishnan-at-the-opening-ceremony-of-the-national-energy-efficiency-conference
 ---
-
 ### BRIEF REMARKS BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR VIVIAN BALAKRISHNAN AT THE OPENING CEREMONY OF THE NATIONAL ENERGY EFFICIENCY CONFERENCE 2011 ON 24 MAY 2011
 
 Mr Pasquale Pistorio
@@ -32,4 +33,4 @@ I am very pleased to join you this morning at the opening ceremony of the inaugu
 8.&nbsp;Having said that, I thank you all for being here and I look forward to hearing from Mr Pistorio. He has been a good and faithful friend to Singapore for many years. I am sure the minor surgery you had on your wrist will not affect your ability to inspire us. Thank you.
 <br><br><br>
 
-*Source*: [<a href="https://www.mewr.gov.sg/news/brief-remarks-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-national-energy-efficiency-conference-2011-on-24-may-2011--935am-at-suntec-city-convention-centre-ballroom" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/brief-remarks-by-dr-vivian-balakrishnan--minister-for-the-environment-and-water-resources--at-the-opening-ceremony-of-the-national-energy-efficiency-conference-2011-on-24-may-2011--935am-at-suntec-city-convention-centre-ballroom)
+*Source*: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20110524001.pdf)

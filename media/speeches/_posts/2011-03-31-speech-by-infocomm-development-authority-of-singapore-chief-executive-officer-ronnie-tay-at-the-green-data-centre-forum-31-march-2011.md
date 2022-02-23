@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speech by Infocomm Development Authority of Singapore Chief Executive Officer Ronnie Tay at the Green Data Centre Forum, 31 March 2011
+title: Speech by Infocomm Development Authority of Singapore Chief Executive
+  Officer Ronnie Tay at the Green Data Centre Forum, 31 March 2011
 subtitle: 31 Mar 2011
 permalink: /media/speeches/speech-by-infocomm-development-authority-of-singapore-chief-executive-officer-ronnie-tay-at-the-green-data-centre-forum-31-march-2011
 ---
-
 ### SPEECH BY INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE CHIEF EXECUTIVE OFFICER RONNIE TAY AT THE GREEN DATA CENTRE FORUM, 31 MARCH 2011
 
 RADM(NS) Tan Kai Hoe,  
@@ -67,15 +67,15 @@ Good Morning. A very warm welcome to everyone here at The Green Data Centre Foru
 23.&nbsp;I wish all of you a fruitful and informative forum. Thank you.
 
 <u>Notes:</u>    
-1 Singtel's Green Data Centre [<a href="https://www.singtel.com/business/singtel-global-services/content/building-a-green-data-centre-in-singapore" target="_blank">https://www.singtel.com/business/singtel-global-services/content/building-a-green-data-centre-in-singapore</a>](https://www.singtel.com/business/singtel-global-services/content/building-a-green-data-centre-in-singapore)
+1 Singtel's Green Data Centre <br>[<a href="https://www.singtel.com/business/singtel-global-services/content/building-a-green-data-centre-in-singapore" target="_blank">https://www.singtel.com/business/singtel-global-services/content/building-a-green-data-centre-in-singapore</a>](https://www.singtel.com/business/singtel-global-services/content/building-a-green-data-centre-in-singapore)
 
 2 Tata Communications opens data exchange centre in Singapore [<a href="https://www.tatacommunications.com/press-release/tata-communications-launches-international-cloud-services-singapore/" target="_blank">https://www.tatacommunications.com/press-release/tata-communications-launches-international-cloud-services-singapore/</a>](https://www.tatacommunications.com/press-release/tata-communications-launches-international-cloud-services-singapore/)
 
-3 Digital Realty Trust's Singapore Data Centre [<a href="http://datacenters.digitalrealtytrust.com/LocatorDetails?id=a028000000D78mdAAB" target="_blank">http://datacenters.digitalrealtytrust.com/LocatorDetails?id=a028000000D78mdAAB</a>](http://datacenters.digitalrealtytrust.com/LocatorDetails?id=a028000000D78mdAAB)
+3 Digital Realty Trust's Singapore Data Centre [https://www.digitalrealty.com/data-centers/singapore](https://www.digitalrealty.com/data-centers/singapore)
 
 4 Data Centres South East Asia
 
-5 Greener and Smarter ICTs, the Environment and Climate Change (Sep 2010) [<a href="http://www.oecd.org/document/40/0,3343,en_21571361_45683854_45982952_1_1_1_1,00.html" target="_blank">http://www.oecd.org/document/40/0,3343,en_21571361_45683854_45982952_1_1_1_1,00.html</a>](http://www.oecd.org/document/40/0,3343,en_21571361_45683854_45982952_1_1_1_1,00.html)
+5 Greener and Smarter ICTs, the Environment and Climate Change (Sep 2010) <br> [https://www.oecd-ilibrary.org/greener-and-smarter_5k9h3635kdbt.pdf?itemId=%2Fcontent%2Fpaper%2F5k9h3635kdbt-en&mimeType=pdf](https://www.oecd-ilibrary.org/greener-and-smarter_5k9h3635kdbt.pdf?itemId=%2Fcontent%2Fpaper%2F5k9h3635kdbt-en&mimeType=pdf)
 
 6 Source: ITSC Working Group on Green Data Centre Standards
 

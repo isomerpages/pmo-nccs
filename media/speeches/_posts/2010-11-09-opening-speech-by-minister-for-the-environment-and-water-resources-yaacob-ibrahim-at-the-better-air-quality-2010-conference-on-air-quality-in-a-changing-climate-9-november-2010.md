@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Opening speech by Minister for the Environment and Water Resources Yaacob Ibrahim at the Better Air Quality 2010 Conference on Air Quality in a Changing Climate, 9 November 2010
+title: Opening speech by Minister for the Environment and Water Resources Yaacob
+  Ibrahim at the Better Air Quality 2010 Conference on Air Quality in a Changing
+  Climate, 9 November 2010
 subtitle: 9 Nov 2010
 permalink: /media/speeches/opening-speech-by-minister-for-the-environment-and-water-resources-yaacob-ibrahim-at-the-better-air-quality-2010-conference-on-air-quality-in-a-changing-climate-9-november-2010
 ---
-
 ### OPENING SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES YAACOB IBRAHIM AT THE BETTER AIR QUALITY 2010 CONFERENCE ON AIR QUALITY IN A CHANGING CLIMATE, 9 NOVEMBER 2010
 
 Ms Janette Sadik-Khan  
@@ -68,4 +69,4 @@ Ladies and Gentlemen,
 <br><br><br>
 
 
-*Source*: [<a href="https://www.mewr.gov.sg/news/opening-speech-by-dr-yaacob-ibrahim--minister-for-the-environment-and-water-resources-at-the-better-air-quality-2010-baq-2010-conference-on-air-quality-in-a-changing-climate-on-tuesday--9-november-2010--900-am--at-suntec-singapore-convention-center" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/opening-speech-by-dr-yaacob-ibrahim--minister-for-the-environment-and-water-resources-at-the-better-air-quality-2010-baq-2010-conference-on-air-quality-in-a-changing-climate-on-tuesday--9-november-2010--900-am--at-suntec-singapore-convention-center)
+*Source*: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20101109001.pdf)
