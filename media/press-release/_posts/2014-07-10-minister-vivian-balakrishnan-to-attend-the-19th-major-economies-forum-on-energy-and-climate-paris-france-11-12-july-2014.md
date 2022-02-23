@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Minister Vivian Balakrishnan to attend the 19th Major Economies Forum on Energy and Climate, Paris, France, 11-12 July 2014; and Petersberg Climate Dialogue V, Berlin, Germany, 13-15 July 2014
+title: Minister Vivian Balakrishnan to attend the 19th Major Economies Forum on
+  Energy and Climate, Paris, France, 11-12 July 2014; and Petersberg Climate
+  Dialogue V, Berlin, Germany, 13-15 July 2014
 subtitle: 10 Jul 2014
 permalink: /media/press-release/minister-vivian-balakrishnan-to-attend-the-19th-major-economies-forum-on-energy-and-climate-paris-france-11-12-july-2014
 ---
-
 ### MINISTER VIVIAN BALAKRISHNAN TO ATTEND THE 19TH MAJOR ECONOMIES FORUM ON ENERGY AND CLIMATE, PARIS, FRANCE, 11-12 JULY 2014; AND PETERSBERG CLIMATE DIALOGUE V, BERLIN, GERMANY, 13-15 JULY 2014
 
 Minister for the Environment and Water Resources Dr Vivian Balakrishnan will attend the 19th Major Economies Forum (MEF) on Energy and Climate in Paris, France, on 11 and 12 July 2014, and the Petersberg Climate Dialogue V in Berlin, Germany, from 13 to 15 July 2014.
@@ -14,4 +15,4 @@ Initiated in 2009 by the United States, the MEF brings together 17 major economi
 The Petersberg Climate Dialogue is an annual forum where Ministers from about 35 countries meet to exchange views on the international climate change negotiations. The Dialogue will be co-hosted by Germany and Peru, and will serve as a preparatory meeting for the 20th COP and 10th CMP in Lima that will be hosted by Peru in December 2014.
 
 
-Source: [<a href="https://www.mewr.gov.sg/news/minister-vivian-balakrishnan-to-attend-the-19th-major-economies-forum-on-energy-and-climate--paris--france--11-12-july-2014-and-petersberg-climate-dialogue-v--berlin--germany--13-15-july-2014" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/minister-vivian-balakrishnan-to-attend-the-19th-major-economies-forum-on-energy-and-climate--paris--france--11-12-july-2014-and-petersberg-climate-dialogue-v--berlin--germany--13-15-july-2014)
+Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20140710001.pdf)
