@@ -4,7 +4,6 @@ title: Launch of the Climate Science Experts Network
 subtitle: 3 Feb 2012
 permalink: /media/press-release/launch-of-the-climate-science-experts-network
 ---
-
 ### LAUNCH OF THE CLIMATE SCIENCE EXPERTS NETWORK
 
 **Singapore, 3 February 2012** - The Meteorological Service Singapore (MSS) is engaging both local and overseas researchers through a new platform for technical sharing: the Climate Science Experts Network (CSEN). MSS will organise CSEN seminars a few times a year, and welcomes Singapore-based scientists and engineers who are active in climate research to participate.
@@ -24,4 +23,4 @@ Local researchers shared their work on topics such as sea-level rise, deforestat
 Scientists and engineers interested in joining the Climate Science Experts Network can contact the Centre Manager of the CCRS, Ms Krysania Tan (Krysania_TAN@nea.gov.sg).
 
 
-Source: [<a href="https://www.mewr.gov.sg/news/launch-of-the-climate-science-experts-network" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/launch-of-the-climate-science-experts-network)
+Source: [Climate Science Experts Network](https://go.gov.sg/csen-inaugural-meeting-31jan2012)
