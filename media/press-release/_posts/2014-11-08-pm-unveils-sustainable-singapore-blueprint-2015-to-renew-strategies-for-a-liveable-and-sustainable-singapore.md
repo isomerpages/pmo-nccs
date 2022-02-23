@@ -1,10 +1,10 @@
 ---
 layout: post
-title: PM unveils Sustainable Singapore Blueprint 2015 to renew strategies for a liveable and sustainable Singapore
+title: PM unveils Sustainable Singapore Blueprint 2015 to renew strategies for a
+  liveable and sustainable Singapore
 subtitle: 8 Nov 2014
 permalink: /media/press-release/pm-unveils-sustainable-singapore-blueprint-2015-to-renew-strategies-for-a-liveable-and-sustainable-singapore
 ---
-
 ### PM UNVEILS SUSTAINABLE SINGAPORE BLUEPRINT 2015 TO RENEW STRATEGIES FOR A LIVEABLE AND SUSTAINABLE SINGAPORE
 
 Prime Minister Lee Hsien Loong unveiled today the Sustainable Singapore Blueprint (SSB) 2015, which outlines a national vision with new and bold plans to create a more liveable and sustainable future for Singaporeans – where Singapore can continue to be an exceptional Home, City and Community. 
@@ -39,4 +39,4 @@ To achieve its desired targets, the Government will commit $1.5 billion to suppo
 
 *[1] The Home, City and Community themes were based on the environmental vision developed through the national exercise conducted by the Singapore Environment Council (SEC) to understand Singaporeans' environmental values and to redefine a vision for our environment.*
 
-Source: [<a href="https://www.mewr.gov.sg/news/pm-unveils-sustainable-singapore-blueprint-2015-to-renew-strategies-for-a-liveable-and-sustainable-singapore" target="_blank">Ministry of Environment and Water Resources</a>](https://www.mewr.gov.sg/news/pm-unveils-sustainable-singapore-blueprint-2015-to-renew-strategies-for-a-liveable-and-sustainable-singapore) or [<a href="https://www.mnd.gov.sg/" target="_blank">Ministry of National Development</a>](https://www.mnd.gov.sg/)
+Source: [<a href="https://www.mnd.gov.sg/" target="_blank">Ministry of National Development</a>](https://www.mnd.gov.sg/) or [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20141108001.pdf)
