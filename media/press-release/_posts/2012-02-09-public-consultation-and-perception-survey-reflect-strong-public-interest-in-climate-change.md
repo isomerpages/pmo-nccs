@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Public Consultation and Perception Survey reflect strong public interest in climate change
+title: Public Consultation and Perception Survey reflect strong public interest
+  in climate change
 subtitle: 9 Feb 2012
 permalink: /media/press-release/public-consultation-and-perception-survey-reflect-strong-public-interest-in-climate-change
 ---
-
 ### PUBLIC CONSULTATION AND PERCEPTION SURVEY REFLECT STRONG PUBLIC INTEREST IN CLIMATE CHANGE
 
 **Singapore, 9 February 2012** - As part of the development of the National Climate Change Strategy 2012 (NCCS-2012) and to engage the public on climate change-related issues, the National Climate Change Secretariat (NCCS), together with the agencies under the Inter-Ministerial Committee on Climate Change (IMCCC), conducted consultations from September 2011 to January 2012 which received over 1,000 comments from stakeholders and members of the public.
 
-To reach different segments of the public, consultations were organised through various channels. These included an online consultation portal ([<a href="https://www.nccs.gov.sg/public-consultation/overview" target="_blank">www.nccs.gov.sg/public-consultation</a>](https://www.nccs.gov.sg/public-consultation/overview)), focus group discussions and public forums. The online consultation and focus group discussions sought feedback from households, businesses and subject experts in areas such as transport, energy efficiency in buildings, homes and businesses, as well as opportunities arising from addressing climate change. The public forums were held in partnership with the five Community Development Councils (CDCs) to reach out to grassroots leaders and residents on how they could play a part to address climate change.
+To reach different segments of the public, consultations were organised through various channels. These included an online consultation portal (https://www.reach.gov.sg/Participate/Public-Consultation), focus group discussions and public forums. The online consultation and focus group discussions sought feedback from households, businesses and subject experts in areas such as transport, energy efficiency in buildings, homes and businesses, as well as opportunities arising from addressing climate change. The public forums were held in partnership with the five Community Development Councils (CDCs) to reach out to grassroots leaders and residents on how they could play a part to address climate change.
 
 Many suggestions on ways to reduce emissions were received. They included enhancing energy labels of household appliances to help consumers make more informed decisions on purchase of energy efficient appliances; expanding the Green Mark scheme to incorporate more criteria on environment sustainability; developing a depository of energy efficient practices as a reference for small and medium enterprises (SMEs) to highlight how energy efficient practices can impact business profitability; greater government support for green vehicles; and incorporating climate change issues formally into the school curriculum. Relevant government agencies are looking into the suggestions. (Excerpts of the public feedback received and the Government’s responses are at [<a href="/files/docs/default-source/news-documents/annexa.pdf" target="_blank">Annex A</a>](/files/docs/default-source/news-documents/annexa.pdf)).
 
@@ -37,4 +37,3 @@ The NCCS was set up as a dedicated agency under the Prime Minister’s Office wi
 **About the National Climate Change Strategy 2012 (NCCS-2012)**
 
 The National Climate Change Strategy 2012 (NCCS-2012) is a document being produced by NCCS and the IMCCC agencies. Planned for release in mid-2012, the NCCS-2012 will explain Singapore’s efforts to reduce emissions, studies to understand the impacts of climate change, the opportunities arising from climate change, as well as the collective effort and partnerships needed with all stakeholders to effectively address the issues and plans for climate change.
-
