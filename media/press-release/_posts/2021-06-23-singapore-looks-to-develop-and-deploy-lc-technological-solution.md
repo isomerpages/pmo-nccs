@@ -45,4 +45,4 @@ Following the release of the both reports, <u>Singapore will also seek to partne
 
 ---------
 
-*Annex information viewable by clicking [<a href="/files/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf" target="_blank">here</a>](/files/docs/default-source/news-documents/hc_ccus_press_release_230621.pdf).*
+*Annex information viewable by clicking [here.](https://go.gov.sg/hydrogen-ccus-press-release-23june2021)*
