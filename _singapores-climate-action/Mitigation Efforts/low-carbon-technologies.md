@@ -119,7 +119,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="policies-container">
 <section class="cards">
     <div class="card">
-        <a href="/singapores-climate-action/low-carbon-tech/hc">
+        <a href="https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/hc">
                 <img src="/images/h2-study-report.jpg">
             <div class="card-content">
                 <h6>For the Hydrogen feasibility study report, click here</h6>
@@ -127,7 +127,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
         <div class="card">
-        <a href="/singapores-climate-action/low-carbon-tech/ccus">
+        <a href="https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/ccus">
                 <img src="/images/ccus-study-report.jpg">
             <div class="card-content">
                 <h6>For the CCUS feasibility study report, click here</h6>
