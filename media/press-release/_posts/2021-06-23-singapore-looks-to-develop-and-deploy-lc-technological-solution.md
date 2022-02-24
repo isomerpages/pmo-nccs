@@ -35,8 +35,8 @@ Following the release of the both reports, <u>Singapore will also seek to partne
 
 <sup>1</sup> More information on Singapore’s Long-Term Low-Emissions Development Strategy can be found in Annex D.
 <br><sup>2</sup> More information on the Singapore Green Plan 2030 can be found in Annex E.
-<br><sup>3</sup> More information on "Study of Hydrogen Imports and Downstream Applications for Singapore” can be found [here](https://go.gov.sg/study-of-hydrogen-imports-and-downstream-applications-for-singapore).
-<br><sup>4</sup> More information on Study on “Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors” can be found [here](https://go.gov.sg/carbon-capture-utilisation-and-storage-decarbonisation-pathway-for-singapore-energy-and-chemical-sectors-pdf).
+<br><sup>3</sup> More information on "Study of Hydrogen Imports and Downstream Applications for Singapore” can be found [here](https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/hc).
+<br><sup>4</sup> More information on Study on “Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors” can be found [here](https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/ccus).
 <br><sup>5</sup> More information (including topics of interest) can be found at <a href= "https://www.a-star.edu.sg/Research/funding-opportunities/lcer-fi-grant">this link</a>.
 <br><sup>6</sup> Keppel Data Centres announced an MoU with Kawasaki Heavy Industries, Mitsui O.S.K. Lines, Vopak LNG, and Linde to study the commercial viability of a liquefied hydrogen supply chain in May 2021.
 <br><sup>7</sup> Chiyoda, Mitsubishi, PSA, Jurong Port, City Gas, Sembcorp, SLNG (with the support of MPA and NRF) signed an MoU to develop a business case for the technical and commercial feasibility of hydrogen import to Singapore.
