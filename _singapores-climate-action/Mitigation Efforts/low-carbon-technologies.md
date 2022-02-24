@@ -3,13 +3,12 @@ title: Low-carbon Technologies
 permalink: /singapores-climate-action/low-carbon-tech/
 third_nav_title: Mitigation Efforts
 ---
-
 ### LOW-CARBON TECHNOLOGIES
 
 Singapore is studying emerging advanced low-carbon technologies such as Carbon Capture, Utilisation and Storage (CCUS) and low-carbon hydrogen as potential longer-term options to reduce Singapore’s carbon emissions. This includes the following studies which were concluded in June 2021:  
 
-1.	The “Study of Hydrogen Imports and Downstream Applications for Singapore” was jointly commissioned by the National Climate Change Secretariat (NCCS), Singapore Economic Development Board (EDB) and Energy Market Authority (EMA); and
-1.	The study on “Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors” was jointly commissioned by NCCS and EDB. 
+1.	The “[Study of Hydrogen Imports and Downstream Applications for Singapore](https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/hc)” was jointly commissioned by the National Climate Change Secretariat (NCCS), Singapore Economic Development Board (EDB) and Energy Market Authority (EMA); and
+1.	The study on “[Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors](https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/ccus)” was jointly commissioned by NCCS and EDB. 
 
 These studies highlighted the pathways for low-carbon hydrogen and CCUS that could be relevant for Singapore, and the barriers to deployment that needed to be overcome. Both studies were able to garner valuable stakeholder feedback from the industry and research community. 
 
@@ -120,7 +119,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="policies-container">
 <section class="cards">
     <div class="card">
-        <a href="/singapores-climate-action/low-carbon-tech/hc">
+        <a href="https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/hc">
                 <img src="/images/h2-study-report.jpg">
             <div class="card-content">
                 <h6>For the Hydrogen feasibility study report, click here</h6>
@@ -128,7 +127,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
         <div class="card">
-        <a href="/singapores-climate-action/low-carbon-tech/ccus">
+        <a href="https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/ccus">
                 <img src="/images/ccus-study-report.jpg">
             <div class="card-content">
                 <h6>For the CCUS feasibility study report, click here</h6>
@@ -164,4 +163,3 @@ Research projects could include technologies that enable the effective capture o
 This funding initiative is a multi-agency effort. It is jointly fronted by the [<a href="https://www.a-star.edu.sg/" target="_blank">Agency for Science, Technology and Research (A*STAR)</a>](https://www.a-star.edu.sg/), [<a href="https://www.edb.gov.sg/" target="_blank">Economic Development Board (EDB)</a>](https://www.edb.gov.sg/), [<a href="https://www.ema.gov.sg/index.aspx" target="_blank">Energy Market Authority (EMA)</a>](https://www.ema.gov.sg/index.aspx), National Climate Change Secretariat and the [<a href="https://www.nrf.gov.sg/" target="_blank">National Research Foundation</a>](https://www.nrf.gov.sg/).
 
 It will be co-driven by EDB and EMA to ensure projects are relevant to the industrial and power sectors, with A*STAR as the implementing agency on behalf of the government.
-
