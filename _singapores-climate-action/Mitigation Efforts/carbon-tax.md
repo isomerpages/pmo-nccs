@@ -37,6 +37,6 @@ On the international front, we have also enhanced our 2030 Nationally Determined
 
 
 ![Infographic SG Climate Ambition and Carbon Tax 2022](/images/Infographic-SG Climate Action & Carbon Tax.jpg)
-See infographic [here](https://go.gov.sg/infographic-sg-climate-ambition-and-carbon-tax-2022).
 <br>
+
 * [Frequently Asked Questions on Carbon Tax](https://www.nccs.gov.sg/faqs/carbon-tax/)
