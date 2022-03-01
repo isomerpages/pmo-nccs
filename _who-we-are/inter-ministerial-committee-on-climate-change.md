@@ -2,7 +2,6 @@
 title: Inter-Ministerial Committee On Climate Change
 permalink: /who-we-are/inter-ministerial-committee-on-climate-change/
 ---
-
 ### INTER-MINISTERIAL COMMITTEE ON CLIMATE CHANGE
 
 The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Government coordination on climate change policies to ensure that Singapore is prepared for the impacts of climate change. Established in 2007, IMCCC is chaired by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security.
@@ -41,6 +40,7 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 
 * Mr Albert Chua, Permanent Secretary (Sustainability and the Environment)  
 * Mrs Tan Ching Yee, Permanent Secretary (Finance)  
+* Ms Lai Wei Lin, Second Permanent Secretary (Finance)
 * BG (NS) Chee Wee Kiong, Permanent Secretary (Foreign Affairs)  
 * Mrs Ow Foong Pheng, Permanent Secretary (National Development)  
 * Ms Chan Lai Fung, Permanent Secretary (National Research and Development)  
@@ -72,4 +72,4 @@ The Green Economy Working Group (GEWG) coordinates and enables the growth of Sin
 
 **Communications and Engagement Working Group**
 
-Communications and Engagement Working Group (CEWG) establishes communications priorities, to achieve greater whole-of-government coordination in climate change communications and engagement efforts, to build consensus on Singapore’s climate change plans and targets. 
+Communications and Engagement Working Group (CEWG) establishes communications priorities, to achieve greater whole-of-government coordination in climate change communications and engagement efforts, to build consensus on Singapore’s climate change plans and targets.
