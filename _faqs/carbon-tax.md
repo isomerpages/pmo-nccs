@@ -14,7 +14,7 @@ The tax is applied on facilities that directly emit at least 25,000 tCO<sub>2</s
 
 We will continue to consult industry and will provide sufficient transition period for the inclusion of NF<sub>3</sub>. Details on when it would be covered by carbon tax will be announced in due course. 
 
-In all, the carbon tax currently covers 80% of our total GHG emissions from about 50 facilities mainly from the manufacturing, power, waste, and water sectors. Facilities in other sectors would also indirectly face a carbon price on the electricity they consume as power generation companies are expected to pass on some degree of their own tax burden through increased electricity tariffs. When we account for fuel excise duties that incentivise reduction of transport emissions, the overall coverage rises to about 90%.
+In all, the carbon tax currently covers 80% of our total GHG emissions from about 50 facilities from the manufacturing, power, waste, and water sectors. Facilities in other sectors would also indirectly face a carbon price on the electricity they consume as power generation companies are expected to pass on some degree of their own tax burden through increased electricity tariffs. When we account for fuel excise duties that incentivise reduction of transport emissions, the overall coverage rises to about 90%.
 
 **3. How are emissions-intensive trade-exposed (EITE) sectors determined? Why is there a need for the transition framework for EITE sectors?**
 
