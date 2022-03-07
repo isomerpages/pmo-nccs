@@ -5,13 +5,9 @@ date: 2022-03-07
 layout: post
 description: ""
 ---
-Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean, Committee of Supply 2022, 8 March 2022
+**SPEECH BY SENIOR MINISTER AND COORDINATING MINISTER FOR NATIONAL SECURITY TEO CHEE HEAN, COMMITTEE OF SUPPLY 2022, 8 MARCH 2022**
 
-8 Mar 2022
-
-SPEECH BY SENIOR MINISTER AND COORDINATING MINISTER FOR NATIONAL SECURITY TEO CHEE HEAN, COMMITTEE OF SUPPLY 2022, 8 MARCH 2022
-
-A Decisive Move to Net Zero
+***A Decisive Move to Net Zero***
 
 Climate change is a real and existential threat. The latest findings from Work Group 2 of the Intergovernmental Panel on Climate Change (IPCC)’s Sixth Assessment Report, which were released last week, assesses that the impacts of climate change are more apparent and will affect us more severely than previously thought. We are already seeing some of these effects – stronger and longer heat waves, unprecedented droughts and floods, sea-level rise and storm surges affecting communities all over the world. 
 
@@ -29,7 +25,7 @@ Mr Chairman, this is a significant improvement to our current LEDS. We are makin
 
 Before we finalise our plans and declare a specific net zero year, we would like to consult closely with industry and citizen stakeholder groups. This is because raising climate ambition will bring about benefits but also entail some costs and trade-offs. These engagements will take place under the Green Plan, and our broader SG Together movement. We will at the same time review our 2030 NDC. We will then declare and make a formal revision to both our NDC and LEDS later this year.
 
-Why We Can: International Developments 
+**Why We Can: International Developments** 
 
 Let me elaborate on why we assess that we can make this decisive move now, and why we should do so. 
 
