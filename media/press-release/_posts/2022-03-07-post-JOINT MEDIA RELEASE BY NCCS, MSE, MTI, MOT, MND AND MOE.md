@@ -1,6 +1,6 @@
 ---
-title: JOINT MEDIA RELEASE BY NCCS, MSE, MTI, MOT, MND AND MOE
-permalink: /media/press-release/joint-media-release-by-nccs-mse-mti-mot-mnd-and-moe-good-p
+title: JOINT MEDIA RELEASE BY NCCS, MSE, MTI, MOT, MND AND MOE – GOOD PROGRESS MADE ON THE SINGAPORE GREEN PLAN 2030 AS GOVERNMENT ACCELERATES DECARBONISATION AND SUSTAINABILITY EFFORTS 
+permalink: /media/press-release/joint-media-release-by-nccs-mse-mti-mot-mnd-and-moe-good-progress-made-on-the-singapore-green-plan-2030-as-government-accelerates-decarbonisation-and-sustainability-efforts
 date: 2022-03-07
 layout: post
 description: ""
@@ -39,4 +39,4 @@ Updates on the key targets and initiatives of the Government, in support of our 
 
 
 
-Annex information viewable by clicking [here](www.google.com).
+*Annex information viewable by clicking [here](www.google.com)*.
