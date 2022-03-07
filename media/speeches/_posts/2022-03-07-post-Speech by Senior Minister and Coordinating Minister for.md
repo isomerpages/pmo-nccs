@@ -27,7 +27,7 @@ Before we finalise our plans and declare a specific net zero year, we would like
 
 **Why We Can: International Developments** 
 
-Let me elaborate on why we assess that we can make this decisive move now, and why we should do so. 
+Let me elaborate on why we assess that we ***can*** make this decisive move now, and why we ***should*** do so. 
 
 First, COP-26 successfully finalised the rulebook for international carbon markets. Carbon markets allow Singapore to access global mitigation opportunities through international carbon credits and provide an additional option to decarbonise.
 
@@ -47,7 +47,7 @@ With these positive international developments, we now have confidence that Sing
 
 **Why We Should: A Decisive Shift to a Decarbonised Economy**
 
-Mr Chairman, I have just explained why we now can move decisively to net zero. I will explain why we should make a decisive shift. We want to take advantage of the positive global trends in sustainable financing and corporate net zero targets to make Singapore an attractive place for green economic activities in industry, services, and finance. This will re-position our economy and establish our competitive edge early in a low-carbon future. Let me describe some of the potential new growth opportunities.
+Mr Chairman, I have just explained why we now ***can*** move decisively to net zero. I will explain why we ***should*** make a decisive shift. We want to take advantage of the positive global trends in sustainable financing and corporate net zero targets to make Singapore an attractive place for green economic activities in industry, services, and finance. This will re-position our economy and establish our competitive edge early in a low-carbon future. Let me describe some of the potential new growth opportunities.
 
 First, in existing industries. Manufacturing makes up about 20% of our GDP. The world is moving away from traditional carbon-intensive industries. For example, the energy and chemicals sector is reorientating itself to pursue sustainable production and new areas of growth. Singapore is positioning itself as a first-mover to capture these opportunities and jobs. In November last year, our Economic Development Board announced the “Sustainable Jurong Island” plan to transform Jurong Island into a Sustainable Energy and Chemicals Park that makes and exports sustainable products globally. We are also moving ahead with plans to be a hub for sustainable aviation fuels, and in the future for hydrogen. Several major companies which already have a strong presence here have committed to making major investments in their operations and products to align with our mutual goals for zero emissions by mid-century. We hope to attract new companies too, which share our sustainable net-zero ambition. 
 
