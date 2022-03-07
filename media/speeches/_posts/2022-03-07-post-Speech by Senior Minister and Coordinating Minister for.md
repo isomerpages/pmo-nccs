@@ -92,4 +92,3 @@ Mr Chairman, the carbon tax is part of our comprehensive package of measures to 
 Mr Chairman, all of us have a part to play. We can and we should make a decisive move to net zero. We must advance on this sustainability journey together as a nation, and we will require the participation and support of all Singaporeans to do so. There will be costs to bear and trade-offs to be made. But this move will reposition Singapore and bring significant benefits for generations of Singaporeans. By moving decisively now, we are charting the path to a cleaner, greener Singapore for our future generations – with a sustainable environment and lifestyles, a forward-looking economy with new green jobs, and a brighter future at the fore-front of a low-carbon world.  
 
 For more information on the Joint Segment on Sustainabiility at the Committee of Supply debates 2021, please visit: https://www.mse.gov.sg/news/committee-of-supply/.
-
