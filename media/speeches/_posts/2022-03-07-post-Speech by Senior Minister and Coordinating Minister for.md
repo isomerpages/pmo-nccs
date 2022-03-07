@@ -45,7 +45,7 @@ Sustainable private financing and corporate net-zero targets have a powerful mut
 
 With these positive international developments, we now have confidence that Singapore can more effectively find solutions to address our alternative energy constraints. We cannot wish these constraints away, but we now have more options to enable us to reach net zero earlier. 
 
-Why We Should: A Decisive Shift to a Decarbonised Economy
+**Why We Should: A Decisive Shift to a Decarbonised Economy**
 
 Mr Chairman, I have just explained why we now can move decisively to net zero. I will explain why we should make a decisive shift. We want to take advantage of the positive global trends in sustainable financing and corporate net zero targets to make Singapore an attractive place for green economic activities in industry, services, and finance. This will re-position our economy and establish our competitive edge early in a low-carbon future. Let me describe some of the potential new growth opportunities.
 
@@ -57,7 +57,7 @@ Third, growing new green sectors. We are developing Singapore as an internationa
 
 We will signal to global markets and corporates that Singapore will be a good partner and location for forward looking companies which have clear low-carbon goals. This will create good jobs for Singaporeans and enhance Singapore’s value proposition in the future low-carbon global economy. 
 
-An Appropriate Carbon Price Signal to Enable a Low-Carbon Economy and Society 
+**An Appropriate Carbon Price Signal to Enable a Low-Carbon Economy and Society** 
 
 Mr Don Wee, Mr Gan Thiam Poh and Ms Cheryl Chan asked how the revised carbon tax levels will support our green transition. As we make a decisive shift towards a low-carbon future, we need to provide the right price signal to shape responsible behaviour. We have always priced key resources like water, energy, and waste disposal properly so that consumers and businesses make appropriate decisions taking the true costs into account.
 
@@ -81,7 +81,7 @@ Assoc Prof Jamus Lim asked how we can catalyse the purchase of high-quality carb
 
 We will have clear environmental integrity criteria to ensure that the carbon credits surrendered by businesses to offset their emissions are aligned with international carbon market rules finalised at COP-26, and reflect an actual reduction in global emissions. 
 
-Making the Decisive Shift Together
+**Making the Decisive Shift Together**
 
 Mr Chairman, the carbon tax is part of our comprehensive package of measures to move our nation decisively towards a low-carbon future. Last year, we launched the Green Plan, a whole-of-nation movement to advance our national agenda on sustainable development. All the Green Plan Ministries have gathered again during this COS to explain how the various initiatives under the Green Plan will be enhanced. 
 
