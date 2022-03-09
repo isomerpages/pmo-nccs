@@ -37,7 +37,20 @@ Updates on the key targets and initiatives of the Government, in support of our 
 <br>
 
 -------------------------------------------------------------------
+**Annex A**: Enhancements to the Energy Efficiency Fund (E2F) – Energy Efficient Technologies Grant
+<br>
+**Annex B**: RIE2025 Funding
+<br>
+**Annex C**: SG Eco Fund’s Second Grant Call
+<br>
+**Annex D**: Reducing Peak Land Transport Emissions by 80%
+<br>
+**Annex E**: Strengthening Our Contributions towards the Green Economy and Empowering the Next
+Generation of Sustainability Leaders
+<br>
+**Annex F**: Update on Key Targets and Initiatives of the Singapore Green Plan
 
+--------
 
 Annex information viewable by clicking [here](https://go.gov.sg/joint-media-release-on-joint-segment-on-the-singapore-green-plan-2030-cos2022-9-march-2022). <br>
 Infographic on the enhanced Singapore Green Plan 2030 initiatives viewable by clicking [here]( https://go.gov.sg/infographic-sgp2022-overview).
