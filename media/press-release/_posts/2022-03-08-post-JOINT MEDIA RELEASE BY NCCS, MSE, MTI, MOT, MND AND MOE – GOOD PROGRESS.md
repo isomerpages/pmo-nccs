@@ -34,10 +34,10 @@ As we continue to transform Singapore into a City in Nature, Minister Lee shared
 Mr Chan Chun Sing, Minister for Education, highlighted the important role of our Institutes of Higher Learning (IHL) in making sustainability a competitive advantage for Singapore. He shared how IHLs are making sustainability a strategic priority in their plans and are leveraging their research and innovation capabilities to develop new products and solutions, in partnership with and support of local industry. He also spoke on how the IHLs are developing the skills and competencies among graduates and the workforce so that they can access new green opportunities. *(See Annex E: Strengthening Our Contributions towards the Green Economy and Empowering the Next Generation of Sustainability Leaders.)*
 
 Updates on the key targets and initiatives of the Government, in support of our enhanced Nationally Determined Contribution, Long-Term Low-Emissions Development Strategy, and the Green Plan are summarised in *Annex F*.
-<br><br>
+<br>
 
 -------------------------------------------------------------------
 
+
 Annex information viewable by clicking [here](https://go.gov.sg/joint-media-release-on-joint-segment-on-the-singapore-green-plan-2030-cos2022-9-march-2022). <br>
 Infographic on the enhanced Singapore Green Plan 2030 initiatives viewable by clicking [here]( https://go.gov.sg/infographic-sgp2022-overview).
-
