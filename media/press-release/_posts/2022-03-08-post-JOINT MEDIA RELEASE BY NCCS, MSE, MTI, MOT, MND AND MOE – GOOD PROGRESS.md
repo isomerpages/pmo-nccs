@@ -1,11 +1,12 @@
 ---
-title: GOOD PROGRESS MADE ON THE SINGAPORE GREEN PLAN 2030 AS GOVERNMENT ACCELERATES DECARBONISATION AND SUSTAINABILITY EFFORTS
+title: Good Progress Made On The Singapore Green Plan 2030 As Government
+  Accelerates Decarbonisation And Sustainability Efforts
 permalink: /media/press-release/joint-media-release-by-nccs-mse-mti-mot-mnd-and-moe-good-progress-made-on-the-singapore-green-plan-2030-as-government-accelerates-decarbonisation-and-sustainability-efforts
 date: 2022-03-08
 layout: post
 description: ""
 ---
-JOINT MEDIA RELEASE BY NCCS, MSE, MTI, MOT, MND AND MOE: GOOD PROGRESS MADE ON THE SINGAPORE GREEN PLAN 2030 AS GOVERNMENT ACCELERATES DECARBONISATION AND SUSTAINABILITY EFFORTS 
+**JOINT MEDIA RELEASE BY NCCS, MSE, MTI, MOT, MND AND MOE: GOOD PROGRESS MADE ON THE SINGAPORE GREEN PLAN 2030 AS GOVERNMENT ACCELERATES DECARBONISATION AND SUSTAINABILITY EFFORTS** 
 
 8 March 2022
 
