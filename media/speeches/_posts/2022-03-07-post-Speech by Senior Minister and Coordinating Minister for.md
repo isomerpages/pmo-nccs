@@ -1,7 +1,7 @@
 ---
 title: Speech by Senior Minister and Coordinating Minister for National Security
-  Teo Chee Hean, Committee of Supply 2021, 8 March 2022
-permalink: /media/speeches/speech-by-senior-minister-and-coordinating-minister-for-national-security-teo-chee-hean-committee-of-supply-2021-8-march-2022
+  Teo Chee Hean, Committee of Supply 2022, 8 March 2022
+permalink: /media/speeches/speech-by-senior-minister-and-coordinating-minister-for-national-security-teo-chee-hean-committee-of-supply-2022-8-march-2022
 date: 2022-03-08
 layout: post
 description: ""
@@ -90,4 +90,4 @@ Mr Chairman, all of us have a part to play. We can and we should make this decis
 
 Thank you, Mr Chairman.
 
-*For more information on the Joint Segment on Sustainability at the Committee of Supply debates 2022, please visit: [https://www.mse.gov.sg/news/committee-of-supply/](https://www.mse.gov.sg/news/committee-of-supply/).*
+*For more information on the Joint Segment on the Singapore Green Plan 2030 at the Committee of Supply debates 2022, please visit: [https://www.greenplan.gov.sg/resources](https://www.greenplan.gov.sg/resources).*
