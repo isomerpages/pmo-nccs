@@ -35,7 +35,7 @@ Mr Chan Chun Sing, Minister for Education, highlighted the important role of our
 
 Updates on the key targets and initiatives of the Government, in support of our enhanced Nationally Determined Contribution, Long-Term Low-Emissions Development Strategy, and the Green Plan are summarised in *Annex F*.
 <br>
-
+     
 ---------------
 
 Annex information viewable by clicking [here](https://go.gov.sg/joint-media-release-on-joint-segment-on-the-singapore-green-plan-2030-cos2022-9-march-2022). <br>
