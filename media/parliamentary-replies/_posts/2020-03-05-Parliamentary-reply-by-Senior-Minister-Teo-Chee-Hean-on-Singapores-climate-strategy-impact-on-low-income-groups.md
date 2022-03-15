@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Parliamentary reply by Senior Minister Teo Chee Hean on Singapore’s climate strategy impact on low-income groups"
+title:  "Parliamentary Reply by Senior Minister Teo Chee Hean on Singapore’s Climate Strategy Impact on Low-Income Groups"
 date:   2020-03-05
 permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Senior-Minister-Teo-Chee-Hean-on-Singapores-climate-strategy-impact-on-low-income-groups"
 ---
