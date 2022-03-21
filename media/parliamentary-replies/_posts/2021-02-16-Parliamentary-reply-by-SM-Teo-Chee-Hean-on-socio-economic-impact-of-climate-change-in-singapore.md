@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Parliamentary reply by SM Teo Chee Hean on socio-economic impact of climate change in Singapore"
+title:  "Parliamentary Reply by SM Teo Chee Hean on Socio-Economic Impact of Climate Change in Singapore"
 date:   2021-02-16
 permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-SM-Teo-Chee-Hean-on-socio-economic-impact-of-climate-change-in-singapore"
 ---

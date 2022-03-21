@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Opening remarks by Minister Chan Chun Sing at the 11th Singapore International Energy Week 2018, 30 October 2018
+title:  Opening Remarks by Minister Chan Chun Sing at the 11<sup>th</sup> Singapore International Energy Week 2018
 subtitle: 30 Oct 2018
 permalink: /media/speeches/opening-remarks-by-minister-chan-chun-sing-at-the-11th-singapore-international-energy-week-2018-30-october-2018
 ---
 
-### OPENING REMARKS BY MINISTER CHAN CHUN SING AT THE 11TH SINGAPORE INTERNATIONAL ENERGY WEEK 2018, 30 OCTOBER 2018
+### OPENING REMARKS BY MINISTER CHAN CHUN SING AT THE 11<sup>TH</sup> SINGAPORE INTERNATIONAL ENERGY WEEK 2018, 30 OCTOBER 2018
 
 Your Excellencies,  
 Distinguished Guests  

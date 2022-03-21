@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transcript of Minister Mentor Lee Kuan Yew's dialogue at the Singapore Energy Conference at Raffles City Convention Centre in Singapore, 4 November 2008
+title: Transcript of Minister Mentor Lee Kuan Yew's Points at the Singapore Energy Conference Dialogue
 subtitle: 4 Nov 2008
 permalink: /media/speeches/transcript-of-minister-mentor-lee-kuan-yew's-dialogue-at-the-singapore-energy-conference-at-raffles-city-convention-centre-in-singapore-4-november-2008
 ---
