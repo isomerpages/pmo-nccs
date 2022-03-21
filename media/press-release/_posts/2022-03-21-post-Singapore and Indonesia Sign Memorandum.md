@@ -6,8 +6,6 @@ layout: post
 description: ""
 ---
 
-21 March 2022 
-
 Singapore’s Senior Minister and Coordinating Minister for National Security Teo Chee Hean and Indonesia’s Coordinating Minister for Maritime Affairs and Investment Luhut Binsar Pandjaitan signed a bilateral Memorandum of Understanding (MoU) concerning Cooperation on Climate Change and Sustainability today.
 <br><br>
 The MoU has been developed following the Singapore-Indonesia Leader’s Retreat in January 2022, and will further strengthen the bilateral relationship and cooperation in climate change and sustainability. Under the MoU, Singapore and Indonesia will strengthen collaboration in (a) carbon pricing and markets, (b) nature-based solutions and ecosystem-based approach, (c) clean technology and solutions, and (d) green and blended finance. Both countries also committed to advance the MoU’s objectives through annual high-level ministerial meetings and a bilateral inter-agency Working Group involving senior Government officials. 
