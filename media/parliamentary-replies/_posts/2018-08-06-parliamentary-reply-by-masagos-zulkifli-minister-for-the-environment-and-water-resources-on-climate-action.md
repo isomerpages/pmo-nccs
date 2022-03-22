@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Parliamentary reply by Masagos Zulkifli, Minister for the Environment and
-  Water Resources, on climate action
+title: Parliamentary Reply by Minister for the Environment and Water Resources Masagos Zulkifli on Climate Action
 subtitle: 06 Aug 2018
 permalink: /media/news/parliamentary-reply-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-on-climate-action
 ---
-### PARLIAMENTARY REPLY BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, ON CLIMATE ACTION
+### PARLIAMENTARY REPLY BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES MASAGOS ZULKIFLI ON CLIMATE ACTION
 
 **Miss Cheng Li Hui:** To ask the Minister for the Environment and Water Resources (a) what is the progress thus far on raising the awareness of climate change; (b) what is the number of individuals, organisations and educational institutions that have taken the Climate Action Pledge; (c) what are the plans to include more individuals, organisations and educational institutions in the second-half of the year; and (d) whether the Ministry will work with or track the organisations and educational institutions in terms of their follow-up actions and, if so, how.
 
