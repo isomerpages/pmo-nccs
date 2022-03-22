@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Opening address by Mr Masagos Zulkifli, Minister for the Environment and
-  Water Resources, at the Special ASEAN Ministerial Meeting on Climate Action
-  (SAMCA), 10 July 2018
+title: Opening Address by Minister for the Environment and Water Resources Masagos Zulkifli at the Special ASEAN Ministerial Meeting on Climate Action (SAMCA)
 subtitle: 10 Jul 2018
 permalink: /media/speeches/opening-address-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-special-asean-ministerial-meeting-on-climate-action-(samca)-10-july-2018
 ---
