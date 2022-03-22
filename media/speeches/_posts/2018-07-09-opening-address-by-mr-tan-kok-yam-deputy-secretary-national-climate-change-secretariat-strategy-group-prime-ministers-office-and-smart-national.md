@@ -5,7 +5,7 @@ subtitle: 9 Jul 2018
 permalink: /media/speeches/opening-address-by-mr-tan-kok-yam-deputy-secretary-national-climate-change-secretariat-strategy-group-prime-ministers-office-and-smart-national
 ---
 
-### OPENING ADDRESS BY MR TAN KOK YAM, DEPUTY SECRETARY, SMART NATION AND DIGITAL GOVERNMENT, AND STRATEGY GROUP, PRIME MINISTER'S OFFICE, AT GREEN GROWTH BUSINESS FORUM 2018, 9 JULY 2018
+### OPENING ADDRESS BY DEPUTY SECRETARY, SMART NATION AND DIGITAL GOVERNMENT, AND STRATEGY GROUP, PRIME MINISTER'S OFFICE, TAN KOK YAM, AT GREEN GROWTH BUSINESS FORUM 2018, 9 JULY 2018
 
 Your Excellency, British High Commissioner, Scott Wightman  
 Mr. Nick Bridge, UK Special Representative for Climate Change
