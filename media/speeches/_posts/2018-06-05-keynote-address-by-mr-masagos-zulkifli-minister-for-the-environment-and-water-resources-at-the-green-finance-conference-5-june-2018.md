@@ -5,7 +5,7 @@ subtitle: 5 Jun 2018
 permalink: /media/speeches/keynote-address-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-green-finance-conference-5-june-2018
 ---
 
-### KEYNOTE ADDRESS BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE GREEN FINANCE CONFERENCE, 5 JUNE 2018
+### KEYNOTE ADDRESS BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES MASAGOS ZULKIFLI AT THE GREEN FINANCE CONFERENCE, 5 JUNE 2018
 
 Delegates  
 Ladies and Gentlemen
