@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Parliamentary reply by Senior Minister Teo Chee Hean on Ministries’ Climate Compliance"
+title:  "Parliamentary Reply by Senior Minister Teo Chee Hean on Ministries’ Climate Compliance"
 date:   2020-03-03
 permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Senior-Minister-Teo-Chee-Hean-on-Ministries-Climate-Compliance"
 ---
