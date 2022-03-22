@@ -4,7 +4,7 @@ title: Speech by Minister for the Environment and Water Resources Masagos Zulkif
 subtitle: 28 Jun 2018
 permalink: /media/speeches/speech-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-official-opening-of-the-tuas-desalination-plant-28-june-2018
 ---
-### SPEECH BY MR MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE OFFICIAL OPENING OF THE TUAS DESALINATION PLANT, 28 JUNE 2018
+### SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES MASAGOS ZULKIFLI AT THE OFFICIAL OPENING OF THE TUAS DESALINATION PLANT, 28 JUNE 2018
 
 Distinguished Guests  
 Ladies and Gentlemen
