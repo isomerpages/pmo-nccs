@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Opening address by Mr Masagos Zulkifli, Minister for the Environment and
-  Water Resources, at the opening ceremony of the Asia-Pacific Climate Week, 11
-  July 2018
+title: Opening Address by Minister for the Environment and Water Resources Masagos Zulkifli at the Opening Ceremony of the Asia-Pacific Climate Week
 subtitle: 11 Jul 2018
 permalink: /media/speeches/opening-address-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-opening-ceremony-of-the-asia-pacific-climate-week-11-july-2018
 ---
