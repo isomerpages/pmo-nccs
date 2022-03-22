@@ -1,6 +1,5 @@
 ---
-title: Singapore and Indonesia Sign Memorandum of Understanding Concerning
-  Cooperation on Climate Change and Sustainability
+title: Singapore and Indonesia Sign Memorandum of Understanding Concerning Cooperation on Climate Change and Sustainability
 permalink: /media/press-release/singapore-and-indonesia-sign-memorandum-of-understanding-cooperation-on-climate-change-and-sustainability
 date: 2022-03-21
 layout: post
