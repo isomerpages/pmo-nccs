@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Points made by Senior Minister S Jayakumar at the climate change media interview, 2 December 2009 at 10am at Ministry of Foreign Affairs
+title: Points Made by Senior Minister S Jayakumar at the Climate Change Media Interview, Ministry of Foreign Affairs
 subtitle: 2 Dec 2009
 permalink: /media/speeches/points-made-by-senior-minister-s-jayakumar-at-the-climate-change-media-interview-2-december-2009-at-10am-at-ministry-of-foreign-affairs
 ---
