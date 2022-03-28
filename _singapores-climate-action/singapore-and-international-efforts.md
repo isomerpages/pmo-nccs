@@ -89,7 +89,7 @@ On 31 March 2020, Singapore submitted its enhanced Nationally Determined Contrib
 
 On 18 February 2022, Singapore announced that it will raise its ambition to achieve net zero emissions by or around mid-century. The government will consult closely with industry and citizen stakeholder groups to firm up and finalise Singapore’s plans before making a formal revision of the LEDS later in 2022. 
 
-More details on Singapore’s climate actions can be found [here](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/).
+Read more about [Singapore’s climate actions](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/).
 
 **Promoting International Co-operation on Climate Change**
 
