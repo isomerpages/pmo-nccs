@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Parliamentary reply by SM Teo Chee Hean on Singapore’s commitment to address climate change
+title:  Parliamentary Reply by SM Teo Chee Hean on Singapore’s Commitment to Address Climate Change
 subtitle: 4 Nov 2019
 permalink: /media/news/parliamentary-reply-by-sm-teo-chee-hean-on-singapore-s-commitment-to-address-climate-change
 ---
 
-### PARLIAMENTARY REPLY BY SM TEO CHEE HEAN ON SINGAPORE’S COMMITMENT TO ADDRESS CLIMATE CHANGE
+### PARLIAMENTARY REPLY BY SENIOR MINISTER TEO CHEE HEAN ON SINGAPORE’S COMMITMENT TO ADDRESS CLIMATE CHANGE
 
 **Ms Anthea Ong:**
 

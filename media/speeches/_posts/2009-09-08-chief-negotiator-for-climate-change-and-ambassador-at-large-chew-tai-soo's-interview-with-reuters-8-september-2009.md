@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Chief Negotiator for Climate Change and Ambassador-at-Large Chew Tai Soo's interview with Reuters, 8 September 2009
+title: Chief Negotiator for Climate Change and Ambassador-At-Large Chew Tai Soo's Interview with Reuters
 subtitle: 8 Sep 2009
 permalink: /media/speeches/chief-negotiator-for-climate-change-and-ambassador-at-large-chew-tai-soo's-interview-with-reuters-8-september-2009
 ---
 
-### Chief Negotiator For Climate Change And Ambassador-At-Large Chew Tai Soo's Interview With Reuters, 8 September 2009
+### CHIEF NEGOTIATOR FOR CLIMATE CHANGE AND AMBASSADOR-AT-LARGE CHEW TAI SOO'S INTERVIEW WITH REUTERS, 8 SEPTEMBER 2009
 
 **Q1**: Is Singapore willing to undertake additional measures to curb the growth of the country's greenhouse gas emissions as part of international efforts to reach agreement on a post-Kyoto pact?
 

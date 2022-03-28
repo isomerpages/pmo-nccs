@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extract from transcript of Prime Minister Lee Hsien Loong's speech in Parliament, 27 May 2009
+title: Extract from Transcript of Prime Minister Lee Hsien Loong's Speech in Parliament
 subtitle: 27 May 2009
 permalink: /media/speeches/extract-from-transcript-of-prime-minister-lee-hsien-loong's-speech-in-parliament-27-may-2009
 ---

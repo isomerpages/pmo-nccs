@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Parliamentary reply by DPM Teo Chee Hean on personal responsibility for climate changes
+title:  Parliamentary Reply by Deputy Prime Minister Teo Chee Hean on Personal Responsibility for Climate Changes
 subtitle: 14 Apr 2014
 permalink: /media/news/parliamentary-reply-by-dpm-teo-chee-hean-on-personal-responsibility-for-climate-changes
 ---
 
 
-### PARLIAMENTARY REPLY BY DPM TEO CHEE HEAN ON PERSONAL RESPONSIBILITY FOR CLIMATE CHANGES
+### PARLIAMENTARY REPLY BY DEPUTY PRIME MINISTER TEO CHEE HEAN ON PERSONAL RESPONSIBILITY FOR CLIMATE CHANGES
 
 **PERSONAL RESPONSIBILITY FOR CLIMATE CHANGE ISSUES**
 

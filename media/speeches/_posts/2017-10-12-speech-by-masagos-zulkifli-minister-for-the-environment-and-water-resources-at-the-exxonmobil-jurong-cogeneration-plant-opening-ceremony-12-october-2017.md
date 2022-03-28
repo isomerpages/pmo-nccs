@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Speech by Masagos Zulkifli, Minister for the Environment and Water
-  Resources at the Exxonmobil Jurong cogeneration plant opening ceremony, 12
-  October 2017
+title: Speech by Minister for the Environment and Water Resources Masagos Zulkifli at the Exxonmobil Jurong Cogeneration Plant Opening Ceremony
 subtitle: 12 Oct 2017
 permalink: /media/speeches/speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-exxonmobil-jurong-cogeneration-plant-opening-ceremony-12-october-2017
 ---
-### SPEECH BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AT THE EXXONMOBIL JURONG COGENERATION PLANT OPENING CEREMONY, 12 OCTOBER 2017
+### SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES MASAGOS ZULKIFLI AT THE EXXONMOBIL JURONG COGENERATION PLANT OPENING CEREMONY, 12 OCTOBER 2017
 
 Mr Gan Seow Kee
 
