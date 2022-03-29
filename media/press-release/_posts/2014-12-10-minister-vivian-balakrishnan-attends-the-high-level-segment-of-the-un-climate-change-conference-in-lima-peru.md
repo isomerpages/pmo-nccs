@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Minister Vivian Balakrishnan attends the High-Level Segment of the UN Climate Change Conference in Lima, Peru
+title: Minister Vivian Balakrishnan attends the High-Level Segment of the UN
+  Climate Change Conference in Lima, Peru
 subtitle: 10 Dec 2014
 permalink: /media/press-release/minister-vivian-balakrishnan-attends-the-high-level-segment-of-the-un-climate-change-conference-in-lima-peru
 ---
-
 ### MINISTER VIVIAN BALAKRISHNAN ATTENDS THE HIGH-LEVEL SEGMENT OF THE UN CLIMATE CHANGE CONFERENCE IN LIMA, PERU
 
 ***Singapore's carbon intensity has decreased 30 per cent from 2000 to 2010***
@@ -17,7 +17,8 @@ In his address to the Conference in the afternoon of 9 December (Peruvian time),
 
 Minister Balakrishnan also emphasised Singapore's commitment to support the multilateral system for dealing with climate change. Singapore had submitted its [<a href="/files/docs/default-source/news-documents/ncbur2014_1.pdf" target="_blank">Biennial Update Report</a>](/files/docs/default-source/news-documents/ncbur2014_1.pdf) (BUR) earlier this week. The BUR provides a summary of Singapore's actions to mitigate climate change and its effects. Singapore has achieved a 30 per cent decrease in carbon intensity for the period 2000-2010, which compares favourably with the global average decrease of 0.12 per cent, over the same period. 
 
-**The Conference is a joint session of the 20th Session of the Conference of the Parties to the United National Framework Convention on Climate Change (COP 20), the 10th Session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP10) and relevant subsidiary bodies.*
+*The Conference is a joint session of the 20th Session of the Conference of the Parties to the United National Framework Convention on Climate Change (COP 20), the 10th Session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP10) and relevant subsidiary bodies.*
+<br><br>
 
 Ministry of the Environment and Water Resources  
 National Climate Change Secretariat
