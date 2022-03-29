@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Speech by Ms Grace Fu, Minister, Prime Minister’s Office, Second Minister
-  for the Environment and Water Resources & Second Minister for Foreign Affairs,
-  at the opening of Asia Future Energy Forum and Asia Smart Grid 2012, 23
-  October 2012
+title: Speech by Minister, Prime Minister’s Office, Second Minister for the Environment and Water Resources & Second Minister for Foreign Affairs Grace Fu at the Opening of Asia Future Energy Forum and Asia Smart Grid 2012
 subtitle: 23 Oct 2012
 permalink: /media/speeches/speech-by-ms-grace-fu-minister-prime-minister-s-office-second-minister-for-the-environment-and-water-resources-second-minister-for-foreign-affairs
 ---
-### SPEECH BY MS GRACE FU, MINISTER, PRIME MINISTER’S OFFICE, SECOND MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES & SECOND MINISTER FOR FOREIGN AFFAIRS, AT THE OPENING OF ASIA FUTURE ENERGY FORUM AND ASIA SMART GRID 2012, 23 OCTOBER 2012
+### SPEECH BY MINISTER, PRIME MINISTER’S OFFICE, SECOND MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES & SECOND MINISTER FOR FOREIGN AFFAIRS GRACE FU AT THE OPENING OF ASIA FUTURE ENERGY FORUM AND ASIA SMART GRID 2012, 23 OCTOBER 2012
 
 Mr. Edwin Khew  
 Chairman, Sustainable Energy Association Singapore
