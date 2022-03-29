@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Minister Vivian Balakrishnan attends the High-Level Segment of the UN
-  Climate Change Conference in Lima, Peru
+title: Minister for the Environment and Water Resources Dr Vivian Balakrishnan Attends the High-Level Segment of the UN Climate Change Conference in Lima, Peru
 subtitle: 10 Dec 2014
 permalink: /media/press-release/minister-vivian-balakrishnan-attends-the-high-level-segment-of-the-un-climate-change-conference-in-lima-peru
 ---
-### MINISTER VIVIAN BALAKRISHNAN ATTENDS THE HIGH-LEVEL SEGMENT OF THE UN CLIMATE CHANGE CONFERENCE IN LIMA, PERU
+### MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR VIVIAN BALAKRISHNAN ATTENDS THE HIGH-LEVEL SEGMENT OF THE UN CLIMATE CHANGE CONFERENCE IN LIMA, PERU
 
 ***Singapore's carbon intensity has decreased 30 per cent from 2000 to 2010***
 
