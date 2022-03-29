@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Transcript of Minister for the Environment and Water Resources Dr Yaacob Ibrahim's reply to Parliamentary question on the Singapore Sustainable Blueprint on 11 January 2010
+title: Parlimentary Reply by Minister for the Environment and Water Resources Dr Yaacob Ibrahim to Parliamentary Question on the Singapore Sustainable Blueprint
 subtitle: 11 Jan 2010
 permalink: /media/speeches/transcript-of-minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim's-reply-to-parliamentary-question-on-the-singapore-sustainable-blueprint-on-11-january-2010
 ---
 
-### TRANSCRIPT OF MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM'S REPLY TO PARLIAMENTARY QUESTION ON THE SINGAPORE SUSTAINABLE BLUEPRINT ON 11 JANUARY 2010  
+### PARLIMENTARY REPLY BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM TO PARLIAMENTARY QUESTION ON THE SINGAPORE SUSTAINABLE BLUEPRINT ON 11 JANUARY 2010  
 #### ORAL ANSWERS TO QUESTIONS FOR THE PARLIAMENT SITTING ON 11 JANUARY 2010  
 **Title: Singapore's Sustainable Development (update on blueprint)**
 
