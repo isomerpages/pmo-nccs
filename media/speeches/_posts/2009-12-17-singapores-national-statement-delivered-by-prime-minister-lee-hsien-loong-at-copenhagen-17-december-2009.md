@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Singapore's National Statement delivered by Prime Minister Lee Hsien Loong at Copenhagen, 17 December 2009
+title: Singapore's National Statement Delivered by Prime Minister Lee Hsien Loong at Copenhagen
 subtitle: 17 Dec 2009
 permalink: /media/speeches/singapores-national-statement-delivered-by-prime-minister-lee-hsien-loong-at-copenhagen-17-december-2009
 ---
