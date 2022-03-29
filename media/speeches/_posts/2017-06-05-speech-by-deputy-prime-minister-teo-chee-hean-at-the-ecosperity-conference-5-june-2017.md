@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech By Deputy Prime Minister Teo Chee Hean at the Ecosperity Conference, 5 June 2017
+title: Speech by Deputy Prime Minister Teo Chee Hean at the Ecosperity Conference
 subtitle: 5 Jun 2017
 permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-ecosperity-conference-5-june-2017
 ---
