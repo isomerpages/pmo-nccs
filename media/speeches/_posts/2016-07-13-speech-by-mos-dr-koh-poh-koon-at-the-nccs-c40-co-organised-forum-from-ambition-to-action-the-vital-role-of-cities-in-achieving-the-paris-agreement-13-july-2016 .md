@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Speech by MOS Dr Koh Poh Koon at the NCCS-C40 Co-organised Forum "From Ambition to Action - The Vital Role of Cities in Achieving the Paris Agreement”, 13 July 2016
+title: Speech by Minister of State for Trade and Industry Dr Koh Poh Koon at the NCCS-C40 Co-Organised Forum "From Ambition to Action - The Vital Role of Cities in Achieving the Paris Agreement”
 subtitle: 13 Jul 2016
 permalink: /media/speeches/speech-by-mos-dr-koh-poh-koon-at-the-nccs-c40-co-organised-forum-from-ambition-to-action-the-vital-role-of-cities-in-achieving-the-paris-agreement-13-july-2016 
 ---
 
-### SPEECH BY MOS DR KOH POH KOON AT THE NCCS-C40 CO-ORGANISED FORUM "FROM AMBITION TO ACTION - THE VITAL ROLE OF CITIES IN ACHIEVING THE PARIS AGREEMENT”, 13 JULY 2016
+### SPEECH BY MINISTER OF STATE DR KOH POH KOON AT THE NCCS-C40 CO-ORGANISED FORUM "FROM AMBITION TO ACTION - THE VITAL ROLE OF CITIES IN ACHIEVING THE PARIS AGREEMENT”, 13 JULY 2016
 
 A very good morning, and to our foreign guests, welcome once again to Singapore. It gives me great pleasure to join you this morning for this high-level Mayor’s Forum that is jointly organised by the C40 and the National Climate Change Secretariat (NCCS) of Singapore. 
 
