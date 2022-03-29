@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Speech by Deputy Prime Minister Teo Chee Hean at the 10th Singapore International Energy Week, 23 October 2017
+title: Speech by Deputy Prime Minister Teo Chee Hean at the 10<sup>th</sup> Singapore International Energy Week, 23 October 2017
 subtitle: 23 Oct 2017
 permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-10th-singapore-international-energy-week-23-october-2017
 ---
 
-### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE 10TH SINGAPORE INTERNATIONAL ENERGY WEEK, 23 OCTOBER 2017
+### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE 10<sup>TH</sup> SINGAPORE INTERNATIONAL ENERGY WEEK, 23 OCTOBER 2017
 
 Your Excellencies,  
 Distinguished Guests,  
