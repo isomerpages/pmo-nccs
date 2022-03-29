@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transcript of media interview with Prime Minister Lee Hsien Loong, Senior Minister S Jayakumar, and Minister for the Environment and Water Resources Yaacob Ibrahim in Copenhagen, Denmark, 20 December 2009
+title: Transcript of Media Interview with Prime Minister Lee Hsien Loong, Senior Minister S Jayakumar, and Minister for the Environment and Water Resources Yaacob Ibrahim in Copenhagen, Denmark
 subtitle: 20 Dec 2009
 permalink: /media/speeches/transcript-of-media-interview-with-prime-minister-lee-hsien-loong-senior-minister-s-jayakumar-and-minister-for-the-environment-and-water-resources-yaacob-20-december-2009
 ---
