@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Oral reply by Mr S Iswaran, Minister, Prime Minister's Office and Second Minister for Home Affairs and Trade &amp; Industry, to parliamentary question on nuclear energy pre-feasibility study in Singapore, 15 October 2012
+title: Parlimentary Reply by Minister, Prime Minister's Office and Second Minister for Home Affairs and Trade & Industry S Iswaran to Parliamentary Question on Nuclear Energy Pre-Feasibility Study in Singapore
 subtitle: 15 Oct 2012
 permalink: /media/speeches/oral-reply-by-mr-s-iswaran-minister-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-industry-to-parliamentary-question
 ---
 
-### ORAL REPLY BY MR S ISWARAN, MINISTER, PRIME MINISTER'S OFFICE AND SECOND MINISTER FOR HOME AFFAIRS AND TRADE & INDUSTRY, TO PARLIAMENTARY QUESTION ON NUCLEAR ENERGY PRE-FEASIBILITY STUDY IN SINGAPORE, 15 OCTOBER 2012
+### PARLIMENTARY REPLY BY MINISTER, PRIME MINISTER'S OFFICE AND SECOND MINISTER FOR HOME AFFAIRS AND TRADE & INDUSTRY S ISWARAN TO PARLIAMENTARY QUESTION ON NUCLEAR ENERGY PRE-FEASIBILITY STUDY IN SINGAPORE, 15 OCTOBER 2012
 
 <u>Question by <b>Er Dr Lee Bee Wah:</b></u>
 
