@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opening address by Minister for National Development Mah Bow Tan at the Joint Opening Plenary of the World Cities Summit 2010 and the Singapore International Water Week 2010, 29 June 2010
+title: Opening Address by Minister for National Development Mah Bow Tan at the Joint Opening Plenary of the World Cities Summit 2010 and the Singapore International Water Week 2010
 subtitle: 29 Jun 2010
 permalink: /media/speeches/opening-address-by-minister-for-national-development-mah-bow-tan-at-the-joint-opening-plenary-of-the-world-cities-summit-2010-and-the-singapore-international-water-week-2010-29-june-2010
 ---
