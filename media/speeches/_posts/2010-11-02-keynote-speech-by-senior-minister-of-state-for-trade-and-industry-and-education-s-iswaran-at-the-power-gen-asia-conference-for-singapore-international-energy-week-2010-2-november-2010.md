@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keynote speech by Senior Minister of State for Trade and Industry, and Education S Iswaran at the Power-Gen Asia Conference for Singapore International Energy Week 2010, 2 November 2010
+title: Keynote Speech by Senior Minister of State for Trade and Industry, and Education S Iswaran at the Power-Gen Asia Conference for Singapore International Energy Week 2010
 subtitle: 2 Nov 2010
 permalink: /media/speeches/keynote-speech-by-senior-minister-of-state-for-trade-and-industry-and-education-s-iswaran-at-the-power-gen-asia-conference-for-singapore-international-energy-week-2010-2-november-2010
 ---
