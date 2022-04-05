@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome remarks by Chairman of Energy Market Authority Chan Lai Fung at the Distinguished Speakers Programme, 29 April 2011
+title: Welcome Remarks by Chairman of Energy Market Authority Chan Lai Fung at the Distinguished Speakers Programme
 subtitle: 29 Apr 2011
 permalink: /media/speeches/welcome-remarks-by-chairman-of-energy-market-authority-chan-lai-fung-at-the-distinguished-speakers-programme-29-april-2011
 ---
