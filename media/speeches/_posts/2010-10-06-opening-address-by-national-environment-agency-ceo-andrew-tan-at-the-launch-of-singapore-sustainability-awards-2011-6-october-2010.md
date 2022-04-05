@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Opening address by National Environment Agency CEO Andrew Tan at the launch of Singapore Sustainability Awards 2011, 6 October 2010
+title: Opening Address by National Environment Agency Chief Executive Officer Andrew Tan at the Launch of Singapore Sustainability Awards 2011
 subtitle: 6 Oct 2010
 permalink: /media/speeches/opening-address-by-national-environment-agency-ceo-andrew-tan-at-the-launch-of-singapore-sustainability-awards-2011-6-october-2010
 ---
 
-### OPENING ADDRESS BY NATIONAL ENVIRONMENT AGENCY CEO ANDREW TAN AT THE LAUNCH OF SINGAPORE SUSTAINABILITY AWARDS 2011, 6 OCTOBER 2010
+### OPENING ADDRESS BY NATIONAL ENVIRONMENT AGENCY CHIEF EXECUTIVE OFFICER ANDREW TAN AT THE LAUNCH OF SINGAPORE SUSTAINABILITY AWARDS 2011, 6 OCTOBER 2010
 
 Mr. Tony Chew  
 Chairman, Singapore Business Federation
