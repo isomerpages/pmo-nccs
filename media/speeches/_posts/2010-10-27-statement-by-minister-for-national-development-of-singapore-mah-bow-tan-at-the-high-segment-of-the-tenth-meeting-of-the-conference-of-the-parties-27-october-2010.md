@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Statement by Minister for National Development of Singapore Mah Bow Tan at the high segment of the Tenth Meeting of the Conference of the Parties to the Convention on Biological Diversity in Nagoya, Japan, 27 October 2010
+title: Statement by Minister for National Development of Singapore Mah Bow Tan at the High Segment of the Tenth Meeting of the Conference of the Parties to the Convention on Biological Diversity in Nagoya, Japan
 subtitle: 27 Oct 2010
 permalink: /media/speeches/statement-by-minister-for-national-development-of-singapore-mah-bow-tan-at-the-high-segment-of-the-tenth-meeting-of-the-conference-of-the-parties-27-october-2010
 ---
