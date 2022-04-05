@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Brief remarks by Minister for the Environment and Water Resources Dr
-  Vivian Balakrishnan at the opening ceremony of the National Energy Efficiency
-  Conference 2011 on 24 May 2011
+title: Remarks by Minister for the Environment and Water Resources Dr Vivian Balakrishnan at the Opening Ceremony of the National Energy Efficiency Conference 2011 
 subtitle: 24 May 2011
 permalink: /media/speeches/brief-remarks-by-minister-for-the-environment-and-water-resources-dr-vivian-balakrishnan-at-the-opening-ceremony-of-the-national-energy-efficiency-conference
 ---
-### BRIEF REMARKS BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR VIVIAN BALAKRISHNAN AT THE OPENING CEREMONY OF THE NATIONAL ENERGY EFFICIENCY CONFERENCE 2011 ON 24 MAY 2011
+### REMARKS BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR VIVIAN BALAKRISHNAN AT THE OPENING CEREMONY OF THE NATIONAL ENERGY EFFICIENCY CONFERENCE 2011 ON 24 MAY 2011
 
 Mr Pasquale Pistorio
 
