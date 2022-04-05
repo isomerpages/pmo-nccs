@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Transcript of Senior Minister S Jayakumar's speech and Q&A session at the S Rajaratnam Lecture at Shangri-la Hotel, Singapore, 19 May 2010
-subtitle: 18 May 2010
+title: Senior Minister S Jayakumar's Speech and Q&A Session at the S Rajaratnam Lecture at Shangri-la Hotel, Singapore
+subtitle: 19 May 2010
 permalink: /media/speeches/transcript-of-senior-minister-s-jayakumar's-speech-and-q-a-session-at-the-s-rajaratnam-lecture-at-shangri-la-hotel-singapore-19-may-2010
 ---
 
-### TRANSCRIPT OF SENIOR MINISTER S JAYAKUMAR'S SPEECH AND Q&A SESSION AT THE S RAJARATNAM LECTURE AT SHANGRI-LA HOTEL, SINGAPORE, 19 MAY 2010
+### SENIOR MINISTER S JAYAKUMAR'S SPEECH AND Q&A SESSION AT THE S RAJARATNAM LECTURE AT SHANGRI-LA HOTEL, SINGAPORE, 19 MAY 2010
 
 **Introduction**
 
