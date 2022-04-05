@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Speech By Ms Grace Fu, Senior Minister Of State, Ministry Of Information,
-  Communications And The Arts & Ministry Of The Environment And Water Resources,
-  At The Official Opening Of The Singapore Centre On Environmental Life Sciences
-  Engineering
+title: Speech by Senior Minister of State, Ministry of Information, Communications and the Arts & Ministry of the Environment and Water Resources, Grace Fu at the Official Opening of the Singapore Centre on Environmental Life Sciences Engineering
 subtitle: 14 Sep 2011
 permalink: /media/speeches/speech-by-ms-grace-fu-senior-minister-of-state-ministry-of-information-communications-and-the-arts-ministry-of-the-environment-and-water-resources-at-the-official
 ---
-### SPEECH BY MS GRACE FU, SENIOR MINISTER OF STATE, MINISTRY OF INFORMATION, COMMUNICATIONS AND THE ARTS & MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES, AT THE OFFICIAL OPENING OF THE SINGAPORE CENTRE ON ENVIRONMENTAL LIFE SCIENCES ENGINEERING
+### SPEECH BY SENIOR MINISTER OF STATE, MINISTRY OF INFORMATION, COMMUNICATIONS AND THE ARTS & MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES GRACE FU AT THE OFFICIAL OPENING OF THE SINGAPORE CENTRE ON ENVIRONMENTAL LIFE SCIENCES ENGINEERING
 
 Mr Peter Ho, Governing Board Chairman, Singapore Centre on Environmental Life Sciences Engineering,
 
