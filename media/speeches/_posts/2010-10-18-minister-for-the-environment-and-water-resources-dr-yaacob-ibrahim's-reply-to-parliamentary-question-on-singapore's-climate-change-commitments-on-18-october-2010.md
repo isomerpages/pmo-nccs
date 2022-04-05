@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Minister for the Environment and Water Resources Dr Yaacob Ibrahim's reply to Parliamentary question on Singapore's climate change commitments on 18 October 2010
+title: Parliamentary Reply by Minister for the Environment and Water Resources Dr Yaacob Ibrahim to Parliamentary Question on Singapore's Climate Change Commitments 
 subtitle: 18 Oct 2010
 permalink: /media/speeches/minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim's-reply-to-parliamentary-question-on-singapore's-climate-change-commitments-on-18-october-2010
 ---
 
-### MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM'S REPLY TO PARLIAMENTARY QUESTION ON SINGAPORE'S CLIMATE CHANGE COMMITMENTS ON 18 OCTOBER 2010
+### PARLIAMENTARY REPLY BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM TO PARLIAMENTARY QUESTION ON SINGAPORE'S CLIMATE CHANGE COMMITMENTS ON 18 OCTOBER 2010
 
 #### ORAL ANSWERS TO QUESTIONS FOR THE PARLIAMENT SITTING ON 18 OCTOBER 2010
 
