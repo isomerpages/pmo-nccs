@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Speech by Deputy Prime Minister & Coordinating Minister for National Security S Jayakumar at the WWF 2008 Asian Panda Ball, 21 November 2008
+title: Speech by Deputy Prime Minister & Coordinating Minister for National Security S Jayakumar at the WWF 2008 Asian Panda Ball
 subtitle: 21 Nov 2008
 permalink: /media/speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-s-jayakumar-at-the-wwf-2008-asian-panda-ball-21-november-2008
 ---
-
-### SPEECH BY DEPUTY PRIME MINISTER & COORDINATING MINISTER FOR NATIONAL SECURITY S JAYAKUMAR AT THE WWF 2008 ASIAN PANDA BALL, 21 NOVEMBER 2008
 
 Her Royal Highness Princess Laurentien,  
 James Leape, Director-General of WWF International,  
