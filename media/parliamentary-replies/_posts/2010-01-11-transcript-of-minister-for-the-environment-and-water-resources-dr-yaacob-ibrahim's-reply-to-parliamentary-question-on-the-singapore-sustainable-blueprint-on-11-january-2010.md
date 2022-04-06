@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Parlimentary Reply by Minister for the Environment and Water Resources Dr Yaacob Ibrahim to Parliamentary Question on the Singapore Sustainable Blueprint
+title: Parlimentary Reply by Minister for the Environment and Water Resources Dr
+  Yaacob Ibrahim to Parliamentary Question on the Singapore Sustainable
+  Blueprint
 subtitle: 11 Jan 2010
 permalink: /media/speeches/transcript-of-minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim's-reply-to-parliamentary-question-on-the-singapore-sustainable-blueprint-on-11-january-2010
 ---
-
-### PARLIMENTARY REPLY BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM TO PARLIAMENTARY QUESTION ON THE SINGAPORE SUSTAINABLE BLUEPRINT ON 11 JANUARY 2010  
-#### ORAL ANSWERS TO QUESTIONS FOR THE PARLIAMENT SITTING ON 11 JANUARY 2010  
 **Title: Singapore's Sustainable Development (update on blueprint)**
 
 3\. **Mrs Mildred Tan** asked the Minister for the Environment and Water Resources (a) if he will give an update on the $1 billion blueprint for Singapore's sustainable development that was unveiled in April 2009, in particular the incentives for greener options such as electric cars and solar energy; and (b) whether his Ministry has any future plans or undertaken any measures to stimulate green businesses in Singapore.
@@ -42,4 +41,3 @@ Meanwhile, Sir, BCA and MND have already drawn up a building code for all new bu
 **Ms Irene Ng Phek Hoong (Tampines)**: Sir, I am encouraged to hear that the Ministry is planning to build more infrastructure as part of its plans to promote environmentally friendly practices in Singapore. Can I ask the Minister whether there are any plans to work with the relevant agencies to make sure that beyond the infrastructure, cycling is also a viable and safe mode of transport? If we want to promote cycling as a green mode of transport, it not only requires infrastructure but it also requires shower rooms in offices, education and enforcement to ensure that cyclists ride safely.
 
 **Dr Yaacob Ibrahim**: Sir, as mentioned in my earlier reply, the Ministry of Transport (MOT), together with HDB, has a programme to build up the cycling infrastructure. I do not have the details of it, to the extent, as mentioned by the Member, of shower facilities in some of the buildings. But, certainly, this is being tried out by MOT, together with the various local agencies, to ensure that if the infrastructure is built, the users are responsible and safety is ensured. As you know our roads are already crowded and if we were to build cycling paths within the main roads, there are concerns and issues which we should bear in mind. But, as I said earlier, this is something which MOT is studying very carefully. This is one of the plans in the Sustainable Singapore Blueprint. So we have to test it out and pilot it. But, to a large extent, if you ask me personally, it is about personal behaviour on how we work together as a community, ie, when we use the roads, we use it in a responsible manner.
-
