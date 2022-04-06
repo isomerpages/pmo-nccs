@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  Sustainable Singapore Blueprint
+title: Sustainable Singapore Blueprint
 permalink: /media/publications/sustainable-singapore-blueprint
 ---
 
-### SUSTAINABLE SINGAPORE BLUEPRINT
 
 ![Sustainable Singapore Blueprint](/images/ssb-2015-(2016-version)-cover-page.png "Sustainable Singapore Blueprint"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 
