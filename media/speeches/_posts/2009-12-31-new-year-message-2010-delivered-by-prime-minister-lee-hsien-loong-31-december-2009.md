@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Prime Minister Lee Hsien Loong's 2010 New Year Message on 31 Dec 2009
+title: Prime Minister Lee Hsien Loong's 2010 New Year Message
 subtitle: 31 Dec 2009
 permalink: /media/speeches/new-year-message-2010-delivered-by-prime-minister-lee-hsien-loong-31-december-2009
 ---
 
-### PRIME MINISTER LEE HSIEN LOONG'S 2010 NEW YEAR MESSAGE ON 31 DECEMBER 2009
 
 **Pulling Through a Difficult Year**
 
