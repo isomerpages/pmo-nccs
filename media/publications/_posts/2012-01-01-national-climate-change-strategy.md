@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  National Climate Change Strategy
+title: National Climate Change Strategy
 permalink: /media/publications/national-climate-change-strategy
 ---
 
-### NATIONAL CLIMATE CHANGE STRATEGY
 
 ![National Climate Change Strategy](/images/national-climate-change-strategy.jpg "National Climate Change Strategy"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 
