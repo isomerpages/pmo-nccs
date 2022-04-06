@@ -5,8 +5,6 @@ subtitle: 8 Mar 2010
 permalink: /media/speeches/extract-of-speech-by-minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim-at-the-committee-of-supply-8-march-2010
 ---
 
-### EXTRACT OF SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM AT THE COMMITTEE OF SUPPLY, 8 MARCH 2010
-
 **(i) Sustainable Development – Overall Approach to Resource Efficiency and Mitigating Climate Change**
 
 **Copenhagen Accord and International Developments**
