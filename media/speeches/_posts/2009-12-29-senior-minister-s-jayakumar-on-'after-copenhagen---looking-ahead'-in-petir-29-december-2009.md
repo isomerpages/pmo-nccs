@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Senior Minister S Jayakumar on 'After Copenhagen - Looking Ahead' in PETIR, 29 December 2009
+title: Senior Minister S Jayakumar on 'After Copenhagen - Looking Ahead' in PETIR
 subtitle: 29 Dec 2009
 permalink: /media/speeches/senior-minister-s-jayakumar-on-'after-copenhagen---looking-ahead'-in-petir-29-december-2009
 ---
 
-### SENIOR MINISTER S JAYAKUMAR ON 'AFTER COPENHAGEN - LOOKING AHEAD' IN PETIR, 29 DECEMBER 2009
+
 
 1\. After the recent Copenhagen Climate Change Conference, some countries have accused others as being the spoilers. Singapore should not get embroiled in such a blame game. Climate change is too important a global issue for unproductive recriminations. Instead we should look ahead, build on whatever we have achieved and iron out outstanding issues.
 
