@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Parliamentary Reply by Senior Minister Teo Chee Hean on Socio-Economic Impact of Climate Change in Singapore"
-date:   2021-02-16
-permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-SM-Teo-Chee-Hean-on-socio-economic-impact-of-climate-change-in-singapore"
+title: Parliamentary Reply by Senior Minister Teo Chee Hean on Socio-Economic
+  Impact of Climate Change in Singapore
+date: 2021-02-16
+permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-SM-Teo-Chee-Hean-on-socio-economic-impact-of-climate-change-in-singapore
 ---
-
 **FOURTEENTH PARLIAMENT OF SINGAPORE  
-WRITTEN ANSWER   
-TUESDAY, 16 FEBRUARY 2021**  
+WRITTEN ANSWER**  
 
 **Ms He Ting Ru:**
 To ask the Prime Minister (a) beyond studies on urban heat vulnerability, whether there are Government-initiated studies conducted on the socio-economic impact of climate change in Singapore for the next five years and beyond; and (b) if so, whether these studies and findings can be made publicly available.
