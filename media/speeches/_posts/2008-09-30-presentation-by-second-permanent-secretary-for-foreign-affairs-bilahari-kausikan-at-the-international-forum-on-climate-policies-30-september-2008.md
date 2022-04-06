@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Presentation by Second Permanent Secretary for Foreign Affairs Bilahari Kausikan at the International Forum on Climate Policies, 30 September 2008
+title: Presentation by Second Permanent Secretary for Foreign Affairs Bilahari Kausikan at the International Forum on Climate Policies
 subtitle: 30 Sep 2008
 permalink: /media/speeches/presentation-by-second-permanent-secretary-for-foreign-affairs-bilahari-kausikan-at-the-international-forum-on-climate-policies-30-september-2008
 ---
-
-### PRESENTATION BY SECOND PERMANENT SECRETARY FOR FOREIGN AFFAIRS BILAHARI KAUSIKAN AT THE INTERNATIONAL FORUM ON CLIMATE POLICIES, 30 SEPTEMBER 2008
 
 Mr Chairman,
 

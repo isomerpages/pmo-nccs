@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech by Maritime and Port Authority of Singapore Chief Executive Lam Yi Young at the launch of the new maritime fuel cell research initiative between MPA and Temasek Polytechnic, 29 November 2010
+title: Speech by Maritime and Port Authority of Singapore Chief Executive Lam Yi Young at the Launch of the New Maritime Fuel Cell Research Initiative Between MPA and Temasek Polytechnic
 subtitle: 29 Nov 2010
 permalink: /media/speeches/speech-by-maritime-and-port-authority-of-singapore-chief-executive-lam-yi-young-at-the-launch-of-the-new-maritime-fuel-cell-research-initiative-29-november-2010
 ---

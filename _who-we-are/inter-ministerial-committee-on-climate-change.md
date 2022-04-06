@@ -38,10 +38,10 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 
 **Members**
 
-* Mr Albert Chua, Permanent Secretary (Sustainability and the Environment)  
+* Mr Stanley Loh, Permanent Secretary (Sustainability and the Environment)  
 * Mrs Tan Ching Yee, Permanent Secretary (Finance)  
 * Ms Lai Wei Lin, Second Permanent Secretary (Finance)
-* BG (NS) Chee Wee Kiong, Permanent Secretary (Foreign Affairs)  
+* Mr Albert Chua, Permanent Secretary (Foreign Affairs)  
 * Mrs Ow Foong Pheng, Permanent Secretary (National Development)  
 * Ms Chan Lai Fung, Permanent Secretary (National Research and Development)  
 * Mr Lee Chuan Teck, Permanent Secretary (Trade and Industry)(Development) 

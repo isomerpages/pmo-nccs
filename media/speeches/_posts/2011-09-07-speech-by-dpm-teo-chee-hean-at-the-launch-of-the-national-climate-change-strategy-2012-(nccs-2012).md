@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Speech by DPM Teo Chee Hean at the launch of the National Climate Change Strategy 2012 (NCCS-2012) Public Consultation and prize presentation for the National Climate Change Competition 2012
+title: Speech by Deputy Prime Minister Teo Chee Hean at the Launch of the National Climate Change Strategy 2012 (NCCS-2012) Public Consultation and Prize Presentation for the National Climate Change Competition 2012
 subtitle: 7 Sep 2011
 permalink: /media/speeches/speech-by-dpm-teo-chee-hean-at-the-launch-of-the-national-climate-change-strategy-2012-(nccs-2012)
 ---
 
-### SPEECH BY DPM TEO CHEE HEAN AT THE LAUNCH OF THE NATIONAL CLIMATE CHANGE STRATEGY 2012 (NCCS-2012) PUBLIC CONSULTATION AND PRIZE PRESENTATION FOR THE NATIONAL CLIMATE CHANGE COMPETITION 2012
+### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE LAUNCH OF THE NATIONAL CLIMATE CHANGE STRATEGY 2012 (NCCS-2012) PUBLIC CONSULTATION AND PRIZE PRESENTATION FOR THE NATIONAL CLIMATE CHANGE COMPETITION 2012
 
 Distinguished guests,  
 Teachers and students,

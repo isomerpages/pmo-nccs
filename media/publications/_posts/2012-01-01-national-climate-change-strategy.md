@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  National Climate Change Strategy
+title: National Climate Change Strategy
 permalink: /media/publications/national-climate-change-strategy
 ---
-
-### NATIONAL CLIMATE CHANGE STRATEGY
-
 ![National Climate Change Strategy](/images/national-climate-change-strategy.jpg "National Climate Change Strategy"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 
 The National Climate Change Strategy (NCCS-2012) document outlines Singapore's plans to address climate change through a whole-of-nation approach. Entitled 'Climate Change and Singapore: Challenges. Opportunities. Partnerships.', the document reflects the key elements of Singapore's climate strategy. They include reducing emissions across sectors, building capabilities to adapt to the impact of climate change, harnessing green growth opportunities as well as forging partnerships on climate change action.

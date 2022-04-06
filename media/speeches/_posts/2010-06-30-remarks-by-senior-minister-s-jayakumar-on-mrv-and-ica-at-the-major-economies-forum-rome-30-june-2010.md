@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Remarks by Senior Minister S Jayakumar on MRV and ICA at the Major Economies Forum, Rome, 30 June 2010
+title: Remarks by Senior Minister S Jayakumar on MRV and ICA at the Major Economies Forum, Rome
 subtitle: 30 Jun 2010
 permalink: /media/speeches/remarks-by-senior-minister-s-jayakumar-on-mrv-and-ica-at-the-major-economies-forum-rome-30-june-2010
 ---
-
-### REMARKS BY SENIOR MINISTER S JAYAKUMAR ON MRV AND ICA AT THE MAJOR ECONOMIES FORUM, ROME, 30 JUNE 2010
 
 1\. The question of MRV is an important one for all of us. We have embarked on an exercise to deal with climate change where all countries have to undertake commitments to reduce carbon emissions. This means that what we are undertaking individually and collectively is more than a non-binding commitment, the implementation of which is dependent on good faith alone. What we are undertaking comes with the expectation that whoever commits to an undertaking will indeed implement their commitments as pledged.
 

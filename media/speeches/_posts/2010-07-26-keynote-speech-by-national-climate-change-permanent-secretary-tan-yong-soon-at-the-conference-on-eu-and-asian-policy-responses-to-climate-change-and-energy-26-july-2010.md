@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Keynote Speech by National Climate Change Permanent Secretary Tan Yong Soon at the Conference on EU and Asian Policy Responses to Climate Change and Energy Security Post-Copenhagen, 26 July 2010
+title: Keynote Speech by National Climate Change Permanent Secretary Tan Yong Soon at the Conference on EU and Asian Policy Responses to Climate Change and Energy Security Post-Copenhagen
 subtitle: 26 Jul 2010
 permalink: /media/speeches/keynote-speech-by-national-climate-change-permanent-secretary-tan-yong-soon-at-the-conference-on-eu-and-asian-policy-responses-to-climate-change-and-energy-26-july-2010
 ---
-
-### KEYNOTE SPEECH BY NATIONAL CLIMATE CHANGE PERMANENT SECRETARY TAN YONG SOON AT THE CONFERENCE ON EU AND ASIAN POLICY RESPONSES TO CLIMATE CHANGE AND ENERGY SECURITY POST-COPENHAGEN, 26 JULY 2010
 
 Ambassador Kesavapany  
 Director, Institute of Southeast Asian Studies, Singapore
@@ -17,7 +15,9 @@ Dr Yeo Lay Hwee
 Director, EU Centre in Singapore
 
 Excellencies  
+<br>
 Ladies and gentlemen  
+<br>
 Good morning.
 
 I am very pleased to join you at today’s conference. I would like to thank the Institute of Southeast Asian Studies (ISEAS), the Energy Studies Institute (ESI) and the EU Centre for organising this event. This is a timely platform for dialogue and exchanging information on climate change.

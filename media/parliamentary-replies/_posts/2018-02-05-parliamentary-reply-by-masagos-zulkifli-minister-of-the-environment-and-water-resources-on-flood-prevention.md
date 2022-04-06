@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Parliamentary Reply by Minister for the Environment and Water Resources Masagos Zulkifli on Flood Prevention
+title: Parliamentary Reply by Minister for the Environment and Water Resources
+  Masagos Zulkifli on Flood Prevention
 subtitle: 05 Feb 2018
 permalink: /media/news/parliamentary-reply-by-masagos-zulkifli-minister-of-the-environment-and-water-resources-on-flood-prevention
 ---
-### PARLIAMENTARY REPLY BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES MASAGOS ZULKIFLI ON FLOOD PREVENTION
 
 **Question by: Mr Kwek Hian Chuan Henry, Member of Parliament for Nee Soon GRC**
 

@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Speech By Ms Grace Fu, Senior Minister of State, Ministry of Information,
-  Communications and the Arts and Ministry of the Environment and Water
-  Resources, at the 20th anniversary celebration of the Singapore Green
-  Labelling Scheme, 16 March 2012
+title: Speech by Senior Minister of State, Ministry of Information, Communications and the Arts and Ministry of the Environment and Water Resources, Grace Fu at the 20th Anniversary Celebration of the Singapore Green Labelling Scheme
 subtitle: 16 Mar 2012
 permalink: /media/speeches/speech-by-ms-grace-fu-senior-minister-of-state-ministry-of-information-communications-and-the-arts-and-ministry-of-the-environment-and-water-resources
 ---
-### SPEECH BY MS GRACE FU, SENIOR MINISTER OF STATE, MINISTRY OF INFORMATION, COMMUNICATIONS AND THE ARTS AND MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES, AT THE 20TH ANNIVERSARY CELEBRATION OF THE SINGAPORE GREEN LABELLING SCHEME, 16 MARCH 2012
+### SPEECH BY SENIOR MINISTER OF STATE, MINISTRY OF INFORMATION, COMMUNICATIONS AND THE ARTS AND MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES GRACE FU AT THE 20TH ANNIVERSARY CELEBRATION OF THE SINGAPORE GREEN LABELLING SCHEME, 16 MARCH 2012
 
 Ms Isabella Loh, Chairman, Singapore Environment Council
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Speech By Dr Yaacob Ibrahim, Minister For Communications and Information, at the opening of My Tree House- The World's 1st Green Library for Kids, on 31 May 2013
+title: Speech by Minister for Communications and Information Dr Yaacob Ibrahim at the Opening of My Tree House - The World's 1st Green Library for Kids
 subtitle: 31 May 2013
 permalink: /media/speeches/speech-by-dr-yaacob-ibrahim-minister-for-communications-and-information-at-the-opening-of-my-tree-house--the-world's-1st-green-library-for-kids-on-31-may-2013
 ---
 
-### SPEECH BY DR YAACOB IBRAHIM, MINISTER FOR COMMUNICATIONS AND INFORMATION, AT THE OPENING OF MY TREE HOUSE- THE WORLD'S 1ST GREEN LIBRARY FOR KIDS, ON 31 MAY 2013
+### SPEECH BY MINISTER FOR COMMUNICATIONS AND INFORMATION DR YAACOB IBRAHIM AT THE OPENING OF MY TREE HOUSE- THE WORLD'S 1ST GREEN LIBRARY FOR KIDS, ON 31 MAY 2013
 
 Mrs Elaine Ng  
 Chief Executive Officer, National Library Board

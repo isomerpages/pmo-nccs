@@ -1,10 +1,13 @@
 ---
 layout: post
-title: 'Climate Action Plan : Take Action Today, for a Sustainable Future'
+title: "Climate Action Plan : Take Action Today, for a Sustainable Future"
 permalink: /media/publications/climate-plan-take-action-today-for-a-sustainable-future
+date: 2016-01-01
+description: ""
 ---
 
-### PLANS AND REPORTS: CLIMATE ACTION PLAN: TAKE ACTION TODAY, FOR A SUSTAINABLE FUTURE
+
+
 
 ![Climate Action Plan: Take Action Today, for a Sustainable Future](/images/take-action-today-for-a-carbon-efficient-singapore.jpg "Climate Action Plan: Take Action Today, for a Sustainable Future"){: style="width:300px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 

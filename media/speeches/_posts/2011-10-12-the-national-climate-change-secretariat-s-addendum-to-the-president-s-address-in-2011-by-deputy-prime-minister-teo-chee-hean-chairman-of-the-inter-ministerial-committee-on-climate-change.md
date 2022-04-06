@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The National Climate Change Secretariat’s addendum to the President’s Address in 2011 by Deputy Prime Minister Teo Chee Hean, Chairman of the Inter-Ministerial Committee on Climate Change
+title: The National Climate Change Secretariat’s Addendum to the President’s Address in 2011 by Deputy Prime Minister and Chairman of the Inter-Ministerial Committee on Climate Change Teo Chee Hean
 subtitle: 12 Oct 2011
 permalink: /media/speeches/the-national-climate-change-secretariat-s-addendum-to-the-president-s-address-in-2011-by-deputy-prime-minister-teo-chee-hean-chairman-of-the-inter-ministerial-committee-on-climate-change
 ---
 
-### THE NATIONAL CLIMATE CHANGE SECRETARIAT’S ADDENDUM TO THE PRESIDENT’S ADDRESS IN 2011 BY DEPUTY PRIME MINISTER TEO CHEE HEAN, CHAIRMAN OF THE INTER-MINISTERIAL COMMITTEE ON CLIMATE CHANGE
+### THE NATIONAL CLIMATE CHANGE SECRETARIAT’S ADDENDUM TO THE PRESIDENT’S ADDRESS IN 2011 BY DEPUTY PRIME MINISTER AND CHAIRMAN OF THE INTER-MINISTERIAL COMMITTEE ON CLIMATE CHANGE TEO CHEE HEAN
 
 **Challenge of Climate Change**  
 1.&nbsp;Climate change is a major challenge for all countries, including Singapore. As an island state, we must stand ready to deal with the impacts of climate change, such as rising sea levels. As a responsible member of the global community, we will also play our part to lower carbon emissions. We must work to achieve these goals while safeguarding our standard of living and our economic competitiveness.

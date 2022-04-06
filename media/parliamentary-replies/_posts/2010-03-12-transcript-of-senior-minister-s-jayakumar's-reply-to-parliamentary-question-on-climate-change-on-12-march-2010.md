@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Transcript of Senior Minister S Jayakumar's reply to Parliamentary question on climate change on 12 March 2010
+title: Parlimentary Reply by Senior Minister S Jayakumar to Parliamentary Question on Climate Change
 subtitle: 12 Mar 2010
 permalink: /media/speeches/transcript-of-senior-minister-s-jayakumar's-reply-to-parliamentary-question-on-climate-change-on-12-march-2010
 ---
 
-### TRANSCRIPT OF SENIOR MINISTER S JAYAKUMAR'S REPLY TO PARLIAMENTARY QUESTION ON CLIMATE CHANGE ON 12 MARCH 2010
+### PARLIMENTARY REPLY BY SENIOR MINISTER S JAYAKUMAR'S REPLY TO PARLIAMENTARY QUESTION ON CLIMATE CHANGE ON 12 MARCH 2010
 
 #### ORAL ANSWERS TO QUESTIONS FOR THE PARLIAMENT SITTING ON 12 MARCH 2010  
 **Title: Climate Change (resources and arrangements)**

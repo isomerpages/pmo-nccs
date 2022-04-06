@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Parliamentary Reply by Senior Minister Teo Chee Hean on Ministries’ Climate Compliance"
-date:   2020-03-03
-permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Senior-Minister-Teo-Chee-Hean-on-Ministries-Climate-Compliance"
+title: Parliamentary Reply by Senior Minister Teo Chee Hean on Ministries’
+  Climate Compliance
+date: 2020-03-03
+permalink: /media-centre/parliamentary-replies/Parliamentary-reply-by-Senior-Minister-Teo-Chee-Hean-on-Ministries-Climate-Compliance
 ---
-
 **THIRTEENTH PARLIAMENT OF SINGAPORE  
-WRITTEN ANSWER  
-TUESDAY, 3 MARCH 2020**  
+WRITTEN ANSWER**  
 
 **Mr Louis Ng:**
 

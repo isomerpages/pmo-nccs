@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Opening Remarks by Energy Market Authority Chief Executive Lawrence Wong at the World LNG Series (Asia-Pacific Summit), 21 September 2010
+title: Opening Remarks by Energy Market Authority Chief Executive Lawrence Wong at the World LNG Series (Asia-Pacific Summit)
 subtitle: 21 Sep 2010
 permalink: /media/speeches/opening-remarks-by-energy-market-authority-chief-executive-lawrence-wong-at-the-world-lng-series-(asia-pacific-summit)-21-september-2010
 ---
-
-### OPENING REMARKS BY ENERGY MARKET AUTHORITY CHIEF EXECUTIVE LAWRENCE WONG AT THE WORLD LNG SERIES (ASIA-PACIFIC SUMMIT), 21 SEPTEMBER 2010
 
 Distinguished Guests
 

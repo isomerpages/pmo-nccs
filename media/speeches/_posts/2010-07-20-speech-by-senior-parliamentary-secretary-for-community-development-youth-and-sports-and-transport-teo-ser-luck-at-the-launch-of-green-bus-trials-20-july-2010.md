@@ -1,17 +1,23 @@
 ---
 layout: post
-title: Speech by Senior Parliamentary Secretary for Community Development, Youth and Sports, and Transport Teo Ser Luck at the Launch of Green Bus Trials, 20 July 2010
+title: Speech by Senior Parliamentary Secretary for Community Development, Youth and Sports, and Transport Teo Ser Luck at the Launch of Green Bus Trials
 subtitle: 20 Jul 2010
 permalink: /media/speeches/speech-by-senior-parliamentary-secretary-for-community-development-youth-and-sports-and-transport-teo-ser-luck-at-the-launch-of-green-bus-trials-20-july-2010
 ---
 
-### SPEECH BY SENIOR PARLIAMENTARY SECRETARY FOR COMMUNITY DEVELOPMENT, YOUTH AND SPORTS, AND TRANSPORT TEO SER LUCK AT THE LAUNCH OF GREEN BUS TRIALS, 20 JULY 2010
+Mr Gan Juay Kiat 
+<br>CEO, SBS Transit 
 
-Mr Gan Juay Kiat, CEO, SBS Transit  
-Dr Su Guaning, President, NTU  
-Professor Cen Zhangzhi, Vice Chairman of University Council, Tsinghua University  
+Dr Su Guaning
+<br>President, NTU  
+
+Professor Cen Zhangzhi
+<br>Vice Chairman of University Council, Tsinghua University  
+
 Distinguished guests  
+<br>
 Ladies and gentlemen  
+<br>
 Good Morning.
 
 **Introduction**  

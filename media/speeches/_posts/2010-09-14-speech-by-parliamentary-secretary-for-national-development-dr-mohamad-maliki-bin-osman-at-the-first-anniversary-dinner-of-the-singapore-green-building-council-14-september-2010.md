@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Speech by Parliamentary Secretary for National Development Dr Mohamad Maliki Bin Osman at the First Anniversary Dinner of the Singapore Green Building Council, 14 September 2010
+title: Speech by Parliamentary Secretary for National Development Dr Mohamad Maliki Bin Osman at the First Anniversary Dinner of the Singapore Green Building Council
 subtitle: 14 Sep 2010
 permalink: /media/speeches/speech-by-parliamentary-secretary-for-national-development-dr-mohamad-maliki-bin-osman-at-the-first-anniversary-dinner-of-the-singapore-green-building-council-14-september-2010
 ---
 
-### SPEECH BY PARLIAMENTARY SECRETARY FOR NATIONAL DEVELOPMENT DR MOHAMAD MALIKI BIN OSMAN AT THE FIRST ANNIVERSARY DINNER OF THE SINGAPORE GREEN BUILDING COUNCIL, 14 SEPTEMBER 2010
 
 Mr Tony Arnel  
 Chair, World Green Building Council

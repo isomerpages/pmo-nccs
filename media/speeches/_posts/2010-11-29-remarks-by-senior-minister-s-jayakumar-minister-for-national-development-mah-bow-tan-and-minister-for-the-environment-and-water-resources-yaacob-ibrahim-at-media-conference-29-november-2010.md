@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remarks by Senior Minister S Jayakumar, Minister for National Development Mah Bow Tan and Minister for the Environment and Water Resources Yaacob Ibrahim at media conference, 29 November 2010
+title: Remarks by Senior Minister S Jayakumar, Minister for National Development Mah Bow Tan and Minister for the Environment and Water Resources Yaacob Ibrahim at Media Conference
 subtitle: 29 Nov 2010
 permalink: /media/speeches/remarks-by-senior-minister-s-jayakumar-minister-for-national-development-mah-bow-tan-and-minister-for-the-environment-and-water-resources-yaacob-ibrahim-at-media-conference-29-november-2010
 ---

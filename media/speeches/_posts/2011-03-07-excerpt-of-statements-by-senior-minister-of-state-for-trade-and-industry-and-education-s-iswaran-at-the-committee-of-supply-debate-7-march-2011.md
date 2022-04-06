@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Excerpt of statements by Senior Minister of State for Trade and Industry and Education S Iswaran at the Committee of Supply Debate, 7 March 2011
+title: Excerpt of Statements by Senior Minister of State for Trade and Industry and Education S Iswaran at the Committee of Supply Debate
 subtitle: 7 Mar 2011
 permalink: /media/speeches/excerpt-of-statements-by-senior-minister-of-state-for-trade-and-industry-and-education-s-iswaran-at-the-committee-of-supply-debate-7-march-2011
 ---
-
-### EXCERPT OF STATEMENTS BY SENIOR MINISTER OF STATE FOR TRADE AND INDUSTRY AND EDUCATION S ISWARAN AT THE COMMITTEE OF SUPPLY DEBATE, 7 MARCH 2011
 
 **<u>RESEARCH & DEVELOPMENT</u>**
 
