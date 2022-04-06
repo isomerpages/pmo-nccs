@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  Technology Roadmaps
+title: Technology Roadmaps
 permalink: /media/publications/technology-roadmap
 ---
-
-### TECHNOLOGY ROADMAPS
 
 **Transforming our industry, economy and society with innovation**
 
