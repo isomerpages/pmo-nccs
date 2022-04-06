@@ -5,8 +5,6 @@ subtitle: 4 Nov 2008
 permalink: /media/speeches/transcript-of-minister-mentor-lee-kuan-yew's-dialogue-at-the-singapore-energy-conference-at-raffles-city-convention-centre-in-singapore-4-november-2008
 ---
 
-### TRANSCRIPT OF MINISTER MENTOR LEE KUAN YEW'S POINTS AT THE SINGAPORE ENERGY CONFERENCE DIALOGUE, 4 NOVEMBER 2008
-
 Moderator: “Ladies and gentlemen, Excellencies, welcome to the inaugural Singapore Energy Lecture. We’re most honoured and privileged to have Minister Mentor Lee Kuan Yew to address us this afternoon. The Minister Mentor is well-known to everyone of you and so it is very difficult for me to add to your knowledge of Mr Lee Kuan Yew, but I cannot resist this opportunity to share a few moments with you on a particularly remarkable introduction of Mr Lee which I personally observed.
 
 “In 1995, when Mr Lee was visiting Israel, he was introduced by the then Foreign Minister, Shimon Peres, at a keynote event. All of us in the audience wondered how Mr Shimon Peres, who is a well-known orator and statesman, would introduce Mr Lee. I recall that there was a provision of several minutes for Mr Shimon Peres to give his introductory remarks, but in his usual brilliant way, he said and I quote, looking at Mr Lee, Mr Shimon Peres said, “You have all come to listen to a legend and I now present to you the legend in person”. After that, Mr Shimon Peres gestured Mr Lee to the rostrum and that was all. And now, may I invite Minister Mentor to give us some opening remarks before we commence the dialogue session. MM, please.”
