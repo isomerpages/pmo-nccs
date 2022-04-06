@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Parlimentary Reply by Minister, Prime Minister's Office and Second Minister for Home Affairs and Trade & Industry S Iswaran to Parliamentary Question on the Use of Coal at Tembusu Multi-Utilities Complex on Jurong Island
+title: Parlimentary Reply by Minister, Prime Minister's Office and Second
+  Minister for Home Affairs and Trade & Industry S Iswaran to Parliamentary
+  Question on the Use of Coal at Tembusu Multi-Utilities Complex on Jurong
+  Island
 subtitle: 13 Mar 2013
 permalink: /media/speeches/oral-reply-by-mr-s-iswaran-minister-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-industry-to-parliamentary-question-on-the-use-of-coal
 ---
-
-### PARLIMENTARY REPLY BY MINISTER, PRIME MINISTER'S OFFICE AND SECOND MINISTER FOR HOME AFFAIRS AND TRADE & INDUSTRY S ISWARAN TO PARLIAMENTARY QUESTION ON THE USE OF COAL AT TEMBUSU MULTI-UTILITIES COMPLEX ON JURONG ISLAND, 13 MARCH 2013
-
 **<u>Question by Mrs Lina Chiam:</u>**
 
 To ask the Minister for Trade and Industry:  
