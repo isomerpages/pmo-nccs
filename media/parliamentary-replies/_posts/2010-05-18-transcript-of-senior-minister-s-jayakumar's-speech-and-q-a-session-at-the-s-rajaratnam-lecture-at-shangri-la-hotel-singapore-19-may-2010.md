@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Senior Minister S Jayakumar's Speech and Q&A Session at the S Rajaratnam Lecture at Shangri-la Hotel, Singapore
+title: Senior Minister S Jayakumar's Speech and Q&A Session at the S Rajaratnam
+  Lecture at Shangri-la Hotel, Singapore
 subtitle: 19 May 2010
 permalink: /media/speeches/transcript-of-senior-minister-s-jayakumar's-speech-and-q-a-session-at-the-s-rajaratnam-lecture-at-shangri-la-hotel-singapore-19-may-2010
 ---
-
-### SENIOR MINISTER S JAYAKUMAR'S SPEECH AND Q&A SESSION AT THE S RAJARATNAM LECTURE AT SHANGRI-LA HOTEL, SINGAPORE, 19 MAY 2010
-
 **Introduction**
 
 1\. When I left the Law faculty at the National University of Singapore (NUS) for politics in 1981, I thought that my journey into politics would be only a brief interlude before a welcomed return to academia. I did not foresee that I would take leave from the University for nearly 30 years nor did I expect that one day I would become Foreign Minister.
@@ -185,4 +183,4 @@ Thank you.
 
 **Question**: In Copenhagen, our Prime Minister pledged that if there is overall agreement, Singapore will reduce CO2 emissions by 16 per cent from "business as usual". Could you explain in simple language what does this mean?
 
-**Answer**: By "business as usual", we mean what our emissions would be if we keep the same trajectory of growth and you can work out what would be the emissions rate, growth rate. We sat down with the agencies to work out what we could possibly do to reduce this projected trajectory. And we were able to make a pledge of reduction of 16 per cent. This, of course, also includes whatever we have already announced under our sustainable Singapore blueprint, which we are going to implement anyway. But we have put in the caveat that it [16 per cent] is dependent on a global deal because if we were to do that and all otehr countries did not do so, it doesn't make sense. Because then, it would hurt our economy. 
+**Answer**: By "business as usual", we mean what our emissions would be if we keep the same trajectory of growth and you can work out what would be the emissions rate, growth rate. We sat down with the agencies to work out what we could possibly do to reduce this projected trajectory. And we were able to make a pledge of reduction of 16 per cent. This, of course, also includes whatever we have already announced under our sustainable Singapore blueprint, which we are going to implement anyway. But we have put in the caveat that it [16 per cent] is dependent on a global deal because if we were to do that and all otehr countries did not do so, it doesn't make sense. Because then, it would hurt our economy.
