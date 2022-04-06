@@ -5,7 +5,6 @@ subtitle: 20 Dec 2009
 permalink: /media/speeches/transcript-of-media-interview-with-prime-minister-lee-hsien-loong-senior-minister-s-jayakumar-and-minister-for-the-environment-and-water-resources-yaacob-20-december-2009
 ---
 
-### TRANSCRIPT OF MEDIA INTERVIEW WITH PRIME MINISTER LEE HSIEN LOONG, SENIOR MINISTER S JAYAKUMAR, AND MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES YAACOB IBRAHIM IN COPENHAGEN, DENMARK, 20 DECEMBER 2009
 
 <u><b>Question 1</b></u>: Prime Minister, could you tell us what your reaction is to the progress?  
 **Prime Minister Lee**: We are disappointed with the outcome so far.
