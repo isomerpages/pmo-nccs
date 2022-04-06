@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Parlimentary Reply by Minister for the Environment and Water Resources Dr Vivian Balakrishnan to Parliamentary Question on Impact of Climate Change
+title: Parlimentary Reply by Minister for the Environment and Water Resources Dr
+  Vivian Balakrishnan to Parliamentary Question on Impact of Climate Change
 subtitle: 14 Feb 2012
 permalink: /media/speeches/written-reply-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-to-parliamentary-question-on-impact-of-climate-change-14-february-2012
 ---
-
-### PARLIMENTARY REPLY BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR VIVIAN BALAKRISHNAN TO PARLIAMENTARY QUESTION ON IMPACT OF CLIMATE CHANGE, 14 FEBRUARY 2012
-
 <u>Question by <b>Er Dr Lee Bee Wah:</b></u>
 
 To ask the Minister for the Environment and Water Resources:  
