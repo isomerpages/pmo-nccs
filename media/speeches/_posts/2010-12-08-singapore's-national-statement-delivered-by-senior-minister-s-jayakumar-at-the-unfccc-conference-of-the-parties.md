@@ -6,7 +6,7 @@ permalink: /media/speeches/singapore's-national-statement-delivered-by-senior-mi
 ---
 
 <a href="/images/cancun-mexico.jpg" target="_blank"> ![Senior Minister S Jayakumar and Minister Yaacob Ibrahim at the 16th UNFCCC Conference of the Parties (COP-16) in Cancun, Mexico](/images/cancun-mexico.jpg "Senior Minister S Jayakumar and Minister Yaacob Ibrahim at the 16th UNFCCC Conference of the Parties (COP-16) in Cancun, Mexico")</a>
-Senior Minister S Jayakumar and Minister Yaacob Ibrahim at the 16th UNFCCC Conference of the Parties (COP-16) in Cancun, Mexico.
+<br>Senior Minister S Jayakumar and Minister Yaacob Ibrahim at the 16th UNFCCC Conference of the Parties (COP-16) in Cancun, Mexico.
 
 1 Climate change is one of the most complex long-term challenges we face today. For all nations, mitigation efforts impact policies on environment, economy and energy security. They are politically difficult. This is because the measures are costly but the benefits are not only uncertain but would accrue over the long term and then too for the global commons. Adaptation measures require substantial funding and the costs could increase in the long term if climate change is not effectively mitigated.  
 <br>
