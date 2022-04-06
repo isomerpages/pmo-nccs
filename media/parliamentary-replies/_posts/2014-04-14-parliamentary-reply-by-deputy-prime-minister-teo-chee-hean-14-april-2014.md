@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Parlimentary Reply by Deputy Prime Minister Teo Chee Hean to Parliamentary Question on Whole-of-Government Approach to UN IPCC Recommendations and Singapore's Commitment to Climate Action
+title: Parlimentary Reply by Deputy Prime Minister Teo Chee Hean to
+  Parliamentary Question on Whole-of-Government Approach to UN IPCC
+  Recommendations and Singapore's Commitment to Climate Action
 subtitle: 14 Apr 2014
 permalink: /media/speeches/parliamentary-reply-by-deputy-prime-minister-teo-chee-hean-14-april-2014
 ---
-
-### PARLIAMENTARY REPLY BY DEPUTY PRIME MINISTER TEO CHEE HEAN TO PARLIMENTARY QUESTION ON WHOLE-OF-GOVERNMENT APPROACH TO UN IPCC RECOMMENDATIONS AND SINGAPORE'S COMMITMENT TO CLIMATE CHANGE 14 APRIL 2014
-
 **ENHANCING COMMITMENT TO CLIMATE CHANGE**
 
 Ms Faizah Jamal asked the Prime Minister what development plans and past strategies need to be reviewed as a “whole-of-Government” approach to ensure that the recommended solutions of the UN Intergovernmental Panel on Climate Change are heeded and our commitment strengthened in dealing with climate change.
@@ -32,4 +31,3 @@ As Singapore has limited access to renewable energy, our key strategy in reducin
 Singapore supports multilateral negotiations under the United Nations Framework Convention on Climate Change (UNFCCC) where countries are working towards a post-2020 global agreement. As part of this effort, we are studying how we can stabilise our long-term emissions.
 
 Addressing the global challenge of climate change requires the participation of all countries. Singapore is committed to working closely with the global community to address this challenge together. Everyone has a part to play whether through lifestyle adjustments or changes to business processes. Every individual effort, such as using more energy efficient appliances and modes of transport, will count.
-
