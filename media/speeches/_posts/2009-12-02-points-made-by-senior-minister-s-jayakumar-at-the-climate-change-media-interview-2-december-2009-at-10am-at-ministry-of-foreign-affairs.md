@@ -5,8 +5,6 @@ subtitle: 2 Dec 2009
 permalink: /media/speeches/points-made-by-senior-minister-s-jayakumar-at-the-climate-change-media-interview-2-december-2009-at-10am-at-ministry-of-foreign-affairs
 ---
 
-
-### POINTS MADE BY SENIOR MINISTER S JAYAKUMAR AT THE CLIMATE CHANGE MEDIA INTERVIEW, 2 DECEMBER 2009 AT 10AM AT MINISTRY OF FOREIGN AFFAIRS
 ### **SINGAPORE'S DELEGATION TO COPENHAGEN CONFERENCE**
 
 PM, SM/CMNS and Min (EWR) will attend the Copenhagen Conference. 
