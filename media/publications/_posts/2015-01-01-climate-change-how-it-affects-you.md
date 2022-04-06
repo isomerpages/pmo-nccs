@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  'Education Materials : Climate Change : How It Affects You'
+title: "Education Materials : Climate Change : How It Affects You"
 permalink: /media/publications/climate-change-how-it-affects-you
 ---
-
-
-### CLIMATE CHANGE: HOW IT AFFECTS YOU
 
 ![Climate Change : How It Affects You](/images/climate-change-how-it-affects-you.jpg "Climate Change : How It Affects You"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 
