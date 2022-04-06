@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Speech by Minister for the Environment and Water Resources Dr Yaacob
-  Ibrahim at the World GBC International Congress 2010, 13 September 2010
+  Ibrahim at the World GBC International Congress 2010
 subtitle: 13 Sep 2010
 permalink: /media/speeches/speech-by-minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim-at-the-world-gbc-international-congress-2010-13-september-2010
 ---
-### SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR YAACOB IBRAHIM AT THE WORLD GBC INTERNATIONAL CONGRESS 2010, 13 SEPTEMBER 2010
 
 Mr Tony Arnel  
 Chair, World Green Building Council
