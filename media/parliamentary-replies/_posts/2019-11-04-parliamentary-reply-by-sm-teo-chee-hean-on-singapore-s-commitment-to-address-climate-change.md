@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  Parliamentary Reply by SM Teo Chee Hean on Singapore’s Commitment to Address Climate Change
+title: Parliamentary Reply by SM Teo Chee Hean on Singapore’s Commitment to
+  Address Climate Change
 subtitle: 4 Nov 2019
 permalink: /media/news/parliamentary-reply-by-sm-teo-chee-hean-on-singapore-s-commitment-to-address-climate-change
 ---
-
-### PARLIAMENTARY REPLY BY SENIOR MINISTER TEO CHEE HEAN ON SINGAPORE’S COMMITMENT TO ADDRESS CLIMATE CHANGE
-
 **Ms Anthea Ong:**
 
 To ask the Prime Minister following the SG Climate Rally where our youths called for peak emissions by 2020, halved emissions by 2030 and net zero emissions by 2050, (a) whether the Government is (i) including carbon emission reductions and economic decarbonisation targets in its Nationally Determined Contribution (NDC) to be updated by 2020 (ii) enhancing our upcoming NDC to reflect its highest possible ambition (iii) declaring a climate emergency to highlight the severity of the climate crisis and (iv) setting a timeline for Singapore to reach net zero emissions.
