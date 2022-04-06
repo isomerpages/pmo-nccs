@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Excerpt of statements by Minister for the Environment and Water Resources Yaacob Ibrahim at the Committee of Supply Debate, 4 March 2011
+title: Excerpt of Statements by Minister for the Environment and Water Resources Yaacob Ibrahim at the Committee of Supply Debate
 subtitle: 4 Mar 2011
 permalink: /media/speeches/excerpt-of-statements-by-minister-for-the-environment-and-water-resources-yaacob-ibrahim-at-the-committee-of-supply-debate-4-march-2011
 ---
-
-### EXCERPT OF STATEMENTS BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES YAACOB IBRAHIM AT THE COMMITTEE OF SUPPLY DEBATE, 4 MARCH 2011
 
 **<u>INTRODUCTORY REMARKS</u>**
 
