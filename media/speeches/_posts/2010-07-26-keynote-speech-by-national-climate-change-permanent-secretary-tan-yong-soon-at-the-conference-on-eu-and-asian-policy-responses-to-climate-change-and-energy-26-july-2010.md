@@ -15,7 +15,9 @@ Dr Yeo Lay Hwee
 Director, EU Centre in Singapore
 
 Excellencies  
+<br>
 Ladies and gentlemen  
+<br>
 Good morning.
 
 I am very pleased to join you at today’s conference. I would like to thank the Institute of Southeast Asian Studies (ISEAS), the Energy Studies Institute (ESI) and the EU Centre for organising this event. This is a timely platform for dialogue and exchanging information on climate change.
