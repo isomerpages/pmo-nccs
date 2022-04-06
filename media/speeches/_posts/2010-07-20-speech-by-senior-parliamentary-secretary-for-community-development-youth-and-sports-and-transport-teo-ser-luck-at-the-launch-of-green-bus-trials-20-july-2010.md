@@ -6,18 +6,18 @@ permalink: /media/speeches/speech-by-senior-parliamentary-secretary-for-communit
 ---
 
 Mr Gan Juay Kiat 
-CEO, SBS Transit 
+<br>CEO, SBS Transit 
 
 Dr Su Guaning
-President, NTU  
+<br>President, NTU  
 
 Professor Cen Zhangzhi
-Vice Chairman of University Council, Tsinghua University  
+<br>Vice Chairman of University Council, Tsinghua University  
 
 Distinguished guests  
-
+<br>
 Ladies and gentlemen  
-
+<br>
 Good Morning.
 
 **Introduction**  
