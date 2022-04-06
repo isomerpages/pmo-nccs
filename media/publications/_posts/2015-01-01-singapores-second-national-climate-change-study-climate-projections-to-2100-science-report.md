@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  Singapore's Second National Climate Change Study – Climate Projections to 2100 Science Report
+title: Singapore's Second National Climate Change Study – Climate Projections to
+  2100 Science Report
 permalink: /media/publications/singapores-second-national-climate-change-study-climate-projections-to-2100-science-report
 ---
-
-### SINGAPORE'S SECOND NATIONAL CLIMATE STUDY - CLIMATE PROJECTIONS TO 2100 SCIENCE REPORTS
 
 ![Singapore's Second National Climate Change Study – Climate Projections to 2100 Science Report](/images/singapores-second-national-climate-change-study-climate-projections-to-2100-science-report.jpg "Singapore's Second National Climate Change Study – Climate Projections to 2100 Science Report"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 
