@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Singapore's National Statement delivered by Senior Minister S Jayakumar at the UNFCCC Conference of the Parties (COP-16) High Level Segment, Cancun, 8 December 2010
+title: Singapore's National Statement Delivered by Senior Minister S Jayakumar at the UNFCCC Conference of the Parties (COP-16) High Level Segment, Cancun
 subtitle: 8 Dec 2010
 permalink: /media/speeches/singapore's-national-statement-delivered-by-senior-minister-s-jayakumar-at-the-unfccc-conference-of-the-parties
 ---
-
-### SINGAPORE'S NATIONAL STATEMENT DELIVERED BY SENIOR MINISTER S JAYAKUMAR AT THE UNFCCC CONFERENCE OF THE PARTIES (COP-16) HIGH LEVEL SEGMENT, CANCUN, 8 DECEMBER 2010
-
 
 <a href="/images/cancun-mexico.jpg" target="_blank"> ![Senior Minister S Jayakumar and Minister Yaacob Ibrahim at the 16th UNFCCC Conference of the Parties (COP-16) in Cancun, Mexico](/images/cancun-mexico.jpg "Senior Minister S Jayakumar and Minister Yaacob Ibrahim at the 16th UNFCCC Conference of the Parties (COP-16) in Cancun, Mexico")</a>
 Senior Minister S Jayakumar and Minister Yaacob Ibrahim at the 16th UNFCCC Conference of the Parties (COP-16) in Cancun, Mexico.
