@@ -5,7 +5,6 @@ subtitle: 29 Jun 2010
 permalink: /media/speeches/opening-address-by-minister-for-national-development-mah-bow-tan-at-the-joint-opening-plenary-of-the-world-cities-summit-2010-and-the-singapore-international-water-week-2010-29-june-2010
 ---
 
-### OPENING ADDRESS BY MINISTER FOR NATIONAL DEVELOPMENT MAH BOW TAN AT THE JOINT OPENING PLENARY OF THE WORLD CITIES SUMMIT 2010 AND THE SINGAPORE INTERNATIONAL WATER WEEK 2010, 29 JUNE 2010
 
 Your Royal Highness, Prince Willem-Alexander, the Prince of Orange from The Netherlands  
 Excellencies  
