@@ -7,7 +7,7 @@ permalink: /media/speeches/speech-by-senior-minister-of-state-for-trade-and-indu
 
 
 Your Excellencies  
-<br><br>
+<br>
 Distinguished Guests
 <br><br>
 Ladies and Gentlemen,
