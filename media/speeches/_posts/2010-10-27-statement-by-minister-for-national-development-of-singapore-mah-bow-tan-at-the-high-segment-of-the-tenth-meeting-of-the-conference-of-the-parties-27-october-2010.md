@@ -5,13 +5,13 @@ subtitle: 27 Oct 2010
 permalink: /media/speeches/statement-by-minister-for-national-development-of-singapore-mah-bow-tan-at-the-high-segment-of-the-tenth-meeting-of-the-conference-of-the-parties-27-october-2010
 ---
 
-Mr Chairman,
+Mr Chairman
 
-Distinguished delegates,
+Distinguished Delegates
 
-Excellencies,
+Excellencies
 
-Ladies and gentlemen,
+Ladies and Gentlemen
 
 1\. We are all here because we believe in the cause and recognize the necessity and urgency of the task before us to conserve our biodiversity. But the journey to achieve our goal will be long and challenging.
 
