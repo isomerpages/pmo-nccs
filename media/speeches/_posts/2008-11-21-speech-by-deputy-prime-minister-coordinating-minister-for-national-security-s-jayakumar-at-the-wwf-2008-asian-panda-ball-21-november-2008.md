@@ -5,10 +5,14 @@ subtitle: 21 Nov 2008
 permalink: /media/speeches/speech-by-deputy-prime-minister-coordinating-minister-for-national-security-s-jayakumar-at-the-wwf-2008-asian-panda-ball-21-november-2008
 ---
 
-Her Royal Highness Princess Laurentien,  
-James Leape, Director-General of WWF International,  
-Distinguished Guests,  
-Ladies and Gentlemen,
+Her Royal Highness Princess Laurentien
+<br><br>
+James Leape
+Director-General of WWF International
+<br><br>
+Distinguished Guests
+<br><br>
+Ladies and Gentlemen
 
 It is my pleasure to be here this evening at the WWF 2008 Asian Panda Ball.
 
