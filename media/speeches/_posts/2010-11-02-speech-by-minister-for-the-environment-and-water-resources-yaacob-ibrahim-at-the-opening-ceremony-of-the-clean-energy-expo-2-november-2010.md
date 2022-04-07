@@ -14,7 +14,7 @@ Vice President Asia Pacific, Koelnmesse
 
 Distinguished Guests
 
-Ladies and gentlemen
+Ladies and Gentlemen
 
 A very good morning.
 
