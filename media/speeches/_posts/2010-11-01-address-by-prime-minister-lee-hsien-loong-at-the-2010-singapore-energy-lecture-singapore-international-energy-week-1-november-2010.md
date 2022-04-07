@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Address by Prime Minister Lee Hsien Loong at the 2010 Singapore Energy Lecture, Singapore International Energy Week, 1 November 2010
+title: Address by Prime Minister Lee Hsien Loong at the 2010 Singapore Energy Lecture, Singapore International Energy Week
 subtitle: 1 Nov 2010
 permalink: /media/speeches/address-by-prime-minister-lee-hsien-loong-at-the-2010-singapore-energy-lecture-singapore-international-energy-week-1-november-2010
 ---
 
-### ADDRESS BY PRIME MINISTER LEE HSIEN LOONG AT THE 2010 SINGAPORE ENERGY LECTURE, SINGAPORE INTERNATIONAL ENERGY WEEK, 1 NOVEMBER 2010
-
 <a href="/images/address-by-prime-minister-lee-hsien-loong.jpg" target="_blank"> ![Address by Prime Minister Lee Hsien Loong](/images/address-by-prime-minister-lee-hsien-loong.jpg "Address by Prime Minister Lee Hsien Loong")</a>
 
-Excellencies,  
-Distinguished guests,  
-Ladies and gentlemen.
+Excellencies
+<br>
+Distinguished Guests
+<br>
+Ladies and gentlemen
 
 I am very happy to join you this morning for the 3rd Singapore International Energy Week. This year’s event has attracted the largest ever participation from the region and beyond and this strong turnout reflects the growing priority that all countries are placing on energy issues today.
 
