@@ -1,11 +1,9 @@
 ---
 layout: post
-title: The Third Linnaeus Lecture, Biodiversity and Cities by Tommy Koh, Chairman, Preparatory Committee for UNCED, Chairman, Main Committee, UNCED, President, UNCED, UNEP's Champion of the Earth (2006), 22 October 2010
+title: The Third Linnaeus Lecture, Biodiversity and Cities by Tommy Koh, Chairman, Preparatory Committee for UNCED, Chairman, Main Committee, UNCED, President, UNCED, UNEP's Champion of the Earth (2006)
 subtitle: 22 Oct 2010
 permalink: /media/speeches/the-third-linnaeus-lecture-biodiversity-and-cities-by-tommy-koh-chairman-preparatory-committee-for-unced-chairman-main-committee-unced-president-(2006)22-october-2010
 ---
-
-### THE THIRD LINNAEUS LECTURE, BIODIVERSITY AND CITIES BY TOMMY KOH, CHAIRMAN, PREPARATORY COMMITTEE FOR UNCED, CHAIRMAN, MAIN COMMITTEE, UNCED, PRESIDENT, UNCED, UNEP'S CHAMPION OF THE EARTH (2006), 22 OCTOBER 2010
 
 1\. Dr Ahmed Djoghlaf, Executive Secretary of the Convention on Biological Diversity (CBD); Mr Peter Egardt, the County Governor of Uppsala, Sweden; Minister Ryu Matsumoto, the Minister for the Environment of Japan; Your Excellencies, Distinguished Guests, Ladies and Gentlemen.
 
