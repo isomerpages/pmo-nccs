@@ -5,9 +5,9 @@ subtitle: 15 Feb 2011
 permalink: /media/speeches/speech-by-minister-for-trade-and-industry-lim-hng-kiang-at-the-opening-ceremony-of-rolls-royce-global-marine-headquarters-15-february-2011
 ---
 
-### SPEECH BY MINISTER FOR TRADE AND INDUSTRY LIM HNG KIANG AT THE OPENING CEREMONY OF ROLLS-ROYCE GLOBAL MARINE HEADQUARTERS, 15 FEBRUARY 2011
 
-Sir John Rose, Chief Executive of Rolls-Royce 
+Sir John Rose
+<br>Chief Executive of Rolls-Royce 
 
 Distinguished Guests
  
