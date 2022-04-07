@@ -5,9 +5,9 @@ subtitle: 6 Oct 2010
 permalink: /media/speeches/keynote-speech-by-national-environment-agency-ceo-andrew-tan-at-the-2nd-international-singapore-compact-csr-summit-2010-6-october-2010
 ---
 
-Distinguished guests,
+Distinguished Guests
 
-Ladies and gentlemen,
+Ladies and Gentlemen
 
 A very good afternoon to all of you.
 
