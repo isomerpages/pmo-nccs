@@ -10,9 +10,9 @@ Mr Roland Appl
 
 President, International Green Roof Association
 
-Distinguished guests
+Distinguished Guests
 
-Ladies and gentlemen
+Ladies and Gentlemen
 
 1\. I am delighted to be here this morning at the official opening of the inaugural International Skyrise Greenery Conference 2010. Organised by the National Parks Board, the Centre for Urban Greenery and Ecology and the International Green Roof Association, this conference has attracted more than 400 participants from 25 countries.
 
