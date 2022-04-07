@@ -5,8 +5,6 @@ subtitle: 27 Oct 2010
 permalink: /media/speeches/statement-by-minister-for-national-development-of-singapore-mah-bow-tan-at-the-high-segment-of-the-tenth-meeting-of-the-conference-of-the-parties-27-october-2010
 ---
 
-### STATEMENT BY MINISTER FOR NATIONAL DEVELOPMENT OF SINGAPORE MAH BOW TAN AT THE HIGH SEGMENT OF THE TENTH MEETING OF THE CONFERENCE OF THE PARTIES TO THE CONVENTION ON BIOLOGICAL DIVERSITY IN NAGOYA, JAPAN, 27 OCTOBER 2010
-
 Mr Chairman,
 
 Distinguished delegates,
