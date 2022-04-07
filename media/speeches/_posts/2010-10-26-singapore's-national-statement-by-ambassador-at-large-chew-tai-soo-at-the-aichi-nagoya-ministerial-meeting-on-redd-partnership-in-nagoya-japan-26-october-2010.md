@@ -6,7 +6,7 @@ permalink: /media/speeches/singapore's-national-statement-by-ambassador-at-large
 ---
 
 Minister Maehara 
-<br>
+<br><br>
 Minister Abal  
 <br>
 Excellencies  
