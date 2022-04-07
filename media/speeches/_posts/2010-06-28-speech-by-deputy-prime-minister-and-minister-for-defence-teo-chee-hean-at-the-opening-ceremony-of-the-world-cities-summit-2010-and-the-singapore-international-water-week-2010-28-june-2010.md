@@ -6,8 +6,11 @@ permalink: /media/speeches/speech-by-deputy-prime-minister-and-minister-for-defe
 ---
 
 Your Royal Highness, Prince Willem-Alexander, the Prince of Orange from The Netherlands  
+<br><br>
 Excellencies  
+<br>
 Distinguished Guests  
+<br>
 Ladies and Gentlemen
 
 **Introduction**
