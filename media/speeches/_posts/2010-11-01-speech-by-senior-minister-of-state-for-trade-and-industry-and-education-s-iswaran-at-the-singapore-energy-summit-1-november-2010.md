@@ -10,7 +10,7 @@ Your Excellencies
 <br>
 Distinguished Guests
 <br><br>
-Ladies and Gentlemen,
+Ladies and Gentlemen
 
 **Introduction**  
 A very good morning and I would like to extend a warm welcome to all speakers and participants at the Singapore International Energy Week (SIEW).
