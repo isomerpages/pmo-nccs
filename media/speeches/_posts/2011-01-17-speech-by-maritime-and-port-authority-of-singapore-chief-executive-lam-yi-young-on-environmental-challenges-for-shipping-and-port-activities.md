@@ -11,7 +11,7 @@ Excellencies
 
 Distinguished Guests
 
-Ladies and Gentlemen.
+Ladies and Gentlemen
 
 I am very pleased to join you at this afternoon's Sustainable Marine Transportation Conference. I would first like to thank the organisers, the Royal Norwegian Embassy in Singapore, Innovation Norway and the Norwegian Business Association (Singapore) for giving me the opportunity to speak to you today and to share Singapore's perspectives on the environmental challenges facing shipping and port activities.
 
