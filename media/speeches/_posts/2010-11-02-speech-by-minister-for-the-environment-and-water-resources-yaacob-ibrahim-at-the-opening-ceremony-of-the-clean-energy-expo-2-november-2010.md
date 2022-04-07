@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Speech by Minister for the Environment and Water Resources Yaacob Ibrahim
-  at the Opening Ceremony of the Clean Energy Expo, 2 November 2010
+  at the Opening Ceremony of the Clean Energy Expo
 subtitle: 2 Nov 2010
 permalink: /media/speeches/speech-by-minister-for-the-environment-and-water-resources-yaacob-ibrahim-at-the-opening-ceremony-of-the-clean-energy-expo-2-november-2010
 ---
-### SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES YAACOB IBRAHIM AT THE OPENING CEREMONY OF THE CLEAN ENERGY EXPO, 2 NOVEMBER 2010
 
 Mr Edwin Khew  
 Chairman, Sustainable Energy Association of Singapore
@@ -13,7 +12,7 @@ Chairman, Sustainable Energy Association of Singapore
 Mr Michael Dreyer  
 Vice President Asia Pacific, Koelnmesse
 
-Distinguished guests
+Distinguished Guests
 
 Ladies and gentlemen
 
