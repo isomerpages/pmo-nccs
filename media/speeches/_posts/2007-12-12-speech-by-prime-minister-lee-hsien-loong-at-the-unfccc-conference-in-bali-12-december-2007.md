@@ -6,10 +6,10 @@ permalink: /media/speeches/speech-by-prime-minister-lee-hsien-loong-at-the-unfcc
 ---
 
 Dr Susilo Bambang Yudhoyono
-President of the Republic of Indonesia 
+<br>President of the Republic of Indonesia 
 <br><br>
 Mr Rachmat Witoelar
-President of the Conference
+<br>President of the Conference
 
 **Introduction**  
 Climate change is an enormous long-term challenge confronting mankind. Scientists do not know how quickly it will happen, how severe it will be, or all of its consequences. But the signs are growing - melting polar icecaps, vanishing glaciers, hotter and longer summers, more intense typhoons and hurricanes. If we fail to address climate change, ecosystems and human societies could experience major disruptions over the next 50 to 100 years, and quite possibly sooner.
