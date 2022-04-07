@@ -9,9 +9,9 @@ permalink: /media/speeches/opening-address-by-minister-for-national-development-
 Your Royal Highness, Prince Willem-Alexander, the Prince of Orange from The Netherlands 
 <br><br>
 Excellencies  
-<br><br>
+<br>
 Distinguished Guests  
-<br><br>
+<br>
 Ladies and Gentlemen
 
 **Introduction**
