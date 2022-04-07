@@ -8,9 +8,9 @@ permalink: /media/speeches/address-by-prime-minister-lee-hsien-loong-at-the-2010
 <a href="/images/address-by-prime-minister-lee-hsien-loong.jpg" target="_blank"> ![Address by Prime Minister Lee Hsien Loong](/images/address-by-prime-minister-lee-hsien-loong.jpg "Address by Prime Minister Lee Hsien Loong")</a>
 
 Excellencies
-<br>
+<br><br>
 Distinguished Guests
-<br>
+<br><br>
 Ladies and gentlemen
 
 I am very happy to join you this morning for the 3rd Singapore International Energy Week. This year’s event has attracted the largest ever participation from the region and beyond and this strong turnout reflects the growing priority that all countries are placing on energy issues today.
