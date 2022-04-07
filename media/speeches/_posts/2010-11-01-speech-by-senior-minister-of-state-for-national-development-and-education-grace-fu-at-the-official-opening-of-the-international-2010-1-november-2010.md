@@ -5,7 +5,6 @@ subtitle: 1 Nov 2010
 permalink: /media/speeches/speech-by-senior-minister-of-state-for-national-development-and-education-grace-fu-at-the-official-opening-of-the-international-2010-1-november-2010
 ---
 
-### SPEECH BY SENIOR MINISTER OF STATE FOR NATIONAL DEVELOPMENT AND EDUCATION GRACE FU AT THE OFFICIAL OPENING OF THE INTERNATIONAL SKYRISE GREENERY CONFERENCE 2010 AT THE NATIONAL LIBRARY BOARD, 1 NOVEMBER 2010
 
 Mr Roland Appl
 
