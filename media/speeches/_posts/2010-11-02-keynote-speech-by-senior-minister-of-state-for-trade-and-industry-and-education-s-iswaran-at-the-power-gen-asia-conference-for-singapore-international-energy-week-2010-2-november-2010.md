@@ -5,9 +5,7 @@ subtitle: 2 Nov 2010
 permalink: /media/speeches/keynote-speech-by-senior-minister-of-state-for-trade-and-industry-and-education-s-iswaran-at-the-power-gen-asia-conference-for-singapore-international-energy-week-2010-2-november-2010
 ---
 
-### KEYNOTE SPEECH BY SENIOR MINISTER OF STATE FOR TRADE AND INDUSTRY, AND EDUCATION S ISWARAN AT THE POWER-GEN ASIA CONFERENCE FOR SINGAPORE INTERNATIONAL ENERGY WEEK 2010, 2 NOVEMBER 2010
-
-Distinguished guests
+Distinguished Guests
 
 Ladies and Gentlemen
 
