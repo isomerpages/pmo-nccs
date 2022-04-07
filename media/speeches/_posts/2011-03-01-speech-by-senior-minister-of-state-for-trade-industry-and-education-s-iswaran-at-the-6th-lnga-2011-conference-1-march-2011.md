@@ -6,9 +6,9 @@ permalink: /media/speeches/speech-by-senior-minister-of-state-for-trade-industry
 ---
 
 
-Distinguished Guests,
+Distinguished Guests
 
-Ladies and Gentlemen, 
+Ladies and Gentlemen 
 
 I am pleased to join you this morning at the “LNG Supplies for Asian Markets 2011” Conference.
  
