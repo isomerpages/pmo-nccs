@@ -5,14 +5,13 @@ subtitle: 29 Nov 2010
 permalink: /media/speeches/speech-by-maritime-and-port-authority-of-singapore-chief-executive-lam-yi-young-at-the-launch-of-the-new-maritime-fuel-cell-research-initiative-29-november-2010
 ---
 
-### SPEECH BY MARITIME AND PORT AUTHORITY OF SINGAPORE CHIEF EXECUTIVE LAM YI YOUNG AT THE LAUNCH OF THE NEW MARITIME FUEL CELL RESEARCH INITIATIVE BETWEEN MPA AND TEMASEK POLYTECHNIC, 29 NOVEMBER 2010
 
 Mr Boo Kheng Hua  
 Principal & CEO, Temasek Polytechnic
 
-Distinguished guests,
+Distinguished Guests
 
-Ladies and gentlemen,
+Ladies and Gentlemen
 
 Good afternoon. It is my pleasure to be here today for the launch of the new Maritime Fuel Cell Research Initiative between Temasek Polytechnic and the Maritime and Port Authority of Singapore.
 
