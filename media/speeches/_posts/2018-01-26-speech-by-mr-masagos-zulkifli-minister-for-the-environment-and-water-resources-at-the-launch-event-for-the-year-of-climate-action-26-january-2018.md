@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Speech by Minister for the Environment and Water Resources Masagos Zulkifli at the Launch Event for the Year of Climate Action
+title: Speech by Minister for the Environment and Water Resources Masagos
+  Zulkifli at the Launch Event for the Year of Climate Action
 subtitle: 26 Jan 2018
 permalink: /media/speeches/speech-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-launch-event-for-the-year-of-climate-action-26-january-2018
 ---
-### SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES MASAGOS ZULKIFLI AT THE LAUNCH EVENT FOR THE YEAR OF CLIMATE ACTION, 26 JANUARY 2018
+Your Excellencies 
 
-Your Excellencies, 
-
-Mr Sherman Kwek,  
+Mr Sherman Kwek 
 Chief Executive Officer of City Developments Limited
 
-Ladies and Gentlemen,
+Ladies and Gentlemen
 
 Good morning. We are here today to mark a significant event – the official launch of the Year of Climate Action for Singapore.  I am happy to see such a big gathering – from ambassadors to corporate chiefs, trade association representatives, school principals, NGOs and the media.
 
@@ -65,7 +64,7 @@ To signify the official beginning of our rallying together for climate action, I
 
 We have received more than 200 pledges from individuals and organisations to date. I want to encourage everyone here to make a pledge, if you have not already done so.  It is a good positive action and will help us push forward collectively during this Year of Climate Action.
 
-We have set up a new [<a href="https://climateaction.sg/">Climate Action SG blog</a>](https://climateaction.sg/) to keep the public up-to-date on all climate-related matters in Singapore. This blog will be a community-run effort and I hope all of you can contribute and share your climate action stories, articles, events and photos with us on this site.
+We have set up a new Climate Action SG blog to keep the public up-to-date on all climate-related matters in Singapore. This blog will be a community-run effort and I hope all of you can contribute and share your climate action stories, articles, events and photos with us on this site.
 
 I also encourage all of you to use the Climate Action Logo to brand your sustainability activities and events. The “red dot” in the logo references Singapore as a small country amongst the global family of nations; while the iconic Singapore skyline forms a strong base, and shows that everyone has a part to play in Climate Action. Taking climate action will help to preserve a Sustainable Singapore.  Please use the hashtag #ClimateActionSG for your social media posts – to help raise awareness on this call to action.
 
