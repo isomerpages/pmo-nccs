@@ -37,7 +37,7 @@ Ladies and Gentlemen
 **Conclusion**
 
 
-9\. I am pleased to learn that the Parties will formally adopt the Plan of Action on Sub-national Governments, Cities and Other Local Authorities for Biodiversity (2011-2020)at the COP10 Plenary on 29 October 2010.
+9\. I am pleased to learn that the Parties will formally adopt the Plan of Action on Sub-national Governments, Cities and Other Local Authorities for Biodiversity (2011-2020) at the COP10 Plenary on 29 October 2010.
 
 10\. Closer partnerships between governments, non-governmental organisations, and businesses are key to implementing this Plan. Singapore strongly supports this Plan. As our commitment to forward this process, I would like to offer the World Cities Summit and the Mayors' Forum held in Singapore, as platforms for sharing experiences and best practices on conserving biodiversity and addressing the pressing challenges facing cities today. As the World Cities Summit is held every two years in June, a few months before CBD COP, a Cities and Biodiversity Session within the Summit can serve as a preparatory meeting for cities to report on their progress in biodiversity conservation and the application of the Singapore Index. The deliberations of the session could then be reported to CBD COP.
 
