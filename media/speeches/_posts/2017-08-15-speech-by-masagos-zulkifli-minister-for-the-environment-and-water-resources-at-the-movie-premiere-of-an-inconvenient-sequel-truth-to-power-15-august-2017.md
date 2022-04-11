@@ -35,4 +35,4 @@ As we enjoy the documentary in the comfort of this theatre, I hope you put on yo
 
 Thank you!
 <br><br><br><br>
-Source:[National Archives of Singapore](/files/15Aug2017SpeechMinMasagosTruthToPower.pdf)
+Source: [National Archives of Singapore](/files/15Aug2017SpeechMinMasagosTruthToPower.pdf)
