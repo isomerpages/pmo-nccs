@@ -45,7 +45,7 @@ The European Union is a close and strong partner in our fight against climate ch
 
 ----------
 
-<sup>1</sup> More details on Singapore’s Inter-Ministerial Committee on Climate Change can be found at this [<a href="https://www.nccs.gov.sg/who-we-are/inter-ministerial-committee-on-climate-change" target="_blank">link</a>]("https://www.nccs.gov.sg/who-we-are/inter-ministerial-committee-on-climate-change")
+<sup>1</sup> More details on Singapore’s Inter-Ministerial Committee on Climate Change can be found at this [link](https://www.nccs.gov.sg/who-we-are/inter-ministerial-committee-on-climate-change/).
 <br><sup>2</sup> More information on Singapore’s enhanced NDC and LEDS can be found in Annex A.
 <br><sup>3</sup> More information on the Singapore Green Plan 2030 can be found in Annex B.
 <br><sup>4</sup> More information on Singapore’s collaboration with international partners on climate action can be found at this [<a href="https://www.nccs.gov.sg/singapores-climate-action/singapore-and-international-efforts/" target="_blank">link</a>](https://www.nccs.gov.sg/singapores-climate-action/singapore-and-international-efforts/).
