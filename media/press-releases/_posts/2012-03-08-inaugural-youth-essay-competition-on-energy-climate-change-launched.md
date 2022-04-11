@@ -4,7 +4,6 @@ title: Inaugural youth essay competition on energy & climate change launched
 subtitle: 8 Mar 2012
 permalink: /media/press-release/inaugural-youth-essay-competition-on-energy-climate-change-launched
 ---
-
 ### INAUGURAL YOUTH ESSAY COMPETITION ON ENERGY & CLIMATE CHANGE LAUNCHED
 
 **Singapore, 8 March 2012** - The Economic Society of Singapore (ESS) today launched a youth essay competition with the topic of “Identifying Opportunities and Powering Sustainable Growth in Singapore”. This competition aims to raise awareness amongst young adults on energy and climate change issues, and to identify opportunities which could lead to a sustainable growth path for Singapore. The competition is jointly supported by the Energy Market Authority (EMA) and the National Climate Change Secretariat (NCCS).
@@ -19,7 +18,7 @@ As a resource-constrained country, Singapore needs to ensure that energy does no
 
 The essay competition is open to all pre-university students in Singapore, including pre-university Singaporean students studying abroad, and will run for two months starting today. Cash prizes will be awarded to the top three essays with the winner receiving S$3,000, the runner up S$2,000 and the third prize winner S$1,000.
 
-More information and entry forms for this competition can be found on the ESS website at [<a href="http://ess.org.sg/" target="_blank">www.ess.org.sg</a>](http://ess.org.sg/).
+More information and entry forms for this competition can be found on the ESS website at ess.org.sg.
 The closing date for this competition is 8 May 2012.
 
 
