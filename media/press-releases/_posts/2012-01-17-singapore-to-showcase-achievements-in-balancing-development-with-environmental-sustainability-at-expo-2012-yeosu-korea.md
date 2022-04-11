@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Singapore to showcase achievements in balancing development with environmental sustainability at Expo 2012 Yeosu Korea
+title: Singapore to showcase achievements in balancing development with
+  environmental sustainability at Expo 2012 Yeosu Korea
 subtitle: 17 Jan 2012
 permalink: /media/press-release/singapore-to-showcase-achievements-in-balancing-development-with-environmental-sustainability-at-expo-2012-yeosu-korea
 ---
-
-### SINGAPORE TO SHOWCASE ACHIEVEMENTS IN BALANCING DEVELOPMENT WITH ENVIRONMENTAL SUSTAINABILITY AT EXPO 2012 YEOSU KOREA
-
 **Singapore, 17 January 2012** - Singapore will showcase its achievements in balancing rapid urban development with environmental sustainability at the International Exposition Yeosu Korea 2012 (Expo 2012 Yeosu Korea), to be held from 12 May to 12 August 2012 in Yeosu, Republic of Korea. This exposition is expected to attract up to 8 million domestic and international visitors. (Further background on Expo 2012 Yeosu Korea is at Annex A.)
 
 The 712 square-metre Singapore Pavilion will be housed within the International Pavilion, together with exhibitions from more than 100 other countries. With the theme of "Paradox-ity: City of Contrasts (奇趣狮城，巧妙对比)", the Singapore Pavilion aims to convey how Singapore balances growth and development with environmental sustainability through four main content segments: waste management, nature conservation, urban planning and water management.
@@ -15,7 +13,7 @@ A multi-agency project committee led by the Ministry of the Environment and Wate
 
 Project Director Mr. Eng Tiang Sing said: "We are very excited to participate in Expo 2012. Besides being an excellent platform to showcase and promote Singapore to a sizeable international audience, we hope Singapore's development story can be an useful case study to some of the world's rapidly growing cities in finding ways to create a healthy and attractive environment despite their urbanisation. This exposition also presents a good opportunity to foster closer people-to-people relations between Singapore and Republic of Korea, and cultivate a deeper understanding of each other's environmental practices, lifestyles and cultures."
 
-More details on the Singapore Pavilion will be unveiled on www.singapore-expo2012.com in February 2012.
+More details on the Singapore Pavilion will be unveiled on singapore-expo2012.com in February 2012.
 
 **ANNEX A: BACKGROUND ON EXPO 2012 YEOSU KOREA**
 
@@ -29,7 +27,7 @@ Expo 2012 Yeosu Korea is an International Exposition organised by the Bureau Int
 
 Singapore had participated in various World Expositions in the past, including Expo 2000 in Hanover, Germany, Expo 2005 in Aichi, Japan and more recently Expo 2010 in Shanghai, China.
 
-More information on Expo 2012 Yeosu Korea can be found at [<a href="http://eng.expo2012.kr/main.html" target="_blank">http://eng.expo2012.kr</a>](http://eng.expo2012.kr/main.html).
+More information on Expo 2012 Yeosu Korea can be found at eng.expo2012.kr.
 
 **ANNEX B: LIST OF PARTICIPATING GOVERNMENT AGENCIES**
 
@@ -46,4 +44,4 @@ More information on Expo 2012 Yeosu Korea can be found at [<a href="http://eng.e
 * Ministry of Transport
 * Maritime and Port Authority of Singapore
 
-Source: [<a href="https://www.mewr.gov.sg/news/singapore-to-showcase-achievements-in-balancing-development-with-environmental-sustainability-at-expo-2012-yeosu-korea" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/news/singapore-to-showcase-achievements-in-balancing-development-with-environmental-sustainability-at-expo-2012-yeosu-korea)
+Source: [Ministry of the Environment and Water Resources](https://www.mse.gov.sg/news/)
