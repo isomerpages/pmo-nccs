@@ -18,4 +18,4 @@ While in Abu Dhabi, Mr Iswaran also met with other Ministers and officials from 
 
 Headquartered in Abu Dhabi, IRENA is an intergovernmental organisation established in January 2009 to promote the use of renewable energy. It facilitates access to global information on renewable energy, including technical and economic data, and encourages sharing of best practices and experiences in the implementation of renewable energy projects and policies. To date, it has 155 Signatories. 84 States, including the United States, and the European Union are Members of the Agency.
 
-Source: [Ministry of Trade and Industry](https://go.gov.sg/17jan2012-singapore-keen-to-further-global-renewable-energy-efforts) 
+Source: [Ministry of Trade and Industry](https://go.gov.sg/17jan2012-singapore-keen-to-further-global-renewable-energy-efforts)
