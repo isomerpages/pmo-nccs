@@ -39,4 +39,4 @@ As we enjoy the documentary in the comfort of this theatre, I hope you put on yo
 
 Thank you!
 <br><br><br><br>
-Source: [National Archives of Singapore](/files/15Aug2017SpeechMinMasagosTruthToPower.pdf)
+Source: [National Archives of Singapore](https://go.gov.sg/15august2017-speech-by-minister-for-the-environment-and-water-resources-masagos-zulkifli-at-the-movie-premiere-of-an-inconvenient-sequel-truth-to-power)
