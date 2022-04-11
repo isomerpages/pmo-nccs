@@ -3,10 +3,9 @@ layout: post
 title: Technology Roadmaps
 permalink: /media/publications/technology-roadmap
 ---
-
 **Transforming our industry, economy and society with innovation**
 
-To realise Singapore’s [<a href="https://www.nccs.gov.sg/docs/default-source/publications/nccsleds.pdf" target="_blank">Long-term Low-Emissions Development Strategy</a>](https://www.nccs.gov.sg/docs/default-source/publications/nccsleds.pdf), we need to constantly look at innovations to improve energy efficiency across the economy and implement a greater share of clean energy. We will also need to harness emerging solutions that can achieve mitigation outcomes beyond our existing range of options, such as carbon capture, utilisation and storage (CCUS) and low-carbon hydrogen.
+To realise Singapore’s [Long-term Low-Emissions Development Strategy](https://www.nccs.gov.sg/media/publications/singapores-long-term-low-emissions-development-strategy), we need to constantly look at innovations to improve energy efficiency across the economy and implement a greater share of clean energy. We will also need to harness emerging solutions that can achieve mitigation outcomes beyond our existing range of options, such as carbon capture, utilisation and storage (CCUS) and low-carbon hydrogen.
 
 **Understanding Emerging Low-Carbon Technologies**
 
