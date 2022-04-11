@@ -4,9 +4,6 @@ title: Singapore keen to further global renewable energy efforts
 subtitle: 17 Jan 2012
 permalink: /media/press-release/singapore-keen-to-further-global-renewable-energy-efforts
 ---
-
-### SINGAPORE KEEN TO FURTHER GLOBAL RENEWABLE ENERGY EFFORTS
-
 **Singapore, 17 January 2012** - Singapore has sought membership to the International Renewable Energy Agency (IRENA) as part of its ongoing efforts with the global community to develop renewable energy. IRENA, an intergovernmental organisation and key global platform for the promotion of renewable energy, will allow Singapore to actively participate in the global discourse on this matter.
 
 Announcing this at the 5th World Future Energy Summit (WFES) in Abu Dhabi on Monday, Minister in the Prime Minister’s Office and Second Minister for Home Affairs and Trade & Industry, Mr S Iswaran said, “Our membership in IRENA will allow Singapore to raise our level of participation in the global clean energy dialogue and learn from the experiences of other countries.”
@@ -21,4 +18,4 @@ While in Abu Dhabi, Mr Iswaran also met with other Ministers and officials from 
 
 Headquartered in Abu Dhabi, IRENA is an intergovernmental organisation established in January 2009 to promote the use of renewable energy. It facilitates access to global information on renewable energy, including technical and economic data, and encourages sharing of best practices and experiences in the implementation of renewable energy projects and policies. To date, it has 155 Signatories. 84 States, including the United States, and the European Union are Members of the Agency.
 
-Source: [<a href="https://www.mti.gov.sg/" target="_blank">Ministry of Trade and Industry </a>](www.mti.gov.sg/)
+Source: [Ministry of Trade and Industry](https://go.gov.sg/17jan2012-singapore-keen-to-further-global-renewable-energy-efforts) 
