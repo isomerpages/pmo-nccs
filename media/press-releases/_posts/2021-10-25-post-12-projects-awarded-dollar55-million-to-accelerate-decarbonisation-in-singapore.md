@@ -31,6 +31,6 @@ Emerging low-carbon alternatives is one of four switches in the Singapore Energy
 
 [4] The “Study of Hydrogen Imports and Downstream Applications for Singapore” was jointly commissioned by the National Climate Change Secretariat (NCCS), Singapore Economic Development Board (EDB) and Energy Market Authority (EMA); while the study on “Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors” was jointly commissioned by NCCS and EDB. Detailed findings of the feasibility studies are available at:
 
-[https://www.nccs.gov.sg/docs/default-source/default-document-library/hydrogen-study-report.pdf](https://www.nccs.gov.sg/docs/default-source/default-document-library/hydrogen-study-report.pdf)
+[Hydrogen Study Report](https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/hc)
 
-[https://www.nccs.gov.sg/docs/default-source/default-document-library/ccus-study-report.pdf](https://www.nccs.gov.sg/docs/default-source/default-document-library/ccus-study-report.pdf)
+[Carbon Capture, Utilisation and Storage (CCUS) Study Report](https://www.nccs.gov.sg/singapores-climate-action/low-carbon-tech/ccus)
