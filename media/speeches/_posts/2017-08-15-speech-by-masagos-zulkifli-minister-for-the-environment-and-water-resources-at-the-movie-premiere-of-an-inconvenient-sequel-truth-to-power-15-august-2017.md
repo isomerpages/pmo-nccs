@@ -5,13 +5,17 @@ title: "Speech by Minister for the Environment and Water Resources Masagos
 subtitle: 15 Aug 2017
 permalink: /media/speeches/speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-movie-premiere-of-an-inconvenient-sequel-truth-to-power-15-august-2017
 ---
-### SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES MASAGOS ZULKIFLI AT THE MOVIE PREMIERE OF AN INCONVENIENT SEQUEL: TRUTH TO POWER, 15 AUGUST 2017
+Mr Ang Wee Gee
+<br>Chief Executive Officer, Keppel Land  
 
-Mr Ang Wee Gee, Chief Executive Officer, Keppel Land  
-Mr Tan Swee Yiow, Chief Executive Officer, Keppel REIT Management and President of Singapore Green Building Council  
-Ms Flora Goh, Managing Director of United International Pictures Singapore
+Mr Tan Swee Yiow
+<br>Chief Executive Officer, Keppel REIT Management
+<br>President of Singapore Green Building Council  
 
-Ladies and gentlemen,
+Ms Flora Goh
+<br>Managing Director of United International Pictures Singapore
+
+Ladies and Gentlemen,
 
 I am honoured to join you this evening, to be a part of a very meaningful initiative aimed at addressing and educating a global audience on the impacts of climate change.
 
