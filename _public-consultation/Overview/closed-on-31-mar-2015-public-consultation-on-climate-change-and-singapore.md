@@ -1,9 +1,8 @@
 ---
-title: '[Closed on 31 Mar 2015] Public Consultation on Climate Change And Singapore'
+title: "[Closed on 31 Mar 2015] Public Consultation on Climate Change And Singapore"
 permalink: /public-consultation/public-consultation-on-climate-change-and-singapore/
 third_nav_title: Overview
 ---
-
 ### [CLOSED ON 31 MAR 2015] PUBLIC CONSULTATION ON CLIMATE CHANGE AND SINGAPORE
 
 As a party to the United Nations Framework Convention on Climate Change, Singapore is participating in ongoing negotiations towards a new global agreement on climate change by end 2015. Singapore is a small, low-lying island state that will benefit from global efforts to reduce emissions, and we will do our part.
@@ -29,9 +28,7 @@ ___
 
 [<a href="/files/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-energy-efficient-homes-2-(june-2015).pdf" target="_blank">Energy Efficient Homes</a>](/files/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-energy-efficient-homes-2-(june-2015).pdf)  
 [<a href="/files/docs/default-source/default-document-library/responses_to_transport_sector_suggestions_(updated).pdf" target="_blank">Carbon Efficiency in the Transport Sector</a>](/files/docs/default-source/default-document-library/responses_to_transport_sector_suggestions_(updated).pdf)  
-[<a href="/files/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-ee-and-re-opportunities-for-businesses-(june-2015).pdf" target="_blank">Energy Efficiency & Renewable Energy Opportunities for Businesses</a>](/files/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-ee-and-re-opportunities-for-businesses-(june-2015).pdf)  
-[<a href="/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-carbon-efficiency-in-the-power-waste-water-sectors-2-(june-2015).pdf?sfvrsn=d42094d9_0" target="_blank">Carbon Efficiency in the Power, Waste and Water Sectors</a>](/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-carbon-efficiency-in-the-power-waste-water-sectors-2-(june-2015).pdf?sfvrsn=d42094d9_0)  
-[<a href="/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-economic-and-green-growth-opportunities-(june-2015).pdf?sfvrsn=b45e7523_0" target="_blank">Economic & Green Growth Opportunities</a>](/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-economic-and-green-growth-opportunities-(june-2015).pdf?sfvrsn=b45e7523_0)  
-[<a href="/docs/default-source/default-document-library/responses-to-other-suggestions-(june-2015).pdf?sfvrsn=6f5bb939_0" target="_blank">Others</a>](/docs/default-source/default-document-library/responses-to-other-suggestions-(june-2015).pdf?sfvrsn=6f5bb939_0)
-
-
+[<a href="/files/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-ee-and-re-opportunities-for-businesses-(june-2015).pdf" target="_blank">Energy Efficiency & Renewable Energy Opportunities for Businesses</a>](/files/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-ee-and-re-opportunities-for-businesses-(june-2015).pdf)  <br>
+[Carbon Efficiency in the Power, Waste and Water Sectors](https://go.gov.sg/2june2015-responses-to-feedback-and-suggestions-on-carbon-efficiency-in-the-power-waste-water-sectors)<br>
+[Economic & Green Growth Opportunities](https://go.gov.sg/2june2015-responses-to-feedback-and-suggestions-on-economic-and-green-growth-opportunities)<br>
+[Others](https://go.gov.sg/2june2015-responses-to-feedback-and-suggestions-others)
