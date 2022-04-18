@@ -7,10 +7,10 @@ permalink: /media/speeches/welcome-remarks-by-energy-market-authority's-chief-ex
 
 
 Ohtsubo-san, 
-President of Panasonic Corporation
+<br>President of Panasonic Corporation
 
 Suzuki-san, 
-Japanese Ambassador to Singapore
+<br>Japanese Ambassador to Singapore
 
 Your Excellencies, 
 
