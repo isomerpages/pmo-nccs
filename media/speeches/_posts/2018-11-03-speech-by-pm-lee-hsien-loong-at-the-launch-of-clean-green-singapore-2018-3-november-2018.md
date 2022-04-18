@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  Speech by PM Lee Hsien Loong at the Launch Of Clean & Green Singapore 2018, 3 November 2018
+title:  Speech by Prime Minister Lee Hsien Loong at the Launch Of Clean & Green Singapore 2018
 subtitle: 03 Nov 2018
 permalink: /media/speeches/speech-by-pm-lee-hsien-loong-at-the-launch-of-clean-green-singapore-2018-3-november-2018
 ---
 
-### SPEECH BY PM LEE HSIEN LOONG AT THE LAUNCH OF CLEAN & GREEN SINGAPORE 2018, 3 NOVEMBER 2018
 
 ESM Goh Chok Tong, distinguished guests, ladies and gentlemen. Very good morning to all of you, here at Wisma Geylang Serai. I am very happy to be in this beautiful place for the launch of Clean & Green Singapore 2018.
 
