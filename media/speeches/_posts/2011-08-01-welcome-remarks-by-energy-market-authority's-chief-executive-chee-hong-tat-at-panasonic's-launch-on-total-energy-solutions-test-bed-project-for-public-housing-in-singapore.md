@@ -5,13 +5,18 @@ subtitle: 1 Aug 2011
 permalink: /media/speeches/welcome-remarks-by-energy-market-authority's-chief-executive-chee-hong-tat-at-panasonic's-launch-on-total-energy-solutions-test-bed-project-for-public-housing-in-singapore
 ---
 
-### WELCOME REMARKS BY CHIEF EXECUTIVE OF ENERGY MARKET AUTHORITY CHEE HONG TAT AT PANASONIC'S LAUNCH ON TOTAL ENERGY SOLUTIONS TEST-BED PROJECT FOR PUBLIC HOUSING IN SINGAPORE
 
-Ohtsubo-san, President of Panasonic Corporation,  
-Suzuki-san, Japanese Ambassador to Singapore,  
-Your Excellencies,  
-Distinguished guests,  
-Ladies and gentlemen,
+Ohtsubo-san, 
+President of Panasonic Corporation
+
+Suzuki-san, 
+Japanese Ambassador to Singapore
+
+Your Excellencies, 
+
+Distinguished Guests, 
+
+Ladies and Gentlemen,
 
 Good morning. I am happy to join you here at the launch of Panasonic’s Total Energy Solutions Test-Bed Project for Public Housing in Singapore.
 
