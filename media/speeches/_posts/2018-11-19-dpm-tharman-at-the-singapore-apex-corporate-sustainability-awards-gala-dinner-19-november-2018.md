@@ -6,7 +6,7 @@ permalink: /media/speeches/dpm-tharman-at-the-singapore-apex-corporate-sustainab
 ---
 
 
-*DPM Tharman delivered a speech at the Singapore Apex Corporate Sustainability Awards Gala Dinner on 19 November 2018.*
+*Deputy Prime Minister Tharman delivered a speech at the Singapore Apex Corporate Sustainability Awards Gala Dinner on 19 November 2018.*
 
 Ms Goh Swee Chen, 
 <br>President of the Global Compact Network Singapore (GCNS)
