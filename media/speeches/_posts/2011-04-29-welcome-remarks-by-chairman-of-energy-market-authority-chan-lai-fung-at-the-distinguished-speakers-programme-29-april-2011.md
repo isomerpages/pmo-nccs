@@ -5,7 +5,6 @@ subtitle: 29 Apr 2011
 permalink: /media/speeches/welcome-remarks-by-chairman-of-energy-market-authority-chan-lai-fung-at-the-distinguished-speakers-programme-29-april-2011
 ---
 
-### WELCOME REMARKS BY CHAIRMAN OF ENERGY MARKET AUTHORITY CHAN LAI FUNG AT THE DISTINGUISHED SPEAKERS PROGRAMME, 29 APRIL 2011
 
 Thank you for taking time from your busy schedule to join us at this morning’s lecture by Tan Sri Leo Moggie. Tan Sri will be speaking to us on the topic – “The Dynamics of the Electricity Industry”. It is an important topic given the energy challenges faced by many countries today, especially in Asia. Energy demand in Asia is expected to grow at an annual rate of 2.3 percent, which is almost double the estimated growth rate of 1.2 percent for the world. There is therefore a greater imperative for us in Asia to understand the dynamics of the electricity landscape and consider how we can meet rising energy demand and rising energy costs.
 
