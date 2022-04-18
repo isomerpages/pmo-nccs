@@ -9,7 +9,7 @@ permalink: /media/speeches/opening-address-by-mr-tan-kok-yam-deputy-secretary-na
 Your Excellency, British High Commissioner, Scott Wightman 
 
 Mr. Nick Bridge, 
-UK Special Representative for Climate Change
+<br>UK Special Representative for Climate Change
 
 Distinguished Guests
 
