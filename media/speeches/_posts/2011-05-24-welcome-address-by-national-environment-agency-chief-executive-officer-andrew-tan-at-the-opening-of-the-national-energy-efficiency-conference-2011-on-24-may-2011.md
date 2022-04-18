@@ -5,15 +5,16 @@ subtitle: 24 May 2011
 permalink: /media/speeches/welcome-address-by-national-environment-agency-chief-executive-officer-andrew-tan-at-the-opening-of-the-national-energy-efficiency-conference-2011-on-24-may-2011
 ---
 
-### WELCOME ADDRESS BY NATIONAL ENVIRONMENT AGENCY CHIEF EXECUTIVE OFFICER ANDREW TAN AT THE OPENING OF THE NATIONAL ENERGY EFFICIENCY CONFERENCE 2011 ON 24 MAY 2011
 
-Dr Vivian Balakrishnan, Minister for the Environment and Water Resources
+Dr Vivian Balakrishnan, 
+<br>Minister for the Environment and Water Resources
 
-Mr Pasquale Pistorio, Honorary Chair and former Chief Executive Officer of STMicroelectronics
+Mr Pasquale Pistorio, 
+<br>Honorary Chair and former Chief Executive Officer of STMicroelectronics
 
-Distinguished guests
+Distinguished Guests
 
-Ladies and gentlemen
+Ladies and Gentlemen
 
 Good morning and welcome to the inaugural National Energy Efficiency Conference (NEEC) 2011, a key event under the National Energy Efficiency Partnership or EENP programme.
 
