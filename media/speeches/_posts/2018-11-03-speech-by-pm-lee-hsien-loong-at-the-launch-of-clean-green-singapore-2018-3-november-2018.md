@@ -6,7 +6,13 @@ permalink: /media/speeches/speech-by-pm-lee-hsien-loong-at-the-launch-of-clean-g
 ---
 
 
-ESM Goh Chok Tong, distinguished guests, ladies and gentlemen. Very good morning to all of you, here at Wisma Geylang Serai. I am very happy to be in this beautiful place for the launch of Clean & Green Singapore 2018.
+ESM Goh Chok Tong, 
+
+Distinguished Guests, 
+
+Ladies and Gentlemen. 
+
+Very good morning to all of you, here at Wisma Geylang Serai. I am very happy to be in this beautiful place for the launch of Clean & Green Singapore 2018.
 
 This year is the 50th anniversary of our “Keep Singapore Clean” campaign. It was one of the first national campaigns that we launched after we became independent. We did this even while the country was dealing with critical issues of survival, like creating jobs and building the Singapore Armed Forces. Mr Lee Kuan Yew and his team looked beyond these immediate concerns, and they envisioned Singapore as a country that would be one of the cleanest and greenest cities in the world – an oasis in the region.
 
