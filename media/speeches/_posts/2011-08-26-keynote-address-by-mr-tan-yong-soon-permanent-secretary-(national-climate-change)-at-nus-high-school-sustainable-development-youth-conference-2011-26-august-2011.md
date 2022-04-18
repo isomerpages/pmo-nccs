@@ -6,8 +6,8 @@ permalink: /media/speeches/keynote-address-by-mr-tan-yong-soon-permanent-secreta
 ---
 
 
-Dr Hang Kim Hoo, Principal, 
-<br>NUS High School
+Dr Hang Kim Hoo,
+<br>Principal, NUS High School
 
 Distinguished Guests,
 
