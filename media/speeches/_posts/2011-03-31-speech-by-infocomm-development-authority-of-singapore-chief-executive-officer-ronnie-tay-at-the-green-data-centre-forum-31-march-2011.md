@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Speech by Infocomm Development Authority of Singapore Chief Executive
-  Officer Ronnie Tay at the Green Data Centre Forum, 31 March 2011
+  Officer Ronnie Tay at the Green Data Centre Forum
 subtitle: 31 Mar 2011
 permalink: /media/speeches/speech-by-infocomm-development-authority-of-singapore-chief-executive-officer-ronnie-tay-at-the-green-data-centre-forum-31-march-2011
 ---
-### SPEECH BY INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE CHIEF EXECUTIVE OFFICER RONNIE TAY AT THE GREEN DATA CENTRE FORUM, 31 MARCH 2011
 
-RADM(NS) Tan Kai Hoe,  
-Deputy Chief Executive,  
+RADM(NS) Tan Kai Hoe, 
+
+Deputy Chief Executive, 
+
 SPRING Singapore Distinguished Guests,
 
 Ladies and Gentlemen,
