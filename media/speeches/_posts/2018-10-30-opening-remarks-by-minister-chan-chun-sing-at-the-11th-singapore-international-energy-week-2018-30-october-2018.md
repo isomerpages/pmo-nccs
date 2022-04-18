@@ -5,10 +5,11 @@ subtitle: 30 Oct 2018
 permalink: /media/speeches/opening-remarks-by-minister-chan-chun-sing-at-the-11th-singapore-international-energy-week-2018-30-october-2018
 ---
 
-### OPENING REMARKS BY MINISTER CHAN CHUN SING AT THE 11<sup>TH</sup> SINGAPORE INTERNATIONAL ENERGY WEEK 2018, 30 OCTOBER 2018
 
-Your Excellencies,  
-Distinguished Guests  
+Your Excellencies
+
+Distinguished Guests 
+
 Ladies and Gentlemen
 
 A very good morning to all of you and a warm welcome to the 11th edition of the Singapore International Energy Week (SIEW). This morning, we are all gathered here to solve a simple puzzle together. A simple puzzle that has three dimensions and that many professionals in the industry have been trying to figure out. How do we reconcile the demand, for something that is affordable, reliable and sustainable? Conventional wisdom says that this is a “trilemma”- you can have at best two, but not all three. Today, we are all gathered here because we believe that the new generation of technologies and business models will present opportunities for us to overcome, or at least, to substantially reduce the “trilemma”.
