@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/NCCS-logo.jpg
-
 links:
   - title: Who We Are
     collection: who-we-are
@@ -18,8 +11,8 @@ links:
     sublinks:
       - title: All
         url: /media/
-      - title: Press Release
-        url: /media/press-release/
+      - title: Press Releases
+        url: /media/press-releases/
       - title: Speeches
         url: /media/speeches/
       - title: Parliamentary Replies
