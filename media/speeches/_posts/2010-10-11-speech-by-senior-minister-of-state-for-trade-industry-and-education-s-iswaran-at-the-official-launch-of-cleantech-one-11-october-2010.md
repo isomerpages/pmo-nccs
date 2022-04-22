@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Speech by Senior Minister of State for Trade & Industry and Education S Iswaran at the Official Launch of CleanTech One, 11 October 2010
+title: Speech by Senior Minister of State for Trade & Industry and Education S Iswaran at the Official Launch of CleanTech One
 subtitle: 11 Oct 2010
 permalink: /media/speeches/speech-by-senior-minister-of-state-for-trade-industry-and-education-s-iswaran-at-the-official-launch-of-cleantech-one-11-october-2010
 ---
-
-### SPEECH BY SENIOR MINISTER OF STATE FOR TRADE & INDUSTRY AND EDUCATION S ISWARAN AT THE OFFICIAL LAUNCH OF CLEANTECH ONE, 11 OCTOBER 2010
 
 Mr Cedric Foo, Chairman of JTC Corporation
 

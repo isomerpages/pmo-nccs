@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Singapore's National Statement by Ambassador-at-Large Chew Tai Soo at the Aichi-Nagoya Ministerial Meeting on REDD+ Partnership in Nagoya, Japan, 26 October 2010
+title: Singapore's National Statement by Ambassador-at-Large Chew Tai Soo at the Aichi-Nagoya Ministerial Meeting on REDD+ Partnership in Nagoya, Japan
 subtitle: 26 Oct 2010
 permalink: /media/speeches/singapore's-national-statement-by-ambassador-at-large-chew-tai-soo-at-the-aichi-nagoya-ministerial-meeting-on-redd-partnership-in-nagoya-japan-26-october-2010
 ---
 
-### SINGAPORE'S NATIONAL STATEMENT BY AMBASSADOR-AT-LARGE CHEW TAI SOO AT THE AICHI-NAGOYA MINISTERIAL MEETING ON REDD+ PARTNERSHIP IN NAGOYA, JAPAN, 26 OCTOBER 2010
-
-Minister Maehara  
+Minister Maehara 
+<br><br>
 Minister Abal  
+<br>
 Excellencies  
-Distinguished delegates  
+<br>
+Distinguished Delegates  
+<br>
 Ladies and Gentlemen
 
 Singapore is honoured to be participating in the Ministerial meeting of the REDD+ Partnership,and would like to thank the government of Japan for hosting this meeting.

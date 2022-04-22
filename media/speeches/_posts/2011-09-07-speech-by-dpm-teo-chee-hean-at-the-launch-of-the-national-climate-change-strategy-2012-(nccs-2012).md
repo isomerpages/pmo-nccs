@@ -5,10 +5,10 @@ subtitle: 7 Sep 2011
 permalink: /media/speeches/speech-by-dpm-teo-chee-hean-at-the-launch-of-the-national-climate-change-strategy-2012-(nccs-2012)
 ---
 
-### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE LAUNCH OF THE NATIONAL CLIMATE CHANGE STRATEGY 2012 (NCCS-2012) PUBLIC CONSULTATION AND PRIZE PRESENTATION FOR THE NATIONAL CLIMATE CHANGE COMPETITION 2012
 
-Distinguished guests,  
-Teachers and students,
+Distinguished Guests,  
+
+Teachers and Students,
 
 Climate change is a global challenge. Singapore is not spared from its impacts. As a low-lying island-state, we are vulnerable to rising sea levels and extreme weather events. As a small, open economy, Singapore is also affected by the impacts of climate change on other countries. We, together with the international community, will therefore need to take concrete steps to act against climate change.
 

@@ -5,18 +5,22 @@ subtitle: 3 Jun 2011
 permalink: /media/speeches/speech-by-minister-of-state-for-trade-industry-and-manpower-lee-yi-shyan-at-the-inauguration-ceremony-of-singapore-oxygen-air-liquide-(soxal)-on-3-june-2011
 ---
 
-### SPEECH BY MINISTER OF STATE FOR TRADE & INDUSTRY AND MANPOWER LEE YI SHYAN AT THE INAUGURATION CEREMONY OF SINGAPORE OXYGEN AIR LIQUIDE (SOXAL) ON 3 JUNE 2011
 
-Your Excellency, Mr Oliver Caron, Ambassador of France
+Your Excellency, Mr Oliver Caron, 
+Ambassador of France
 
-Mr Jean Marc De Royere, Senior Executive Vice President, Air Liquide Group
+Mr Jean Marc De Royere, 
+Senior Executive Vice President, Air Liquide Group
 
-Mr Mok Kwong Weng, Executive Vice President, Air Liquide Group
+Mr Mok Kwong Weng, 
+Executive Vice President, Air Liquide Group
 
-Mr Christophe Chalier, Managing Director, SOXAL
+Mr Christophe Chalier, 
+Managing Director, SOXAL
 
-Distinguished guests  
-Ladies and gentlemen
+Distinguished Guests
+
+Ladies and Gentlemen
 
 **Introduction**  
 Good afternoon. Thank you for inviting me to this joyous occasion to celebrate the inauguration of SOXAL’s S$500mil investments (Air separation Unit, Hydrogen Plant, Gas Pipeline Network) on Jurong Island.

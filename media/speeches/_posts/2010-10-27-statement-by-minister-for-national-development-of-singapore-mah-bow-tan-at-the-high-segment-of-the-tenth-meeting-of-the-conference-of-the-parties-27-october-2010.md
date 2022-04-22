@@ -1,19 +1,18 @@
 ---
 layout: post
-title: Statement by Minister for National Development of Singapore Mah Bow Tan at the High Segment of the Tenth Meeting of the Conference of the Parties to the Convention on Biological Diversity in Nagoya, Japan
+title: Statement by Minister for National Development of Singapore Mah Bow Tan
+  at the High Segment of the Tenth Meeting of the Conference of the Parties to
+  the Convention on Biological Diversity in Nagoya, Japan
 subtitle: 27 Oct 2010
 permalink: /media/speeches/statement-by-minister-for-national-development-of-singapore-mah-bow-tan-at-the-high-segment-of-the-tenth-meeting-of-the-conference-of-the-parties-27-october-2010
 ---
+Mr Chairman
 
-### STATEMENT BY MINISTER FOR NATIONAL DEVELOPMENT OF SINGAPORE MAH BOW TAN AT THE HIGH SEGMENT OF THE TENTH MEETING OF THE CONFERENCE OF THE PARTIES TO THE CONVENTION ON BIOLOGICAL DIVERSITY IN NAGOYA, JAPAN, 27 OCTOBER 2010
+Distinguished Delegates
 
-Mr Chairman,
+Excellencies
 
-Distinguished delegates,
-
-Excellencies,
-
-Ladies and gentlemen,
+Ladies and Gentlemen
 
 1\. We are all here because we believe in the cause and recognize the necessity and urgency of the task before us to conserve our biodiversity. But the journey to achieve our goal will be long and challenging.
 
@@ -38,7 +37,7 @@ Ladies and gentlemen,
 **Conclusion**
 
 
-9\. I am pleased to learn that the Parties will formally adopt the Plan of Action on Sub-national Governments, Cities and Other Local Authorities for Biodiversity (2011-2020)at the COP10 Plenary on 29 October 2010.
+9\. I am pleased to learn that the Parties will formally adopt the Plan of Action on Sub-national Governments, Cities and Other Local Authorities for Biodiversity (2011-2020) at the COP10 Plenary on 29 October 2010.
 
 10\. Closer partnerships between governments, non-governmental organisations, and businesses are key to implementing this Plan. Singapore strongly supports this Plan. As our commitment to forward this process, I would like to offer the World Cities Summit and the Mayors' Forum held in Singapore, as platforms for sharing experiences and best practices on conserving biodiversity and addressing the pressing challenges facing cities today. As the World Cities Summit is held every two years in June, a few months before CBD COP, a Cities and Biodiversity Session within the Summit can serve as a preparatory meeting for cities to report on their progress in biodiversity conservation and the application of the Singapore Index. The deliberations of the session could then be reported to CBD COP.
 
@@ -47,4 +46,4 @@ Ladies and gentlemen,
 12\. Thank you.
 <br><br><br>
 
-*Source*: [<a href="https://www.nparks.gov.sg/news/2010/10/statement-by-mr-mah-bow-tanminster-for-national-development-of-singapore-at-the-high-segment-of-the-tenth-conference-of-parties-to-the-convention-on-biological-diversity-on-27-october-2010-nagoya-japan" target="_blank">National Parks Board</a>](https://www.nparks.gov.sg/news/2010/10/statement-by-mr-mah-bow-tanminster-for-national-development-of-singapore-at-the-high-segment-of-the-tenth-conference-of-parties-to-the-convention-on-biological-diversity-on-27-october-2010-nagoya-japan)
+*Source*:  [National Parks Board](https://www.nparks.gov.sg/news)

@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Speech by Senior Minister of State for Trade and Industry and Education S Iswaran at the Singapore Energy Summit, 1 November 2010
+title: Speech by Senior Minister of State for Trade and Industry and Education S Iswaran at the Singapore Energy Summit
 subtitle: 01 Nov 2010
 permalink: /media/speeches/speech-by-senior-minister-of-state-for-trade-and-industry-and-education-s-iswaran-at-the-singapore-energy-summit-1-november-2010
 ---
 
-### SPEECH BY SENIOR MINISTER OF STATE FOR TRADE AND INDUSTRY AND EDUCATION S ISWARAN AT THE SINGAPORE ENERGY SUMMIT, 1 NOVEMBER 2010
 
 Your Excellencies  
-Distinguished guests, Ladies and Gentlemen,
+<br>
+Distinguished Guests
+<br><br>
+Ladies and Gentlemen
 
 **Introduction**  
 A very good morning and I would like to extend a warm welcome to all speakers and participants at the Singapore International Energy Week (SIEW).

@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Speech by Permanent Secretary (Finance) (Performance), Ministry of Finance, and Chairman, Energy Market Authority Chan Lai Fung at the Opening Ceremony of Carbon Forum Asia 2010, 27 October 2010
+title: Speech by Permanent Secretary (Finance) (Performance), Ministry of Finance, and Chairman, Energy Market Authority Chan Lai Fung at the Opening Ceremony of Carbon Forum Asia 2010
 subtitle: 27 Oct 2010
 permalink: /media/speeches/speech-by-permanent-secretary-(finance)-(performance)-ministry-of-finance-and-chairman-energy-market-authority-2010-27-october-2010
 ---
-
-### SPEECH BY PERMANENT SECRETARY (FINANCE) (PERFORMANCE), MINISTRY OF FINANCE, AND CHAIRMAN, ENERGY MARKET AUTHORITY CHAN LAI FUNG AT THE OPENING CEREMONY OF CARBON FORUM ASIA 2010, 27 OCTOBER 2010
 
 Mr Henry Derwent  
 President and CEO, International Emissions Trading Association
@@ -17,6 +15,7 @@ Mr Edwin Khew
 Chairman, Sustainable Energy Association of Singapore
 
 Distinguished Guests  
+<br>
 Ladies and Gentlemen
 
 I am pleased to join you for the opening of Carbon Forum Asia 2010. I would like to congratulate the International Emissions Trading Association and Koelnmesse for organising this very successful conference for the fourth year running. Today, Carbon Forum Asia is the leading platform for key industry players to discuss carbon market trends and issues. This year, being part of the Singapore International Energy Week, we can expect the event to further extend its reach, and benefit from the synergies from the gathering of the world’s foremost energy thought leaders.

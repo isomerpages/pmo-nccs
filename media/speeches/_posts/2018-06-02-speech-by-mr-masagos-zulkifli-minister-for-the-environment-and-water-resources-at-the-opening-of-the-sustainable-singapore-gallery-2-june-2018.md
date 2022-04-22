@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Speech by Minister for the Environment and Water Resources Masagos Zulkifli at the Opening of the Sustainable Singapore Gallery
+title: Speech by Minister for the Environment and Water Resources Masagos
+  Zulkifli at the Opening of the Sustainable Singapore Gallery
 subtitle: 2 Jun 2018
 permalink: /media/speeches/speech-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-opening-of-the-sustainable-singapore-gallery-2-june-2018
 ---
-
-### SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES MASAGOS ZULKIFLI AT THE OPENING OF THE SUSTAINABLE SINGAPORE GALLERY, 2 JUNE 2018
-
 Distinguished Guests  
+
 Ladies and Gentlemen
 
 A very good evening to all of you. I hope you will enjoy our revamped Sustainable Singapore Gallery (SSG), which tells the story of Singaporeâ€™s sustainability journey.
@@ -35,4 +34,4 @@ The SSG is situated here in the Marina Barrage, an iconic feature of Singaporeâ€
 To conclude, I hope that the SSG will generate conversations and ideas on sustainability, and inspire visitors to make sustainable choices in their lifestyles. Just as our past decisions gave us the clean environment we enjoy today, our decisions today will affect the future living environment of our children and their children. Let us work together keep Singapore a sustainable and vibrant home. Thank you.
 
 
-*Source: [<a href="https://www.mewr.gov.sg/" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/)*
+*Source: [Ministry of the Environment and Water Resources & National Archives of Singapore](https://go.gov.sg/2june2018-speech-by-minister-for-the-environment-and-water-resources-masagos-zulkifli-at-the-opening-of-the-sustainable-singapore-gallery)*

@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Keynote Address by Mr Tan Yong Soon, Permanent Secretary (National Climate Change), at NUS High School Sustainable Development Youth Conference 2011, 26 August 2011
+title: Keynote Address by Mr Tan Yong Soon, Permanent Secretary (National Climate Change), at NUS High School Sustainable Development Youth Conference 2011
 subtitle: 26 Aug 2011
 permalink: /media/speeches/keynote-address-by-mr-tan-yong-soon-permanent-secretary-(national-climate-change)-at-nus-high-school-sustainable-development-youth-conference-2011-26-august-2011
 ---
 
-### KEYNOTE ADDRESS BY MR TAN YONG SOON, PERMANENT SECRETARY (NATIONAL CLIMATE CHANGE), AT NUS HIGH SCHOOL SUSTAINABLE DEVELOPMENT YOUTH CONFERENCE 2011, 26 AUGUST 2011
 
-Dr Hang Kim Hoo, Principal, NUS High School,  
-Distinguished Guests,  
+Dr Hang Kim Hoo,
+<br>Principal, NUS High School
+
+Distinguished Guests,
+
 Teachers and Students
 
 It has often been said that the youths of today will be the leaders of tomorrow. This statement is a cliché, but true. Within this room, I see many leaders of tomorrow.

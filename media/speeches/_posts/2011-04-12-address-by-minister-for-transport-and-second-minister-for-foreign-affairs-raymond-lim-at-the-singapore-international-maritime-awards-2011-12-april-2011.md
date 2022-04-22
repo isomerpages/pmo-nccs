@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Address by Minister for Transport and Second Minister for Foreign Affairs Raymond Lim at the Singapore International Maritime Awards 2011, 12 April 2011
+title: Address by Minister for Transport and Second Minister for Foreign Affairs Raymond Lim at the Singapore International Maritime Awards 2011
 subtitle: 12 Apr 2011
 permalink: /media/speeches/address-by-minister-for-transport-and-second-minister-for-foreign-affairs-raymond-lim-at-the-singapore-international-maritime-awards-2011-12-april-2011
 ---
 
-### ADDRESS BY MINISTER FOR TRANSPORT AND SECOND MINISTER FOR FOREIGN AFFAIRS RAYMOND LIM AT THE SINGAPORE INTERNATIONAL MARITIME AWARDS 2011, 12 APRIL 2011
 
-Distinguished guests,
+Distinguished Guests,
 
-Ladies and gentlemen,
+Ladies and Gentlemen,
 
 Good evening. It gives me great pleasure to join you for the 6th Singapore International Maritime Awards.
 

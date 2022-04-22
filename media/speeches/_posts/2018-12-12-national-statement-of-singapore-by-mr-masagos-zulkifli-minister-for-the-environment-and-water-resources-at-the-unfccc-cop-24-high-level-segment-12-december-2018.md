@@ -4,7 +4,6 @@ title: National Statement of Singapore by Minister for the Environment and Water
 subtitle: 12 Dec 2018
 permalink: /media/speeches/national-statement-of-singapore-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-unfccc-cop-24-high-level-segment-12-december-2018
 ---
-### NATIONAL STATEMENT OF SINGAPORE BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES MASAGOS ZULKIFLI AT THE UNFCCC COP-24 HIGH LEVEL SEGMENT, 12 DECEMBER 2018
 
 Mr President,
 

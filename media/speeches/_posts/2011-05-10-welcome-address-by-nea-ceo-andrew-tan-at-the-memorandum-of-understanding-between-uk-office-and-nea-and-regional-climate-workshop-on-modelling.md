@@ -5,13 +5,15 @@ subtitle: 10 May 2011
 permalink: /media/speeches/welcome-address-by-nea-ceo-andrew-tan-at-the-memorandum-of-understanding-between-uk-office-and-nea-and-regional-climate-workshop-on-modelling
 ---
 
-### WELCOME ADDRESS BY THE NATIONAL ENVIRONMENT AGENCY (NEA) CHIEF EXECUTIVE OFFICER ANDREW TAN AT THE MEMORANDUM OF UNDERSTANDING BETWEEN UK OFFICE AND NEA AND REGIONAL CLIMATE WORKSHOP ON MODELLING CLIMATE AND VARIABILITY IN SOUTHEAST ASIA, 10 MAY 2011
 
-Mr Desmond Kuek, Permanent Secretary (MEWR)
+Mr Desmond Kuek, 
+<br>Permanent Secretary (MEWR)
 
-Ms Amanda Brooks, Acting British High Commissioner
+Ms Amanda Brooks, 
+<br>Acting British High Commissioner
 
-Mr John Hirst, Chief Executive UK Met Office
+Mr John Hirst, 
+<br>Chief Executive UK Met Office
 
 Distinguished Guests and Participants
 

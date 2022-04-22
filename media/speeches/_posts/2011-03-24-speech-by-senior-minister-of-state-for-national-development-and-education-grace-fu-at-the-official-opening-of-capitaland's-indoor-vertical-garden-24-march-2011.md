@@ -5,16 +5,15 @@ subtitle: 24 Mar 2011
 permalink: /media/speeches/speech-by-senior-minister-of-state-for-national-development-and-education-grace-fu-at-the-official-opening-of-capitaland's-indoor-vertical-garden-24-march-2011
 ---
 
-### SPEECH BY SENIOR MINISTER OF STATE FOR NATIONAL DEVELOPMENT AND EDUCATION GRACE FU AT THE OFFICIAL OPENING OF CAPITALAND'S INDOOR VERTICAL GARDEN, 24 MARCH 2011
-
-Mr Olivier Guyonvarch,  
+Mr Olivier Guyonvarch  
 Deputy Chief of Mission for the French Embassy in Singapore
 
-Mr Chong Lit Cheong, CEO of CapitaLand Commercial Limited
+Mr Chong Lit Cheong
+<br>CEO of CapitaLand Commercial Limited
 
-Distinguished guests
+Distinguished Guests
 
-Ladies and gentlemen,
+Ladies and Gentlemen
 
 Good evening.
 

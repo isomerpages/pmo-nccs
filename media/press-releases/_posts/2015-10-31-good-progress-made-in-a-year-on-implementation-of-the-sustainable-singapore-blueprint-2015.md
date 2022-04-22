@@ -5,8 +5,6 @@ title: Good progress made in a year, on implementation of the Sustainable
 subtitle: 31 Oct 2015
 permalink: /media/press-release/good-progress-made-in-a-year-on-implementation-of-the-sustainable-singapore-blueprint-2015
 ---
-### GOOD PROGRESS MADE IN A YEAR, ON IMPLEMENTATION OF THE SUSTAINABLE SINGAPORE BLUEPRINT 2015
-
 **Singapore, 31 October 2015** - The Sustainable Singapore Blueprint (SSB) 2015 has made good progress since its launch by Prime Minister Lee Hsien Loong in November 2014.
 
 **About the SSB 2015**
@@ -29,6 +27,6 @@ Much has been done over the course of the year to develop the plans laid out und
 
 Mr Masagos Zulkifli, Minister for the Environment and Water Resources said at the launch of the Clean and Green SG50 (CG SG50) Carnival at the North East District today, that “the Sustainable Singapore Blueprint (SSB) has made progress since its launch last year. The progress can be credited to the collective interests of Singaporeans in caring for our environment. SSB is a journey, not a destination. This is something we want to grow together with our citizens and our country so that as we progress as a nation, we also grow our attitude to love and care for the environment.. Each of us can play our part and together, we can be proud stewards of our home, our environment, and our future.”
 
-Please refer to [<a href="/files/docs/default-source/news-documents/ssb-press-release---annex-a-(low-res).pdf" target="_blank">Annex A</a>](/files/docs/default-source/news-documents/ssb-press-release---annex-a-(low-res).pdf) for the infographics on the progress of implementing the SSB 2015, and [<a href="/docs/default-source/news-documents/ssb-press-release---annex-b.pdf" target="_blank">Annex B</a>](/docs/default-source/news-documents/ssb-press-release---annex-b.pdf) for the indicators on the progress towards our 2030 targets. For more information on the SSB 2015 please log on to the sustainable singapore website (Now [Singapore Green Plan](https://www.greenplan.gov.sg/)).
+Please refer to [<a href="/files/docs/default-source/news-documents/ssb-press-release---annex-a-(low-res).pdf" target="_blank">Annex A</a>](/files/docs/default-source/news-documents/ssb-press-release---annex-a-(low-res).pdf) for the infographics on the progress of implementing the SSB 2015, and [Annex B](https://go.gov.sg/annexb-indicators-on-the-progress-towards-our-2030-targets) for the indicators on the progress towards our 2030 targets. For more information on the SSB 2015 please log on to the sustainable singapore website (Now [Singapore Green Plan](https://www.greenplan.gov.sg/)).
 
 Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20151031001.pdf)

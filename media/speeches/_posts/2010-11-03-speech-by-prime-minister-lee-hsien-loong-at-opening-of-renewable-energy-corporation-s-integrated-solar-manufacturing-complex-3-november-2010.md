@@ -5,7 +5,6 @@ subtitle: 3 Nov 2010
 permalink: /media/speeches/speech-by-prime-minister-lee-hsien-loong-at-opening-of-renewable-energy-corporation-s-integrated-solar-manufacturing-complex-3-november-2010
 ---
 
-### SPEECH BY PRIME MINISTER LEE HSIEN LOONG AT OPENING OF RENEWABLE ENERGY CORPORATION’S INTEGRATED SOLAR MANUFACTURING COMPLEX, 3 NOVEMBER 2010
 
 Ms Janne Julsrud  
 Norway’s Ambassador to Singapore
@@ -13,7 +12,7 @@ Norway’s Ambassador to Singapore
 Mr Ole Enger  
 President and CEO, Renewable Energy Corporation
 
-Distinguished guests
+Distinguished Guests
 
 Ladies and Gentlemen
 

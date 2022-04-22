@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Opening Remarks by Energy Market Authority Chief Executive Lawrence Wong at the Solar Awards Ceremony, 30 November 2010
+title: Opening Remarks by Energy Market Authority Chief Executive Lawrence Wong at the Solar Awards Ceremony
 subtitle: 30 Nov 2010
 permalink: /media/speeches/opening-remarks-by-energy-market-authority-chief-executive-lawrence-wong-at-the-solar-awards-ceremony-30-november-2010
 ---
 
-### OPENING REMARKS BY ENERGY MARKET AUTHORITY CHIEF EXECUTIVE LAWRENCE WONG AT THE SOLAR AWARDS CEREMONY, 30 NOVEMBER 2010
+Distinguished Guests 
 
-Distinguished Guests, 
-
-Ladies and Gentlemen,
+Ladies and Gentlemen
 
 1.&nbsp;I am very pleased to join you at this year’s Solar Awards Ceremony event
 

@@ -5,8 +5,6 @@ title: Public Consultation and Perception Survey reflect strong public interest
 subtitle: 9 Feb 2012
 permalink: /media/press-release/public-consultation-and-perception-survey-reflect-strong-public-interest-in-climate-change
 ---
-### PUBLIC CONSULTATION AND PERCEPTION SURVEY REFLECT STRONG PUBLIC INTEREST IN CLIMATE CHANGE
-
 **Singapore, 9 February 2012** - As part of the development of the National Climate Change Strategy 2012 (NCCS-2012) and to engage the public on climate change-related issues, the National Climate Change Secretariat (NCCS), together with the agencies under the Inter-Ministerial Committee on Climate Change (IMCCC), conducted consultations from September 2011 to January 2012 which received over 1,000 comments from stakeholders and members of the public.
 
 To reach different segments of the public, consultations were organised through various channels. These included an online consultation portal (https://www.reach.gov.sg/Participate/Public-Consultation), focus group discussions and public forums. The online consultation and focus group discussions sought feedback from households, businesses and subject experts in areas such as transport, energy efficiency in buildings, homes and businesses, as well as opportunities arising from addressing climate change. The public forums were held in partnership with the five Community Development Councils (CDCs) to reach out to grassroots leaders and residents on how they could play a part to address climate change.
@@ -27,8 +25,7 @@ Agreeing, Mr Jose Raymond, Executive Director of Singapore Environment Council (
 Mr Edwin Khew, President, Sustainable Energy Association of Singapore (SEAS) and Co-Chair of the Focus Group on Improving the Manufacturing / Industry Sector’s Energy Efficiency, added, “NCCS’ consultation with industry on energy efficiency sharpened the industry’s focus on energy management standards, consumption patterns and Government incentives.”
 
 
-The list of feedback and suggestions, as well as agencies’ responses can be viewed at NCCS’ website (
-[<a href="https://www.nccs.gov.sg/public-consultation/overview" target="_blank">www.nccs.gov.sg/public-consultation</a>](https://www.nccs.gov.sg/public-consultation/overview)).
+The list of feedback and suggestions, as well as agencies’ responses can be viewed at NCCS’ website ([https://www.nccs.gov.sg/public-consultation/](https://www.nccs.gov.sg/public-consultation/)).
 
 **About the National Climate Change Secretariat (NCCS)**
 

@@ -14,9 +14,9 @@ Dr Su Guaning
 Professor Cen Zhangzhi
 <br>Vice Chairman of University Council, Tsinghua University  
 
-Distinguished guests  
+Distinguished Guests  
 <br>
-Ladies and gentlemen  
+Ladies and Gentlemen  
 <br>
 Good Morning.
 

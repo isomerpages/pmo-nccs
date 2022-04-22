@@ -1,14 +1,14 @@
 ---
-title: '[Closed on 20 Apr 2017] Public Consultation on Singapore''s Climate Change Strategy And Carbon Tax'
+title: "[Closed on 20 Apr 2017] Public Consultation on Singapore's Climate
+  Change Strategy And Carbon Tax"
 permalink: /public-consultation/public-consultation-on-singapore's-climate-change-strategy-and-carbon-tax/
 third_nav_title: Overview
 ---
-
 ### [CLOSED ON 20 APR 2017] PUBLIC CONSULTATION ON SINGAPORE'S CLIMATE STRATEGY AND CARBON TAX
 
 **Response to comments received from the Singapore's Climate Change Strategy And Carbon Tax**
 
-The National Climate Change Secretariat conducted a [<a href="/files/docs/default-source/default-document-library/climate-change-strategy-and-carbon-pricing.pdf" target="_blank">public consultation exercise</a>](/files/docs/default-source/default-document-library/limate-change-strategy-and-carbon-pricing.pdf) from March to May 2017. From the online consultation and focus group discussions, we received feedback and suggestions related to the proposed carbon tax policy and Singapore's climate change strategy to (i) enhance carbon efficiency in the industry, power, buildings, transport, household, waste and water sectors; and (ii) harness green growth opportunities. Below is a summary of the feedback and responses according to the themes highlighted. Responses to more specific feedback and suggestions may be found in [<a href="/docs/default-source/default-document-library/annex-a.pdf" target="_blank">Annex A</a>](/docs/default-source/default-document-library/annex-a.pdf).
+The National Climate Change Secretariat conducted a [public consultation exercise](https://www.nccs.gov.sg/files/docs/default-source/default-document-library/climate-change-strategy-and-carbon-pricing.pdf) from March to May 2017. From the online consultation and focus group discussions, we received feedback and suggestions related to the proposed carbon tax policy and Singapore's climate change strategy to (i) enhance carbon efficiency in the industry, power, buildings, transport, household, waste and water sectors; and (ii) harness green growth opportunities. Below is a summary of the feedback and responses according to the themes highlighted. Responses to more specific feedback and suggestions may be found in [Annex A](https://www.reach.gov.sg/-/media/REACH/Old-REACH/2017/PC/NCCS/Summaryresponse/AnnexA.ashx).
 
 **Carbon Tax Policy**
 

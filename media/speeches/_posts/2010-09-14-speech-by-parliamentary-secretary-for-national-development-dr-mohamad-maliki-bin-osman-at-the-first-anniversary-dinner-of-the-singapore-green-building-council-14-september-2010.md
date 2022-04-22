@@ -15,9 +15,9 @@ President of the Singapore Green Building Council
 Dr John Keung  
 CEO, Building and Construction Authority
 
-Distinguished guests,
+Distinguished Guests
 
-Ladies and Gentlemen,
+Ladies and Gentlemen
 
 **Introduction**  
 1\. I am pleased to be here this evening at the Singapore Green Building Council’s 1st Anniversary Dinner. I would like to extend a warm welcome to Mr Tony Arnel, Chair of the World Green Building Council (WorldGBC) and our guests from the Green Building Councils around the world. I hope that your stay in Singapore has been fruitful and you have found opportunities for future collaboration in the area of green buildings.

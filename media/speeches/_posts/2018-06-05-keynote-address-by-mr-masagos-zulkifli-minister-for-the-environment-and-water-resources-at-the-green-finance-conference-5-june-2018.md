@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Keynote Address by Minister for the Environment and Water Resources Masagos Zulkifli at the Green Finance Conference
+title: Keynote Address by Minister for the Environment and Water Resources
+  Masagos Zulkifli at the Green Finance Conference
 subtitle: 5 Jun 2018
 permalink: /media/speeches/keynote-address-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-green-finance-conference-5-june-2018
 ---
-
-### KEYNOTE ADDRESS BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES MASAGOS ZULKIFLI AT THE GREEN FINANCE CONFERENCE, 5 JUNE 2018
-
 Delegates  
+
 Ladies and Gentlemen
 
 Good morning. I am happy to join all of you at today’s conference.
@@ -59,4 +58,4 @@ I wish all of you a fruitful Conference.
 Thank you.
 
 
-*Source: [<a href="https://www.mewr.gov.sg/" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/)*
+*Source: [Ministry of the Environment and Water Resources & National Archives of Singapore](https://go.gov.sg/5june2018-keynote-address-by-minister-for-the-environment-and-water-resources-masagos-zulkifli-at-the-green-finance-conference)*

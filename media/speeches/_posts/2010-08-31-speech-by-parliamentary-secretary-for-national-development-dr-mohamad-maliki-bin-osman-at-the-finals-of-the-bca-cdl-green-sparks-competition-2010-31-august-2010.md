@@ -17,7 +17,7 @@ Mr Lim Tow Fok
 General Manager  
 Property and Facilities Management, City Developments Limited
 
-Distinguished judges
+Distinguished Judges
 
 Ladies and Gentlemen
 

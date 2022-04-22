@@ -5,11 +5,7 @@ permalink: /media/publications/climate-plan-take-action-today-for-a-sustainable-
 date: 2016-01-01
 description: ""
 ---
-
-
-
-
-![Climate Action Plan: Take Action Today, for a Sustainable Future](/images/take-action-today-for-a-carbon-efficient-singapore.jpg "Climate Action Plan: Take Action Today, for a Sustainable Future"){: style="width:300px; height:210px; margin-left:15px; border:1px solid #ededed;"}
+![Take Action Today for a Carbon Efficient Singapore](/images/take-action-today-for-a-carbon-efficient-singapore.jpg)
 
 Singapore's *Climate Action Plan: Take Action Today, for a Sustainable Future* comprises two complementary publications on Singapore’s mitigation and adaptation plans. The first publication, "Take Action Today, for a Carbon-Efficient Singapore", contains information on how Singapore intends to reduce greenhouse gas emissions and increase energy efficiency to meet our 2030 climate pledge. The second publication, "A Climate-Resilient Singapore, for a Sustainable Future", explains how Singapore may be affected by climate change and our strategy to prepare for them. 
 

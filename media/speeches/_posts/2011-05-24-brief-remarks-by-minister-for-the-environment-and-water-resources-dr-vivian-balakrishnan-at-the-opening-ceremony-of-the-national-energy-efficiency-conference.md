@@ -4,7 +4,6 @@ title: Remarks by Minister for the Environment and Water Resources Dr Vivian Bal
 subtitle: 24 May 2011
 permalink: /media/speeches/brief-remarks-by-minister-for-the-environment-and-water-resources-dr-vivian-balakrishnan-at-the-opening-ceremony-of-the-national-energy-efficiency-conference
 ---
-### REMARKS BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR VIVIAN BALAKRISHNAN AT THE OPENING CEREMONY OF THE NATIONAL ENERGY EFFICIENCY CONFERENCE 2011 ON 24 MAY 2011
 
 Mr Pasquale Pistorio
 

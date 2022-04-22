@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Speech by Maritime and Port Authority of Singapore Chief Executive Lam Yi Young on Environmental Challenges for Shipping and Port Activities at the Sustainable Marine Transportation Conference 2011, 17 January 2011
+title: Speech by Maritime and Port Authority of Singapore Chief Executive Lam Yi Young on Environmental Challenges for Shipping and Port Activities at the Sustainable Marine Transportation Conference 2011
 subtitle: 17 Jan 2011
 permalink: /media/speeches/speech-by-maritime-and-port-authority-of-singapore-chief-executive-lam-yi-young-on-environmental-challenges-for-shipping-and-port-activities
 ---
-
-### SPEECH BY MARITIME AND PORT AUTHORITY OF SINGAPORE CHIEF EXECUTIVE LAM YI YOUNG ON ENVIRONMENTAL CHALLENGES FOR SHIPPING AND PORT ACTIVITIES AT THE SUSTAINABLE MARINE TRANSPORTATION CONFERENCE 2011, 17 JANUARY 2011
 
 Good afternoon
 
@@ -13,7 +11,7 @@ Excellencies
 
 Distinguished Guests
 
-Ladies and Gentlemen.
+Ladies and Gentlemen
 
 I am very pleased to join you at this afternoon's Sustainable Marine Transportation Conference. I would first like to thank the organisers, the Royal Norwegian Embassy in Singapore, Innovation Norway and the Norwegian Business Association (Singapore) for giving me the opportunity to speak to you today and to share Singapore's perspectives on the environmental challenges facing shipping and port activities.
 

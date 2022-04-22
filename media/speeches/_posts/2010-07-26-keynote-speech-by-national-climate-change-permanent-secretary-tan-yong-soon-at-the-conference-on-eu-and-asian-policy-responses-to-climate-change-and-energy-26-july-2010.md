@@ -16,7 +16,7 @@ Director, EU Centre in Singapore
 
 Excellencies  
 <br>
-Ladies and gentlemen  
+Ladies and Gentlemen  
 <br>
 Good morning.
 

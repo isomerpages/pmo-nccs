@@ -1,19 +1,18 @@
 ---
 layout: post
-title: Speech by Senior Minister of State for National Development and Education Grace Fu at the Official Opening of the International Skyrise Greenery Conference 2010 at the National Library Board
+title: Speech by Senior Minister of State for National Development and Education
+  Grace Fu at the Official Opening of the International Skyrise Greenery
+  Conference 2010 at the National Library Board
 subtitle: 1 Nov 2010
 permalink: /media/speeches/speech-by-senior-minister-of-state-for-national-development-and-education-grace-fu-at-the-official-opening-of-the-international-2010-1-november-2010
 ---
-
-### SPEECH BY SENIOR MINISTER OF STATE FOR NATIONAL DEVELOPMENT AND EDUCATION GRACE FU AT THE OFFICIAL OPENING OF THE INTERNATIONAL SKYRISE GREENERY CONFERENCE 2010 AT THE NATIONAL LIBRARY BOARD, 1 NOVEMBER 2010
-
 Mr Roland Appl
 
 President, International Green Roof Association
 
-Distinguished guests
+Distinguished Guests
 
-Ladies and gentlemen
+Ladies and Gentlemen
 
 1\. I am delighted to be here this morning at the official opening of the inaugural International Skyrise Greenery Conference 2010. Organised by the National Parks Board, the Centre for Urban Greenery and Ecology and the International Green Roof Association, this conference has attracted more than 400 participants from 25 countries.
 
@@ -62,4 +61,4 @@ We welcome partnership with different organisations and professionals to realise
 <br><br><br>
 
 
-*Source*: [<a href="https://www.nparks.gov.sg/news/2010/11/speech-by-ms-grace-fu-senior-minister-of-state-for-national-development-and-education-at-the-official-opening-of-international-skyrise-greenery-conference-2010-on-monday-1-november-2010-at-905am-national-library-board" target="_blank">National Parks</a>](https://www.nparks.gov.sg/news/2010/11/speech-by-ms-grace-fu-senior-minister-of-state-for-national-development-and-education-at-the-official-opening-of-international-skyrise-greenery-conference-2010-on-monday-1-november-2010-at-905am-national-library-board)
+*Source*: [National Parks Board ](https://www.nparks.gov.sg/news)
