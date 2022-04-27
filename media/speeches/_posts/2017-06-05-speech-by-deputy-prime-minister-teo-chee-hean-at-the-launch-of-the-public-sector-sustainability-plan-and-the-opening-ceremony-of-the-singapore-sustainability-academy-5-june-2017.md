@@ -12,10 +12,10 @@ Mr Masagos Zulkifli,
 <br>
 Mr Edwin Khew, 
 <br>Chairman, Sustainable Energy Association of Singapore
-<br>
+<br><br>
 Mr Sherman Kwek, 
 <br>Deputy CEO, City Developments Limited
-<br>
+<br><br>
 Ladies and Gentlemen,
 
 Good Morning.
