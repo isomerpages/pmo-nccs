@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Speech by Dr Amy Khor, Senior Minister of State for the Environment and
-  Water Resources, at the Green Growth and Business Forum 2016, 12 July 2016
+  Water Resources, at the Green Growth and Business Forum 2016
 subtitle: 12 Jul 2016
 permalink: /media/speeches/speech-by-dr-amy-khor-senior-minister-of-state-for-the-environment-and-water-resources-at-the-green-growth-and-business-forum-2016-12-july-2016
 ---
-### SPEECH BY DR AMY KHOR, SENIOR MINISTER OF STATE FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE GREEN GROWTH AND BUSINESS FORUM 2016, 12 JULY 2016
 
 Your Excellency, British High Commissioner, Scott Wightman,
 
