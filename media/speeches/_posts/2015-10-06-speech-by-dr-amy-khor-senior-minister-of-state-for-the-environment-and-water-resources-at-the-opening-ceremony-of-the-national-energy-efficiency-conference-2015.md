@@ -3,11 +3,10 @@ layout: post
 title: ​Speech by Dr Amy Khor, Senior Minister of State for the Environment and
   Water Resources, at the Opening Ceremony of the National Energy Efficiency
   Conference 2015 and Presentation of the Energy Efficiency National Partnership
-  Awards on 6 October 2015
+  Awards
 subtitle: 6 Oct 2015
 permalink: /media/speeches/speech-by-dr-amy-khor-senior-minister-of-state-for-the-environment-and-water-resources-at-the-opening-ceremony-of-the-national-energy-efficiency-conference-2015
 ---
-### SPEECH BY DR AMY KHOR, SENIOR MINISTER OF STATE FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE OPENING CEREMONY OF THE NATIONAL ENERGY EFFICIENCY CONFERENCE 2015 AND PRESENTATION OF THE ENERGY EFFICIENCY NATIONAL PARTNERSHIP AWARDS ON 6 OCTOBER 2015
 
 Distinguished Guests
 
