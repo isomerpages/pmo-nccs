@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Statement by Dr Vivian Balakrishnan, Minister for the Environment and
-  Water Resources, Republic of Singapore, at the Climate Summit 2014, New York,
-  23 September 2014, at 4.40PM (24 September 2014, 4.40AM Singapore Time)
+title: Statement by Minister for the Environment and Water Resources Dr Vivian Balakrishnan, Republic of Singapore, at the Climate Summit 2014, New York
 subtitle: 23 Sep 2014
 permalink: /media/speeches/statement-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-republic-of-singapore-at-the-climate-summit-2014-new-york-23-september-2014
 ---
-### STATEMENT BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, REPUBLIC OF SINGAPORE, AT THE CLIMATE SUMMIT 2014, NEW YORK, 23 SEPTEMBER 2014, AT 4.40PM (24 SEPTEMBER 2014, 4.40AM SINGAPORE TIME)
 
 Your Excellencies John Kufour and Marçin Korolec,
 
