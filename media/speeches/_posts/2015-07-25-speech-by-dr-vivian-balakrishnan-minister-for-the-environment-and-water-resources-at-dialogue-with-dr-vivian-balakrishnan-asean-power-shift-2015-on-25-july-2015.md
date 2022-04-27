@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Speech by Dr Vivian Balakrishnan, Minister for the Environment and Water
-  Resources at "Dialogue with Dr Vivian Balakrishnan", ASEAN Power Shift 2015 on
-  25 July 2015
+title: Speech by Minister for the Environment and Water Resources Dr Vivian Balakrishnan at "Dialogue with Dr Vivian Balakrishnan", ASEAN Power Shift 2015
 subtitle: 25 Jul 2015
 permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-dialogue-with-dr-vivian-balakrishnan-asean-power-shift-2015-on-25-july-2015
 ---
-### SPEECH BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AT "DIALOGUE WITH DR VIVIAN BALAKRISHNAN", ASEAN POWER SHIFT 2015 ON 25 JULY 2015
 
 Good morning. I am heartened to see so many passionate young people here today. 
 
