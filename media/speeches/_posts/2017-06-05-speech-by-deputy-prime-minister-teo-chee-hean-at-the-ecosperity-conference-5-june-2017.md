@@ -6,9 +6,9 @@ permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-
 ---
 
 Chairman Temasek Mr Lim Boon Heng,
-<br>
+<br><br>
 Distinguished Guests,
-<br>
+<br><br>
 Ladies and Gentlemen,
 
 Good Afternoon.
