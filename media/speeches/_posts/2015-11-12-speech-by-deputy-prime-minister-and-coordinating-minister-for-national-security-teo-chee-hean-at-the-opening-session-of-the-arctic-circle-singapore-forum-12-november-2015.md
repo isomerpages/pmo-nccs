@@ -4,7 +4,6 @@ title: Speech by Deputy Prime Minister and Coordinating Minister for National Se
 subtitle: 12 Nov 2015
 permalink: /media/speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-teo-chee-hean-at-the-opening-session-of-the-arctic-circle-singapore-forum-12-november-2015
 ---
-### SPEECH BY DEPUTY PRIME MINISTER AND COORDINATING MINISTER FOR NATIONAL SECURITY TEO CHEE HEAN AT THE OPENING SESSION OF THE ARCTIC CIRCLE SINGAPORE FORUM, 12 NOVEMBER 2015
 
 His Excellency Ólafur Grímsson,
 
@@ -12,7 +11,7 @@ President of Iceland
 
 Madam Dorrit Moussaieff
 
-Ladies and gentlemen,
+Ladies and Gentlemen,
 
 I think we ought to thank President Grímsson for the excellent introduction.  A very good morning to everyone.  Let me extend a very warm welcome to President Grímsson and Mdm Moussaieff, as well as to our other speakers and delegates, who have come from many countries to join us here in Singapore, for what would have been improbable a few years ago, a Forum on the Arctic.
 
