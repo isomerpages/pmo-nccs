@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speech by Mr Choi Shing Kwok, Permanent Secretary, Ministry of the Environment and Water Resources, at the Green Growth & Business Forum
+title: Speech by Permanent Secretary, Ministry of the Environment and Water Resources, Choi Shing Kwok at the Green Growth & Business Forum
 subtitle: 4 Jun 2014
 permalink: /media/speeches/speech-by-mr-choi-shing-kwok-permanent-secretary-ministry-of-the-environment-and-water-resources-at-the-green-growth-business-forum-4-june-2014
 ---
