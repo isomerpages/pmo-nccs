@@ -1,15 +1,13 @@
 ---
 layout: post
-title: World Water Day Celebrations 2014 at Marina Barrage - Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, Mr Teo Chee Hean
+title: World Water Day Celebrations 2014 at Marina Barrage - Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Teo Chee Hean
 subtitle: 15 Mar 2014
 permalink: /media/speeches/world-water-day-celebrations-2014-at-marina-barrage---speech-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean
 ---
 
-### WORLD WATER DAY CELEBRATIONS 2014 AT MARINA BARRAGE - SPEECH BY DEPUTY PRIME MINISTER, COORDINATING MINISTER FOR NATIONAL SECURITY AND MINISTER FOR HOME AFFAIRS, MR TEO CHEE HEAN
+Ladies and Gentlemen
 
-Ladies and gentlemen
-
-Boys and girls
+Boys and Girls
 
 **Introduction**
 
