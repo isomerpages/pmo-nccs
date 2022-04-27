@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Speech by Masagos Zulkifli, Minister for the Environment and Water
-  Resources, on Energy Conservation (Amendment) Bill, 3 April 2017
+title: Speech by Minister for the Environment and Water Resources Masagos Zulkifli on Energy Conservation (Amendment) Bill
 subtitle: 3 Apr 2017
 permalink: /media/speeches/speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-on-energy-conservation-(amendment)-bill-3-april-2017
 ---
-### SPEECH BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, ON ENERGY CONSERVATION (AMENDMENT) BILL, 3 APRIL 2017
 
 Madam Speaker, I beg to move, “That the Bill be read a Second time.” 
 
