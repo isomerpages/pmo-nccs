@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Excerpt of Budget Speech by Mr Heng Swee Kiat, Minister for Finance
+title: Excerpt of Budget Speech by Minister for Finance Heng Swee Kiat
 subtitle: 19 Feb 2018
 permalink: /media/speeches/excerpt-of-budget-speech-by-mr-heng-swee-kiat-minister-for-finance-19-february-2018
 ---
