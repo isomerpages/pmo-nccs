@@ -6,12 +6,10 @@ permalink: /media/speeches/speech-by-mr-teo-chee-hean-deputy-prime-minister-and-
 ---
 
 Engineer Chong Kee Sen
-
-President of the Institution of Engineers, Singapore
+<br>President of the Institution of Engineers, Singapore
 
 Engineer Marwan Abdelhamid
-
-President of the World Federation of Engineering Organisations
+<br>President of the World Federation of Engineering Organisations
 
 Distinguished Guests
 
