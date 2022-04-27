@@ -5,7 +5,6 @@ subtitle: 19 Jul 2017
 permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-opening-of-the-world-engineers-summit-2017-19-july-2017
 ---
 
-### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE OPENING OF THE WORLD ENGINEERS SUMMIT 2017, 19 JULY 2017
 
 *"Developing Low Carbon Cities and Urban Energy Systems”*
 
