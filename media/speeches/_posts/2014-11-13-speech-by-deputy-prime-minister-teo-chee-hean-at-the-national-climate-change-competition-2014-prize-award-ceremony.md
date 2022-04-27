@@ -5,12 +5,11 @@ subtitle: 13 Nov 2014
 permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2014-prize-award-ceremony
 ---
 
-### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE NATIONAL CLIMATE CHANGE COMPETITION 2014 PRIZE AWARD CEREMONY AND LAUNCH OF NEW CLIMATE CHANGE EXHIBITION AT THE SINGAPORE SCIENCE CENTRE  
-Distinguished guests
+Distinguished Guests
 
-Teachers and students
+Teachers and Students
 
-Ladies and gentlemen
+Ladies and Gentlemen
 
 **Introduction**  
 Congratulations to the winners of the National Climate Change Competition, and thank you to all the participants. All of you have played a part in spreading the word on climate change.
