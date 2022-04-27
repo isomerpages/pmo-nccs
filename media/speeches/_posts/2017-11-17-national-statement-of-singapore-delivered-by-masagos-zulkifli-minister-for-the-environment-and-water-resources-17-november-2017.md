@@ -4,7 +4,6 @@ title: National Statement of Singapore Delivered by Minister for the Environment
 subtitle: 17 Nov 2017
 permalink: /media/speeches/national-statement-of-singapore-delivered-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-17-november-2017
 ---
-### NATIONAL STATEMENT OF SINGAPORE DELIVERED BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES MASAGOS ZULKIFLI AT THE UNFCCC COP-23/ CMP-13/ CMA1.2 HIGH LEVEL, 17 NOVEMBER 2017
 
 Mr President,
 
