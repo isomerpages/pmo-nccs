@@ -9,7 +9,7 @@ Mr Gan Seow Kee
 <br>Chairman and Managing Director of ExxonMobil Asia Pacific
 
 Distinguished Guests, 
-<br>Ladies And Gentlemen
+<br><br>Ladies and Gentlemen
 
 **ExxonMobil and Singapore**
 
