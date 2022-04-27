@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Excerpt of Budget Speech by Mr Heng Swee Kiat, Minister for Finance, 19 February 2018
+title: Excerpt of Budget Speech by Mr Heng Swee Kiat, Minister for Finance
 subtitle: 19 Feb 2018
 permalink: /media/speeches/excerpt-of-budget-speech-by-mr-heng-swee-kiat-minister-for-finance-19-february-2018
 ---
 
-### EXCERPT OF BUDGET SPEECH BY MR HENG SWEE KIAT, MINISTER FOR FINANCE, 19 FEBRUARY 2018  
 **Reducing Emissions**
 
 To improve our living environment, we must also address one of the most pressing challenges the world faces – climate change.
