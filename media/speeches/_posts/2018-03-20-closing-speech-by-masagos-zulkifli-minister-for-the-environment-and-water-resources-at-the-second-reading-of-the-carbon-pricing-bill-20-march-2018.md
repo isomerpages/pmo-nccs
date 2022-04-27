@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Closing Speech by Masagos Zulkifli, Minister for the Environment and
-  Water Resources, at the Second Reading of the Carbon Pricing Bill, 20 March
-  2018
+  Water Resources, at the Second Reading of the Carbon Pricing Bill
 subtitle: 20 Mar 2018
 permalink: /media/speeches/closing-speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-second-reading-of-the-carbon-pricing-bill-20-march-2018
 ---
-### CLOSING SPEECH BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE SECOND READING OF THE CARBON PRICING BILL, 20 MARCH 2018
 
 Mr. Deputy Speaker, I would like to thank Members for their support and comments on the Carbon Pricing Bill.
 
