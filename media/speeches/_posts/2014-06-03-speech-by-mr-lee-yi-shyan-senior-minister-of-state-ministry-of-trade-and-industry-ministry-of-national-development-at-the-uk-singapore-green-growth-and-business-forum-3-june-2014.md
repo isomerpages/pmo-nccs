@@ -8,7 +8,7 @@ permalink: /media/speeches/speech-by-mr-lee-yi-shyan-senior-minister-of-state-mi
 The Right Honourable Greg Clark, 
 <br>Minister of State for Cabinet Office (Cities & Constitution), United Kingdom
 
-Distinguished Guests
+Distinguished Guests,
 
 Ladies and Gentlemen,
 
