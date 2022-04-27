@@ -4,7 +4,6 @@ title: Excerpt of Speech on Climate Change by Minister for the Environment and W
 subtitle: 12 Apr 2016
 permalink: /media/speeches/excerpt-of-speech-on-climate-change-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-committee-of-supply-debate-12-april-2016
 ---
-### EXCERPT OF SPEECH ON CLIMATE CHANGE BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES MASAGOS ZULKIFLI AT THE COMMITTEE OF SUPPLY DEBATE, 12 APRIL 2016
 
 Minister for the Environment and Water Resources Mr Masagos Zulkifli spoke about climate change during the 2016 Committee of Supply Debate. The excerpt is below.
 
