@@ -15,7 +15,7 @@ Mr Michael Dreyer
 Managing Director, Asia Pacific, Koelnmesse
 
 Distinguished Guests,
-<br>
+<br><br>
 Ladies and Gentlemen,
 
 I am very pleased to join you today for the opening of Carbon Forum Asia 2011. In the past five years, Carbon Forum Asia has become the leading event in the Asia Pacific for players in the carbon and energy markets.
