@@ -6,9 +6,9 @@ permalink: /media/speeches/speech-by-mr-niam-chiang-meng-permanent-secretary-nat
 ---
 
 Distinguished Guests,  
-<br><br>
+<br>
 Teachers and Students,  
-<br><br>
+<br>
 Ladies and Gentlemen.
 
 I am happy to join you today at the award ceremony of the National Climate Change Competition 2012 Technology Project Challenge and the launch of competition for this year.
