@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Speech by Mr Lim Hng Kiang Minister for Trade and Industry at the Opening Ceremony of CleanTech One
+title: Speech by Minister for Trade and Industry Lim Hng Kiang at the Opening Ceremony of CleanTech One
 subtitle: 15 Aug 2013
 permalink: /media/speeches/speech-by-mr-lim-hng-kiang-minister-for-trade-and-industry-at-the-opening-ceremony-of-cleantech-one
 ---
 
-### SPEECH BY MR LIM HNG KIANG MINISTER FOR TRADE AND INDUSTRY AT THE OPENING CEREMONY OF CLEANTECH ONE
-
-Dr Loo Choon Yong, Chairman, JTC  
+Dr Loo Choon Yong, 
+<br>Chairman, JTC  
+<br>
 Distinguished Guests,  
+<br>
 Ladies and Gentlemen
 
 **INTRODUCTION**  
