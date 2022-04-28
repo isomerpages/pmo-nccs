@@ -1,20 +1,19 @@
 ---
 layout: post
-title: Opening Address by Dr Vivian Balakrishnan, Minister for the Environment
-  and Water Resources, at the Responsible Business Forum on Sustainable
-  Development, 25 November 2013 at Marina Bay Sands Convention Centre
-subtitle: 27 Nov 2013
+title: Opening Address by Minister for the Environment and Water Resources Dr Vivian Balakrishnan at the Responsible Business Forum on Sustainable Development at Marina Bay Sands Convention Centre
+subtitle: 25 Nov 2013
 permalink: /media/speeches/opening-address-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-responsible-business-forum-on-sustainable-development
 ---
-### OPENING ADDRESS BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE RESPONSIBLE BUSINESS FORUM ON SUSTAINABLE DEVELOPMENT, 25 NOVEMBER 2013 AT MARINA BAY SANDS CONVENTION CENTRE
 
-Mr Anthony Gourlay, Chief Executive Officer, Global Initiatives
+Mr Anthony Gourlay,
+<br>Chief Executive Officer, Global Initiatives
 
-Ms Dorothy Maxwell, Executive Director, The Economics of Ecosystems and Biodiversity for Business Coalition
+Ms Dorothy Maxwell, 
+<br>Executive Director, The Economics of Ecosystems and Biodiversity for Business Coalition
 
-Distinguished guests
+Distinguished Guests
 
-Ladies and gentlemen
+Ladies and Gentlemen
 
 Good afternoon, everyone. When I say, it’s a pleasure to be here, I really mean it because I almost could not make it. As you know, I just returned from Warsaw and the talks overran. In fact this is becoming a very bad habit, where the meetings keep overrunning by at least a day and more. Anyway, I left Warsaw after the major sticking points were resolved and I made it back here in time. Since I am just back from Warsaw, I thought I might as well give you an update, on what is really going on at the global front as far as the UN climate change negotiations are concerned.
 
