@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Singapore's National Statement Delivered by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Mr Teo Chee Hean, at the UNFCCC COP-17 High Level Segment, in Durban, South Africa
+title: Singapore's National Statement Delivered by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Teo Chee Hean, at the UNFCCC COP-17 High Level Segment, in Durban, South Africa
 subtitle: 7 Dec 2011
 permalink: /media/speeches/singapore's-national-statement-delivered-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean
 ---
