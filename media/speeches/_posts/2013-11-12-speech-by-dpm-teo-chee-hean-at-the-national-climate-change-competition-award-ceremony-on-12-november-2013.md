@@ -7,9 +7,9 @@ permalink: /media/speeches/speech-by-dpm-teo-chee-hean-at-the-national-climate-c
 
 
 Distinguished Guests 
-<br>
+<br><br>
 Teachers and Students 
-<br>
+<br><br>
 Ladies and Gentlemen
 
 Good morning. I am happy to join all of you today at the award ceremony for the National Climate Change Competition 2013.
