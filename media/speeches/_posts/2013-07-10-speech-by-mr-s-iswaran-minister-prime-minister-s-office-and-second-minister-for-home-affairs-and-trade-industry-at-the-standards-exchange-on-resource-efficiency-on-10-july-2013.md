@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Speech by Mr S Iswaran, Minister, Prime Minister’s Office and Second Minister for Home Affairs, and Trade & Industry at the Standards eXchange on Resource Efficiency on 10 July 2013
+title: Speech by Minister, Prime Minister’s Office and Second Minister for Home Affairs, and Trade & Industry S Iswaran at the Standards eXchange on Resource Efficiency
 subtitle: 10 Jul 2013
 permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister-s-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-standards-exchange-on-resource-efficiency-on-10-july-2013
 ---
 
-### SPEECH BY MR S ISWARAN, MINISTER, PRIME MINISTER’S OFFICE AND SECOND MINISTER FOR HOME AFFAIRS, AND TRADE & INDUSTRY AT THE STANDARDS EXCHANGE ON RESOURCE EFFICIENCY ON 10 JULY 2013
+Mr Rob Steele, 
+<br>Secretary-General, International Organization for Standardization
 
-Mr Rob Steele, Secretary-General, International Organization for Standardization
+Mr Edwin Khew, 
+<br>Chairman, Singapore Standards Council
 
-Mr Edwin Khew, Chairman, Singapore Standards Council
-
-Distinguished Guests
+Distinguished Guests,
 
 Ladies and Gentlemen
 
