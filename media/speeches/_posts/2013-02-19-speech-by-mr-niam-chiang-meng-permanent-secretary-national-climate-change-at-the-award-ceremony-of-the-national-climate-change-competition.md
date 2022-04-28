@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Speech by Mr Niam Chiang Meng, Permanent Secretary (National Climate Change) at the Award Ceremony of the National Climate Change Competition (NCCC) 2012 Technology Project Challenge and Launch of the NCCC 2013 on 19 February 2013
+title: Speech by Permanent Secretary (National Climate Change) Niam Chiang Meng at the Award Ceremony of the National Climate Change Competition (NCCC) 2012 Technology Project Challenge and Launch of the NCCC 2013
 subtitle: 19 Feb 2013
 permalink: /media/speeches/speech-by-mr-niam-chiang-meng-permanent-secretary-national-climate-change-at-the-award-ceremony-of-the-national-climate-change-competition
 ---
 
-### SPEECH BY MR NIAM CHIANG MENG, PERMANENT SECRETARY (NATIONAL CLIMATE CHANGE) AT THE AWARD CEREMONY OF THE NATIONAL CLIMATE CHANGE COMPETITION (NCCC) 2012 TECHNOLOGY PROJECT CHALLENGE AND LAUNCH OF THE NCCC 2013 ON 19 FEBRUARY 2013
-
-Distinguished guests,  
-Teachers and students,  
-Ladies and gentlemen.
+Distinguished Guests,  
+<br><br>
+Teachers and Students,  
+<br><br>
+Ladies and Gentlemen.
 
 I am happy to join you today at the award ceremony of the National Climate Change Competition 2012 Technology Project Challenge and the launch of competition for this year.
 
