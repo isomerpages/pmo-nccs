@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Speech by Mr S Iswaran, Minister, Prime Minister's Office and Second Minister for Home Affairs and Trade & Industry at the opening ceremony of the Experimental Power Grid Centre( EPGC) at Ices Jurong Island, 1 November 2011
+title: Speech by Minister, Prime Minister's Office and Second Minister for Home Affairs and Trade & Industry S Iswaran at the opening ceremony of the Experimental Power Grid Centre( EPGC) at Ices Jurong Island
 subtitle: 1 Nov 2011
 permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-opening-ceremony-of-the-experimental
 ---
 
-### SPEECH BY MR S ISWARAN, MINISTER, PRIME MINISTER'S OFFICE AND SECOND MINISTER FOR HOME AFFAIRS AND TRADE & INDUSTRY AT THE OPENING CEREMONY OF THE EXPERIMENTAL POWER GRID CENTRE( EPGC) AT ICES JURONG ISLAND, 1 NOVEMBER 2011
 
-Mr Lim Chuan Poh, Chairman, A*STAR
+Mr Lim Chuan Poh, 
+<br>Chairman, A*STAR
 
 Distinguished Guests,
 
