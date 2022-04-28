@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Speech by Ambassador Burhan Gafoor, Chief Negotiator for Climate Change, Singapore, at the Opening Ceremony of Carbon Forum Asia 2011, 2 November 2011
+title: Speech by Ambassador Burhan Gafoor, Chief Negotiator for Climate Change, Singapore, at the Opening Ceremony of Carbon Forum Asia 2011
 subtitle: 2 Nov 2011
 permalink: /media/speeches/speech-by-ambassador-burhan-gafoor-chief-negotiator-for-climate-change-singapore-at-the-opening-ceremony-of-carbon-forum-asia-2011-2-november-2011
 ---
-
-### SPEECH BY AMBASSADOR BURHAN GAFOOR, CHIEF NEGOTIATOR FOR CLIMATE CHANGE, SINGAPORE, AT THE OPENING CEREMONY OF CARBON FORUM ASIA 2011, 2 NOVEMBER 2011
 
 Mr Henry Derwent  
 President and CEO, International Emissions Trading Association (IETA)
@@ -16,7 +14,8 @@ Chairman, Sustainable Energy Association of Singapore (SEAS)
 Mr Michael Dreyer  
 Managing Director, Asia Pacific, Koelnmesse
 
-Distinguished Guests  
+Distinguished Guests,
+<br>
 Ladies and Gentlemen,
 
 I am very pleased to join you today for the opening of Carbon Forum Asia 2011. In the past five years, Carbon Forum Asia has become the leading event in the Asia Pacific for players in the carbon and energy markets.
