@@ -5,10 +5,12 @@ subtitle: 28 Sep 2011
 permalink: /media/speeches/opening-address-by-mr-lam-yi-young-chief-executive-of-the-maritime-and-port-authority-of-singapore-at-the-green-ship-technology-asia-conference-2011
 ---
 
-### OPENING ADDRESS BY MR LAM YI YOUNG, CHIEF EXECUTIVE OF THE MARITIME AND PORT AUTHORITY OF SINGAPORE AT THE GREEN SHIP TECHNOLOGY ASIA CONFERENCE 2011 HELD AT INTERCONTINENTAL HOTEL, SINGAPORE, 28 SEPTEMBER 2011
+Distinguished Guests, 
 
-Distinguished guests, ladies and gentleman,  
-Good morning.
+<br>Ladies and Gentleman,  
+
+<br>
+Good Morning.
 
 2.&nbsp;It is my pleasure to be here today at the Green Ship Technology Asia Conference 2011. It is heartening to see all of us gathered here to discuss a very important issue - promoting clean and green shipping.
 
