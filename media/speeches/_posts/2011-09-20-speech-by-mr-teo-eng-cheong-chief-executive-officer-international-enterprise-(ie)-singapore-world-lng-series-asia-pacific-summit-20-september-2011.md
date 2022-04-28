@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Speech by Mr Teo Eng Cheong, Chief Executive Officer, International Enterprise (IE) Singapore, World LNG Series: Asia Pacific Summit, 20 September 2011'
+title: 'Speech by Mr Teo Eng Cheong, Chief Executive Officer, International Enterprise (IE) Singapore, World LNG Series: Asia Pacific Summit'
 subtitle: 20 Sep 2011
 permalink: /media/speeches/speech-by-mr-teo-eng-cheong-chief-executive-officer-international-enterprise-(ie)-singapore-world-lng-series-asia-pacific-summit-20-september-2011
 ---
 
-### SPEECH BY MR TEO ENG CHEONG, CHIEF EXECUTIVE OFFICER, INTERNATIONAL ENTERPRISE (IE) SINGAPORE, WORLD LNG SERIES: ASIA PACIFIC SUMMIT, 20 SEPTEMBER 2011
-
-Distinguished guests, ladies and gentlemen, good morning.
+Distinguished Guests, 
+<br><br>Ladies and Gentlemen, 
+<br><br>Good Morning.
 
 2.&nbsp;I would like to congratulate CWC on this instalment of the World LNG series in Asia. Thank you for inviting me to join you today.
 
