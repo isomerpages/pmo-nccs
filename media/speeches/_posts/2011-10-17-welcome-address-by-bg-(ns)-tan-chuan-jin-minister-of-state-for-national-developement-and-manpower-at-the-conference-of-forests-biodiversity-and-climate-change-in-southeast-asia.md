@@ -16,7 +16,7 @@ Presidential Delivery Unit for Development Monitoring and Oversight, Republic of
 
 Distinguished Guests,
 <br><br>
-Ladies and gentlemen,
+Ladies and Gentlemen,
 
 Good morning and a warm welcome to all of you, especially our overseas friends who are here to participate in today’s conference.
 
