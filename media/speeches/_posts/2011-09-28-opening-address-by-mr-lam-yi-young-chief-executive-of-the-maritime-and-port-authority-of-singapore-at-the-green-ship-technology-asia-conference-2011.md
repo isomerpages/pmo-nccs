@@ -6,10 +6,10 @@ permalink: /media/speeches/opening-address-by-mr-lam-yi-young-chief-executive-of
 ---
 
 Distinguished Guests, 
-<br>Ladies and Gentleman,  
+<br><br>Ladies and Gentleman,  
 <br>
 Good Morning.
-<br>
+<br><br>
 2.&nbsp;It is my pleasure to be here today at the Green Ship Technology Asia Conference 2011. It is heartening to see all of us gathered here to discuss a very important issue - promoting clean and green shipping.
 
 **Importance of Shipping**
