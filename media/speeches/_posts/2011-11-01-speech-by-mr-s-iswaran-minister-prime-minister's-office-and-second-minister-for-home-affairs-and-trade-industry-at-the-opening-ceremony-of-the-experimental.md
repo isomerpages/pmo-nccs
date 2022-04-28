@@ -15,7 +15,7 @@ Ladies and Gentlemen,
 
 A very good morning,
 
-Introduction
+**Introduction**
 
 I am pleased to join you today for the opening ceremony of A*STAR’s Experimental Power Grid Centre (EPGC).
 
