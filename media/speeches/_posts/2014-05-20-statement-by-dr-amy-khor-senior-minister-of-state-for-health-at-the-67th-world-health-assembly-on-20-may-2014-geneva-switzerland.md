@@ -6,13 +6,13 @@ permalink: /media/speeches/statement-by-dr-amy-khor-senior-minister-of-state-for
 ---
 
 Mr. President, 
-<br>
+<br><br>
 Madame Director General,
-<br>
+<br><br>
 Excellencies, 
-<br>
+<br><br>
 Ministers for Health, 
-<br>
+<br><br>
 Ladies and Gentlemen,
 
 There has been for some time now, a strong and rapidly growing global and scientific consensus, that the warming of the climate system is a fact, and is affecting human health. Madame Director General even went as far to describe, and I quote, “climate change as the defining issue for public health during this century”.¹ We concur. Climate change is real and will affect some of the most fundamental determinants of health, namely water, air and food.
