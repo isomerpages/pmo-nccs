@@ -1,13 +1,11 @@
 ---
 layout: post
-title: EMA awards $6.2 million research grant to develop solar forecasting capabilities
+title: EMA Awards $6.2 Million Research Grant to Develop Solar Forecasting Capabilities
 subtitle: 23 Oct 2017
 permalink: /media/press-release/ema-awards-62-million-research-grant-to-develop-solar-forecasting-capabilities
 ---
 
-### EMA AWARDS $6.2 MILLION RESEARCH GRANT TO DEVELOP SOLAR FORECASTING CAPABILITIES
-
-**23 October 2017** - Singapore's capability to accurately forecast solar energy output is set to grow with a $6.2 million research grant from the Energy Market Authority (EMA). At today's Singapore International Energy Week 2017 Senior Minister of State for Trade & Industry Sim Ann announced the award of the research grant to a consortium led by the National University of Singapore (NUS).
+Singapore's capability to accurately forecast solar energy output is set to grow with a $6.2 million research grant from the Energy Market Authority (EMA). At today's Singapore International Energy Week 2017 Senior Minister of State for Trade & Industry Sim Ann announced the award of the research grant to a consortium led by the National University of Singapore (NUS).
 
 The consortium will look into improving the accuracy of solar photovoltaic (PV) output forecasts and grid management using techniques in weather prediction, remote sensing, machine learning and grid modelling. The system will make use of the growing pool of solar irradiance data generated as more sensors are installed on the rooftops of buildings, and weather data from the dense network of sensors installed by Meteorological Service Singapore (MSS) island wide. (See Annex in PDF for the project’s full details.)
 
