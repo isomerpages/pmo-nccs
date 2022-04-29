@@ -1,18 +1,19 @@
 ---
 layout: post
-title: Speech by Mr Tan Yong Soon, Permanent Secretary (National Climate Change), at the Nanyang Technological University and Michigan State University International Conference on the Economics and Policy of Water and the Environment, 29 June 2012
+title: Speech by Permanent Secretary (National Climate Change) Tan Yong Soon at the Nanyang Technological University and Michigan State University International Conference on the Economics and Policy of Water and the Environment
 subtitle: 29 Jun 2012
 permalink: /media/speeches/speech-by-mr-tan-yong-soon-permanent-secretary-national-climate-change-at-the-nanyang-technological-university-and-michigan-state-university-international-conference
 ---
 
-### SPEECH BY MR TAN YONG SOON, PERMANENT SECRETARY (NATIONAL CLIMATE CHANGE), AT THE NANYANG TECHNOLOGICAL UNIVERSITY AND MICHIGAN STATE UNIVERSITY INTERNATIONAL CONFERENCE ON THE ECONOMICS AND POLICY OF WATER AND THE ENVIRONMENT, 29 JUNE 2012
-
-Professor Euston Quah  
-Dean Marietta Baba  
-Distinguished members of the academic community  
-Ladies and gentlemen
-
-Good morning.
+Professor Euston Quah,  
+<br>
+Dean Marietta Baba,  
+<be>
+Distinguished members of the academic community,  
+<be>
+Ladies and Gentlemen,
+<be>
+Good Morning.
 
 I am very pleased to join you at this two-day conference on the Economics and Policy of Water and the Environment jointly organised by the Nanyang Technological University and Michigan State University, ahead of the Singapore International Water Week next week.
 
