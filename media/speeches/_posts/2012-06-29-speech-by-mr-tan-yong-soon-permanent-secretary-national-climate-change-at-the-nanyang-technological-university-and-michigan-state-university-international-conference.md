@@ -8,11 +8,11 @@ permalink: /media/speeches/speech-by-mr-tan-yong-soon-permanent-secretary-nation
 Professor Euston Quah,  
 <br>
 Dean Marietta Baba,  
-<be>
+<br>
 Distinguished members of the academic community,  
-<be>
+<br>
 Ladies and Gentlemen,
-<be>
+<br>
 Good Morning.
 
 I am very pleased to join you at this two-day conference on the Economics and Policy of Water and the Environment jointly organised by the Nanyang Technological University and Michigan State University, ahead of the Singapore International Water Week next week.
