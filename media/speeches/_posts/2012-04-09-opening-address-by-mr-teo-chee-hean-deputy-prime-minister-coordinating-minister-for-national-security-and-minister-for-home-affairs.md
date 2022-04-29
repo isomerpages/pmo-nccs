@@ -12,7 +12,7 @@ Ambassador Barry Desker,
 <br>Dean, RSIS  
 <br>
 Excellencies 
-<br>
+<br><br>
 Distinguished Guests  
 <br>
 Ladies and Gentlemen
