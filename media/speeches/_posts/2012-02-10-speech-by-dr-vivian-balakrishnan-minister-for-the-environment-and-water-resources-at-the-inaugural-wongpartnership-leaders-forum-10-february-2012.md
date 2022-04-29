@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Speech by Dr Vivian Balakrishnan, Minister for the Environment and Water
-  Resources, at the Inaugural WongPartnership Leaders Forum, 10 February 2012
+title: Speech by Minister for the Environment and Water Resources Dr Vivian Balakrishnan at the Inaugural WongPartnership Leaders Forum
 subtitle: 10 Feb 2012
 permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-inaugural-wongpartnership-leaders-forum-10-february-2012
 ---
-### SPEECH BY DR VIVIAN BALAKRISHNAN, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE INAUGURAL WONGPARTNERSHIP LEADERS FORUM, 10 FEBRUARY 2012
 
 **Greening the Singapore economy**  
 We live in a world which is simultaneously confronting a global financial crisis, political upheavals in many parts of the world due to growing inequality, resource depletions, a high energy crisis, a looming food and water crisis, the threat of future global pandemics and of course climate change.
