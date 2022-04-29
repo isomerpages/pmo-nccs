@@ -12,7 +12,7 @@ Dean Marietta Baba,
 Distinguished members of the academic community,  
 <br>
 Ladies and Gentlemen,
-<br>
+<br><br>
 Good Morning.
 
 I am very pleased to join you at this two-day conference on the Economics and Policy of Water and the Environment jointly organised by the Nanyang Technological University and Michigan State University, ahead of the Singapore International Water Week next week.
