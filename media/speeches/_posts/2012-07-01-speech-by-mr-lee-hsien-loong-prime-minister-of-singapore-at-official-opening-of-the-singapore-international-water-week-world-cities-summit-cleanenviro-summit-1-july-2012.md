@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Speech by Mr Lee Hsien Loong, Prime Minister of Singapore, At Official Opening of The Singapore International Water Week/ World Cities Summit/ Cleanenviro Summit 1 July 2012
+title: Speech by Prime Minister of Singapore Lee Hsien Loong at the Official Opening of the Singapore International Water Week/ World Cities Summit/ Cleanenviro Summit 
 subtitle: 1 July 2012
 permalink: /media/speeches/speech-by-mr-lee-hsien-loong-prime-minister-of-singapore-at-official-opening-of-the-singapore-international-water-week-world-cities-summit-cleanenviro-summit-1-july-2012
 ---
-
-### SPEECH BY MR LEE HSIEN LOONG, PRIME MINISTER OF SINGAPORE, AT OFFICIAL OPENING OF THE SINGAPORE INTERNATIONAL WATER WEEK/ WORLD CITIES SUMMIT/ CLEANENVIRO SUMMIT, 1 JULY 2012
 
 "Liveable and Sustainable Cities,  
 Beautiful and Endearing Homes"
 
 Excellencies  
-Distinguished guests  
-Ladies and gentlemen
+<br>
+Distinguished Guests  
+<br>
+Ladies and Gentlemen
 
 I am very happy to join you this evening to open not just one event, but three events – Singapore International Water Week, World Cities Summit and CleanEnviro Summit. There is one common theme which links these three together – how to develop liveable and sustainable cities, and to build for ourselves beautiful and endearing homes, and enduring homes too. I think these are timely and appropriate themes for us to focus on.
 
