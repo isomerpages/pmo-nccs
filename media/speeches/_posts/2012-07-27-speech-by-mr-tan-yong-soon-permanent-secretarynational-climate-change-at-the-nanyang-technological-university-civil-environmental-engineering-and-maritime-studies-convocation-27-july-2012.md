@@ -6,11 +6,11 @@ permalink: /media/speeches/speech-by-mr-tan-yong-soon-permanent-secretarynationa
 ---
 
 Mr Pro-Chancellor,
-<br>
+<br><br>
 Graduates,
-<br>
+<br><br>
 Parents and Teachers of Graduates,
-<br>
+<br><br>
 Ladies and Gentlemen
 
 Congratulations to the class of 2012 on your graduation and thank you for inviting me to join you on this special day. I am truly honoured. Congratulations too to the parents and the teachers, whose support has made the graduates’ successful journey through the university possible.
