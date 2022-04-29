@@ -26,3 +26,4 @@ In end-December 2020, Singapore will submit our fourth Biennial Update Report (B
 
 <b>Urban Redevelopment Authority<b>
   
+  
