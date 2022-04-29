@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joint statement by the Founding Members of the Central Banks and Supervisors Network for Greening the Financial System
+title: Joint Statement by the Founding Members of the Central Banks and Supervisors Network for Greening the Financial System
 subtitle: 13 Dec 2017
 permalink: /media/press-release/joint-statement-by-the-founding-members-of-the-central-banks-and-supervisors-network-for-greening-the-financial-system
 ---
