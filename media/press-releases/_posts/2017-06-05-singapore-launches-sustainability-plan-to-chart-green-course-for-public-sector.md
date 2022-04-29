@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Singapore launches sustainability plan to chart green course for public sector
+title: Singapore Launches Sustainability Plan to Chart Green Course for Public Sector
 subtitle: 05 Jun 2017
 permalink: /media/press-release/singapore-launches-sustainability-plan-to-chart-green-course-for-public-sector
 ---
-### SINGAPORE LAUNCHES SUSTAINABILITY PLAN TO CHART GREEN COURSE FOR PUBLIC SECTOR
 
-**5 June 2017** -  The public sector has unveiled an action plan to conserve resources and embark on green initiatives, and hopes it will inspire all Singaporeans to work towards greater environmental sustainability. The inaugural Public Sector Sustainability Plan 2017-2020 (PSSP) was launched by Deputy Prime Minister and Minister in Charge of the Public Service, Teo Chee Hean, at the opening ceremony of the Singapore Sustainability Academy 1 on World Environment Day.
+The public sector has unveiled an action plan to conserve resources and embark on green initiatives, and hopes it will inspire all Singaporeans to work towards greater environmental sustainability. The inaugural Public Sector Sustainability Plan 2017-2020 (PSSP) was launched by Deputy Prime Minister and Minister in Charge of the Public Service, Teo Chee Hean, at the opening ceremony of the Singapore Sustainability Academy 1 on World Environment Day.
 
 The public sector is Singapore’s largest employer, comprising 16 ministries, 64 statutory boards and about 145,000 public officers. As a significant consumer of natural resources, the public sector is taking the lead to contribute to the nationwide Sustainable Singapore Movement, and the goals articulated in the Sustainable Singapore Blueprint.
 
