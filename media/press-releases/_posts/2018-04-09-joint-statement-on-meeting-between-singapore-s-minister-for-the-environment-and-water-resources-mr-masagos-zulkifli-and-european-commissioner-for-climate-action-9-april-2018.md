@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Joint statement on meeting between Masagos Zulkifli, Minister for the
-  Environment and Water Resources, and European Commissioner for Climate Action
-  and Energy Miguel Arias Cañete, Brussels, 9 April 2018
+title: Meeting between Minister for the Environment and Water Resources Masagos Zulkifli and European Commissioner for Climate Action and Energy Miguel Arias Cañete, Brussels
 subtitle: 09 Apr 2018
 permalink: /media/press-release/joint-statement-on-meeting-between-singapore-s-minister-for-the-environment-and-water-resources-mr-masagos-zulkifli-and-european-commissioner-for-climate-action-9-april-2018
 ---
+### JOINT PRESS RELEASE BY MEWR AND EUROPEAN COMMISSION FOR CLIMATE ACTION AND ENERGY
+
 Singapore’s Minister for the Environment and Water Resources Mr Masagos Zulkifli met European Commissioner for Climate Action and Energy Mr Miguel Arias Cañete at the European Commission in Brussels, Belgium on Mon, 9 April 2018.
 
 Relations between the European Union (EU) and Singapore are longstanding and warm. The EU-Singapore bilateral meeting served as an important opportunity for both parties to underscore their shared commitment to the full and effective implementation of the Paris Agreement. In view of Singapore’s current Chairmanship of the Association of Southeast Asian Nations (ASEAN) and role as incoming country coordinator for ASEAN-EU Dialogue Relations from August 2018, Mr Masagos and Mr Arias Cañete also discussed possible areas of collaboration between ASEAN and the EU on climate change issues, in support of the Paris Agreement.
