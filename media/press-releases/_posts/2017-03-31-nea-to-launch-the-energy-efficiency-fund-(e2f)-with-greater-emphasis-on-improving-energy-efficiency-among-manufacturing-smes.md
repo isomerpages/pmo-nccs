@@ -1,11 +1,9 @@
 ---
 layout: post
-title: NEA to launch the Energy Efficiency Fund (E2F) with greater emphasis on
-  improving Energy Efficiency among manufacturing SMEs
+title: NEA to Launch the Energy Efficiency Fund (E2F) with Greater Emphasis on Improving Energy Efficiency Among Manufacturing SMEs
 subtitle: 31 Mar 2017
 permalink: /media/press-release/nea-to-launch-the-energy-efficiency-fund-(e2f)-with-greater-emphasis-on-improving-energy-efficiency-among-manufacturing-smes
 ---
-### NEA TO LAUNCH THE ENERGY EFFICIENCY FUND (E2F) WITH GREATER EMPHASIS ON IMPROVING ENERGY EFFICIENCY AMONG MANUFACTURING SMES
 
 *SMEs can receive co-funding of up to 30 per cent of their investments in energy efficient technologies*
 
