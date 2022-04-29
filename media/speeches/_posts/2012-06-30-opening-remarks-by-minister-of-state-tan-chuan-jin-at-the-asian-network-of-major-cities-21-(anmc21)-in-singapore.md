@@ -5,8 +5,6 @@ subtitle: 30 Jun 2012
 permalink: /media/speeches/opening-remarks-by-minister-of-state-tan-chuan-jin-at-the-asian-network-of-major-cities-21-(anmc21)-in-singapore
 ---
 
-### OPENING REMARKS BY MINISTER OF STATE TAN CHUAN-JIN AT THE ASIAN NETWORK OF MAJOR CITIES 21 (ANMC21) IN SINGAPORE
-
 Good Morning. It is with great pleasure that I welcome you to the 11th Plenary Meeting of the ANMC21 in Singapore. We are honoured to be hosting the 11th edition of the Meeting this year. Before we commence with proceedings, please allow me to share my thoughts and set the context for our discussions later on.
 
 **Cities and Transnational Challenges**  
