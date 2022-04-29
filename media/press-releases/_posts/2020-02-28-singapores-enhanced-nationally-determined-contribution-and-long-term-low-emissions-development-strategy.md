@@ -5,9 +5,6 @@ date:   2020-02-28
 permalink: "/media/press-release/singapores-enhanced-nationally-determined-contribution-and-long-term-low-emissions-development-strategy"
 ---
 
-### SINGAPORE'S ENHANCED NATIONALLY DETERMINED CONTRIBUTION AND LONG-TERM LOW-EMISSIONS DEVELOPMENT STRATEGY
-
-
 
 Senior Minister and Coordinating Minister for National Security Teo Chee Hean, who is also the Chairman of the Inter-Ministerial Committee on Climate Change, said today that Singapore will submit its enhanced Nationally Determined Contribution (NDC) and its Long-Term Low-Emissions Development Strategy (LEDS) to the United Nations Framework Convention on Climate Change (UNFCCC) later this year. Mr Teo made the announcement during the Committee of Supply (COS) Debate 2020.
 
