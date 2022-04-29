@@ -1,16 +1,20 @@
 ---
 layout: post
-title: Opening Address by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs at the 6th Asia-Pacific Programme for Senior National Security Officers (APPSNO) on 9 April 2012
+title: Opening Address by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Teo Chee Hean at the 6th Asia-Pacific Programme for Senior National Security Officers (APPSNO)
 subtitle: 9 Apr 2012
 permalink: /media/speeches/opening-address-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs
 ---
 
-### OPENING ADDRESS BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER, COORDINATING MINISTER FOR NATIONAL SECURITY AND MINISTER FOR HOME AFFAIRS AT THE 6TH ASIA-PACIFIC PROGRAMME FOR SENIOR NATIONAL SECURITY OFFICERS (APPSNO) ON 9 APRIL 2012
-
-Mr Eddie Teo, Chairman, S. Rajaratnam School of International Studies Board of Governors  
-Ambassador Barry Desker, Dean, RSIS  
-Excellencies  
+Mr Eddie Teo, 
+<br>Chairman, S. Rajaratnam School of International Studies Board of Governors  
+<br>
+Ambassador Barry Desker,
+<br>Dean, RSIS  
+<br>
+Excellencies 
+<br>
 Distinguished Guests  
+<br>
 Ladies and Gentlemen
 
 **Introduction**  
