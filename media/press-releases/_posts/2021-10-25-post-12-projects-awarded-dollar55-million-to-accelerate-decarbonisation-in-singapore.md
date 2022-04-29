@@ -4,6 +4,9 @@ date: 2021-10-25
 permalink: /media/press-release/12Projects-Awarded-55-Million
 layout: post
 ---
+
+### JOINT PRESS RELEASE BY A*STAR, EDB, EMA, NCCS AND NRF
+
 Under the Low-Carbon Energy Research Funding Initiative (LCER FI), the Singapore Government has awarded $55 million to support 12 research, development and demonstration projects on low-carbon energy technology solutions. This significant investment in low-carbon energy solutions is part of the Singapore Energy Story[1], and will support our ambitions under the Long-Term Low-Emissions Development Strategy[2] and the Singapore Green Plan[3].
 
 On the importance of the LCER FI award, Minister for Trade and Industry Mr Gan Kim Yong said: “As an alternative energy-disadvantaged country, we have to invest early in low-carbon energy technologies such as hydrogen, and carbon capture, utilisation and storage (CCUS), so that we are able to meet emission targets in 2050 and beyond. They will complement decarbonisation efforts such as solar deployment and low-carbon electricity imports into Singapore, which can contribute to emission cuts in the nearer term. The first LCER FI grant call saw the submission of more than 50 strong research proposals across a wide range of emerging hydrogen and CCUS solutions.This is encouraging. It is a testament to Singapore’s research and development capabilities, which will play a key role in our collective efforts to build a more sustainable future.”
