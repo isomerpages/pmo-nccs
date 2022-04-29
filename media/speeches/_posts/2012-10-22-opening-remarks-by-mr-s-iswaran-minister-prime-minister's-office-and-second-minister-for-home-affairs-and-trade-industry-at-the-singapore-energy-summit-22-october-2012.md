@@ -5,8 +5,6 @@ subtitle: 22 Oct 2012
 permalink: /media/speeches/opening-remarks-by-mr-s-iswaran-minister-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-singapore-energy-summit-22-october-2012
 ---
 
-### OPENING REMARKS BY MINISTER, PRIME MINISTER'S OFFICE AND SECOND MINISTER FOR HOME AFFAIRS AND TRADE & INDUSTRY S ISWARAN AT THE SINGAPORE ENERGY SUMMIT, 22 OCTOBER 2012
-
 Distinguished Guests
 
 Ladies and Gentlemen
