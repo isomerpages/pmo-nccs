@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Joint Press Release by NCCS, MSE, and The European Commission - Singapore
-  and the EU reaffirm commitment to climate action
+title: Singapore and the EU Reaffirm Commitment to Climate Action
 subtitle: 08 July 2021
 permalink: /media/press-release/singapore-and-the-eu-reaffirm-commitment-to-climate-action
 ---
-### JOINT PRESS RELEASE BY NCCS, MSE, AND THE EUROPEAN COMMISSION: SINGAPORE AND THE EU REAFFIRM COMMITMENT TO CLIMATE ACTION
+### JOINT PRESS RELEASE BY NCCS, MSE, AND THE EUROPEAN COMMISSION
 
-8 July 2021
 
 Singapore and the European Union (EU) reaffirmed today their joint commitment, and strong partnership, in realising global climate action. Singapore’s Senior Minister and Coordinating Minister for National Security Teo Chee Hean (who is also the Chairman of the Inter-Ministerial Committee on Climate Change<sup>1</sup>), Minister for Foreign Affairs Dr Vivian Balakrishnan, and Minister for Sustainability and the Environment Grace Fu met European Commission Executive Vice-President (EVP) Frans Timmermans, who is visiting Singapore to discuss issues related to climate change and biodiversity in the run-up to the 26<sup>th</sup> United Nations Climate Change Conference of the Parties (COP26).
 
