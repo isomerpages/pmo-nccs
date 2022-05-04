@@ -1,14 +1,14 @@
 ---
-title: SM Speech Global Action for a More Sustainable World
+title: Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at the Ministerial Conference on “Sustaining Peace Amidst the Climate Crisis” organised by the German Federal Foreign Office and US State Department
 permalink: /media/speeches/Speech-by-Senior-Minister-and-Coordinating-Minister
-date: 2022-05-02
+date: 02 May 2022
 layout: post
 description: ""
 ---
 *Global Action for a More Sustainable World*
 
 Her Excellency Annalena Baerbock,
-Foreign Minister of Germany 
+<br>Foreign Minister of Germany 
 
 Fellow Panel Members
 
