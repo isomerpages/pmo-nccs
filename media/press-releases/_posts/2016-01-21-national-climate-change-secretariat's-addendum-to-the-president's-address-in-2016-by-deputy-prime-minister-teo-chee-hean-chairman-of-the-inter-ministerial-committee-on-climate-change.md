@@ -1,11 +1,10 @@
 ---
 layout: post
-title: National Climate Change Secretariat's addendum to the President's Address in 2016 by Deputy Prime Minister Teo Chee Hean, Chairman of the Inter-Ministerial Committee on Climate Change
+title: National Climate Change Secretariat's Addendum to the President's Address in 2016 by Deputy Prime Minister Teo Chee Hean, Chairman of the Inter-Ministerial Committee on Climate Change
 subtitle: 21 Jan 2016
 permalink: /media/press-release/national-climate-change-secretariat's-addendum-to-the-president's-address-in-2016-by-deputy-prime-minister-teo-chee-hean-chairman-of-the-inter-ministerial-committee-on-climate-change
 ---
 
-### NATIONAL CLIMATE CHANGE SECRETARIAT'S ADDENDUM TO THE PRESIDENT'S ADDRESS IN 2016 BY DEPUTY PRIME MINISTER TEO CHEE HEAN, CHAIRMAN OF THE INTER-MINISTERIAL COMMITTEE ON CLIMATE CHANGE
 
 **Overview**
 
