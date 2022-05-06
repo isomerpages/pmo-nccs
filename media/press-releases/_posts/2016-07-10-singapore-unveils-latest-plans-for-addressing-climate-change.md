@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Singapore unveils latest plans for addressing climate change
+title: Singapore Unveils Latest Plans for Addressing Climate Change
 subtitle: 10 Jul 2016
 permalink: /media/press-release/singapore-unveils-latest-plans-for-addressing-climate-change
 ---
 
-### SINGAPORE UNVEILS LATEST PLANS FOR ADDRESSING CLIMATE CHANGE
 
 President Tony Tan Keng Yam has announced the release of Singapore’s Climate Action Plan at the joint opening ceremony of the World Cities Summit, Singapore International Water Week and CleanEnviro Summit Singapore this evening.
 
-**Take Action Today: For A Carbon-efficient Singapore**
+**Take Action Today: For A Carbon-Efficient Singapore**
 
 The Climate Action Plan is explained in two documents. The first document entitled “Take Action Today: For A Carbon-efficient Singapore” spells out the key strategies that Singapore would be taking to reduce greenhouse gas emissions to fulfill the pledge it made in support of the Paris Agreement. Singapore has set a goal of reducing its greenhouse gas emissions intensity by 36 per cent compared to 2005 levels by 2030. Singapore is also working towards stabilising its emissions with the aim of peaking around 2030. These are ambitious targets, given Singapore’s limited options for renewable energy.
 
@@ -19,7 +18,7 @@ On industrial energy efficiency, a study commissioned by the National Climate Ch
 
 Besides improving energy efficiency, Singapore will also invest in cutting edge low carbon technologies and scale up low carbon solutions for deployment in Singapore. For instance, our national water agency PUB is testing new technologies, such as electrochemical desalting, with the aim of halving the energy used in the seawater desalination process. The National Environment Agency (NEA) is developing new Waste-to-Energy plants that optimise resource and energy recovery. The Building and Construction Authority (BCA), Energy Market Authority (EMA), Housing and Development Board (HDB), Economic Development Board (EDB), NEA and PUB have also developed various programmes to increase solar energy adoption in Singapore. Our plan is to raise the adoption of solar energy to 350 MWp by 2020, compared to 60 MWp today.
 
-**A Climate-resilient Singapore: For A Sustainable Future**
+**A Climate-Resilient Singapore: For A Sustainable Future**
 
 Singapore is a low-lying, densely populated tropical island state. We are vulnerable to the impacts of climate change such as sea-level rise, higher temperatures and more pronounced dry seasons, as well as more intense rainfall. Some of these may cause daily inconveniences, whilst others could be more severe. The second document entitled “A Climate-resilient Singapore: For A Sustainable Future” explains how Singapore may be affected by climate change and the Whole-of-Government strategy to prepare for them.
 
