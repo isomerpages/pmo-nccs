@@ -1,11 +1,10 @@
 ---
 layout: post
-title: PUB studies ways to better protect coastal reservoirs against future sea level rise
+title: PUB Studies Ways to Better Protect Coastal Reservoirs Against Future Sea Level Rise
 subtitle: 27 Jan 2016
 permalink: /media/press-release/pub-studies-ways-to-better-protect-coastal-reservoirs-against-future-sea-level-rise
 ---
 
-### PUB STUDIES WAYS TO BETTER PROTECT COASTAL RESERVOIRS AGAINST FUTURE SEA LEVEL RISE
 
 PUB, the national water agency, is calling a tender for an engineering study to identify possible measures to protect our coastal reservoir structures such as dams, tidal gates, dykes and spillways at 11 reservoirs against future sea level rise.
  
