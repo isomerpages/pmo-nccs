@@ -5,9 +5,7 @@ subtitle: 23 Feb 2015
 permalink: /media/press-release/revised-carbon-emissions-based-vehicle-scheme-(cevs)-from-1-july-2015
 ---
 
-### REVISED CARBON EMISSIONS-BASED VEHICLE SCHEME (CEVS) FROM 1 JULY 2015
-
-**Singapore, 23 February 2015** – As announced by Deputy Prime Minister and Minister for Finance Tharman Shanmugaratnam in the 2015 Budget Statement, the Carbon Emissions-Based Vehicle Scheme (CEVS) will be revised for all new cars, taxis and newly imported used cars registered with effect from 1 July 2015.
+As announced by Deputy Prime Minister and Minister for Finance Tharman Shanmugaratnam in the 2015 Budget Statement, the Carbon Emissions-Based Vehicle Scheme (CEVS) will be revised for all new cars, taxis and newly imported used cars registered with effect from 1 July 2015.
 
 The current scheme was introduced in January 2013 to encourage the purchase of low carbon emission vehicles, and is due to expire on 30 June 2015. To further encourage vehicle buyers to shift to low carbon emission models, rebates and surcharges will be increased for very low and high carbon emission vehicles respectively. Under the revised CEVS, all new cars and imported used cars registered from 1 July 2015 with low carbon emissions of less than or equal to 135g carbon emissions per kilometre (CO2/km[1]) will qualify for rebates of between $5,000 and $30,000[2], which will be offset against the vehicle’s Additional Registration Fee (ARF). Cars with high carbon emissions equal to or more than 186g CO2/km, will incur a registration surcharge of between $5,000 and $30,000.
 
