@@ -1,14 +1,11 @@
 ---
 layout: post
-title: A new standard template for financing energy efficiency retrofits for buildings
+title: A New Standard Template for Financing Energy Efficiency Retrofits for Buildings
 subtitle: 9 Dec 2015
 permalink: /media/press-release/a-new-standard-template-for-financing-energy-efficiency-retrofits-for-buildings
 ---
 
-### A NEW STANDARD TEMPLATE FOR FINANCING ENERGY EFFICIENCY RETROFITS FOR BUILDINGS
-
-
-**Singapore, 9 December 2015** - An energy performance contract (EPC) can guarantee energy savings for an existing building without an initial financial outlay.
+An energy performance contract (EPC) can guarantee energy savings for an existing building without an initial financial outlay.
 
 To help building owners overcome the initial financial barrier to retrofit their buildings, the Singapore Green Building Council (SGBC) has collaborated with the Building and Construction Authority (BCA) to develop a standard EPC template for building owners and EPC firms to use. The EPC template was developed in consultation with several established EPC firms and building owners. The standard template assists in accelerating the retrofitting process by clearly spelling out the key conditions of contract for both the building owner and the EPC firm so that building owners can better focus on the critical component in any EPC: the amount of energy savings guaranteed.
 
