@@ -1,13 +1,11 @@
 ---
 layout: post
-title: NTU and Dyesol to advance low-cost solar cell technologies
+title: NTU and Dyesol to Advance Low-Cost Solar Cell Technologies
 subtitle: 26 Apr 2012
 permalink: /media/press-release/ntu-and-dyesol-to-advance-low-cost-solar-cell-technologies
 ---
 
-### NTU AND DYESOL TO ADVANCE LOW-COST SOLAR CELL TECHNOLOGIES
-
-**Singapore, 26 April 2012** - Singapore’s Nanyang Technological University (NTU) will partner with Australian renewable energy firm, Dyesol Limited, to research and develop low-cost Dye Solar Cell (DSC) technology.
+Singapore’s Nanyang Technological University (NTU) will partner with Australian renewable energy firm, Dyesol Limited, to research and develop low-cost Dye Solar Cell (DSC) technology.
 
 Dye Solar Cell (DSC), a nanotechnology that mimics photosynthesis to turn light into electricity under real world solar conditions, was invented by renowned photo-chemist Professor Michael Grätzel, chairman of both the Energy Research Institute at NTU’s (ERI@N) International Advisory Board and Dyesol’s Technical Advisory Board.
 
