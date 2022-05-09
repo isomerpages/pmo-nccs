@@ -1,21 +1,19 @@
 ---
 layout: post
-title: App Solutions For The Environment
+title: App Solutions for the Environment
 subtitle: 20 Apr 2012
 permalink: /media/press-release/app-solutions-for-the-environment
 ---
 
-### APP SOLUTIONS FOR THE ENVIRONMENT
-
 *NEA launches new mobile apps and encourages co-creation of environmental solutions*
 
-**Singapore, 20 April 2012** – Members of the public will now be able to better monitor their energy consumption and adjust their usage to save energy and money. The National Environment Agency (NEA) has developed two new mobile applications (apps) – “NEA Energy Audit” and “Life Cycle Cost Calculator” – to help the public track energy consumption and calculate the overall energy costs over an appliance’s lifespan. In addition, an Android version of NEA’s popular “myENV” has also been released.
+Members of the public will now be able to better monitor their energy consumption and adjust their usage to save energy and money. The National Environment Agency (NEA) has developed two new mobile applications (apps) – “NEA Energy Audit” and “Life Cycle Cost Calculator” – to help the public track energy consumption and calculate the overall energy costs over an appliance’s lifespan. In addition, an Android version of NEA’s popular “myENV” has also been released.
 
 These new apps were launched at today’s Youth for the Environment Day at Dunman High School, graced by Guest of Honour – Dr Vivian Balakrishnan, Minister for the Environment and Water Resources.
 
 These efforts aim to use technology to enhance NEA’s public outreach by sharing environmental information on mobile and social media platforms. By leveraging technology to keep the public informed, they can be empowered to practise good environmental habits. For instance, the new energy efficiency apps will help people save on energy consumption and money. Members of the public can also contribute positively to the environment by reducing energy usage, thereby helping to mitigate climate change.
 
-**App Solutions To Save Energy**
+**App Solutions to Save Energy**
 
 Households can play their part to reduce greenhouse gases and fight climate change when they conserve energy. The “NEA Energy Audit” mobile app allows households to find out which appliances are the top energy users at home and estimate the monthly energy costs incurred by each appliance. Households buying new energy-intensive appliances such as air-conditioners, refrigerators and clothes dryers can also use the “Life Cycle Cost Calculator” app, also developed by NEA, to estimate the overall costs that different models are likely to incur over the appliance lifespan. Tracking such overall costs is important as the energy costs incurred can be many times of its purchase price (See Annexes A & B for details and screenshots).
 
