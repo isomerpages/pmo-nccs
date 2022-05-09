@@ -1,31 +1,29 @@
 ---
 layout: post
-title: Creating a Future-Ready Singapore that is liveable, sustainable and resource-resilient
+title: Creating a Future-Ready Singapore That is Liveable, Sustainable and Resource-Resilient
 subtitle: 27 Jun 2013
 permalink: /media/press-release/creating-a-future-ready-singapore-that-is-liveable-sustainable-and-resource-resilient
 ---
 
-### CREATING A FUTURE-READY SINGAPORE THAT IS LIVEABLE, SUSTAINABLE AND RESOURCE-RESILIENT
+Senior Minister of State for National Development and Trade and Industry Lee Yi-Shyan announced various urban sustainability-related R&D efforts at the 2013 Urban Sustainability Research and Development (R&D) Congress today:
 
-**Singapore, 27 June 2013** – Senior Minister of State for National Development and Trade and Industry Mr Lee Yi-Shyan announced various urban sustainability-related R&D efforts at the 2013 Urban Sustainability Research and Development (R&D) Congress today:
-
-**a) A Roadmap to guide R&D efforts under the $135 million Land and Liveability National Innovation Challenge (L2 NIC).**
+**a) A Roadmap to Guide R&D Efforts Under the $135 Million Land and Liveability National Innovation Challenge (L2 NIC).**
 
 The Ministry of National Development (MND) and the National Research Foundation (NRF), together with its partner agencies such as A*STAR, HDB, IDA, JTC, and URA, have carried out extensive consultations in coming up with the Roadmap, which will be discussed further at the Congress. This will eventually lead to the inaugural competitive call for R&D proposals by the end of the year, which will begin to tap on the $135 million L2 NIC funds
 
-**b) $8 million in research grants for four R&D projects under MND’s Sustainable Urban Living (SUL) programme.**
+**b) $8 Million in Research Grants for Four R&D Projects Under MND’s Sustainable Urban Living (SUL) Programme.**
 
 Four projects are the first to be selected for offer since the inaugural SUL grant call was launched in August 2012. These projects encompass the areas of Underground Construction Technology, Land Reclamation Technology and Space Optimisation
 
-**c) $4 million in research grants for four R&D projects under A*STAR-MND’s Green Buildings (GB) programme.**
+**c) $4 Million in Research Grants for Four R&D Projects Under A*STAR-MND’s Green Buildings (GB) Programme.**
 
 Another four projects have been selected for offer, and their R&D areas encompass improved building façade materials, such as heat/glare reducing “cool” paint and “smart windows”
 
-**d) $5 million for the Building and Construction Authority’s (BCA’s) new Innovation Grant.**
+**d) $5 Million for the Building and Construction Authority’s (BCA’s) New Innovation Grant.**
 
 The new Innovation Grant provides funding support for small-scale, ad-hoc R&D projects for faster deployment by the industry; and
 
-**e) Up to $20 million to develop energy efficient and cost-effective solutions for buildings in the tropics.**
+**e) Up to $20 Million to Develop Energy Efficient and Cost-Effective Solutions for Buildings in the Tropics.**
 
 Co-led by the Economic Development Board (EDB) and Energy Market Authority (EMA) under the Energy Innovation Programme Office (EIPO), the grant calls will look into lowering the energy usage of new and old buildings. This will help Singapore achieve our carbon emission reduction targets of up to 16 per cent business-as-usual level for the building sector by 2020
 
@@ -35,7 +33,7 @@ More than six hundred participants from government agencies, research institutes
 
 To ensure that the research will have strong implementation potential in Singapore, MND, NRF and their partner agencies held extensive R&D road-mapping consultation with stakeholders from the research community and industry. Through this process, the following were identified as some potential R&D focus areas for the L2 NIC:
 
-**a. Thrust 1 - Creating New Space Cost-effectively:**
+**a. Thrust 1 - Creating New Space Cost-Effectively:**
 
 To create cost-effective and useable underground spaces for an expanded range of uses, thus freeing up surface land for more optimal uses. For example, by developing an underground goods mover system to serve industries. This could reduce traffic congestion, especially from heavy vehicles, and free up surface spaces for other uses, e.g. for industrial parks and amenities etc.
 
