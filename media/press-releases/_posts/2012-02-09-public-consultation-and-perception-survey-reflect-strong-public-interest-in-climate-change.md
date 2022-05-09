@@ -15,7 +15,7 @@ The range of feedback received in the public consultation exercise reflected wid
 
 Mr Teo Chee Hean, Deputy Prime Minister, Co-ordinating Minister for National Security, Minister for Home Affairs and Chairman of the Inter-Ministerial Committee on Climate Change (IMCCC) said, “Climate change is an important global issue that will have an impact on all of us. I am heartened to see the strong support for climate change action among Singaporeans. In particular, 86 per cent of respondents felt that they play a part in taking action on climate change. More than half of the respondents recognised that their individual actions will make a difference, and many are contributing in various ways. If we do our part, we can help protect the environment for future generations and ensure that Singapore is well prepared for climate change, and remains economically competitive and vibrant even as we seek to mitigate the effects of climate change.”
 
-**Collective Effort and Shared Ownership by the People, Private and Public sectors**
+**Collective Effort and Shared Ownership by the People, Private and Public Sectors**
 
 Mr Yuen Sai Kuan, Director, 3P Network Division, NCCS, said, “The collective efforts of the People, Private and Public (3P) sectors are important in building a sense of shared ownership in addressing climate change. The public consultation and perception survey are important ways for us to reach out to the public to understand their views and how we can work together to tackle climate change.”
 
