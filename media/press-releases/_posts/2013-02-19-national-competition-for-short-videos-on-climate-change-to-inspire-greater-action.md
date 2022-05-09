@@ -1,13 +1,11 @@
 ---
 layout: post
-title: National competition for short videos on climate change to inspire greater action
+title: National Competition for Short Videos on Climate Change to Inspire Greater Action
 subtitle: 19 Feb 2013
 permalink: /media/press-release/national-competition-for-short-videos-on-climate-change-to-inspire-greater-action
 ---
 
-### NATIONAL COMPETITION FOR SHORT VIDEOS ON CLIMATE CHANGE TO INSPIRE GREATER ACTION
-
-**Singapore, 19 February 2013** - The National Climate Change Secretariat (NCCS) launched the National Climate Change Competition (NCCC) 2013 to invite students to submit short videos to inspire Singaporeans to take action to address climate change. At the launch event, Mr Niam Chiang Meng, Permanent Secretary (National Climate Change), also presented prizes to the winning teams of the NCCC 2012 Technology Project Challenge.
+The National Climate Change Secretariat (NCCS) launched the National Climate Change Competition (NCCC) 2013 to invite students to submit short videos to inspire Singaporeans to take action to address climate change. At the launch event, Mr Niam Chiang Meng, Permanent Secretary (National Climate Change), also presented prizes to the winning teams of the NCCC 2012 Technology Project Challenge.
 
 **National Climate Change Competition (NCCC) 2013**
 
