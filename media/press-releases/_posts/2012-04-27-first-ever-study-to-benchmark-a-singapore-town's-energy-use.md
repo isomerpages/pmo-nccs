@@ -1,23 +1,21 @@
 ---
 layout: post
-title: First-ever study to benchmark a Singapore town's energy use
+title: First-Ever Study to Benchmark a Singapore Town's Energy Use
 subtitle: 27 Apr 2012
 permalink: /media/press-release/first-ever-study-to-benchmark-a-singapore-town's-energy-use
 ---
 
-### FIRST-EVER STUDY TO BENCHMARK A SINGAPORE TOWN'S ENERGY USE
-
-**Singapore, 27 April 2012** – The Energy Efficiency Programme Office (E2PO) and Siemens Pte Ltd will be undertaking a first-of-its-kind study in Singapore that will offer useful insights into the energy use patterns across different sectors such as the residential, commercial, transport and info-communication sectors within a town, using Tampines as a representative town. This is part of E2PO’s initiative to promote emerging energy efficient technologies and innovation as well as the adoption of energy efficiency in Singapore.
+The Energy Efficiency Programme Office (E2PO) and Siemens Pte Ltd will be undertaking a first-of-its-kind study in Singapore that will offer useful insights into the energy use patterns across different sectors such as the residential, commercial, transport and info-communication sectors within a town, using Tampines as a representative town. This is part of E2PO’s initiative to promote emerging energy efficient technologies and innovation as well as the adoption of energy efficiency in Singapore.
 
 This study will look into the energy use of a densely-populated, compact town in Singapore and assess the technical feasibility, cost-effectiveness and commercial viability of different technologies for energy reduction in Singapore. A key objective of the study is to propose systems-wide solutions that go beyond energy-efficiency measures that operate only at the individual equipment level. This can be done through better systems integration across the residential, buildings, transport and info-communication sectors.
 
 The study, which will take about a year to complete, is important as cities already house more than half the world’s population and consume more than half the energy produced in the world. Cities such as London and Munich have also conducted similar studies.
 
-**Commitment to resource efficiency**
+**Commitment to Resource Efficiency**
 
 Singapore stood out in the 2011 Asian Green City Index study for its environmental targets and its efficient approach to achieving them. In the Singapore Sustainable Blueprint , Singapore has committed to reducing our energy intensity by 35 per cent, by 2030. To meet our energy efficiency target, the E2PO agencies have been introducing a series of energy efficiency programmes and efforts. For example, the Energy Efficiency National Partnership programme was introduced in April 2010. It seeks to support industrial efforts in energy efficiency through workshops and conferences and the provision of energy efficiency-related incentives, recognition and resources, such as energy efficiency benchmarking studies for industry.
 
-**Leveraging technology to enhance energy efficiency**
+**Leveraging Technology to Enhance Energy Efficiency**
 
 This study with Siemens will help Singapore meet the energy efficiency target by giving a better assessment of the energy reduction potential of towns and trials on a wider scale in the long run. Technologies identified in this project will be assessed by the E2PO agencies for future trials and wider deployment in Singapore.
 
