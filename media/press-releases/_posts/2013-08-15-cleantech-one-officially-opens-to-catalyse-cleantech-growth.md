@@ -5,9 +5,7 @@ subtitle: 15 Aug 2013
 permalink: /media/press-release/cleantech-one-officially-opens-to-catalyse-cleantech-growth
 ---
 
-### CLEANTECH ONE OFFICIALLY OPENS TO CATALYSE CLEANTECH GROWTH
-
-**Singapore, 15 August 2013** - JTC Corporation's (JTC) CleanTech One, the first development at CleanTech Park, was officially opened by Minister for Trade & Industry Mr Lim Hng Kiang this morning.
+JTC Corporation's (JTC) CleanTech One, the first development at CleanTech Park, was officially opened by Minister for Trade & Industry Mr Lim Hng Kiang this morning.
 
 The Green Mark Platinum 6-storey, 37,500-sqm CleanTech One provides specialized business park, laboratory and office space for key local and international cleantech-related organizations to form a vibrant cleantech ecosystem in CleanTech Park. The Park is located next to the Nanyang Technological University (NTU), which is set to promote the cross-fertilisation of knowledge and ideas between academia and industry.
 
