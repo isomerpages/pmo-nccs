@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Singapore to showcase achievements in balancing development with
-  environmental sustainability at Expo 2012 Yeosu Korea
+title: Singapore to Showcase Achievements in Balancing Development with Environmental Sustainability at Expo 2012, Yeosu, Korea
 subtitle: 17 Jan 2012
 permalink: /media/press-release/singapore-to-showcase-achievements-in-balancing-development-with-environmental-sustainability-at-expo-2012-yeosu-korea
 ---
-**Singapore, 17 January 2012** - Singapore will showcase its achievements in balancing rapid urban development with environmental sustainability at the International Exposition Yeosu Korea 2012 (Expo 2012 Yeosu Korea), to be held from 12 May to 12 August 2012 in Yeosu, Republic of Korea. This exposition is expected to attract up to 8 million domestic and international visitors. (Further background on Expo 2012 Yeosu Korea is at Annex A.)
+Singapore will showcase its achievements in balancing rapid urban development with environmental sustainability at the International Exposition Yeosu Korea 2012 (Expo 2012 Yeosu Korea), to be held from 12 May to 12 August 2012 in Yeosu, Republic of Korea. This exposition is expected to attract up to 8 million domestic and international visitors. (Further background on Expo 2012 Yeosu Korea is at Annex A.)
 
 The 712 square-metre Singapore Pavilion will be housed within the International Pavilion, together with exhibitions from more than 100 other countries. With the theme of "Paradox-ity: City of Contrasts (奇趣狮城，巧妙对比)", the Singapore Pavilion aims to convey how Singapore balances growth and development with environmental sustainability through four main content segments: waste management, nature conservation, urban planning and water management.
 
