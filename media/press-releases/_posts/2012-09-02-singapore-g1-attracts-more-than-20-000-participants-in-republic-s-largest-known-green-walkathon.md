@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Singapore G1 attracts more than 20,000 participants in republic’s largest known green walkathon
+title: Singapore G1 Attracts More Than 20,000 Participants in Republic’s Largest Known Green Walkathon
 subtitle: 2 Sep 2012
 permalink: /media/press-release/singapore-g1-attracts-more-than-20-000-participants-in-republic-s-largest-known-green-walkathon
 ---
 
-### SINGAPORE G1 ATTRACTS MORE THAN 20,000 PARTICIPANTS IN REPUBLIC’S LARGEST KNOWN GREEN WALKATHON
 
 *DPM Teo Chee Hean launches “Our Green Home” nationwide roving climate change exhibition*
 
-**Singapore, 2 September 2012** – Singapore’s largest environmentally-sustainable lifestyle event, Singapore G1 2012, attracted more than 20,000 people to the Marina Barrage today, making it Singapore’s biggest ever walk-for-green event known to date with its record participation numbers.
+Singapore’s largest environmentally-sustainable lifestyle event, Singapore G1 2012, attracted more than 20,000 people to the Marina Barrage today, making it Singapore’s biggest ever walk-for-green event known to date with its record participation numbers.
 
 Organised by the Singapore Environment Council (SEC), the Singapore G1 2012 was officiated by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs and Chairman of the Inter-Ministerial Committee on Climate Change (IMCCC). At the event, DPM Teo also launched the climate change exhibition, “Our Green Home”, organised by the National Climate Change Secretariat (NCCS).The event brought together partners from People, Public and Private (3P) sectors.
 
