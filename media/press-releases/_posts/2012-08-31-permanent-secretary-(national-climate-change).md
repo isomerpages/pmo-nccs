@@ -5,9 +5,7 @@ subtitle: 31 Aug 2012
 permalink: /media/press-release/permanent-secretary-(national-climate-change)
 ---
 
-### PERMANENT SECRETARY (NATIONAL CLIMATE CHANGE)
-
-**Singapore, 31 August 2012** - Mr Tan Yong Soon, 57, Permanent Secretary (National Climate Change), Prime Minister’s Office, will retire from the Administrative Service on 1 October 2012 after 35 years of service in the public sector.
+Mr Tan Yong Soon, 57, Permanent Secretary (National Climate Change), Prime Minister’s Office, will retire from the Administrative Service on 1 October 2012 after 35 years of service in the public sector.
 
 Mr Niam Chiang Meng, Permanent Secretary (National Population and Talent Division), Prime Minister’s Office will be appointed Permanent Secretary (National Climate Change) with effect from the same date. This will be concurrent with his NPTD appointment.
 
