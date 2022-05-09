@@ -1,11 +1,10 @@
 ---
 layout: post
-title: New climate exhibition to promote knowledge and action on climate issues
+title: New Climate Exhibition to Promote Knowledge and Action on Climate Issues
 subtitle: 14 Nov 2014
 permalink: /media/press-release/new-climate-exhibition-to-promote-knowledge-and-action-on-climate-issues
 ---
 
-### NEW CLIMATE EXHIBITION TO PROMOTE KNOWLEDGE AND ACTION ON CLIMATE ISSUES
 
 *Interactive exhibits at SCS will show the science and effects of climate change and how we can do our part*
 
