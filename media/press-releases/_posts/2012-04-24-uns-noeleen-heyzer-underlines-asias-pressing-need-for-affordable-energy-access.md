@@ -1,13 +1,11 @@
 ---
 layout: post
-title: UN's Noeleen Heyzer underlines Asia's pressing need for affordable energy access
+title: UN Under-Secretary-General Dr Noeleen Heyzer Underlines Asia's Pressing Need for Affordable Energy Access
 subtitle: 24 Apr 2012
 permalink: /media/press-release/uns-noeleen-heyzer-underlines-asias-pressing-need-for-affordable-energy-access
 ---
 
-### UN'S NOELEEN HEYZER UNDERLINES ASIA'S PRESSING NEED FOR AFFORDABLE ENERGY ACCESS
-
-**Singapore, 24 April 2012** - With the third Earth Summit, or "Rio+20", less than two months away, Dr Heyzer drove home the point about the need to break the vicious cycle of energy poverty to ensure universal energy access for all. This was shared at this morning's Distinguished Speaker Programme (DSP). 
+With the third Earth Summit, or "Rio+20", less than two months away, Dr Heyzer drove home the point about the need to break the vicious cycle of energy poverty to ensure universal energy access for all. This was shared at this morning's Distinguished Speaker Programme (DSP). 
 
 Her lecture, entitled "Rio+20: Implications for Energy Access and Sustainable Development in Asia", focused on Asia, which, despite rapid economic growth, remains the region with the largest number of people without access to modern energy. 
 
