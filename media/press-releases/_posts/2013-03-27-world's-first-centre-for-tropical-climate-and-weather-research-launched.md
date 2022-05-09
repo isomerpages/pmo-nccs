@@ -1,15 +1,13 @@
 ---
 layout: post
-title: World's first centre for tropical climate and weather research launched
-subtitle: 27 Mar 2013
+title: World's First Centre for Tropical Climate and Weather Research Launched
+subtitle: 26 Mar 2013
 permalink: /media/press-release/worlds-first-centre-for-tropical-climate-and-weather-research-launched
 ---
 
-### WORLD'S FIRST CENTRE FOR TROPICAL CLIMATE AND WEATHER RESEARCH LAUNCHED
-
 *Centre for Climate Research Singapore to leverage high resolution computer models to simulate weather and climate over Singapore and wider Southeast Asia region*
 
-**Singapore, 26 March 2013** - – The Centre for Climate Research Singapore (CCRS), which is the first research centre in the world dedicated to tropical climate and weather of Singapore and the wider Southeast Asia region, was officially opened today by Minister for the Environment and Water Resources, Dr Vivian Balakrishnan, as Singapore celebrates World Meteorological Day 2013.
+The Centre for Climate Research Singapore (CCRS), which is the first research centre in the world dedicated to tropical climate and weather of Singapore and the wider Southeast Asia region, was officially opened today by Minister for the Environment and Water Resources, Dr Vivian Balakrishnan, as Singapore celebrates World Meteorological Day 2013.
 
 The Centre, which was established under the Meteorological Service Singapore (MSS), aims to advance scientific understanding and prediction of the weather and climate of Singapore. It is the first in the world to use high resolution computer models to simulate weather and climate over Singapore and the wider Southeast Asia region.
 
