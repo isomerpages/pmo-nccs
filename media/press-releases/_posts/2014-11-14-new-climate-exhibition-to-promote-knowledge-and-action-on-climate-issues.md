@@ -32,6 +32,6 @@ The complete list of winners and information on the competition can be found in 
 
 To widen the reach of the videos, NCCS will adapt the winning entries from this year's competition for screening in local cinemas. The adapted videos will also be featured in the exhibition.
 
-**Public engagement on climate change**
+**Public Engagement on Climate Change**
 
 At the award ceremony, DPM Teo announced NCCS' plans to engage key stakeholders and members of the public in early 2015 to solicit feedback on existing and possible measures by Singapore to reduce its carbon emissions, and promote green growth. This is part of Singapore's preparations for a new international agreement to reduce carbon emissions beyond 2020. NCCS will release more details of the public engagement plans in the next few months.
