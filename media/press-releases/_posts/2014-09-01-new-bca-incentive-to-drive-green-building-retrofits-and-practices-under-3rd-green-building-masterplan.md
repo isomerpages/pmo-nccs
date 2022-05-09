@@ -17,7 +17,7 @@ The Building and Construction Authority (BCA) today unveiled its [<a href="/file
 
 Over the past nine years, BCA has steadily introduced a comprehensive suite of policy levers and initiatives to promote building energy efficiency and encourage the adoption of green building practices. Through the efforts of its first two Green Building Masterplans, BCA has successfully grown the number of green buildings in Singapore from just 17 in 2005 to more than 2,100 today. This is the equivalent of about 62 million square metres or more than 25 percent of Singapore's total gross floor area (GFA).
 
-**The 3rd Green Masterplan: Towards More Occupant-Centric Engagement**
+**The 3<sup>rd</sup> Green Masterplan: Towards More Occupant-Centric Engagement**
 
 Under the first two Green Building Masterplans, initiatives such as the Green Mark scheme and legislation for minimum environmental sustainability standards for buildings were largely focused on the hardware of the built environment. However, besides improving the energy efficiency of buildings, it is important to address how building occupants carry out their daily activities and operations within the buildings' premises as well.
 
@@ -57,6 +57,6 @@ Building on the 2012 landmark legislation requiring existing buildings to submit
 
 The report provides key findings and statistics for building owners to benchmark their building performance with the aim to spur them into improving their own building performance if it is worse off than the average of other similar building types. It includes a list of the top 10 performers of each building category that have shown outstanding results. The results in the report were drawn from data gathered from the mandatory submission of energy consumption for commercial buildings (offices, hotels, retail and mixed developments) implemented in 2013. Notably, the report showed that tenant and occupant activities within a building take up as much as 50 percent of the total electricity consumption of the buildings.
 
-"As the population in Singapore increases, more focused policies and measures are needed to foster greater awareness amongst tenants and occupants. By proactively changing their energy consumption behaviour and practices, tenants and occupants can be part of the solution rather than the problem. Through the initiatives launched today under the 3rd Green Building Masterplan we hope that more owners of existing buildings and tenants will recognise the important role they play in helping to shape a more sustainable and future-ready built environment for Singapore," said Dr Keung.
+"As the population in Singapore increases, more focused policies and measures are needed to foster greater awareness amongst tenants and occupants. By proactively changing their energy consumption behaviour and practices, tenants and occupants can be part of the solution rather than the problem. Through the initiatives launched today under the 3<sup>rd</sup> Green Building Masterplan we hope that more owners of existing buildings and tenants will recognise the important role they play in helping to shape a more sustainable and future-ready built environment for Singapore," said Dr Keung.
 
 
