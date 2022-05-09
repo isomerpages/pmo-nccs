@@ -1,13 +1,11 @@
 ---
 layout: post
-title: National Climate Change Competition 2012 presents opportunities for students to address climate change through technological innovations and individual actions
+title: National Climate Change Competition 2012 Presents Opportunities for Students to Address Climate Change Through Technological Innovations and Individual Actions
 subtitle: 19 Mar 2012
 permalink: /media/press-release/national-climate-change-competition-2012-presents-opportunities-for-students-to-address-climate-change-through-technological-innovations-and-individual-actions
 ---
 
-### NATIONAL CLIMATE CHANGE COMPETITION 2012 PRESENTS OPPORTUNITIES FOR STUDENTS TO ADDRESS CLIMATE CHANGE THROUGH TECHNOLOGICAL INNOVATIONS AND INDIVIDUAL ACTIONS
-
-**Singapore, 19 March 2012** - The National Climate Change Secretariat (NCCS) launched the National Climate Change Competition (NCCC) 2012 today for students in schools and tertiary institutions. The theme of the competition is “Singapore: A Climate Change Resilient City”. The competition, which aims to raise awareness on climate change among the youth, comprises a Short Film Challenge and a Technology Project Challenge. The competition is supported by the Ministry of Education (MOE), the Building and Construction Authority (BCA), the National Environment Agency (NEA), the National Research Foundation (NRF), and the National Youth Achievement Award Council (NYAA).
+The National Climate Change Secretariat (NCCS) launched the National Climate Change Competition (NCCC) 2012 today for students in schools and tertiary institutions. The theme of the competition is “Singapore: A Climate Change Resilient City”. The competition, which aims to raise awareness on climate change among the youth, comprises a Short Film Challenge and a Technology Project Challenge. The competition is supported by the Ministry of Education (MOE), the Building and Construction Authority (BCA), the National Environment Agency (NEA), the National Research Foundation (NRF), and the National Youth Achievement Award Council (NYAA).
 
 As a small and low-lying island, Singapore is vulnerable to the effects of climate change. Everyone has a stake in addressing climate change as we will be affected directly or indirectly by its impact. The NCCC 2012 invites students to address the issue through technological innovations and individual actions. It also reinforces the message that positive steps can be taken to slow down the pace of climate change if everyone works together on the issue. The competition encourages students to apply what they understand of climate change and its impacts, and propose ways to reduce carbon emissions either through the use of technology, or individual actions.
 
