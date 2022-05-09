@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visit of Todd Stern, U.S Special Envoy for Climate Change
+title: Visit of US Special Envoy for Climate Change Todd Stern
 subtitle: 25 Oct 2012
 permalink: /media/press-release/visit-of-todd-stern-us-special-envoy-for-climate-change-25-october-2012
 ---
