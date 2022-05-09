@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Singapore to participate in the C40 Cities Climate Leadership Group as Observer City
+title: Singapore to Participate in the C40 Cities Climate Leadership Group as Observer City
 subtitle: 23 Mar 2012
 permalink: /media/press-release/singapore-to-participate-in-the-c40-cities-climate-leadership-group-as-observer-city
 ---
 
-### SINGAPORE TO PARTICIPATE IN THE C40 CITIES CLIMATE LEADERSHIP GROUP AS OBSERVER CITY
-
-**Singapore, 23 March 2012** - Singapore has signed a Memorandum of Understanding (MOU) with the C401 Cities Climate Leadership Group (C40)<sup>1</sup> to participate in the C40 as an observer city.
+Singapore has signed a Memorandum of Understanding (MOU) with the C401 Cities Climate Leadership Group (C40)<sup>1</sup> to participate in the C40 as an observer city.
 
 The C40 is a network of cities committed to implementing meaningful and sustainable climate-related actions locally that will address climate change globally. 58 cities are part of the C40 which include Berlin, Hong Kong, Jakarta, Johannesburg, Los Angeles, London, New York, Sao Paulo, Seoul and Tokyo. C40 collaborates on climate change-related initiatives with organisations such as the World Bank, OECD and the Clinton Climate Initiative.
 
