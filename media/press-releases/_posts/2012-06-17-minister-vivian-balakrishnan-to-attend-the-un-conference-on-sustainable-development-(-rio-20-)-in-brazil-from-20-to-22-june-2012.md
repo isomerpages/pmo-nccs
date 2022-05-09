@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Minister Vivian Balakrishnan to attend the UN Conference on Sustainable
-  Development ("Rio+20") in Brazil, from 20 to 22 June 2012
+title: Minister for the Environment and Water Resources Dr Vivian Balakrishnan to Attend the UN Conference on Sustainable Development ("Rio+20") in Brazil, From 20 to 22 June 2012
 subtitle: 17 Jun 2012
 permalink: /media/press-release/minister-vivian-balakrishnan-to-attend-the-un-conference-on-sustainable-development-(-rio-20-)-in-brazil-from-20-to-22-june-2012
 ---
-### MINISTER VIVIAN BALAKRISHNAN TO ATTEND THE UN CONFERENCE ON SUSTAINABLE DEVELOPMENT ("RIO+20") IN BRAZIL, FROM 20 TO 22 JUNE 2012
-
-**Singapore, 17 June 2012** - Minister for the Environment and Water Resources, Dr Vivian Balakrishnan, will be attending the United Nations Conference on Sustainable Development (UNCSD) in Rio de Janeiro, Brazil, from 20 to 22 June 2012. 
+Minister for the Environment and Water Resources Dr Vivian Balakrishnan will be attending the United Nations Conference on Sustainable Development (UNCSD) in Rio de Janeiro, Brazil, from 20 to 22 June 2012. 
 
 The UNCSD, or “Rio+20” as it is commonly known, aims to produce global political consensus for sustainable development in order to address poverty reduction, social equity and environmental protection in the face of rapidly emerging environmental and economic challenges.
 
