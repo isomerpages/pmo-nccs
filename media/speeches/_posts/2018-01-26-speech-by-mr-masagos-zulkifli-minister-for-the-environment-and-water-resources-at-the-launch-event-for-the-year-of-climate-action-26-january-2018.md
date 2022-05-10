@@ -76,4 +76,4 @@ Likewise, our efforts can multiply like the grains on the chessboard if all of u
 
 I thank CDL for co-organising this event with my Ministry, and for graciously hosting us at this beautiful Singapore Sustainability Academy. I also thank all of you for attending this morning’s event and supporting our Year of Climate Action.
 
-*Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180126002.pdf)*
+*Source: Ministry of the Environment and Water Resources*
