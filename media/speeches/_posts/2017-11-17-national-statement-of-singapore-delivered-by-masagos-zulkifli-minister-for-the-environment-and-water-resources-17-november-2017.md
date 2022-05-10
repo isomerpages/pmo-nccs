@@ -1,10 +1,11 @@
 ---
 layout: post
-title: National Statement of Singapore Delivered by Minister for the Environment and Water Resources Masagos Zulkifli at the UNFCCC COP-23/ CMP-13/ CMA1.2 High Level Meetings
+title: National Statement of Singapore Delivered by Minister for the Environment
+  and Water Resources Masagos Zulkifli at the UNFCCC COP-23/ CMP-13/ CMA1.2 High
+  Level Meetings
 subtitle: 17 Nov 2017
 permalink: /media/speeches/national-statement-of-singapore-delivered-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-17-november-2017
 ---
-
 Mr President,
 
 I congratulate you on your election as President of COP-23/ CMP-13/ CMA1.2. As a fellow member of AOSIS, we are proud to have Fiji at the helm at this critical time. We would like to thank Morocco for their very able stewardship this past year. We also express our appreciation to the Government of Germany for hosting us and making the first “Island COP” a reality.
@@ -66,4 +67,4 @@ Thank you Mr President.
 
 <sup id="4">[4]</sup> Jess Shankleman, “Pretty soon electric cars will cost less than gasoline”, Bloomberg, 26 May 2017, accessed 9 October 2017.
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20171116001.pdf)
+*Source: Ministry of the Environment and Water Resources*
