@@ -7,10 +7,10 @@ description: ""
 ---
 ***Global Action for a More Sustainable World***
 
-Her Excellency Annalena Baerbock, Foreign Minister of Germany 
-Fellow Panel Members
-Distinguished Guests
-Ladies and Gentlemen
+Her Excellency Annalena Baerbock, Foreign Minister of Germany<br> 
+Fellow Panel Members<br>
+Distinguished Guests<br>
+Ladies and Gentlemen<br>
 
 Greetings from Singapore. I am pleased to speak at today’s opening panel.
 
