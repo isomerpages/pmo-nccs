@@ -1,10 +1,10 @@
 ---
 layout: post
-title: National Statement of Singapore by Minister for the Environment and Water Resources Masagos Zulkifli at the UNFCCC COP-24 High Level Segment
+title: National Statement of Singapore by Minister for the Environment and Water
+  Resources Masagos Zulkifli at the UNFCCC COP-24 High Level Segment
 subtitle: 12 Dec 2018
 permalink: /media/speeches/national-statement-of-singapore-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-unfccc-cop-24-high-level-segment-12-december-2018
 ---
-
 Mr President,
 
 Congratulations on your election as the President of this Conference. Thank you for the warm hospitality and excellent arrangements.
@@ -70,4 +70,4 @@ ___
 <sup>[5]</sup> Source: Article contributed by Ban Ki-moon to Time magazine on 8 October 2018. [<a href="http://time.com/5416793/climate-change-ban-ki-moon-trump/" target="_blank">http://time.com/5416793/climate-change-ban-ki-moon-trump/</a>](http://time.com/5416793/climate-change-ban-ki-moon-trump/)
 
 
-*Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20181212001.pdf)*
+*Source: Ministry of the Environment and Water Resources*
