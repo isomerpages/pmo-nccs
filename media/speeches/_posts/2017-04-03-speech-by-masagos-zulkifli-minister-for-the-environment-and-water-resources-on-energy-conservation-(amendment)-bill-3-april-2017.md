@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speech by Minister for the Environment and Water Resources Masagos Zulkifli on Energy Conservation (Amendment) Bill
+title: Speech by Minister for the Environment and Water Resources Masagos
+  Zulkifli on Energy Conservation (Amendment) Bill
 subtitle: 3 Apr 2017
 permalink: /media/speeches/speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-on-energy-conservation-(amendment)-bill-3-april-2017
 ---
-
 Madam Speaker, I beg to move, “That the Bill be read a Second time.” 
 
 The Energy Conservation (Amendment) Bill, or EC Bill in short, seeks to introduce a new set of initiatives to improve industrial energy efficiency, enhance our greenhouse gas reporting requirements and revise the Carbon Emissions-based Vehicle Scheme.
@@ -76,4 +76,4 @@ Madam Speaker, and members of the House, let me conclude. The proposed enhanceme
 
 Madam Speaker, I beg to move.
 <br><br><br>
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20170404001.pdf)
+*Source: Ministry of the Environment and Water Resources*
