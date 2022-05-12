@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Opening Address by Minister for the Environment and Water Resources Dr Vivian Balakrishnan at the Responsible Business Forum on Sustainable Development at Marina Bay Sands Convention Centre
+title: Opening Address by Minister for the Environment and Water Resources Dr
+  Vivian Balakrishnan at the Responsible Business Forum on Sustainable
+  Development at Marina Bay Sands Convention Centre
 subtitle: 25 Nov 2013
 permalink: /media/speeches/opening-address-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-responsible-business-forum-on-sustainable-development
 ---
-
 Mr Anthony Gourlay,
 <br>Chief Executive Officer, Global Initiatives
 
@@ -63,4 +64,4 @@ Good afternoon, everyone. When I say, it’s a pleasure to be here, I really mea
 
 20 So, I am sorry that I took longer than I intended. But I hope that I gave you an idea of what is happening on the global level. We need political will to be exercised and for political capital and real money to be invested to deal with this challenge of climate change. I hope you will understand how in the case of Singapore, our very vulnerability has made us acutely conscious of environmental impacts since our conception as a sovereign state almost 50 years ago. We need a long term commitment by governments, empowered people and responsible businesses to create a virtuous cycle in which both the environment and economy can be sustained. I thank you all for your support and I hope you will help us all do the right thing for the long term.
 <br><br>
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20131125001.pdf)
+*Source: Ministry of the Environment and Water Resources*
