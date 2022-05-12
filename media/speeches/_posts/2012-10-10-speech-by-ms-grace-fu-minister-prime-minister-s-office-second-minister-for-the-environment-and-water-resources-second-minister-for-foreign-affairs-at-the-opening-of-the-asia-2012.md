@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Minister, Prime Minister’s Office, Second Minister for the Environment and Water Resources & Second Minister for Foreign Affairs Grace Fu at the Opening of the Singapore Green Building Week, IGBC and BEX Asia 2012
+title: Speech by Minister, Prime Minister’s Office, Second Minister for the
+  Environment and Water Resources & Second Minister for Foreign Affairs Grace Fu
+  at the Opening of the Singapore Green Building Week, IGBC and BEX Asia 2012
 subtitle: 10 Oct 2012
 permalink: /media/speeches/speech-by-ms-grace-fu-minister-prime-minister-s-office-second-minister-for-the-environment-and-water-resources-second-minister-for-foreign-affairs-at-the-opening-of-the-asia-2012
 ---
-
 Mr Quek See Tiat  
 Chairman  
 Building and Construction Authority
@@ -52,4 +53,4 @@ Ladies and Gentlemen
 Thank you.  
 <br><br>
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20121010001.pdf)
+*Source: Ministry of the Environment and Water Resources*
