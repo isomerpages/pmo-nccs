@@ -5,7 +5,6 @@ title: Speech by Dr Amy Khor, Senior Minister of State for the Environment and
 subtitle: 12 Jul 2016
 permalink: /media/speeches/speech-by-dr-amy-khor-senior-minister-of-state-for-the-environment-and-water-resources-at-the-green-growth-and-business-forum-2016-12-july-2016
 ---
-
 Your Excellency, British High Commissioner, Scott Wightman,
 
 Mayor of Copenhagen, Morten Kabell,
@@ -68,4 +67,4 @@ ___
 <br><br><br>
 
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20160712004.pdf)
+*Source: Ministry of the Environment and Water Resources*
