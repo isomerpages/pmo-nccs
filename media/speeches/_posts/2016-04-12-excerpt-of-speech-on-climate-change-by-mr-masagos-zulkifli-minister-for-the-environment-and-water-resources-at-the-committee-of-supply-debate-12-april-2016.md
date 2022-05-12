@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Excerpt of Speech on Climate Change by Minister for the Environment and Water Resources Masagos Zulkifli at the Committee of Supply Debate
+title: Excerpt of Speech on Climate Change by Minister for the Environment and
+  Water Resources Masagos Zulkifli at the Committee of Supply Debate
 subtitle: 12 Apr 2016
 permalink: /media/speeches/excerpt-of-speech-on-climate-change-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-committee-of-supply-debate-12-april-2016
 ---
-
 Minister for the Environment and Water Resources Mr Masagos Zulkifli spoke about climate change during the 2016 Committee of Supply Debate. The excerpt is below.
-
-For the full speech, please click [here](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20160412002.pdf).
 
 **C. Climate Change**
 
@@ -30,3 +28,5 @@ Mr Pritam Singh made a suggestion about the possibility of setting up a Climate 
 Currently, where it is practical we have made hard structures to protect our coastline. We are raising a stretch of Changi Coast Road and Nicoll Drive to guard against sea level rise and we expect this to be completed by mid-2016. These are just some examples of the measures we have taken to safeguard Singapore against rising sea levels. We are confident that Singapore is adequately protected from coastal inundation in the immediate future. To prepare for the longer term, the Building and Construction Authority is conducting a coastal adaptation study which will inform us if additional protection will be needed in the future for our coasts.
 
 The warmer temperatures are also of concern as they could lead to heat-induced illnesses, among other impacts. Government agencies have SOPs and safety guidelines on how to prevent and mitigate heat injury amongst vulnerable groups, as well as those involved in outdoor activities. The Government is also undertaking studies to see how we can reduce ambient temperature, whether it is through having more urban greenery, the use of different building materials or the design of developments.
+<br><br><br>
+*Source: Ministry of the Environment and Water Resources*
