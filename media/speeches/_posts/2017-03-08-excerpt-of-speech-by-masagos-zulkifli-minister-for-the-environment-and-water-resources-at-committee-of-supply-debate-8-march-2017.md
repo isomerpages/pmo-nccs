@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Excerpt of Speech by Minister for the Environment and Water Resources Masagos Zulkifli at Committee of Supply Debate
+title: Excerpt of Speech by Minister for the Environment and Water Resources
+  Masagos Zulkifli at Committee of Supply Debate
 subtitle: 8 Mar 2017
 permalink: /media/speeches/excerpt-of-speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-committee-of-supply-debate-8-march-2017
 ---
@@ -27,4 +28,4 @@ We have also received feedback on the need to improve the current incentive sche
 We need a sustainable way to grow our economy. This is even more important as the world becomes increasingly carbon-constrained.
 <br><br><br><br>
 
-For the full speech, please go to [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20170308002.pdf)
+*Source: Ministry of the Environment and Water Resources*
