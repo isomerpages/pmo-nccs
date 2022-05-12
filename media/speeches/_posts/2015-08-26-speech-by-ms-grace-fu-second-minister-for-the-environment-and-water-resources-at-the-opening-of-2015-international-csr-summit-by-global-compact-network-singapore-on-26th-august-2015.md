@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Second Minister for the Environment and Water Resources Grace Fu at the Opening of 2015 International CSR Summit by Global Compact Network Singapore
+title: Speech by Second Minister for the Environment and Water Resources Grace
+  Fu at the Opening of 2015 International CSR Summit by Global Compact Network
+  Singapore
 subtitle: 26 Aug 2015
 permalink: /media/speeches/speech-by-ms-grace-fu-second-minister-for-the-environment-and-water-resources-at-the-opening-of-2015-international-csr-summit-by-global-compact-network-singapore-on-26th-august-2015
 ---
-
 Mr Kwek Leng Joo, 
 <br>President of Global Compact Network Singapore,  
 <br>
@@ -42,4 +43,4 @@ Let me conclude by congratulating our winners for the Young CSR Leaders Award. I
 
 Thank you very much and have a fruitful and meaningful summit ahead.
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20150827001.pdf)
+*Source: Ministry of the Environment and Water Resources*
