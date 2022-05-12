@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speech by Minister for the Environment and Water Resources Dr Vivian Balakrishnan at "Dialogue with Dr Vivian Balakrishnan", ASEAN Power Shift 2015
+title: Speech by Minister for the Environment and Water Resources Dr Vivian
+  Balakrishnan at "Dialogue with Dr Vivian Balakrishnan", ASEAN Power Shift 2015
 subtitle: 25 Jul 2015
 permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-dialogue-with-dr-vivian-balakrishnan-asean-power-shift-2015-on-25-july-2015
 ---
-
 Good morning. I am heartened to see so many passionate young people here today. 
 
 Never before in human history have there been so many young people in the world. There are about 7.3 billion people in the world. And there are about 1.8 billion young people between the ages of 15 to 24.
@@ -46,4 +46,4 @@ So what your generation needs to do is to invent the technology and make people 
 So I wish you all the best in your deliberations, and I hope you understand that this is not just a talk-shop, this is actually important for your future, and for the collective good of the world. Thank you all very much.
 <br><br>
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20150725001.pdf)
+*Source: Ministry of the Environment and Water Resources*
