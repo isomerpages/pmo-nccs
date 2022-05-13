@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Speech by Senior Minister of State, Ministry of Information, Communications and the Arts and Ministry of the Environment and Water Resources, Grace Fu at the 20th Anniversary Celebration of the Singapore Green Labelling Scheme
+title: Speech by Senior Minister of State, Ministry of Information,
+  Communications and the Arts and Ministry of the Environment and Water
+  Resources, Grace Fu at the 20th Anniversary Celebration of the Singapore Green
+  Labelling Scheme
 subtitle: 16 Mar 2012
 permalink: /media/speeches/speech-by-ms-grace-fu-senior-minister-of-state-ministry-of-information-communications-and-the-arts-and-ministry-of-the-environment-and-water-resources
 ---
-
 Ms Isabella Loh, 
 <br>Chairman, Singapore Environment Council
 
@@ -37,4 +39,4 @@ Ultimately, we need the concerted efforts of all stakeholders – the Government
 Thank you for your time, and I wish you a fruitful day ahead.
 <br><br>
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20120316002.pdf)
+*Source: Ministry of the Environment and Water Resources*
