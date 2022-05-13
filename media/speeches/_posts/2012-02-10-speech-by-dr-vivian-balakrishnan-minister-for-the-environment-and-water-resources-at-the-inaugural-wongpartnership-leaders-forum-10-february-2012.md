@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Speech by Minister for the Environment and Water Resources Dr Vivian Balakrishnan at the Inaugural WongPartnership Leaders Forum
+title: Speech by Minister for the Environment and Water Resources Dr Vivian
+  Balakrishnan at the Inaugural WongPartnership Leaders Forum
 subtitle: 10 Feb 2012
 permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-inaugural-wongpartnership-leaders-forum-10-february-2012
 ---
-
-**Greening the Singapore economy**  
+**Greening the Singapore Economy**  
 We live in a world which is simultaneously confronting a global financial crisis, political upheavals in many parts of the world due to growing inequality, resource depletions, a high energy crisis, a looming food and water crisis, the threat of future global pandemics and of course climate change.
 
 Let’s think about this - at the risk of some exaggeration, these are the ingredients for a perfect storm. There are not going to be any quick and easy solutions and we are certainly not going to solve the world’s problems in this morning’s session. But I just wanted to offer a hypothesis, and then perhaps some principles as to how we could maybe address some of these problems.
@@ -52,4 +52,4 @@ Thank you very much.
 <br><br>
 
 
-*Source*: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20120210001.pdf)
+*Source: Ministry of the Environment and Water Resources*
