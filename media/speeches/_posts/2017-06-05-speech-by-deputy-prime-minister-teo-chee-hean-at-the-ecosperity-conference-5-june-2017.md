@@ -5,13 +5,13 @@ subtitle: 5 Jun 2017
 permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-ecosperity-conference-5-june-2017
 ---
 
-### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE ECOSPERITY CONFERENCE, 5 JUNE 2017
+Chairman Temasek Mr Lim Boon Heng,
+<br><br>
+Distinguished Guests,
+<br><br>
+Ladies and Gentlemen,
 
-Chairman Temasek Mr Lim Boon Heng,  
-Distinguished guests,  
-Ladies and gentlemen,
-
-Good afternoon.
+Good Afternoon.
 
 Today is UN World Environment Day. The UN General Assembly designated this day in 1972 to raise global awareness of sustainable development and encourage action to protect our environment.
 

@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Results of Second National Climate Change Study Consistent with The Intergovernmental Panel on Climate Change's 5th Assessment Report in Projecting Global Sea-Level Rise, Higher Temperatures and More Extreme Rainfall in The Region
+title: Results of Second National Climate Change Study Consistent with the Intergovernmental Panel on Climate Change's 5<sup>th</sup> Assessment Report in Projecting Global Sea-Level Rise, Higher Temperatures and More Extreme Rainfall in the Region
 subtitle: 15 Apr 2015
 permalink: /media/press-release/results-of-second-national-climate-change-study-consistent-with-the-intergovernmental-panel-on-climate-changes-5th-assessment-report-in-projecting
 ---
 
-### RESULTS OF SECOND NATIONAL CLIMATE CHANGE STUDY CONSISTENT WITH THE INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE'S 5TH ASSESSMENT REPORT IN PROJECTING GLOBAL SEA-LEVEL RISE, HIGHER TEMPERATURES AND MORE EXTREME RAINFALL IN THE REGION
+Meteorological Service Singapore’s (MSS) Centre for Climate Research Singapore (CCRS) has released the findings for Phase 1 of the Second National Climate Change Study at a meeting of the Climate Science Experts Network<sup>[1]</sup>. The outcomes of the new Singapore study are consistent with those of the Inter-governmental Panel on Climate Change (IPCC) 5<sup>th</sup> Assessment Report (AR5) which projects sea level rises globally, as well as higher temperatures and more extreme rainfall for Singapore and the surrounding region. The details are outlined in paragraphs 5-11 below.
 
-**Singapore, 15 April 2015** – Meteorological Service Singapore’s (MSS) Centre for Climate Research Singapore (CCRS) has released the findings for Phase 1 of the Second National Climate Change Study at a meeting of the Climate Science Experts Network<sup>[1]</sup>. The outcomes of the new Singapore study are consistent with those of the Inter-governmental Panel on Climate Change (IPCC) 5th Assessment Report (AR5) which projects sea level rises globally, as well as higher temperatures and more extreme rainfall for Singapore and the surrounding region. The details are outlined in paragraphs 5-11 below.
+**Background of Phase 1 of the 2<sup>nd</sup> National Climate Change Study**
 
-**Background of Phase 1 of the 2nd National Climate Change Study**
-
-Under the auspices of the Inter-Ministerial Committee on Climate Change (IMCCC), the National Environment Agency (NEA) and in collaboration with the Met Office Hadley Centre in the United Kingdom commissioned Phase 1 of the 2nd National Climate Change Study, which aimed to provide projections of changes in the main climate variables of interest to Singapore. The key highlight of this report was the use of high resolution climate models to project regional climate and sea level changes with finer spatial detail for the 21st century over the region, centred on Singapore. The study was completed early this year.
+Under the auspices of the Inter-Ministerial Committee on Climate Change (IMCCC), the National Environment Agency (NEA) and in collaboration with the Met Office Hadley Centre in the United Kingdom commissioned Phase 1 of the 2<sup>nd</sup> National Climate Change Study, which aimed to provide projections of changes in the main climate variables of interest to Singapore. The key highlight of this report was the use of high resolution climate models to project regional climate and sea level changes with finer spatial detail for the 21st century over the region, centred on Singapore. The study was completed early this year.
 
 Phase 2 of the study, which started in end 2014, is making use of the projections from Phase 1 to examine the climate change impacts on areas such as water resources and drainage, biodiversity and greenery, network infrastructure and building infrastructure. This in turn will guide Government agencies in their planning and will serve to shape Singapore’s climate change resilience plans. Key findings from Phase 2 can be expected by end 2015.
 

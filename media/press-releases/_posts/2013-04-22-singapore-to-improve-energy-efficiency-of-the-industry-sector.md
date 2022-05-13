@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Singapore To Improve Energy Efficiency Of The Industry Sector
+title: Singapore to Improve Energy Efficiency of the Industry Sector
 subtitle: 22 Apr 2013
 permalink: /media/press-release/singapore-to-improve-energy-efficiency-of-the-industry-sector
 ---
 
-### SINGAPORE TO IMPROVE ENERGY EFFICIENCY OF THE INDUSTRY SECTOR
-
 *NEA introduces mandatory energy management requirements to reduce energy use and greenhouse gas emissions*
 
-**Singapore, 22 April 2013** – In an effort to improve Singapore’s energy efficiency and competitiveness, the National Environment Agency (NEA) has introduced mandatory energy management requirements for large energy users in the industry sector. These requirements will come into effect on 22 April 2013 under the Energy Conservation Act (ECA). 
+In an effort to improve Singapore’s energy efficiency and competitiveness, the National Environment Agency (NEA) has introduced mandatory energy management requirements for large energy users in the industry sector. These requirements will come into effect on 22 April 2013 under the Energy Conservation Act (ECA). 
 
 The industry sector accounts for more than half of Singapore’s energy demand. In particular, the large energy users in this sector can play a major role in the national efforts to make Singapore more energy efficient. 
 

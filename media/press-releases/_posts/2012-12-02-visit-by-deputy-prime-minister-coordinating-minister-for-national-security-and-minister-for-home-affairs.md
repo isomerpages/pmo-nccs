@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Visit by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Mr Teo Chee Hean to Saudi Arabia and Qatar, 2-6 December, and Visit by Minister for the Environment and Water Resources Dr Vivian Balakrishnan
+title: Visit by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Teo Chee Hean to Saudi Arabia and Qatar, 2-6 December 2012, and Visit by Minister for the Environment and Water Resources Dr Vivian Balakrishnan to Qatar, 3 – 8 December 2012
 subtitle: 2 Dec 2012
 permalink: /media/press-release/visit-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs
 ---
 
-### VISIT BY DEPUTY PRIME MINISTER, COORDINATING MINISTER FOR NATIONAL SECURITY AND MINISTER FOR HOME AFFAIRS MR TEO CHEE HEAN TO SAUDI ARABIA AND QATAR, 2-6 DECEMBER, AND VISIT BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR VIVIAN BALAKRISHNAN
-
-**Singapore, 2 December 2012** - Deputy Prime Minister, Coordinating Minister for National Security, Minister for Home Affairs and Chairman of the Inter-Ministerial Committee on Climate Change (IMCCC) Mr Teo Chee Hean will be visiting Riyadh, Saudi Arabia, from 2 – 4 December 2012 and Doha, Qatar from 4 – 6 December 2012. Minister for the Environment and Water Resources Dr Vivian Balakrishnan will also be visiting Doha, Qatar, from 3 – 8 December 2012.
+Deputy Prime Minister, Coordinating Minister for National Security, Minister for Home Affairs and Chairman of the Inter-Ministerial Committee on Climate Change (IMCCC) Teo Chee Hean will be visiting Riyadh, Saudi Arabia, from 2 – 4 December 2012 and Doha, Qatar from 4 – 6 December 2012. Minister for the Environment and Water Resources Dr Vivian Balakrishnan will also be visiting Doha, Qatar, from 3 – 8 December 2012.
 
 In Riyadh, DPM Teo will meet key Saudi leaders including His Royal Highness Prince Salman bin Abdulaziz Al Saud, Crown Prince, Deputy Prime Minister and Minister of Defence and His Royal Highness Prince Mohammed bin Naif bin Abdulaziz Al Saud, Minister of Interior. This will be DPM Teo’s introductory visit to Saudi Arabia. DPM Teo will be accompanied by senior officials from the Ministry of Home Affairs and the Ministry of Foreign Affairs.
 

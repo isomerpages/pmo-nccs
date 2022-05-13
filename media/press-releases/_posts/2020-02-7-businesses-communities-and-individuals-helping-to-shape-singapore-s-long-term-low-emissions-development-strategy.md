@@ -1,13 +1,9 @@
 ---
 layout: post
-title: Businesses, Communities, And Individuals Helping To Shape Singapore’s Long-Term Low Emissions Development Strategy
+title: Businesses, Communities, And Individuals Helping to Shape Singapore's Long-Term Low Emissions Development Strategy
 subtitle: 7 Feb 2020
 permalink: /media/press-release/businesses-communities-and-individuals-helping-to-shape-singapore-s-long-term-low-emissions-development-strategy
 ---
-
-### BUSINESSES, COMMUNITIES, AND INDIVIDUALS HELPING TO SHAPE SINGAPORE’S LONG-TERM LOW EMISSIONS DEVELOPMENT STRATEGY
-
-7 Feb 2020
 
 The National Climate Change Secretariat (NCCS), under the Strategy Group, Prime Minister’s Office, conducted a public consultation exercise from 16 July to 30 September 2019 on the Long-Term Low Emissions Development Strategy (LEDS) to create a sustainable environment. About 2,000<a href="#1" name="1">[1]</a> submissions were received from businesses, community groups, and individuals.  Several stakeholder engagement sessions were also organised between August 2019 and January 2020 to facilitate in-depth discussions with youths, green groups, green councils, academics and businesses from a variety of sectors.
 

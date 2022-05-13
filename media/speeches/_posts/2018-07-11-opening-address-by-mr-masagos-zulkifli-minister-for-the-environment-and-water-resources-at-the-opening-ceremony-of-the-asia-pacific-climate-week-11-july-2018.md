@@ -1,18 +1,20 @@
 ---
 layout: post
-title: Opening Address by Minister for the Environment and Water Resources Masagos Zulkifli at the Opening Ceremony of the Asia-Pacific Climate Week
+title: Opening Address by Minister for the Environment and Water Resources
+  Masagos Zulkifli at the Opening Ceremony of the Asia-Pacific Climate Week
 subtitle: 11 Jul 2018
 permalink: /media/speeches/opening-address-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-opening-ceremony-of-the-asia-pacific-climate-week-11-july-2018
----  
+---
 ***“Driving Change in Asia Pacific through Innovation”***
 
 UNFCCC Executive Secretary Ms Patricia Espinosa  
 COP-23 Chief Negotiator Ambassador Luke Daunivalu  
 COP-24 President-Designate Mr Michal Kurtyka
 
-Vice President, Knowledge Management, Asian Development Bank Mr Bambang Susantono
+Mr Bambang Susantono
+<br>Vice President, Knowledge Management, Asian Development Bank 
 
-Distinguished Guests
+Distinguished Guests,
 
 Ladies and Gentlemen,
 
@@ -58,4 +60,4 @@ The meetings here this week complement the ongoing international climate change 
 
 Let me conclude. The impact of climate change respects no geographical or national boundaries. A global response is required, and the time for action is now. I wish all of you a fruitful meeting. Thank you.
 
-*Source:*[National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180711003.pdf)
+*Source: Ministry of the Environment and Water Resources*

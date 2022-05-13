@@ -5,8 +5,6 @@ subtitle: 22 Apr 2016
 permalink: /media/speeches/national-statement-of-singapore-delivered-by-minister-for-foreign-affairs-dr-vivian-balakrishnan-at-the-signature-ceremony-of-the-paris-agreement-in-new-york-22-april-2016
 ---
 
-### NATIONAL STATEMENT OF SINGAPORE DELIVERED BY MINISTER FOR FOREIGN AFFAIRS DR VIVIAN BALAKRISHNAN AT THE SIGNATURE CEREMONY OF THE PARIS AGREEMENT IN NEW YORK, 22 APRIL 2016
-
 Excellencies,
 
 It is very apt that we are here on Earth Day to celebrate the Paris Agreement, and that more than 170 of us will be affixing our signatures to the Agreement on behalf of our respective countries.  This is an agreement that will safeguard the future of our planet.  It is an agreement that will help us transform our paradigm of development to one that is based on long-term considerations rather than short-term exploitations.  To one that is based on justice for all rather than exploiting the weak and the vulnerable. And to a paradigm that we aim for global resilience rather than to gamble with our children’s future.

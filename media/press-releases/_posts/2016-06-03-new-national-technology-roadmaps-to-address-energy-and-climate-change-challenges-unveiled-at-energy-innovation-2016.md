@@ -5,7 +5,6 @@ subtitle: 03 Jun 2016
 permalink: /media/press-release/new-national-technology-roadmaps-to-address-energy-and-climate-change-challenges-unveiled-at-energy-innovation-2016
 ---
 
-### NEW NATIONAL TECHNOLOGY ROADMAPS TO ADDRESS ENERGY AND CLIMATE CHANGE CHALLENGES UNVEILED AT ENERGY INNOVATION 2016
 
 The National Climate Change Secretariat (NCCS) and the National Research Foundation (NRF), Prime Minister's Office, Singapore, unveiled three new national energy technology roadmaps at Energy Innovation 2016. Co-organised by NCCS, NRF and the Energy Market Authority (EMA), the event is a forum for industry representatives, government agencies, academics and researchers to discuss how Singapore’s future energy needs could be secured through technological innovation.
 

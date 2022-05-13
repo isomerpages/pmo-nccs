@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Niam Chiang Meng retires from Administrative Service; NPTD and NCCS to join Strategy Group, PMO
+title: Niam Chiang Meng Retires from Administrative Service; NPTD and NCCS to Join Strategy Group, PMO
 subtitle: 07 Jul 2016
 permalink: /media/press-release/niam-chiang-meng-retires-from-administrative-service-nptd-and-nccs-to-join-strategy-group-pmo
 ---
 
-### NIAM CHIANG MENG RETIRES FROM ADMINISTRATIVE SERVICE; NPTD AND NCCS TO JOIN STRATEGY GROUP, PMO
 
 Mr Niam Chiang Meng, 58, Permanent Secretary (National Population and Talent Division, NPTD) and Permanent Secretary (National Climate Change Secretariat, NCCS), Prime Minister’s Office, will retire from the Administrative Service on 1 August 2016 after 33 years of distinguished service in the public sector. Deputy Prime Minister and Coordinating Minister for National Security Mr Teo Chee Hean, who has worked closely with Mr Niam in NPTD and NCCS, and also in the field of sports development and promotion, thanked Mr Niam for his leadership and contributions in these important areas.   
 

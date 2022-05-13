@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Excerpt of Speech by Masagos Zulkifli, Minister for the Environment and
-  Water Resources, at Committee of Supply Debate, 8 March 2017
+title: Excerpt of Speech by Minister for the Environment and Water Resources
+  Masagos Zulkifli at Committee of Supply Debate
 subtitle: 8 Mar 2017
 permalink: /media/speeches/excerpt-of-speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-committee-of-supply-debate-8-march-2017
 ---
-### EXCERPT OF SPEECH BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT COMMITTEE OF SUPPLY DEBATE, 8 MARCH 2017  
 **Climate change**
 
 While we stand on solid footing, the road ahead is uncertain. A major concern for us is climate change, a far-reaching threat we can already see and feel today. Our Met Service recorded 2016 as the hottest year since 1929, when we started keeping temperature records. In recent years, our water managers, too, have had a foretaste of the looming challenge of coping with extended dry spells on the one hand and higher intensity rainfall on the other. Singapore has to plan ahead to deal with climate change impacts. We will not only need to protect our buildings, coasts, and infrastructure, but also foster greater awareness, so that we are a resilient people. 
@@ -29,4 +28,4 @@ We have also received feedback on the need to improve the current incentive sche
 We need a sustainable way to grow our economy. This is even more important as the world becomes increasingly carbon-constrained.
 <br><br><br><br>
 
-For the full speech, please go to [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20170308002.pdf)
+*Source: Ministry of the Environment and Water Resources*

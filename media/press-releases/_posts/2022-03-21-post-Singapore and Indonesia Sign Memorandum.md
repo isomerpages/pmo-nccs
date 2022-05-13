@@ -5,7 +5,7 @@ date: 2022-03-21
 layout: post
 description: ""
 ---
-JOINT MEDIA RELEASE BY NCCS AND COORDINATING MINISTRY FOR MARITIME AND INVESTMENT AFFAIRS, INDONESIA
+JOINT PRESS RELEASE BY NCCS AND COORDINATING MINISTRY FOR MARITIME AND INVESTMENT AFFAIRS, INDONESIA
 
 Singapore’s Senior Minister and Coordinating Minister for National Security Teo Chee Hean and Indonesia’s Coordinating Minister for Maritime Affairs and Investment Luhut Binsar Pandjaitan signed a bilateral Memorandum of Understanding (MoU) concerning Cooperation on Climate Change and Sustainability today.
 <br><br>

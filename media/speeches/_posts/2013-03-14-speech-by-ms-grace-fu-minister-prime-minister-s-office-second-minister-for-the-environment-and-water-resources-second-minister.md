@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Speech by Minister, Prime Minister’s Office, Second Minister for the Environment and Water Resources & Second Minister for Foreign Affairs, Grace Fu at the Eco-Products International Fair 2013
+title: Speech by Minister, Prime Minister’s Office, Second Minister for the
+  Environment and Water Resources & Second Minister for Foreign Affairs, Grace
+  Fu at the Eco-Products International Fair 2013
 subtitle: 14 Mar 2013
 permalink: /media/speeches/speech-by-ms-grace-fu-minister-prime-minister-s-office-second-minister-for-the-environment-and-water-resources-second-minister
 ---
-### SPEECH BY MINISTER, PRIME MINISTER’S OFFICE, SECOND MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES & SECOND MINISTER FOR FOREIGN AFFAIRS, GRACE FU AT THE ECO-PRODUCTS INTERNATIONAL FAIR 2013 ON 14 MAR 2013
-
 Mr Teisuke Kitayama,  
 Chairperson of Green Productivity Advisory Committee, Japan
 
@@ -61,4 +61,4 @@ As I conclude, let me encourage you to take advantage of the many opportunities 
 I wish you great success and hope you have a wonderful stay in Singapore. Thank you.
 <br><br>
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20130314001.pdf)
+*Source: Ministry of the Environment and Water Resources*

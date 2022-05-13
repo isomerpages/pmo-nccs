@@ -1,13 +1,11 @@
 ---
 layout: post
-title: BCA and IDA launch new Green Mark for data centres
+title: BCA and IDA Launch New Green Mark for Data Centres
 subtitle: 10 Oct 2012
 permalink: /media/press-release/bca-and-ida-launch-new-green-mark-for-data-centres
 ---
 
-### BCA AND IDA LAUNCH NEW GREEN MARK FOR DATA CENTRES
-
-**Singapore, 10 October 2012** – The new Green Mark for Data Centres was launched today by Ms Grace Fu, Minister in Prime Minister’s Office and Second Minister for Environment and Water Resources and Foreign Affairs at the opening of the International Green Building Conference and BEX Asia, which are anchor events of the Singapore Green Building Week. The new dedicated green building rating system for data centres is jointly developed by Building and Construction Authority (BCA) and the Infocomm Development Authority (IDA).
+The new Green Mark for Data Centres was launched today by Ms Grace Fu, Minister in Prime Minister’s Office and Second Minister for Environment and Water Resources and Foreign Affairs at the opening of the International Green Building Conference and BEX Asia, which are anchor events of the Singapore Green Building Week. The new dedicated green building rating system for data centres is jointly developed by Building and Construction Authority (BCA) and the Infocomm Development Authority (IDA).
 
 As Singapore’s commercial data centre space is projected to increase by 50 per cent from 2010 to 2015, it is important to look at how green and sustainable data centres are, given their heavy use of energy. It is estimated that a typical large data centre in Singapore consumes energy equivalent to 10,000 households. Energy cost for data centres is also currently estimated to make up 50 per cent of operating costs. There is thus potential for significant savings for data centres if they were to go green.
 

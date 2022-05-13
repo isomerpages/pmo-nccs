@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Speech by Mr Lee Yi Shyan, Minister of State for National Development and Trade & Industry at the opening of PV Asia Pacific Expo and Asian PV Industry Association at the Marina Bay Sands Expo and Convention Centre, 1 November 2011
+title: Speech by Minister of State for National Development and Trade & Industry Lee Yi Shyan at the opening of PV Asia Pacific Expo and Asian PV Industry Association at the Marina Bay Sands Expo and Convention Centre
 subtitle: 1 Nov 2011
 permalink: /media/speeches/speech-by-mr-lee-yi-shyan-minister-of-state-for-national-development-and-trade-industry-at-the-opening-of-pv-asia-pacific-expo-and-asian-pv-industry-association
 ---
 
-### SPEECH BY MR LEE YI SHYAN, MINISTER OF STATE FOR NATIONAL DEVELOPMENT AND TRADE & INDUSTRY AT THE OPENING OF PV ASIA PACIFIC EXPO AND ASIAN PV INDUSTRY ASSOCIATION AT THE MARINA BAY SANDS EXPO AND CONVENTION CENTRE, 1 NOVEMBER 2011
-
 Your Excellencies
 
-Mr Shi Dinghuan (石定环), Counsellor of State Council and Executive Vice President of Chinese Research Association
+Mr Shi Dinghuan (石定环), 
+<br>Counsellor of State Council and Executive Vice President of Chinese Research Association
 
-Dr Shi Zhengrong (施正荣), Chairman of the Asia Pacific PV Industry Association
+Dr Shi Zhengrong (施正荣), 
+<br>Chairman of the Asia Pacific PV Industry Association
 
 Ladies and Gentlemen,
 

@@ -38,5 +38,5 @@ More than a decade ago the award-winning An Inconvenient Truth brought climate c
 As we enjoy the documentary in the comfort of this theatre, I hope you put on your sustainability lens and imagine how you, and your communities, can be part of the solution towards climate change. Our goal towards a more carbon-efficient and climate-resilient Singapore can only be achieved when everyone takes personal responsibility towards mitigating the effects of climate change and protecting our environment. With that, I wish everyone an enjoyable and thought-provoking evening!
 
 Thank you!
-<br><br><br><br>
-Source: [National Archives of Singapore](https://go.gov.sg/15august2017-speech-by-minister-for-the-environment-and-water-resources-masagos-zulkifli-at-the-movie-premiere-of-an-inconvenient-sequel-truth-to-power)
+<br><br>
+*Source: Ministry of the Environment and Water Resources*

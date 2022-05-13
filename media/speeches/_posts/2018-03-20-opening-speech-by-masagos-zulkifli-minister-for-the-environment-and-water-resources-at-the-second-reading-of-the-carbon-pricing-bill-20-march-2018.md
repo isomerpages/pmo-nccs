@@ -5,7 +5,6 @@ title: Opening Speech by Masagos Zulkifli, Minister for the Environment and
 subtitle: 20 Mar 2018
 permalink: /media/speeches/opening-speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-second-reading-of-the-carbon-pricing-bill-20-march-2018
 ---
-
 Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 
 **Intention of the Bill**
@@ -105,4 +104,4 @@ It is a significant step to bring us closer to a liveable and sustainable Singap
 Sir, I beg to move.
 
 
-*Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180320002.pdf)*
+*Source: Ministry of the Environment and Water Resources*

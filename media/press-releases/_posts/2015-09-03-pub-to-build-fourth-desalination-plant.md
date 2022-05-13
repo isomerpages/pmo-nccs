@@ -1,15 +1,13 @@
 ---
 layout: post
-title: PUB To Build Fourth Desalination Plant
+title: PUB to Build Fourth Desalination Plant
 subtitle: 03 Sept 2015
 permalink: /media/press-release/pub-to-build-fourth-desalination-plant
 ---
 
-### PUB TO BUILD FOURTH DESALINATION PLANT
-
 *Singapore’s latest desalination plant in Marina East will help meet water demand in the city area and strengthen Singapore’s drought resilience.*
 
-**Singapore, 3 September 2015** - National water agency PUB today announced that it will call a tender for the provision of Consultancy Services for Singapore’s fourth desalination plant. Planned with a capacity of 30 million imperial gallons per day (mgd), the plant will help meet future water demand in the city area and strengthen Singapore’s drought resilience.
+National water agency PUB today announced that it will call a tender for the provision of Consultancy Services for Singapore’s fourth desalination plant. Planned with a capacity of 30 million imperial gallons per day (mgd), the plant will help meet future water demand in the city area and strengthen Singapore’s drought resilience.
 
 Located near water demand zones in the city and eastern Singapore, the Marina East desalination plant will also have the capability to treat freshwater from Marina Reservoir.
 

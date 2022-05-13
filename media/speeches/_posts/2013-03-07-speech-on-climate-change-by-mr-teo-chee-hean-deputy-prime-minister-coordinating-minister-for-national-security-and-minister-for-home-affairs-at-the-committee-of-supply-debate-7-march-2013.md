@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Speech on Climate Change by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs, at the Committee of Supply Debate, 7 March 2013
+title: Speech on Climate Change by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Teo Chee Hean at the Committee of Supply Debate
 subtitle: 7 Mar 2013
 permalink: /media/speeches/speech-on-climate-change-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-at-the-committee-of-supply-debate-7-march-2013
 ---
 
-### SPEECH ON CLIMATE CHANGE BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER, COORDINATING MINISTER FOR NATIONAL SECURITY AND MINISTER FOR HOME AFFAIRS, AT THE COMMITTEE OF SUPPLY DEBATE, 7 MARCH 2013
 
 Associate Professor Fatimah Lateef asked if we are on target to meet our climate change pledges and if we are considering any form of carbon pricing.
 

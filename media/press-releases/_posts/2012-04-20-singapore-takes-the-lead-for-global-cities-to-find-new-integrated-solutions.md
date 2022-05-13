@@ -1,19 +1,17 @@
 ---
 layout: post
-title: Singapore Takes The Lead For Global Cities To Find New Integrated Solutions
+title: Singapore Takes the Lead for Global Cities to Find New Integrated Solutions
 subtitle: 20 Apr 2012
 permalink: /media/press-release/singapore-takes-the-lead-for-global-cities-to-find-new-integrated-solutions
 ---
 
-### APP SOLUTIONS FOR THE ENVIRONMENTSINGAPORE TAKES THE LEAD FOR GLOBAL CITIES TO FIND NEW INTEGRATED SOLUTIONS
-
-**Singapore, 20 April 2012** - Singapore is taking the lead in encouraging cities to find new integrated solutions in resolving pressing urbanisation challenges around the world. For the first time, the World Cities Summit, the Singapore International Water Week and the inaugural CleanEnviro Summit Singapore will be held together from 1 to 5 July 2012. Beyond covering the latest urbanisation challenges and solutions, this expanded platform will see more in-depth discussions on water and waste management strategies and technologies as well.
+Singapore is taking the lead in encouraging cities to find new integrated solutions in resolving pressing urbanisation challenges around the world. For the first time, the World Cities Summit, the Singapore International Water Week and the inaugural CleanEnviro Summit Singapore will be held together from 1 to 5 July 2012. Beyond covering the latest urbanisation challenges and solutions, this expanded platform will see more in-depth discussions on water and waste management strategies and technologies as well.
 
 The three events will offer world leaders a unique opportunity to discuss and chart new directions and solutions for more liveable and sustainable cities of the future. Some 15,000 high-level delegates are expected to attend, with prominent Mayors, government and industry leaders speaking on wide-ranging topics like investing in cities, smart cities of the future, water planning for sustainable and liveable cities, and urbanisation trends and challenges in the next 20 years. Cutting-edge technologies and best practice models will be showcased on water, waste, urban planning, with integrated solutions perspectives. New business partnerships may be formed with the three events enabling government officials and industry solution providers to discuss financing models and new business ventures.
 
-**New focus on integrated solutions**
+**New Focus on Integrated Solutions**
 
-ntegrated solutions is the new focus for these three events. It is an emerging trend that cities are embracing in addressing pressing urbanisation challenges. Because urbanisation challenges are becoming far more complex, it is no longer enough to invest in separate solutions on water, environment or waste. Cities are increasingly taking on a more holistic approach to tackling the many urbanisation challenges together to achieve sustainable growth and a better quality of life for all.
+Integrated solutions is the new focus for these three events. It is an emerging trend that cities are embracing in addressing pressing urbanisation challenges. Because urbanisation challenges are becoming far more complex, it is no longer enough to invest in separate solutions on water, environment or waste. Cities are increasingly taking on a more holistic approach to tackling the many urbanisation challenges together to achieve sustainable growth and a better quality of life for all.
 
 Singapore is taking the opportunity to facilitate greater discourse and action in this important area with the combined co-location of these three global events. It is already making inroads in integrated solutions with its comprehensive, long-range and holistic approach in urban planning, combining it with resource-efficient policies and technologies. It has also been researching and test-bedding new urban solutions ideas that can be commercialised and replicated elsewhere in six areas: green buildings, energy, waste and water management, using technology for public safety, green networks and developing smart transport systems. Other integrated solutions projects for sustainable development are Punggol Eco-Town, Marina Bay and Jurong Lake District.
 

@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Speech by Mr Teo Chee Hean, Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs at the World Oceans Summit, 23 February 2012, at Capella Singapore
+title: Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Teo Chee Hean at the World Oceans Summit at Capella Singapore
 subtitle: 23 Feb 2013
 permalink: /media/speeches/speech-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-at-the-world-oceans-summit-23-february-2012-at-capella-singapore
 ---
 
-### SPEECH BY MR TEO CHEE HEAN, DEPUTY PRIME MINISTER, COORDINATING MINISTER FOR NATIONAL SECURITY AND MINISTER FOR HOME AFFAIRS AT THE WORLD OCEANS SUMMIT, 23 FEBRUARY 2012, AT CAPELLA SINGAPORE
-
 His Excellency, Mr Olafur Ragnar Grimsson  
 President, Republic of Iceland
 
-Ministers, Distinguished Guests,
+Ministers, 
 
-Ladies and gentlemen
+Distinguished Guests,
+
+Ladies and Gentlemen
 
 Good morning. It gives me great pleasure to join you this morning, at the World Oceans Summit.
 

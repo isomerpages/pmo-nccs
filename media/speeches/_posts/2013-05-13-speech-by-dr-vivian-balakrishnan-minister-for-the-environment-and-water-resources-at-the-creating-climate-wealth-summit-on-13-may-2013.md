@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Speech by Minister for the Environment and Water Resources Dr Vivian Balakrishnan at the Creating Climate Wealth Summit
+title: Speech by Minister for the Environment and Water Resources Dr Vivian
+  Balakrishnan at the Creating Climate Wealth Summit
 subtitle: 13 May 2013
 permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-creating-climate-wealth-summit-on-13-may-2013
 ---
-### SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR VIVIAN BALAKRISHNAN AT THE CREATING CLIMATE WEALTH SUMMIT ON 13 MAY 2013
-
 Great fortunes will be made or lost at moments of inflexion, and our world is going through several inflexion points even as we speak.
 
 Sometime in the last one or two weeks, the world’s atmospheric carbon dioxide level reached 400 parts per million. When did the world last have that level of carbon dioxide in the atmosphere? For that, you would have to go back somewhere between two to even five million years ago.
@@ -64,4 +63,4 @@ I hope I have given you some food for thought, and hopefully some sense of crise
 
 
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20130513001.pdf)
+*Source: Ministry of the Environment and Water Resources*

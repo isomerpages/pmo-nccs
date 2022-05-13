@@ -5,13 +5,11 @@ subtitle: 23 Oct 2017
 permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-10th-singapore-international-energy-week-23-october-2017
 ---
 
-### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE 10<sup>TH</sup> SINGAPORE INTERNATIONAL ENERGY WEEK, 23 OCTOBER 2017
-
 Your Excellencies,  
 Distinguished Guests,  
 Ladies and Gentlemen,
 
-Good morning.
+Good Morning.
 
 I am happy to join you at the 10th Singapore International Energy Week (SIEW). Over the last nine years, SIEW has brought together global thought-leaders to discuss key energy issues and their impact on Asia, and Asia continues to be a centre of global energy demand growth.
 

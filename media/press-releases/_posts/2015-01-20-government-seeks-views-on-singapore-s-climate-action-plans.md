@@ -5,7 +5,6 @@ subtitle: 20 Jan 2015
 permalink: /media/press-release/government-seeks-views-on-singapore-s-climate-action-plans
 ---
 
-### GOVERNMENT SEEKS VIEWS ON SINGAPORE’S CLIMATE ACTION PLANS
 
 The National Climate Change Secretariat (NCCS), an agency under the Prime Minister’s Office, has launched a public consultation exercise to seek views from key stakeholders as well as members of the public on measures that can be taken to further enhance Singapore’s plan to reduce carbon emissions and promote green growth beyond 2020.
 

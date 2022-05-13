@@ -5,8 +5,6 @@ subtitle: 10 Jan 2012
 permalink: /media/press-release/public-invited-to-suggest-ideas-on-travel-demand-management
 ---
 
-### PUBLIC INVITED TO SUGGEST IDEAS ON TRAVEL DEMAND MANAGEMENT
-
 * Enhanced on 10 October 2011, SMRT Early Travel Discount scheme encourages travel on
 SMRT's rail lines during morning off-peak hours. Commuters are given a discount of up to 30-
 cents off their fares if they start their journeys from the North-South East-West Lines and

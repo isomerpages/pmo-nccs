@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Statement by Dr Amy Khor, Senior Minister of State for Health, at the 67th World Health Assembly on 20 May 2014, Geneva, Switzerland
+title: Statement by Senior Minister of State for Health Dr Amy Khor at the 67th World Health Assembly Geneva, Switzerland
 subtitle: 20 May 2014
 permalink: /media/speeches/statement-by-dr-amy-khor-senior-minister-of-state-for-health-at-the-67th-world-health-assembly-on-20-may-2014-geneva-switzerland
 ---
 
-### STATEMENT BY DR AMY KHOR, SENIOR MINISTER OF STATE FOR HEALTH, AT THE 67TH WORLD HEALTH ASSEMBLY ON 20 MAY 2014, GENEVA, SWITZERLAND
-
-Mr. President, Madame Director General,
-
-Excellencies, Ministers for Health, Ladies and Gentlemen,
+Mr. President, 
+<br><br>
+Madame Director General,
+<br><br>
+Excellencies, 
+<br><br>
+Ministers for Health, 
+<br><br>
+Ladies and Gentlemen,
 
 There has been for some time now, a strong and rapidly growing global and scientific consensus, that the warming of the climate system is a fact, and is affecting human health. Madame Director General even went as far to describe, and I quote, “climate change as the defining issue for public health during this century”.¹ We concur. Climate change is real and will affect some of the most fundamental determinants of health, namely water, air and food.
 

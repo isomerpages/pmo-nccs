@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Minister Masagos Zulkifli to attend the Informal Ministerial Meeting on
-  Climate Change, Marrakesh, Morocco, 18 October 2016
+title: Minister for the Environment and Water Resources Masagos Zulkifli to Attend the Informal Ministerial Meeting on Climate Change, Marrakesh, Morocco, 18 October 2016
 subtitle: 17 Oct 2016
 permalink: /media/press-release/minister-masagos-zulkifli-to-attend-the-informal-ministerial-meeting-on-climate-change-marrakesh-morocco-18-october-2016
 ---
-### MINISTER MASAGOS ZULKIFLI TO ATTEND THE INFORMAL MINISTERIAL MEETING ON CLIMATE CHANGE, MARRAKESH, MOROCCO, 18 OCTOBER 2016
-
-**17 October 2016** - Minister for the Environment and Water Resources Mr Masagos Zulkifli will be attending the Informal Ministerial Meeting on Climate Change (Pre-COP) on 18 October 2016 in Marrakesh. This meeting will serve as the preparatory meeting for the 22nd Conference of the Parties to the United Nations Framework Convention on Climate Change (COP-22) and related meetings<sup>[1]</sup> scheduled to take place also in Marrakesh in November. The implementation of the Paris Agreement that was adopted at the COP-21 in Paris in December 2015 will be a key focus of the meeting.
+Minister for the Environment and Water Resources Masagos Zulkifli will be attending the Informal Ministerial Meeting on Climate Change (Pre-COP) on 18 October 2016 in Marrakesh. This meeting will serve as the preparatory meeting for the 22<sup>nd</sup> Conference of the Parties to the United Nations Framework Convention on Climate Change (COP-22) and related meetings<sup>[1]</sup> scheduled to take place also in Marrakesh in November. The implementation of the Paris Agreement that was adopted at the COP-21 in Paris in December 2015 will be a key focus of the meeting.
 
 Singapore has been invited to participate in this meeting by the French President of COP-21 and CMP-11 Ségolène Royal and the Moroccan President-Designate of COP-22, CMP-12 and CMA-1 Salaheddine Mezouar.
 

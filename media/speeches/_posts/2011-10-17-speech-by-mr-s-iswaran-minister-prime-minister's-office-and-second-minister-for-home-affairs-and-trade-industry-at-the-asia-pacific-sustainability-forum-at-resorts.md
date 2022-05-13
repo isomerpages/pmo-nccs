@@ -1,21 +1,24 @@
 ---
 layout: post
-title: Speech by Mr S Iswaran, Minister, Prime Minister's Office and Second Minister for Home Affairs and Trade & Industry at the Asia Pacific Sustainability Forum at Resorts World Sentosa, 17 October 2011
+title: Speech by Minister, Prime Minister's Office and Second Minister for Home Affairs and Trade & Industry S Iswaran at the Asia Pacific Sustainability Forum at Resorts World Sentosa
 subtitle: 17 Oct 2011
 permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-asia-pacific-sustainability-forum-at-resorts
 ---
 
-### SPEECH BY MR S ISWARAN, MINISTER, PRIME MINISTER'S OFFICE AND SECOND MINISTER FOR HOME AFFAIRS AND TRADE & INDUSTRY AT THE ASIA PACIFIC SUSTAINABILITY FORUM AT RESORTS WORLD SENTOSA, 17 OCTOBER 2011
+Mr Ho Meng Kit, 
+<br>Chief Executive Officer, SBF
 
-Mr Ho Meng Kit, Chief Executive Officer, SBF
+Ms Mariana Lubanski, 
+<br>Business Development Director, Copenhagen Capacity
 
-Ms Mariana Lubanski, Business Development Director, Copenhagen Capacity
+Mr Constant Van Aerschot, 
+<br>Special Advisor to Singapore, Green Building Initiative, World Business Council for Sustainable Development
 
-Mr Constant Van Aerschot, Special Advisor to Singapore, Green Building Initiative, World Business Council for Sustainable Development
+Mr Masayuki Shimura, 
+<br>Director and Head of Asia Pacific, Sumitomo Mitsui Banking Corporation
 
-Mr Masayuki Shimura, Director and Head of Asia Pacific, Sumitomo Mitsui Banking Corporation
-
-Distinguished Guests, Ladies and Gentlemen
+Distinguished Guests, 
+<br><br>Ladies and Gentlemen
 
 **Introduction**
 

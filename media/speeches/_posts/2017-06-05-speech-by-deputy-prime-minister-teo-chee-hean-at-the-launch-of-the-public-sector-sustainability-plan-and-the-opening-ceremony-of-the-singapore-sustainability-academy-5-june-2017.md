@@ -5,13 +5,17 @@ subtitle: 5 Jun 2017
 permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-launch-of-the-public-sector-sustainability-plan-and-the-opening-ceremony-of-the-singapore-sustainability-academy-5-june-2017
 ---
 
-### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE LAUNCH OF THE PUBLIC SECTOR SUSTAINABILITY PLAN AND THE OPENING CEREMONY OF THE SINGAPORE SUSTAINABILITY ACADEMY, 5 JUNE 2017
-
 ***Enhancing Public and Private Sector Sustainability Efforts for a more Sustainable Singapore***
 
-Mr Masagos Zulkifli, Minister for the Environment and Water Resources,  
-Mr Edwin Khew, Chairman, Sustainable Energy Association of Singapore,  
-Mr Sherman Kwek, Deputy CEO, City Developments Limited,  
+Mr Masagos Zulkifli, 
+<br>Minister for the Environment and Water Resources  
+<br>
+Mr Edwin Khew, 
+<br>Chairman, Sustainable Energy Association of Singapore
+<br><br>
+Mr Sherman Kwek, 
+<br>Deputy CEO, City Developments Limited
+<br><br>
 Ladies and Gentlemen,
 
 Good Morning.

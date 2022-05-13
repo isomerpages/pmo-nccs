@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Speech by DPM Teo Chee Hean at the National Climate Change Competition Award Ceremony on 12 November 2013
+title: Speech by Deputy Prime Minister Teo Chee Hean at the National Climate Change Competition Award Ceremony
 subtitle: 12 Nov 2013
 permalink: /media/speeches/speech-by-dpm-teo-chee-hean-at-the-national-climate-change-competition-award-ceremony-on-12-november-2013
 ---
 
-### SPEECH BY DPM TEO CHEE HEAN AT THE NATIONAL CLIMATE CHANGE COMPETITION AWARD CEREMONY ON 12 NOVEMBER 2013
 
-Distinguished guests  
-Teachers and students  
-Ladies and gentlemen
+Distinguished Guests 
+<br><br>
+Teachers and Students 
+<br><br>
+Ladies and Gentlemen
 
 Good morning. I am happy to join all of you today at the award ceremony for the National Climate Change Competition 2013.
 

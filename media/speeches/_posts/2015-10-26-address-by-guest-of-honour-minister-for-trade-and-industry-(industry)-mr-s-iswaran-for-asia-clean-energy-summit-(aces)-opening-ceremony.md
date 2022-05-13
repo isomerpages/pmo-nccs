@@ -5,9 +5,9 @@ subtitle: 26 Oct 2015
 permalink: /media/speeches/address-by-guest-of-honour-minister-for-trade-and-industry-(industry)-mr-s-iswaran-for-asia-clean-energy-summit-(aces)-opening-ceremony
 ---
 
-### ADDRESS BY GUEST-OF-HONOUR, MINISTER FOR TRADE AND INDUSTRY (INDUSTRY), MR S ISWARAN, FOR ASIA CLEAN ENERGY SUMMIT (ACES) OPENING CEREMONY
 
-Mr Edwin Khew, Chairman, Sustainable Energy Association of Singapore,
+Mr Edwin Khew, 
+<br>Chairman, Sustainable Energy Association of Singapore
 
 Distinguished Guests,
 

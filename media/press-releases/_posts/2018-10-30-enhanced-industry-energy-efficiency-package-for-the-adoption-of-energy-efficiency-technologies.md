@@ -5,8 +5,6 @@ subtitle: 30 Oct 2019
 permalink: /media/press-release/enhanced-industry-energy-efficiency-package-for-the-adoption-of-energy-efficiency-technologies
 ---
 
-### ENHANCED INDUSTRY ENERGY EFFICIENCY PACKAGE FOR THE ADOPTION OF ENERGY EFFICIENCY TECHNOLOGIES
-
 The Enhanced Industry Energy Efficiency Package was announced by Minister for Trade and Industry Chan Chun Sing at the official opening of the Singapore International Energy Week (SIEW)on 30 October 2018. 
 
 The Energy Market Authority (EMA), Singapore Economic Development Board (EDB), and the National Environment Agency (NEA) will each be rolling out initiatives to give stronger support to companies in their drive to become more energy efficient and reduce carbon emissions. In an increasingly carbon-constrained future, improving energy efficiency will not only help companies to reduce costs, it will also improve their competitiveness both locally and internationally. At the same time, our companies will also stand to benefit from smaller carbon emissions and hence lower carbon tax liability. Singapore will continue to play our part as a responsible member of the international community in addressing climate change, and develop Singapore as a liveable and sustainable city for the future. 

@@ -1,20 +1,19 @@
 ---
 layout: post
-title: Speech by Mr S Iswaran, Minister in the Prime Minister's Office and Second Minister for Home Affairs and Trade and Industry, at the Opening Ceremony of the Asia Clean Energy Summit
+title: Speech by Minister in the Prime Minister's Office and Second Minister for Home Affairs and Trade and Industry S Iswaran at the Opening Ceremony of the Asia Clean Energy Summit
 subtitle: 28 Oct 2014
 permalink: /media/speeches/speech-by-mr-s-iswaran-minister-in-the-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-and-industry-at-the-opening-ceremony-of-the-asia-clean-energy-summit
 ---
 
-### SPEECH BY MR S ISWARAN, MINISTER IN THE PRIME MINISTER'S OFFICE AND SECOND MINISTER FOR HOME AFFAIRS AND TRADE AND INDUSTRY, AT THE OPENING CEREMONY OF THE ASIA CLEAN ENERGY SUMMIT
 
 Mr Edwin Khew,  
-Chairman, Sustainable Energy Association of Singapore,
+Chairman, Sustainable Energy Association of Singapore
 
-Members of the Industry
+Members of the Industry,
 
 Distinguished Guests,
 
-Ladies and gentlemen,
+Ladies and Gentlemen,
 
 I am pleased to join you today for the inaugural edition of the Asia Clean Energy Summit (ACES), a key partner event of the Singapore International Energy Week. With this new beginning, I wish ACES every success in its aim to bring together the industry’s most creative and influential executives, innovators and thought leaders in policy, business and research, to discuss and develop practical solutions that can make a difference to the clean energy future of Asia.
 

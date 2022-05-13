@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Submission of Singapore’s Enhanced Nationally Determined Contribution and Long-Term Low-Emissions Development Strategy to the United Nations Framework Convention on Climate Change"
+title:  "Singapore's Enhanced Nationally Determined Contribution and Long-Term Low-Emissions Development Strategy"
 date:   2020-04-01
 permalink: "/media/press-release/submission-of-singapores-enhanced-nationally-determined-contribution-and-long-term-low-emissions-development-strategy"
 ---

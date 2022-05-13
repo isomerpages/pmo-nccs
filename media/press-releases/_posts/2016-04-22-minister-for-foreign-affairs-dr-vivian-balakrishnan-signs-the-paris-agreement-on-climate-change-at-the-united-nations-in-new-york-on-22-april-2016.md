@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Minister for Foreign Affairs Dr Vivian Balakrishnan signs the Paris Agreement on Climate Change at the United Nations in New York on 22 April 2016
+title: Minister for Foreign Affairs Dr Vivian Balakrishnan Signs the Paris Agreement on Climate Change at the United Nations in New York on 22 April 2016
 subtitle: 22 Apr 2016
 permalink: /media/press-release/minister-for-foreign-affairs-dr-vivian-balakrishnan-signs-the-paris-agreement-on-climate-change-at-the-united-nations-in-new-york-on-22-april-2016
 ---
 
-### MINISTER FOR FOREIGN AFFAIRS DR VIVIAN BALAKRISHNAN SIGNS THE PARIS AGREEMENT ON CLIMATE CHANGE AT THE UNITED NATIONS IN NEW YORK ON 22 APRIL 2016
 
 Minister for Foreign Affairs Dr Vivian Balakrishnan represented Singapore at the high-level signature ceremony of the Paris Agreement on climate change, organised by United Nations Secretary-General Ban Ki-moon in New York on 22 April 2016.   Over 170 Parties to the United Nations Framework Convention on Climate Change signed the historic Agreement which was concluded at the 21st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP-21) in Paris on 12 December 2015.
 

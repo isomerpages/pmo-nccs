@@ -5,7 +5,6 @@ subtitle: 02 Apr 2015
 permalink: /media/press-release/national-climate-change-competition-2015
 ---
 
-### NATIONAL CLIMATE CHANGE COMPETITION 2015
 
 *Short films to rally support for Climate Change action*
 

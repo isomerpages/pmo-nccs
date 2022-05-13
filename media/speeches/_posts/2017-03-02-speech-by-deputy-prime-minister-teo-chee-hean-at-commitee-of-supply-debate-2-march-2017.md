@@ -5,7 +5,6 @@ subtitle: 2 Mar 2017
 permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-commitee-of-supply-debate-2-march-2017
 ---
 
-### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT COMMITEE OF SUPPLY DEBATE, 2 MARCH 2017
 **A Well-Coordinated, Technology-Enabled, and Future-Ready Public Service**
 
 Thank you Madam Chairperson.

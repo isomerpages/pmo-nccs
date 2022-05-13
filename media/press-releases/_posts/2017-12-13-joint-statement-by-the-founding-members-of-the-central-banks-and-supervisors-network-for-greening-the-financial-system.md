@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Joint statement by the Founding Members of the Central Banks and Supervisors Network for Greening the Financial System
+title: Joint Statement by the Founding Members of the Central Banks and Supervisors Network for Greening the Financial System
 subtitle: 13 Dec 2017
 permalink: /media/press-release/joint-statement-by-the-founding-members-of-the-central-banks-and-supervisors-network-for-greening-the-financial-system
 ---
-
-### JOINT STATEMENT BY THE FOUNDING MEMBERS OF THE CENTRAL BANKS AND SUPERVISORS NETWORK FOR GREENING THE FINANCIAL SYSTEM
-
-**13 December 2017** - Financing the transition to a green and low carbon economy consistent with the ‘well below 2°celsius’ goal set out in the Paris agreement and promoting environmental sustainable growth are among the major challenges of our time. In the process of responding to environmental and climate challenges, there are both opportunities and vulnerabilities for financial institutions and the financial system as a whole.
+ 
+Financing the transition to a green and low carbon economy consistent with the ‘well below 2°celsius’ goal set out in the Paris agreement and promoting environmental sustainable growth are among the major challenges of our time. In the process of responding to environmental and climate challenges, there are both opportunities and vulnerabilities for financial institutions and the financial system as a whole.
 
 Post Paris, official sector and private-led initiatives have accelerated the awareness of climate related financial risks and the scaling up of green financing. The G20 Green Finance Study Group and the FSB Task Force on Climate-Related Disclosures also recommended steps towards encouraging financial institutions to conduct environmental risk analysis and to improve environment- and climate-related information disclosure.  
 

@@ -5,8 +5,6 @@ subtitle: 01 Apr 2016
 permalink: /media/press-release/national-climate-change-competition-2016-envisioning-singapore-as-a-climate-friendly-city-in-year-2030
 ---
 
-### NATIONAL CLIMATE CHANGE COMPETITION 2016: ENVISIONING SINGAPORE AS A CLIMATE-FRIENDLY CITY IN YEAR 2030
-
 How will a low-carbon and climate-resilient Singapore look like in 2030? In what ways will future innovations allow Singapore to grow and prosper without increasing our carbon footprint? What can the youths of today do to turn this vision into reality? These are questions that participants in the National Climate Change Competition (NCCC) 2016 will need to answer using their imagination and creative video making skills.
 
 Organised by the National Climate Change Secretariat (NCCS), the NCCC is a video competition where students are invited to produce a short video based on a different climate change related theme each year. The theme of this year’s competition, “Singapore 2030: A Climate-Friendly City”, draws on the recently concluded global climate agreement.

@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Speech by Mr Choi Shing Kwok, Permanent Secretary, Ministry of the Environment and Water Resources, at the Green Growth & Business Forum, 4 June 2014
+title: Speech by Permanent Secretary, Ministry of the Environment and Water Resources, Choi Shing Kwok at the Green Growth & Business Forum
 subtitle: 4 Jun 2014
 permalink: /media/speeches/speech-by-mr-choi-shing-kwok-permanent-secretary-ministry-of-the-environment-and-water-resources-at-the-green-growth-business-forum-4-june-2014
 ---
 
-### SPEECH BY MR CHOI SHING KWOK, PERMANENT SECRETARY, MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES, AT THE GREEN GROWTH & BUSINESS FORUM, 4 JUNE 2014
-
 *“TOWARDS 2050, CHALLENGES AND OPPORTUNITIES”*
 
-HE Antony Phillipson, British High Commissioner to Singapore  
-Dr Ryutaro Yatsu, Vice-Minister, Ministry of Environment, Japan  
+HE Antony Phillipson, 
+<br>British High Commissioner to Singapore  
+<br>
+Dr Ryutaro Yatsu, 
+<br>Vice-Minister, Ministry of Environment, Japan  
+<br>
 Ladies and Gentlemen
 
 **Introduction**

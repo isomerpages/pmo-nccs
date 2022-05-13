@@ -1,13 +1,11 @@
 ---
 layout: post
-title: IPCC's latest findings suggest future increases in global sea-level rise and more extreme rainfall in the region
+title: IPCC's Latest Findings Suggest Future Increases in Global Sea-Level Rise and More Extreme Rainfall in the Region
 subtitle: 28 Sep 2013
 permalink: /media/press-release/ipccs-latest-findings-suggest-future-increases-in-global-sea-level-rise-and-more-extreme-rainfall-in-the-region
 ---
 
-### IPCC'S LATEST FINDINGS SUGGEST FUTURE INCREASES IN GLOBAL SEA-LEVEL RISE AND MORE EXTREME RAINFALL IN THE REGION
-
-**Singapore, 28 September 2013** – Climate science findings released in Stockholm on 27 September by the Inter-governmental Panel on Climate Change (IPCC) suggest significant changes in rainfall patterns and increased global sea-level rise by 2100.
+Climate science findings released in Stockholm on 27 September by the Inter-governmental Panel on Climate Change (IPCC) suggest significant changes in rainfall patterns and increased global sea-level rise by 2100.
 
 The findings were released as part of IPCC's 5th Assessment Report (AR5) 'Summary for Policymakers' (SPM) by Working Group I (WGI): The Physical Science Basis (refer to Annex A for details). The SPM contains updated interpretations of past climate as well as projections of the future.
 

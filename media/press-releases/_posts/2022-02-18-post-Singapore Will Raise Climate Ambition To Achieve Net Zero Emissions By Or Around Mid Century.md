@@ -7,8 +7,6 @@ description: ""
 ---
 STRONGER CARBON PRICE SIGNAL NECESSARY TO ENABLE SINGAPORE'S TRANSITION TO A LOW-CARBON FUTURE AND ACHIEVEMENT OF NET ZERO EMISSIONS TARGET BY OR AROUND MID-CENTURY
 
-18 February 2022
-
 As announced by Minister for Finance Mr Lawrence Wong at Budget 2022, Singapore will raise our climate ambition to achieve net zero emissions by or around mid-century. To enable the transition to a low-carbon future, we will raise the carbon tax levels progressively from 2024. This will support our climate ambition and secure a greener and more sustainable living environment for future generations, while being economically competitive in a low-carbon future. 
 
 The Government does not expect to derive additional revenue from this carbon tax increase, in this decade. The revenue will be used to support decarbonisation efforts and the transition to a green economy, and cushion the impact on businesses and households.

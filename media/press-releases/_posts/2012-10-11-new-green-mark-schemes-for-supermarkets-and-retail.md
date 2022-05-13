@@ -1,13 +1,11 @@
 ---
 layout: post
-title: New Green Mark schemes for supermarkets and retail
+title: New Green Mark Schemes for Supermarkets and Retail
 subtitle: 11 Oct 2012
 permalink: /media/press-release/new-green-mark-schemes-for-supermarkets-and-retail
 ---
 
-### NEW GREEN MARK SCHEMES FOR SUPERMARKETS AND RETAIL
-
-**Singapore, 11 October 2012** - Four green supermarkets and three green retail outlets have been recognised under the BCA Green Mark for Supermarket and BCA Green Mark for Retail schemes respectively. Both schemes were announced by Mr Tan Chuan-Jin, Acting Minister for Manpower and Senior Minister of State for National Development at BCA's new series of green building exhibitions debuting at Lot 1 Shoppers' Mall (Choa Chu Kang).
+Four green supermarkets and three green retail outlets have been recognised under the BCA Green Mark for Supermarket and BCA Green Mark for Retail schemes respectively. Both schemes were announced by Mr Tan Chuan-Jin, Acting Minister for Manpower and Senior Minister of State for National Development at BCA's new series of green building exhibitions debuting at Lot 1 Shoppers' Mall (Choa Chu Kang).
 
 Under the BCA Green Mark assessment system, projects are rated on five key criteria such as Energy Efficiency, Water Efficiency, Environmental Protection, Indoor Environmental Quality and other Green Features. Points are awarded for incorporating environmentally-friendly features which are better than normal practice. They are then awarded the Platinum, GoldPLUS, Gold or Certified rating based on the points scored under the Green Mark criteria.
 

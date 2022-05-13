@@ -1,11 +1,11 @@
 ---
 layout: post
-title: UK-Singapore joint statement on climate change and low carbon business cooperation
+title: UK-Singapore Joint Statement on Climate Change and Low Carbon Business Cooperation
 subtitle: 24 Oct 2014
 permalink: /media/press-release/uk-singapore-joint-statement-on-climate-change-and-low-carbon-business-cooperation
 ---
 
-### UK-SINGAPORE JOINT STATEMENT ON CLIMATE CHANGE AND LOW CARBON BUSINESS COOPERATION
+### JOINT STATEMENT BY UK AND SINGAPORE  
 
 The following statement was released by the Governments of the United Kingdom of Great Britain and Northern Ireland and the Republic of Singapore on the occasion of the visit of Dr Tony Tan Keng Yam, President of the Republic of Singapore, to the Royal Botanic Gardens, Kew on 24 October 2014.
 

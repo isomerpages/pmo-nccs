@@ -5,7 +5,6 @@ subtitle: 28 Sep 2015
 permalink: /media/speeches/national-statement-by-minister-for-the-environment-and-water-resources-of-the-republic-of-singapore-dr-vivian-balakrishnan-at-the-united-nations-sustainable-development-summit
 ---
 
-### NATIONAL STATEMENT BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES OF THE REPUBLIC OF SINGAPORE, DR VIVIAN BALAKRISHNAN, AT THE UNITED NATIONS SUSTAINABLE DEVELOPMENT SUMMIT
 
 Excellencies,
 

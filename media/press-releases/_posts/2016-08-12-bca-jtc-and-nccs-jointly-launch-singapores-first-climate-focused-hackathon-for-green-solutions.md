@@ -1,17 +1,16 @@
 ---
 layout: post
-title: BCA, JTC and NCCS jointly launch Singapore's first climate-focused
-  hackathon for green solutions
+title: BCA, JTC and NCCS Jointly Launch Singapore's First Climate-Focused Hackathon for Green Solutions
 subtitle: 12 Aug 2016
 permalink: /media/press-release/bca-jtc-and-nccs-jointly-launch-singapores-first-climate-focused-hackathon-for-green-solutions
 ---
-### BCA, JTC AND NCCS JOINTLY LAUNCH SINGAPORE'S FIRST CLIMATE-FOCUSED HACKATHON FOR GREEN SOLUTIONS
+### JOINT PRESS RELEASE BY BCA, JTC AND NCCS
 
 *Funding and test-bed opportunities are available for teams with promising solutions to further develop their ideas*
 
 *The hackathon attracted a wide range of participants with the youngest at 13 years old and the oldest at 63, among which about half of them are students.*
 
-**12 August 2016** - The Building and Construction Authority (BCA), JTC and National Climate Change Secretariat (NCCS), Strategy Group, Prime Minister's Office are crowd-sourcing innovative and cost-effective green building solutions to mitigate climate change at Singapore's first climate-focused hackathon, the Climate Innovation Challenge 2016 (CIC). Held at JTC LaunchPad @ one-north over a period of three days from 12 to 14 August 2016, some 140 entrepreneurs, designers, makers and hackers will brainstorm and propose new ideas that will help enhance innovation and sustainability in non-residential buildings and outdoor spaces. The winning teams stand to win over $20,000 in cash prizes.
+The Building and Construction Authority (BCA), JTC and National Climate Change Secretariat (NCCS), Strategy Group, Prime Minister's Office are crowd-sourcing innovative and cost-effective green building solutions to mitigate climate change at Singapore's first climate-focused hackathon, the Climate Innovation Challenge 2016 (CIC). Held at JTC LaunchPad @ one-north over a period of three days from 12 to 14 August 2016, some 140 entrepreneurs, designers, makers and hackers will brainstorm and propose new ideas that will help enhance innovation and sustainability in non-residential buildings and outdoor spaces. The winning teams stand to win over $20,000 in cash prizes.
 
 This hackathon is in line with the national agenda to actively promote and drive the green building movement, and to achieve the nation-wide target of greening 80 per cent of all buildings in Singapore by 2030. The greening of Singapore's buildings is a key component of the nation's Climate Action Plan, which amongst others, seeks to reduce its emissions intensity<sup>[1]</sup> by 36 per cent from 2005 levels by 2030.
 

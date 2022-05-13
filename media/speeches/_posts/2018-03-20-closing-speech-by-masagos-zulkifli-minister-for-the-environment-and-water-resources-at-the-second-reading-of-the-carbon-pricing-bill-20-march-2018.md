@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Closing Speech by Masagos Zulkifli, Minister for the Environment and
-  Water Resources, at the Second Reading of the Carbon Pricing Bill, 20 March
-  2018
+  Water Resources, at the Second Reading of the Carbon Pricing Bill
 subtitle: 20 Mar 2018
 permalink: /media/speeches/closing-speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-second-reading-of-the-carbon-pricing-bill-20-march-2018
 ---
-### CLOSING SPEECH BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES, AT THE SECOND READING OF THE CARBON PRICING BILL, 20 MARCH 2018
-
 Mr. Deputy Speaker, I would like to thank Members for their support and comments on the Carbon Pricing Bill.
 
 Last week, The Business Times published an article entitled “A powerful, effective strategy to combat climate change” which featured the views of top executives of companies and professional associations on the carbon tax.
@@ -145,4 +142,4 @@ Mr. Deputy Speaker, the carbon tax has been deliberated carefully and extensivel
 The Bill is an important step forward – not only in encouraging industry to do their part for the climate, but also in readying our economy and strengthening our competitiveness as the world transitions to a low-carbon future. Companies ignore these realities at their peril. Therefore, I call on Members of the House to give their support to this Bill. Thank you.
 
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180320001.pdf)
+*Source: Ministry of the Environment and Water Resources*

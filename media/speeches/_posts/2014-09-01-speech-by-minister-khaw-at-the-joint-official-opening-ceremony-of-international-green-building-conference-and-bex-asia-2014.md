@@ -5,8 +5,6 @@ subtitle: 1 Sep 2014
 permalink: /media/speeches/speech-by-minister-khaw-at-the-joint-official-opening-ceremony-of-international-green-building-conference-and-bex-asia-2014
 ---
 
-### SPEECH BY MINISTER KHAW AT THE JOINT OFFICIAL OPENING CEREMONY OF INTERNATIONAL GREEN BUILDING CONFERENCE AND BEX ASIA 2014
-
 This International Green Building Conference and BEX Asia 2014 offer a useful platform for experts like yourselves and practitioners around this region to meet, sharing their experiences, solutions and best practices against the twin global challenges of climate change and further intensification of urbanisation. These challenges are very complex issues, without simple solutions, and they require all of us in the global community to work together to find practical answers.
 
 This morning, I will just focus on the subject on green buildings. What are green buildings and why are they important?

@@ -4,15 +4,17 @@ title: Speech by Senior Minister of State, Ministry of Information, Communicatio
 subtitle: 14 Sep 2011
 permalink: /media/speeches/speech-by-ms-grace-fu-senior-minister-of-state-ministry-of-information-communications-and-the-arts-ministry-of-the-environment-and-water-resources-at-the-official
 ---
-### SPEECH BY SENIOR MINISTER OF STATE, MINISTRY OF INFORMATION, COMMUNICATIONS AND THE ARTS & MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES GRACE FU AT THE OFFICIAL OPENING OF THE SINGAPORE CENTRE ON ENVIRONMENTAL LIFE SCIENCES ENGINEERING
 
-Mr Peter Ho, Governing Board Chairman, Singapore Centre on Environmental Life Sciences Engineering,
+Mr Peter Ho, 
+<br>Governing Board Chairman, Singapore Centre on Environmental Life Sciences Engineering
 
-Professor Freddy Boey, Deputy President and Provost of Nanyang Technological University,
+Professor Freddy Boey, 
+<br>Deputy President and Provost of Nanyang Technological University
 
-Professor Barry Halliwell, Deputy President of National University of Singapore,
+Professor Barry Halliwell, 
+<br>Deputy President of National University of Singapore
 
-Ladies and gentlemen,
+Ladies and Gentlemen,
 
 **Introduction**
 

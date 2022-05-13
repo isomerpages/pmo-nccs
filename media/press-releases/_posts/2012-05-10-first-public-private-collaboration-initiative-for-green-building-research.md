@@ -1,13 +1,11 @@
 ---
 layout: post
-title: First public-private collaboration initiative for green building research
+title: First Public-Private Collaboration Initiative for Green Building Research
 subtitle: 10 May 2012
 permalink: /media/press-release/first-public-private-collaboration-initiative-for-green-building-research
 ---
 
-### FIRST PUBLIC-PRIVATE COLLABORATION INITIATIVE FOR GREEN BUILDING RESEARCH
-
-**Singapore, 10 May 2012** - The Agency for Science, Technology and Research (A*STAR), Building and Construction Authority (BCA) and the Ministry of National Development (MND) have jointly awarded funding for nine projects in a pilot green building grant call to encourage research and greater adoption of green building technologies. Launched in April 2011, the grant call is the first of its kind structured to foster Public-Private Collaboration (PPC) in green building research.
+he Agency for Science, Technology and Research (A*STAR), Building and Construction Authority (BCA) and the Ministry of National Development (MND) have jointly awarded funding for nine projects in a pilot green building grant call to encourage research and greater adoption of green building technologies. Launched in April 2011, the grant call is the first of its kind structured to foster Public-Private Collaboration (PPC) in green building research.
 
 The green building joint grant call fosters collaboration between public research institutions and companies through joint R&D projects. Under the PPC arrangement, public research institutions partner at least one related industry organisation as co-investigator. This creates synergies as public research institutions are able to tap on the industry's experience and network, while companies leverage on the research expertise and cutting edge infrastructure within public research institutes, to develop deployable green building technologies.
 

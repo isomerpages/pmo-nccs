@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Speech by Minister of State Lee Yi Shyan at the AVA Food Safety Awards Night 2012 on 13 July 2012
+title: Speech by Minister of State Lee Yi Shyan at the AVA Food Safety Awards Night 2012 
 subtitle: 13 Jul 2012
 permalink: /media/speeches/speech-by-minister-of-state-lee-yi-shyan-at-the-ava-food-safety-awards-night-2012-on-13-july-2012
 ---
-
-### SPEECH BY MINISTER OF STATE LEE YI SHYAN AT THE AVA FOOD SAFETY AWARDS NIGHT 2012 ON 13 JULY 2012
 
 Mr Koh Soo Keong  
 Chairman, Agri-Food & Veterinary Authority
@@ -13,9 +11,9 @@ Chairman, Agri-Food & Veterinary Authority
 Ms Tan Poh Hong  
 CEO, AVA
 
-Distinguished guests
+Distinguished Guests
 
-Ladies and gentlemen, 
+Ladies and Gentlemen, 
 
 Good evening. I am delighted to join you tonight to celebrate the achievements of our local food industry in food safety excellence. 
 

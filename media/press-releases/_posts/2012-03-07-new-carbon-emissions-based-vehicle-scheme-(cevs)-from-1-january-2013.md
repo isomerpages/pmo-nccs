@@ -5,11 +5,9 @@ subtitle: 7 Mar 2012
 permalink: /media/press-release/new-carbon-emissions-based-vehicle-scheme-(cevs)-from-1-january-2013
 ---
 
-### NEW CARBON EMISSIONS-BASED VEHICLE SCHEME (CEVS) FROM 1 JANUARY 2013
-
 *New scheme incentivises buyers to shift to low emission models*
 
-**Singapore, 7 March 2012** - As announced by the Minister for Finance during the 2012 Budget Statement and the Minister for Transport during the Committee of Supply 2012, a new Carbon Emissions-Based Vehicle Scheme (CEVS) will be implemented in 2013. The CEVS will apply to all new cars, taxis and newly imported used cars registered with effect from 1 January 2013.
+As announced by the Minister for Finance during the 2012 Budget Statement and the Minister for Transport during the Committee of Supply 2012, a new Carbon Emissions-Based Vehicle Scheme (CEVS) will be implemented in 2013. The CEVS will apply to all new cars, taxis and newly imported used cars registered with effect from 1 January 2013.
 
 The CEVS adopts a broader outcome-based approach that takes into consideration vehicles’ carbon emissions and fuel efficiency to encourage consumers to shift to low emission models. This new scheme will replace the existing Green Vehicle Rebate (GVR)<sup>1</sup> scheme for cars and taxis based on specific engine types when the GVR scheme expires on 31 December 2012.
 

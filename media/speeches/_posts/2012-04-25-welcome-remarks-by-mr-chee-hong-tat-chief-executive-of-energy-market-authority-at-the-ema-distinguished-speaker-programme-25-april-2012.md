@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Welcome Remarks by Mr Chee Hong Tat, Chief Executive of Energy Market Authority at the EMA Distinguished Speaker Programme, 25 April 2012
+title: Welcome Remarks by Chief Executive of Energy Market Authority Chee Hong Tat at the EMA Distinguished Speaker Programme
 subtitle: 25 Apr 2012
 permalink: /media/speeches/welcome-remarks-by-mr-chee-hong-tat-chief-executive-of-energy-market-authority-at-the-ema-distinguished-speaker-programme-25-april-2012
 ---
 
-### WELCOME REMARKS BY MR CHEE HONG TAT, CHIEF EXECUTIVE OF ENERGY MARKET AUTHORITY AT THE EMA DISTINGUISHED SPEAKER PROGRAMME, 25 APRIL 2012
+Dr Noeleen Heyzer, 
+<br>Under-Secretary-General of the United Nations and Executive Secretary of the Economic and Social Commission for Asia and the Pacific,  
 
-Dr Noeleen Heyzer, Under-Secretary-General of the United Nations and Executive Secretary of the Economic and Social Commission for Asia and the Pacific,  
 Excellencies  
-Distinguished guests  
-Ladies and gentlemen
+<br>
+Distinguished Guests  
+<br>
+Ladies and Gentlemen
 
 Thank you for joining us at this morning’s lecture by Dr Noeleen Heyzer. Dr Heyzer will be speaking to us on “Rio+20: Implications for Energy Access and Sustainable Development in Asia”. This is a timely topic given that the United Nations has designated 2012 as the “International Year of Sustainable Energy for All”. In June, world leaders will gather in Rio de Janeiro at the Rio+20 United Nations Conference on Sustainable Development to explore ways that governments, the private sector and global institutions can promote sustainable development. The United Nations has also set out three intertwined energy objectives for the world to achieve by 2030 - (i) ensuring universal access to modern energy services, (ii) doubling the rate of improvement in energy efficiency, and (iii) doubling the share of renewable energy in the global energy mix. 
 

@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Keynote Address by Masagos Zulkifli, Minister for the Environment and
-  Water Resources at the Young NTUC Green Jobs Symposium and Networking 2017, 8
-  November 2017
+title: Keynote Address by Minister for the Environment and Water Resources
+  Masagos Zulkifli at the Young NTUC Green Jobs Symposium and Networking 2017
 subtitle: 8 Nov 2017
 permalink: /media/speeches/keynote-address-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-young-ntuc-green-jobs-symposium-and-networking-2017-8-november-2017
 ---
-### KEYNOTE ADDRESS BY MASAGOS ZULKIFLI, MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AT THE YOUNG NTUC GREEN JOBS SYMPOSIUM AND NETWORKING 2017, 8 NOVEMBER 2017
-
 Mr Desmond Choo,   
 Executive Secretary of Young NTUC and MP of Tampines GRC
 
@@ -51,4 +48,4 @@ So I hope all of you will find a way into this ITM, or the 23 others that we wil
 
 Thank you.
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20171108001.pdf)
+*Source: Ministry of the Environment and Water Resources*

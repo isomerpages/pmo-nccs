@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Speech by SMS Desmond Lee at the Launch of the NUS-CDL Smart Green Home & NUS-CDL Tropical Technologies (T2) Laboratory, 22 March 2016
+title: Speech by Senior Minister of State Desmond Lee at the Launch of the NUS-CDL Smart Green Home & NUS-CDL Tropical Technologies (T2) Laboratory
 subtitle: 22 Mar 2016
 permalink: /media/speeches/speech-by-sms-desmond-lee-at-the-launch-of-the-nus-cdl-smart-green-home-nus-cdl-tropical-technologies-(t2)-laboratory-22-march-2016
 ---
 
-### SPEECH BY SMS DESMOND LEE AT THE LAUNCH OF THE NUS-CDL SMART GREEN HOME & NUS-CDL TROPICAL TECHNOLOGIES (T2) LABORATORY, 22 MARCH 2016
 
 Good afternoon. Thank you for inviting me to this launch, which sees a marvellous cooperation between academia, industry and government. 
 

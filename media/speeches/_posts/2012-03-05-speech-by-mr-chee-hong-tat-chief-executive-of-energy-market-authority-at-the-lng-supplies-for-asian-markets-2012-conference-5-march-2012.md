@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Speech by Mr Chee Hong Tat, Chief Executive of Energy Market Authority at the LNG Supplies for Asian Markets 2012 conference, 5 March 2012
+title: Speech by Chief Executive of Energy Market Authority Chee Hong Tat at the LNG Supplies for Asian Markets 2012 conference
 subtitle: 5 Mar 2012
 permalink: /media/speeches/speech-by-mr-chee-hong-tat-chief-executive-of-energy-market-authority-at-the-lng-supplies-for-asian-markets-2012-conference-5-march-2012
 ---
 
-### SPEECH BY MR CHEE HONG TAT, CHIEF EXECUTIVE OF ENERGY MARKET AUTHORITY AT THE LNG SUPPLIES FOR ASIAN MARKETS 2012 CONFERENCE, 5 MARCH 2012
-
 Co-Chairmen, Dr Fereidun Fesharaki and Mr Andy Flower
 
-Distinguished guests
+Distinguished Guests
 
 Ladies and Gentlemen
 

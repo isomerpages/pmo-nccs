@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 13 more companies signed the Maritime Singapore Green Pledge
+title: 13 More Companies Signed the Maritime Singapore Green Pledge
 subtitle: 17 Oct 2012
 permalink: /media/press-release/13-more-companies-signed-the-maritime-singapore-green-pledge
 ---
 
-### 13 MORE COMPANIES SIGNED THE MARITIME SINGAPORE GREEN PLEDGE
-
-**Singapore, 17 October 2012**  - The Maritime Singapore Green Pledge continues to receive positive response from the maritime industry as another 13 organisations came together today to sign the Maritime Singapore Green Pledge during the opening ceremony of the 17th Singapore International Bunkering Conference and Exhibition (SIBCON).
+The Maritime Singapore Green Pledge continues to receive positive response from the maritime industry as another 13 organisations came together today to sign the Maritime Singapore Green Pledge during the opening ceremony of the 17th Singapore International Bunkering Conference and Exhibition (SIBCON).
 
 This is the third Green Pledge signing ceremony organised by the Maritime and Port Authority of Singapore (MPA) since the Green Pledge was inaugurated in April 2011. With the latest signing, a total of 40 key organisations have pledged their commitment to promote clean and green shipping in Singapore.
 

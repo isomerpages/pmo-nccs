@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Carbon Emissions-based Vehicle Scheme Kicks in 1 January 2013
+title: Carbon Emissions-Based Vehicle Scheme Kicks in 1 January 2013
 subtitle: 28 Dec 2012
 permalink: /media/press-release/carbon-emissions-based-vehicle-scheme-kicks-in-1-january-2013
 ---
 
-### CARBON EMISSIONS-BASED VEHICLE SCHEME KICKS IN 1 JANUARY 2013
-
-**Singapore, 28 December 2012** - From 1 January 2013, the new Carbon Emissions-based Vehicle Scheme (CEVS) will apply to all new cars, taxis and newly imported used cars registered with effect from next year. 
+From 1 January 2013, the new Carbon Emissions-based Vehicle Scheme (CEVS) will apply to all new cars, taxis and newly imported used cars registered with effect from next year. 
 
 Car buyers are advised to look out for the mandatory Fuel Economy Labelling Scheme (FELS) labels with LTA’s logo at car showrooms. The FELS label is required to be affixed on cars that have been LTA-approved and provides the carbon emissions and fuel efficiency performance of the car model to assist buyers to make informed decisions. Only cars that are approved by LTA under FELS can be registered for use from 1 January 2013 and low emission models will qualify for CEVS rebates accordingly. 
 
@@ -17,7 +15,7 @@ Brochures on how to read the FELS Label is available at all car showrooms and on
 
 To facilitate the transition to CEVS, LTA has been working with the motor associations to encourage their members to seek FELS approval for their vehicles early. LTA has also sent out several circulars on CEVS and FELS since March this year to the motor industry. 
 
-**Incentivising buyers to shift to low emission models**
+**Incentivising Buyers to Shift to Low Emission Models**
 
 Under CEVS, all new cars and imported used cars registered from 1 January 2013 with low carbon emissions of less than or equal to 160g carbon emissions per kilometre (CO2/km), will qualify for significant rebates of between $5,000 and $20,000[1] which will be given as an offset against the vehicle’s Additional Registration Fee (ARF) payable. (Please see Annex A for details of CEVS and CEVS bandings) 
 

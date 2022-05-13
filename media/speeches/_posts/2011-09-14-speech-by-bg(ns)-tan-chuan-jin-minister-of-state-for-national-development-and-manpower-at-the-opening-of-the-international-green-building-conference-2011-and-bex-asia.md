@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Speech by BG(NS) Tan Chuan-Jin, Minister of State for National Development and Manpower at the opening of the International Green Building Conference 2011 and BEX Asia 2011, 14 September 2011
+title: Speech by BG(NS) Tan Chuan-Jin, Minister of State for National Development and Manpower at the opening of the International Green Building Conference 2011 and BEX Asia 2011
 subtitle: 14 Sep 2011
 permalink: /media/speeches/speech-by-bg(ns)-tan-chuan-jin-minister-of-state-for-national-development-and-manpower-at-the-opening-of-the-international-green-building-conference-2011-and-bex-asia
 ---
 
-### SPEECH BY BG(NS) TAN CHUAN-JIN, MINISTER OF STATE FOR NATIONAL DEVELOPMENT AND MANPOWER AT THE OPENING OF THE INTERNATIONAL GREEN BUILDING CONFERENCE 2011 AND BEX ASIA 2011, 14 SEPTEMBER 2011
 
 Mr Quek See Tiat  
 Chairman  
@@ -19,9 +18,9 @@ Ms Michelle Lim
 Managing Director  
 Reed Exhibitions Singapore
 
-Distinguished guests
+Distinguished Guests
 
-Ladies and gentlemen,
+Ladies and Gentlemen,
 
 A very good morning to all of you.
 

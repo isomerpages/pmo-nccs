@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Using data to help consumers reduce their electricity consumption
+title: Using Data to Help Consumers Reduce Their Electricity Consumption
 subtitle: 18 Feb 2014
 permalink: /media/press-release/using-data-to-help-consumers-reduce-their-electricity-consumption
 ---
 
-### USING DATA TO HELP CONSUMERS REDUCE THEIR ELECTRICITY CONSUMPTION
-
-**Singapore, 18 February 2014**  - A new pilot by SP Services (SPS) and the Energy Market Authority (EMA) will enable participating consumers to compare their electricity consumption against the average consumption of their neighbours; and through such comparisons, reduce their electricity usage over time.
+A new pilot by SP Services (SPS) and the Energy Market Authority (EMA) will enable participating consumers to compare their electricity consumption against the average consumption of their neighbours; and through such comparisons, reduce their electricity usage over time.
 
 The pilot will involve users of SPS’ My Utilities Portal (at [<a href="https://www.spgroup.com.sg/home" target="_blank">www.spservices.com.sg</a>](https://www.spgroup.com.sg/home)), currently numbering at 260,000. These are consumers with e-billing accounts; the number may increase when more consumers sign up for e-bill service with SPS. They could compare their electricity consumption in the last 6 months against the national average consumption and the average consumption of their neighbours living in similar housing types (see Annex A in the [<a href="https://www.ema.gov.sg/cmsmedia/News/Media%20Release/530309ce2c560e-Bill_release_18_Feb14_Final_website.pdf" target="_blank">attachment</a>](https://www.ema.gov.sg/cmsmedia/News/Media%20Release/530309ce2c560e-Bill_release_18_Feb14_Final_website.pdf) for more details).
 

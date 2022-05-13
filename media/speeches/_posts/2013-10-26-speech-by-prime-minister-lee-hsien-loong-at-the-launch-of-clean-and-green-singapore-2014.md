@@ -5,9 +5,7 @@ subtitle: 26 Oct 2013
 permalink: /media/speeches/speech-by-prime-minister-lee-hsien-loong-at-the-launch-of-clean-and-green-singapore-2014
 ---
 
-### SPEECH BY PRIME MINISTER LEE HSIEN LOONG AT THE LAUNCH OF CLEAN AND GREEN SINGAPORE 2014
-
-Residents and friends
+Residents and Friends
 
 A very good morning to all of you! I am very happy to be here this morning to launch Clean and Green Singapore 2014 here in Serangoon. Singapore has a very long and proud history of "greening". We were "green" long before there was such a term, "Green movement". We started our Tree Planting campaign 50 years ago - Mr Lee Kuan Yew planted the first tree. That symbolic first move evolved over the years into the Clean and Green Week. We have cleaned up the Singapore River, linked up our waterways through our Active, Beautiful, and Clean (ABC) Waters programme, and linked up our water bodies with our parks and green spaces. So now we have got Bishan-AMK Park with a river through it; we have got the Marina Barrage with a beautiful lake in the middle of our city.
 

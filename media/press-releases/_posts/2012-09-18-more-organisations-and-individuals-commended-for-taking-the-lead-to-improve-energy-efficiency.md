@@ -1,15 +1,13 @@
 ---
 layout: post
-title: More Organisations And Individuals Commended For Taking The Lead To Improve Energy Efficiency
+title: More Organisations and Individuals Commended for Taking the Lead to Improve Energy Efficiency
 subtitle: 18 Sep 2012
 permalink: /media/press-release/more-organisations-and-individuals-commended-for-taking-the-lead-to-improve-energy-efficiency
 ---
 
-### MORE ORGANISATIONS AND INDIVIDUALS COMMENDED FOR TAKING THE LEAD TO IMPROVE ENERGY EFFICIENCY
-
 *Second National Energy Efficiency Conference to Showcase Energy Efficiency as a Business Opportunity*
 
-**Singapore, 18 September 2012** – Eight companies and two public sector agencies, as well as two individuals will be recognised for their efforts in implementing energy efficiency improvement programmes to reduce energy wastage and improve energy efficiency at the second Energy Efficiency National Partnership (EENP) Awards Ceremony. Among them are four companies that will receive the Excellence in Energy Management Award, double the number of award recipients last year for the same award. Organised by the National Environment Agency (NEA), Economic Development Board (EDB) and the Energy Market Authority (EMA), the Ceremony will be held in conjunction with the launch of the National Energy Efficiency Conference (NEEC) 2012 this evening.
+Eight companies and two public sector agencies, as well as two individuals will be recognised for their efforts in implementing energy efficiency improvement programmes to reduce energy wastage and improve energy efficiency at the second Energy Efficiency National Partnership (EENP) Awards Ceremony. Among them are four companies that will receive the Excellence in Energy Management Award, double the number of award recipients last year for the same award. Organised by the National Environment Agency (NEA), Economic Development Board (EDB) and the Energy Market Authority (EMA), the Ceremony will be held in conjunction with the launch of the National Energy Efficiency Conference (NEEC) 2012 this evening.
 
 **Energy Efficiency National Partnership Awards**
 

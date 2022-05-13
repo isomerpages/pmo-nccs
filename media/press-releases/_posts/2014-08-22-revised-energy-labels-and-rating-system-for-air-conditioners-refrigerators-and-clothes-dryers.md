@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Revised Energy Labels And Rating System For Air-conditioners, Refrigerators And Clothes Dryers
+title: Revised Energy Labels and Rating System for Air-Conditioners, Refrigerators and Clothes Dryers
 subtitle: 22 Aug 2014
 permalink: /media/press-release/revised-energy-labels-and-rating-system-for-air-conditioners-refrigerators-and-clothes-dryers
 ---
 
-### REVISED ENERGY LABELS AND RATING SYSTEM FOR AIR-CONDITIONERS, REFRIGERATORS AND CLOTHES DRYERS
-
 *Revised energy label to help consumers more easily select appliances based on energy efficiency and energy cost information*
 
-**Singapore, 22 August 2014** – From 1 September 2014, NEA will introduce a revised mandatory energy rating system for some types of home appliances, so as to provide more useful information to help consumers make choices that will save energy and save costs.
+From 1 September 2014, NEA will introduce a revised mandatory energy rating system for some types of home appliances, so as to provide more useful information to help consumers make choices that will save energy and save costs.
 
 Under the new, revised rating system, the most efficient models will be awarded five ticks, compared with four in the previous system. Another new feature of the energy label is that it will clearly reflect the annual estimated energy cost of using the product.
 

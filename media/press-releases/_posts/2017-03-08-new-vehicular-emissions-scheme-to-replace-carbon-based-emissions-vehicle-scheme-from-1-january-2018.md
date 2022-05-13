@@ -1,17 +1,16 @@
 ---
 layout: post
-title: New Vehicular Emissions Scheme to replace Carbon-based Emissions Vehicle Scheme from 1 January 2018
+title: New Vehicular Emissions Scheme to Replace Carbon-Based Emissions Vehicle Scheme From 1 January 2018
 subtitle: 8 Mar 2017
 permalink: /media/press-release/new-vehicular-emissions-scheme-to-replace-carbon-based-emissions-vehicle-scheme-from-1-january-2018
 ---
 
-### NEW VEHICULAR EMISSIONS SCHEME TO REPLACE CARBON-BASED EMISSIONS VEHICLE SCHEME FROM 1 JANUARY 2018
 
 *New Scheme Will Cover Four More Pollutants to Reduce Harmful Vehicular Emissions*
 
-**8 March 2017** - As announced at the Ministry of the Environment and Water Resources (MEWR)’s 2017 Committee of Supply Debate, NEA will introduce the Vehicular Emissions Scheme (VES) to replace the Carbon Emissions-Based Vehicle Scheme (CEVS) for all new cars, taxis and newly imported used cars with effect from 1 January 2018.
+As announced at the Ministry of the Environment and Water Resources (MEWR)’s 2017 Committee of Supply Debate, NEA will introduce the Vehicular Emissions Scheme (VES) to replace the Carbon Emissions-Based Vehicle Scheme (CEVS) for all new cars, taxis and newly imported used cars with effect from 1 January 2018.
 
-In addition to the carbon dioxide (CO2) criterion in the existing CEVS, the VES will cover 4 other pollutants - hydrocarbons (HC), carbon monoxide (CO), nitrogen oxides (NOx) and particulate matter (PM).
+In addition to the carbon dioxide (CO<sub>2</sub>) criterion in the existing CEVS, the VES will cover 4 other pollutants - hydrocarbons (HC), carbon monoxide (CO), nitrogen oxides (NOx) and particulate matter (PM).
 
 The rebates and surcharges for the respective VES bands are shown in Table 1:
 

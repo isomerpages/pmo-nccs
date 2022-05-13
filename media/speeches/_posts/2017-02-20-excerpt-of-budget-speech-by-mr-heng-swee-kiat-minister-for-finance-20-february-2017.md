@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Excerpt of Budget speech by Mr Heng Swee Kiat, Minister for Finance, 20 February 2017
+title: Excerpt of Budget speech by Mr Heng Swee Kiat, Minister for Finance
 subtitle: 20 Feb 2017
 permalink: /media/speeches/excerpt-of-budget-speech-by-mr-heng-swee-kiat-minister-for-finance-20-february-2017
 ---
 
-### EXCERPT OF BUDGET SPEECH BY MR HENG SWEE KIAT, MINISTER FOR FINANCE, 20 FEBRUARY 2017  
 **A quality living environment**  
 **Sustaining a Quality Environment for the Future**
 

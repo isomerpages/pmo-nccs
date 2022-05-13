@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Four ‘C’s for well-planned and sustainable urban development
+title: Four ‘C’s for Well-Planned and Sustainable Urban Development
 subtitle: 01 Jul 2012
 permalink: /media/press-release/four-c-s-for-well-planned-and-sustainable-urban-development
 ---
 
-### FOUR ‘C’S FOR WELL-PLANNED AND SUSTAINABLE URBAN DEVELOPMENT
-
 *Largest-ever gathering of over 100 governors and top city leaders at World Cities Summit Mayors* Forum
 
-**Singapore, 1 July 2012** -  - Over 100 governors, mayors and top leaders from 98 cities and regions discussed challenges and innovative solutions to build liveable cities and foster harmonious communities at the World Cities Summit Mayors Forum (WCSMF) earlier today. At the forum which was themed “Liveable and Sustainable Cities”, Chairperson of the Forum and Minister of State for National Development and Trade & Industry Mr Lee Yi Shyan highlighted the four ‘C’s as hallmarks of well planned and sustainable urban development:
+Over 100 governors, mayors and top leaders from 98 cities and regions discussed challenges and innovative solutions to build liveable cities and foster harmonious communities at the World Cities Summit Mayors Forum (WCSMF) earlier today. At the forum which was themed “Liveable and Sustainable Cities”, Chairperson of the Forum and Minister of State for National Development and Trade & Industry Mr Lee Yi Shyan highlighted the four ‘C’s as hallmarks of well planned and sustainable urban development:
 
 * Courage to do the right things and take risks, sometimes against public opinion so as to build the foundations of a good city;
 * Capacity of municipality and cities in terms of organisation, financial resources
@@ -25,7 +23,7 @@ Concluding the half-day session, Mr Lee said, “The challenges facing governors
 
 Mr Trac Thai Sieng, Vice Governor of Phnom Penh Municipality, said, “Phnom Penh faces a pressing challenge of providing 10,000 new housing units annually. We expanded the capital, built six satellite cities and more high-rise buildings to meet the housing needs of our growing population. This is the third time we are attending the Mayors Forum and hearing from the various mayors on how they solved the public housing challenges in their various cities had provided useful ideas for us in planning for our city.” Mr Gregor Robertson, Mayor of Vancouver, Canada, said, “The natural setting of Vancouver informs every aspect of planning, design and liveability in our city. The boldness of policy-making allows us to strive for an ever better city, focusing on sustainability and liveability, with the goal of becoming the world’s greenest city by 2020”.
 
-**Collection of best practices “City Portraits”**
+**Collection of Best Practices “City Portraits”**
 
 To document the sharings and knowledge gleaned from all three WCSMs, the Centre for Liveable Cities (CLC) has compiled a collection of member cities’ best practices into a publication titled “City Portraits”. City leaders who wish to continue remain in touch with their peers or solution providers after the Forum can do so via a new virtual network called “Connect@WCS”.
 

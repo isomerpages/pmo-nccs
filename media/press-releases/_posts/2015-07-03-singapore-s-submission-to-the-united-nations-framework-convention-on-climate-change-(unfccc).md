@@ -5,7 +5,6 @@ subtitle: 03 Jul 2015
 permalink: /media/press-release/singapore-s-submission-to-the-united-nations-framework-convention-on-climate-change-(unfccc)
 ---
 
-### SINGAPORE’S SUBMISSION TO THE UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE (UNFCCC)
 
 *Singapore intends to reduce its Emissions Intensity by 36 per cent from 2005 levels by 2030, and stabilise emissions with the aim of peaking around 2030*
 

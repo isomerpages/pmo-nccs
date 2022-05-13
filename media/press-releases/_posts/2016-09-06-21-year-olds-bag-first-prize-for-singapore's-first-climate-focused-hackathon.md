@@ -1,17 +1,15 @@
 ---
 layout: post
-title: 21-year-olds bag first prize for Singapore's first climate-focused hackathon
+title: 21-Year-Olds Bag First Prize for Singapore's First Climate-Focused Hackathon
 subtitle: 06 Sep 2016
 permalink: /media/press-release/21-year-olds-bag-first-prize-for-singapore's-first-climate-focused-hackathon
 ---
-
-### 21-YEAR-OLDS BAG FIRST PRIZE FOR SINGAPORE'S FIRST CLIMATE-FOCUSED HACKATHON
 
 * *Inaugural climate-focused hackathon crowd-sourced innovative and cost-effective green building solutions to mitigate climate change.*
 
 * *The hackathon attracted a wide range of participants with the youngest at 13 years old and the oldest at 63, among which about half of them are students.*
 
-**6 September 2016** - A team of four 21-year-old participants emerged as the top winner of the inaugural Climate Innovation Challenge (CIC), the first climate-focused hackathon jointly organised by the Building and Construction Authority (BCA); JTC; and National Climate Change Secretariat (NCCS), Strategy Group, Prime Minister’s Office.
+A team of four 21-year-old participants emerged as the top winner of the inaugural Climate Innovation Challenge (CIC), the first climate-focused hackathon jointly organised by the Building and Construction Authority (BCA); JTC; and National Climate Change Secretariat (NCCS), Strategy Group, Prime Minister’s Office.
 
 The top-winning team designed a smart socket that aims to create greater awareness among office workers about how their actions affect energy consumption and ultimately shape energy-saving habits in the office environment. The smart socket can be easily toggled on and off with the use of RFID[1] tag enabled staff passes. Users of the “Smart Electronic Tracking Socket” will be sent a text message if any of the switches connected to the smart socket are not turned off (e.g., after office hours). Users can also compare their energy use and compete to be the lowest energy consumer.
 

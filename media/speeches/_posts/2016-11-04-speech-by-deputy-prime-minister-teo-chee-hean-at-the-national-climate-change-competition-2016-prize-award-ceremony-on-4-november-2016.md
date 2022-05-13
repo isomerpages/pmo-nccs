@@ -1,19 +1,18 @@
 ---
 layout: post
-title: Speech by Deputy Prime Minister Teo Chee Hean at the National Climate Change Competition 2016 Prize Award Ceremony on 4 November 2016
+title: Speech by Deputy Prime Minister Teo Chee Hean at the National Climate Change Competition 2016 Prize Award Ceremony
 subtitle: 4 Nov 2016
 permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2016-prize-award-ceremony-on-4-november-2016
 ---
 
-### SPEECH BY DEPUTY PRIME MINISTER TEO CHEE HEAN AT THE NATIONAL CLIMATE CHANGE COMPETITION 2016 PRIZE AWARD CEREMONY ON 4 NOVEMBER 2016
 
 *"Taking Action to Reduce Carbon Emissions, Adapting to Climate Change and Seizing Green Growth Opportunities"*
 
-Distinguished guests,
+Distinguished Guests,
 
-Ladies and gentlemen,
+Ladies and Gentlemen,
 
-Teachers and students,
+Teachers and Students,
 
 Good Morning,
 

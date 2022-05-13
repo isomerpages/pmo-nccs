@@ -1,13 +1,11 @@
 ---
 layout: post
-title: First educational drama on climate change for primary schools in Singapore
+title: First Educational Drama on Climate Change for Primary Schools in Singapore
 subtitle: 29 Aug 2013
 permalink: /media/press-release/first-educational-drama-on-climate-change-for-primary-schools-in-singapore
 ---
 
-### FIRST EDUCATIONAL DRAMA ON CLIMATE CHANGE FOR PRIMARY SCHOOLS IN SINGAPORE
-
-**Singapore, 29 August 2013** – The National Climate Change Secretariat (NCCS) has launched a new educational drama on climate change for primary schools as part of its outreach efforts to raise awareness and to encourage individual action on climate change among youths in Singapore.
+The National Climate Change Secretariat (NCCS) has launched a new educational drama on climate change for primary schools as part of its outreach efforts to raise awareness and to encourage individual action on climate change among youths in Singapore.
 
 Entitled "Stop Melting My Home", the drama features Piqa the polar bear from the Arctic and her friends Junie and Benny in Singapore. It introduces the issue of climate change to young students in an engaging and easy-to-understand way. The drama aims to explain the cause and effect of climate change, and equip students with practical tips on what they can do at home and in school to address climate change e.g. by saving energy, travelling green and practicing the 3Rs (reduce, reuse and recycle). The 30-minute drama includes an interactive quiz session to engage students and teachers. Performed by theatrical company The Voice Productions, the drama made its debut at Bukit Timah Primary School on 1 August 2013. NCCS has plans to take it to some 120 primary schools by end 2014.
 

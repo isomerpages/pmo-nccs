@@ -5,8 +5,6 @@ subtitle: 17 Oct 2011
 permalink: /media/speeches/welcome-address-by-bg-(ns)-tan-chuan-jin-minister-of-state-for-national-developement-and-manpower-at-the-conference-of-forests-biodiversity-and-climate-change-in-southeast-asia
 ---
 
-### WELCOME ADDRESS BY BG (NS) TAN CHUAN-JIN, MINISTER OF STATE FOR NATIONAL DEVELOPEMENT AND MANPOWER AT THE ‘CONFERENCE OF FORESTS, BIODIVERSITY AND CLIMATE CHANGE IN SOUTHEAST ASIA’ AT THE MOCHTAR RIADY AUDITORIUM, SINGAPORE MANAGEMENT UNIVERSITY
-
 Ambassador Hans Brattskar  
 The Government of Norway’s Special Envoy for International Climate Change Policy
 
@@ -16,8 +14,9 @@ Mr Heru Prasetyo
 Deputy Head  
 Presidential Delivery Unit for Development Monitoring and Oversight, Republic of Indonesia
 
-Distinguished guests  
-Ladies and gentlemen,
+Distinguished Guests,
+<br><br>
+Ladies and Gentlemen,
 
 Good morning and a warm welcome to all of you, especially our overseas friends who are here to participate in today’s conference.
 

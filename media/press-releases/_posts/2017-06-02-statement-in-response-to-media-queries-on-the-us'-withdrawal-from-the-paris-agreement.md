@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Statement in response to media queries on the US' withdrawal from the Paris Agreement
+title: Statement in Response to Media Queries on the US' Withdrawal From the Paris Agreement
 subtitle: 02 Jun 2017
 permalink: /media/press-release/statement-in-response-to-media-queries-on-the-us'-withdrawal-from-the-paris-agreement
 ---
 
-### STATEMENT IN RESPONSE TO MEDIA QUERIES ON THE US' WITHDRAWAL FROM THE PARIS AGREEMENT
-
-**2 June 2017** -  The US has announced its intention to withdraw from the Paris Agreement.
+The US has announced its intention to withdraw from the Paris Agreement.
 
 Singapore reaffirms our commitment to the Paris Agreement and our Paris pledge <sup><a href="#1">[1]</a></sup>. As a low-lying, island city-state, Singapore is particularly vulnerable to the consequences of climate change and we have a deep interest in global efforts to address potential disruptions to natural ecosystems and human societies. As a small country, we have also staunchly supported the rules-based multilateral system, and upheld the critical role of diplomacy in solving problems on the global commons.
 

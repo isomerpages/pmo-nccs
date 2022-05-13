@@ -5,9 +5,7 @@ date: 2022-03-08
 layout: post
 description: ""
 ---
-**JOINT MEDIA RELEASE BY NCCS, MSE, MTI, MOT, MND AND MOE: GOOD PROGRESS MADE ON THE SINGAPORE GREEN PLAN 2030 AS GOVERNMENT ACCELERATES DECARBONISATION AND SUSTAINABILITY EFFORTS** 
-
-8 March 2022
+**JOINT PRESS RELEASE BY NCCS, MSE, MTI, MOT, MND AND MOE: GOOD PROGRESS MADE ON THE SINGAPORE GREEN PLAN 2030 AS GOVERNMENT ACCELERATES DECARBONISATION AND SUSTAINABILITY EFFORTS** 
 
 At the Committee of Supply today, the Government provided a progress update on the Singapore Green Plan 2030. Launched in February 2021, the Green Plan seeks to galvanise a whole-of-nation movement and advance Singapore’s national agenda on sustainable development. Spearheaded by five ministries – the Ministries of Sustainability and the Environment (MSE), Trade and Industry (MTI), Transport (MOT), National Development (MND), and Education (MOE) – and supported by the whole of Government, the Green Plan charts ambitious and concrete targets for the rest of this decade. 
 

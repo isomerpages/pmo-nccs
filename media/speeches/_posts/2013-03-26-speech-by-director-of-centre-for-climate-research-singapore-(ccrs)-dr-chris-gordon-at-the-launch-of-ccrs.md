@@ -5,8 +5,6 @@ subtitle: 26 Mar 2013
 permalink: /media/speeches/speech-by-director-of-centre-for-climate-research-singapore-(ccrs)-dr-chris-gordon-at-the-launch-of-ccrs
 ---
 
-### SPEECH BY DIRECTOR OF CENTRE FOR CLIMATE RESEARCH SINGAPORE (CCRS) DR CHRIS GORDON AT THE LAUNCH OF CCRS
-
 Our Guest-Of-Honour, Dr Vivian Balakrishnan, the Minister for the Environment and Water Resources,
 
 HE Antony Phillipson, British High Commissioner,

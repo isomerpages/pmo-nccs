@@ -5,7 +5,6 @@ date:   2020-02-28
 permalink: "/media/press-release/infographic-charting-singapores-low-carbon-future"
 ---
 
-### INFOGRAPHIC: CHARTING SINGAPORE'S LOW-CARBON FUTURE
 
 ![Infographic: Charting Singapore's Low-Carbon Future](/images/leds-infographic.png "Infographic: Charting Singapore's Low-Carbon Future")
 

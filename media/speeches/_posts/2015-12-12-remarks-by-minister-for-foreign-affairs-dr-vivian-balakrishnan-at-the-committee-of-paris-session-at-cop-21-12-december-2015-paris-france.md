@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Remarks by Minister for Foreign Affairs Dr Vivian Balakrishnan at the Committee of Paris Session at COP-21, 12 December 2015, Paris, France
+title: Remarks by Minister for Foreign Affairs Dr Vivian Balakrishnan at the Committee of Paris Session at COP-21, Paris, France
 subtitle: 12 Dec 2015
 permalink: /media/speeches/remarks-by-minister-for-foreign-affairs-dr-vivian-balakrishnan-at-the-committee-of-paris-session-at-cop-21-12-december-2015-paris-france
 ---
 
-### REMARKS BY MINISTER FOR FOREIGN AFFAIRS DR VIVIAN BALAKRISHNAN AT THE COMMITTEE OF PARIS SESSION AT COP-21, 12 DECEMBER 2015, PARIS, FRANCE
 
 President of COP, Minister Laurent Fabius
 
