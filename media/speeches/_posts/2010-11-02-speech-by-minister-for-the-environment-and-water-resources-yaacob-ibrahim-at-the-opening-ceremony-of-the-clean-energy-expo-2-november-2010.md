@@ -5,7 +5,6 @@ title: Speech by Minister for the Environment and Water Resources Yaacob Ibrahim
 subtitle: 2 Nov 2010
 permalink: /media/speeches/speech-by-minister-for-the-environment-and-water-resources-yaacob-ibrahim-at-the-opening-ceremony-of-the-clean-energy-expo-2-november-2010
 ---
-
 Mr Edwin Khew  
 Chairman, Sustainable Energy Association of Singapore
 
@@ -57,4 +56,4 @@ A very good morning.
 <br><br><br>
 
 
-*Source*: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20101102001.pdf)
+*Source: Ministry of the Environment and Water Resources*
