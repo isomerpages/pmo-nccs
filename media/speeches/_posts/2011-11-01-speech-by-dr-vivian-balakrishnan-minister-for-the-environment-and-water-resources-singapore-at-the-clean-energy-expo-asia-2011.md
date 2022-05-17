@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Speech by Minister for the Environment and Water Resources Singapore Dr Vivian Balakrishnan at the Clean Energy Expo Asia 2011, at Suntec Singapore International Convention & Exhibition Centre
+title: Speech by Minister for the Environment and Water Resources Singapore Dr
+  Vivian Balakrishnan at the Clean Energy Expo Asia 2011, at Suntec Singapore
+  International Convention & Exhibition Centre
 subtitle: 1 Nov 2011
 permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-singapore-at-the-clean-energy-expo-asia-2011
 ---
-
 Dato Sri Peter Chin,
 <br>Minister of Energy, Green Technology and Water, Malaysia
 
-Distinguished Guests
+Distinguished Guests,
 
-Ladies and Gentlemen
+Ladies and Gentlemen,
 
 The big news for the last couple of days has been the fact that the world population has reached 7 billion. This is supposed to have occurred yesterday or within the last couple of days. And we know that Asia plays host to a significant portion of this population.
 
@@ -60,4 +61,4 @@ The big news for the last couple of days has been the fact that the world popula
 <br><br>
 
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20111101001.pdf)
+*Source: Ministry of the Environment and Water Resources*
