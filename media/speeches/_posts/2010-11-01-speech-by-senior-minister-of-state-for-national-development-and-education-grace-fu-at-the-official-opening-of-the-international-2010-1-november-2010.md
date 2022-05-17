@@ -7,8 +7,7 @@ subtitle: 1 Nov 2010
 permalink: /media/speeches/speech-by-senior-minister-of-state-for-national-development-and-education-grace-fu-at-the-official-opening-of-the-international-2010-1-november-2010
 ---
 Mr Roland Appl
-
-President, International Green Roof Association
+<br>President, International Green Roof Association
 
 Distinguished Guests
 
@@ -61,4 +60,4 @@ We welcome partnership with different organisations and professionals to realise
 <br><br><br>
 
 
-*Source*: [National Parks Board ](https://www.nparks.gov.sg/news)
+*Source: National Parks Board*
