@@ -1,6 +1,6 @@
 ---
-title: Speech by Deputy Prime Minister and Coordinating Minister for Economic Policies
-permalink: /media/speeches/permalink/speech-by-deputy-prime-minister-and-coordinating
+title: Speech by Deputy Prime Minister and Coordinating Minister for Economic Policies Heng Swee Keat at the Green Action for Communities Capacity Building Workshop
+permalink: /media/speeches/permalink/speech-by-deputy-prime-minister-and-coordinating-minister-for-economic-policies-heng-swee-keat-at-the-green-action-for-communities-capacity-building-workshop
 date: 2022-04-30
 layout: post
 description: ""
