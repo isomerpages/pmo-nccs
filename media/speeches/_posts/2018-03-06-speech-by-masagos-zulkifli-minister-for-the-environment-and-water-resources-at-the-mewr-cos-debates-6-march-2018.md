@@ -176,5 +176,6 @@ I accompanied President Halimah for the launch of the Singapore World Water Day 
 Taking climate action now is how we shall pass to our children a Singapore that is a liveable city ever more, a city where thriving businesses have low carbon footprints, and a city with environmental solutions that are well sought after. We can do this, together. Thank you.
 
 I now hand over to the SMS Dr Amy Khor.
+<br><br>
 
 *Source: Ministry of the Environment and Water Resources*
