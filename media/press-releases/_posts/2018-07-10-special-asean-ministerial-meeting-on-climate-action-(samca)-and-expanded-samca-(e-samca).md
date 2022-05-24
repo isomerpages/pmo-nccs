@@ -26,4 +26,6 @@ Delegates from ASEAN Plus Three also called on Mr Teo Chee Hean, Singapore’s D
 
 Singapore, as 2018 ASEAN Chair and convenor of the meetings, will submit a summary of the discussions at the SAMCA and E-SAMCA to the UNFCCC as input to the Talanoa Dialogue.
 
+<br>
+
 *Source: Ministry of the Environment and Water Resources*
