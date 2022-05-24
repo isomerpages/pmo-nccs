@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Good Progress Made in a Year, on Implementation of the Sustainable Singapore Blueprint 2015
+title: Good Progress Made in a Year, on Implementation of the Sustainable
+  Singapore Blueprint 2015
 subtitle: 31 Oct 2015
 permalink: /media/press-release/good-progress-made-in-a-year-on-implementation-of-the-sustainable-singapore-blueprint-2015
 ---
@@ -28,4 +29,5 @@ Mr Masagos Zulkifli, Minister for the Environment and Water Resources said at th
 
 Please refer to [<a href="/files/docs/default-source/news-documents/ssb-press-release---annex-a-(low-res).pdf" target="_blank">Annex A</a>](/files/docs/default-source/news-documents/ssb-press-release---annex-a-(low-res).pdf) for the infographics on the progress of implementing the SSB 2015, and [Annex B](https://go.gov.sg/annexb-indicators-on-the-progress-towards-our-2030-targets) for the indicators on the progress towards our 2030 targets. For more information on the SSB 2015 please log on to the sustainable singapore website (Now [Singapore Green Plan](https://www.greenplan.gov.sg/)).
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20151031001.pdf)
+<br><br>
+*Source: Ministry of the Environment and Water Resources*
