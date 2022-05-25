@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Prime Minister Lee Hsien Loong Unveils Sustainable Singapore Blueprint 2015 to Renew Strategies for a Liveable and Sustainable Singapore
+title: Prime Minister Lee Hsien Loong Unveils Sustainable Singapore Blueprint
+  2015 to Renew Strategies for a Liveable and Sustainable Singapore
 subtitle: 8 Nov 2014
 permalink: /media/press-release/pm-unveils-sustainable-singapore-blueprint-2015-to-renew-strategies-for-a-liveable-and-sustainable-singapore
 ---
-
 Prime Minister Lee Hsien Loong unveiled today the Sustainable Singapore Blueprint (SSB) 2015, which outlines a national vision with new and bold plans to create a more liveable and sustainable future for Singaporeans – where Singapore can continue to be an exceptional Home, City and Community. 
 
 First released in 2009, the SSB maps out strategies for Singapore's sustainable development, ensuring that the country remains a highly liveable home for all. Singapore is on track to meet or exceed the 2020 and 2030 targets set out in 2009. (Refer to [<a href="/files/docs/default-source/news-documents/annex-a---ssb-2009-targets-and-achievements.pdf" target="_blank">Annex A</a>](/files/docs/default-source/news-documents/annex-a---ssb-2009-targets-and-achievements.pdf) for SSB 2009 targets and achievements). 
@@ -39,4 +39,4 @@ To achieve its desired targets, the Government will commit $1.5 billion to suppo
 
 *[2] This publication is no longer available.*
 
-Source: [<a href="https://www.mnd.gov.sg/" target="_blank">Ministry of National Development</a>](https://www.mnd.gov.sg/) or [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20141108001.pdf)
+*Source: Ministry of National Development*
