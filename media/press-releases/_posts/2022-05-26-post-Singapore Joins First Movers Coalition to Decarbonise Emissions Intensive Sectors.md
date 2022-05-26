@@ -18,3 +18,8 @@ The Government will engage companies and encourage them to participate in the FM
 Minister for Transport and Minister-in-charge of Trade Relations S Iswaran announced Singapore’s membership to the FMC at the World Economic Forum Annual Meeting at Davos on 25 May 2022. He said, “Climate change is an existential threat, especially to a small island state like Singapore. As a global business and financial hub, Singapore is well-placed to contribute to the FMC in developing and scaling up innovative low-carbon technologies in hard-to-abate sectors. We look forward to working closely with the FMC government partners and industry players to enable a low-carbon future.” 
 
 Singapore seeks to work with international and regional partners to enable collaborations, strengthen consensus and galvanise collective climate action.
+<br><br><br>
+
+![FMC Group Photo](/images/FMC%20Group%20Photo.png)
+
+*Minister for Transport and Minister-in-charge of Trade Relations S Iswaran (fifth to the left from U.S. Special Presidential Envoy for Climate John Kerry), together with Government and business leaders, at the First Movers Coalition Leaders Meeting on 23 May 2022.*
