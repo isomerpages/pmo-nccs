@@ -5,7 +5,6 @@ title: Special ASEAN Ministerial Meeting on Climate Action (SAMCA) and
 subtitle: 10 JUL 2018
 permalink: /media/press-release/special-asean-ministerial-meeting-on-climate-action-(samca)-and-expanded-samca-(e-samca)
 ---
-
 **Region reaffirms commitment to Paris Agreement**  
 **Climate Action Package launched to develop region’s capacity in climate action**
 
@@ -27,4 +26,6 @@ Delegates from ASEAN Plus Three also called on Mr Teo Chee Hean, Singapore’s D
 
 Singapore, as 2018 ASEAN Chair and convenor of the meetings, will submit a summary of the discussions at the SAMCA and E-SAMCA to the UNFCCC as input to the Talanoa Dialogue.
 
-*Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180710001.pdf)*
+<br>
+
+*Source: Ministry of the Environment and Water Resources*

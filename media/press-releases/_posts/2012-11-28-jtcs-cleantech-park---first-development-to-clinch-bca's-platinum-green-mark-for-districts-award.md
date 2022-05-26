@@ -1,8 +1,9 @@
 ---
 layout: post
-title: JTC's CleanTech Park - First Development to Clinch BCA's Platinum Green Mark for Districts Award
+title: JTC's CleanTech Park - First Development to Clinch BCA's Platinum Green
+  Mark for Districts Award
 subtitle: 28 Nov 2012
-permalink: /media/press-release/jtcs-cleantech-park---first-development-to-clinch-bca's-platinum-green-mark-for-districts-award
+permalink: /media/press-release/jtcs-cleantech-park
 ---
 
 JTC Corporation (JTC)’s CleanTech Park, the first eco-business park in Singapore, is the first development to clinch the Building and Construction Authority (BCA)’s Platinum Green Mark for Districts Award.
@@ -27,4 +28,4 @@ While other award recipients such as NUS University Town, Resorts World Sentosa 
 
 The masterplan for CleanTech Park was launched in February 2010 and the development was aimed to position Singapore as a global test-bed and the preferred site for early adoption of clean technology products and solutions for urbanised settings in the tropics. CleanTech One, a multi-tenanted building built by JTC in CleanTech Park, has an occupancy rate of more than 70 per cent and has anchored world class research institutes like the Nanyang Environment & Water Research Institute (NEWRI) and the Solar Energy Research Institute of Singapore (SERIS), and top global companies such as DHI, Toray and Yingli Solar. The second building in CleanTech Park that is also being built by JTC has A*STAR’s Advanced Remanufacturing and Technology Centre as its anchor tenant.
 
-Source: [<a href="https://www.jtc.gov.sg/news-and-publications/press-releases/Pages/20121128(PR).aspx" target="_blank">JTC Corporation</a>](https://www.jtc.gov.sg/news-and-publications/press-releases/Pages/20121128(PR).aspx)
+*Source: JTC*

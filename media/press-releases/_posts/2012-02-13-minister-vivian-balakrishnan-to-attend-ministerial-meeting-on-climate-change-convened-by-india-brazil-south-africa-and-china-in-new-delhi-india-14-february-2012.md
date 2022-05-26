@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Minister for the Environment and Water Resources Vivian Balakrishnan to Attend Ministerial Meeting on Climate Change Convened by India, Brazil, South Africa and China in New Delhi, India
+title: Minister for the Environment and Water Resources Vivian Balakrishnan to
+  Attend Ministerial Meeting on Climate Change Convened by India, Brazil, South
+  Africa and China in New Delhi, India
 subtitle: 13 Feb 2012
 permalink: /media/press-release/minister-vivian-balakrishnan-to-attend-ministerial-meeting-on-climate-change-convened-by-india-brazil-south-africa-and-china-in-new-delhi-india-14-february-2012
 ---
@@ -10,4 +12,4 @@ Brazil, South Africa, India, and China collectively form a grouping called BASIC
 
 The objective of the upcoming meeting is to discuss issues arising from the international climate change conference held in Durban, South Africa, in December 2011, as well as the preparations needed for the next conference to be held in Qatar in December 2012.
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20120213001.pdf)
+*Source: Ministry of the Environment and Water Resources*

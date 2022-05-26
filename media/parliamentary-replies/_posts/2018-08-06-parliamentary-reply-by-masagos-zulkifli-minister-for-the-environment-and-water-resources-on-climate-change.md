@@ -5,7 +5,6 @@ title: Parliamentary Reply by Minister for the Environment and Water Resources
 subtitle: 06 Aug 2018
 permalink: /media/news/parliamentary-reply-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-on-climate-change
 ---
-
 **Mr Seah Kian Peng:** To ask the Minister for the Environment and Water Resources (a) how are Singapore's efforts to manage this year's climate change proceeding; (b) whether such efforts are sufficient in light of the forecast by the Climate Prediction Centre of the US National Oceanic and Atmospheric Administration of a 70 per cent chance that El Nino will develop during end-2018; and (c) what countermeasures will Singapore adopt should El Nino develop.
 
 **Reply by Minister:**
@@ -20,4 +19,4 @@ But climate action cannot be the sole undertaking of the government. Everyone mu
 
 The Meteorological Service Singapore (MSS) assesses that there is a 60-70 per cent chance of a weak El Niño developing late in the year. Should the El Niño occur, it is not likely to have a significant impact on rainfall patterns in Singapore and the nearby region, due to its expected weak intensity and late development during the year-end rainy season. We do not expect a repeat of the strong El Niño event experienced in 2015/2016, which was one of the strongest in recent history and led to significantly reduced rainfall in Singapore. The MSS will continue to monitor developments and provide relevant alerts to the public and relevant agencies.
 
-Source: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180806006.pdf)
+*Source: Ministry of the Environment and Water Resources*

@@ -5,7 +5,6 @@ title: Speech by Minister for the Environment and Water Resources Dr Yaacob
 subtitle: 13 Sep 2010
 permalink: /media/speeches/speech-by-minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim-at-the-world-gbc-international-congress-2010-13-september-2010
 ---
-
 Mr Tony Arnel  
 Chair, World Green Building Council
 
@@ -56,4 +55,4 @@ Thank you.
 <br><br><br>
 
 
-*Source*: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20100913001.pdf)
+*Source: Ministry of the Environment and Water Resources*

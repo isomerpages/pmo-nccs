@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Remarks by Minister for the Environment and Water Resources Dr Vivian Balakrishnan at the Opening Ceremony of the National Energy Efficiency Conference 2011 
+title: Remarks by Minister for the Environment and Water Resources Dr Vivian
+  Balakrishnan at the Opening Ceremony of the National Energy Efficiency
+  Conference 2011
 subtitle: 24 May 2011
 permalink: /media/speeches/brief-remarks-by-minister-for-the-environment-and-water-resources-dr-vivian-balakrishnan-at-the-opening-ceremony-of-the-national-energy-efficiency-conference
 ---
-
 Mr Pasquale Pistorio
 
-My friends
+My Friends
 
 Ladies and Gentlemen
 
@@ -30,4 +31,4 @@ I am very pleased to join you this morning at the opening ceremony of the inaugu
 8.&nbsp;Having said that, I thank you all for being here and I look forward to hearing from Mr Pistorio. He has been a good and faithful friend to Singapore for many years. I am sure the minor surgery you had on your wrist will not affect your ability to inspire us. Thank you.
 <br><br><br>
 
-*Source*: [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20110524001.pdf)
+*Source: Ministry of the Environment and Water Resources*

@@ -5,7 +5,6 @@ title: Parliamentary Reply by Minister for the Environment and Water Resources
 subtitle: 05 Feb 2018
 permalink: /media/news/parliamentary-reply-by-masagos-zulkifli-minister-of-the-environment-and-water-resources-on-flood-prevention
 ---
-
 **Question by: Mr Kwek Hian Chuan Henry, Member of Parliament for Nee Soon GRC**
 
 To ask the Minister for the Environment and Water Resources (a) whether the flood prevention systems will be able to prevent flash floods similar to those that occurred on 8 January 2018 after the completion of the drainage upgrades in 2019; (b) what are the guiding principles used to determine the drainage capacity needed in an area; and (c) whether these include balancing the potential collateral damage versus the investment cost.
@@ -78,4 +77,4 @@ So, we have to be cautious about making commitments that everything will be sett
 
 So, it is not easy to answer. Just because the drains will be ready by this time, the flash floods will be gone. For example, right now, there are about 500 submissions for plans to do retention tanks for those developments above 0.2 hectares. Of this, only 158 have been completed. Now, together with the drain and the receptor, source and completion of all the projects there, we will have a better chance of avoiding the flash floods. But like I said, it is impossible to totally eliminate them because this will occur. It is more important for us to give as much timely warning as possible to our public, to ensure that they do not traverse these flash floods, which will usually go away within 50 to 60 minutes. Perhaps, take a detour.
 
-Source : [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/data/pdfdoc/MSE_20180205002.pdf)
+*Source: Ministry of the Environment and Water Resources*

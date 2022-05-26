@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Singapore to Showcase Achievements in Balancing Development with Environmental Sustainability at Expo 2012, Yeosu, Korea
+title: Singapore to Showcase Achievements in Balancing Development with
+  Environmental Sustainability at Expo 2012, Yeosu, Korea
 subtitle: 17 Jan 2012
 permalink: /media/press-release/singapore-to-showcase-achievements-in-balancing-development-with-environmental-sustainability-at-expo-2012-yeosu-korea
 ---
@@ -26,7 +27,6 @@ Expo 2012 Yeosu Korea is an International Exposition organised by the Bureau Int
 
 Singapore had participated in various World Expositions in the past, including Expo 2000 in Hanover, Germany, Expo 2005 in Aichi, Japan and more recently Expo 2010 in Shanghai, China.
 
-More information on Expo 2012 Yeosu Korea can be found at eng.expo2012.kr.
 
 **ANNEX B: LIST OF PARTICIPATING GOVERNMENT AGENCIES**
 
@@ -43,4 +43,7 @@ More information on Expo 2012 Yeosu Korea can be found at eng.expo2012.kr.
 * Ministry of Transport
 * Maritime and Port Authority of Singapore
 
-Source: [Ministry of the Environment and Water Resources](https://www.mse.gov.sg/news/)
+
+<br>
+
+*Source: Ministry of the Environment and Water Resources*

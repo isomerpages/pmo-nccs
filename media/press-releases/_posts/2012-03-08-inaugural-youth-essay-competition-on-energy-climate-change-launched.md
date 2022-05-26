@@ -18,6 +18,6 @@ The essay competition is open to all pre-university students in Singapore, inclu
 
 More information and entry forms for this competition can be found on the ESS website at ess.org.sg.
 The closing date for this competition is 8 May 2012.
+<br><br>
 
-
-Source: [<a href="http://www.ess.org.sg/Events/Competitions/2012-1.htm" target="_blank">Economic Society Singapore</a>](http://www.ess.org.sg/Events/Competitions/2012-1.htm)
+*Source: Economic Society Singapore*
