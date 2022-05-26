@@ -7,23 +7,16 @@ description: ""
 ---
 **Reimagining Aviation Through Safety, Service and Sustainability**
 
-Dato Seri Setia Awang Abdul Mutalib Yusof, Minister of Transport and Infocommunications, Brunei Darussalam
+Dato Seri Setia Awang Abdul Mutalib Yusof, Minister of Transport and Infocommunications, Brunei Darussalam <br>
+Mr Budi Karya Sumadi, Minister of Transportation, Indonesia <br>
+Datuk Seri Dr Wee Ka Siong, Minister for Transport, Malaysia<br>
+Mr S Iswaran, Minister for Transport and Minister-in-charge of Trade Relations<br>
+Mr Salvatore Sciacchitano, President of the Council of ICAO<br>
+Mr Willie Walsh, Director General of IATA<br>
+Mr Luis Felipe de Oliveira, Director General of ACI World<br>
 
-Mr Budi Karya Sumadi, Minister of Transportation, Indonesia 
-
-Datuk Seri Dr Wee Ka Siong, Minister for Transport, Malaysia
-
-Mr S Iswaran, Minister for Transport and Minister-in-charge of Trade Relations
-
-Mr Salvatore Sciacchitano, President of the Council of ICAO
-
-Mr Willie Walsh, Director General of IATA
-
-Mr Luis Felipe de Oliveira, Director General of ACI World
-
-Excellencies and Distinguished Guests,
-
-Ladies and Gentlemen,
+Excellencies and Distinguished Guests,<br>
+Ladies and Gentlemen,<br>
 
 Good Evening,
 
