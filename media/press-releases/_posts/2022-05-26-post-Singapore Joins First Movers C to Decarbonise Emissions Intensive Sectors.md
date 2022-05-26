@@ -19,7 +19,7 @@ Minister for Transport and Minister-in-charge of Trade Relations S Iswaran annou
 
 Singapore seeks to work with international and regional partners to enable collaborations, strengthen consensus and galvanise collective climate action.
 
-<br><br><br>
+<br><br>
 
  
 
