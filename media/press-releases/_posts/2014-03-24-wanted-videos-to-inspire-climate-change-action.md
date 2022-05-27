@@ -15,7 +15,6 @@ The theme for this year’s competition, #change4future, highlights the need for
 
 “Scientists have affirmed that human activities are one of the main causes of climate change, and this could lead to extreme weather events, such as more frequent and intense rainfall, heat waves and cold spells becoming more frequent. We hope that the competition will help raise awareness on such issues and produce inspiring videos that will help spread the message on the need to change our habits which affect the environment”, said Mr Yuen Sai Kuan, Director of 3P Network Division from NCCS.
 
-Students and members of the public can register to take part in the competition under the following categories at www.nccc.gov.sg by 22 Apr 2014.
 
 (i) Schools Category
 
