@@ -5,7 +5,6 @@ title: JTC's CleanTech Park - First Development to Clinch BCA's Platinum Green
 subtitle: 28 Nov 2012
 permalink: /media/press-release/jtcs-cleantech-park
 ---
-
 JTC Corporation (JTC)’s CleanTech Park, the first eco-business park in Singapore, is the first development to clinch the Building and Construction Authority (BCA)’s Platinum Green Mark for Districts Award.
 
 CleanTech Park won the award for its energy-efficient infrastructure and its public amenities which can potentially help save more than 40 per cent of energy consumption and 25 per cent of potable water usage. This translates to about an annual 40 per cent of cost savings in utilities.
