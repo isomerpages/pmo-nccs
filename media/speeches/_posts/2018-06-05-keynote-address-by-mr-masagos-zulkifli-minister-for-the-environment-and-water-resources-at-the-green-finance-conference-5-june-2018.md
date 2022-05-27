@@ -56,6 +56,6 @@ Let me conclude. Climate change is an important global issue, which requires lon
 I wish all of you a fruitful Conference.
 
 Thank you.
+<br><br>
 
-
-*Source: [Ministry of the Environment and Water Resources & National Archives of Singapore](https://go.gov.sg/5june2018-keynote-address-by-minister-for-the-environment-and-water-resources-masagos-zulkifli-at-the-green-finance-conference)*
+*Source: Ministry of the Environment and Water Resources*
