@@ -46,4 +46,4 @@ Ladies and Gentlemen
 12\. Thank you.
 <br><br><br>
 
-*Source*:  [National Parks Board](https://www.nparks.gov.sg/news)
+*Source:  National Parks Board*
