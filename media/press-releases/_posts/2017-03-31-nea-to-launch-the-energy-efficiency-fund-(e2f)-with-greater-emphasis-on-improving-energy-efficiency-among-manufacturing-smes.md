@@ -19,7 +19,7 @@ For more details on the E2F, please refer to **[Annex B](https://www.nccs.gov.sg
 
 \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
 
-*[1] Under the Paris Agreement on climate change, Singapore has formalised its pledge to reduce its emissions intensity&#x2A;* *by 36 per cent from 2005 levels by 2030 and to stabilise greenhouse gas (GHG) emissions with the aim of peaking around 2030.* **Emissions Intensity refers to GHG emissions per dollar of GDP, measured in CO2-equivalent per dollar.*
+*[1] Under the Paris Agreement on climate change, Singapore has formalised its pledge to reduce its emissions intensity&#x2A;* *by 36 per cent from 2005 levels by 2030 and to stabilise greenhouse gas (GHG) emissions with the aim of peaking around 2030.* **Emissions Intensity refers to GHG emissions per dollar of GDP, measured in CO<sub>2</sub>-equivalent per dollar.*
 
 *[2]  Based on a range of 0.75kW to 185kW motors, 24 hours of daily usage and an electricity tariff rate of $0.15/kWh. The upfront cost includes the cost of 1 motor used in normal operation and the cost of a standby motor for redundancy purpose.*
 <br><br>
