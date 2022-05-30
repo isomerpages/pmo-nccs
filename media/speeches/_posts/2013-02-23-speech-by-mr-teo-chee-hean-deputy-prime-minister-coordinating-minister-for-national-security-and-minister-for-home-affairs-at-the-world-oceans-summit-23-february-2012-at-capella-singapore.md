@@ -114,7 +114,7 @@ One of the issues is over areas beyond national jurisdiction (ABNJ), which repre
 
 <sup>6</sup>Intergovernmental Oceanographic Commission of UNESCO, IMO, Food and Agriculture Organisation of United Nations, United Nations Development Programme, “A Blueprint for Ocean and Coastal Sustainability”, 2011. (https://unesdoc.unesco.org/ark:/48223/pf0000215002)
 
-<sup>7</sup>United Nations Environment Programme, “Land Based Sources of Pollution”, (https://www.unep.org/explore-topics/oceans-seas/what-we-do/regional-seas-programme)
+<sup>7</sup>United Nations Environment Programme, “Land Based Sources of Pollution”, (https://www.unep.org/explore-topics/oceans-seas/what-we-do/working-regional-seas/land-based-pollution)
 
 <sup>8</sup>The Economist, “Troubled waters: A special report on the seas”, January 3, 2009. Scientists believe that as much as 100 million tonnes of plastic jetsam are suspended in two separate gyres of garbage in the central Pacific, over an area twice the size of the US.
 
