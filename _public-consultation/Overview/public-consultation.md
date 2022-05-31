@@ -3,15 +3,11 @@ title: Public Consultation
 permalink: /public-consultation/
 third_nav_title: Overview
 ---
-
 ### PUBLIC CONSULTATION
 
-[<a href="/public-consultation/feedback-from-public-on-singapores-long-term-low-emissions-development-strategy" target="_blank">[4 Mar 2020] Feedback From Public On Singapore's Long-Term Low-Emissions Development Strategy</a>](/public-consultation/feedback-from-public-on-singapores-long-term-low-emissions-development-strategy)
+[[4 Mar 2020] Feedback From Public On Singapore's Long-Term Low-Emissions Development Strategy](https://www.nccs.gov.sg/public-consultation/feedback-from-public-on-singapores-long-term-low-emissions-development-strategy/)
 
-[<a href="/public-consultation/response-to-feedback-on-singapore's-long-term-low-emissions-development-strategy" target="_blank">[7 Feb 2020] Response to Feedback on Singapore's Long-Term Low-Emissions Development Strategy</a>](/public-consultation/response-to-feedback-on-singapore's-long-term-low-emissions-development-strategy)
+[[7 Feb 2020] Response to Feedback on Singapore's Long-Term Low-Emissions Development Strategy](https://www.nccs.gov.sg/public-consultation/response-to-feedback-on-singapore's-long-term-low-emissions-development-strategy/)
 <br><br><br>
 
-There are no ongoing online public consultations at the moment. 
-
-
-
+There are no ongoing online public consultations at the moment.
