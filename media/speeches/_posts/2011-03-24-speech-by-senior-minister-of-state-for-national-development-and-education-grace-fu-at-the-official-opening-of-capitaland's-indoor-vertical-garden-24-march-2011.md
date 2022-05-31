@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Speech by Senior Minister of State for National Development and Education
-  Grace Fu at the official opening of CapitaLand's Indoor Vertical Garden, 24
-  March 2011
+  Grace Fu at the Official Opening of CapitaLand's Indoor Vertical Garden
 subtitle: 24 Mar 2011
 permalink: /media/speeches/speech-by-senior-minister-of-state-for-national-development-and-education-grace-fu-at-the-official-opening-of-capitaland's-indoor-vertical-garden-24-march-2011
 ---
