@@ -32,6 +32,7 @@ But no country can mitigate climate change alone. Singapore is actively contribu
 The SSG is situated here in the Marina Barrage, an iconic feature of Singapore’s sustainability story. The Barrage celebrates its 10th anniversary this year. To celebrate this milestone, PUB has planned a series of activities that will culminate in a three-day carnival in the last week of October. We hope to see you here again.
 
 To conclude, I hope that the SSG will generate conversations and ideas on sustainability, and inspire visitors to make sustainable choices in their lifestyles. Just as our past decisions gave us the clean environment we enjoy today, our decisions today will affect the future living environment of our children and their children. Let us work together keep Singapore a sustainable and vibrant home. Thank you.
+<br><br>
 
 
-*Source: [Ministry of the Environment and Water Resources & National Archives of Singapore](https://go.gov.sg/2june2018-speech-by-minister-for-the-environment-and-water-resources-masagos-zulkifli-at-the-opening-of-the-sustainable-singapore-gallery)*
+*Source: Ministry of the Environment and Water Resources*

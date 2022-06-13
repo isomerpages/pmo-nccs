@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Minister for the Environment and Water Resources Dr Vivian Balakrishnan at the Intergovernmental Panel on Climate Change Regional Outreach Event
+title: Speech by Minister for the Environment and Water Resources Dr Vivian
+  Balakrishnan at the Intergovernmental Panel on Climate Change Regional
+  Outreach Event
 subtitle: 7 Jul 2014
 permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-intergovernmental-panel-on-climate-change-regional-outreach-event
 ---
-
 Prof Jean-Pascal van Ypersele,  
 Vice-Chair of the Intergovernmental Panel on Climate Change
 
@@ -66,4 +67,4 @@ I hope I have given you enough food for thought and also an idea of how we look 
 [3] Figures taken from IPCC AR4 Chapter 5 Table 5.2 Estimated global macro-economic costs in 2030 and 2050. Costs are relative to the baseline for least-cost trajectories towards different long-term stabilisation levels.
 <br><br><br>
 
-Source: [<a href="https://www.mewr.gov.sg/" target="_blank">Ministry of Environment and Water Resources</a>](https://www.mewr.gov.sg/)
+*Source: Ministry of Environment and Water Resources*

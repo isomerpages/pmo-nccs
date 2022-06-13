@@ -16,3 +16,6 @@ Singapore's *Climate Action Plan: Take Action Today, for a Sustainable Future* c
 * [<a href="/files/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf" target="_blank">A Climate-Resilient Singapore, for a Sustainable Future (PDF, 2MB)</a>](/files/docs/default-source/publications/a-climate-resilient-singapore-for-a-sustainable-future.pdf)
 
 * [<a href="/files/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore-a-climate-resilient-singapore-for-a-sustainable-future-brochure.pdf" target="_blank">Brochure (PDF, 657KB)</a>](/files/docs/default-source/publications/take-action-today-for-a-carbon-efficient-singapore-a-climate-resilient-singapore-for-a-sustainable-future-brochure.pdf)
+
+<br><br>
+*Source: Ministry of the Environment and Water Resources*

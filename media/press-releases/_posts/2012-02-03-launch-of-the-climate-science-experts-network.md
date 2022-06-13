@@ -21,4 +21,4 @@ Local researchers shared their work on topics such as sea-level rise, deforestat
 Scientists and engineers interested in joining the Climate Science Experts Network can contact the Centre Manager of the CCRS, Ms Krysania Tan (Krysania_TAN@nea.gov.sg).
 
 
-Source: [Climate Science Experts Network](https://go.gov.sg/csen-inaugural-meeting-31jan2012)
+*Source: Climate Science Experts Network*

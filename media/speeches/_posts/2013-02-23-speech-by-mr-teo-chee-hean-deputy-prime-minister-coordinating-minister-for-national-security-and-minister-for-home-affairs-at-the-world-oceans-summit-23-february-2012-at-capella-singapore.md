@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Teo Chee Hean at the World Oceans Summit at Capella Singapore
+title: Speech by Deputy Prime Minister, Coordinating Minister for National
+  Security and Minister for Home Affairs Teo Chee Hean at the World Oceans
+  Summit at Capella Singapore
 subtitle: 23 Feb 2013
 permalink: /media/speeches/speech-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-at-the-world-oceans-summit-23-february-2012-at-capella-singapore
 ---
-
 His Excellency, Mr Olafur Ragnar Grimsson  
 President, Republic of Iceland
 
@@ -111,9 +112,9 @@ One of the issues is over areas beyond national jurisdiction (ABNJ), which repre
 
 <sup>5</sup>Liz Creel, “Ripple Effects: Population and Coastal Regions”, Population Reference Bureau, September 2003.
 
-<sup>6</sup>Intergovernmental Oceanographic Commission of UNESCO, IMO, Food and Agriculture Organisation of United Nations, United Nations Development Programme, “A Blueprint for Ocean and Coastal Sustainability”, 2011. ([<a href="http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf" target="_blank">http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf</a>](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SC/pdf/interagency_blue_paper_ocean_rioPlus20.pdf))
+<sup>6</sup>Intergovernmental Oceanographic Commission of UNESCO, IMO, Food and Agriculture Organisation of United Nations, United Nations Development Programme, “A Blueprint for Ocean and Coastal Sustainability”, 2011. (https://unesdoc.unesco.org/ark:/48223/pf0000215002)
 
-<sup>7</sup>United Nations Environment Programme, “Land Based Sources of Pollution”, ([<a href="https://www.unenvironment.org/explore-topics/oceans-seas/what-we-do/working-regional-seas" target="_blank">http://web.unep.org/regionalseas/what-we-do/land-based-pollution</a>](https://www.unenvironment.org/explore-topics/oceans-seas/what-we-do/working-regional-seas))
+<sup>7</sup>United Nations Environment Programme, “Land Based Sources of Pollution”, (https://www.unep.org/explore-topics/oceans-seas/what-we-do/working-regional-seas/land-based-pollution)
 
 <sup>8</sup>The Economist, “Troubled waters: A special report on the seas”, January 3, 2009. Scientists believe that as much as 100 million tonnes of plastic jetsam are suspended in two separate gyres of garbage in the central Pacific, over an area twice the size of the US.
 
@@ -123,10 +124,10 @@ One of the issues is over areas beyond national jurisdiction (ABNJ), which repre
 
 <sup>11</sup>United Nations Environment Programme/GRID-Arendal, “Climate in Peril: Projected climate changes and its impacts” 
 
-<sup>12</sup>Drainage Code Revised to Enhance Singapore’s Flood Protection, 30 November 2011 ([<a href="https://www.pub.gov.sg/Documents/COP_Final.pdf" target="_blank">https://www.pub.gov.sg/Documents/COP_Final.pdf</a>](https://www.pub.gov.sg/Documents/COP_Final.pdf))
+<sup>12</sup>Drainage Code Revised to Enhance Singapore’s Flood Protection, 30 November 2011 (https://www.pub.gov.sg/Documents/COP_Final.pdf)
 
 <sup>13</sup>Katharine Jose, “Before the flood: New York City is just beginning to gird for the ‘100- year storm’, if it is not already too late”, February 3, 2012. 
 
 <sup>14</sup>The UN Climate Change Conference in Durban was a series of meetings of the 17th Conference of the Parties to the UNFCCC, and the 7th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (COP-17/CMP-7)
 
-<sup>15</sup>Deputy Secretary-General Asha-Rose Migiro’s statement to the Ad Hoc Open-ended Informal Working Group to study issues relating to the conservation and sustainable use of marine biological diversity beyond areas of national jurisdiction in New York, 1 February 2010. 
+<sup>15</sup>Deputy Secretary-General Asha-Rose Migiro’s statement to the Ad Hoc Open-ended Informal Working Group to study issues relating to the conservation and sustainable use of marine biological diversity beyond areas of national jurisdiction in New York, 1 February 2010.

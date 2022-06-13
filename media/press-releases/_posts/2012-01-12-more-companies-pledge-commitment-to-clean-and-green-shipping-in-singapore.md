@@ -4,7 +4,6 @@ title: More Companies Pledge Commitment to Clean and Green Shipping in Singapore
 subtitle: 12 Jan 2012
 permalink: /media/press-release/more-companies-pledge-commitment-to-clean-and-green-shipping-in-singapore
 ---
-
 The Maritime Singapore Green Pledge continues to receive positive response from the maritime industry as 15 organisations came together to sign the Green Pledge during the second Green Pledge signing ceremony. This follows the inaugural Green Pledge signing ceremony which took place in April last year. A total of 27 organisations have signed the Green Pledge.
 
 The 15 new signatories of the Green Pledge include classification societies and shipping lines, and they pledged to be responsible members of the international maritime community by supporting and promoting clean and green shipping in Singapore. They also called upon the maritime community to join them in protecting and safeguarding the environment.
@@ -52,5 +51,6 @@ Started in July 2011 as part of the Maritime Singapore Green Initiative, the Gre
 MPA is pleased to see good response from the industry since the introduction of the Maritime Singapore Green Initiative in July 2011.
 
 "We are heartened to see the encouraging response from maritime companies to the Maritime Singapore Green Initiative and are pleased to see more maritime companies coming forward to sign the Maritime Singapore Green Pledge," said Mr Lam Yi Young.
+<br><br>
 
-Source: [<a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/detail/b6ba07ac-7485-42b7-b80c-a48472c6fe6f" target="_blank">Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/detail/b6ba07ac-7485-42b7-b80c-a48472c6fe6f)
+*Source: Maritime and Port Authority of Singapore*

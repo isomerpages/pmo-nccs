@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Meeting between Minister for the Environment and Water Resources Masagos Zulkifli and European Commissioner for Climate Action and Energy Miguel Arias Cañete, Brussels
+title: Meeting between Minister for the Environment and Water Resources Masagos
+  Zulkifli and European Commissioner for Climate Action and Energy Miguel Arias
+  Cañete, Brussels
 subtitle: 09 Apr 2018
 permalink: /media/press-release/joint-statement-on-meeting-between-singapore-s-minister-for-the-environment-and-water-resources-mr-masagos-zulkifli-and-european-commissioner-for-climate-action-9-april-2018
 ---
-### JOINT PRESS RELEASE BY MEWR AND EUROPEAN COMMISSION FOR CLIMATE ACTION AND ENERGY
+JOINT PRESS RELEASE BY MEWR AND EUROPEAN COMMISSION FOR CLIMATE ACTION AND ENERGY
 
 Singapore’s Minister for the Environment and Water Resources Mr Masagos Zulkifli met European Commissioner for Climate Action and Energy Mr Miguel Arias Cañete at the European Commission in Brussels, Belgium on Mon, 9 April 2018.
 
@@ -14,4 +16,4 @@ Mr Masagos and Mr Arias Cañete had a substantive exchange of views on how the E
 
 Mr Masagos and Mr Arias Cañete agreed on the need for COP-24 to conclude a durable, effective, and pragmatic set of rules for the Paris Agreement that facilitates implementation and improvement over time.  In this regard, the Ministerial Meeting on Climate Action (MOCA), which is co-organised by the EU, China, and Canada, the Petersburg Climate Dialogue hosted by Germany, and other dialogue platforms would help advance negotiations and facilitate a successful outcome at COP-24. Singapore looked forward to actively participating in and contributing to the MOCA process.
 
-Source: [Ministry of the Environment and Water Resources & National Archives of Singapore](https://go.gov.sg/9april2018-joint-statement-on-meeting-between-masagos-zulkifli-minister-for-the-environment-and-water-resources-and-european-comissioner-for-climate-action-and-energy-miguel-arias-canete)
+*Source: Ministry of the Environment and Water Resources*

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speech by Senior Minister of State for National Development and Education Grace Fu at the official opening of CapitaLand's Indoor Vertical Garden, 24 March 2011
+title: Speech by Senior Minister of State for National Development and Education
+  Grace Fu at the Official Opening of CapitaLand's Indoor Vertical Garden
 subtitle: 24 Mar 2011
 permalink: /media/speeches/speech-by-senior-minister-of-state-for-national-development-and-education-grace-fu-at-the-official-opening-of-capitaland's-indoor-vertical-garden-24-march-2011
 ---
-
 Mr Olivier Guyonvarch  
 Deputy Chief of Mission for the French Embassy in Singapore
 
@@ -42,6 +42,6 @@ Good evening.
 
 **Conclusion**  
 11.&nbsp;On this note, let me congratulate CapitaLand and Dr Blanc for a successful collaboration to construct the largest vertical garden right here in Singapore's Central Business District. Thank you.
-<br><br><br>
+<br><br>
 
-*Source*: [<a href="https://www.nparks.gov.sg/news/2011/3/speech-by-ms-grace-fu-senior-minister-of-state-for-national-development-and-education-at-the-official-opening-of-capitalands-indoor-vertical-garden-at-six-battery-road-on-24-march-2011-650pm" target="_blank">National Parks Board</a>](https://www.nparks.gov.sg/news/2011/3/speech-by-ms-grace-fu-senior-minister-of-state-for-national-development-and-education-at-the-official-opening-of-capitalands-indoor-vertical-garden-at-six-battery-road-on-24-march-2011-650pm)
+*Source: National Parks Board*
