@@ -61,7 +61,7 @@ On green financing, we are witnessing a shift globally towards sustainability an
 **Conclusion**
 <br>Aviation has always been an industry which aims for the sky and pushes the boundaries. The two major challenges facing us today, COVID-19 and climate change, have brought about some pause and disruption, but they also present new opportunities for us to reimagine aviation – with new technologies, new fuels, new paradigms for managing air traffic, new business and financing models. Through investing in these, we can transform the industry for a more resilient and sustainable future. Our customers, our shareholders and financial institutions will demand this, whether we like it or not.
 
-Let us continue to connect countries, people and businesses with the highest standards of safety, service and sustainability, for the benefit of the world and generations to come. Thank you very much.
+Let us continue to connect countries, people and businesses with the highest standards of safety, service and sustainability, for the benefit of the world and generations to come. Thank you very much. 
 
 --------------------- 
 <sup>1</sup> https://www.boeing.com/principles/environment/report/index.page
