@@ -16,7 +16,7 @@ Distinguished Guests
 
 **Introduction**
 
-Good morning. I am pleased to join everyone here in person at Ecosperity Week 2022, as well as those of our friends who are coming in virtually.
+It is a pleasure to see many familiar faces in the audience today. I am pleased to join everyone here in person at Ecosperity Week 2022, as well as those of our friends who are coming in virtually.
 
 Climate change belongs to that class of problems, likened to the “boiling frog”. If we do nothing about it today, nothing is likely to happen, change significantly, today or tomorrow, or this year or next. But by the time we feel the effects in a significant way, we’ve already lost a decade or decades of time – time when action could have been taken, time lost forever which we cannot recover. We have already passed that point. We already see the significant effects of climate change everywhere. We have to make up for lost time, and need to take urgent and more decisive action now.
 
@@ -48,7 +48,7 @@ Let me speak a little on each of these.
 
 **_Policy_**
 
-First, policy. Policy has an important role in setting a framework for, and achieving “ecosperity”, which is not just about reducing carbon emissions. Ecosperity is about achieving our Sustainable Development Goals; creating a circular economy in which we eliminate waste and maximise the value of our natural resources; and building sustainable, liveable cities. Governments need to have the right policies that get to the root of the problem, and help create solutions at the system level.
+First, policy has an important role in setting a framework for, and achieving “ecosperity”, which is not just about reducing carbon emissions. Ecosperity is about achieving our Sustainable Development Goals; creating a circular economy in which we eliminate waste and maximise the value of our natural resources; and building sustainable, liveable cities. Governments need to have the right policies that get to the root of the problem, and help create solutions at the system level.
 
 For example, sustainable urban transportation is not just about replacing all internal combustion engine vehicles with electric vehicles. If we did that, we would convert our jams with ICE vehicles to traffic jams with electric vehicles. Instead, a more fundamental system solution is to minimise the need for cars, through well-integrated urban planning and a comprehensive public transport system. This is why Singapore invested heavily in public transport; and since 2018, implemented a zero-growth policy for our vehicle population. We aim to be a 45-minute city in 2040 – when 9 out of 10 trips between homes and workplaces will take less than 45 minutes on our public transport network, even during peak hours. Today, we are already two-thirds there.
 
@@ -56,7 +56,7 @@ Climate change is the classic example of the “tragedy of the commons”. We ne
 
 **_Private Initiative_**
 
-Second, private initiative. Climate change requires all hands on deck, including, and especially, private sector. Businesses will be affected not just by the primary effects of climate change, but also by the second and third order effects, disrupting their operating models and supply chains. Growing awareness about the climate crisis has also changed how people define **value** in business, and what **_values_** a company upholds. Climate policies, technological advancements and stakeholder preferences will fundamentally impact what is the sustainable value of a company, and its valuation in the long term.
+Second, private initiative. Climate change requires all hands on deck, including, and especially, private sector. Businesses will be affected not just by the primary effects of climate change, but also by the second and third order effects, disrupting their operating models and supply chains. Growing awareness about the climate crisis has also changed how people define value in business, and what values a company upholds. Climate policies, technological advancements and stakeholder preferences will fundamentally impact what is the sustainable value of a company, and its valuation in the long term.
 
 Companies can no longer solely focus on short term returns from current assets and business lines. Financial institutions, some of them, have discovered that that is so too. Shareholders, creditors, customers, and even your employees will demand more sustainable practices and plans. To remain competitive in the long term, businesses need to incorporate decarbonisation and climate risks into their strategies. As demand for sustainable practices increase, first movers will capture upsides while laggards may be written off as doing too little, too late. Questions will be asked about your companies’ strategies to avoid stranded assets or legacy lines of production that may be rendered obsolete. The oil and gas industry has already found itself under the spotlight. The Big Five oil giants have responded by pledging to reduce emissions. Shell, ExxonMobil and Chevron, which have major operations in Singapore, have committed to reach net-zero emissions by 2050.
 
