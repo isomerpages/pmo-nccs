@@ -9,19 +9,27 @@ description: ""
 Ladies and Gentlemen  
   
 A big thank you to all the panellists and everyone here for joining us today at the World Cities Summit (WCS) plenary session on “Combating the Climate Crisis”.  
-  
-**Cities at the Heart of Climate Change**<br>
+
+
+**Cities at the Heart of Climate Change**
+
 Addressing the climate crisis has become a critical priority for cities worldwide. Cities are at the heart of the climate crisis. With their density and concentrated activities, they generate over 70% of the global greenhouse gas emissions and are highly vulnerable to the effects of climate change.  
-  
-**Cities the Key to Climate Solutions** <br>
+
+
+**Cities the Key to Climate Solutions**
+
 On the flipside, however, cities also hold the keys to a sustainable future. Cities have the resources and capabilities to bring about a positive change to the environment. Cities already have the mandate and opportunity to protect and restore communities and ecosystems that will be impacted by climate change. Urban development need not come at the cost of environmental sustainability, if it is thoughtfully and deliberately planned. Coordination across city and national leaders, as well as between the public and private sectors, can result in the implementation of impactful strategies and products to fight climate change. COP-26 highlighted the need for these multi-sectoral partnerships, not just locally, but globally as well.  
   
-Over the past few days we have held many different dialogues and discussions at the World Cities Summit, and I am very heartened to hear of all the concrete steps that cities and companies are taking in this fight. It is essential that we all do our part, demonstrate climate leadership and set good examples for other cities to follow.  
-  
-**World Cities Summit Knowledge Councils**<br>
+Over the past few days we have held many different dialogues and discussions at the World Cities Summit, and I am very heartened to hear of all the concrete steps that cities and companies are taking in this fight. It is essential that we all do our part, demonstrate climate leadership and set good examples for other cities to follow.
+
+
+**World Cities Summit Knowledge Councils**
+
 In this spirit, I am pleased to announce the formation of our inaugural “World Cities Summit Knowledge Councils”, whose members will meet later this afternoon. The two Councils, focusing on the Science of Cities and Urban Resilience respectively, bring together some of the world’s foremost thought leaders on these topics to identify innovative and actionable ideas to shape liveable, sustainable and resilient cities. The Knowledge Councils will guide and support the Centre for Liveable Cities’ (CLC’s) research and the future agendas for the World Cities Summit.  
-  
-**Cooperation between Cities Crucial**<br>
+
+
+**Cooperation between Cities Crucial**
+
 Many cities around the world have set ambitious sustainability goals and have made net-zero commitments. These are often accompanied with detailed plans consisting of clear targets and timelines set by the cities.  
   
 It is certainly encouraging to see so many cities tackle climate change head on. Even though the circumstances behind these cities may be different, each demonstrate an admirable commitment to sustainability and net zero emissions.  
@@ -45,8 +53,10 @@ Singapore, in turn, has become a living lab to test bed such collaborative effor
 Last year, energy firm Sunseap Group announced that they will build the world’s largest floating solar farm and power storage system on the Indonesian island of Batam. It will help to reduce the carbon footprint of Batam’s industries, as well as create jobs and transfer skills to Batam’s clean energy sector.   
   
 COP-26 has advanced the multi-lateral approach in addressing climate change. I hope the World Cities Summit will continue to be a key platform for leaders and experts from all around the world to explore such collaboration in the future.  
-  
-**Net Zero need not be Zero Sum**<br>
+
+
+**Net Zero need not be Zero Sum**
+
 While it can be challenging to meet the needs of citizens, and at the same time minimise harm to the environment, achieving net zero need not be a zero sum game. As far as possible, we should try to find systems-wide solutions that maximise synergies between both needs.  
   
 For example, there is growing interest by cities to use Nature-based Solutions (NbS) to address a host of urban challenges. These are solutions at the ecosystemlevel that bring about benefits to both human well-being and biodiversity.  
@@ -57,7 +67,7 @@ At Sanya Mangrove Park in Hainan, China, previously damaged by tourism developme
   
 Singapore’s Centre for Liveable Cities (CLC) and National Parks Board (NParks) have put together a book on the important principles and enablers for Naturebased Solutions. These insights were distilled from best practices shared by experts and stakeholders from here and around the world. This book will be launched today. We hope you find this book helpful when planning for your respective Nature-based Solutions projects.  
   
-Some cities have also planned and developed integrated projects. These projects typically allow for improved efficiencies in terms of space and energy use.  
+Some cities have also planned and developed integrated projects. These projects typically allow for improved efficiencies in terms of space and energy use.
   
 CopenHill is a Waste-to-Energy plant located on an industrial waterfront in Copenhagen, Denmark that is capable of converting 440,000 tons of waste into clean energy annually. It is built together with an artificial ski slope that visitors can use allyear round.  
   
@@ -70,8 +80,10 @@ So, Singapore is continuing to invest heavily in public transportation. Our MRT 
 Likewise, we will expand our cycling network to around 1,320km by 2030 to promote more walking, cycling and active mobility.  
   
 To support a switch to electric vehicles (EVs), Singapore will retrofit and develop 8 public housing towns to be EV-ready with electric chargers at all public housing carparks in these towns by 2025. From about 2,000 charging points today, we will have 60,000 charging points nationwide by 2030.  
-  
-**Conclusion** <br>
+
+
+**Conclusion**
+
 There are many challenges ahead. But we must not only not give up the good fight; we must also win it. In this, I am heartened by the attendance at this WCS which shows the depth and commitment to addressing these existential issues.  
   
 I look forward to hearing from the panel and hope that the discussions at this WCS will bear fruit and catalyse many collaborations and solutions that will help to achieve the sustainable and resilient cities that are the key to our survival.   
