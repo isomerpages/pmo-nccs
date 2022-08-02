@@ -1,11 +1,10 @@
 ---
-title: Keynote address by 2M Indranee Rajah at the World Cities Summit 2022 Plenary
+title: Keynote address by Minister in the Prime Minister's Office, and Second Minister for Finance and National Development Indranee Rajah at the World Cities Summit 2022 Closing Plenary
 permalink: /media/speeches/2M-Indranee-at-WCS2022-combating-the-climate-crisis
 date: 2022-08-02
 layout: post
 description: ""
 ---
-Keynote address by Minister in the Prime Minister's Office and Second Minister for Finance and National Development, Indranee Rajah at the World Cities Summit 2022 Plenary 
 
 Ladies and Gentlemen  
   
