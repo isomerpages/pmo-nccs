@@ -9,7 +9,7 @@ description: ""
 **Resilient, Sustainable and Cohesive Cities**
 
 The Honourable Patricia de Lille, Minister of Public Works and Infrastructure,  Republic of South Africa<br>
-Desmond Lee, Minister for National Development, Singapore<br>
+Mr. Desmond Lee, Minister for National Development, Singapore<br>
 Mayor Oh Se-hoon, Mayor of Seoul, Republic of Korea<br>
 Dato Maimunah Mohd Sharif, Executive Director of UN-Habitat<br>
 Dr Chi Young Cho, President and Chief Innovation Officer, Hyundai Motor Group<br>
