@@ -23,7 +23,8 @@ It has been more than 4 years since the last World Cities Summit was held as a f
   
 All these have major impacts on cities. Cities formed and grew because of the important economic, social, and cultural functions they play. But cities have also generated new problems because of the growth of economic activity and the crush of many people living together – and over the centuries, cities have been afflicted by plague, pollution, and uprisings.   
 
-**Emerging Stronger from COVID-19**<br>
+**Emerging Stronger from COVID-19**
+
 The pandemic has highlighted the challenges that cities face, in terms of how to be more resilient, sustainable and cohesive. In the meantime, cities will continue apace. The percentage of the world’s population living in urban areas has risen from 39% in 1980 to 55% today. Both global population and the extent of urbanisation will continue to grow. The UN projects that urbanisation will increase to 68% globally by 2050. This translates to an additional 2.5 billion people in urban areas. Bigger cities are likely to grow even bigger, and smaller and medium sized cities will continue to grow, especially in the developing world. Close to 90% of the growth in the world’s urban population will take place in Asia and Africa.  
   
 We need a new paradigm to put all these things together – to plan, build, rejuvenate and create resilient, sustainable and cohesive cities. This World Cities Summit will help us share experiences and be inspired by what has succeeded, and understand what has not worked so well. This will allow our cities and our city leaders to offer the pathway to a better future – for our residents, our countries, regions, and our world.   
@@ -34,7 +35,8 @@ First, do we become more concentrated or distributed? Build more densely or exte
   
 Let me elaborate on the physical challenges as well as the social cohesion challenges that cities face as they grow – borrowing the terminology of our friends in the Infotech world, the hardware in terms of physical development, the firmware in terms of processes, rules and regulations that make the city work, and the software in terms of building cohesive communities. As I said, there are no easy solutions, and the paths we choose depend on our history, geography and cultural roots and values.  
 
-**Concentration or distribution?**<br>
+**Concentration or distribution?**
+
 First, concentration or distribution. Since historic times, populations have concentrated in places which offer natural advantages – resources, water, agreeable climate, along natural routes in river valleys, or sheltered coves along well travelled coastlines. The concentration of people and resources in urban centres continues to bring many advantages. Cities reap economies of scale in efficiently producing, supplying and exchanging a wide variety of goods and services for a large number of people. The consolidation of resources allows cities to provide better basic and raise the level of services that can provided to a higher level: tertiary education, specialised healthcare, more airline connections, and a wider variety of cultural activities. The concentration of people, economic activities and knowledge sparks new ideas and innovation, which drive economic growth, create new jobs, and attract even more people to the city.    
   
 However, we are all too familiar with the problems that afflict cities: Overcrowding and traffic jams, long and crowded commutes, air, noise and light pollution, sanitation and the management of urban waste streams, higher levels of stress and health issues, and as the COVID-19 pandemic has shown, while urbanisation is designed to increase opportunities for interaction, this also increases contact and exposure, and the likelihood of transmission and evolution of infectious diseases. Cities can become incubators, and multipliers for disease outbreaks.  
@@ -51,7 +53,8 @@ Digitalisation is also a key enabler. Citizens can stay connected and collaborat
   
 On a wider system level, many cities, like the city of Seoul, are investing in infrastructure to boost smart innovation and digital services for city planning. Many cities also have or are implementing city operational centres, that feel the pulse of the city through feedback from citizens and sensor networks, are connected to key city agencies, and supported by AI and other decision tools to optimise the flows and rhythm of the city, and anticipate and respond to incidents.    
 
-**Growth, yet sustainable?**<br>
+**Growth, yet sustainable?**
+
 The second dilemma is: can we achieve growth, yet have sustainable and liveable communities? While good planning for the hardware of a city, its physical infrastructure, provides the foundation for a more sustainable and liveable city, another key element is the firmware – the processes, rules and regulations that translate policy intentions into actual actions by agencies, property owners, developers and citizens.   
   
 One of the key things we talked about financing just now is to get the economics right. We need to appropriately reflect the cost of externalities when we price our activities and resources. This will incentivise consumers and businesses to take into account the real cost of using these resources and avoid excessive consumption or waste. It may be a paradox but charging the right price and sometimes a higher price may help to ensure that basic services can be provided because people then are prepared to invest in them.  
@@ -66,7 +69,8 @@ This is why Singapore has also invested heavily in public transport; and since 2
   
 Building resilience, whether to pandemics, natural disasters, or to the effects of climate change such as more extreme weather and rising sea levels, is something that we need to do to protect our cities and our residents. A key way to push the boundaries and unlock green growth opportunities is to invest in R&D and catalyse innovative and sustainable urban solutions. Cities can serve as “living laboratories” for companies and researchers to develop, test and validate clean and sustainable technologies in real-world settings before implementing them on a wide scale to more cities.   
 
-**Open, yet cohesive?**<br>
+**Open, yet cohesive?**
+
 The third dilemma, which has been touched on by several of our speakers earlier, is how do we build cohesive cities? How do we stay open, yet remain cohesive and united in purpose, serving all the residents including the most vulnerable. This speaks to the software of a city. How can it not only be more liveable but be more loveable both ways? The residents love the city, and the city leadership loves the residents, and the residents love each other.   
   
 Cities thrive by being open – attracting skilled, ambitious, hardworking and entrepreneurial people; bringing them together to spark new ideas; and driving economic progress. However, all over the world, being open has also led to growing anti-globalisation, populism and feelings of resentment towards newcomers to the city or to a country. This is particularly so when the disruption of globalisation and openness and technological advance are felt by existing residents, the disruptions of these are felt by existing residents, while the fruits of globalisation are not distributed equitably and may accrue to the new arrivals more than existing residents.   
@@ -83,7 +87,8 @@ The creation of shared experiences and shared spaces also helps us to build brid
   
 Residents have made long-term commitments to staying in the city to build their careers and raise their families. Those who came initially for work, may subsequently become residents, if they share the city’s core values and are prepared to contribute to the shared long-term good of the city and its citizens. 
 
-**Conclusion**<br>
+**Conclusion**
+
 We are at this World Cities Summit because we believe that cities can be agents of change. We have to pool our experiences and knowledge, and work with one another, on the hardware, firmware and software of our cities. This will enable each of us to build unique cities of distinction which are resilient, sustainable and cohesive – eminently liveable and loveable homes for our people. Let us unite our communities so that we can emerge stronger from the ongoing crises and be ready to lead in addressing the future challenges that our planet faces.   
   
 I wish all of you a fruitful and insightful summit. Thank you very much.
