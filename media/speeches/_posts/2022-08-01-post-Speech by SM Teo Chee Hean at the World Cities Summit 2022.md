@@ -1,5 +1,5 @@
 ---
-title: Speech by SM Teo Chee Hean at the World Cities Summit 2022
+title: Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at the World Cities Summit 2022 Plenary - "Liveable and Sustainable Cities: Emerging Stronger" on 1 August 2022
 permalink: /media/speeches/sm-teo-chee-hean-at-WCS2022
 date: 2022-08-01
 layout: post
@@ -8,14 +8,14 @@ description: ""
 **Resilient, Sustainable and Cohesive Cities**
 
 
-The Honourable Patricia de Lille, Minister of Public Works and Infrastructure,  Republic of South Africa  
-Desmond Lee, Minister for National Development, Singapore    
-Mayor Oh Se-hoon, Mayor of Seoul, Republic of Korea  
-Dato Maimunah Mohd Sharif, Executive Director of UN-Habitat  
-Dr Chi Young Cho, President and Chief Innovation Officer, Hyundai Motor Group  
+The Honourable Patricia de Lille, Minister of Public Works and Infrastructure,  Republic of South Africa<br>
+Desmond Lee, Minister for National Development, Singapore<br>
+Mayor Oh Se-hoon, Mayor of Seoul, Republic of Korea<br>
+Dato Maimunah Mohd Sharif, Executive Director of UN-Habitat<br>  
+Dr Chi Young Cho, President and Chief Innovation Officer, Hyundai Motor Group<br>
 
-Distinguished Guests  
-Ladies and Gentlemen  
+Distinguished Guests<br>
+Ladies and Gentlemen<br>
   
 Good morning. A very warm welcome to Singapore and the World Cities Summit 2022.  
   
