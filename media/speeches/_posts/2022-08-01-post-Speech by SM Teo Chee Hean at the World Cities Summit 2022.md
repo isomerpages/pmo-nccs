@@ -1,10 +1,11 @@
 ---
-title: Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at the World Cities Summit 2022 Plenary - "Liveable and Sustainable Cities: Emerging Stronger" on 1 August 2022
+title: Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at the World Cities Summit 2022 Plenary on 1 August 2022
 permalink: /media/speeches/sm-teo-chee-hean-at-WCS2022
 date: 2022-08-01
 layout: post
 description: ""
 ---
+
 **Resilient, Sustainable and Cohesive Cities**
 
 
