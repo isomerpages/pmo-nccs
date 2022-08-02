@@ -51,8 +51,8 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 
 **Secretariat**
 
-* Mr Benedict Chia, Director (Strategic Issues), National Climate Change Secretariat, Strategy Group, Prime Minister's Office
-* Mr Heng Jian Wei, Director (Policy and Planning), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
+* Mr Benedict Chia, Director General (Climate Change), National Climate Change Secretariat, Strategy Group, Prime Minister's Office
+* Mr Heng Jian Wei, Director (Policy), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
 
 **Long-Term Emissions and Mitigation Working Group**
 
