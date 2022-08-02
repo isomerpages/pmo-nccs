@@ -30,7 +30,7 @@ In this spirit, I am pleased to announce the formation of our inaugural “World
 
 **Cooperation between Cities Crucial**
 
-Many cities around the world have set ambitious sustainability goals and have made net-zero commitments. These are often accompanied with detailed plans consisting of clear targets and timelines set by the cities.  
+Many cities around the world have set ambitious sustainability goals and have made net zero commitments. These are often accompanied with detailed plans consisting of clear targets and timelines set by the cities.  
   
 It is certainly encouraging to see so many cities tackle climate change head on. Even though the circumstances behind these cities may be different, each demonstrate an admirable commitment to sustainability and net zero emissions.  
   
@@ -42,9 +42,9 @@ Singapore too has set our own sustainability goals. Last year, we launched the S
   
 It will require a multi-stakeholder whole-of-nation effort for Singapore to achieve our sustainability goals. This will be enabled by a Green Government, with the public sector leading in environmental sustainability; and Green Citizenry, where individuals, communities and businesses play their part.   
   
-Every city faces its own set of challenges in the quest to achieve net zero emissions. Singapore is no exception. However, unlike most cities, we are in a unique situation of being both a city and a country. We do not have the luxury of a hinterland or surrounding areas over which to expand. We have to provide for everything – defence, industries, homes and critical infrastructure – all within our 728 square kilometres of land. Relative to others, it’s rather like having to fit everything onto the head of a pin. We also do not have the natural resources, land area or the climatic conditions for the large-scale deployment of renewable energy sources. All these make it difficult for Singapore to achieve net-zero emissions in the same way that cities in larger countries do.  
+Every city faces its own set of challenges in the quest to achieve net zero emissions. Singapore is no exception. However, unlike most cities, we are in a unique situation of being both a city and a country. We do not have the luxury of a hinterland or surrounding areas over which to expand. We have to provide for everything – defence, industries, homes and critical infrastructure – all within our 728 square kilometres of land. Relative to others, it’s rather like having to fit everything onto the head of a pin. We also do not have the natural resources, land area or the climatic conditions for the large-scale deployment of renewable energy sources. All these make it difficult for Singapore to achieve net zero emissions in the same way that cities in larger countries do.  
   
-The constraints we face make it clear that it is crucial for cities to work together to collectively achieve net-zero emissions. By collaborating, cities can achieve much greater environmental and economic benefits together than they can do alone.  
+The constraints we face make it clear that it is crucial for cities to work together to collectively achieve net zero emissions. By collaborating, cities can achieve much greater environmental and economic benefits together than they can do alone.  
   
 For example, Singapore’s main option for tapping renewable energy is solar energy, but it has its limitations, due to intermittency issues and need for space to deploy. One way to incorporate more renewable energy is through partnership with our neighbours and developing regional grids, that will allow us to tap on clean energy from other countries. Our Energy Market Authority has initiated cross-border hydropower trade of up to 100 Megawatts (MW) under the Lao PDR-Thailand-Malaysia-Singapore Power Integration Project.  
   
