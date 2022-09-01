@@ -12,19 +12,19 @@ Consultation Period: 3 to 26 September 2022
 **Aim**
 1.	The National Climate Change Secretariat (NCCS), Strategy Group, Prime Minister’s Office (PMO-SG), invites members of the public to contribute views on how Singapore can work towards becoming a low-carbon country as we consider raising our long-term ambition to achieve net zero by 2050. The views will be taken into consideration when Singapore makes a formal revision to our Long-Term Low Emissions Development Strategy (LEDS) and 2030 Nationally Determined Contribution (NDC) before the end of 2022. 
 
-**Background**
+**Background**<br>
 2.	Climate change is a real and existential threat. Latest findings from the Intergovernmental Panel on Climate Change (IPCC)’s Sixth Assessment Report assessed that the impacts of climate change are more apparent and will affect us more severely than previously thought. Although Singapore contributes only 0.1% of the global emissions, we are disproportionately affected by its effects as a low-lying island city state. 
 
-**A decisive move to net zero**
+**A decisive move to net zero**<br>
 3.	Singapore is an early and committed contributor to global climate action. In 2020, Singapore submitted our enhanced 2030 NDC and LEDS. Since then, there have been important developments globally, including at COP-26 in 2021 where the Glasgow Climate Pact was agreed upon. As announced at Budget 2022, we intend to achieve net zero emissions by or around mid-century, which is a significant improvement on our previously submitted LEDS to halve emissions from our 2030 peak to 33 MtCO2e by 2050, with a view to achieving net zero emissions as soon as viable in the second half of the century. In addition, we also announced at Budget 2022 that we would review our 2030 NDC which currently pledges to peak emissions at 65 MtCO2e around 2030. This will bring us in line with the Glasgow Climate Pact. 
 
-**Seeking views on Singapore’s climate ambition**
+**Seeking views on Singapore’s climate ambition**<br>
 4.	Members of the public are invited to contribute views on Singapore’s climate ambition as we consider reaching net zero by 2050:
 a.	Is net zero by 2050 too ambitious, just right, or not sufficiently ambitious?
 b.	Should we enhance Singapore’s 2030 NDC which currently pledges to peak emissions at 65 MtCO2e around 2030? 
 c.	In our transition to a low-carbon country, in which areas including Government, businesses, communities, and citizens is Singapore doing well and in which areas can Singapore do more? 
 
-**Global momentum for climate action**
+**Global momentum for climate action**<br>
 5.	Many countries around the world have pledged to reach net zero by various timelines. More than 60 countries including Australia, Japan, Malaysia, South Korea, United Kingdom, United States and Vietnam have pledged to achieve net zero by 2050. Other countries such as Indonesia and China have pledged to achieve net zero by 2060, and India has pledged to achieve net zero by 2070. 
 
 6.	As more countries and companies made net-zero commitments, this will spur greater investment in low-carbon solutions, making them technologically and economically viable earlier. 
@@ -38,7 +38,7 @@ Opportunities and Trade-offs
 
 10.	As a small country with limited alternative energy sources, land and manpower, our trade-offs continue to be much starker than what most other countries face. Many of the measures that would bring us to net zero are contingent on effective international cooperation, as well as the maturity of decarbonisation technologies. Some examples include the import of renewable energy, the availability of Carbon Capture and Storage sites and the sourcing of green hydrogen.
 
-**Our Mitigation Strategy**
+**Our Mitigation Strategy**<br>
 11.	Nonetheless, Singapore is already taking decisive steps towards transforming our country for a low-carbon future. This section outlines three notable areas: (I) implementing an effective carbon tax regime, (II) transforming our industries and economy, and (III) decarbonising our energy grid. Further mitigation measures that we are taking can be found here. The Government welcomes suggestions from the public, as Singapore embarks on this whole-of-nation transition.
 
 12.	Singapore implemented a carbon tax, the first carbon pricing scheme in Southeast Asia, on 1 January 2019. A carbon tax provides a broad-based price signal so that businesses and individuals will be able to internalise the costs of carbon. The carbon tax level is set at S$5/tCO2e in the first instance from 2019 to 2023, to give our businesses time to adjust. To move decisively to achieve our enhanced climate ambition, the carbon tax will be raised to $25/tCO2e in 2024 and 2025, and $45/tCO2e in 2026 and 2027, with a view to reaching $50-$80/tCO2e by 2030. This will provide a strong price signal and impetus for businesses and individuals to reduce their carbon footprint in line with national climate goals.
@@ -49,5 +49,5 @@ Opportunities and Trade-offs
 
 15.	Finally, the journey to a net zero Singapore requires everyone to play a part under the Singapore Green Plan 2030. Since its launch in 2021, the Green Plan has engaged over 25,000 Singaporeans. A whole-of-nation effort and a living plan, it aims to galvanise every Singaporean to contribute to the movement. It charts ambitious and concrete targets to advance Singapore’s agenda on sustainable development. Activities under the Green Plan include the OneMillionTrees initiative, the Youth Action Challenge, the Green Plan Conversations, and more. You can find out more about the Green Plan here.
 
-**We welcome your feedback and views**
+**We welcome your feedback and views**<br>
 We invite members of the public to provide their feedback on Singapore’s climate ambition by 26 September 2022. Please submit your views by visiting https://go.gov.sg/climate-consultation-22-feedback or clicking the button below.
