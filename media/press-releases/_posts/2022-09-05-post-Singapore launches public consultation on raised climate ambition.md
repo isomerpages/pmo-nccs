@@ -1,5 +1,5 @@
 ---
-title: Singapore launches public consultation on raised climate ambition, seeks feedback on low-carbon transition
+title: Singapore Launches Public Consultation on Raised Climate Ambition, Seeks Feedback on Low-Carbon Transition
 permalink: /media/press-releases/climate-ambition-public-consultation-2022/
 date: 2022-09-05
 layout: post
