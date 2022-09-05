@@ -5,7 +5,7 @@ third_nav_title: Overview
 ---
 ### PUBLIC CONSULTATION
 
-**Public Consultation on Singapore’s Climate Ambition**
+**Public Consultation on Singapore’s Raised Climate Ambition**
 
 Consultation Period: 5 to 26 September 2022
 
