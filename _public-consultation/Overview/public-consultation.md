@@ -17,4 +17,4 @@ Building on Singapore’s long-standing emphasis on sustainable development, thi
 
 **We welcome your feedback and views**<br>
 
-We invite members of the public to provide their feedback on Singapore’s climate ambition by 26 September 2022. Please submit your views by visiting https://go.gov.sg/climate-consultation-22-feedback.
+We invite members of the public to provide their feedback on Singapore’s climate ambition by 26 September 2022. Please submit your views by visiting https://go.gov.sg/reach-pc-climate-2022.
