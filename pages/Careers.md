@@ -7,7 +7,6 @@ Join our vibrant team and contribute to ensuring Singapore is well-positioned fo
 
 <br>
 
-
 | Job Title | Description| Link|
 | -------- | -------- | -------- |
 | Deputy Director / Senior Assistant Director (CCSSTO)| As the team lead, you will manage the team to work with other agencies, the private sector, and the research community, to drive cross cutting work in climate change and sustainability, science and technology.| [Find out more](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Strategy%20Group#/JobDescription/12681710/005056a3-d347-1edd-8ad0-9f3541c52aee)|
