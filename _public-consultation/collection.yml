@@ -2,6 +2,8 @@ collections:
   public-consultation:
     output: true
     order:
+      - Overview/closed on 26Sep22 public consultation on raised climate
+        amibition.md
       - Overview/.keep
       - Overview/public-consultation.md
       - Overview/4-mar-2020-feedback-from-public-on-singapore-s-long-term-low-emissions-development-strategy.md
