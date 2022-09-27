@@ -7,7 +7,7 @@ third_nav_title: Overview
 ### [CLOSED ON 26 SEPT 2022] PUBLIC CONSULTATION ON SINGAPORE’S RAISED CLIMATE AMBITION
 
 
-A public consultation exercise was launched from 5 – 26 Sept 2022 inviting members of the public to contribute views on how Singapore can work towards becoming a low-carbon country as we consider raising our long-term ambition to achieve net zero by 2050.
+A public consultation exercise was launched from 5 – 26 September 2022 inviting members of the public to contribute views on how Singapore can work towards becoming a low-carbon country as we consider raising our long-term ambition to achieve net zero by 2050.
 
 Climate change is a real and existential threat. Latest findings from the Intergovernmental Panel on Climate Change (IPCC)’s Sixth Assessment Report assessed that the impacts of climate change are more apparent and will affect us more severely than previously thought. Although Singapore contributes only 0.1% of the global emissions, we are disproportionately affected by its effects as a low-lying island city state.
 
