@@ -1,6 +1,6 @@
 ---
 title: Parliamentary Reply by Senior Minister Teo Chee Hean on Public
-  Consultation on Singapore's Climate
+  Consultation on Singapore's Climate Ambition
 permalink: /media/parliamentary-replies/parliamentary-reply-public-consultation-climate-ambition/
 date: 2022-10-04
 layout: post
