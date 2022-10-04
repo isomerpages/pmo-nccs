@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**XX-NTH PARLIAMENT OF SINGAPORE  
+**FOURTEENTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER**
 
 **Mr Dennis Tan Lip Fong:** To ask the Prime Minister whether the findings of the Public Consultation on Singapore's Climate Ambition will be published in full, prior to any formal revision of Singapore's Long-Term Low Emissions Development Strategy and 2030 Nationally Determined Contribution, before the end of 2022.
