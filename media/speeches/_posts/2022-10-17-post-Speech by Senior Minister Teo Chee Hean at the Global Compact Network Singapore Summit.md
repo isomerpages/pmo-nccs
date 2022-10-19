@@ -1,6 +1,6 @@
 ---
-title: Speech by Senior Minister Teo Chee Hean at the Global Compact Network
-  Singapore Summit
+title: Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at the 2022 Global Compact Network Singapore (GCNS) Summit on 17 October 2022
+
 permalink: /media/speeches/permalink/
 date: 2022-10-17
 layout: post
