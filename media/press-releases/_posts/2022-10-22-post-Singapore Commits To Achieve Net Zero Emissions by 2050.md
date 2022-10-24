@@ -31,7 +31,7 @@ Annex A - Infographic on Charting Singapore’s Net Zero Future
 
 [Annex D1 - Summary Feedback Received from REACH Public Consultation on Singapore's Raised Climate Ambition](/files/ANNEX D1 - SUMMARY OF FEEDBACK FROM PUBLIC CONSULTATIONS ON SINGAPORE’S RAISED CLIMATE AMBITIONS)
 
-[Annex D2 - Feedback Received from REACH Public Consultation on Singapore’s Raised Climate Ambition](https://www.nccs.gov.sg/public-consultation/public-consultation-on-raised-climate-ambition/)
+[Annex D2 - Feedback Received from REACH Public Consultation on Singapore’s Raised Climate Ambition](https://www.nccs.gov.sg/public-consultation/25-oct-2022-feedback-reach-public-consultations-sg-climate-ambition/)
 
 * * *
 
