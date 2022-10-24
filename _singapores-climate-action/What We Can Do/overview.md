@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /singapores-climate-action/overview/what-we-can-do-overview
+permalink: /singapores-climate-action/overview/what-we-can-do-overview/
 third_nav_title: What We Can Do
 ---
 ### WHAT WE CAN DO
@@ -11,4 +11,4 @@ From designating 2018 as the [<a href="https://www.mse.gov.sg/resource-room/cate
 
 In Feb 2021, the government has put together a ten-year plan called the Singapore Green Plan 2030. The Green Plan is a whole-of-nation sustainable development agenda, with firm action plans, touching on almost every dimension of our lives. 
 
-Play your part in the Green Plan. Visit [here](https://www.greenplan.gov.sg/take-action/as-individual) for more information.
+Play your part in the Green Plan. Visit [here](https://www.greenplan.gov.sg/take-action/what-you-can-do/) for more information.
