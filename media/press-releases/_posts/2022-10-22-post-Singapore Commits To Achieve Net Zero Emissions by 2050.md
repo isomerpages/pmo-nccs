@@ -20,7 +20,7 @@ These plans and revised targets build upon the announcement during Budget 2022 o
 
 Executing the net zero transition will not be easy for Singapore given our small geographical size and lack of renewable energy resources. However, Singapore has chosen to commit ourselves to these targets because we have a responsibility to carefully steward a sustainable environment for future generations. The public and private sectors, as well as community and individuals, will all have key roles to play in coming together to transform the way we live, work and play in a low-carbon future, and to seize new opportunities in this green transition.
 
-![](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future)
+![](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
 
 * * *
 
