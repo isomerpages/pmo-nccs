@@ -74,7 +74,7 @@ Respondents provided the following feedback:
 
 * * *
 **Conclusion**<br>
-NCCS wishes to thank all individuals, businesses and organisations for their feedback. Members of the public who wish to share their submission publicly on the NCCS website may do so via the following link by 30 November 2022: 
+NCCS wishes to thank all individuals, businesses and organisations for their feedback. Members of the public who wish to share their submission publicly on the NCCS website may do so via the following link by 30 November 2022: [https://go.gov.sg/publish-my-feedback-climate2022](https://go.gov.sg/publish-my-feedback-climate2022)
 
 
 
