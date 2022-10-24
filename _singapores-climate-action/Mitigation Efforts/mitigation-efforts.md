@@ -12,6 +12,3 @@ Despite these challenges, we have taken the next best step by switching from car
 **Sectoral Measures to Reduce Emissions**
 
 ![Alt text for image on Isomer site](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
-
-Source: 
-*“Charting Singapore’s Low-Carbon and Climate Resilient Future” pages 8-9*
