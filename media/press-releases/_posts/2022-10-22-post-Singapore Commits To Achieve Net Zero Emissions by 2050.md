@@ -25,13 +25,13 @@ Executing the net zero transition will not be easy for Singapore given our small
 Annex A - Infographic on Charting Singapore’s Net Zero Future
 ![](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
 
-Annex B - Factsheet on GreenGov.SG
+[Annex B - Factsheet on GreenGov.SG](/files/ANNEX B - Factsheet on GreenGovSG.pdf)
 
-Annex C - Factsheet on Jurong Lake District
+[Annex C - Factsheet on Jurong Lake District](/files/ANNEX C - Factsheet on Jurong Lake District)
 
-Annex D1 - Summary Feedback Received from REACH Public Consultation on Singapore's Raised Climate Ambition
+[Annex D1 - Summary Feedback Received from REACH Public Consultation on Singapore's Raised Climate Ambition](/files/ANNEX D1 - SUMMARY OF FEEDBACK FROM PUBLIC CONSULTATIONS ON SINGAPORE’S RAISED CLIMATE AMBITIONS)
 
-Annex D2 - Feedback Received from REACH Public Consultation on Singapore’s Raised Climate Ambition
+[Annex D2 - Feedback Received from REACH Public Consultation on Singapore’s Raised Climate Ambition](https://www.nccs.gov.sg/public-consultation/public-consultation-on-raised-climate-ambition/)
 
 * * *
 
