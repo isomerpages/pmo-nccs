@@ -83,7 +83,9 @@ The agreement on Article 6 clears the path for the establishment of mechanisms t
 
 **Singapore’s Pledge to Reduce Emissions**
 
-Prior to the UNFCCC Climate Change Conference in Copenhagen in 2009, Singapore pledged to reduce our greenhouse gas emissions by 16 per cent below business-as-usual (BAU) levels in 2020. In line with the agreement adopted in Paris in December 2015, Singapore has made a further commitment to reduce our Emissions Intensity by 36 per cent from 2005 levels by 2030, and stabilise our greenhouse gas emissions with the aim of peaking around 2030.
+Prior to the UNFCCC Climate Change Conference in Copenhagen in 2009, Singapore pledged to reduce our greenhouse gas emissions by 16 per cent below business-as-usual (BAU) levels in 2020. Singapore has achieved this pledge - our 2020 emissions of 52.8MtCO<sub>2</sub>e is equivalent to 32 per cent below its BAU levels, and it provides us with the confidence to further enhance our climate ambition.
+
+In line with the agreement adopted in Paris in December 2015, Singapore has made a further commitment to reduce our Emissions Intensity by 36 per cent from 2005 levels by 2030, and stabilise our greenhouse gas emissions with the aim of peaking around 2030.
 
 On 31 March 2020, Singapore submitted its enhanced Nationally Determined Contribution (NDC) and Long-Term Low-Emissions Development Strategy (LEDS) document to the UNFCCC. Singapore’s enhanced NDC now states an absolute emissions target to peak emissions at 65 MtCO<sub>2</sub>e around 2030. Singapore’s LEDS builds on the enhanced NDC by aspiring to halve emissions from its peak to 33 MtCO<sub>2</sub>e by 2050, with a view to achieving net zero emissions as soon as viable in the second half of the century.
 
