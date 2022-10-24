@@ -35,15 +35,15 @@ The National Climate Change Secretariat (NCCS) conducted an online public consul
 Respondents provided the following feedback:
 
 **_(I)_**             **_Catalyse_** **_Business Transformation_**<br>
-5.             _Pivot away from emissions-intensive industries__._  Singapore can diversify its economy and pivot away from emissions-intensive industries such as the Energy and Chemicals sector. The Government can set concrete targets for reducing sectoral emissions, or to increase the output of sustainable products from Jurong Island.
+5.             _Pivot away from emissions-intensive industries._  Singapore can diversify its economy and pivot away from emissions-intensive industries such as the Energy and Chemicals sector. The Government can set concrete targets for reducing sectoral emissions, or to increase the output of sustainable products from Jurong Island.
 
-6.             _Businesses to implement decarbonisation plans__._  Businesses can put in place decarbonisation plans, commit to net zero targets such as the [Science Based Targets initiative](https://sciencebasedtargets.org), and factor Environmental, Social and Governance (ESG) considerations into their business models, for instance, by incorporating a carbon cost in their financial analyses, or tying ESG outcomes to executive pay. Businesses can encourage employees to adopt environmentally friendly behaviours. They can also pivot to offer more sustainable goods and services, such as reducing packaging, which would make it easier for individuals to live a lower-carbon lifestyle. The Government can put in place both incentives — such as grants and subsidies — and disincentives to nudge companies in the right direction. Small and Medium Enterprises (SMEs) might particularly require assistance with the green transition.
+6.             _Businesses to implement decarbonisation plans._  Businesses can put in place decarbonisation plans, commit to net zero targets such as the [Science Based Targets initiative](https://sciencebasedtargets.org), and factor Environmental, Social and Governance (ESG) considerations into their business models, for instance, by incorporating a carbon cost in their financial analyses, or tying ESG outcomes to executive pay. Businesses can encourage employees to adopt environmentally friendly behaviours. They can also pivot to offer more sustainable goods and services, such as reducing packaging, which would make it easier for individuals to live a lower-carbon lifestyle. The Government can put in place both incentives — such as grants and subsidies — and disincentives to nudge companies in the right direction. Small and Medium Enterprises (SMEs) might particularly require assistance with the green transition.
 
-7.             _Encourage emissions reporting__._  Businesses can steer clear of greenwashing practices by strengthening their carbon monitoring and reporting practices for greater accountability. Companies can also look into measuring and disclosing their Scope 3 emissions. The Government can consider making the reporting requirements for businesses mandatory through legislation.
+7.             _Encourage emissions reporting._  Businesses can steer clear of greenwashing practices by strengthening their carbon monitoring and reporting practices for greater accountability. Companies can also look into measuring and disclosing their Scope 3 emissions. The Government can consider making the reporting requirements for businesses mandatory through legislation.
 
-8.             _Provide support for workers in a green transition__._  The Government can reskill and provide support to affected workers, as part of broader efforts to build a workforce ready for the green economy.
+8.             _Provide support for workers in a green transition._  The Government can reskill and provide support to affected workers, as part of broader efforts to build a workforce ready for the green economy.
 
-9.             _Make available green financing__._  The Government and financial institutions can cease funding local and overseas fossil fuel projects, divest from fossil fuels, and provide financing for businesses looking to transition away from fossil fuels.
+9.             _Make available green financing._  The Government and financial institutions can cease funding local and overseas fossil fuel projects, divest from fossil fuels, and provide financing for businesses looking to transition away from fossil fuels.
 
 **_(II)_**           **_Invest in Low-Carbon Technologies_**<br>
 10.             _Invest in clean energy_.  Singapore can ramp up investment in and deployment of alternative energy technologies, for instance, solar, by incentivising private home and building owners to install them. Singapore can reconsider nuclear power as a strategy for both sustainability and supply resilience, given recent advances in technology.
@@ -71,13 +71,11 @@ Respondents provided the following feedback:
 **_(V)_**          **_Right-Pricing Carbon to Shape Business Decisions and Consumer Behaviour_**<br>
 20.          _Calibrate the carbon tax_.  The Government’s decision to raise the carbon tax progressively to S$50–$80/tCO2e by 2030 is in the right direction. It can consider further increasing the carbon price, and lowering the emissions threshold of 25ktCO2e for industrial facilities to include smaller emitters. It can also consider a progressive system of taxation in which larger emitters, and those with greater means, should bear higher costs. For transparency, the Government can disclose carbon tax allowances given to companies, particularly those that contribute significantly to the nation’s carbon emissions. It can also consult the public and disclose its criteria for determining eligible carbon credits to offset carbon tax.
 
-21.          _Support for transition__._ The Government can provide more support to households, especially vulnerable and low-income segments of society, to ensure they are not adversely affected by the carbon tax and other climate change policies.
+21.          _Support for transition._ The Government can provide more support to households, especially vulnerable and low-income segments of society, to ensure they are not adversely affected by the carbon tax and other climate change policies.
 
 * * *
 **Conclusion**<br>
-NCCS wishes to thank all individuals, businesses and organisations for their feedback. Members of the public who wish to share their submission publicly on the NCCS website may do so via the following link by 30 November 2022: [https://go.gov.sg/publish-my-feedback-climate2022](https://go.gov.sg/publish-my-feedback-climate2022)
-
-
+22.          NCCS wishes to thank all individuals, businesses and organisations for their feedback. Members of the public who wish to share their submission publicly on the NCCS website may do so via the following link by 30 November 2022: [https://go.gov.sg/publish-my-feedback-climate2022](https://go.gov.sg/publish-my-feedback-climate2022)
 
 * * *
 [1] 186 survey respondents did not answer this optional question.
