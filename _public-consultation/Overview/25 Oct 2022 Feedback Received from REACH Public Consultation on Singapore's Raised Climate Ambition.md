@@ -31,6 +31,7 @@ The National Climate Change Secretariat (NCCS) conducted an online public consul
 * * *
  
 **Summary of Suggestions Raised in Qualitative Feedback**<br>
+
 Respondents provided the following feedback:
 
 **_(I)_**             **_Catalyse_** **_Business Transformation_**<br>
