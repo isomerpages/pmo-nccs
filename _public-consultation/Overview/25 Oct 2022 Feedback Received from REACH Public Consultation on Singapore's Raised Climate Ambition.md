@@ -27,9 +27,9 @@ The National Climate Change Secretariat (NCCS) conducted an online public consul
 
 ![Figure 4](/images/Annex%20D2%20Fig%204.png)
 **Figure** **4**: 94% of all respondents agreed that they were willing to play their part in helping Singapore achieve its net-zero ambition.
-
 <br>
-
+* * *
+ 
 **Summary of Suggestions Raised in Qualitative Feedback**<br>
 Respondents provided the following feedback:
 
@@ -72,6 +72,7 @@ Respondents provided the following feedback:
 
 21.          _Support for transition__._ The Government can provide more support to households, especially vulnerable and low-income segments of society, to ensure they are not adversely affected by the carbon tax and other climate change policies.
 
+* * *
 **Conclusion**<br>
 NCCS wishes to thank all individuals, businesses and organisations for their feedback. Members of the public who wish to share their submission publicly on the NCCS website may do so via the following link by 30 November 2022: 
 
