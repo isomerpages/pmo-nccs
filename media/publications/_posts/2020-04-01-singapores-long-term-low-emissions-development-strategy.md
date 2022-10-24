@@ -9,7 +9,7 @@ Singapore's Long-Term Low-Emissions Development Strategy (LEDS) document titled 
 
 In October 2022, Singapore announced that it will raise its national climate target to achieve net zero emissions by 2050 as part of its LEDS.
 
-To enable Singapore’s low-carbon transition, the LEDS will have three thrusts: 
+To enable Singapore’s low-carbon transition, the 2020 LEDS has three thrusts: 
 
 a.	Transformations in industry, economy and society, e.g. more renewable energy, greater energy efficiency, reducing energy consumption;
 
