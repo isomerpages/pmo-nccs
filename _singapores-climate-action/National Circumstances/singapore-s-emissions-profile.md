@@ -27,4 +27,4 @@ Singapore ranks 27th out of 142 countries in terms of emissions per capita based
 
 *Source: CO2 Emissions from Fuel Combustion - 2018 Highlights © OECD/International Energy Agency, 2018*
 
-See [Singapore’s past emissions data](https://file.go.gov.sg/2018emissionsprofile.jpg).
+See [Singapore’s past emissions data](https://file.go.gov.sg/2019emissionsprofile.png).
