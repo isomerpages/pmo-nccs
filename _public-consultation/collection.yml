@@ -2,6 +2,8 @@ collections:
   public-consultation:
     output: true
     order:
+      - Overview/25 Oct 2022 Feedback Received from REACH Public Consultation on
+        Singapore's Raised Climate Ambition.md
       - Overview/.keep
       - Overview/public-consultation.md
       - Overview/Closed On 26 Sept 2022 Public Consultation on Singapore's
