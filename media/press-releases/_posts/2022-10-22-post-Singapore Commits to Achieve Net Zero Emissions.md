@@ -1,7 +1,7 @@
 ---
 title: Singapore Commits to Achieve Net Zero Emissions by 2050 and to a Revised 2030 Nationally Determined Contribution; Public Sector and Jurong Lake District to Lead The Way with Net Zero Targets
 permalink: /media/press-releases/singapore-commits-to-achieve-net-zero/
-date: 2022-10-24
+date: 2022-10-25
 layout: post
 description: ""
 image: ""
