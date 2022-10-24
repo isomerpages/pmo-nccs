@@ -3,7 +3,6 @@ title: Industry
 permalink: /singapores-climate-action/industry/
 third_nav_title: Mitigation Efforts
 ---
-
 ### INDUSTRY
 
 Energy efficiency measures provide the economic benefits of lowering energy costs to individuals and businesses while reducing carbon emissions. We are working with local companies to address some of the market barriers they face in adopting energy efficient practices and technologies.
@@ -43,7 +42,7 @@ Apart from grants, tax incentive schemes such as the **Accelerated Depreciation 
 
 ### Development of Expertise in Singapore to Drive Energy Efficiency Improvements
 
-Specialised skills are needed to measure and benchmark current system performance accurately, analyse data to identify opportunities and design a holistic plan to realise system efficiency gains. Current schemes, such as the [<a href="https://www.nea.gov.sg/programmes-grants/schemes/esco-accreditation" target="_blank">Energy Services Company (ESCO) Accreditation Scheme</a>](https://www.nea.gov.sg/programmes-grants/schemes/esco-accreditation) and the [<a href="https://www.e2singapore.gov.sg/programmes-and-grants/incentives/singapore-certified-energy-manager-(scem)-programme-and-training-grant" target="_blank">Singapore Certified Energy Manager (SCEM) Programme</a>](https://www.e2singapore.gov.sg/programmes-and-grants/incentives/singapore-certified-energy-manager-(scem)-programme-and-training-grant) help grow technical and professional capabilities in Singapore.
+Specialised skills are needed to measure and benchmark current system performance accurately, analyse data to identify opportunities and design a holistic plan to realise system efficiency gains. Current schemes, such as the [<a href="https://www.nea.gov.sg/programmes-grants/schemes/esco-accreditation" target="_blank">Energy Services Company (ESCO) Accreditation Scheme</a>](https://www.nea.gov.sg/programmes-grants/schemes/esco-accreditation) and the [<a href="https://www.e2singapore.gov.sg/programmes-and-grants/incentives/singapore-certified-energy-manager-(scem)-programme-and-training-grant" target="_blank">Singapore Certified Energy Manager (SCEM) Programme</a>](https://www.nea.gov.sg/programmes-grants/grants-and-awards/singapore-certified-energy-manager-scem-programme) help grow technical and professional capabilities in Singapore.
 
 ![Participants attending a SCEM programme](/images/development-of-expertise-in-singapore-to-drive-energy-efficiency-improvements.jpg "Participants attending a SCEM programme")  
 *Participants attending a SCEM programme. (Image courtesy of the National Environment Agency)*
@@ -58,8 +57,6 @@ This programme was initiated to help engineering professionals develop the techn
 
 ### Energy Efficiency National Partnership Programme (EENP)
 
-The [<a href="https://www.e2singapore.gov.sg/programmes-and-grants/programmes/energy-efficiency-national-partnership" target="_blank">Energy Efficiency National Partnership Programme (EENP)</a>](https://www.e2singapore.gov.sg/programmes-and-grants/programmes/energy-efficiency-national-partnership) is a voluntary programme launched by NEA, EDB and EMA in Apr 2010 to foster a culture of sustained energy efficiency improvement in industry.
+The [<a href="https://www.e2singapore.gov.sg/programmes-and-grants/programmes/energy-efficiency-national-partnership" target="_blank">Energy Efficiency National Partnership Programme (EENP)</a>](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/industrial-sector/energy-efficiency-national-partnership) is a voluntary programme launched by NEA, EDB and EMA in Apr 2010 to foster a culture of sustained energy efficiency improvement in industry.
 
 The programme comprises a learning network which provides opportunities for companies in the industrial sector to learn about energy efficiency ideas, technologies, practices, standards and case studies, as well as the EENP Awards which recognises the efforts and achievements of corporations and teams for excellent energy management practices.
-
-
