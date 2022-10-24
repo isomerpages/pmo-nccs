@@ -1,5 +1,7 @@
 ---
-title: Singapore Commits to Achieve Net Zero Emissions by 2050 and to a Revised 2030 Nationally Determined Contribution; Public Sector and Jurong Lake District to Lead The Way with Net Zero Targets
+title: Singapore Commits to Achieve Net Zero Emissions by 2050 and to a Revised
+  2030 Nationally Determined Contribution; Public Sector and Jurong Lake
+  District to Lead The Way with Net Zero Targets
 permalink: /media/press-releases/singapore-commits-to-achieve-net-zero/
 date: 2022-10-24
 layout: post
@@ -20,6 +22,9 @@ These plans and revised targets build upon the announcement during Budget 2022 o
 
 Executing the net zero transition will not be easy for Singapore given our small geographical size and lack of renewable energy resources. However, Singapore has chosen to commit ourselves to these targets because we have a responsibility to carefully steward a sustainable environment for future generations. The public and private sectors, as well as community and individuals, will all have key roles to play in coming together to transform the way we live, work and play in a low-carbon future, and to seize new opportunities in this green transition.
 
+*\[1\] Under Singapore’s Copenhagen pledge, 2020 Business-as-Usual (BAU) emissions level was projected to be around 77.2 MtCO<sub>2</sub>e.*
+
+* * *
 Annex A - Infographic on Charting Singapore’s Net Zero Future
 ![](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
 
@@ -30,7 +35,3 @@ Annex A - Infographic on Charting Singapore’s Net Zero Future
 [Annex D1 - Summary Feedback Received from REACH Public Consultation on Singapore's Raised Climate Ambition](/files/ANNEX D1 - SUMMARY OF FEEDBACK FROM PUBLIC CONSULTATIONS ON SINGAPORE’S RAISED CLIMATE AMBITIONS.pdf)
 
 [Annex D2 - Feedback Received from REACH Public Consultation on Singapore’s Raised Climate Ambition](https://www.nccs.gov.sg/public-consultation/25-oct-2022-feedback-reach-public-consultations-sg-climate-ambition/)
-
-* * *
-
-\[1\] Under Singapore’s Copenhagen pledge, 2020 Business-as-Usual (BAU) emissions level was projected to be around 77.2 MtCO<sub>2</sub>e.
