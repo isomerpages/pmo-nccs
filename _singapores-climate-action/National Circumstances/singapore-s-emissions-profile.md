@@ -9,7 +9,7 @@ Climate change is a global challenge that requires a global response. Despite th
 
 Historically, our strategic position along the East-West trade routes has made Singapore a natural location for oil storage and refining facilities serving the region. Building on our position as a key regional port, the refining and petrochemical plants help create synergies and are part of a business supply network in Southeast Asia, the Western Pacific, South Asia and Australasia. Although the refining and petrochemical sector is a large source of our carbon emissions, energy efficiency improvement will remain a key strategy to reduce the industry sector's emissions.
 
-![Alt text for image on Isomer site](/images/emissionsprofile2019.png)
+![Alt text for image on Isomer site](/images/2020-emissions-profile.png)
 
 **Carbon Intensity (Emissions per $GDP)**
 
