@@ -91,6 +91,10 @@ On 31 March 2020, Singapore submitted its enhanced Nationally Determined Contrib
 
 On 18 February 2022, Singapore announced that it will raise its ambition to achieve net zero emissions by or around mid-century. The government will consult closely with industry and citizen stakeholder groups to firm up and finalise Singapore’s plans before making a formal revision of the LEDS later in 2022. 
 
+Since April 2022, under the Singapore Green Plan 2030, the Government has engaged more than 1,700 members of the public and stakeholders on Singapore's climate ambition. Across these various engagements, there was agreement on the need for Singapore to increase its climate ambition.
+
+In October 2022, Singapore announced that it will raise its national climate target to achieve net zero emissions by 2050 as part of its LEDS. It will also reduce emissions to around 60MtCO<sub>2</sub>e in 2030 after peaking emissions earlier as part of its 2030 NDC. These are contingent on technological maturity and effective international cooperation. Singapore's ability to fulfill these pledges, like all Parties, will depend on the continued international commitment by Parties to the Paris Agreement and their climate pledges.
+
 Read more about [Singapore’s climate actions](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/).
 
 **Promoting International Co-operation on Climate Change**
