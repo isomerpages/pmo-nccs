@@ -1,6 +1,5 @@
 ---
-title: Speech by Deputy Prime Minister Lawrence Wong, Minister for Finance and
-  Minister in charge of the
+title: Speech by Deputy Prime Minister, Minister for Finance and Minister-in-charge of Strategy Group Lawrence Wong at the Singapore International Energy Week
 permalink: /media/speeches/25-oct-2022-singapore-energy-lecture-dpm-wong/
 date: 2022-10-25
 layout: post
