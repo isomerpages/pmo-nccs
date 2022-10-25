@@ -100,15 +100,15 @@ a. There are a variety of policy levers available to Governments to drive this c
 b. The carbon tax is one important lever to shape responsible behaviour, as consumers and businesses will then have to internalise the costs of carbon emissions in their consumption and investment decisions.  
 
 c. Earlier this year, I announced in our Budget that Singapore will raise our carbon tax from the current $5 per tonne of CO2 equivalent, to about $50 to $80 (or US$35-55) by 2030 
-		* The carbon tax in Singapore is applied broadly, covering about 80% of our emissions today. <br>
-		* We also have high petrol taxes, as all Singaporeans here can attest to, and we do not subsidise fuel or electricity. Together, all these will help to sharpen the impetus of shifting to cleaner alternatives. 
+* The carbon tax in Singapore is applied broadly, covering about 80% of our emissions today. <br>
+* We also have high petrol taxes, as all Singaporeans here can attest to, and we do not subsidise fuel or electricity. Together, all these will help to sharpen the impetus of shifting to cleaner alternatives. <br>
 
 We are mindful that carbon taxes will lead to higher costs for consumers and businesses alike, during a time of high inflation. 
 
 a. We considered this very carefully. And we decided that a better approach is not to reduce or hold back the carbon taxes. But to provide targeted relief to businesses and consumers so that we have the right price signals for the economy as a whole, and for those who need help, we will extend help.
-		* For businesses, we have enhanced the support schemes to help them become more energy efficient. <br>
-		* For households, the effects of carbon tax will be felt primarily through an increase in their electricity bills.  So we are helping households, especially the lower- and middle-income groups, with utilities vouchers to cushion the impact, and also with incentives to switch to more energy-efficient appliances. <br>
-		* This is our general approach to make sure we can accelerate the shift to greener options. <br>
+* For businesses, we have enhanced the support schemes to help them become more energy efficient. <br>
+* For households, the effects of carbon tax will be felt primarily through an increase in their electricity bills.  So we are helping households, especially the lower- and middle-income groups, with utilities vouchers to cushion the impact, and also with incentives to switch to more energy-efficient appliances. <br>
+* This is our general approach to make sure we can accelerate the shift to greener options. <br>
 
 At the same time, we are investing more in technologies to help decarbonize our economy. 
     
@@ -145,12 +145,12 @@ Given these positive developments, Singapore believes that low-carbon hydrogen h
 This morning, I am glad to announce the **launch of Singapore’s National Hydrogen Strategy.** This will provide a roadmap of how hydrogen can support Singapore’s decarbonisation efforts, and the steps we will be taking to prepare Singapore for a hydrogen future. 
     
 a. As a clean fuel that can be used to generate electricity, low-carbon hydrogen can support our twin objectives of reducing carbon emissions and safeguarding our energy security.
-		* Hydrogen does not emit carbon dioxide when it is used as a fuel. It can also be imported from diverse source countries.
-		* If technology continues to advance, we foresee that hydrogen can supply up to half of our power needs by 2050, alongside domestic renewable energy sources and electricity imports.
+* Hydrogen does not emit carbon dioxide when it is used as a fuel. It can also be imported from diverse source countries.
+* If technology continues to advance, we foresee that hydrogen can supply up to half of our power needs by 2050, alongside domestic renewable energy sources and electricity imports.
 
 b. Low-carbon hydrogen can also decarbonise activities that cannot be easily electrified, in sectors that are critical to Singapore. 
-		* In the industrial sector, for example, hydrogen can be used as feedstock in semiconductor plants and petrochemical processes. Besides lowering emissions, it also allows companies to produce sustainable products that could fetch a green premium.
-		ii. Meanwhile, in the aviation and maritime sectors, hydrogen can be used to produce low-carbon fuels. 
+* In the industrial sector, for example, hydrogen can be used as feedstock in semiconductor plants and petrochemical processes. Besides lowering emissions, it also allows companies to produce sustainable products that could fetch a green premium.
+* Meanwhile, in the aviation and maritime sectors, hydrogen can be used to produce low-carbon fuels. <br>
 
 To unlock the potential of hydrogen, we will organise our efforts around five key thrusts.
     
