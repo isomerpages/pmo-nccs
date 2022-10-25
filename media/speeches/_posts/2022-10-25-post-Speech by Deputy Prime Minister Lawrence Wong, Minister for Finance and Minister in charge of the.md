@@ -118,15 +118,15 @@ These new technologies are especially critical for the power sector.  And with 
     
 In Singapore, power now accounts for almost 40% of our overall carbon emissions, the vast majority of which is generated from natural gas, as I mentioned just now. Decarbonising the power sector is therefore a key focus of our climate efforts. 
     
-a. We are maximising the deployment of indigenous renewable energy resources available to us. We are already one of the most solar-dense cities in the world and we are looking to do more, wherever possible. By 2030, we should have approximately 2GWp of solar energy, which can power up to 350,000 households on a sunny day.
+	a. We are maximising the deployment of indigenous renewable energy resources available to us. We are already one of the most solar-dense cities in the world and we are looking to do more, wherever possible. By 2030, we should have approximately 2GWp of solar energy, which can power up to 350,000 households on a sunny day.
 
-b. We are also looking to tap on low-carbon energy beyond our shores. We have been working with regional partners to develop the ASEAN grid and just this year, we started importing hydroelectric power from Laos under the Laos-Thailand-Malaysia-Singapore Power Integration Project. 
+	b. We are also looking to tap on low-carbon energy beyond our shores. We have been working with regional partners to develop the ASEAN grid and just this year, we started importing hydroelectric power from Laos under the Laos-Thailand-Malaysia-Singapore Power Integration Project. 
 
 But these efforts will not be sufficient 
     
-a. Even if we were to maximise all available space in Singapore for solar deployment, we will still not be able to generate enough electricity to keep the lights on.
+	a. Even if we were to maximise all available space in Singapore for solar deployment, we will still not be able to generate enough electricity to keep the lights on.
 
-b. There are also limits to how much low-carbon electricity we can import from the region. 
+	b. There are also limits to how much low-carbon electricity we can import from the region. 
 
 Given all of these constraints, we are looking seriously at other low-carbon alternatives. Alternatives that may be less technologically mature today, but show great potential.    
 
@@ -135,149 +135,113 @@ Given all of these constraints, we are looking seriously at other low-carbon alt
 
 We have made our assessments, and we believe that **low-carbon hydrogen is an increasingly promising solution.** While the technology and supply chains are still nascent, momentum has picked up substantially in recent years. 
     
-a. Global investment in low-carbon hydrogen has increased exponentially, backed by policies from countries around the world to accelerate its production and usage.
+	a. Global investment in low-carbon hydrogen has increased exponentially, backed by policies from countries around the world to accelerate its production and usage.
 
-b. And we are now seeing a growing pipeline of production projects worldwide. 
+	b. And we are now seeing a growing pipeline of production projects worldwide. 
 
-c. Key technologies across the value chain are also being trialed and are expected to become commercially available in the coming years. 
+	c. Key technologies across the value chain are also being trialed and are expected to become commercially available in the coming years. 
 
-d. In short, the world is now standing at an inflection point in global hydrogen development.
+	d. In short, the world is now standing at an inflection point in global hydrogen development.
 
 Given these positive developments, Singapore believes that low-carbon hydrogen has the potential to be the next frontier of our efforts to reduce our emissions.  
     
 This morning, I am glad to announce the **launch of Singapore’s National Hydrogen Strategy.** This will provide a roadmap of how hydrogen can support Singapore’s decarbonisation efforts, and the steps we will be taking to prepare Singapore for a hydrogen future. 
     
-a. As a clean fuel that can be used to generate electricity, low-carbon hydrogen can support our twin objectives of reducing carbon emissions and safeguarding our energy security. <br>  
-i. Hydrogen does not emit carbon dioxide when it is used as a fuel. It can also be imported from diverse source countries. <br>
-ii. If technology continues to advance, we foresee that hydrogen can supply up to half of our power needs by 2050, alongside domestic renewable energy sources and electricity imports. <br>
+	a. As a clean fuel that can be used to generate electricity, low-carbon hydrogen can support our twin objectives of reducing carbon emissions and safeguarding our energy security. <br>  
+		i. Hydrogen does not emit carbon dioxide when it is used as a fuel. It can also be imported from diverse source countries. <br>
+		ii. If technology continues to advance, we foresee that hydrogen can supply up to half of our power needs by 2050, alongside domestic renewable energy sources and electricity imports. <br>
 
-b. Low-carbon hydrogen can also decarbonise activities that cannot be easily electrified, in sectors that are critical to Singapore. <br>
-i. In the industrial sector, for example, hydrogen can be used as feedstock in semiconductor plants and petrochemical processes. Besides lowering emissions, it also allows companies to produce sustainable products that could fetch a green premium.<br>
-ii. Meanwhile, in the aviation and maritime sectors, hydrogen can be used to produce low-carbon fuels. 
+	b. Low-carbon hydrogen can also decarbonise activities that cannot be easily electrified, in sectors that are critical to Singapore. <br>
+		i. In the industrial sector, for example, hydrogen can be used as feedstock in semiconductor plants and petrochemical processes. Besides lowering emissions, it also allows companies to produce sustainable products that could fetch a green premium.<br>
+		ii. Meanwhile, in the aviation and maritime sectors, hydrogen can be used to produce low-carbon fuels. 
 
 To unlock the potential of hydrogen, we will organise our efforts around five key thrusts.
     
 First, we will experiment with key hydrogen technologies and carrier pathways to understand how they can be deployed on a large scale in Singapore when they become economically viable. 
 
-a. We will focus on those which have the potential to be commercially viable and have multiple applications.
+	a. We will focus on those which have the potential to be commercially viable and have multiple applications.
 
-b. One good example is, ammonia, a hydrogen carrier. In recent years, it has emerged both as a possible fuel for power generation, as well as a low-carbon marine fuel. We will therefore kickstart our hydrogen efforts by issuing an Expression of Interest for a small-scale commercial project utilising low-carbon ammonia for power generation.   
+	b. One good example is, ammonia, a hydrogen carrier. In recent years, it has emerged both as a possible fuel for power generation, as well as a low-carbon marine fuel. We will therefore kickstart our hydrogen efforts by issuing an Expression of Interest for a small-scale commercial project utilising low-carbon ammonia for power generation.   
 
-c. With this, Singaporeans may start to have access to electricity generated from low-carbon hydrogen from 2027. Through this project, we also hope to catalyse the development of ammonia supply chains for marine bunkering needs.   
+	c. With this, Singaporeans may start to have access to electricity generated from low-carbon hydrogen from 2027. Through this project, we also hope to catalyse the development of ammonia supply chains for marine bunkering needs.   
 
-d. More details will be announced by the Energy Market Authority in the coming months. 
+	d. More details will be announced by the Energy Market Authority in the coming months. 
 
 Second, we will redouble efforts to support hydrogen research and development through the Low Carbon Energy Research Project, or LCER in short.    
 
-a. The LCER was set up two years ago to support R&D efforts into low-carbon technologies, and a total of $55 million of research funding has been awarded to date. 
+	a. The LCER was set up two years ago to support R&D efforts into low-carbon technologies, and a total of $55 million of research funding has been awarded to date. 
 
-b. **This year, we will set aside an additional $129 million, a significant amount of which will be directed towards projects that can help Singapore import, handle, and utilise hydrogen and its carriers safely and at scale.** 
+	b. **This year, we will set aside an additional $129 million, a significant amount of which will be directed towards projects that can help Singapore import, handle, and utilise hydrogen and its carriers safely and at scale.** 
 
-c. The Government will play an active role in bringing industry players and the research community together, to improve translation from research towards real-world applications.  We hope these R&D investments will help drive down costs and accelerate the technical viability and commercial scalability of hydrogen. 
+	c. The Government will play an active role in bringing industry players and the research community together, to improve translation from research towards real-world applications.  We hope these R&D investments will help drive down costs and accelerate the technical viability and commercial scalability of hydrogen. 
 
 Third, we will work with industry and international partners to facilitate global trade in low-carbon hydrogen and the establishment of supporting supply chains.   
 
-a. As a net importer of low-carbon hydrogen, it is essential that we have reliable and diversified supplies of hydrogen. 
+	a. As a net importer of low-carbon hydrogen, it is essential that we have reliable and diversified supplies of hydrogen. 
 
-b. To this end, we aim to build a network of partnerships with like-minded countries and international organisations, to facilitate the establishment of these supply chains, even at this nascent stage. 
+	b. To this end, we aim to build a network of partnerships with like-minded countries and international organisations, to facilitate the establishment of these supply chains, even at this nascent stage. 
 
-c. As a hub for aviation, maritime and logistics, we believe that Singapore’s involvement, for example, through pilot projects can help the industry establish guidelines and standards, especially for the transportation, storage and supply of low-carbon ammonia and hydrogen.  
+	c. As a hub for aviation, maritime and logistics, we believe that Singapore’s involvement, for example, through pilot projects can help the industry establish guidelines and standards, especially for the transportation, storage and supply of low-carbon ammonia and hydrogen.  
 
-d. One key focus area is to develop frameworks and standards to certify the low-carbon origin of hydrogen imports, such as through Guarantee of Origin certification, that are recognised across different jurisdictions. This will be crucial to providing hydrogen end-users and the international community the assurance that the hydrogen being used is indeed sustainable and can support our climate goals.
+	d. One key focus area is to develop frameworks and standards to certify the low-carbon origin of hydrogen imports, such as through Guarantee of Origin certification, that are recognised across different jurisdictions. This will be crucial to providing hydrogen end-users and the international community the assurance that the hydrogen being used is indeed sustainable and can support our climate goals.
 
 Fourth, we will study the land and infrastructure requirements needed to deploy low-carbon hydrogen in the longer-term.
 
-a. Deploying hydrogen at scale in highly built-up city like Singapore will require careful planning. As it has different properties from natural gas, we will likely need new storage and distribution infrastructure. 
+	a. Deploying hydrogen at scale in highly built-up city like Singapore will require careful planning. As it has different properties from natural gas, we will likely need new storage and distribution infrastructure. 
 
-b. It is important that we lay the groundwork early, so that we can be prepared to scale up the necessary infrastructure in future when the time is right. 
+	b. It is important that we lay the groundwork early, so that we can be prepared to scale up the necessary infrastructure in future when the time is right. 
 
 Finally, we will ready our industry and workforce for this hydrogen transition and put them in good stead to capture new opportunities.    
   
-a. A large global hydrogen economy will bring new activities and jobs across the entire supply chain – some examples include hydrogen project financing, hydrogen trading, carbon verification and certification, as well as logistics solutions in the transportation, storage and distribution of hydrogen.
+	a. A large global hydrogen economy will bring new activities and jobs across the entire supply chain – some examples include hydrogen project financing, hydrogen trading, carbon verification and certification, as well as logistics solutions in the transportation, storage and distribution of hydrogen.
 
-b. In Singapore, we have built up a tradition and a culture of having a very close relationship between our tripartite stakeholders, the government, employers and the unions. So we will work with our tripartite partners primarily the employers and unions to develop these new capabilities and skills required to anchor such activities in Singapore.
+	b. In Singapore, we have built up a tradition and a culture of having a very close relationship between our tripartite stakeholders, the government, employers and the unions. So we will work with our tripartite partners primarily the employers and unions to develop these new capabilities and skills required to anchor such activities in Singapore.
 
 This National Hydrogen Strategy is a signal of Singapore’s ambition to leverage the potential of hydrogen as a decarbonisation pathway. More importantly, it is a rallying call to our industry and international partners, to join us on this journey.
-    
+ 
+	a. I want to emphasise that this is by no means a plan cast in stone.
 
-a. I want to emphasise that this is by no means a plan cast in stone.
+	b. We welcome new ideas and collaboration from all stakeholders to amplify our efforts and help us refine our approach, and we will also continue to adjust our strategy in line with technological and global supply chain developments.  
 
-  
-
-b. We welcome new ideas and collaboration from all stakeholders to amplify our efforts and help us refine our approach, and we will also continue to adjust our strategy in line with technological and global supply chain developments.  
-
-  
 
 **Scaling up Green Finance**
 
-29.  Singapore’s plans are shaped by our own unique circumstances and stage of development. All countries likewise will have to find their own paths to a net-zero future. At the same time, what is clear is that no country can decarbonise on its own – as our hydrogen plans show, international cooperation on multiple fronts will be necessary.
+Singapore’s plans are shaped by our own unique circumstances and stage of development. All countries likewise will have to find their own paths to a net-zero future. At the same time, what is clear is that no country can decarbonise on its own – as our hydrogen plans show, international cooperation on multiple fronts will be necessary.
     
+One area of particular importance is green financing. Because if we are to make this generational climate transition, we will need to pool our collective resources together. 
 
-30.  One area of particular importance is green financing. Because if we are to make this generational climate transition, we will need to pool our collective resources together. 
-    
+	a. Our collective decarbonisation initiatives will not come cheap. By some estimates, several trillions of dollars in infrastructure investments will be needed over the next decade in Southeast Asia alone, to enable the energy transition and to put the entire region on the path to net zero 
 
-  
+	b. And while there are many potential climate transition projects in Southeast Asia, many of them are unfortunately not  bankable today. This has created a funding gap which must be bridged if the region and the world is to meet its climate goals.
 
-a. Our collective decarbonisation initiatives will not come cheap. By some estimates, several trillions of dollars in infrastructure investments will be needed over the next decade in Southeast Asia alone, to enable the energy transition and to put the entire region on the path to net zero 
+	c. We will need closer collaboration between private capital, governments, philanthropy and multilateral development banks to bring together financial resources, technical expertise, and capacity building to close the gap and make more projects viable.
 
-  
+	d. In particular, catalytic or concessionary capital from philanthropic organisations and multilateral development banks can help to share risks of these projects, and crowd in private capital.
 
-b. And while there are many potential climate transition projects in Southeast Asia, many of them are unfortunately not  bankable today. This has created a funding gap which must be bridged if the region and the world is to meet its climate goals.
+And here, as an international financial centre, we believe that Singapore is well-positioned to contribute to these efforts. 
 
-  
+	a. A key part of this work will require progress on several fundamental building blocks. We will need better **data** on projects. We will need more **disclosures** by companies, especially to address concerns on green-washing and we will need clearer **definitions** on what is considered green, what is considered brown and importantly, what is considered activities that are transitioning from brown to green.  
 
-c. We will need closer collaboration between private capital, governments, philanthropy and multilateral development banks to bring together financial resources, technical expertise, and capacity building to close the gap and make more projects viable.
+	b. So the three D’s of data, disclosures and definitions form the building blocks, and MAS has been working with its regional counterparts, and across various international forums, on these key issues.   
 
-  
+	c. As we strengthen these building blocks, we will also push for financial innovation and solutions in the sustainability space.  
 
-d. In particular, catalytic or concessionary capital from philanthropic organisations and multilateral development banks can help to share risks of these projects, and crowd in private capital.
+	d. For example, we will do more to encourage ASEAN green bonds and loan issuances, for which Singapore already accounts for a significant part today, and we will develop and scale up blended finance structures.
 
-  
-
-31.  And here, as an international financial centre, we believe that Singapore is well-positioned to contribute to these efforts. 
-    
-
-  
-
-a. A key part of this work will require progress on several fundamental building blocks. We will need better **data** on projects. We will need more **disclosures** by companies, especially to address concerns on green-washing and we will need clearer **definitions** on what is considered green, what is considered brown and importantly, what is considered activities that are transitioning from brown to green. 
-
-  
-
-b. So the three D’s of data, disclosures and definitions form the building blocks, and MAS has been working with its regional counterparts, and across various international forums, on these key issues. 
-
-  
-
-c. As we strengthen these building blocks, we will also push for financial innovation and solutions in the sustainability space. 
-
-  
-
-d. For example, we will do more to encourage ASEAN green bonds and loan issuances, for which Singapore already accounts for a significant part today, and we will develop and scale up blended finance structures.
-
-  
-
-e. In short, we will make Singapore a green financial centre – to effectively channel green capital towards the development of transition projects and climate change solutions around the region. 
-
+	e. In short, we will make Singapore a green financial centre – to effectively channel green capital towards the development of transition projects and climate change solutions around the region. 
   
 
 **Our Exciting Green Future** 
 
-32.  I have spoken today about our path to net zero. It will entail significant economic restructuring and changes to how we live and work in the future. And while this will no doubt be challenging, there are also many exciting possibilities in the future e.g. the growth of new sectors likegreen finance and carbon services, all of which will create new job and opportunities for Singaporeans. 
+I have spoken today about our path to net zero. It will entail significant economic restructuring and changes to how we live and work in the future. And while this will no doubt be challenging, there are also many exciting possibilities in the future e.g. the growth of new sectors likegreen finance and carbon services, all of which will create new job and opportunities for Singaporeans. 
     
+The built environment is another area with huge potential – the green transition will be an opportunity for us in Singapore to reimagine what our future city can become.  
+ 
+	a. We have already announced plans to convert our vehicle population to run on cleaner energy by 2040, and that promises quieter roads and fresher air. We are also working on a sustainable industrial area at Jurong Island, and a sustainable tourism area at Sentosa. 
 
-  
+	b. We will now complement this by turning Jurong Lake District, which is a new growth area outside of our city centre, into a world-class sustainable district. We will **aim to have all new developments there to achieve net zero emissions by around 2045.**
 
-33.  The built environment is another area with huge potential – the green transition will be an opportunity for us in Singapore to reimagine what our future city can become.  
-    
-
-  
-
-a. We have already announced plans to convert our vehicle population to run on cleaner energy by 2040, and that promises quieter roads and fresher air. We are also working on a sustainable industrial area at Jurong Island, and a sustainable tourism area at Sentosa. 
-
-  
-
-b. We will now complement this by turning Jurong Lake District, which is a new growth area outside of our city centre, into a world-class sustainable district. We will **aim to have all new developments there to achieve net zero emissions by around 2045.**
-
-34.  To meet this ambition, we will have to set new frontiers for sustainability practices within the district.  
+To meet this ambition, we will have to set new frontiers for sustainability practices within the district.  
     
 
   
