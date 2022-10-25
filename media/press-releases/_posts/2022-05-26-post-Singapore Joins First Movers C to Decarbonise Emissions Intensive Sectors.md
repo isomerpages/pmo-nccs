@@ -5,7 +5,7 @@ date: 2022-05-26
 layout: post
 description: ""
 ---
-JOINT PRESS RELEASE BY NCCS, MTI AND MOT: SINGAPORE JOINS FIRST MOVERS COALITION TO DECARBONISE EMISSIONS-INTENSIVE SECTORS
+**JOINT PRESS RELEASE BY NCCS, MTI AND MOT: SINGAPORE JOINS FIRST MOVERS COALITION TO DECARBONISE EMISSIONS-INTENSIVE SECTORS**
 
 Singapore has joined the First Movers Coalition (FMC) as a Government Partner, along with Denmark, India, Italy, Japan, Norway, Sweden, the United Kingdom and the United States. First announced by U.S. President Joe Biden at the COP-26 World Leaders Summit in November 2021, the FMC serves as a platform for companies to harness their purchasing power and supply chains to create early markets for innovative clean energy technologies to tackle the climate crisis.
 

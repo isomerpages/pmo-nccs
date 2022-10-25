@@ -7,4 +7,4 @@ third_nav_title: What We Can Do
 
 Sustainability will be a key competitive advantage for us, and present new growth opportunities, as Singapore develop our Green Economy. 
 
-Visit [here](https://www.greenplan.gov.sg/take-action/as-an-organisation) for more information on what businesses can do to be a part of the Green Plan.
+Visit [here](https://www.greenplan.gov.sg/take-action/what-businesses-can-do/) for more information on what businesses can do to be a part of the Green Plan.
