@@ -17,39 +17,39 @@ I am delighted to join you at this year’s Singapore International Energy Week,
 
 This feels like home-coming for me because I was the one who started the first edition of the Energy Week back in 2008 when I was the Chief Executive of the Energy Market Authority.
     
-a. Since then, the forum has continued to grow and has now become one of the premier energy events in the region. <br>
+	a. Since then, the forum has continued to grow and has now become one of the premier energy events in the region. <br>
 
-b. I understand that we have more than 10,000 energy leaders, professionals, and youths, from over 80 countries joining us this week.<br>
+	b. I understand that we have more than 10,000 energy leaders, professionals, and youths, from over 80 countries joining us this week.<br>
 
-c. It is great to see everyone today, and I would like to extend a very warm welcome to all our overseas guests! Welcome everyone.<br>
+	c. It is great to see everyone today, and I would like to extend a very warm welcome to all our overseas guests! Welcome everyone.<br>
 
 The theme of this year’s Energy Week is “A Resilient and Sustainable Energy Future” could not be more appropriate given the challenges we face today. Energy issues continue to loom large for countries everywhere. 
     
-a. The ongoing war in Ukraine has disrupted energy supplies worldwide <br>
+	a. The ongoing war in Ukraine has disrupted energy supplies worldwide <br>
 
-b. Countries are all racing to build up their energy stockpiles and some have had to turn to fossil fuels ahead of the winter season. <br>
+	b. Countries are all racing to build up their energy stockpiles and some have had to turn to fossil fuels ahead of the winter season. <br>
 
-c. But even as we seek to enhance energy security, we must redouble efforts to green our energy sources. <br>
+	c. But even as we seek to enhance energy security, we must redouble efforts to green our energy sources. <br>
 
-d. Climate change is happening at an even faster pace than before, exacerbating the energy crisis. Unusual weather patterns like heatwaves and droughts are throwing energy markets around the world into turmoil.<br>
+	d. Climate change is happening at an even faster pace than before, exacerbating the energy crisis. Unusual weather patterns like heatwaves and droughts are throwing energy markets around the world into turmoil.<br>
 
-e. The energy crisis and climate crisis have become a vicious cycle. The world cannot afford to choose between an energy crisis and a climate crisis.  To have energy security, we will need to resolve the climate crisis too. <br>
+	e. The energy crisis and climate crisis have become a vicious cycle. The world cannot afford to choose between an energy crisis and a climate crisis.  To have energy security, we will need to resolve the climate crisis too. <br>
 
 Singapore has long been grappling with both challenges. 
 
-a. We chose natural gas as our main energy source early on, as it is the cleanest fossil fuel, and emits less carbon dioxide than coal or fuel oil.<br>
-
-b. Natural gas also met our requirements for energy security, as we are able to diversify our sources of gas supply.<br>  
-i. In fact, in my previous incarnation, the other responsibility I had was to negotiate our first LNG contracts and build our first LNG terminal to import from suppliers worldwide.<br> 
-ii. Today, we have built up significant storage capacity, and enhanced the security of power generation in Singapore with long-term LNG supply contracts.<br>
+	a. We chose natural gas as our main energy source early on, as it is the cleanest fossil fuel, and emits less carbon dioxide than coal or fuel oil.
+	
+	b. Natural gas also met our requirements for energy security, as we are able to diversify our sources of gas supply.<br>  
+		i. In fact, in my previous incarnation, the other responsibility I had was to negotiate our first LNG contracts and build our first LNG terminal to import from suppliers worldwide.<br> 
+		ii. Today, we have built up significant storage capacity, and enhanced the security of power generation in Singapore with long-term LNG supply contracts.<br>
 
 Over the years, we have continued to explore additional options like solar energy and electricity imports, to complement natural gas.  But compared to energy security, climate change poses a bigger challenge for Singapore. 
     
-a. Unlike many other countries, we do not have many scalable options when it comes to renewable energy. We do not have the land for large solar or wind farms, or fast flowing rivers for hydro-electric power. 
+	a. Unlike many other countries, we do not have many scalable options when it comes to renewable energy. We do not have the land for large solar or wind farms, or fast flowing rivers for hydro-electric power. 
 
-b. Nevertheless, we have managed to defy our natural constraints and made progress in reducing our greenhouse gas emissions. We were able to reduce our greenhouse gas emissions by 32% below business-as-usual levels, in 2020. This is double the earlier commitment of 16% below business-as-usual levels which we made in 2009, ahead of the Copenhagen Summit.
+	b. Nevertheless, we have managed to defy our natural constraints and made progress in reducing our greenhouse gas emissions. We were able to reduce our greenhouse gas emissions by 32% below business-as-usual levels, in 2020. This is double the earlier commitment of 16% below business-as-usual levels which we made in 2009, ahead of the Copenhagen Summit.
 
-c. We have achieved this by becoming more energy efficient and keeping our emissions per GDP dollar one of the lowest in the world. This is what we have achieved in 2020. This has also given us the confidence to look ahead and to consider how we can strengthen further our commitment to climate action   
+	c. We have achieved this by becoming more energy efficient and keeping our emissions per GDP dollar one of the lowest in the world. This is what we have achieved in 2020. This has also given us the confidence to look ahead and to consider how we can strengthen further our commitment to climate action   
 
 
 **Our Net Zero Ambition** 
@@ -58,37 +58,37 @@ At last year’s UN Climate Change Conference in Glasgow, or COP-26, countries w
     
 Singapore has heeded this call. Over the past year, we have reviewed our decarbonisation plans to see if we can do more. We examined several factors including: 
     
-a. Whether firms have viable technological solutions available to green their operations. 
+	a. Whether firms have viable technological solutions available to green their operations. 
 
-b. Whether there were global carbon mitigation opportunities available to Singapore, to help us to decarbonize. 
+	b. Whether there were global carbon mitigation opportunities available to Singapore, to help us to decarbonize. 
 
-c. And whether domestically, we have the necessary policy and regulatory frameworks in place to mobilise households and businesses to shift their behaviour. 
+	c. And whether domestically, we have the necessary policy and regulatory frameworks in place to mobilise households and businesses to shift their behaviour. 
 
 We also observed some positive global trends.
     
-a. There are growing investments in decarbonisation technologies.
+	a. There are growing investments in decarbonisation technologies.
 
-b. There is also a stronger desire for international collaboration in areas like carbon markets, which will provide additional avenues to decarbonize.  
+	b. There is also a stronger desire for international collaboration in areas like carbon markets, which will provide additional avenues to decarbonize.  
 
-c. All of these developments give us the confidence that Singapore can achieve a net zero future sooner rather than later.
+	c. All of these developments give us the confidence that Singapore can achieve a net zero future sooner rather than later.
 
 That is why this morning, I am happy to announce that we will enhance our 2030 Nationally Determined Contributions or NDCs. 
 
-a. We had previously committed to peak our emissions in 2030 at 65 million tonnes of CO2 equivalent  
+	a. We had previously committed to peak our emissions in 2030 at 65 million tonnes of CO2 equivalent  
 
-b. We will now aim to peak our emissions earlier, and reduce our emissions to around 60 million tonnes of CO2 equivalent in 2030 
+	b. We will now aim to peak our emissions earlier, and reduce our emissions to around 60 million tonnes of CO2 equivalent in 2030 
 
-c. This five million tonnes improvement is significant. It is equivalent to reducing our current transport emissions by two-thirds. 
+	c. This five million tonnes improvement is significant. It is equivalent to reducing our current transport emissions by two-thirds. 
 
 These enhanced 2030 targets will put us in good stead to achieve our longer-term goal of getting to net zero by 2050.  
     
-a. Net zero by 2050 is really a stretch target for us as we have limited options to deploy renewable energy at scale.  
+	a. Net zero by 2050 is really a stretch target for us as we have limited options to deploy renewable energy at scale.  
 
-b. But we will press ahead with this ambitious goal.  Even though Singapore accounts for only 0.1% of global emissions, we want to do our part in the global effort to address the global climate crisis, and steward our resources for future generations.
+	b. But we will press ahead with this ambitious goal.  Even though Singapore accounts for only 0.1% of global emissions, we want to do our part in the global effort to address the global climate crisis, and steward our resources for future generations.
 
-c. We will submit these enhanced targets to the United Nations Framework Convention on Climate Change as Parties to the Paris Agreement meet at COP-27 next month, in line with the Glasgow Climate Pact.
+	c. We will submit these enhanced targets to the United Nations Framework Convention on Climate Change as Parties to the Paris Agreement meet at COP-27 next month, in line with the Glasgow Climate Pact.
 
-d. Like all Parties, our ability to fulfil our pledges will depend on the continued international commitment by everyone to the Paris Agreement and their climate pledges. And because we are an alternative energy disadvantaged nation, it will also be contingent on the maturity of decarbonisation technologies and effective international cooperation.
+	d. Like all Parties, our ability to fulfil our pledges will depend on the continued international commitment by everyone to the Paris Agreement and their climate pledges. And because we are an alternative energy disadvantaged nation, it will also be contingent on the maturity of decarbonisation technologies and effective international cooperation.
 
 But that does not mean that we will just sit back and hope for the cards to fall in place by themselves.  The Singapore story has always been about us taking proactive action – to transform our constraints into opportunities, so that we can continue to build a better and more vibrant Singapore for the next generation. Let me share Singapore’s approach towards this net-zero transition. 
     
@@ -97,20 +97,20 @@ But that does not mean that we will just sit back and hope for the cards to fall
 
 To achieve net zero by 2050, we will need to encourage businesses and individuals to be more energy efficient, reduce energy consumption and carbon emissions, and adopt green energy alternatives.  All this will require fundamental shifts in the behaviour of all households and firms. 
 
-a. There are a variety of policy levers available to Governments to drive this change. 
+	a. There are a variety of policy levers available to Governments to drive this change. 
 
-b. The carbon tax is one important lever to shape responsible behaviour, as consumers and businesses will then have to internalise the costs of carbon emissions in their consumption and investment decisions.  
+	b. The carbon tax is one important lever to shape responsible behaviour, as consumers and businesses will then have to internalise the costs of carbon emissions in their consumption and investment decisions.  
 
-c. Earlier this year, I announced in our Budget that Singapore will raise our carbon tax from the current $5 per tonne of CO2 equivalent, to about $50 to $80 (or US$35-55) by 2030 <br>
-i. The carbon tax in Singapore is applied broadly, covering about 80% of our emissions today. <br>
-ii. We also have high petrol taxes, as all Singaporeans here can attest to, and we do not subsidise fuel or electricity. Together, all these will help to sharpen the impetus of shifting to cleaner alternatives. 
+	c. Earlier this year, I announced in our Budget that Singapore will raise our carbon tax from the current $5 per tonne of CO2 equivalent, to about $50 to $80 (or US$35-55) by 2030 <br>
+		i. The carbon tax in Singapore is applied broadly, covering about 80% of our emissions today. <br>
+		ii. We also have high petrol taxes, as all Singaporeans here can attest to, and we do not subsidise fuel or electricity. Together, all these will help to sharpen the impetus of shifting to cleaner alternatives. 
 
 We are mindful that carbon taxes will lead to higher costs for consumers and businesses alike, during a time of high inflation. 
 
-a. We considered this very carefully. And we decided that a better approach is not to reduce or hold back the carbon taxes. But to provide targeted relief to businesses and consumers so that we have the right price signals for the economy as a whole, and for those who need help, we will extend help.<br>
-i. For businesses, we have enhanced the support schemes to help them become more energy efficient. <br>
-ii. For households, the effects of carbon tax will be felt primarily through an increase in their electricity bills.  So we are helping households, especially the lower- and middle-income groups, with utilities vouchers to cushion the impact, and also with incentives to switch to more energy-efficient appliances. <br>
-iii. This is our general approach to make sure we can accelerate the shift to greener options. <br>
+	a. We considered this very carefully. And we decided that a better approach is not to reduce or hold back the carbon taxes. But to provide targeted relief to businesses and consumers so that we have the right price signals for the economy as a whole, and for those who need help, we will extend help.<br>
+		i. For businesses, we have enhanced the support schemes to help them become more energy efficient. <br>
+		ii. For households, the effects of carbon tax will be felt primarily through an increase in their electricity bills.  So we are helping households, especially the lower- and middle-income groups, with utilities vouchers to cushion the impact, and also with incentives to switch to more energy-efficient appliances. <br>
+		iii. This is our general approach to make sure we can accelerate the shift to greener options. <br>
 
 At the same time, we are investing more in technologies to help decarbonize our economy. 
     
