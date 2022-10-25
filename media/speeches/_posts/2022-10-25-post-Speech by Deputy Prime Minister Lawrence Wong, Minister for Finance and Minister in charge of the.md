@@ -17,11 +17,11 @@ I am delighted to join you at this year’s Singapore International Energy Week,
 
 This feels like home-coming for me because I was the one who started the first edition of the Energy Week back in 2008 when I was the Chief Executive of the Energy Market Authority.
     
-	a. Since then, the forum has continued to grow and has now become one of the premier energy events in the region. <br>
+* Since then, the forum has continued to grow and has now become one of the premier energy events in the region. <br>
 
-	b. I understand that we have more than 10,000 energy leaders, professionals, and youths, from over 80 countries joining us this week.<br>
+* I understand that we have more than 10,000 energy leaders, professionals, and youths, from over 80 countries joining us this week.<br>
 
-	c. It is great to see everyone today, and I would like to extend a very warm welcome to all our overseas guests! Welcome everyone.<br>
+* It is great to see everyone today, and I would like to extend a very warm welcome to all our overseas guests! Welcome everyone.<br>
 
 The theme of this year’s Energy Week is “A Resilient and Sustainable Energy Future” could not be more appropriate given the challenges we face today. Energy issues continue to loom large for countries everywhere. 
     
@@ -237,7 +237,7 @@ I have spoken today about our path to net zero. It will entail significant econo
     
 The built environment is another area with huge potential – the green transition will be an opportunity for us in Singapore to reimagine what our future city can become.  
  
-	a. We have already announced plans to convert our vehicle population to run on cleaner energy by 2040, and that promises quieter roads and fresher air. We are also working on a sustainable industrial area at Jurong Island, and a sustainable tourism area at Sentosa. 
+a. We have already announced plans to convert our vehicle population to run on cleaner energy by 2040, and that promises quieter roads and fresher air. We are also working on a sustainable industrial area at Jurong Island, and a sustainable tourism area at Sentosa. 
 
 	b. We will now complement this by turning Jurong Lake District, which is a new growth area outside of our city centre, into a world-class sustainable district. We will **aim to have all new developments there to achieve net zero emissions by around 2045.**
 
