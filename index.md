@@ -36,7 +36,7 @@ sections:
         emissions by 2050, and revises its 2030 Nationally Determined
         Contribution (NDC).
       button: READ MORE
-      url: test
+      url: /media/press-releases/singapore-commits-to-achieve-net-zero/
       image: /images/infopic slide 1_Cropped.jpg
       alt: Image alt text
   - infopic:
