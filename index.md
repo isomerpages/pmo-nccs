@@ -31,9 +31,9 @@ sections:
           description: Forging international collaborations
           url: /singapores-climate-action/singapore-and-international-efforts/
   - infopic:
-      title: SINGAPORE REVISES NET ZERO TARGETS & 2030 NDC
+      title: <font size=6.5>SINGAPORE REVISES NET ZERO TARGETS & 2030 NDC</font>
       description: Singapore raises its national climate target to achieve net zero
-        emissions by 2050, and revises its 2030 Nationally Determined
+        emissions by 2050 as part of our Long-Term Low-Emissions Development Strategy, and revised our 2030 Nationally Determined Contribution (NDC).
         Contribution (NDC).
       button: READ MORE
       url: /media/press-releases/singapore-commits-to-achieve-net-zero/
