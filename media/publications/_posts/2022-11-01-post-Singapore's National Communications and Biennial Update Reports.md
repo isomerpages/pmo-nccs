@@ -6,12 +6,13 @@ date: 2022-11-01
 description: ""
 image: ""
 ---
-
 ![Singapore's National Communications and Biennial Update Reports](/images/2020-bur.JPG)
 
 Singapore ratified the United Nations Framework Convention on Climate Change (UNFCCC) in 1997. Under the UNFCCC, Parties are required to prepare and submit National Communications (NCs) and Biennial Update Reports (BURs) to the Conference Of Parties. The NCs provide information on a Party's greenhouse gas inventory and measures to address climate change, while the BURs provide updates on a Party’s greenhouse gas inventory and mitigation measures.
 
 <u>Download:</u>
+
+* [<a href="/files/docs/default-source/default-document-library/2020-singapore-fourth-biennial-report.pdf" target="_blank">\[2022\] Singapore’s Fifth National Communication and Fifth Biennial Update Report)</a>](/files/docs/default-source/default-document-library/2020-singapore-fourth-biennial-report.pdf)
 
 * [<a href="/files/docs/default-source/default-document-library/2020-singapore-fourth-biennial-report.pdf" target="_blank">[2020] Singapore's Fourth Biennial Update (PDF, 4MB)</a>](/files/docs/default-source/default-document-library/2020-singapore-fourth-biennial-report.pdf)
 
