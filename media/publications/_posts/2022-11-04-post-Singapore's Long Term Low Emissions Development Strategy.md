@@ -25,6 +25,5 @@ These thrusts are supported by [Singapore’s revised carbon tax](https://www.nc
 ![](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
 
 <u>Download:</u>
-
-* [<a href="/files/docs/default-source/publications/nccsleds_addendum_2022.pdf" target="_blank">Addendum to Singapore's Long-Term Low-Emissions Development Strategy 2020 (PDF, 7MB)</a>](/files/docs/default-source/publications/nccsleds_addendum_2022.pdf)
-* [<a href="/files/docs/default-source/publications/nccsleds.pdf" target="_blank">Singapore's Long-Term Low-Emissions Development Strategy 2020 (PDF, 15MB)</a>](/files/docs/default-source/publications/nccsleds.pdf)
+* [Addendum to Singapore's Long-Term Low-Emissions Development Strategy 2020 (PDF, 7MB)](/files/docs/default-source/publications/nccsleds_addendum_2022.pdf)
+* [Singapore's Long-Term Low-Emissions Development Strategy 2020 (PDF, 15MB)](/files/docs/default-source/publications/nccsleds.pdf)
