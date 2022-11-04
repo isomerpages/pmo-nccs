@@ -5,17 +5,19 @@ permalink: /media/publications/singapores-long-term-low-emissions-development-st
 ---
 ![Singapore's Long-Term Low-Emissions Development Strategy](/images/charting.png "Singapore's Long-Term Low-Emissions Development Strategy"){: style="width:312px; height:420px; margin-left:15px; border:1px solid #ededed;"}
 
-Singapore's Long-Term Low-Emissions Development Strategy (LEDS) document titled “Charting Singapore’s Low-Carbon and Climate Resilient Future”, builds on the enhanced NDC’s target by aspiring to halve our emissions from its peak to 33MtCO<sub>2</sub>e by 2050, with a view to achieving net zero emissions as soon as viable in the second half of the century. 
+On 4 November 2022, Singapore submitted its second update to the 2030 Nationally Determined Contribution and an Addendum to Singapore’s Long-Term Low-Emissions Development Strategy (LEDS) to the United Nations Framework Convention on Climate Change (UNFCCC). The Addendum to the LEDS captures Singapore’s raised national climate target to achieve net zero emissions by 2050. It builds on the [LEDS submitted in 2020](https://www.nccs.gov.sg/files/docs/default-source/publications/nccsleds.pdf), which laid out a target of halving our emissions from their peak to 33 MtCO<sub>2</sub>e by 2050, with a view to achieving net zero emissions as soon as viable in the second half of the century. The targets are contingent on the maturity of decarbonisation technologies and effective international cooperation. Singapore’s ability to fulfil these pledges, like all Parties, will depend on the continued international commitment by Parties to the Paris Agreement and their climate pledges.
 
-In October 2022, Singapore announced that it will raise its national climate target to achieve net zero emissions by 2050 as part of its LEDS.
+To achieve net zero by 2050, Singapore is accelerating the low-carbon transition for industry, economy and society through four key thrusts:
 
-To enable Singapore’s low-carbon transition, the 2020 LEDS has three thrusts: 
+a. Catalysing business transformation, e.g. improving energy efficiency, shifting towards a more sustainable Energy and Chemicals sector; 
 
-a.	Transformations in industry, economy and society, e.g. more renewable energy, greater energy efficiency, reducing energy consumption;
+b. Investing in low-carbon technologies, e.g. carbon capture, utilisation and storage (CCUS), and use of low-carbon fuels; 
 
-b.	Adoption of advanced low-carbon technologies, e.g. carbon capture, utilisation and storage (CCUS), and use of low-carbon fuels; and
+c. Pursuing effective international cooperation, e.g. international climate action, regional power grids, market-based mechanisms; and 
 
-c.	Effective international collaboration, e.g. international climate action, regional power grids, market-based mechanisms. 
+d. Adopting low-carbon practices, e.g. greener commutes with cleaner vehicles and Walk-Cycle-Ride. 
+
+These thrusts are supported by [Singapore’s revised carbon tax](https://www.nccs.gov.sg/media/press-release/singapore-will-raise-climate-ambition), as a key enabler of this transition.
 
 
 <u>Download:</u>
