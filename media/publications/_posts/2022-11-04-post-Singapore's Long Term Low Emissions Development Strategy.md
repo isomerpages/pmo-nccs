@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Singapore's Long Term Low Emissions Development Strategy
+title: Singapore's Long-Term Low-Emissions Development Strategy
 permalink: /media/publications/singapores-long-term-low-emissions-development-strategy/
 date: 2022-11-04
 description: ""
