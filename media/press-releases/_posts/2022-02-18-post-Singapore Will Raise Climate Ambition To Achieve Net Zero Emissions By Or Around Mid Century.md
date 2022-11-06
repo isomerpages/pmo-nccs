@@ -1,11 +1,12 @@
 ---
-title: Singapore Will Raise Climate Ambition to Achieve Net Zero Emissions By or Around Mid Century, and Revises Carbon Tax Levels from 2024
-permalink: /media/press-release/singapore-will-raise-climate-ambition
+title: Singapore Will Raise Climate Ambition to Achieve Net Zero Emissions By or
+  Around Mid Century, and Revises Carbon Tax Levels from 2024
+permalink: /media/press-release/singapore-will-raise-climate-ambition/
 date: 2022-02-18
 layout: post
 description: ""
 ---
-STRONGER CARBON PRICE SIGNAL NECESSARY TO ENABLE SINGAPORE'S TRANSITION TO A LOW-CARBON FUTURE AND ACHIEVEMENT OF NET ZERO EMISSIONS TARGET BY OR AROUND MID-CENTURY
+**STRONGER CARBON PRICE SIGNAL NECESSARY TO ENABLE SINGAPORE'S TRANSITION TO A LOW-CARBON FUTURE AND ACHIEVEMENT OF NET ZERO EMISSIONS TARGET BY OR AROUND MID-CENTURY**
 
 As announced by Minister for Finance Mr Lawrence Wong at Budget 2022, Singapore will raise our climate ambition to achieve net zero emissions by or around mid-century. To enable the transition to a low-carbon future, we will raise the carbon tax levels progressively from 2024. This will support our climate ambition and secure a greener and more sustainable living environment for future generations, while being economically competitive in a low-carbon future. 
 
