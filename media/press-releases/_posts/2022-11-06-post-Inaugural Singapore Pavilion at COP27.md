@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
- **The first-ever Singapore Pavilion at COP27 profiles Singapore’s commitment to global climate action**
+**THE FIRST-EVER SINGAPORE PAVILION AT COP27 PROFILES SINGAPORE'S COMMITMENT TO GLOBAL CLIMATE ACTION**
 
 Singapore is organising its inaugural Singapore Pavilion at the 2022 United Nations Climate Change Conference 27th Conference of the Parties (COP27), which will run from 6 to 18 November 2022 in Sharm el-Sheikh, Egypt. Themed around ‘Building a Future of Green Possibilities’, the Singapore Pavilion showcases how Singapore is actively planting the seeds of change in our economy, environment, and society to achieve a net zero future by 2050. The pavilion is a partnership with over 100 partners from corporates, media, academia, international organisations, and non-governmental organisations (NGOs).
 
