@@ -14,4 +14,36 @@ image: ""
 
 4            Minister for Sustainability and the Environment, Grace Fu, gave a keynote speech at the launch event and said “I am pleased that we are coming together to operationalise Article 6 at COP27 through complementary initiatives such as this Article 6 Implementation Partnership initiated by Japan. This will support the establishment of high-integrity carbon markets and provide new pathways to achieve the goals of the Paris Agreement. The progress on carbon markets, along with increasing support for investments in low-carbon technologies worldwide, had among others given Singapore the confidence to raise our national climate ambition and announce our commitment to achieve net-zero by 2050.”
 
-5            Article 6 of the Paris Agreement governs the market and non-market cooperative mechanisms to facilitate the transfer of carbon credits between countries. The Article 6 rule book was finalised at COP26, following negotiations co-facilitated by Singapore and Norway. Article 6 will be a stepping stone that helps countries meet their Nationally Determined Contribution (NDCs) through the transfer of emissions reduction, while ensuring high standards of environmental integrity.
+5         Article 6 of the Paris Agreement governs the market and non-market coopoerative mechanisms to facilitate the transfer of carbon credits between countries. The Article 6 rule book was finalised at COP26, following negotiations co-facilitated by Singapore and Norway. Article 6 will be a stepping stone that helps countries meet their Nationally Determined Contribution (NDCs) through the transfer of emissions reduction, while ensuring high standards of environmental integrity. 
+
+**For Media Enquiries, please contact:**
+
+**National Climate Change Secretariat**
+         
+Ms Vivian Yeo
+
+Manager, Corporate Communications Division
+
+Tel: +65 8764 1128 
+
+E-mail: [vivian\_yeo@pmo.gov.sg](mailto:vivian_yeo@pmo.gov.sg)
+
+**Ministry of Sustainability and the Environment**
+
+Mr Ian Mak
+
+Senior Manager, Communications & 3P Partnership Division
+
+Tel: +65 93881053
+
+Email: [ian\_mak@mse.gov.sg](mailto:ian_mak@mse.gov.sg)
+
+**Ministry of Trade and Industry**
+
+Ms Naadiah Badib
+
+Assistant Director, Communications and Engagement Division
+
+Tel: +65 6332 5083
+
+Email: [naadiah\_badib@mti.gov.sg](mailto:naadiah_badib@mti.gov.sg)
