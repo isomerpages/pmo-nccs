@@ -7,7 +7,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 I would like to thank President Jokowi for Indonesia’s excellent hospitality, and for inviting Singapore to this year’s G20 Meeting.  
   
 Recurring waves of COVID-19 around the world and Russia’s ongoing war against Ukraine have exacerbated global food and energy insecurity. As a small island state that imports most of its food and energy needs, Singapore has long understood acutely the importance of maintaining access to food and energy sources.  
