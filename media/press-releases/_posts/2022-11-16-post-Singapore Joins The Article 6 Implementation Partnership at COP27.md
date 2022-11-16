@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 Singapore has joined the Article 6 Implementation Partnership as a member country at COP27 in Sharm El-Sheikh, Egypt. Singapore is committed to support Article 6 implementations and foster international partnerships for carbon markets. Singapore’s participation in the Implementation Partnership reflects our continued commitment to advance positive global action for climate change. 
 
 2            Launched by the Ministry of the Environment, Japan (MOEJ) at the COP27 Japan Pavilion, the Partnership builds on the Paris Agreement Article 6 rule book and aims to advance the implementation of high integrity carbon markets through the coordination of international capacity building efforts around the world. This new initiative will also serve as an information platform for Article 6 implementation and provide the support required to pilot Article 6 initiatives.
