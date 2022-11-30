@@ -1,5 +1,6 @@
 ---
-title: '[25 Oct 2022] Feedback Received from REACH Public Consultation on Singapore''s Raised Climate Ambition'
+title: "[25 Oct 2022] Feedback Received from REACH Public Consultation on
+  Singapore's Raised Climate Ambition"
 permalink: /public-consultation/25-oct-2022-feedback-reach-public-consultations-sg-climate-ambition/
 description: ""
 third_nav_title: Overview
@@ -74,7 +75,7 @@ Respondents provided the following feedback:
 
 * * *
 **Conclusion**<br>
-22.          NCCS wishes to thank all individuals, businesses and organisations for their feedback. Members of the public who wish to share their submission publicly on the NCCS website may do so via the following link by 30 November 2022: [https://go.gov.sg/publish-my-feedback-climate2022](https://go.gov.sg/publish-my-feedback-climate2022)
+22.          NCCS wishes to thank all individuals, businesses and organisations for their feedback. 
 
 * * *
 [1] 186 survey respondents did not answer this optional question.
