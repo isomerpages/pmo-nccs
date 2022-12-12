@@ -1,21 +1,21 @@
 title: National Climate Change Secretariat
-url: "https://www.nccs.gov.sg"
+url: https://www.nccs.gov.sg
 favicon: /images/favicon-nccs.ico
 colors:
-  primary-color: '#00ACD8'
-  secondary-color: '#102442'
+  primary-color: "#00ACD8"
+  secondary-color: "#102442"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#49759a"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#744d9f"
     - title: media-color-three
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-five
-      color: '#00838f'
-description: test test
+      color: "#00838f"
+description: ""
 permalink: none
 baseurl: ""
 exclude:
@@ -52,3 +52,8 @@ plugins:
 staging: https://pmo-nccs-stag.netlify.com
 prod: https://pmo-nccs-prod.netlify.com
 resources_name: media
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
