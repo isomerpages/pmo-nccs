@@ -51,17 +51,6 @@ sections:
       url: /media/press-release/singapore-will-raise-climate-ambition
       alt: Members of the Ministry
       image: /images/CarbonTaxGlobe.png
-  - infopic:
-      image: /images/ledscover.jpg
-      alt: Members of the Ministry of ABC shaking hands
-      title: <font size=6.5>CHARTING SINGAPORE'S LOW-CARBON AND CLIMATE RESILIENT
-        FUTURE</font>
-      description: On 31 March 2020, Singapore submitted its enhanced Nationally
-        Determined Contribution (NDC) and Long-Term Low-Emissions Development
-        Strategy (LEDS) document to the United Nations Framework Convention on
-        Climate Change (UNFCCC).
-      button: Read More
-      url: /media/press-release/submission-of-singapores-enhanced-nationally-determined-contribution-and-long-term-low-emissions-development-strategy
   - resources:
       "0":
         title: Media
@@ -69,4 +58,3 @@ sections:
         description: About a sentence worth of description here
         button: View All
 ---
-
