@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: NCCS
+title: National Climate Change Secretariat
 description: The National Climate Change Secretariat (NCCS) was established on 1
   July 2010 under the Prime Minister’s Office (PMO) to develop and implement
   Singapore's domestic and international policies and strategies to tackle
@@ -9,7 +9,7 @@ description: The National Climate Change Secretariat (NCCS) was established on 1
   alignment across Government. The inclusion of NCCS enhances strategy-making
   and planning on vital issues that span multiple Government ministries and
   agencies.
-image: /images/nccs-logo.svg
+image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
@@ -33,7 +33,8 @@ sections:
   - infopic:
       title: <font size=6.5>SINGAPORE REVISES NET ZERO TARGETS & 2030 NDC</font>
       description: Singapore raises its national climate target to achieve net zero
-        emissions by 2050 as part of our Long-Term Low-Emissions Development Strategy, and revised our 2030 Nationally Determined Contribution (NDC).
+        emissions by 2050 as part of our Long-Term Low-Emissions Development
+        Strategy, and revised our 2030 Nationally Determined Contribution (NDC).
       button: READ MORE
       url: /media/press-releases/singapore-commits-to-achieve-net-zero/
       image: /images/infopic slide 1_Cropped.jpg
@@ -68,3 +69,4 @@ sections:
         description: About a sentence worth of description here
         button: View All
 ---
+
