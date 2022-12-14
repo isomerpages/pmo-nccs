@@ -4,8 +4,6 @@ permalink: /public-consultation/14-dec-2022-feedback-from-public-on-sg-raised-cl
 description: ""
 third_nav_title: Overview
 ---
-
-
 The National Climate Change Secretariat (NCCS) conducted a REACH public consultation on Singapore’s Climate Ambition from 5 to 26 September 2022. The documents on this page are from members of the public who gave permission to have their feedback published.
 
 _**Disclaimer:**_ _The views published are solely of the authors, and do not represent the views of the Singapore Government, and should not be taken as an endorsement. The Singapore Government will not be held responsible for the views provided by the authors._
@@ -24,7 +22,7 @@ Read their views here:
 *   [McEwan, Ewan](/files/PC2022_Ewan%20McEwan.pdf)
 *   [Song, Lin](/files/PC2022_Song%20Lin.pdf)
 *   [Tan, Dennis](/files/PC2022_Dennis%20Tan.pdf)
-*   [Tan, San Tek Jimmy]()
+*   [Tan, San Tek Jimmy](/files/PC2022_Jimmy%20Tan%20San%20Tek.pdf)
 *   [Too, Fang Ning](/files/PC2022_Too%20Fang%20Ning.pdf)
 *   [Woo, Qiyun](/files/PC2022_Woo%20Qiyun.pdf)
 
