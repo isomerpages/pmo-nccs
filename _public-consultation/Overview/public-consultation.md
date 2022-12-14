@@ -5,6 +5,8 @@ third_nav_title: Overview
 ---
 ### PUBLIC CONSULTATION
 
+[[14 Dec 2022] Feedback from Public on Singapore's Raised Climate Ambition](https://www.nccs.gov.sg/public-consultation/14-dec-2022-feedback-from-public-on-sg-raised-climate-ambition/)
+
 [[25 Oct 2022] Feedback Received from REACH Public Consultation on Singapore's Raised Climate Ambition](https://www.nccs.gov.sg/public-consultation/25-oct-2022-feedback-reach-public-consultations-sg-climate-ambition/)
 
 [[26 Sept 2022] Public Consultation on Singapore’s Raised Climate Ambition](https://www.nccs.gov.sg/public-consultation/public-consultation-on-raised-climate-ambition/)

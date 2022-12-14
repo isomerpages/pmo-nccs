@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: NCCS
+title: National Climate Change Secretariat
 description: The National Climate Change Secretariat (NCCS) was established on 1
   July 2010 under the Prime Minister’s Office (PMO) to develop and implement
   Singapore's domestic and international policies and strategies to tackle
@@ -9,7 +9,7 @@ description: The National Climate Change Secretariat (NCCS) was established on 1
   alignment across Government. The inclusion of NCCS enhances strategy-making
   and planning on vital issues that span multiple Government ministries and
   agencies.
-image: /images/nccs-logo.svg
+image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
@@ -33,7 +33,8 @@ sections:
   - infopic:
       title: <font size=6.5>SINGAPORE REVISES NET ZERO TARGETS & 2030 NDC</font>
       description: Singapore raises its national climate target to achieve net zero
-        emissions by 2050 as part of our Long-Term Low-Emissions Development Strategy, and revised our 2030 Nationally Determined Contribution (NDC).
+        emissions by 2050 as part of our Long-Term Low-Emissions Development
+        Strategy, and revised our 2030 Nationally Determined Contribution (NDC).
       button: READ MORE
       url: /media/press-releases/singapore-commits-to-achieve-net-zero/
       image: /images/infopic slide 1_Cropped.jpg
@@ -50,17 +51,6 @@ sections:
       url: /media/press-release/singapore-will-raise-climate-ambition
       alt: Members of the Ministry
       image: /images/CarbonTaxGlobe.png
-  - infopic:
-      image: /images/ledscover.jpg
-      alt: Members of the Ministry of ABC shaking hands
-      title: <font size=6.5>CHARTING SINGAPORE'S LOW-CARBON AND CLIMATE RESILIENT
-        FUTURE</font>
-      description: On 31 March 2020, Singapore submitted its enhanced Nationally
-        Determined Contribution (NDC) and Long-Term Low-Emissions Development
-        Strategy (LEDS) document to the United Nations Framework Convention on
-        Climate Change (UNFCCC).
-      button: Read More
-      url: /media/press-release/submission-of-singapores-enhanced-nationally-determined-contribution-and-long-term-low-emissions-development-strategy
   - resources:
       "0":
         title: Media
