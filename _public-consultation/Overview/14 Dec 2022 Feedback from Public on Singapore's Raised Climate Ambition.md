@@ -10,10 +10,10 @@ _**Disclaimer:**_ _The views published are solely of the authors, and do not re
 
 Read their views here:
 
-*   Cheng, Chin-Hsien
-*   Chua, Rachel
-*   Do, Melissa
-*   Doris
+*   [Cheng Chin-Hsien](/files/Cheng%20Chin-Hsien.pdf)
+*   [Chua, Rachel](/files/PC2022_Rachel%20Chua.pdf)
+*   [Do, Melissa](/files/PC2022_Melissa%20Do.pdf)
+*   [Doris](/files/PC2022_Doris.pdf)
 *   Eng, Wei Yang Dennis
 *   Ho, Xiang Tian
 *   Krishnan, Anirudh
