@@ -1,5 +1,5 @@
 ---
-title: [14 Dec 2022] Feedback from Public on Singapore's Raised Climate Ambition
+title: 14 Dec 2022 Feedback from Public on Singapore's Raised Climate Ambition
 permalink: /public-consultation/14-dec-2022-feedback-from-public-on-sg-raised-climate-ambition/
 description: ""
 third_nav_title: Overview
