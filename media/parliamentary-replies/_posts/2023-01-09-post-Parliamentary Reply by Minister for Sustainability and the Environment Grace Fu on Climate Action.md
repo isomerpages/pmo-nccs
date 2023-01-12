@@ -1,6 +1,6 @@
 ---
 title: Parliamentary Reply by Minister for Sustainability and the Environment
-  Grace Fu on Climate Action
+  Grace Fu on Climate Action Tracker Rating
 permalink: /media/parliamentary-replies/parliamentary-reply-climate-action-tracker-rating/
 date: 2023-01-09
 layout: post
