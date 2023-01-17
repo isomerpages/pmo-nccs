@@ -40,15 +40,14 @@ part to decarbonize.
 		<img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Buildings"></a>
 </div>
 
-	<div class="tile-container">
-            <a class="tile-item" href="/singapores-climate-action/energy-efficiency/">
-
-                        <img src="/images/istockphoto-1348631007-1024x1024.jpg" alt="Household"></a>
+<div class="tile-container">
+	<a class="tile-item" href="/singapores-climate-action/energy-efficiency/">
+		<img src="/images/istockphoto-1348631007-1024x1024.jpg" alt="Household"></a>
 </div>
-	<div class="tile-container">
-	<a class="tile-item" href="/singapores-climate-action/power-generation/">
 
-                        <img src="/images/istockphoto-471526987-1024x1024.jpg" alt="Carbon Tax"></a>
+<div class="tile-container">
+	<a class="tile-item" href="/singapores-climate-action/power-generation/">
+		<img src="/images/istockphoto-471526987-1024x1024.jpg" alt="Carbon Tax"></a>
 </div>
 
 
