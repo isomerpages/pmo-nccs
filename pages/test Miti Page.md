@@ -19,6 +19,19 @@ part to decarbonize.
 
     
 #### Explore the 5 pillars of the Singapore Green Plan 2030
+       
+
+<div class="tile-container">
+
+            <a class="tile-item" href="/key-focus-areas/city-in-nature">
+
+                        <img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Industry"></a>
+
+            <a class="tile-item" href="/key-focus-areas/energy-reset">
+
+                        <img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Power"></a>
+
+</div>
 
 <div class="tile-container">
 	<a class="tile-item" href="/singapores-climate-action/mitigation-efforts/">
