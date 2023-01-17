@@ -17,7 +17,40 @@ They are supported by the carbon tax, as a key enabler of this transition.
 Find out how each sector of the economy is playing its 
 part to decarbonize.
 
+    
+#### Explore the 5 pillars of the Singapore Green Plan 2030
 
+<div class="tile-container">
+
+            <a class="tile-item" href="/singapores-climate-action/mitigation-efforts/">
+
+                        <img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Industry"></a>
+
+            <a class="tile-item" href="/singapores-climate-action/energy-efficiency/">
+
+                        <img src="/images/istockphoto-1348631007-1024x1024.jpg" alt="Power"></a>
+
+	<a class="tile-item" href="/singapores-climate-action/power-generation/">
+
+                        <img src="/images/istockphoto-471526987-1024x1024.jpg" alt="Transport"></a>
+</div>
+
+<div class="tile-container">
+
+           <a class="tile-item" href="/singapores-climate-action/mitigation-efforts/">
+
+                        <img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Buildings"></a>
+
+            <a class="tile-item" href="/singapores-climate-action/energy-efficiency/">
+
+                        <img src="/images/istockphoto-1348631007-1024x1024.jpg" alt="Household"></a>
+
+	<a class="tile-item" href="/singapores-climate-action/power-generation/">
+
+                        <img src="/images/istockphoto-471526987-1024x1024.jpg" alt="Carbon Tax"></a>
+</div>
+
+</div>
 
 
 
