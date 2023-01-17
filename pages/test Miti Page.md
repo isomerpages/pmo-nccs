@@ -20,7 +20,6 @@ part to decarbonize.
     
 #### Explore the 5 pillars of the Singapore Green Plan 2030
 
-```
 <div class="tile-container">
 	<a class="tile-item" href="/singapores-climate-action/mitigation-efforts/">
 			<img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Industry"></a>
@@ -51,6 +50,5 @@ part to decarbonize.
 		<img src="/images/istockphoto-471526987-1024x1024.jpg" alt="Carbon Tax"></a>
 </div>
 
-```
 
 ![Alt text for image on Isomer site](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
