@@ -21,32 +21,23 @@ part to decarbonize.
 #### Explore the 5 pillars of the Singapore Green Plan 2030
 
 <div class="tile-container">
-
-            <a class="tile-item" href="/singapores-climate-action/mitigation-efforts/">
-
-                        <img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Industry"></a>
-	
-	</div>
-	
-<div class="tile-container">
-
-            <a class="tile-item" href="/singapores-climate-action/energy-efficiency/">
-
-                        <img src="/images/istockphoto-1348631007-1024x1024.jpg" alt="Power"></a>
-
-</div>
-
-	<div class="tile-container">
-<a class="tile-item" href="/singapores-climate-action/power-generation/">
-
-                        <img src="/images/istockphoto-471526987-1024x1024.jpg" alt="Transport"></a>
+	<a class="tile-item" href="/singapores-climate-action/mitigation-efforts/">
+		<img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Industry"></a>
 </div>
 
 <div class="tile-container">
+	<a class="tile-item" href="/singapores-climate-action/energy-efficiency/">
+		<img src="/images/istockphoto-1348631007-1024x1024.jpg" alt="Power"></a>
+</div>
 
-           <a class="tile-item" href="/singapores-climate-action/mitigation-efforts/">
+<div class="tile-container">
+	<a class="tile-item" href="/singapores-climate-action/power-generation/">
+		<img src="/images/istockphoto-471526987-1024x1024.jpg" alt="Transport"></a>
+</div>
 
-                        <img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Buildings"></a>
+<div class="tile-container">
+	<a class="tile-item" href="/singapores-climate-action/mitigation-efforts/">
+		<img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Buildings"></a>
 </div>
 
 	<div class="tile-container">
