@@ -3,13 +3,26 @@ title: test Miti Page
 permalink: /permalink/testmitipage827493/
 description: ""
 ---
-
 ### MITIGATION EFFORTS
 
-As the vast majority of carbon emissions originate from the combustion of fossil fuels for energy, the most direct way to reduce emissions is to cut down on the use of fossil fuels. While we are actively supporting research on clean energy technologies, Singapore has limited access to alternative or renewable energy.
+Singapore has committed to achieving net zero by 2050. Despite the challenging geographical constraints we face, we will continue to find innovative ways to accelerate the low-carbon transition for industry, economy and society through four key thrusts:
 
-Despite these challenges, we have taken the next best step by switching from carbon-intensive fuel oil to natural gas, which has lower carbon content per unit of electricity generated. However, there are limits to how much further we can reduce emissions, since natural gas already constitutes more than 95 per cent of our fuel mix for electricity generation today. Therefore, improving energy efficiency is a key focus of our efforts to reduce emissions.
+*   Catalysing business transformation;
+*   Investing in low-carbon technologies;
+*   Pursuing effective international cooperation; and
+*   Adopting low-carbon practices.
 
-**Sectoral Measures to Reduce Emissions**
+They are supported by the carbon tax, as a key enabler of this transition.
+
+Find out how each sector of the economy is playing its 
+part to decarbonize.
+
+
+
+
+
+
+
+
 
 ![Alt text for image on Isomer site](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
