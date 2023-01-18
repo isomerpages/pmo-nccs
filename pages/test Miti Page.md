@@ -19,49 +19,24 @@ part to decarbonize.
 
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [Industry](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-133616071-1024x1024.jpg) [Power](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-1348631007-1024x1024.jpg) [Transport](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) |
 | -------- | -------- | -------- |
-| ![](/images/istockphoto-133616071-1024x1024.jpg) [Waste & Water](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) | ![](/images/istockphoto-133616071-1024x1024.jpg) [Buildings](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-133616071-1024x1024.jpg) [Household](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| -------- | -------- | -------- |
+| ![](/images/istockphoto-133616071-1024x1024.jpg) [Waste & Water](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) | ![](/images/istockphoto-133616071-1024x1024.jpg) [Buildings](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](images/istockphoto-471526987-1024x1024.jpg) [Household](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)
+| -------- | -------- | -------- |
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [Carbon Tax](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-133616071-1024x1024.jpg) [International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) | 
 
 <div class="tile-container">
-
             <a class="tile-item" href="/key-focus-areas/city-in-nature">
-
-                        <img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Industry"></a>
-
+                       <img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Industry"></a>
             <a class="tile-item" href="/key-focus-areas/energy-reset">
-
-                        <img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Power"></a>
-
+                        <img src="/images/istockphoto-1348631007-1024x1024.jpg" alt="Power"></a>
 </div>
 
 <div class="tile-container">
-	<a class="tile-item" href="/singapores-climate-action/mitigation-efforts/">
-			<img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Industry"></a>
-
-<div class="tile-container">
-	<a class="tile-item" href="/singapores-climate-action/energy-efficiency/">
-		<img src="/images/istockphoto-1348631007-1024x1024.jpg" alt="Power"></a>
-
-<div class="tile-container">
-	<a class="tile-item" href="/singapores-climate-action/power-generation/">
-		<img src="/images/istockphoto-471526987-1024x1024.jpg" alt="Transport"></a>
-
-	</div>
-
-<div class="tile-container">
-	<a class="tile-item" href="/singapores-climate-action/mitigation-efforts/">
-		<img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Buildings"></a>
+            <a class="tile-item" href="/key-focus-areas/city-in-nature">
+                       <img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Industry"></a>
+            <a class="tile-item" href="/key-focus-areas/energy-reset">
+                        <img src="/images/istockphoto-1348631007-1024x1024.jpg" alt="Power"></a>
 </div>
 
-<div class="tile-container">
-	<a class="tile-item" href="/singapores-climate-action/energy-efficiency/">
-		<img src="/images/istockphoto-1348631007-1024x1024.jpg" alt="Household"></a>
-</div>
-
-<div class="tile-container">
-	<a class="tile-item" href="/singapores-climate-action/power-generation/">
-		<img src="/images/istockphoto-471526987-1024x1024.jpg" alt="Carbon Tax"></a>
-</div>
 
 
 ![Alt text for image on Isomer site](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
