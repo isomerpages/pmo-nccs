@@ -20,8 +20,6 @@ part to decarbonize.
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [Industry](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-133616071-1024x1024.jpg) [Power](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-1348631007-1024x1024.jpg) [Transport](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) |
 | -------- | -------- | -------- |
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [Waste & Water](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) | ![](/images/istockphoto-133616071-1024x1024.jpg) [Buildings](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](images/istockphoto-471526987-1024x1024.jpg) [Household](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)
-| -------- | -------- | -------- |
-
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [Carbon Tax](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-133616071-1024x1024.jpg) [International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) 
 | -------- | -------- |
 
