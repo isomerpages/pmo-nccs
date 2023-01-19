@@ -17,11 +17,13 @@ They are supported by the carbon tax, as a key enabler of this transition.
 Find out how each sector of the economy is playing its 
 part to decarbonize.
 
+
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [Industry](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-133616071-1024x1024.jpg) [Power](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-1348631007-1024x1024.jpg) [Transport](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) |
 | -------- | -------- | -------- |
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [**Waste & Water**](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) | ![](/images/istockphoto-133616071-1024x1024.jpg) [Buildings](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](images/istockphoto-471526987-1024x1024.jpg) [Household](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [Carbon Tax](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-133616071-1024x1024.jpg) [International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) 
 |  |  |
+
 
 
 
@@ -49,7 +51,7 @@ New Page Section
 <div class = "tile-container">
 	<a class="tile-item" href="/media">
 		<img src="/images/istockphoto-471526987-1024x1024.jpg" alt="City"></a>
-	<a class="tile=item" href="/media">
+	<a class="tile=item" href="/careers">
 		<img src="/images/istockphoto-471526987-1024x1024.jpg" alt="Energy"></a>
 	</div>
 
