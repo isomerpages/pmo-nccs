@@ -109,5 +109,6 @@ OR
 | -------- | -------- | 
 | Singapore announced to raise its national climate target to [achieve net zero by 2050](https://www.nccs.gov.sg/media/press-releases/singapore-commits-to-achieve-net-zero/)  | We will reduce emissions to around 60 MtCO2e in 2030 after peaking emissions earlier, as part of our revised [2030 Nationally Determined Contribution (NDC)](https://unfccc.int/sites/default/files/NDC/2022-11/Singapore%20Second%20Update%20of%20First%20NDC.pdf)| 
 
-
+<br><br>
+	
 ![Alt text for image on Isomer site](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
