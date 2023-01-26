@@ -41,7 +41,6 @@ Test
 	<br>
 		
 <br>
-<div class="row">
 <div class="col">
 <a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-1348631007-1024x1024.jpg" alt="Industry"></a><br>
 	<div class="header"><b>Power</b></div><br>
@@ -49,7 +48,6 @@ Test
 	</div>
 	<br>
 <br>
-<div class="row">
 <div class="col">
 <a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-471526987-1024x1024.jpg" alt="Industry"></a><br>
 	<div class="header"><b>Industry</b></div><br>
