@@ -36,7 +36,7 @@ OR
 7. [Carbon Tax](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) <br>
 8. [International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) 
 
-[Font cannot be adjusted else hyperlink won't work. Numbering it makes it sightly bigger.]
+[Size of font cannot be adjusted else hyperlink won't work. ]
 
 **Test with Images in Table**<br>
 	[Images do not align and font not consistent]
