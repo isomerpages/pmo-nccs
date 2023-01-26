@@ -17,7 +17,8 @@ They are supported by the carbon tax, as a key enabler of this transition.
 Find out how each sector of the economy is playing its 
 part to decarbonize.
 
-## Industry##
+## Industry
+### Industry
 
 [Industry](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)<br>
 [Power](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) <br> 
