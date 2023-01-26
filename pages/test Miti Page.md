@@ -39,13 +39,20 @@ OR
 [Size of font cannot be adjusted else hyperlink won't work. ]
 
 **Test with Images in Table**<br>
-	[Images do not align and font not consistent]
+	[Images do not align and font type not consistent]
 	
 
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [Industry](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) | ![](/images/istockphoto-133616071-1024x1024.jpg) [Power](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  | ![](/images/istockphoto-1348631007-1024x1024.jpg) [Transport](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)|
 | -------- | -------- | -------- |
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [**Waste & Water**](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  | ![](/images/istockphoto-133616071-1024x1024.jpg) [Buildings](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)    | ![](/images/istockphoto-471526987-1024x1024.jpg) [Household](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  |
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [Carbon Tax](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) | ![](/images/istockphoto-133616071-1024x1024.jpg) [International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) | 
+
+### New Page Section
+### Singapore's Climate Targets
+
+|![](/images/istockphoto-471526987-1024x1024.jpg)| ![](/images/istockphoto-1348631007-1024x1024.jpg)| 
+| -------- | -------- | 
+| Singapore announced to raise its national climate target to [achieve net zero by 2050](https://www.nccs.gov.sg/media/press-releases/singapore-commits-to-achieve-net-zero/)  | We will reduce emissions to around 60 MtCO2e in 2030 after peaking emissions earlier, as part of our revised [2030 Nationally Determined Contribution (NDC)](https://unfccc.int/sites/default/files/NDC/2022-11/Singapore%20Second%20Update%20of%20First%20NDC.pdf)| 
 
 **Test using SNDGO codes**
 
@@ -104,12 +111,7 @@ OR
 	
 	
 <br><br><br><br><br>
-### New Page Section
-### Singapore's Climate Targets
 
-|![](/images/istockphoto-471526987-1024x1024.jpg)| ![](/images/istockphoto-1348631007-1024x1024.jpg)| 
-| -------- | -------- | 
-| Singapore announced to raise its national climate target to [achieve net zero by 2050](https://www.nccs.gov.sg/media/press-releases/singapore-commits-to-achieve-net-zero/)  | We will reduce emissions to around 60 MtCO2e in 2030 after peaking emissions earlier, as part of our revised [2030 Nationally Determined Contribution (NDC)](https://unfccc.int/sites/default/files/NDC/2022-11/Singapore%20Second%20Update%20of%20First%20NDC.pdf)| 
 
 <br><br>
 	
