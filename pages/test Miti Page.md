@@ -38,56 +38,7 @@ OR
 
 [Font cannot be adjusted else hyperlink won't work. Numbering it makes it sightly bigger.]
 
-**Test with Images**
-
-<br>
-<div class="row">
-<div class="col">
-<a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-471526987-1024x1024.jpg" alt="Industry"></a><br>
-	<div class="header"><b>Industry</b></div><br>
-	<div class="para">Singapore announced to raise its national climate target to achieve net zero by 2050.
-	</div>
-	<br>
-		
-<br>
-<div class="col">
-<a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-1348631007-1024x1024.jpg" alt="Industry"></a><br>
-	<div class="header"><b>Power</b></div><br>
-	<div class="para">We will reduce emissions to around 60 MtCO2e in 2030 after peaking emissions earlier, as part of our revised NDC.
-	</div>
-	<br>
-<br>
-<div class="col">
-<a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-471526987-1024x1024.jpg" alt="Industry"></a><br>
-	<div class="header"><b>Industry</b></div><br>
-	<div class="para">Singapore announced to raise its national climate target to achieve net zero by 2050.
-	</div>
-	<br>	
-	<br>
-<div class="row">
-<div class="col">
-<a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-471526987-1024x1024.jpg" alt="Industry"></a><br>
-	<div class="header"><b>Industry</b></div><br>
-	<div class="para">Singapore announced to raise its national climate target to achieve net zero by 2050.
-	</div>
-	<br>
-		
-<br>
-<div class="col">
-<a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-1348631007-1024x1024.jpg" alt="Industry"></a><br>
-	<div class="header"><b>Power</b></div><br>
-	<div class="para">We will reduce emissions to around 60 MtCO2e in 2030 after peaking emissions earlier, as part of our revised NDC.
-	</div>
-	<br>
-<br>
-<div class="col">
-<a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-471526987-1024x1024.jpg" alt="Industry"></a><br>
-	<div class="header"><b>Industry</b></div><br>
-	<div class="para">Singapore announced to raise its national climate target to achieve net zero by 2050.
-	</div>
-	<br>	
-	
-**Test with Images in Table**
+**Test with Images in Table**<br>
 	[Images do not align and font not consistent]
 	
 
@@ -95,6 +46,57 @@ OR
 | -------- | -------- | -------- |
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [**Waste & Water**](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  | ![](/images/istockphoto-133616071-1024x1024.jpg) [Buildings](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)    | ![](/images/istockphoto-471526987-1024x1024.jpg) [Household](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  |
 | ![](/images/istockphoto-133616071-1024x1024.jpg) [Carbon Tax](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) | ![](/images/istockphoto-133616071-1024x1024.jpg) [International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) | 
+
+**Test using SNDGO codes**
+
+<br>
+<div class="row">
+<div class="col">
+<a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-471526987-1024x1024.jpg" alt="Industry"></a><br>
+	<div class="header"><b>Industry</b></div><br>
+	<div class="para">Singapore announced to raise its national climate target to achieve net zero by 2050.
+	</div>
+	<br>
+		
+<br>
+<div class="col">
+<a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-1348631007-1024x1024.jpg" alt="Industry"></a><br>
+	<div class="header"><b>Power</b></div><br>
+	<div class="para">We will reduce emissions to around 60 MtCO2e in 2030 after peaking emissions earlier, as part of our revised NDC.
+	</div>
+	<br>
+<br>
+<div class="col">
+<a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-471526987-1024x1024.jpg" alt="Industry"></a><br>
+	<div class="header"><b>Industry</b></div><br>
+	<div class="para">Singapore announced to raise its national climate target to achieve net zero by 2050.
+	</div>
+	<br>	
+	<br>
+<div class="row">
+<div class="col">
+<a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-471526987-1024x1024.jpg" alt="Industry"></a><br>
+	<div class="header"><b>Industry</b></div><br>
+	<div class="para">Singapore announced to raise its national climate target to achieve net zero by 2050.
+	</div>
+	<br>
+		
+<br>
+<div class="col">
+<a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-1348631007-1024x1024.jpg" alt="Industry"></a><br>
+	<div class="header"><b>Power</b></div><br>
+	<div class="para">We will reduce emissions to around 60 MtCO2e in 2030 after peaking emissions earlier, as part of our revised NDC.
+	</div>
+	<br>
+<br>
+<div class="col">
+<a href="/singapores-climate-action/mitigation-efforts"><img src ="/images/istockphoto-471526987-1024x1024.jpg" alt="Industry"></a><br>
+	<div class="header"><b>Industry</b></div><br>
+	<div class="para">Singapore announced to raise its national climate target to achieve net zero by 2050.
+	</div>
+	<br>	
+	
+
 
 	
 	
