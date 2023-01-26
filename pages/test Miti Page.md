@@ -17,28 +17,16 @@ They are supported by the carbon tax, as a key enabler of this transition.
 Find out how each sector of the economy is playing its 
 part to decarbonize.
 
-| ![](/images/istockphoto-133616071-1024x1024.jpg) [Industry](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-133616071-1024x1024.jpg) [Power](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-1348631007-1024x1024.jpg) [Transport](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) |
-| -------- | -------- | -------- |
-| ![](/images/istockphoto-133616071-1024x1024.jpg) [**Waste & Water**](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) | ![](/images/istockphoto-133616071-1024x1024.jpg) [Buildings](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](images/istockphoto-471526987-1024x1024.jpg) [Household](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)
-| ![](/images/istockphoto-133616071-1024x1024.jpg) [Carbon Tax](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)| ![](/images/istockphoto-133616071-1024x1024.jpg) [International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) 
-|  |  |
+## Industry##
 
-
-
-
-<div class="tile-container">
-            <a class="tile-item" href="/key-focus-areas/city-in-nature">
-                       <img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Industry"></a>
-            <a class="tile-item" href="/key-focus-areas/energy-reset">
-                        <img src="/images/istockphoto-1348631007-1024x1024.jpg" alt="Power"></a>
-</div>
-
-<div class="tile-container">
-            <a class="tile-item" href="/key-focus-areas/city-in-nature">
-                       <img src="/images/istockphoto-133616071-1024x1024.jpg" alt="Industry"></a>
-            <a class="tile-item" href="/key-focus-areas/energy-reset">
-                        <img src="/images/istockphoto-1348631007-1024x1024.jpg" alt="Power"></a>
-</div>
+[Industry](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)<br>
+[Power](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) <br> 
+[Transport](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)<br>
+[Waste & Water](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) <br>
+[Buildings](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)<br>
+[Household](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)<br>
+[Carbon Tax](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) <br>
+[International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/) 
 
 New Page Section
 ### Singapore's Climate Targets
