@@ -8,8 +8,6 @@ collections:
       - National Circumstances/singapore-s-approach-to-alternative-energy.md
       - National Circumstances/impact-of-climate-change-in-singapore.md
       - singapore-and-international-efforts.md
-      - Mitigation Efforts/Carbon Tax.md
-      - Mitigation Efforts/Household.md
       - Mitigation Efforts/.keep
       - Mitigation Efforts/Overview.md
       - Mitigation Efforts/Power.md
@@ -17,6 +15,8 @@ collections:
       - Mitigation Efforts/Buildings.md
       - Mitigation Efforts/Transport.md
       - Mitigation Efforts/Waste and Water.md
+      - Mitigation Efforts/Household.md
+      - Mitigation Efforts/Carbon Tax.md
       - Adaptation Efforts/.keep
       - Adaptation Efforts/overview.md
       - Adaptation Efforts/enhancing-knowledge-and-expertise.md
