@@ -17,13 +17,13 @@ They are supported by the carbon tax, as a key enabler of this transition.
 
 Find out how each sector of the economy is playing its part to decarbonise.
 
-[Industry](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  
-[Power](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  
-[Transport](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  
-[Waste & Water](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  
-[Buildings](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  
-[Household](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  
-[Carbon Tax](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  
-[International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)
+[Power](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/power)  
+[Industry](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/industry)  
+[Buildings](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/buildings)  
+[Transport](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/transport)  
+[Waste & Water](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/wasteandwater)  
+[Household](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/household)  
+[Carbon Tax](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/carbontax)  
+[International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration)
 
 ![](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
