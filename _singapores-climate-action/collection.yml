@@ -2,7 +2,6 @@ collections:
   singapores-climate-action:
     output: true
     order:
-      - Mitigation Efforts (NEW)/.keep
       - National Circumstances/.keep
       - National Circumstances/overview.md
       - National Circumstances/singapore-s-emissions-profile.md
