@@ -2,6 +2,7 @@ collections:
   singapores-climate-action:
     output: true
     order:
+      - Singapore's Climate Targets/singapore-s-emissions-profile.md
       - Singapore's Climate Targets/Overview.md
       - Singapore's Climate Targets/.keep
       - National Circumstances/.keep
