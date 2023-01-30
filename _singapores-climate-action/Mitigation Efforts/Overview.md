@@ -4,7 +4,6 @@ permalink: /singapores-climate-action/Mitigation-Efforts/overview/
 description: ""
 third_nav_title: Mitigation Efforts
 ---
-
 ### Overview
 
 Singapore has committed to achieving net zero by 2050. Despite the challenging geographical constraints we face, we will continue to find innovative ways to accelerate the low-carbon transition for industry, economy and society through four key thrusts:
@@ -16,7 +15,7 @@ Singapore has committed to achieving net zero by 2050. Despite the challenging
 
 They are supported by the carbon tax, as a key enabler of this transition.
 
-Find out how each sector of the economy is playing its part to decarbonize.
+Find out how each sector of the economy is playing its part to decarbonise.
 
 [Industry](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  
 [Power](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  
