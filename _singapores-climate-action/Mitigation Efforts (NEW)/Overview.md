@@ -25,3 +25,5 @@ Find out how each sector of the economy is playing its part to decarbonize.
 [Household](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  
 [Carbon Tax](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)  
 [International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/)
+
+![](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
