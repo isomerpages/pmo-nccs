@@ -2,6 +2,7 @@ collections:
   singapores-climate-action:
     output: true
     order:
+      - Mitigation Efforts (NEW)/Buildings.md
       - Mitigation Efforts (NEW)/.keep
       - Mitigation Efforts (NEW)/Overview.md
       - Mitigation Efforts (NEW)/Power.md
