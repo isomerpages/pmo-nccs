@@ -2,13 +2,13 @@ collections:
   singapores-climate-action:
     output: true
     order:
-      - Singapore's Climate Targets/.keep
-      - Singapore's Climate Targets/Overview.md
-      - Singapore's Climate Targets/Singapore's Emissions Profile.md
       - National Circumstances/.keep
       - National Circumstances/overview.md
       - National Circumstances/singapore-s-approach-to-alternative-energy.md
       - National Circumstances/impact-of-climate-change-in-singapore.md
+      - Singapore's Climate Targets/.keep
+      - Singapore's Climate Targets/Overview.md
+      - Singapore's Climate Targets/Singapore's Emissions Profile.md
       - singapore-and-international-efforts.md
       - Mitigation Efforts/.keep
       - Mitigation Efforts/Overview.md
