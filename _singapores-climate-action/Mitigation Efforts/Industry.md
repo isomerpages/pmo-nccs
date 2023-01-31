@@ -52,4 +52,4 @@ Click [here](/singapores-climate-action/low-carbon-tech/ccus) to read the CCUS f
 
 **Low-Carbon Hydryogen**
 
-Given its potential as an alternative fuel and industrial feedstock, low-carbon hydrogen has emerged as a key potential decarbonisation pathway for Singapore. Although many low-carbon hydrogen technologies and supply chain are still nascent, Singapore is taking steps to prepare for hydrogen deployment. Click [here](https://www.mti.gov.sg/industries/hydrogen)to read more about our hydrogen strategy.
+Given its potential as an alternative fuel and industrial feedstock, low-carbon hydrogen has emerged as a key potential decarbonisation pathway for Singapore. Although many low-carbon hydrogen technologies and supply chain are still nascent, Singapore is taking steps to prepare for hydrogen deployment. Click [here](https://www.mti.gov.sg/industries/hydrogen) to read more about our hydrogen strategy.
