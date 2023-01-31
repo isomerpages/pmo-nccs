@@ -38,7 +38,7 @@ The list of GHGs and their Global Warming Potential (GWP) values will be updated
 
 The carbon tax coverage will also be expanded to include Nitrogen Trifluoride (NF<sub>3</sub>), the seventh GHG, from 2024 onwards.
 
-![](/images/Netzerocroppededit.png)
+![](/images/Carbon%20Price%20Image.png)
 
 
 #### FAQs
