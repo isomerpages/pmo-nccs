@@ -6,7 +6,7 @@ third_nav_title: Mitigation Efforts
 ---
 ### OVERVIEW
 
-Singapore has committed to achieving net zero by 2050. Despite the challenging geographical constraints we face, we will continue to find innovative ways to accelerate the low-carbon transition for industry, economy and society through four key thrusts:
+Singapore has committed to [achieving net zero by 2050](/singapores-climate-action/singapores-climate-targets/overview/). Despite the [challenging geographical constraints we face](/singapores-climate-action/overview/national-circumstances), we will continue to find innovative ways to accelerate the low-carbon transition for industry, economy and society through four key thrusts:
 
 *   Catalysing business transformation;
 *   Investing in low-carbon technologies;
