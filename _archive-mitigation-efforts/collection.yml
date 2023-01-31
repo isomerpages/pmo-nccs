@@ -2,6 +2,7 @@ collections:
   archive-mitigation-efforts:
     output: true
     order:
+      - waste-and-water.md
       - transport.md
       - power-generation.md
       - low-carbon-technologies.md
