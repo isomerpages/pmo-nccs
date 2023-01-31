@@ -4,7 +4,7 @@ permalink: /singapores-climate-action/Mitigation-Efforts/industry/
 description: ""
 third_nav_title: Mitigation Efforts
 ---
-### Industry
+### INDUSTRY
 
 To support businesses in their decarbonisation journeys, the Government has introduced a suite of measures to help companies improve energy efficiency, reduce emissions, and seize opportunities in the green economy.
 
