@@ -4,7 +4,7 @@ permalink: /singapores-climate-action/Mitigation-Efforts/power/
 description: ""
 third_nav_title: Mitigation Efforts
 ---
-### Power
+### POWER
 Power generation is one of the major sources of Singapore’s carbon emissions and accounts for about 40% of [our emissions today](singapores-climate-action/singapores-climate-targets/singapore-emissions-profile/).  With our limited capacity to tap on [alternative energy sources](/singapores-climate-action/singapore-approach-to-alternative-energy/), we currently rely heavily on imported natural gas to power our nation.
 
 **Energy Reset: A More Environmentally Friendly Method to Power Our Nation**
