@@ -20,7 +20,7 @@ sections:
       key_highlights:
         - title: Mitigation Efforts
           description: Reducing our carbon emissions in all sectors
-          url: /singapores-climate-action/mitigation-efforts/
+          url: /singapores-climate-action/mitigation-efforts/overview/
         - title: Adaptation Efforts
           description: Adapting to the impact of climate change
           url: /singapores-climate-action/overview/adaptation-overview/
