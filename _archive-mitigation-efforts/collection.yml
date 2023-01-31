@@ -1,0 +1,4 @@
+collections:
+  archive-mitigation-efforts:
+    output: true
+    order: []
