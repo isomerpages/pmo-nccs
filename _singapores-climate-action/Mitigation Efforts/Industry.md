@@ -36,7 +36,7 @@ Click [here](https://www.nea.gov.sg/our-services/climate-change-energy-efficienc
 
 The [Sustainable Jurong Island report](https://www.edb.gov.sg/en/about-edb/media-releases-publications/sustainable-jurong-island-edb-outlines-plans-to-transform-jurong-island-into-a-sustainability-showcase-for-energy-and-chemicals.html) details our plans to transform Jurong Island into a Sustainable Energy & Chemicals (E&C) Park that operates sustainably and exports sustainable chemicals globally. By 2030, we aim to increase output of sustainable products by 1.5 times from 2019 levels, and realise at least 2 MtCO<sub>2</sub>e of carbon capture potential. By 2050, we aspire to increase the output of sustainable products by 4 times from 2019 levels, and achieve more than 6 MtCO<sub>2</sub>e of carbon abatement per annum from low-carbon solutions.
 
-To support the industry in its efforts to transform Jurong Island, the Government is putting in place [infrastructure and support measures](/singapores-climate-action/overview/green-growth-opportunities):
+To support the industry in its efforts to transform Jurong Island, the Government is putting in place infrastructure and support measures:
 
 * Incorporating sustainability into the planning of greenfield sites and investments
 * Building specialised or shared infrastructure
