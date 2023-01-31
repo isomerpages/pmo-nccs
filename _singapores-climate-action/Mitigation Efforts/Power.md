@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mitigation Efforts
 ---
 ### Power
-Power generation is one of the major sources of Singapore’s carbon emissions and accounts for about 40% of our emissions today. With our limited capacity to tap on alternative energy sources\[link to National Circumstances page\], we currently rely heavily on imported natural gas to power our nation.
+Power generation is one of the major sources of Singapore’s carbon emissions and accounts for about 40% of [our emissions today](singapores-climate-action/singapores-climate-targets/singapore-emissions-profile/).  With our limited capacity to tap on [alternative energy sources](/singapores-climate-action/singapore-approach-to-alternative-energy/), we currently rely heavily on imported natural gas to power our nation.
 
 **Energy Reset: A More Environmentally Friendly Method to Power Our Nation**
 
@@ -54,4 +54,4 @@ Since 2000, we have shifted away from less efficient fossil fuels and in turn in
 Our fuel mix makes us much less carbon intensive than other nations that still use coal as an important part of their power generation. [Singapore's Grid Emission Factor](https://www.ema.gov.sg/singapore-energy-statistics/ch02/index2) — a measure of the carbon intensity of electricity generation — has fallen from 0.4237 kgCO2/kWh in 2016 to 0.4057 kgCO2/kWh in 2021.
 
 ![](/images/EMA_Singapore's%20Grid%20Emission%20Factor.png)
-Figure 1: Singapore's Grid Emission Factor, 2016 to 2021. Source: EMA
+**Figure 1: **Singapore's Grid Emission Factor, 2016 to 2021. Source: EMA
