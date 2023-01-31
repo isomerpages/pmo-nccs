@@ -2,4 +2,5 @@ collections:
   archive-mitigation-efforts:
     output: true
     order:
+      - carbon-tax.md
       - buildings.md
