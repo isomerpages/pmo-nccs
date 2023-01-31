@@ -1,4 +1,5 @@
 collections:
   archive-mitigation-efforts:
     output: true
-    order: []
+    order:
+      - buildings.md
