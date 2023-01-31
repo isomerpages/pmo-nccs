@@ -15,6 +15,8 @@ Singapore has committed to [achieving net zero by 2050](/singapores-climate-act
 
 They are supported by the carbon tax, as a key enabler of this transition.
 
+![](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
+
 Find out how each sector of the economy is playing its part to decarbonise.
 
 [Power](/singapores-climate-action/mitigation-efforts/power)  
@@ -25,5 +27,3 @@ Find out how each sector of the economy is playing its part to decarbonise.
 [Household](/singapores-climate-action/mitigation-efforts/household)  
 [Carbon Tax](/singapores-climate-action/mitigation-efforts/carbontax)  
 [International Collaboration](/singapores-climate-action/mitigation-efforts/internationalcollaboration)
-
-![](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
