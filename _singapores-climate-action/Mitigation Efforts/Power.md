@@ -45,6 +45,10 @@ To kickstart our efforts, the Energy Market Authority (EMA) and the Maritime Por
 
 Click [here](/singapores-climate-action/low-carbon-tech/hc) to read the hydrogen feasibility study report, “Study of Hydrogen Imports and Downstream Applications for Singapore”, which was jointly commissioned by the National Climate Change Secretariat (NCCS), Singapore Economic Development Board (EDB) and Energy Market Authority (EMA) and concluded in June 2021.
 
+_Carbon Capture, Utilisation and Storage (CCUS)_
+
+We are also exploring possible CCUS deployment pathways. Carbon dioxide captured could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. Click [here](/singapores-climate-action/mitigation-efforts/industry/) to read more about CCUS in Singapore.
+
 _Natural Gas_
 
 Today, about 95% of Singapore’s electricity is generated using natural gas, the cleanest form of fossil fuels. Natural gas will continue to be a dominant fuel for Singapore in the near future as we scale up our other switches. We will work with the industry to improve the energy and carbon efficiency of natural gas generation units.
