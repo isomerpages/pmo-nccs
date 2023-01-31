@@ -2,5 +2,6 @@ collections:
   archive-mitigation-efforts:
     output: true
     order:
+      - energy-efficiency.md
       - carbon-tax.md
       - buildings.md
