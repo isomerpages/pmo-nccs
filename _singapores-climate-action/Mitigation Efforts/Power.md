@@ -54,4 +54,4 @@ Since 2000, we have shifted away from less efficient fossil fuels and in turn in
 Our fuel mix makes us much less carbon intensive than other nations that still use coal as an important part of their power generation. [Singapore's Grid Emission Factor](https://www.ema.gov.sg/singapore-energy-statistics/ch02/index2) — a measure of the carbon intensity of electricity generation — has fallen from 0.4237 kgCO2/kWh in 2016 to 0.4057 kgCO2/kWh in 2021.
 
 ![](/images/EMA_Singapore's%20Grid%20Emission%20Factor.png)
-**Figure 1: **Singapore's Grid Emission Factor, 2016 to 2021. Source: EMA
+Figure 1: Singapore's Grid Emission Factor, 2016 to 2021. Source: EMA
