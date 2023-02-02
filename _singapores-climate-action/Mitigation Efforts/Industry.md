@@ -54,4 +54,4 @@ Read the CCUS feasibility study report, [“Carbon Capture, Storage, and Utilisa
 
 Given its potential as an alternative fuel and industrial feedstock, low-carbon hydrogen has emerged as a key potential decarbonisation pathway for Singapore. Although many low-carbon hydrogen technologies and supply chains are still nascent, Singapore is taking steps to prepare for hydrogen deployment. Read more about [our hydrogen strategy.](/singapores-climate-action/mitigation-efforts/power/)
 
-Singapore's energy efficiency measures, sectoral transformation plans, and development of hydrogen and CCUS technologies complement our [carbon tax](/singapores-climate-action/mitigation-efforts/carbontax/) in helping our businesses' transition to a green economy.
+Singapore's energy efficiency measures, sectoral transformation plans, and development of hydrogen and CCUS technologies complement our [carbon tax](/singapores-climate-action/mitigation-efforts/carbontax/) in helping our businesses transition to a green economy.
