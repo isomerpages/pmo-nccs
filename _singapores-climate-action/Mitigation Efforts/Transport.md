@@ -12,4 +12,4 @@ Singapore will continue to invest significantly in our public transport and acti
 
 To encourage the adoption of cleaner-energy vehicles, Singapore has implemented [various incentives and policies](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/transitioning_to_evs.html) to lower the upfront and running costs of an electric vehicle (EVs). All newly registered vehicles will be cleaner-energy models starting from 2030. We are also expanding our public EV charging infrastructure, with a target of 60,000 charging points nationwide by 2030.
 
-The Government is also enhancing existing transport facilities to make them more environmentally friendly, and designing and building new land transport, airport and port facilities that are sustainable and green, through incorporating energy efficient and carbon mitigation features and technologies.
+The Government is also enhancing existing transport facilities to make them more environmentally friendly, and designing and building new land transport, airport and port facilities that are sustainable and green through energy efficient and carbon mitigation features and technologies.
