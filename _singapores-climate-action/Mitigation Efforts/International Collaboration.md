@@ -14,7 +14,7 @@ As an advocate of close bilateral, regional and plurilateral cooperation; Singap
 
 **Collaboration on Carbon Markets**
 
-Singapore is committed to ensuring the integrity, quality and transparency of carbon markets. This includes robust and independent accounting, and the avoidance of double counting, including requiring corresponding adjustments.
+Singapore is committed to ensuring the integrity, quality and transparency of carbon markets. This includes robust and independent accounting, and the avoidance of double counting, and requiring corresponding adjustments.
 
 To advance the generation and sharing of carbon credits to support Singapore and other partner countries’ climate ambitions, Singapore has signed Memoranda of Understanding (MOUs) with countries such as Colombia, Indonesia, Morocco, Peru, Papua New Guinea and Vietnam, on carbon credits collaboration aligned to Article 6 of the Paris Agreement. These collaborations will also prioritise sustainable development and co-benefits to the local communities and economy.
 
