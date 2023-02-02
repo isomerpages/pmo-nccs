@@ -43,7 +43,7 @@ Given its potential as an alternative fuel and industrial feedstock, low-carbon 
 
 To kickstart our efforts, the Energy Market Authority (EMA) and the Maritime Port Authority (MPA) had jointly called for interested parties to submit proposals under an Expression-of-Interest to build, own and operate low or zero-carbon power generation and bunkering solutions in December 2022.
 
-Singapore also conducted a [hydrogen feasibility study report](/singapores-climate-action/low-carbon-tech/hc), “Study of Hydrogen Imports and Downstream Applications for Singapore”, which was jointly commissioned by the National Climate Change Secretariat (NCCS), Singapore Economic Development Board (EDB) and Energy Market Authority (EMA) and concluded in June 2021.
+Singapore also conducted a [hydrogen feasibility study report](/singapores-climate-action/low-carbon-tech/hc), “Study of Hydrogen Imports and Downstream Applications for Singapore”, which was jointly commissioned by the National Climate Change Secretariat (NCCS), Singapore's Economic Development Board (EDB) and Energy Market Authority (EMA) and concluded in June 2021.
 
 **Carbon Capture, Utilisation and Storage (CCUS)**
 
