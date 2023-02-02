@@ -47,15 +47,15 @@ Singapore also conducted a [hydrogen feasibility study report](/singapores-clima
 
 **Carbon Capture, Utilisation and Storage (CCUS)**
 
-We are also exploring possible CCUS deployment pathways. Carbon dioxide captured could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. Click [here](/singapores-climate-action/mitigation-efforts/industry/) to read more about CCUS in Singapore.
+We are also exploring possible CCUS deployment pathways. Carbon dioxide captured could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. [Read more about CCUS in Singapore.](/singapores-climate-action/mitigation-efforts/industry/)
 
 _Natural Gas_
 
-Today, about 95% of Singapore’s electricity is generated using natural gas, the cleanest form of fossil fuels. Natural gas will continue to be a dominant fuel for Singapore in the near future as we scale up our other switches. We will work with the industry to improve the energy and carbon efficiency of natural gas generation units.
+Today, about 95% of Singapore’s electricity is generated using natural gas, the cleanest form of fossil fuels. Natural gas will continue to be a dominant fuel for Singapore in the near future as we scale up our other switches. We will continue working with the industry to improve the energy and carbon efficiency of natural gas generation units during this transtion.
 
-Since 2000, we have shifted away from less efficient fossil fuels and in turn increased the percentage of natural gas used in electricity generation from 19% to more than 95% today. Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. By so doing, we have cut the amount of carbon we release into the atmosphere.
+Since 2000, Singapore has shifted away from less efficient fossil fuels and in turn increased the percentage of natural gas used in electricity generation from 19% to more than 95% today. Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. By so doing, we have cut the amount of carbon we release into the atmosphere.
 
-Our fuel mix makes us much less carbon intensive than other nations that still use coal as an important part of their power generation. [Singapore's Grid Emission Factor](https://www.ema.gov.sg/singapore-energy-statistics/ch02/index2) — a measure of the carbon intensity of electricity generation — has fallen from 0.4237 kgCO2/kWh in 2016 to 0.4057 kgCO2/kWh in 2021.
+Singapore's fuel mix allows our emission to be much less carbon intensive than other nations that still use coal as an important part of their power generation. [Singapore's Grid Emission Factor](https://www.ema.gov.sg/singapore-energy-statistics/ch02/index2) — a measure of the carbon intensity of electricity generation — has fallen from 0.4237 kgCO2/kWh in 2016 to 0.4057 kgCO2/kWh in 2021.
 
 ![](/images/EMA_Singapore's%20Grid%20Emission%20Factor.png)
 Singapore's Grid Emission Factor, 2016 to 2021. Source: EMA
