@@ -27,7 +27,7 @@ In June 2017, the ECA was enhanced to stipulate more energy management practices
 * Introducing minimum energy efficiency standards for common energy consuming industrial equipment and systems; and
 * Requiring companies which are building new energy-intensive facilities to review the facility design of such new ventures for energy efficiency opportunities and to monitor and report their energy use and energy performance indicators based on measured data.
 
-Read more about our [initiatives to improve industrial energy efficiency](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/industrial-sector)), which include:
+Read more about our [initiatives to improve industrial energy efficiency](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/industrial-sector), which include:
 
 * The Energy Services Company (ESCO) Accreditation Scheme and Singapore Certified Energy Manager (SCEM) Programme to help grow technical and professional capabilities in Singapore; and
 * The Energy Efficiency National Partnership Programme, a voluntary programme launched by NEA, EDB and EMA in 2010, which aims to foster a culture of sustained energy efficiency improvement in industry.
