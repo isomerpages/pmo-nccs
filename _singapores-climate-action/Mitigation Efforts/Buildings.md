@@ -14,7 +14,7 @@ Singapore is accelerating our transition towards a low-carbon built environment.
 * 80% of new developments (by GFA) to be [Super Low Energy (SLE)](https://www1.bca.gov.sg/buildsg/sustainability/super-low-energy-programme) buildings from 2030 onwards; and
 * 80% improvement in energy efficiency (compared to 2005 levels) for best-in-class green buildings by 2030.
 
-Other key strategies under the SGBMP include raising the sustainability standards of existing buildings, driving the adoption of SLE standards for new buildings, and pushing the boundaries of energy efficiency through research and innovation through various policy levers and initiatives.
+Other key strategies include raising the sustainability standards of existing buildings, driving the adoption of SLE standards for new buildings, and pushing the boundaries of energy efficiency through research and innovation through various policy levers and initiatives.
 
 **Greening Buildings through Minimum Energy Performance Requirements and Green Mark Standards**
 
@@ -22,7 +22,7 @@ Singapore’s green building journey first started in 2005 with the launch of BC
 
 BCA also introduced minimum energy performance standards in 2008 for new buildings under the [Building Control Act](https://www1.bca.gov.sg/regulatory-info/legislation-on-environmental-sustainability-for-buildings). Since 2013, this requirement has since been extended to existing buildings undergoing major retrofitting works. This ensures that new buildings are designed to be sustainable from the onset, and that existing buildings are upgraded to meet the prevailing sustainability standards when they undergo extensive works. Any building that has met either the minimum energy performance standards or has been certified Green Mark is considered ‘green’, contributing to the first target of “80-80-80 in 2030” (i.e. to green 80% of our buildings’ GFA).
 
-Given the long life cycle of buildings, and as Singapore continues to raise our national climate commitments, our buildings will have to be even ‘greener’. 
+Given the long life cycle of buildings, and as Singapore raise our national climate commitments, our buildings will have to be even ‘greener’. 
 * Since the release of the SGBMP, BCA has launched the latest edition of the GM scheme, GM 2021, in September 2021. Under this revision, buildings will have to achieve higher standards of energy performance (at least 50% improvement in energy performance compared to 2005 levels) along with good practices in other sustainability areas to receive GM certification<sup>1</sup>, while new and existing buildings are required to meet minimally 40% improvement in energy performance compared to 2005 levels.
 * BCA also raised the minimum energy performance standards for new and existing buildings in 2021/2022, following consultations with key industry stakeholders.
 
@@ -36,7 +36,7 @@ BCA introduced the SLE Programme in 2018 to encourage firms to go beyond existin
 
 As part of the SGBMP’s second target under the “80-80-80 in 2030” for 80% of our new developments by GFA in 2030 to be SLE, BCA works with various stakeholders and taps on various policy levers to drive demand for SLE buildings. Through these levers, we can build industry capability in developing SLE buildings, provide use cases for the private sector to take reference from, and bring SLE buildings into the mainstream.
 
-Under the [GreenGov.SG initiative](https://www.greenplan.gov.sg/key-focus-areas/green-government/), the Government is taking the lead to drive wider adoption of SLE buildings. All new and existing public sector buildings are required to achieve GM Platinum SLE standards or equivalent. In addition, new private developments on strategic Government Land Sales (GLS) sites will minimally be required to deliver energy performance equivalent to SLE.
+Under the [GreenGov.SG initiative](https://www.greenplan.gov.sg/key-focus-areas/green-government/), the Government is taking the lead to drive wider adoption of SLE buildings. All new and existing public sector buildings are required to achieve GM Platinum SLE standards or equivalent. In addition, new private developments on strategic Government Land Sales sites will minimally be required to deliver energy performance equivalent to SLE.
 
 In Jurong Lake District (JLD), a new growth area in western Singapore that aspires to become a world-class sustainability district, all new developments will be required to meet SLE standards, with some achieving Zero Energy standards as technology improves, and will be required to use the district cooling system, which improves energy efficiency. JLD aims to achieve net zero emissions for new developments around 2045.
 
