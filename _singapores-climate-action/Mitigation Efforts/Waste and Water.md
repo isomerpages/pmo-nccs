@@ -36,4 +36,4 @@ Tuas Nexus will include one of Southeast Asia’s largest sludge incineration pl
 
 Singapore is exploring how to reduce direct methane emissions from wastewater sludge through incineration. The Sumitomo Mitsui Banking Corporation and ECO-Special Waste Management (ECO-SWM) have collaborated on the development of one of Southeast Asia’s largest sludge incineration plants in Singapore.
 
-With an estimated annual average reduction of 129,000 tonnes of carbon dioxide-equivalent (CO<sub>2</sub>e), the plant has been registered as an emissions reduction project with the United Nations Framework Convention on Climate Change, and will generate carbon credits in Singapore.
+With an estimated annual average reduction of 129,000 tonnes of carbon dioxide-equivalent (CO<sub>2</sub>e), the plant has been registered as an emissions reduction project with the United Nations Framework Convention on Climate Change and will generate carbon credits in Singapore.
