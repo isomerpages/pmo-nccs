@@ -27,7 +27,7 @@ In June 2017, the ECA was enhanced to stipulate more energy management practices
 * Introducing minimum energy efficiency standards for common energy consuming industrial equipment and systems; and
 * Requiring companies which are building new energy-intensive facilities to review the facility design of such new ventures for energy efficiency opportunities and to monitor and report their energy use and energy performance indicators based on measured data.
 
-Click [here](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/industrial-sector) to read more about our initiatives to improve industrial energy efficiency, which include:
+Read more about our [initiatives to improve industrial energy efficiency](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/industrial-sector)), which include:
 
 * The Energy Services Company (ESCO) Accreditation Scheme and Singapore Certified Energy Manager (SCEM) Programme to help grow technical and professional capabilities in Singapore; and
 * The Energy Efficiency National Partnership Programme, a voluntary programme launched by NEA, EDB and EMA in 2010, which aims to foster a culture of sustained energy efficiency improvement in industry.
@@ -48,8 +48,10 @@ To support the industry in its efforts to transform Jurong Island, the Governmen
 
 We are also exploring possible CCUS deployment pathways. Carbon dioxide captured from industrial facilities in Singapore could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. For Jurong Island, we aim to realise at least 2 MtCO<sub>2</sub>e of carbon capture potential by 2030, and achieve more than 6 MtCO<sub>2</sub>e of carbon abatement per annum by 2050.
 
-Click [here](/singapores-climate-action/low-carbon-tech/ccus) to read the CCUS feasibility study report, “Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors”, which was jointly commissioned by NCCS and EDB and concluded in June 2021.
+Read the [CCUS feasibility study report](/singapores-climate-action/low-carbon-tech/ccus), “Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors”, which was jointly commissioned by NCCS and EDB and concluded in June 2021.
 
 **Low-Carbon Hydryogen**
 
-Given its potential as an alternative fuel and industrial feedstock, low-carbon hydrogen has emerged as a key potential decarbonisation pathway for Singapore. Although many low-carbon hydrogen technologies and supply chain are still nascent, Singapore is taking steps to prepare for hydrogen deployment. Click [here](https://www.mti.gov.sg/industries/hydrogen) to read more about our hydrogen strategy.
+Given its potential as an alternative fuel and industrial feedstock, low-carbon hydrogen has emerged as a key potential decarbonisation pathway for Singapore. Although many low-carbon hydrogen technologies and supply chain are still nascent, Singapore is taking steps to prepare for hydrogen deployment. [Read more about our hydrogen strategy.](/singapores-climate-action/mitigation-efforts/power/)
+
+Singapore's energy efficiency measures, sectoral transformation plans, and development of hydrogen and CCUS technologies complement our [carbon tax](/singapores-climate-action/mitigation-efforts/carbontax/) in helping our businesses' transition to a green economy.
