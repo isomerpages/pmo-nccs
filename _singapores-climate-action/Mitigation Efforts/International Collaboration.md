@@ -10,7 +10,7 @@ Given our [national circumstances](/singapores-climate-action/overview/national-
 
 This is why Singapore actively fosters effective international cooperation on climate action. Singapore has played an active role to support the multilateral framework of cooperation on climate change under the UNFCCC, including co-facilitating the negotiations at COP-26 that finalised the Article 6 rulebook of the Paris Agreement. Read more about [our international efforts here.](/singapores-climate-action/singapore-and-international-efforts/)
 
-As Singapore is an advocate of close bilateral, regional and plurilateral cooperation, it has signed agreements with various partners to strengthen collaboration on carbon markets, green finance and low-carbon technologies. Singapore is committed to advancing global climate action through international collaboration with like-minded partners.
+As an advocate of close bilateral, regional and plurilateral cooperation; Singapore has signed agreements with various partners to strengthen collaboration on carbon markets, green finance and low-carbon technologies. Singapore is committed to advancing global climate action through international collaboration with like-minded partners.
 
 **Collaboration on Carbon Markets**
 
