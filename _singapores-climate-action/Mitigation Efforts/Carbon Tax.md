@@ -77,6 +77,6 @@ Support is also provided to help households reduce their emissions. The Governme
 
 Today’s electricity retail market is competitive and discourages retailers from raising their electricity rates excessively. Nevertheless, EMA will continue to ensure fair and efficient conduct of market players. Government agencies will also work closely with the Consumer Association of Singapore (CASE) and Competition & Consumer Commission of Singapore to monitor the market for unfair pricing and coordinated price hikes which are anti-competitive.
 
-**8\. Why are we allowing carbon tax liable facilities to offset only up to 5% of their emissions using international carbon credits from 2024?**
+**6\. Why are we allowing carbon tax liable facilities to offset only up to 5% of their emissions using international carbon credits from 2024?**
 
 The facility-level limit has been set at 5% to ensure that the industry continues to prioritise domestic emissions reduction, while providing an additional decarbonisation pathway for hard-to-abate sectors that may find it challenging to significantly cut emissions in the near to medium term. This limit is aligned with other comparable jurisdictions with similar climate ambitions, such as South Korea and California. We will continue to review the facility-level limit over time to align with international developments.
