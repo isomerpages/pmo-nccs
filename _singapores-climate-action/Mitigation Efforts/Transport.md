@@ -6,7 +6,7 @@ third_nav_title: Mitigation Efforts
 ---
 ### Transport
 
-Singapore has one of the most comprehensive and innovative systems in the world for managing vehicle ownership and usage. Since 2018, we have kept our private vehicle population growth at zero. As part of the [2040 Land Transport Master Plan (LTMP 2040)](https://www.lta.gov.sg/content/ltagov/en/who_we_are/our_work/land_transport_master_plan_2040.html), the Government aims to phase out internal combustion engine vehicles and have all vehicles running on cleaner energy by 2040. The LTMP also aims to have 9 in 10 peak period Walk-Cycle-Ride (WCR) journeys to be completed in less than 45 minutes by 2040. 
+Singapore has one of the most comprehensive and innovative systems in the world for managing vehicle ownership and usage. Since 2018, we have kept our private vehicle population growth at zero. As part of the [Land Transport Master Plan 2040 (LTMP)](https://www.lta.gov.sg/content/ltagov/en/who_we_are/our_work/land_transport_master_plan_2040.html), the Government aims to phase out internal combustion engine vehicles and have all vehicles running on cleaner energy by 2040. The LTMP also aims to have 9 in 10 peak period Walk-Cycle-Ride (WCR) journeys to be completed in less than 45 minutes by 2040. 
 
 We will continue to invest significantly in our public transport and active mobility infrastructure to encourage WCR modes of travel. 
 
