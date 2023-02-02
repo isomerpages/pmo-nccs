@@ -6,7 +6,7 @@ description: ""
 ---
 ### SINGAPORE'S EMISSIONS PROFILE
 
-Climate change is a global challenge that requires a global response. Despite the [unique challenges and constraints](/singapores-climate-action/overview/national-circumstances) we face as a dense built-up city-state with no hinterland and limited resources, we are committed to doing our part in the global fight against climate change.
+Climate change is a global challenge that requires a global response. Despite the [unique challenges and constraints](/singapores-climate-action/overview/national-circumstances) Singapore faces as a dense built-up city-state with no hinterland and limited resources, we are committed to doing our part in the global fight against climate change.
 
 Historically, our strategic position along the East-West trade routes has made Singapore a natural location for oil storage and refining facilities serving the region. Building on our position as a key regional port, the refining and petrochemical sector helps create synergies and is part of a business supply network in Southeast Asia, the Western Pacific, South Asia and Australasia. Although the refining and petrochemical sector remains a significant proportion of our total carbon emissions, we are taking steps to reduce [taking steps to reduce industry emissions](/singapores-climate-action/mitigation-efforts/industry/).
 
