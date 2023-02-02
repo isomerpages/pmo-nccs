@@ -4,8 +4,7 @@ permalink: /singapores-climate-action/Singapores-Climate-Targets/singapore-emiss
 third_nav_title: Singapore's Climate Targets
 description: ""
 ---
-
-### SINGAPORE'S EMISSIONS PROFILE
+### Singapore's Emissions Profile
 
 Climate change is a global challenge that requires a global response. Despite the [unique challenges and constraints](/singapores-climate-action/overview/national-circumstances) Singapore faces as a dense built-up city-state with no hinterland and limited resources, we are committed to doing our part in the global fight against climate change.
 
