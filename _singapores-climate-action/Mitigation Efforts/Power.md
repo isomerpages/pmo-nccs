@@ -29,7 +29,7 @@ To further develop and refine our technical and regulatory frameworks for large-
 
 _Emerging Low-Carbon Alternatives_
 
-Singapore is studying emerging low-carbon technologies like hydrogen, carbon capture utilisation and storage (CCUS), and advanced geothermal systems as possible paths to decarbonising our power sector. Under the [Low-Carbon Energy Research (LCER) Funding Initiative](https://www.a-star.edu.sg/research/funding-opportunities/lcer-fi-grant), we have awarded S$55 million to support 12 research, development and demonstration projects on low-carbon hydrogen and CCUS, with another S$129 million set aside for the next phase of the programme.
+Singapore is studying emerging low-carbon technologies like hydrogen, [carbon capture utilisation and storage (CCUS)](/singapores-climate-action/mitigation-efforts/industry/), and advanced geothermal systems as possible paths to decarbonising our power sector. Under the [Low-Carbon Energy Research (LCER) Funding Initiative](https://www.a-star.edu.sg/research/funding-opportunities/lcer-fi-grant), we have awarded S$55 million to support 12 research, development and demonstration projects on low-carbon hydrogen and CCUS, with another S$129 million set aside for the next phase of the programme.
 
 **Low-Carbon Hydrogen**
 
