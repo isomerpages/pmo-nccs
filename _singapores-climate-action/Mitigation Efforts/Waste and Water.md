@@ -21,7 +21,7 @@ Singapore has also introduced an [Extended Producer Responsibility (EPR) scheme]
 
 **Reducing Energy Usage by Desalination**
 
-Desalinated water is one of Singapore’s water supply sources, meeting about 10% of the country’s water needs. We have been investing in R&D to improve the energy efficiency of the desalination process. One such project uses electrochemical desalting to reduce energy usage to less than half the volume currently being used by membrane-based desalination methods.
+Desalinated water is one of Singapore’s water supply sources, meeting about 10% of the country’s water needs. We have been investing in research and development to improve the energy efficiency of the desalination process. One such project uses electrochemical desalting to reduce energy usage to less than half the volume currently being used by membrane-based desalination methods.
 
 **World’s First Integrated Waste and Water Treatment Facility**
 
