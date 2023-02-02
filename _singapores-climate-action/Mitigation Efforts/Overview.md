@@ -13,7 +13,7 @@ Singapore has committed to [achieving net zero emissions by 2050](/singapores-c
 *   Pursuing effective international cooperation; and
 *   Adopting low-carbon practices.
 
-These key thrusts are supported by a carbon tax, as a key enabler of this transition.
+These key thrusts are supported by a [carbon tax](/singapores-climate-action/mitigation-efforts/carbontax/), as a key enabler of this transition.
 
 ![](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
 
