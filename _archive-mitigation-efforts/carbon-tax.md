@@ -1,8 +1,9 @@
 ---
 title: Carbon Tax
 permalink: /singapores-climate-action/carbon-tax/
-third_nav_title: Mitigation Efforts
 ---
+
+
 ### CARBON TAX
 
 As announced by Minister for Finance Mr Lawrence Wong at Budget 2022, Singapore will raise our climate ambition to achieve net zero emissions by or around mid-century. To enable the transition to a low-carbon future, we will raise the carbon tax levels progressively from 2024. This will support our climate ambition and secure a greener and more sustainable living environment for future generations, while being economically competitive in a low-carbon future.  

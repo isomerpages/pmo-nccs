@@ -1,8 +1,9 @@
 ---
 title: Buildings
 permalink: /singapores-climate-action/buildings/
-third_nav_title: Mitigation Efforts
 ---
+
+
 ### BUILDINGS
 
 The design of a building has direct impact on energy efficiency. Existing buildings can be retrofitted to incorporate green designs to increase their energy efficiency. This lowers electricity costs and benefits tenants.

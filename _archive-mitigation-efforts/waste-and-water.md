@@ -1,8 +1,9 @@
 ---
 title: Waste And Water
 permalink: /singapores-climate-action/waste-and-water/
-third_nav_title: Mitigation Efforts
 ---
+
+
 
 ### WASTE AND WATER
 

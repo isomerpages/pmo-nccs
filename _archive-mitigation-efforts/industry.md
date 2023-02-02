@@ -1,8 +1,9 @@
 ---
 title: Industry
 permalink: /singapores-climate-action/industry/
-third_nav_title: Mitigation Efforts
 ---
+
+
 ### INDUSTRY
 
 Energy efficiency measures provide the economic benefits of lowering energy costs to individuals and businesses while reducing carbon emissions. We are working with local companies to address some of the market barriers they face in adopting energy efficient practices and technologies.

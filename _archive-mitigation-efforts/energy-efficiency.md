@@ -1,8 +1,9 @@
 ---
 title: Energy Efficiency
 permalink: /singapores-climate-action/energy-efficiency/
-third_nav_title: Mitigation Efforts
 ---
+
+
 ### ENERGY EFFICIENCY
 
 Singapore has identified the following thrusts in our energy efficiency strategy:

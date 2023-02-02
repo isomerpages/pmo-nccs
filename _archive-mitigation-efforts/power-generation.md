@@ -1,8 +1,9 @@
 ---
 title: Power Generation
 permalink: /singapores-climate-action/power-generation/
-third_nav_title: Mitigation Efforts
 ---
+
+
 ### POWER GENERATION
 
 Power generation is one of the major sources of carbon emissions. With our limited capacity to tap on alternative energy resources, we rely heavily on imported fossil fuel to power our nation.

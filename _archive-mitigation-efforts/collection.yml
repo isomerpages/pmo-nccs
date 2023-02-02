@@ -1,0 +1,13 @@
+collections:
+  archive-mitigation-efforts:
+    output: true
+    order:
+      - waste-and-water.md
+      - transport.md
+      - power-generation.md
+      - low-carbon-technologies.md
+      - mitigation-efforts.md
+      - industry.md
+      - energy-efficiency.md
+      - carbon-tax.md
+      - buildings.md

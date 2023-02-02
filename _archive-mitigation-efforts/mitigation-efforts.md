@@ -1,8 +1,9 @@
 ---
 title: Mitigation Efforts
 permalink: /singapores-climate-action/mitigation-efforts/
-third_nav_title: Mitigation Efforts
 ---
+
+
 ### MITIGATION EFFORTS
 
 As the vast majority of carbon emissions originate from the combustion of fossil fuels for energy, the most direct way to reduce emissions is to cut down on the use of fossil fuels. While we are actively supporting research on clean energy technologies, Singapore has limited access to alternative or renewable energy.

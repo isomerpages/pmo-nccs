@@ -1,10 +1,7 @@
 contact_us: /pages/contact-us/contact-info/
 show_reach: true
-faq: /faqs/about-nccs/
 privacy_policy: /privacy-statement/
 social_media:
   facebook: https://www.facebook.com/ClimateChangeSG
   instagram: https://www.instagram.com/climatechangesg/
-links:
-  - title: Report Vulnerability
-    url: https://www.tech.gov.sg/report_vulnerability
+

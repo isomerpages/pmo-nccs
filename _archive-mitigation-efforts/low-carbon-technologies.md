@@ -1,8 +1,9 @@
 ---
 title: Low-carbon Technologies
 permalink: /singapores-climate-action/low-carbon-tech/
-third_nav_title: Mitigation Efforts
 ---
+
+
 ### LOW-CARBON TECHNOLOGIES
 
 Singapore is studying emerging advanced low-carbon technologies such as Carbon Capture, Utilisation and Storage (CCUS) and low-carbon hydrogen as potential longer-term options to reduce Singapore’s carbon emissions. This includes the following studies which were concluded in June 2021:  

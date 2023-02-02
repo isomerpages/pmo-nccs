@@ -4,20 +4,22 @@ collections:
     order:
       - National Circumstances/.keep
       - National Circumstances/overview.md
-      - National Circumstances/singapore-s-emissions-profile.md
       - National Circumstances/singapore-s-approach-to-alternative-energy.md
       - National Circumstances/impact-of-climate-change-in-singapore.md
+      - Singapore's Climate Targets/.keep
+      - Singapore's Climate Targets/Overview.md
+      - Singapore's Climate Targets/Singapore's Emissions Profile.md
       - singapore-and-international-efforts.md
       - Mitigation Efforts/.keep
-      - Mitigation Efforts/mitigation-efforts.md
-      - Mitigation Efforts/energy-efficiency.md
-      - Mitigation Efforts/power-generation.md
-      - Mitigation Efforts/industry.md
-      - Mitigation Efforts/buildings.md
-      - Mitigation Efforts/transport.md
-      - Mitigation Efforts/waste-and-water.md
-      - Mitigation Efforts/carbon-tax.md
-      - Mitigation Efforts/low-carbon-technologies.md
+      - Mitigation Efforts/Overview.md
+      - Mitigation Efforts/Power.md
+      - Mitigation Efforts/Industry.md
+      - Mitigation Efforts/Buildings.md
+      - Mitigation Efforts/Transport.md
+      - Mitigation Efforts/Waste and Water.md
+      - Mitigation Efforts/Households.md
+      - Mitigation Efforts/Carbon Tax.md
+      - Mitigation Efforts/International Collaboration.md
       - Adaptation Efforts/.keep
       - Adaptation Efforts/overview.md
       - Adaptation Efforts/enhancing-knowledge-and-expertise.md
