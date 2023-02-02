@@ -21,9 +21,9 @@ To enhance the resilience of our power grid and mitigate solar intermittency, th
 
 _Regional Power Grids_
 
-Singapore has ongoing Request for Proposal to import a capacity of 4 GW of low-carbon electricity by 2035, which is expected to make up around 30% of Singapore’s total projected supply.
+Singapore has an ongoing Request for Proposal to import a capacity of 4 GW of low-carbon electricity by 2035, which is expected to make up around 30% of Singapore’s total projected supply.
 
-As a pathfinder to the ASEAN Power Grid, Singapore has [begun importing renewable hydropower from the Lao People Democratic Republic (PDR) since June 2022](https://www.ema.gov.sg/media_release.aspx?news_sid=20220623UjiFDR2aZUxy), using existing interconnections via Thailand and Malaysia, as part of the Lao PDR-Thailand-Malaysia-Singapore Power Integration Project (LTMS-PIP).
+As a pathfinder to the ASEAN Power Grid, Singapore has [begun importing renewable hydropower from the Lao People's Democratic Republic (PDR) since June 2022](https://www.ema.gov.sg/media_release.aspx?news_sid=20220623UjiFDR2aZUxy), using existing interconnections via Thailand and Malaysia, as part of the Lao PDR-Thailand-Malaysia-Singapore Power Integration Project (LTMS-PIP).
 
 To further develop and refine our technical and regulatory frameworks for large-scale electricity imports, Singapore has also announced two small-scale trial imports of electricity: 100 MW from Peninsular Malaysia and 100 MW from a solar farm in Pulau Bulan, Indonesia. 
 
@@ -47,13 +47,13 @@ Singapore also conducted a [hydrogen feasibility study report](/singapores-clima
 
 **Carbon Capture, Utilisation and Storage (CCUS)**
 
-We are also exploring possible CCUS deployment pathways. Carbon dioxide captured could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. [Read more about CCUS in Singapore.](/singapores-climate-action/mitigation-efforts/industry/)
+We are also exploring possible CCUS deployment pathways. Carbon dioxide captured could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. Read more about [CCUS in Singapore.](/singapores-climate-action/mitigation-efforts/industry/)
 
 _Natural Gas_
 
-Today, about 95% of Singapore’s electricity is generated using natural gas, the cleanest form of fossil fuels. Natural gas will continue to be a dominant fuel for Singapore in the near future as we scale up our other switches. We will continue working with the industry to improve the energy and carbon efficiency of natural gas generation units during this transtion.
+Since 2000, Singapore has shifted away from less efficient fossil fuels and in turn increased the percentage of natural gas used in electricity generation from 19% to more than 95% today. 
 
-Since 2000, Singapore has shifted away from less efficient fossil fuels and in turn increased the percentage of natural gas used in electricity generation from 19% to more than 95% today. Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. By so doing, we have cut the amount of carbon we release into the atmosphere.
+Natural gas will continue to be a dominant fuel for Singapore in the near future as we scale up our other switches. We will continue working with the industry to improve the energy and carbon efficiency of natural gas generation units during this transition. Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. 
 
 Singapore's fuel mix allows our emission to be much less carbon intensive than other nations that still use coal as an important part of their power generation. [Singapore's Grid Emission Factor](https://www.ema.gov.sg/singapore-energy-statistics/ch02/index2) — a measure of the carbon intensity of electricity generation — has fallen from 0.4237 kgCO2/kWh in 2016 to 0.4057 kgCO2/kWh in 2021.
 
