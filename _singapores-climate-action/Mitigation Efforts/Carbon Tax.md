@@ -14,7 +14,7 @@ Singapore’s carbon tax underpins our net zero targets and climate mitigation e
 
 Singapore implemented a carbon tax, the first carbon pricing scheme in Southeast Asia, on 1 January 2019. The carbon tax level was set at S$5/tCO<sub>2</sub>e for the first five years from 2019 to 2023 to provide a transitional period for emitters to adjust.
 
-**Key Updates to Carbon Tax Post-2023 (Effective from 1 January 2024)**
+**Key Updates to Singapore's Carbon Tax Post-2023 (Effective from 1 January 2024)**
 
 To support our net zero target, **the carbon tax will be raised to S$25/tCO<sub>2</sub>e in 2024 and 2025, and S$45/tCO<sub>2</sub>e in 2026 and 2027, with a view to reaching S$50-80/tCO<sub>2</sub>e by 2030**. This will strengthen the price signal and impetus for businesses and individuals to reduce their carbon footprint in line with national climate goals.
 
