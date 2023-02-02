@@ -30,7 +30,7 @@ Companies may use high quality international carbon credits to offset up to 5% o
 
 **Transition Framework**
 
-A transition framework will also be introduced to provide support for existing emissions-intensive trade-exposed (EITE) companies as they work to reduce emissions and invest in cleaner technologies, and to manage the near-term impact on business competitiveness. The framework will also help to mitigate the risk of carbon leakage. 
+A transition framework will also be introduced to provide support for existing emissions-intensive trade-exposed (EITE) companies as they work to reduce emissions and invest in cleaner technologies, while managing the near-term impact on business competitiveness. The framework will also help to mitigate the risk of carbon leakage. 
 
 To drive our industry towards becoming best-in-class, the amount of allowances awarded to each facility will be determined based on their performance on internationally-recognised efficiency benchmarks where available, or facilities’ decarbonisation plans. These transitory allowances are limited to only a portion of companies’ emissions, and the amount awarded to eligible facilities will also be reviewed regularly. Similar frameworks have been implemented in other jurisdictions with carbon pricing schemes, including the EU, South Korea, and California.
 
