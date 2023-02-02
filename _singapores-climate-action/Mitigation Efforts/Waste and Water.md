@@ -6,7 +6,7 @@ third_nav_title: Mitigation Efforts
 ---
 ### Waste and Water
 
-**Combating Waste Emissions**
+**Combatting Waste Emissions**
 
 Singapore is embracing a shift towards a circular economy to reduce emissions, maximise resource efficiency and resilience, and conserve landfill space. The Government aims to improve our overall recycling rate to 70% by 2030. Singapore’s inaugural [Zero Waste Masterplan](https://www.towardszerowaste.gov.sg), launched in 2019, set an additional target to reduce the amount of waste sent to the landfill each day by 30% by 2030.
 
