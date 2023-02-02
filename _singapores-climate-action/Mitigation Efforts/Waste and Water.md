@@ -17,7 +17,7 @@ Singapore’s integrated solid waste management system focuses on two key thrust
 
 The [Resource Sustainability Act](https://www.mse.gov.sg/resource-room/category/2020-07-30-resource-sustainability-act/) introduced in 2019 gave legislative effect to the regulatory measures targeting the three priority waste streams of e-waste, food waste and packaging waste, including plastics. Under the Act, the relevant producers are responsible for sustainable management of waste from their products at end-of-life. 
 
-Singapore has also introduced an [Extended Producer Responsibility (EPR) scheme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/extended-producer-responsibility-(epr)-system-for-e-waste-management-system) for e-waste and a Mandatory Packaging Reporting (MPR) scheme for packaging waste management. The Government plans to introduce a disposable carrier bag charge by mid-2023 and a beverage container return scheme by mid-2024 which will lay the foundation for an EPR framework for packaging waste management. 
+Singapore has also introduced an [Extended Producer Responsibility (EPR) scheme](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/extended-producer-responsibility-(epr)-system-for-e-waste-management-system) for e-waste and a [Mandatory Packaging Reporting (MPR) scheme](https://www.nea.gov.sg/our-services/waste-management/mandatory-packaging-reporting) for packaging waste management. The Government plans to introduce a disposable carrier bag charge by mid-2023 and a beverage container return scheme by mid-2024 which will lay the foundation for an EPR framework for packaging waste management. 
 
 **Reducing Energy Usage by Desalination**
 
