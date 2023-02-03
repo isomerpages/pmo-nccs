@@ -48,7 +48,7 @@ To support the industry in its efforts to transform Jurong Island, the Governmen
 
 We are also exploring possible CCUS deployment pathways. Carbon dioxide captured from industrial facilities in Singapore could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. For Jurong Island, we aim to realise at least 2 MtCO<sub>2</sub>e of carbon capture potential by 2030, and achieve more than 6 MtCO<sub>2</sub>e of carbon abatement per annum by 2050.
 
-Read the CCUS feasibility study report, [“Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors”](/singapores-climate-action/low-carbon-tech/ccus), which was jointly commissioned by the National Climate Change Secretariat (NCCS) and Singapore's Economic Development Board (EDB), and concluded in June 2021.
+Read the CCUS feasibility study report, [“Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors"](https://file.go.gov.sg/carbon-capture-utilisation-and-storage-decarbonisation-pathway-for-singapore-energy-and-chemical-sectors-pdf.pdf), which was jointly commissioned by the National Climate Change Secretariat (NCCS) and Singapore's Economic Development Board (EDB), and concluded in June 2021.
 
 **Low-Carbon Hydrogen**
 
