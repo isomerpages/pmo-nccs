@@ -4,7 +4,7 @@ permalink: /singapores-climate-action/Mitigation-Efforts/power/
 description: ""
 third_nav_title: Mitigation Efforts
 ---
-### Power
+### POWER
 Power generation is one of the major sources of Singapore’s carbon emissions and accounts for about 40% of [our emissions today](/singapores-climate-action/Singapores-Climate-Targets/singapore-emissions-profile/).  With our limited capacity to tap on [alternative energy sources](/singapores-climate-action/singapore-approach-to-alternative-energy/), we currently rely heavily on imported natural gas to power our nation.
 
 **Energy Reset: A More Environmentally Friendly Method to Power Our Nation**
@@ -25,7 +25,10 @@ Singapore has an ongoing Request for Proposal to import a capacity of 4 GW of lo
 
 As a pathfinder to the ASEAN Power Grid, Singapore has [begun importing renewable hydropower from the Lao People's Democratic Republic (PDR) since June 2022](https://www.ema.gov.sg/media_release.aspx?news_sid=20220623UjiFDR2aZUxy), using existing interconnections via Thailand and Malaysia, as part of the Lao PDR-Thailand-Malaysia-Singapore Power Integration Project (LTMS-PIP).
 
-To further develop and refine our technical and regulatory frameworks for large-scale electricity imports, Singapore has also announced two small-scale trial imports of electricity: 100 MW from Peninsular Malaysia and 100 MW from a solar farm in Pulau Bulan, Indonesia. 
+To further develop and refine our technical and regulatory frameworks for large-scale electricity imports, Singapore has also announced two small-scale trial imports of electricity: [100 MW from Peninsular Malaysia and 100 MW from a solar farm in Pulau Bulan, Indonesia](https://www.ema.gov.sg/electricity-imports.aspx). 
+
+![](/images/Aerial%20View%20-%20Sembcorp%20Tengeh%20Floating%20Solar%20Farm,%20Singapore.png)
+*The 60 megawatt-peak solar photovoltaic farm at Tengeh reservoir has some 120,000 solar panels spanning across 45 hectares, or the equivalent of about 45 football fields. Image courtesy of Sembcorp Industries.*
 
 _Emerging Low-Carbon Alternatives_
 
@@ -43,19 +46,19 @@ Given its potential as an alternative fuel and industrial feedstock, low-carbon 
 
 To kickstart our efforts, the Energy Market Authority (EMA) and the Maritime Port Authority (MPA) had jointly called for interested parties to submit proposals under an Expression-of-Interest to build, own and operate low or zero-carbon power generation and bunkering solutions in December 2022.
 
-Singapore also published a hydrogen feasibility study report, [“Study of Hydrogen Imports and Downstream Applications for Singapore”](/singapores-climate-action/low-carbon-tech/hc), which was jointly commissioned by the National Climate Change Secretariat (NCCS), Singapore's Economic Development Board (EDB) and Energy Market Authority (EMA) and concluded in June 2021.
+Singapore also published a hydrogen feasibility study report, [“Study of Hydrogen Imports and Downstream Applications for Singapore”](https://file.go.gov.sg/studyofhydrogenimportsanddownstreamapplicationsforsingapore.pdf), which was jointly commissioned by the National Climate Change Secretariat (NCCS), Singapore's Economic Development Board (EDB) and Energy Market Authority (EMA) and concluded in June 2021.
 
 **Carbon Capture, Utilisation and Storage (CCUS)**
 
-We are also exploring possible CCUS deployment pathways. Carbon dioxide captured could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. Read more about [CCUS in Singapore](https://file.go.gov.sg/carbon-capture-utilisation-and-storage-decarbonisation-pathway-for-singapore-energy-and-chemical-sectors-pdf.pdf).
+We are also exploring possible CCUS deployment pathways. Carbon dioxide captured could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. Read more about [CCUS in Singapore](/singapores-climate-action/mitigation-efforts/industry/).
 
 _Natural Gas_
 
 Since 2000, Singapore has shifted away from less efficient fossil fuels and in turn increased the percentage of natural gas used in electricity generation from 19% to more than 95% today. 
 
-Natural gas will continue to be a dominant fuel for Singapore in the near future as we scale up our other switches. We will continue working with the industry to improve the energy and carbon efficiency of natural gas generation units during this transition. 
+Natural gas will continue to be an important fuel for Singapore in the near future as we scale up our other switches. We will continue working with the industry to improve the energy and carbon efficiency of natural gas generation units during this transition. 
 
-Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. Singapore's fuel mix allows our emission to be much less carbon intensive than other nations that still use coal as an important part of their power generation. [Singapore's Grid Emission Factor](https://www.ema.gov.sg/singapore-energy-statistics/ch02/index2) — a measure of the carbon intensity of electricity generation — has fallen from 0.4237 kgCO2/kWh in 2016 to 0.4057 kgCO2/kWh in 2021.
+Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. Singapore's fuel mix allows our emission to be much less carbon intensive than other nations that still use coal as an important part of their power generation. [Singapore's Grid Emission Factor](https://www.ema.gov.sg/statistic.aspx?sta_sid=20140729MPY03nTHx2a1) — a measure of the carbon intensity of electricity generation — has fallen from 0.4237 kgCO<sub>2</sub>/kWh in 2016 to 0.4057 kgCO<sub>2</sub>/kWh in 2021.
 
 ![](/images/EMA_Singapore's%20Grid%20Emission%20Factor.png)
 *Singapore's Grid Emission Factor, 2016 to 2021. Source: EMA*

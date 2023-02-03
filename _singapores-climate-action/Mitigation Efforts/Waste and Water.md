@@ -4,7 +4,7 @@ permalink: /singapores-climate-action/Mitigation-Efforts/wasteandwater/
 description: ""
 third_nav_title: Mitigation Efforts
 ---
-### Waste and Water
+### WASTE AND WATER
 
 **Combatting Waste Emissions**
 

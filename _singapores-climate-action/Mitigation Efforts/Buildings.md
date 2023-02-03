@@ -4,7 +4,7 @@ permalink: /singapores-climate-action/Mitigation-Efforts/Buildings/
 description: ""
 third_nav_title: Mitigation Efforts
 ---
-### Buildings
+### BUILDINGS
 
 **Singapore Green Building Masterplan (SGBMP)**
 
@@ -30,9 +30,9 @@ Periodic Energy Audits (PEA) of buildings’ cooling systems are also conducted 
 
 *<sup>1</sup> Green Mark Platinum (GM Platinum) buildings are required to meet minimally 55% improvement in energy performance compared to 2005 levels and demonstrate best practices in the Sustainability Sections.*
 
-**The Next Lap – Mainstreaming SLE Buildings**
+**The Next Lap – Mainstreaming Super Low Energy (SLE) Buildings**
 
-BCA introduced the SLE Programme in 2018 to encourage firms to go beyond existing GM Platinum standards, to deliver buildings that can achieve at least a 60% energy efficiency improvement over 2005 building codes.
+BCA introduced the Super Low Energy (SLE) Programme in 2018 to encourage firms to go beyond existing Green Mark (GM) Platinum standards, to deliver buildings that can achieve at least a 60% energy efficiency improvement over 2005 building codes.
 
 As part of the SGBMP’s second target under the “80-80-80 in 2030” for 80% of our new developments by GFA in 2030 to be SLE, BCA works with various stakeholders and taps on various policy levers to drive demand for SLE buildings. Through these levers, we can build industry capability in developing SLE buildings, provide use cases for the private sector to take reference from, and bring SLE buildings into the mainstream.
 
