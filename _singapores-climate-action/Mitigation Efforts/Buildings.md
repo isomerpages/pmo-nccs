@@ -4,7 +4,7 @@ permalink: /singapores-climate-action/Mitigation-Efforts/Buildings/
 description: ""
 third_nav_title: Mitigation Efforts
 ---
-### Buildings
+### BUILDINGS
 
 **Singapore Green Building Masterplan (SGBMP)**
 
