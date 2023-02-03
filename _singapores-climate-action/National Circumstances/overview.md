@@ -19,4 +19,4 @@ Singapore is one of the top performers for carbon intensity globally. While Sing
 
 <sup>1</sup> *Source: World Trade Organization, Trade Profiles 2022 – Singapore.*
 
-<sup>2</sup> *Source: International Energy Agency (IEA), World CO2 Indicators (2022).*
+<sup>2</sup> *Source: International Energy Agency (IEA), World CO<sub>2</sub> Indicators (2022).*
