@@ -14,13 +14,13 @@ Industry is the largest energy-consuming sector in Singapore, with significant p
 
 The [Energy Efficiency Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-fund), [Resource Efficiency Grant for Emissions](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html) and the [Investment Allowance for Emissions Reduction](https://www.iras.gov.sg/news-events/singapore-budget/budget-2021---overview-of-tax-changes) support businesses in improving the energy efficiency and other forms of emissions reduction (such as reduction in non-CO<sub>2</sub> greenhouse gas emissions and flare gas recovery) in their industrial facilities. These measures enable businesses to reduce their carbon footprint, lower operational costs, and increase business competitiveness. We are also supporting local enterprises, particularly Small and Medium Enterprises (SMEs), in building long-term capabilities in sustainability and capturing green growth opportunities through the [Enterprise Sustainability Programme](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/sustainability/enterprise-sustainability-programme).
 
-The Energy Conservation Act (ECA) was enacted in June 2012 and the Energy Conservation (Energy Management Practices) Regulations came into force in April 2013, with the aims of focusing management attention on proper energy management and levelling up laggards in energy management. [Mandatory energy management practices](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/industrial-sector) stipulated by the ECA included:
+The Energy Conservation Act (ECA) was enacted in June 2012 and the Energy Conservation (Energy Management Practices) Regulations came into force in April 2013, with the aims of focusing management attention and levelling up laggards in energy management. [Mandatory energy management practices](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/industrial-sector) stipulated by the ECA included:
 
 * Appointing a certified energy manager;
 * Monitoring and reporting energy use and greenhouse gas emissions annually; and
 * Submitting energy efficiency improvement plans annually.
 
-In June 2017, the ECA was enhanced to stipulate more energy management practices as part of Singapore's efforts to achieve its pledge under the Paris Agreement on climate change to reduce emission intensity by 36% from 2005 levels by 2030, and to stabilise emissions with the aim of peaking around 2030. The enhancements include:
+In June 2017, the ECA was enhanced to stipulate more energy management practices as part of Singapore's efforts to achieve its pledge under the Paris Agreement. The enhancements include:
 
 * Strengthening measurement and reporting requirements for greenhouse gas emissions;
 * Requiring companies to implement energy management systems, undertake regular energy efficiency opportunity assessments or implement energy performance monitoring;
@@ -52,6 +52,6 @@ Read the CCUS feasibility study report, [“Carbon Capture, Storage, and Utilisa
 
 **Low-Carbon Hydrogen**
 
-Given its potential as an alternative fuel and industrial feedstock, low-carbon hydrogen has emerged as a key potential decarbonisation pathway for Singapore. Although many low-carbon hydrogen technologies and supply chains are still nascent, Singapore is taking steps to prepare for hydrogen deployment. Read more about [our hydrogen strategy.](/singapores-climate-action/mitigation-efforts/power/)
+Given its potential as an alternative fuel and industrial feedstock, low-carbon hydrogen has emerged as a key potential decarbonisation pathway for Singapore. Although many low-carbon hydrogen technologies and supply chains are still nascent, Singapore is taking steps to prepare for hydrogen deployment. Read more about [our hydrogen strategy](https://www.mti.gov.sg/Industries/Hydrogen).
 
 Singapore's energy efficiency measures, sectoral transformation plans, and development of hydrogen and CCUS technologies complement our [carbon tax](/singapores-climate-action/mitigation-efforts/carbontax/) in helping our businesses transition to a green economy.
