@@ -25,7 +25,7 @@ Singapore has an ongoing Request for Proposal to import a capacity of 4 GW of lo
 
 As a pathfinder to the ASEAN Power Grid, Singapore has [begun importing renewable hydropower from the Lao People's Democratic Republic (PDR) since June 2022](https://www.ema.gov.sg/media_release.aspx?news_sid=20220623UjiFDR2aZUxy), using existing interconnections via Thailand and Malaysia, as part of the Lao PDR-Thailand-Malaysia-Singapore Power Integration Project (LTMS-PIP).
 
-To further develop and refine our technical and regulatory frameworks for large-scale electricity imports, Singapore has also announced two small-scale trial imports of electricity: 100 MW from Peninsular Malaysia and 100 MW from a solar farm in Pulau Bulan, Indonesia. 
+To further develop and refine our technical and regulatory frameworks for large-scale electricity imports, Singapore has also announced two small-scale trial imports of electricity: [100 MW from Peninsular Malaysia and 100 MW from a solar farm in Pulau Bulan, Indonesia](https://www.ema.gov.sg/electricity-imports.aspx). 
 
 _Emerging Low-Carbon Alternatives_
 
