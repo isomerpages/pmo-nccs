@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Mitigation Efforts
 ---
 ### Carbon Tax
-
-Announced by Deputy Prime Minister and Minister for Finance Lawrence Wong at the Singapore International Energy Week 2022, Singapore has [raised our national climate target to achieve net zero emissions by 2050](/singapores-climate-action/singapores-climate-targets/overview/).
-
 Singapore’s carbon tax underpins our net zero targets and climate mitigation efforts by providing an effective economic signal to steer producers and consumers away from carbon-intensive goods and services, hold businesses accountable for their emissions, and enhance the business case for the development of low-carbon solutions. The carbon tax forms part of Singapore’s comprehensive suite of mitigation measures to support the transition to a low-carbon economy.
 
 **Carbon Tax in Singapore from 2019 – 2023**
