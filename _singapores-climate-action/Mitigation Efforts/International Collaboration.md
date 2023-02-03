@@ -4,7 +4,7 @@ permalink: /singapores-climate-action/Mitigation-Efforts/internationalcollaborat
 description: ""
 third_nav_title: Mitigation Efforts
 ---
-### International Collaboration
+### INTERNATIONAL COLLABORATION
 
 Given our [national circumstances](/singapores-climate-action/overview/national-circumstances), Singapore is highly dependent on effective international cooperation to achieve our decarbonisation goals. While we continue to prioritise domestic efforts to reduce emissions, we will need to pursue bilateral, regional, plurilateral, and multilateral collaboration to access regional and global mitigation opportunities.
 
