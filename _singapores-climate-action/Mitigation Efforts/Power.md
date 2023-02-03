@@ -27,6 +27,9 @@ As a pathfinder to the ASEAN Power Grid, Singapore has [begun importing renewabl
 
 To further develop and refine our technical and regulatory frameworks for large-scale electricity imports, Singapore has also announced two small-scale trial imports of electricity: [100 MW from Peninsular Malaysia and 100 MW from a solar farm in Pulau Bulan, Indonesia](https://www.ema.gov.sg/electricity-imports.aspx). 
 
+![](/images/Aerial%20View%20-%20Sembcorp%20Tengeh%20Floating%20Solar%20Farm,%20Singapore.png)
+*The 60 megawatt-peak solar photovoltaic farm at Tengeh reservoir has some 120,000 solar panels spanning across 45 hectares, or the equivalent of about 45 football fields. Image courtesy of Sembcorp Industries.*
+
 _Emerging Low-Carbon Alternatives_
 
 Singapore is studying emerging low-carbon technologies like hydrogen, [carbon capture utilisation and storage (CCUS)](/singapores-climate-action/mitigation-efforts/industry/), and advanced geothermal systems as possible paths to decarbonising our power sector. Under the [Low-Carbon Energy Research (LCER) Funding Initiative](https://www.a-star.edu.sg/research/funding-opportunities/lcer-fi-grant), we have awarded S$55 million to support 12 research, development and demonstration projects on low-carbon hydrogen and CCUS, with another S$129 million set aside for the next phase of the programme.
