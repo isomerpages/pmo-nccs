@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Mitigation Efforts
 ---
 ### Carbon Tax
-Singapore’s carbon tax underpins our net zero targets and climate mitigation efforts by providing an effective economic signal to steer producers and consumers away from carbon-intensive goods and services, hold businesses accountable for their emissions, and enhance the business case for the development of low-carbon solutions. The carbon tax forms part of Singapore’s comprehensive suite of mitigation measures to support the transition to a low-carbon economy.
+Singapore’s carbon tax underpins our net zero targets and climate mitigation efforts by providing an effective economic signal to steer producers and consumers away from carbon-intensive goods and services, hold businesses accountable for their emissions, and enhance the business case for the development of low-carbon solutions. In all, the carbon tax currently covers 80% of our total greenhouse gas (GHG) emissions from about 50 facilities in the manufacturing, power, waste, and water sectors. The carbon tax forms part of Singapore’s comprehensive suite of mitigation measures to support the transition to a low-carbon economy.
 
-**Carbon Tax in Singapore from 2019 – 2023**
+**Carbon Tax in Singapore from 2019 to 2023**
 
 Singapore implemented a carbon tax, the first carbon pricing scheme in Southeast Asia, on 1 January 2019. The carbon tax level was set at S$5/tCO<sub>2</sub>e for the first five years from 2019 to 2023 to provide a transitional period for emitters to adjust.
 
@@ -35,7 +35,7 @@ To drive our industry towards becoming best-in-class, the amount of allowances a
 
 The list of GHGs and their GWP values will be updated in line with newer standards adopted by the Intergovernmental Panel on Climate Change (IPCC).
 
-The carbon tax coverage will also be expanded to include Nitrogen Trifluoride (NF<sub>3</sub>), the seventh GHG, from 2024 onwards.
+The carbon tax coverage will also be expanded to include Nitrogen Trifluoride (NF<sub>3</sub>) from 2024 onwards.
 
 
 
