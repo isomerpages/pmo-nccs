@@ -6,15 +6,15 @@ third_nav_title: Mitigation Efforts
 ---
 ### Carbon Tax
 
-As Deputy Prime Minister and Minister for Finance Lawrence Wong announced at the Singapore International Energy Week 2022, Singapore has [raised our national climate target to achieve net zero emissions by 2050](/singapores-climate-action/singapores-climate-targets/overview/).
+Announced by Deputy Prime Minister and Minister for Finance Lawrence Wong at the Singapore International Energy Week 2022, Singapore has [raised our national climate target to achieve net zero emissions by 2050](/singapores-climate-action/singapores-climate-targets/overview/).
 
 Singapore’s carbon tax underpins our net zero targets and climate mitigation efforts by providing an effective economic signal to steer producers and consumers away from carbon-intensive goods and services, hold businesses accountable for their emissions, and enhance the business case for the development of low-carbon solutions. The carbon tax forms part of Singapore’s comprehensive suite of mitigation measures to support the transition to a low-carbon economy.
 
 **Carbon Tax in Singapore from 2019 – 2023**
 
-Singapore implemented a carbon tax, the first carbon pricing scheme in Southeast Asia, on 1 January 2019. The carbon tax level was set at S$5/tCO<sub>2</sub>e for the first five years from 2019 to 2023, to provide a transitional period for emitters to adjust.
+Singapore implemented a carbon tax, the first carbon pricing scheme in Southeast Asia, on 1 January 2019. The carbon tax level was set at S$5/tCO<sub>2</sub>e for the first five years from 2019 to 2023 to provide a transitional period for emitters to adjust.
 
-**Key Updates to Carbon Tax Post-2023 (Effective from 1 January 2024)**
+**Key Updates to Singapore's Carbon Tax Post-2023 (Effective from 1 January 2024)**
 
 To support our net zero target, **the carbon tax will be raised to S$25/tCO<sub>2</sub>e in 2024 and 2025, and S$45/tCO<sub>2</sub>e in 2026 and 2027, with a view to reaching S$50-80/tCO<sub>2</sub>e by 2030**. This will strengthen the price signal and impetus for businesses and individuals to reduce their carbon footprint in line with national climate goals.
 
@@ -30,11 +30,11 @@ Companies may use high quality international carbon credits to offset up to 5% o
 
 **Transition Framework**
 
-A transition framework will also be introduced to provide support for existing emissions-intensive trade-exposed (EITE) companies as they work to reduce emissions and invest in cleaner technologies, and to manage the near-term impact on business competitiveness. The framework will also help to mitigate the risk of carbon leakage. 
+A transition framework will also be introduced to provide support for existing emissions-intensive trade-exposed (EITE) companies as they work to reduce emissions and invest in cleaner technologies, while managing the near-term impact on business competitiveness. The framework will also help to mitigate the risk of carbon leakage. 
 
 To drive our industry towards becoming best-in-class, the amount of allowances awarded to each facility will be determined based on their performance on internationally-recognised efficiency benchmarks where available, or facilities’ decarbonisation plans. These transitory allowances are limited to only a portion of companies’ emissions, and the amount awarded to eligible facilities will also be reviewed regularly. Similar frameworks have been implemented in other jurisdictions with carbon pricing schemes, including the EU, South Korea, and California.
 
-In developing the support measures and transition framework, we will consult affected companies. 
+The Government will continue to consult affected companies in developing the support measures and transition framework. 
 
 **Updates to list of Greenhouse Gas (GHG) and associated Global Warming Potential (GWP) values**
 

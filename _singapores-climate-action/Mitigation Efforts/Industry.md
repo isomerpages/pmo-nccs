@@ -10,7 +10,7 @@ To support businesses in their decarbonisation journeys, the Government has intr
 
 **Energy Efficiency Measures**
 
-Industry is the largest energy-consuming sector in Singapore. Hence, there is significant potential to save energy through better and sustained energy management. Energy efficiency measures provide the economic benefits of lowering energy costs to individuals and businesses while reducing carbon emissions.
+Industry is the largest energy-consuming sector in Singapore, with significant potential to save energy through better and sustained energy management. Energy efficiency measures provide the economic benefits of lowering energy costs to individuals and businesses while reducing carbon emissions.
 
 The [Energy Efficiency Fund](https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-fund), [Resource Efficiency Grant for Emissions](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html) and the Investment Allowance for Emissions Reduction support businesses in improving the energy efficiency and other forms of emissions reduction (such as reduction in non-CO<sub>2</sub> greenhouse gas emissions and flare gas recovery) in their industrial facilities. These measures enable businesses to reduce their carbon footprint, lower operational costs, and increase business competitiveness. We are also supporting local enterprises, particularly Small and Medium Enterprises (SMEs), in building long-term capabilities in sustainability and capturing green growth opportunities through the [Enterprise Sustainability Programme](https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/sustainability/enterprise-sustainability-programme).
 
@@ -25,7 +25,7 @@ In June 2017, the ECA was enhanced to stipulate more energy management practices
 * Strengthening measurement and reporting requirements for greenhouse gas emissions;
 * Requiring companies to implement energy management systems, undertake regular energy efficiency opportunity assessments or implement energy performance monitoring;
 * Introducing minimum energy efficiency standards for common energy consuming industrial equipment and systems; and
-* Requiring companies which are building new energy-intensive facilities to review the facility design of such new ventures for energy efficiency opportunities and to monitor and report their energy use and energy performance indicators based on measured data.
+* Requiring companies which are building new energy-intensive facilities to review the facility design of such new ventures for energy efficiency opportunities, and to monitor and report their energy use and performance indicators based on measured data.
 
 Read more about our [initiatives to improve industrial energy efficiency](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/industrial-sector), which include:
 
@@ -34,7 +34,7 @@ Read more about our [initiatives to improve industrial energy efficiency](https:
 
 **Transforming the Energy & Chemicals Sector**
 
-The [Sustainable Jurong Island report](https://www.edb.gov.sg/en/about-edb/media-releases-publications/sustainable-jurong-island-edb-outlines-plans-to-transform-jurong-island-into-a-sustainability-showcase-for-energy-and-chemicals.html) details our plans to transform Jurong Island into a Sustainable Energy & Chemicals (E&C) Park that operates sustainably and exports sustainable chemicals globally. By 2030, we aim to increase output of sustainable products by 1.5 times from 2019 levels, and realise at least 2 MtCO<sub>2</sub>e of carbon capture potential. By 2050, we aspire to increase the output of sustainable products by four times from 2019 levels, and achieve more than 6 MtCO<sub>2</sub>e of carbon abatement per annum from low-carbon solutions.
+The [Sustainable Jurong Island report](https://www.edb.gov.sg/en/about-edb/media-releases-publications/sustainable-jurong-island-edb-outlines-plans-to-transform-jurong-island-into-a-sustainability-showcase-for-energy-and-chemicals.html) details plans to transform Jurong Island into a Sustainable Energy & Chemicals (E&C) Park that operates sustainably and exports sustainable chemicals globally. By 2030, Singapore aims to increase output of sustainable products by 1.5 times from 2019 levels, and realise at least 2 MtCO<sub>2</sub>e of carbon capture potential. By 2050, we aspire to increase the output of sustainable products by four times from 2019 levels, and achieve more than 6 MtCO<sub>2</sub>e of carbon abatement per annum from low-carbon solutions.
 
 To support the industry in its efforts to transform Jurong Island, the Government is putting in place infrastructure and support measures:
 
@@ -48,10 +48,10 @@ To support the industry in its efforts to transform Jurong Island, the Governmen
 
 We are also exploring possible CCUS deployment pathways. Carbon dioxide captured from industrial facilities in Singapore could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. For Jurong Island, we aim to realise at least 2 MtCO<sub>2</sub>e of carbon capture potential by 2030, and achieve more than 6 MtCO<sub>2</sub>e of carbon abatement per annum by 2050.
 
-Read the [CCUS feasibility study report](/singapores-climate-action/low-carbon-tech/ccus), “Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors”, which was jointly commissioned by NCCS and EDB and concluded in June 2021.
+Read the CCUS feasibility study report, [“Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors”](/singapores-climate-action/low-carbon-tech/ccus), which was jointly commissioned by the National Climate Change Secretariat (NCCS) and Singapore's Economic Development Board (EDB), and concluded in June 2021.
 
-**Low-Carbon Hydryogen**
+**Low-Carbon Hydrogen**
 
-Given its potential as an alternative fuel and industrial feedstock, low-carbon hydrogen has emerged as a key potential decarbonisation pathway for Singapore. Although many low-carbon hydrogen technologies and supply chain are still nascent, Singapore is taking steps to prepare for hydrogen deployment. Read more about [our hydrogen strategy.](/singapores-climate-action/mitigation-efforts/power/)
+Given its potential as an alternative fuel and industrial feedstock, low-carbon hydrogen has emerged as a key potential decarbonisation pathway for Singapore. Although many low-carbon hydrogen technologies and supply chains are still nascent, Singapore is taking steps to prepare for hydrogen deployment. Read more about [our hydrogen strategy.](/singapores-climate-action/mitigation-efforts/power/)
 
-Singapore's energy efficiency measures, sectoral transformation plans, and development of hydrogen and CCUS technologies complement our [carbon tax](/singapores-climate-action/mitigation-efforts/carbontax/) in helping our businesses' transition to a green economy.
+Singapore's energy efficiency measures, sectoral transformation plans, and development of hydrogen and CCUS technologies complement our [carbon tax](/singapores-climate-action/mitigation-efforts/carbontax/) in helping our businesses transition to a green economy.
