@@ -1,9 +1,9 @@
 ---
 title: Overview
-permalink: /singapores-climate-action/overview/national-circumstances
+permalink: /singapores-climate-action/overview/national-circumstances/
 third_nav_title: National Circumstances
 ---
-### NATIONAL CIRCUMSTANCES  
+### OVERVIEW
 Singapore has always maintained a balance between development and conserving the environment. Successive environmental blueprints, such as the [<a href="https://www.greenplan.gov.sg/" target="_blank">Singapore Green Plan 2030</a>](https://www.greenplan.gov.sg/) and the [ Sustainable Singapore Blueprint (SSB) 2015](https://go.gov.sg/sustainable-singapore-blueprint-2015) have set forth our strategies and initiatives to achieve economic growth and a good living environment.
 
 ![National Circumstances](/images/national-circumstances.jpg "National Circumstances")
