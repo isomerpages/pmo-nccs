@@ -31,8 +31,6 @@ A transition framework will also be introduced to provide support for existing e
 
 To drive our industry towards becoming best-in-class, the amount of allowances awarded to each facility will be determined based on their performance on internationally-recognised efficiency benchmarks where available, or facilities’ decarbonisation plans. These transitory allowances are limited to only a portion of companies’ emissions, and the amount awarded to eligible facilities will also be reviewed regularly. Similar frameworks have been implemented in other jurisdictions with carbon pricing schemes, including the EU, South Korea, and California.
 
-The Government will continue to consult affected companies in developing the support measures and transition framework. 
-
 **Updates to list of Greenhouse Gas (GHG) and associated Global Warming Potential (GWP) values**
 
 The list of GHGs and their GWP values will be updated in line with newer standards adopted by the Intergovernmental Panel on Climate Change (IPCC).
