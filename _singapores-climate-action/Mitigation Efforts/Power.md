@@ -47,7 +47,7 @@ Singapore also published a hydrogen feasibility study report, [“Study of Hydro
 
 **Carbon Capture, Utilisation and Storage (CCUS)**
 
-We are also exploring possible CCUS deployment pathways. Carbon dioxide captured could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. Read more about [CCUS in Singapore](https://file.go.gov.sg/carbon-capture-utilisation-and-storage-decarbonisation-pathway-for-singapore-energy-and-chemical-sectors-pdf.pdf).
+We are also exploring possible CCUS deployment pathways. Carbon dioxide captured could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. Read more about [CCUS in Singapore](/singapores-climate-action/mitigation-efforts/industry/).
 
 _Natural Gas_
 
