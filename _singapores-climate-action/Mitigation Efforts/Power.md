@@ -56,7 +56,7 @@ _Natural Gas_
 
 Since 2000, Singapore has shifted away from less efficient fossil fuels and in turn increased the percentage of natural gas used in electricity generation from 19% to more than 95% today. 
 
-Natural gas will continue to be a dominant fuel for Singapore in the near future as we scale up our other switches. We will continue working with the industry to improve the energy and carbon efficiency of natural gas generation units during this transition. 
+Natural gas will continue to be an important fuel for Singapore in the near future as we scale up our other switches. We will continue working with the industry to improve the energy and carbon efficiency of natural gas generation units during this transition. 
 
 Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. Singapore's fuel mix allows our emission to be much less carbon intensive than other nations that still use coal as an important part of their power generation. [Singapore's Grid Emission Factor](https://www.ema.gov.sg/statistic.aspx?sta_sid=20140729MPY03nTHx2a1) — a measure of the carbon intensity of electricity generation — has fallen from 0.4237 kgCO<sub>2</sub>/kWh in 2016 to 0.4057 kgCO<sub>2</sub>/kWh in 2021.
 
