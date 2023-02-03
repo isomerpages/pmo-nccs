@@ -4,7 +4,7 @@ permalink: /singapores-climate-action/Mitigation-Efforts/transport/
 description: ""
 third_nav_title: Mitigation Efforts
 ---
-### Transport
+### TRANSPORT
 
 Sustainability is intrinsic to the design of Singapore’s Land Transport system, which accounts for about 15% of carbon emissions in Singapore.
 
