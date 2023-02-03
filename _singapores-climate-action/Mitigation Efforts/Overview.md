@@ -21,8 +21,8 @@ Find out more about our decarbonisation measures:
 
 [Power](/singapores-climate-action/mitigation-efforts/power)  
 [Industry](/singapores-climate-action/mitigation-efforts/industry)  
-[Buildings](/singapores-climate-action/mitigation-efforts/buildings)  
 [Transport](/singapores-climate-action/mitigation-efforts/transport)  
+[Buildings](/singapores-climate-action/mitigation-efforts/buildings)  
 [Waste & Water](/singapores-climate-action/mitigation-efforts/wasteandwater)  
 [Households](/singapores-climate-action/mitigation-efforts/households)  
 [Carbon Tax](/singapores-climate-action/mitigation-efforts/carbontax)  
