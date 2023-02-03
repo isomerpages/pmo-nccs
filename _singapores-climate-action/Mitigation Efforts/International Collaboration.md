@@ -8,7 +8,7 @@ third_nav_title: Mitigation Efforts
 
 Given our [national circumstances](/singapores-climate-action/overview/national-circumstances), Singapore is highly dependent on effective international cooperation to achieve our decarbonisation goals. While we continue to prioritise domestic efforts to reduce emissions, we will need to pursue bilateral, regional, plurilateral, and multilateral collaboration to access regional and global mitigation opportunities.
 
-This is why Singapore actively fosters effective international cooperation on climate action. Singapore has played an active role to support the multilateral framework of cooperation on climate change under the UNFCCC, including co-facilitating the negotiations at COP-26 that finalised the Article 6 rulebook of the Paris Agreement. Read more about [our international efforts here.](/singapores-climate-action/singapore-and-international-efforts/)
+This is why Singapore actively fosters effective international cooperation on climate action. Singapore has played an active role to support the multilateral framework of cooperation on climate change under the UNFCCC, including co-facilitating the negotiations at COP-26 that finalised the Article 6 rulebook of the Paris Agreement. Read more about [our international efforts.](/singapores-climate-action/singapore-and-international-efforts/)
 
 As an advocate of close bilateral, regional and plurilateral cooperation; Singapore has signed agreements with various partners to strengthen collaboration on carbon markets, green finance and low-carbon technologies. Singapore is committed to advancing global climate action through international collaboration with like-minded partners.
 
