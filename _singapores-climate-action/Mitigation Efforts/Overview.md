@@ -4,7 +4,7 @@ permalink: /singapores-climate-action/Mitigation-Efforts/overview/
 description: ""
 third_nav_title: Mitigation Efforts
 ---
-### Overview
+### OVERVIEW
 
 Singapore has committed to [achieving net zero emissions by 2050](/singapores-climate-action/singapores-climate-targets/overview/). Despite the [challenging geographical constraints we face](/singapores-climate-action/overview/national-circumstances), we will continue to find innovative ways to accelerate the low-carbon transition for industry, economy and society through four key thrusts:
 
