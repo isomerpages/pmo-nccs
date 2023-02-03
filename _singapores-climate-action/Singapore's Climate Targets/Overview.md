@@ -4,7 +4,7 @@ permalink: /singapores-climate-action/Singapores-Climate-Targets/overview/
 description: ""
 third_nav_title: Singapore's Climate Targets
 ---
-### Overview
+### OVERVIEW
 
 ![](/images/infopic%20slide%201_Cropped.jpg)
 
