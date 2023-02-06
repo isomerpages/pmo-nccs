@@ -28,7 +28,7 @@ As a pathfinder to the ASEAN Power Grid, Singapore has [begun importing renewabl
 To further develop and refine our technical and regulatory frameworks for large-scale electricity imports, Singapore has also announced two small-scale trial imports of electricity: [100 MW from Peninsular Malaysia and 100 MW from a solar farm in Pulau Bulan, Indonesia](https://www.ema.gov.sg/electricity-imports.aspx). 
 
 ![](/images/Aerial%20View%20-%20Sembcorp%20Tengeh%20Floating%20Solar%20Farm,%20Singapore.png)
-*The 60 megawatt-peak solar photovoltaic farm at Tengeh reservoir has some 120,000 solar panels spanning across 45 hectares, or the equivalent of about 45 football fields. Image courtesy of Sembcorp Industries.*
+*The 60 megawatt-peak floating solar photovoltaic farm at Tengeh reservoir has some 120,000 solar panels spanning across 45 hectares, or the equivalent of about 45 football fields. Image courtesy of Sembcorp Industries.*
 
 _Emerging Low-Carbon Alternatives_
 

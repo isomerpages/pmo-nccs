@@ -1,9 +1,8 @@
 ---
-title: "Singapore's Approach To Alternative Energy"
+title: Singapore's Approach To Alternative Energy
 permalink: /singapores-climate-action/singapore-approach-to-alternative-energy/
 third_nav_title: National Circumstances
 ---
-
 ### SINGAPORE'S APPROACH TO ALTERNATIVE ENERGY
 
 As a small, resource-constrained country, Singapore imports almost all its energy needs, and has limited renewable energy options:
@@ -12,7 +11,7 @@ As a small, resource-constrained country, Singapore imports almost all its energ
 * Singapore's relatively narrow tidal range and calm seas limit opportunities for commercial tidal power   generation. Much of our sea space is also used for ports, anchorage and shipping lanes, which limit the application of ocean energy technologies.  
 * Hydroelectric power cannot be harnessed, as Singapore does not have a river system with fast flowing water throughout the year.  
 * We do not have geothermal energy sources.  
-* Our small physical size (728 sq km), high population density and land scarcity limits our potential for sustainably-grown domestic biomass. It also constrains the safe deployment of nuclear power in Singapore.
+* Our small physical size (733.1 sq km), high population density and land scarcity limits our potential for sustainably-grown domestic biomass. It also constrains the safe deployment of nuclear power in Singapore.
 
 ![Singapore's Approach to Alternative Energy](/images/singapores-approach-to-alternative-energy.jpg "Singapore's Approach to Alternative Energy")  
 <i>Solar panels at Marina Barrage. (Image courtesy of PUB, Singapore's National Water Agency)</i>
