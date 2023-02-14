@@ -15,7 +15,7 @@ Singapore implemented a carbon tax, the first carbon pricing scheme in Southeast
 
 To support our net zero target, **the carbon tax will be raised to S$25/tCO<sub>2</sub>e in 2024 and 2025, and S$45/tCO<sub>2</sub>e in 2026 and 2027, with a view to reaching S$50-80/tCO<sub>2</sub>e by 2030**. This will strengthen the price signal and impetus for businesses and individuals to reduce their carbon footprint in line with national climate goals.
 
-![](/images/Carbon%20Price%20Image.png)
+![](/images/Carbon%20Price.png)
 
 The revised carbon tax trajectory is critical in enabling the pace of transformation needed to achieve our raised climate ambition and make the economy- and society-wide transition to a low-carbon future. It also helps businesses remain competitive in a low-carbon future, by enhancing the business case to invest in low-carbon solutions, and ensuring that new investments and economic activities are aligned with our national climate goals.
 
