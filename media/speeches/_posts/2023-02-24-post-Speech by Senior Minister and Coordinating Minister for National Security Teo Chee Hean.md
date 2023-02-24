@@ -1,5 +1,6 @@
 ---
-title: Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean, Committee of Supply 2023
+title: Speech by Senior Minister and Coordinating Minister for National Security
+  Teo Chee Hean, Committee of Supply 2023
 permalink: /media/speeches/speech-by-senior-minister-and-coordinating-minister-for-national-security-teo-chee-hean-committee-of-supply-2023/
 date: 2023-02-24
 layout: post
@@ -34,7 +35,7 @@ Ms Poh Li San, Dr Lim Wee Kiak and Mr Louis Ng asked how we will meet our climat
 
 The public sector will set the example by aiming to achieve net zero emissions around 2045, five years ahead of our national target of 2050. This year, we will enhance our public procurement strategy and start making regular progress reports on public sector sustainability initiatives. The Ministry of Finance and the Ministry of Sustainability and the Environment will provide further details to this House.
 
-We will also continue to forge international collaborations on climate action. Professor Koh asked about the significance of COP27 and COP28. Let me share two positive examples of how Singapore contributed and made a difference. At both COP26 and COP27, Minister Grace Fu co-facilitated negotiations on Article 6. The Article 6 rulebook enables cross-border cooperation through carbon markets, for countries to jointly fulfil their national climate targets, making it more efficient and easier for countries to reduce their emissions, and on a global level. The inaugural Singapore Pavilion at COP27 showcased our homegrown companies, NGOs, youths and academics – including Professor Koh – to the international community. For instance, Sembcorp Industries launched its carbon management platform, GoNetZero. One of GoNetZero’s partnerships, with OCBC Bank, encourages clean energy adoption and decarbonisation, starting with Singaporean companies and scaling up to the region<sup>2</sup>. Overall, COP27 advanced workstreams to support the implementation of the Paris Agreement. We will press on at COP28.
+We will also continue to forge international collaborations on climate action. Professor Koh asked about the significance of COP27 and COP28. Let me share two positive examples of how Singapore contributed and made a difference. At both COP26 and COP27, Minister Grace Fu co-facilitated negotiations on Article 6. The Article 6 rulebook enables cross-border cooperation through carbon markets, for countries to jointly fulfil their national climate targets, making it more efficient and easier for countries to reduce their emissions, and on a global level. The inaugural Singapore Pavilion at COP27 showcased our homegrown companies, NGOs, youths and academics – including Professor Koh – to the international community. For instance, Sembcorp Industries launched its carbon management platform, GoNetZero. One of GoNetZero’s partnerships, with OCBC Bank, encourages clean energy adoption and decarbonisation, starting with Singaporean companies and scaling up to the region. Overall, COP27 advanced workstreams to support the implementation of the Paris Agreement. We will press on at COP28.
 
 **_Businesses_**
 
@@ -65,5 +66,3 @@ So let us work towards a better and greener Singapore. Thank you, Mr Chairman.
 * * *
 
 <sup>1</sup> IPCC WGIII (2022), Climate Change 2022: Mitigation of Climate Change. IPCC WGII (2022), Climate Change 2022: Impacts, Adaptation and Vulnerability.
-
-<sup>2</sup> [Sembcorp Launches New Carbon Management Solutions Corporate Venture, GoNetZero](https://www.sembcorp.com/en/media/media-releases/corporate/2022/november/sembcorp-launches-new-carbon-management-solutions-corporate-venture-gonetzero/), Sembcorp (15 Nov 2022).
