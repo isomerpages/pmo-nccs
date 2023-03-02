@@ -30,7 +30,7 @@ a. It is in this spirit that 194 parties ratified the historic Paris Agreement.
 
 b.   So let’s not forget this momentous milestone that we achieved.
 
-c.    In the private sector, over 700 of the largest publicly traded companies have also pledged net zero targets[1], while the Glasgow Financial Alliance for Net Zero, or GFANZ, a coalition of over 550 financial institutions, has committed to accelerate the decarbonisation of the global economy.
+c.    In the private sector, over 700 of the largest publicly traded companies have also pledged net zero targets<sup>[1]</sup>, while the Glasgow Financial Alliance for Net Zero, or GFANZ, a coalition of over 550 financial institutions, has committed to accelerate the decarbonisation of the global economy.
 
 Singapore, as a country, does not move the needle in global emissions as we are tiny, but we are doing our part as a responsible global citizen.
 
@@ -82,7 +82,7 @@ b. Singapore has now become one of the most solar-dense cities and is on track 
 
 Unfortunately, as you may know, Singapore is very small and our land scarcity does puts a limit on how much solar deployment we can achieve.
 
-a. The Solar Research Institute of Singapore has estimated that the maximum technical potential for solar can only meet 10% of Singapore’s projected electricity demand in 2050, even after maximising all usable areas and ultra-high efficiency technologies[2].
+a. The Solar Research Institute of Singapore has estimated that the maximum technical potential for solar can only meet 10% of Singapore’s projected electricity demand in 2050, even after maximising all usable areas and ultra-high efficiency technologies<sup>[2]</sup>.
 
 b. To complement domestic solar deployment, we have to tap on regional low-carbon electricity imports to further decarbonise our power sector.
 
