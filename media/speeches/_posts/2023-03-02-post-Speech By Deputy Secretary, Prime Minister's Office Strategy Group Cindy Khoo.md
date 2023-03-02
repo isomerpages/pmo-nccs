@@ -184,6 +184,5 @@ Thank you.
 
 * * *
 
-[1] Net Zero Stocktake 2022, Net Zero Tracker
-
+[1] Net Zero Stocktake 2022, Net Zero Tracker<br>
 [2] Energy 2050 Committee Report. Usable areas include rooftops, facades, mobile/land-based PV, floating PV, infrastructure PV.
