@@ -82,7 +82,7 @@ b. Singapore has now become one of the most solar-dense cities and is on track 
 
 Unfortunately, as you may know, Singapore is very small and our land scarcity does puts a limit on how much solar deployment we can achieve.
 
-a. The Solar Research Institute of Singapore has estimated that the maximum technical potential for solar can only meet 10% of Singapore’s projected electricity demand in 2050, even after maximising all usable areas and ultra-high efficiency technologies [2].
+a. The Solar Research Institute of Singapore has estimated that the maximum technical potential for solar can only meet 10% of Singapore’s projected electricity demand in 2050, even after maximising all usable areas and ultra-high efficiency technologies[2].
 
 b. To complement domestic solar deployment, we have to tap on regional low-carbon electricity imports to further decarbonise our power sector.
 
