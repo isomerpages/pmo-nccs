@@ -16,11 +16,11 @@ Ladies and gentlemen
 A good afternoon to all of you, and I am very happy to be here. A huge congratulations to the WWF-Singapore team for this wonderful first half of the inaugural Earth Hour Summit. It has been enlightening and exciting to talk to people who are passionate about climate issues.
 
 a. Many of you gathered here today – more than 500 I hear, business leaders, thought leaders, and change agents – to discuss an issue that is close to our hearts.
-<br>
+
 b. I would imagine that a lot of what I will say today is preaching to the converted, and I do not need to persuade you on the importance of taking action.
-<br>
+
 c. What I hope to share in today’s session is some of the plans that the Government has put in place. 
-<br> 
+ 
 d. As Mr Frederick Chew nicely described just now, these plans provide a bedrock for collaborations to take place. Beyond a bedrock, we hope to provide a scaffolding for collaborations to scale to greater heights.
 
 
