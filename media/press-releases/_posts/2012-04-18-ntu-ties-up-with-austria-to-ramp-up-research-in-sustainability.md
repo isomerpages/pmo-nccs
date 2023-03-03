@@ -2,9 +2,8 @@
 layout: post
 title: NTU Ties Up with Austria to Ramp Up Research in Sustainability
 subtitle: 18 Apr 2012
-permalink: /media/press-release/ntu-ties-up-with-austria-to-ramp-up-research-in-sustainability
+permalink: /media/press-release/ntu-ties-up-with-austria-to-ramp-up-research-in-sustainability/
 ---
-
 *Four agreements to bolster sustainability research and to set up joint PhD programmes inked.*
 
 Nanyang Technological University’s (NTU) efforts to go green received another boost as it enters into new collaborations with four partners from Austria today. The partners are the University of Vienna, the Austrian Institute of Technology (AIT), the Medical University of Vienna and crystalsol GmbH, an Austrian company that specialises in renewable energy.
@@ -43,4 +42,4 @@ This is not NTU’s first collaboration with Austria. In February last year, NTU
 
 With more than S$830 million in research funding in sustainability alone, NTU is fast becoming a global research powerhouse in environmental technologies. Besides ERI@N, NTU has several other centres engaged in sustainability research, including the Earth Observatory of Singapore, Nanyang Environment and Water Research Institute, and the TUM-Create Centre for Electromobility.
 
-Source: [<a href="http://news.ntu.edu.sg/pages/newsdetail.aspx?URL=http://news.ntu.edu.sg/news/Pages/NR2012_Apr18.aspx&Guid=8f21f19d-7788-4e15-a57c-d6170ddebf75&Category=News+Releases" target="_blank">Nanyang Technological University</a>](http://news.ntu.edu.sg/pages/newsdetail.aspx?URL=http://news.ntu.edu.sg/news/Pages/NR2012_Apr18.aspx&Guid=8f21f19d-7788-4e15-a57c-d6170ddebf75&Category=News+Releases)
+Source: Nanyang Technological University
