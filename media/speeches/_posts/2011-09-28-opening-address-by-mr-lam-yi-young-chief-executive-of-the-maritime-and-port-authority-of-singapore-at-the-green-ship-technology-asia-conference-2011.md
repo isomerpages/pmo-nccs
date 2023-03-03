@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Opening Address by Chief Executive of the Maritime and Port Authority of Singapore Lam Yi Young at the Green Ship Technology Asia Conference 2011 held at Intercontinental Hotel, Singapore
+title: Opening Address by Chief Executive of the Maritime and Port Authority of
+  Singapore Lam Yi Young at the Green Ship Technology Asia Conference 2011 held
+  at Intercontinental Hotel, Singapore
 subtitle: 28 Sep 2011
-permalink: /media/speeches/opening-address-by-mr-lam-yi-young-chief-executive-of-the-maritime-and-port-authority-of-singapore-at-the-green-ship-technology-asia-conference-2011
+permalink: /media/speeches/opening-address-by-mr-lam-yi-young-chief-executive-of-the-maritime-and-port-authority-of-singapore-at-the-green-ship-technology-asia-conference-2011/
 ---
-
 Distinguished Guests, 
 <br><br>Ladies and Gentleman,  
 <br>
@@ -65,4 +66,4 @@ Good Morning.
 
 
 
-Source: [<a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/1da298ab-7e6a-439e-8d33-c19eec5aca60" target="_blank">Maritime & Port Authority of Singapore</a>](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/1da298ab-7e6a-439e-8d33-c19eec5aca60)
+Source: [<a href="https://www.mpa.gov.sg/media-centre/details/opening-address-by-mr-lam-yi-young-chief-executive-of-the-maritime-and-port-authority-of-singapore-at-the-green-ship-technology-asia-conference-2011-28-september-at-intercontinental-hotel-singapore" target="_blank">Maritime & Port Authority of Singapore</a>](https://www.mpa.gov.sg/media-centre/details/opening-address-by-mr-lam-yi-young-chief-executive-of-the-maritime-and-port-authority-of-singapore-at-the-green-ship-technology-asia-conference-2011-28-september-at-intercontinental-hotel-singapore)
