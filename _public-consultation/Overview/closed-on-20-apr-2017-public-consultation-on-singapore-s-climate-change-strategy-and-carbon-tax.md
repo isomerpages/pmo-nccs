@@ -72,6 +72,6 @@ ___
 
 [1] Singapore Power's Q1 2017 electricity tariffs for households is 20.20 cents per kWh.
 
-[2] The microsite can be found at [<a href="https://www.e2singapore.gov.sg/" target="_blank">www.e2singapore.gov.sg</a>](https://www.e2singapore.gov.sg/)
+[2] The microsite can be found at [<a href="https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency" target="_blank">https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency</a>](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency)
 
 [3] The technology roadmaps can be found at [<a href="/media/publications/technology-roadmap" target="_blank">technology-roadmaps</a>](/media/publications/technology-roadmap)

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Maritime and Port Authority of Singapore Chief Executive Lam Yi Young on Environmental Challenges for Shipping and Port Activities at the Sustainable Marine Transportation Conference 2011
+title: Speech by Maritime and Port Authority of Singapore Chief Executive Lam Yi
+  Young on Environmental Challenges for Shipping and Port Activities at the
+  Sustainable Marine Transportation Conference 2011
 subtitle: 17 Jan 2011
-permalink: /media/speeches/speech-by-maritime-and-port-authority-of-singapore-chief-executive-lam-yi-young-on-environmental-challenges-for-shipping-and-port-activities
+permalink: /media/speeches/speech-by-maritime-and-port-authority-of-singapore-chief-executive-lam-yi-young-on-environmental-challenges-for-shipping-and-port-activities/
 ---
-
 Good afternoon
 
 Excellencies
@@ -134,4 +135,4 @@ MPA, as Singapore's maritime administrator and port authority, is committed to, 
 On that note, thank you very much for your attention and I wish you an enjoyable and fruitful afternoon.
 <br><br><br>
 
-*Source*: [<a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/53c43621-0c27-4b98-b598-c7dedea7d943" target="_blank">The Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/53c43621-0c27-4b98-b598-c7dedea7d943)
+*Source*: [<a href="https://www.mpa.gov.sg/media-centre/details/speech-by-mr-lam-yi-young-chief-executive-maritime-and-port-authority-of-singapore-on-environmental-challenges-for-shipping-and-port-activities-at-the-sustainable-marine-transportation-conference-2011-raffles-town-club-singapore-17-january-2011" target="_blank">The Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/media-centre/details/speech-by-mr-lam-yi-young-chief-executive-maritime-and-port-authority-of-singapore-on-environmental-challenges-for-shipping-and-port-activities-at-the-sustainable-marine-transportation-conference-2011-raffles-town-club-singapore-17-january-2011)

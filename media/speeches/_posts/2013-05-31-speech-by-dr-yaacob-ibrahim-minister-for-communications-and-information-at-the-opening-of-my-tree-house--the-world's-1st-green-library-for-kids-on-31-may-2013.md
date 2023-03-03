@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Speech by Minister for Communications and Information Dr Yaacob Ibrahim at the Opening of My Tree House - The World's 1st Green Library for Kids
+title: Speech by Minister for Communications and Information Dr Yaacob Ibrahim
+  at the Opening of My Tree House - The World's 1st Green Library for Kids
 subtitle: 31 May 2013
-permalink: /media/speeches/speech-by-dr-yaacob-ibrahim-minister-for-communications-and-information-at-the-opening-of-my-tree-house--the-world's-1st-green-library-for-kids-on-31-may-2013
+permalink: /media/speeches/speech-by-dr-yaacob-ibrahim-minister-for-communications-and-information-at-the-opening-of-my-tree-house--the-world's-1st-green-library-for-kids-on-31-may-2013/
 ---
-
 Mrs Elaine Ng  
 Chief Executive Officer, National Library Board
 
@@ -39,4 +39,4 @@ Let me now touch on the collection in the green library. There are some 45,000 b
 
 In closing, I would like to thank CDL and all who have contributed towards making “My Tree House” a reality. And I wish all our children meaningful and enjoyable experiences through NLB’s efforts.
 
-Source: [<a href="https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2013/5/the-worlds-1st-green-library-for-kids?pagesize=6&type=Speeches&year=2013&page=3" target="_blank">Ministry of Communications and Information </a>](https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2013/5/the-worlds-1st-green-library-for-kids?pagesize=6&type=Speeches&year=2013&page=3)
+Source: Ministry of Communications and Information

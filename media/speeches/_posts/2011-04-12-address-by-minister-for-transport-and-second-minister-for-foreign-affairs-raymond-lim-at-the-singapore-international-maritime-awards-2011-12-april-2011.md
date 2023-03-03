@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Address by Minister for Transport and Second Minister for Foreign Affairs Raymond Lim at the Singapore International Maritime Awards 2011
+title: Address by Minister for Transport and Second Minister for Foreign Affairs
+  Raymond Lim at the Singapore International Maritime Awards 2011
 subtitle: 12 Apr 2011
-permalink: /media/speeches/address-by-minister-for-transport-and-second-minister-for-foreign-affairs-raymond-lim-at-the-singapore-international-maritime-awards-2011-12-april-2011
+permalink: /media/speeches/address-by-minister-for-transport-and-second-minister-for-foreign-affairs-raymond-lim-at-the-singapore-international-maritime-awards-2011-12-april-2011/
 ---
-
-
 Distinguished Guests,
 
 Ladies and Gentlemen,
@@ -45,4 +44,4 @@ Good evening. It gives me great pleasure to join you for the 6th Singapore Inter
 14.&nbsp;Thank you.
 <br><br>
 
-*Source*: [<a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/b775e4f3-d939-4e17-8fb4-9a5638ea111d" target="_blank">Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/speeches/detail/b775e4f3-d939-4e17-8fb4-9a5638ea111d)
+*Source*: [<a href="https://www.mpa.gov.sg/media-centre/details/address-by-mr-raymond-lim-minister-for-transport-and-second-minister-for-foreign-affairs-at-the-singapore-international-maritime-awards-2011-on-tuesday-12-april-2011-7-00pm-in-the-island-ballroom-shangri-la-hotel" target="_blank">Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/media-centre/details/address-by-mr-raymond-lim-minister-for-transport-and-second-minister-for-foreign-affairs-at-the-singapore-international-maritime-awards-2011-on-tuesday-12-april-2011-7-00pm-in-the-island-ballroom-shangri-la-hotel)
