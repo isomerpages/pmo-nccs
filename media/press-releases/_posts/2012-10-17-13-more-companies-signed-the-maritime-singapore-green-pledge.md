@@ -2,9 +2,8 @@
 layout: post
 title: 13 More Companies Signed the Maritime Singapore Green Pledge
 subtitle: 17 Oct 2012
-permalink: /media/press-release/13-more-companies-signed-the-maritime-singapore-green-pledge
+permalink: /media/press-release/13-more-companies-signed-the-maritime-singapore-green-pledge/
 ---
-
 The Maritime Singapore Green Pledge continues to receive positive response from the maritime industry as another 13 organisations came together today to sign the Maritime Singapore Green Pledge during the opening ceremony of the 17th Singapore International Bunkering Conference and Exhibition (SIBCON).
 
 This is the third Green Pledge signing ceremony organised by the Maritime and Port Authority of Singapore (MPA) since the Green Pledge was inaugurated in April 2011. With the latest signing, a total of 40 key organisations have pledged their commitment to promote clean and green shipping in Singapore.
@@ -23,4 +22,4 @@ The Green Port Programme aims to encourage ocean-going ships calling at the Port
 
 The Green Technology Programme aims to encourage local maritime companies to develop and adopt green technologies through co-funding of up to half of qualifying costs. MPA has set aside an initial $25 million from the Maritime Innovation and Technology (MINT) Fund for this programme. To-date, 10 projects from nine maritime companies have received support from this programme. Total approved funding support from MPA for these projects is $7.7 million.
 
-Source: [<a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/detail/164bc9ce-8241-4c2f-8748-20b96529219b" target="_blank">Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/detail/164bc9ce-8241-4c2f-8748-20b96529219b)
+Source: [<a href="https://www.mpa.gov.sg/media-centre/details/13-more-companies-signed-the-maritime-singapore-green-pledge" target="_blank">Maritime and Port Authority of Singapore</a>](https://www.mpa.gov.sg/media-centre/details/13-more-companies-signed-the-maritime-singapore-green-pledge)
