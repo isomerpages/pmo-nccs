@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Excerpt of Statements by Minister for the Environment and Water Resources Dr Vivian Balakrishan at the Committee of Supply Debate
+title: Excerpt of Statements by Minister for the Environment and Water Resources
+  Dr Vivian Balakrishan at the Committee of Supply Debate
 subtitle: 6 Mar 2012
-permalink: /media/speeches/excerpt-of-statements-by-dr-vivian-balakrishan-minister-for-the-environment-and-water-resources-at-the-committee-of-supply-debate-6-march-2012
+permalink: /media/speeches/excerpt-of-statements-by-dr-vivian-balakrishan-minister-for-the-environment-and-water-resources-at-the-committee-of-supply-debate-6-march-2012/
 ---
-
 ### EXCERPT OF STATEMENTS BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES DR VIVIAN BALAKRISHAN AT THE COMMITTEE OF SUPPLY DEBATE, 6 MARCH 2012
 
 **Building Up Climate Research Capabilities**
@@ -42,4 +42,4 @@ We will be further tightening the energy performance standards for household air
 
 
 
-Source: [<a href="https://www.mewr.gov.sg/" target="_blank">Ministry of the Environment and Water Resources </a>](https://www.mewr.gov.sg/)
+Source: Ministry of the Environment and Water Resources
