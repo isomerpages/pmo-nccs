@@ -1,11 +1,11 @@
 ---
-title: Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean, Committee of Supply 2022
-permalink: /media/speeches/speech-by-senior-minister-and-coordinating-minister-for-national-security-teo-chee-hean-committee-of-supply-2022-8-march-2022
+title: Speech by Senior Minister and Coordinating Minister for National Security
+  Teo Chee Hean, Committee of Supply 2022
+permalink: /media/speeches/speech-by-senior-minister-and-coordinating-minister-for-national-security-teo-chee-hean-committee-of-supply-2022-8-march-2022/
 date: 8 Mar 2022
 layout: post
 description: ""
 ---
-
 ***A Decisive Move to Net Zero***
 
 Climate change is a real and existential threat. The latest findings from Work Group 2 of the Intergovernmental Panel on Climate Change (IPCC)’s Sixth Assessment Report, which were released last week, assessed that the impacts of climate change are more apparent and will affect us more severely than previously thought. We are already seeing some of these effects – stronger and longer heat waves, unprecedented droughts and floods, sea-level rise and storm surges affecting communities all over the world. 
@@ -88,4 +88,4 @@ Mr Chairman, all of us have a part to play. We can and we should make this decis
 
 Thank you, Mr Chairman.
 
-*For more information on the Joint Segment on the Singapore Green Plan 2030 at the Committee of Supply debates 2022, please visit: [https://www.greenplan.gov.sg/resources](https://www.greenplan.gov.sg/resources).*
+*For more information on the Joint Segment on the Singapore Green Plan 2030 at the Committee of Supply debates 2022, please visit: [https://www.greenplan.gov.sg/cos/](https://www.greenplan.gov.sg/cos/).*
