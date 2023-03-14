@@ -3,7 +3,7 @@ layout: post
 title: Parlimentary Reply by Minister for the Environment and Water Resources Dr
   Vivian Balakrishnan to Parliamentary Question on Impact of Climate Change
 subtitle: 14 Feb 2012
-permalink: /media/speeches/written-reply-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-to-parliamentary-question-on-impact-of-climate-change-14-february-2012
+permalink: /media/speeches/written-reply-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-to-parliamentary-question-on-impact-of-climate-change-14-february-2012/
 ---
 <u>Question by <b>Er Dr Lee Bee Wah:</b></u>
 
@@ -36,4 +36,4 @@ While the government has taken action based on available studies, MEWR and NEA a
 <br><br><br>
 
 
-Source: [<a href="https://www.mewr.gov.sg/" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/)
+Source: Ministry of the Environment and Water Resources
