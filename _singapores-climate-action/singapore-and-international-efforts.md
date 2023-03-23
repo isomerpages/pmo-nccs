@@ -10,7 +10,7 @@ As a small low-lying city-state with an open economy, Singapore is particularly 
 
 **The UN Framework Convention on Climate Change**
 
-At the centre of the global effort is the [<a href="http://unfccc.int/" target="_blank">UN Framework Convention on Climate Change (UNFCCC)</a>](http://unfccc.int/), which sets the framework for governments to cooperate to address climate change, based on the principle of "common but differentiated responsibilities and respective capabilities, in light of different national circumstances". International negotiations have been ongoing under the UNFCCC since the 1990s to increase international action on climate change.
+At the centre of the global effort is the [UN Framework Convention on Climate Change (UNFCCC)](https://unfccc.int/), which sets the framework for governments to cooperate to address climate change, based on the principle of "common but differentiated responsibilities and respective capabilities, in light of different national circumstances". International negotiations have been ongoing under the UNFCCC since the 1990s to increase international action on climate change.
 
 At Paris in December 2015, Parties to the UNFCCC adopted a landmark global climate agreement. The Paris Agreement  reaffirmed the commitment of the global community to advance the UN multilateral framework to address the challenges of climate change.
 
@@ -34,7 +34,7 @@ The Kyoto Protocol attendees negotiated with 41 developed countries (Annex I Par
 
 **2005**
 
-[<a href="http://unfccc.int/kyoto_protocol/items/2830.php" target="_blank">Kyoto Protocol</a>](http://unfccc.int/kyoto_protocol/items/2830.php) came into effect.
+[Kyoto Protocol](https://unfccc.int/process-and-meetings/the-kyoto-protocol/what-is-the-kyoto-protocol/kyoto-protocol-targets-for-the-first-commitment-period) came into effect.
 
 **2007**
 
@@ -58,7 +58,7 @@ At the UN Climate Change Conference in Doha, Parties agreed to a new commitment 
 
 **2013**
 
-In Warsaw, Poland, the Parties produced a set of decisions including a rulebook for [<a href="https://redd.unfccc.int/" target="_blank">reducing emissions from deforestation and forest degradation</a>](https://redd.unfccc.int/) and a mechanism to address [<a href="http://unfccc.int/adaptation/workstreams/loss_and_damage/items/6056.php" target="_blank">loss and damage</a>](http://unfccc.int/adaptation/workstreams/loss_and_damage/items/6056.php) caused by long-term climate change impacts. They also agreed to communicate their respective contributions towards the global climate agreement well in advance of the 21st Conference of the Parties to the UNFCCC (COP-21) in Paris in 2015.
+In Warsaw, Poland, the Parties produced a set of decisions including a rulebook for [reducing emissions from deforestation and forest degradation](https://redd.unfccc.int/) and a mechanism to address [loss and damage](https://unfccc.int/topics/adaptation-and-resilience/workstreams/approaches-to-address-loss-and-damage-associated-with-climate-change-impacts-in-developing-countries) caused by long-term climate change impacts. They also agreed to communicate their respective contributions towards the global climate agreement well in advance of the 21st Conference of the Parties to the UNFCCC (COP-21) in Paris in 2015.
 
 **2014**
 
