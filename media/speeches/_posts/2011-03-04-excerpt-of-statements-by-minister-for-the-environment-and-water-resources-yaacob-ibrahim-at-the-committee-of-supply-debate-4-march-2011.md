@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Excerpt of Statements by Minister for the Environment and Water Resources Yaacob Ibrahim at the Committee of Supply Debate
+title: Excerpt of Statements by Minister for the Environment and Water Resources
+  Yaacob Ibrahim at the Committee of Supply Debate
 subtitle: 4 Mar 2011
-permalink: /media/speeches/excerpt-of-statements-by-minister-for-the-environment-and-water-resources-yaacob-ibrahim-at-the-committee-of-supply-debate-4-march-2011
+permalink: /media/speeches/excerpt-of-statements-by-minister-for-the-environment-and-water-resources-yaacob-ibrahim-at-the-committee-of-supply-debate-4-march-2011/
 ---
-
 **<u>INTRODUCTORY REMARKS</u>**
 
 1.&nbsp;I wish to thank Mr Cedric Foo, our GPC Chairman, and members for their questions and suggestions.
@@ -173,4 +173,4 @@ permalink: /media/speeches/excerpt-of-statements-by-minister-for-the-environment
 98.&nbsp;We can create an even better environment through positive changes in the way we think and act. Together, we can safeguard our environment for the present and for future generations to come.
 <br><br><br>
 
-*Source*: [<a href="https://www.mewr.gov.sg/" target="_blank">Ministry of the Environment and Water Resources</a>](https://www.mewr.gov.sg/)
+*Source: Ministry of the Environment and Water Resources*
