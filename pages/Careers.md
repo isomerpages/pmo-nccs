@@ -9,4 +9,4 @@ Join our vibrant team and contribute to ensuring Singapore is well-positioned fo
 
 | Job Title | Description| Link|
 | -------- | -------- | -------- |
-| Senior Manager / Assistant Director (Policy / Planning)|Develop policies and strategies to support Singapore's climate change priorities so as to advance mitigation, build resilience, harness green growth opportunities, and accelerate the low-carbon transition. | [Find out more](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html#/JobDescription/13021834/005056a3-53e2-1edd-a3fe-d02ccfb6578f)|
+| Climate intern | As an intern with NCCS, you will have the opportunity to work with a team of dedicated professionals who are committed to developing and implementing policies and strategies to mitigate and adapt to climate change. You will gain hands-on experience in areas such as policy and planning, and stakeholder engagement. | [Find out more](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html#/JobDescription/13348562/005056a3-d347-1edd-b4ef-ba6e2e277288)|
