@@ -13,7 +13,7 @@ Chief Executive Officer of NEA, Mr Ronnie Tay said, “Achieving a green and sus
 
 Group Chief Executive Officer of SP Group, Mr Wong Kim Yin said, "Through this Challenge, we aim to help the community make electricity-saving a way of life. Participants can use the SP Utilities app to track and compare their consumption The SP Utilities app is available for every Singapore consumer, to support their desire for a sustainable lifestyle."
 
-Registration for the Challenge has opened and will close on 30 September 2017. Interested households can sign up for the Challenge online through the microsite at [<a href="http://www.cgs.sg/esc" target="_blank">http://www.cgs.sg/esc</a>](http://www.cgs.sg/esc) from today onwards or at any Daikin Proshop, Gain City outlet, NEA’s Customer Service Centre at the Environment Building, Our Tampines Hub, and the Challenge roadshows from 24 June 2017 onwards.
+Registration for the Challenge has opened and will close on 30 September 2017. Interested households can sign up for the Challenge online through the microsite from today onwards or at any Daikin Proshop, Gain City outlet, NEA’s Customer Service Centre at the Environment Building, Our Tampines Hub, and the Challenge roadshows from 24 June 2017 onwards.
 
 More information on the Challenge can be found on the Challenge microsite and in Annex B. For more information on electricity-saving tips at home, visit [NEA's Energy Saving Tips Website](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/household-sector/energy-saving-tips).
 
