@@ -1,9 +1,10 @@
 ---
-title: Carbon Services And Climate Finance
-permalink: /singapores-climate-action/carbon-services-and-climate-finance/
+title: Carbon Services And Trading
+permalink: /singapores-climate-action/carbon-services-and-trading/
 third_nav_title: Green Growth Opportunities
+description: ""
 ---
-### CARBON SERVICES AND CLIMATE FINANCE
+### CARBON SERVICES AND TRADING
 
 The finalisation of Paris Agreement Article 6 rulebook at COP-26 provides the foundation for both private and public actors to leverage carbon markets to meet their climate goals. As an aspiring carbon services and trading hub, Singapore is well placed to seize new green growth opportunities in this space.
 
