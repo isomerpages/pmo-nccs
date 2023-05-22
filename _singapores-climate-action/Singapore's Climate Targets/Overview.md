@@ -16,6 +16,9 @@ Given Singapore’s [national circumstances](/singapores-climate-action/overview
 
 Read more about [Singapore's measures to achieve our climate targets](/singapores-climate-action/mitigation-efforts/overview).
 
+<u>Net Zero Explainers:</u>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/742th8Abwuc" height="315" width="560"></iframe>
+
 <u>Download:</u>
 * [Addendum to Singapore's Long-Term Low-Emissions Development Strategy 2020 (PDF, 7MB)](/files/docs/default-source/publications/nccsleds_addendum_2022.pdf)
 * [Singapore's Long-Term Low-Emissions Development Strategy 2020 (PDF, 15MB)](/files/docs/default-source/publications/nccsleds.pdf)
