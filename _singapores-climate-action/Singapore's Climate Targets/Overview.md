@@ -14,10 +14,10 @@ In 2009, Singapore pledged to reduce our emissions by 16% below BAU levels by 20
 
 Given Singapore’s [national circumstances](/singapores-climate-action/overview/national-circumstances/) — we are a resource-constrained and alternative energy-disadvantaged city-state — these are ambitious targets. We are committed to doing our part as a responsible member of the international community. Our ability to fulfil our pledges, like all Parties, will depend on the continued international commitment by Parties to the Paris Agreement and their climate pledges. The targets will also be contingent on the maturity of decarbonisation technologies and effective international cooperation.
 
-Net Zero Explainers: 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/742th8Abwuc" height="315" width="560"></iframe>
-
 Read more about [Singapore's measures to achieve our climate targets](/singapores-climate-action/mitigation-efforts/overview).
+
+<u>Net Zero Explainers:</u>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/742th8Abwuc" height="315" width="560"></iframe>
 
 <u>Download:</u>
 * [Addendum to Singapore's Long-Term Low-Emissions Development Strategy 2020 (PDF, 7MB)](/files/docs/default-source/publications/nccsleds_addendum_2022.pdf)
