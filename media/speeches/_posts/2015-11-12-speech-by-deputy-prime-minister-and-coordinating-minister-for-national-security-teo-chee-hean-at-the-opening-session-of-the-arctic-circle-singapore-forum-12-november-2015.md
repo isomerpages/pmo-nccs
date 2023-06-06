@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Deputy Prime Minister and Coordinating Minister for National Security Teo Chee Hean at the Opening Session of the Arctic Circle Singapore Forum
+title: Speech by Deputy Prime Minister and Coordinating Minister for National
+  Security Teo Chee Hean at the Opening Session of the Arctic Circle Singapore
+  Forum
 subtitle: 12 Nov 2015
-permalink: /media/speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-teo-chee-hean-at-the-opening-session-of-the-arctic-circle-singapore-forum-12-november-2015
+permalink: /media/speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-teo-chee-hean-at-the-opening-session-of-the-arctic-circle-singapore-forum-12-november-2015/
 ---
-
 His Excellency Ólafur Grímsson,
 
 President of Iceland
@@ -78,7 +79,7 @@ ___
 
 <a id="3">[3]</a> Hope, C. and Schaefer, K. “Economic impacts of carbon dioxide and methane released from thawing permafrost”. Nature Climate Change (2015). DOI: 10.1038/nclimate2807
 
-<a id="4">[4]</a> Emmerson, C. and Lahn, G.  Arctic Opening: Opportunity and Risk in the High North (Lloyd’s of London/Chatham House, 2012).  Accessed at: [<a href="https://www.chathamhouse.org/publications/papers/view/182839" target="_blank">https://www.chathamhouse.org/publications/papers/view/182839</a>](https://www.chathamhouse.org/publications/papers/view/182839)
+<a id="4">[4]</a> Emmerson, C. and Lahn, G.  Arctic Opening: Opportunity and Risk in the High North (Lloyd’s of London/Chatham House, 2012).  
 
 <a id="5">[5]</a> Farré, A.B., et al.  “Commercial Arctic Shipping Through the Northeast Passage: Routes, Resources, Governance, Technology, and Infrastructure.” Polar Geography 37:4, 298-324 (2014). DOI: 10.1080/1088937X.2014.965769
 
