@@ -9,7 +9,7 @@ Singapore has developed a suite of supporting services and opportunities for fir
 
 **Examples of Test Beds in Singapore**
 
-* **[CleanTech Park](https://www.enterprisesg.gov.sg/industries/hub/infrastructure-hub/build-on-singapores-infrastructure-ecosystem/notable-projects/jtc-cleantech-park)** is being developed by JTC Corporation as the first eco-business park in the region. It will cluster clean technology companies together and serve as a platform for test bedding and prototyping of clean technologies and sustainable urban solutions. The 50ha Park at Nanyang Avenue will be developed in three phases over the next 20 years. Upon completion, it will house a working population of 20,000 green collar workers.
+* **[CleanTech Park](https://www.enterprisesg.gov.sg/grow-your-business/partner-with-singapore/infrastructure/notable-projects/cleantech-park)** is being developed by JTC Corporation as the first eco-business park in the region. It will cluster clean technology companies together and serve as a platform for test bedding and prototyping of clean technologies and sustainable urban solutions. The 50ha Park at Nanyang Avenue will be developed in three phases over the next 20 years. Upon completion, it will house a working population of 20,000 green collar workers.
 
 * **Floating Solar** PV Pilot is a joint project between the Singapore Economic Development Board (EDB) and national water agency PUB. The pilot project, a first of its kind in the region, aims to assess the feasibility and cost effectiveness of installing floating solar photovoltaic (PV) systems on freshwater reservoirs.
 
