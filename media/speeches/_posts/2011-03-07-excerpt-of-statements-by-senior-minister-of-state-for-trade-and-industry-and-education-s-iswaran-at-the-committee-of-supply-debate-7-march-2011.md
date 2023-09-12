@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Excerpt of Statements by Senior Minister of State for Trade and Industry and Education S Iswaran at the Committee of Supply Debate
+title: Excerpt of Statements by Senior Minister of State for Trade and Industry
+  and Education S Iswaran at the Committee of Supply Debate
 subtitle: 7 Mar 2011
-permalink: /media/speeches/excerpt-of-statements-by-senior-minister-of-state-for-trade-and-industry-and-education-s-iswaran-at-the-committee-of-supply-debate-7-march-2011
+permalink: /media/speeches/excerpt-of-statements-by-senior-minister-of-state-for-trade-and-industry-and-education-s-iswaran-at-the-committee-of-supply-debate-7-march-2011/
 ---
+**<u>RESEARCH &amp; DEVELOPMENT</u>**
 
-**<u>RESEARCH & DEVELOPMENT</u>**
-
-**R&D for social and environmental needs**   
-Third, R&D will help to address some of Singapore’s pressing challenges. Ms Penny Low has suggested that Government adopt a broader definition of innovation that delivers not only economic outcomes but also solutions that address social concerns. I am assuming the member does not think that the pursuit of economic outcome is inherently wrong in its own terms. This is more about the remit that MTI and its agencies have, which is primarily to focus on economic outcomes. The dichotomy between social and economic in some ways is a false one because most of the commercially viable ideas start by seeking to address a need in the market which is a social one usually. So this is the Government’s approach. We want to encourage research which is geared towards meeting needs that are pressing, but are long-term in nature for the market and society.
+**R&amp;D for social and environmental needs**   
+Third, R&amp;D will help to address some of Singapore’s pressing challenges. Ms Penny Low has suggested that Government adopt a broader definition of innovation that delivers not only economic outcomes but also solutions that address social concerns. I am assuming the member does not think that the pursuit of economic outcome is inherently wrong in its own terms. This is more about the remit that MTI and its agencies have, which is primarily to focus on economic outcomes. The dichotomy between social and economic in some ways is a false one because most of the commercially viable ideas start by seeking to address a need in the market which is a social one usually. So this is the Government’s approach. We want to encourage research which is geared towards meeting needs that are pressing, but are long-term in nature for the market and society.
 
 We established the $1 billion National Innovation Challenge programme to encourage as Ms Penny Low put it, “systemic innovation” to develop solutions to Singapore’s national challenges. It will not only help solve our problems but also serve to build a better life for Singaporeans, and spawn new industries and business opportunities in the process. The first Challenge, “Energy Resilience for Sustainable Growth”, aims to develop cost-competitive energy solutions for deployment within 20 years to help Singapore improve energy efficiency, reduce carbon emissions, and increase energy options. The Government has also applied the collaborative innovation approach to address longer-term public sector needs. The $450 million Co-Innovation Partnership Programme will help private enterprises to collaborate with the public sector to develop innovative solutions for specific needs in the public sector. Each collaboration can receive up to $1.75 million under the programme. And there is a good pipeline of such projects. For example, the Ministry of Health is exploring ways to use remote technology to monitor diabetic patients. JTC is looking at how we can transform excavated soft material into alternative reclamation fill.
 
-In general, we agree with Mr Wee Siew Kim’s that innovation should be encouraged in as many sectors as possible. We have established grant schemes for test-bedding ventures in areas such as urban solutions, health & wellness, lifestyle and media amongst others. And we will continue to encourage this diversity and vibrancy in our R&D landscape.
+In general, we agree with Mr Wee Siew Kim’s that innovation should be encouraged in as many sectors as possible. We have established grant schemes for test-bedding ventures in areas such as urban solutions, health &amp; wellness, lifestyle and media amongst others. And we will continue to encourage this diversity and vibrancy in our R&amp;D landscape.
 
 
 **<u>ENERGY</u>**
@@ -40,7 +40,7 @@ Some households may face difficulties in coping with rising and volatile energy 
 
 Clearly beyond households, we want to encourage energy efficiency amongst all industry players, across sectors, and the Energy Efficiency Programme Office (E2PO) co-ordinates these programmes.
 
-Ms Indranee Rajah asked about the electric vehicle (EV) pilot project. This is another R & D initiative. The project will test if EVs can become a viable mode of transport in Singapore. We are currently developing the charging infrastructure for the pilot. The first charging stations are due to be completed by mid 2011. The first EVs should arrive in Singapore around that time. We will run the pilot for two years, and use the data to evaluate the costs and benefits of EVs.
+Ms Indranee Rajah asked about the electric vehicle (EV) pilot project. This is another R &amp; D initiative. The project will test if EVs can become a viable mode of transport in Singapore. We are currently developing the charging infrastructure for the pilot. The first charging stations are due to be completed by mid 2011. The first EVs should arrive in Singapore around that time. We will run the pilot for two years, and use the data to evaluate the costs and benefits of EVs.
 <br><br><br>
 
-*Source*: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609nPsl9g0ecGMk" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609nPsl9g0ecGMk)
+*Source*: [<a href="https://www.ema.gov.sg/news-events/news/speeches/speech-by-mr-s-iswaran-senior-minister-of-state-for-trade-and-industry-and-education-at-the-committee-of-supply-debate-in-parliament" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/news-events/news/speeches/speech-by-mr-s-iswaran-senior-minister-of-state-for-trade-and-industry-and-education-at-the-committee-of-supply-debate-in-parliament)
