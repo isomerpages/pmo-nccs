@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Welcome Remarks by Chairman of Energy Market Authority Chan Lai Fung at the Distinguished Speakers Programme
+title: Welcome Remarks by Chairman of Energy Market Authority Chan Lai Fung at
+  the Distinguished Speakers Programme
 subtitle: 29 Apr 2011
-permalink: /media/speeches/welcome-remarks-by-chairman-of-energy-market-authority-chan-lai-fung-at-the-distinguished-speakers-programme-29-april-2011
+permalink: /media/speeches/welcome-remarks-by-chairman-of-energy-market-authority-chan-lai-fung-at-the-distinguished-speakers-programme-29-april-2011/
 ---
-
-
 Thank you for taking time from your busy schedule to join us at this morning’s lecture by Tan Sri Leo Moggie. Tan Sri will be speaking to us on the topic – “The Dynamics of the Electricity Industry”. It is an important topic given the energy challenges faced by many countries today, especially in Asia. Energy demand in Asia is expected to grow at an annual rate of 2.3 percent, which is almost double the estimated growth rate of 1.2 percent for the world. There is therefore a greater imperative for us in Asia to understand the dynamics of the electricity landscape and consider how we can meet rising energy demand and rising energy costs.
 
 Here in Singapore, we import almost all our energy needs. As a small economy, we are a price-taker in the global energy market. To ensure that we have reliable and competitively-priced electricity, one of our key strategies is to foster effective competition in our energy markets. Our experience is that competition has helped us achieved substantial efficiency gains, and to some extent, helped mitigate the impact of volatile energy prices.
@@ -27,4 +26,4 @@ As you can tell, Tan Sri’s long and illustrious career in energy straddled bot
 It is my pleasure to invite Tan Sri Moggie to address us. Tan Sri, please.
 <br><br>
 
-*Source*: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609DTX680ETB9aa" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609DTX680ETB9aa)
+*Source*: [<a href="https://www.ema.gov.sg/news-events/news/speeches/welcome-remarks-by-ms-chan-lai-fung-chairman-of-energy-market-authority-at-the-distinguished-speakers-programme" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/news-events/news/speeches/welcome-remarks-by-ms-chan-lai-fung-chairman-of-energy-market-authority-at-the-distinguished-speakers-programme)

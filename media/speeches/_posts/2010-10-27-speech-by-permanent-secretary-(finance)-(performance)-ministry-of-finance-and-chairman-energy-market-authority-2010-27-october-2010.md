@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Permanent Secretary (Finance) (Performance), Ministry of Finance, and Chairman, Energy Market Authority Chan Lai Fung at the Opening Ceremony of Carbon Forum Asia 2010
+title: Speech by Permanent Secretary (Finance) (Performance), Ministry of
+  Finance, and Chairman, Energy Market Authority Chan Lai Fung at the Opening
+  Ceremony of Carbon Forum Asia 2010
 subtitle: 27 Oct 2010
-permalink: /media/speeches/speech-by-permanent-secretary-(finance)-(performance)-ministry-of-finance-and-chairman-energy-market-authority-2010-27-october-2010
+permalink: /media/speeches/speech-by-permanent-secretary-(finance)-(performance)-ministry-of-finance-and-chairman-energy-market-authority-2010-27-october-2010/
 ---
-
 Mr Henry Derwent  
 President and CEO, International Emissions Trading Association
 
@@ -56,4 +57,4 @@ To conclude, the global carbon market indeed holds both exciting possibilities a
 <br><br><br> 
 
 
-Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609o4X5wXxVfRHQ" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609o4X5wXxVfRHQ)
+Source: [<a href="https://www.ema.gov.sg/news-events/news/speeches/speech-by-ms-chan-lai-fung-permanent-secretary-finance-performance,-ministry-of-finance-and-chairman-energy-market-authority-at-the-opening-ceremony-of-carbon-forum-asia-2010" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/news-events/news/speeches/speech-by-ms-chan-lai-fung-permanent-secretary-finance-performance,-ministry-of-finance-and-chairman-energy-market-authority-at-the-opening-ceremony-of-carbon-forum-asia-2010)
