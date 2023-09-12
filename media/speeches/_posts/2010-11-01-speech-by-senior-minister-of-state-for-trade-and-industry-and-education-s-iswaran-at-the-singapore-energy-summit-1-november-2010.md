@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Speech by Senior Minister of State for Trade and Industry and Education S Iswaran at the Singapore Energy Summit
+title: Speech by Senior Minister of State for Trade and Industry and Education S
+  Iswaran at the Singapore Energy Summit
 subtitle: 01 Nov 2010
-permalink: /media/speeches/speech-by-senior-minister-of-state-for-trade-and-industry-and-education-s-iswaran-at-the-singapore-energy-summit-1-november-2010
+permalink: /media/speeches/speech-by-senior-minister-of-state-for-trade-and-industry-and-education-s-iswaran-at-the-singapore-energy-summit-1-november-2010/
 ---
-
-
 Your Excellencies  
 <br>
 Distinguished Guests
@@ -25,7 +24,7 @@ Greater productivity brought about by innovation and sustainable energy use, are
 Strong political and business leadership is also needed to bring about a confluence of the key enablers for the transition to a smart energy economy. Let me touch briefly on some of these enablers which I understand will also be discussed in today’s sessions.
 
 **Innovation Beyond Technology**  
-Technological advancements will power solutions for the new energy future. From traditional hydrocarbons and combustion-based technologies to new and renewable sources; from upstream R&D to downstream applications; and, from power generation and transmission to energy demand management – innovation is a crucial element.
+Technological advancements will power solutions for the new energy future. From traditional hydrocarbons and combustion-based technologies to new and renewable sources; from upstream R&amp;D to downstream applications; and, from power generation and transmission to energy demand management – innovation is a crucial element.
 
 The challenge for the energy sector is to be able to bring together the various facilitating elements – innovative policies, capability-building, financing solutions, as well as stakeholder engagement initiatives - to drive such advancements in technology.
 
@@ -51,4 +50,4 @@ We are privileged to have with us at the Singapore Energy Summit many leaders fr
 I wish you all a fruitful and productive summit. Thank you.
 <br><br>
 
-*Source*: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609CJxN60uatAEd" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609CJxN60uatAEd)
+*Source*: [<a href="https://www.ema.gov.sg/news-events/news/speeches/speech-by-mr-s-iswaran-senior-minister-of-state-for-trade-and-industry-and-education-at-the-singapore-energy-summit" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/news-events/news/speeches/speech-by-mr-s-iswaran-senior-minister-of-state-for-trade-and-industry-and-education-at-the-singapore-energy-summit)
