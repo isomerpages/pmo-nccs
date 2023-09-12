@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Minister, Prime Minister’s Office and Second Minister for Home Affairs and Trade & Industry S Iswaran at Energy Market Authority’s (EMA) 10th Anniversary Dinner
+title: Speech by Minister, Prime Minister’s Office and Second Minister for Home
+  Affairs and Trade & Industry S Iswaran at Energy Market Authority’s (EMA) 10th
+  Anniversary Dinner
 subtitle: 11 Oct 2011
-permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister-s-office-and-second-minister-for-home-affairs-and-trade-industry-at-energy-market-authority-s-(ema)-10th-anniversary-dinner-11-october-2011
+permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister-s-office-and-second-minister-for-home-affairs-and-trade-industry-at-energy-market-authority-s-(ema)-10th-anniversary-dinner-11-october-2011/
 ---
-
 Distinguished Guests,
 
 Staff of the Energy Market Authority (EMA),
@@ -68,4 +69,4 @@ Good evening. I am pleased to join you this evening to celebrate the Energy Mark
 
 
 
-Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609bot54WEvs7Lw" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609bot54WEvs7Lw)
+Source: [<a href="https://www.ema.gov.sg/news-events/news/speeches/speech-by-mr-s-iswaran-minister-prime-ministers-office-and-second-minister-for-home-affairs-and-trade-industry-at-emas-10th-anniversary-dinner" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/news-events/news/speeches/speech-by-mr-s-iswaran-minister-prime-ministers-office-and-second-minister-for-home-affairs-and-trade-industry-at-emas-10th-anniversary-dinner)
