@@ -1,11 +1,11 @@
 ---
 layout: post
-title: EMA Awards $6.2 Million Research Grant to Develop Solar Forecasting Capabilities
+title: EMA Awards $6.2 Million Research Grant to Develop Solar Forecasting
+  Capabilities
 subtitle: 23 Oct 2017
-permalink: /media/press-release/ema-awards-62-million-research-grant-to-develop-solar-forecasting-capabilities
+permalink: /media/press-release/ema-awards-62-million-research-grant-to-develop-solar-forecasting-capabilities/
 ---
-
-Singapore's capability to accurately forecast solar energy output is set to grow with a $6.2 million research grant from the Energy Market Authority (EMA). At today's Singapore International Energy Week 2017 Senior Minister of State for Trade & Industry Sim Ann announced the award of the research grant to a consortium led by the National University of Singapore (NUS).
+Singapore's capability to accurately forecast solar energy output is set to grow with a $6.2 million research grant from the Energy Market Authority (EMA). At today's Singapore International Energy Week 2017 Senior Minister of State for Trade &amp; Industry Sim Ann announced the award of the research grant to a consortium led by the National University of Singapore (NUS).
 
 The consortium will look into improving the accuracy of solar photovoltaic (PV) output forecasts and grid management using techniques in weather prediction, remote sensing, machine learning and grid modelling. The system will make use of the growing pool of solar irradiance data generated as more sensors are installed on the rooftops of buildings, and weather data from the dense network of sensors installed by Meteorological Service Singapore (MSS) island wide. (See Annex in PDF for the project’s full details.)
 
@@ -19,4 +19,4 @@ MSS, in partnership with EMA, will work with the consortium on the four-year pro
 
 Seven proposals were received in response to the Solar Forecasting Grant Call launched on 8 March 2017 by EMA together with MSS. This collaboration will ensure that the research consortium develops a solar forecasting solution that is highly reliable and, more importantly, customised to Singapore’s tropical weather.
 
-Source: [<a href="https://www.ema.gov.sg/media_release.aspx?news_sid=20171020Hat9GRnq0wX7" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/media_release.aspx?news_sid=20171020Hat9GRnq0wX7)
+Source: [<a href="https://www.ema.gov.sg/news-events/news/media-releases/ema-awards-$6.2-million-research-grant-to-develop-solar-forecasting-capabilities" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/news-events/news/media-releases/ema-awards-$6.2-million-research-grant-to-develop-solar-forecasting-capabilities)
