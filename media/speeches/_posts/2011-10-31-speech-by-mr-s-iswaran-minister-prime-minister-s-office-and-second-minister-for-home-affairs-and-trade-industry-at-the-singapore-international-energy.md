@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Speech by Minister, Prime Minister’s Office and Second Minister for Home Affairs and Trade & Industry S Iswaran at the Singapore International Energy Week 2011
+title: Speech by Minister, Prime Minister’s Office and Second Minister for Home
+  Affairs and Trade & Industry S Iswaran at the Singapore International Energy
+  Week 2011
 subtitle: 31 Oct 2011
-permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister-s-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-singapore-international-energy
+permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister-s-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-singapore-international-energy/
 ---
-
 Mr Nobuo Tanaka,
 
 Your Excellencies,
@@ -67,4 +68,4 @@ A very good morning to all of you, and welcome to the Singapore International En
 <br><br><br>
 
 
-Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609R5iGRU9NWdmz" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609R5iGRU9NWdmz)
+Source: [<a href="https://www.ema.gov.sg/news-events/news/speeches/speech-by-mr-s-iswaran-minister-prime-ministers-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-singapore-international-energy-week-2011" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/news-events/news/speeches/speech-by-mr-s-iswaran-minister-prime-ministers-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-singapore-international-energy-week-2011)
