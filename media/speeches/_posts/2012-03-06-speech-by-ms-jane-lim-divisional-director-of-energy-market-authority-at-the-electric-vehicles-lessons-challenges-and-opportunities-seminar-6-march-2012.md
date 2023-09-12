@@ -1,11 +1,10 @@
 ---
 layout: post
-title: 'Speech by Divisional Director of Energy Market Authority Jane Lim at the Electric Vehicles: Lessons, Challenges and Opportunities Seminar'
+title: "Speech by Divisional Director of Energy Market Authority Jane Lim at the
+  Electric Vehicles: Lessons, Challenges and Opportunities Seminar"
 subtitle: 6 Mar 2012
-permalink: /media/speeches/speech-by-ms-jane-lim-divisional-director-of-energy-market-authority-at-the-electric-vehicles-lessons-challenges-and-opportunities-seminar-6-march-2012
+permalink: /media/speeches/speech-by-ms-jane-lim-divisional-director-of-energy-market-authority-at-the-electric-vehicles-lessons-challenges-and-opportunities-seminar-6-march-2012/
 ---
-
-
 Ms Judith Slater, 
 <br>Deputy High Commissioner, British High Commission
 
@@ -31,7 +30,7 @@ In 2009, the UK government launched a nationwide trial of environmentally friend
 
 Other trials focus on new charging technologies such as battery swapping or inductive wireless charging to overcome the issue of long charging times. Over time, there will be more information on which form of charging technology will be more acceptable to consumers while also being commercially viable.
 
-In tandem, auto manufacturers are rolling out EVs for both testing and commercial sales. They are working with technology providers to conduct R&D on EV performance and EV-related solutions, such as charging stations, analytics and better storage solutions.
+In tandem, auto manufacturers are rolling out EVs for both testing and commercial sales. They are working with technology providers to conduct R&amp;D on EV performance and EV-related solutions, such as charging stations, analytics and better storage solutions.
 
 Grid operators also have a role to play in the EV ecosystem, to understand the impact of EVs on the power grid. Last week, Singapore Power announced a technical trial to understand the impact of EVs on the electricity network, and develop solutions so as to continue the reliable delivery of power supply to consumers.
 
@@ -41,7 +40,7 @@ These strong partnerships between governments, car manufacturers, charging servi
 
 To prepare for a future when EVs could become more pervasive, we have embarked on a test-bed, to evaluate the feasibility of using EVs in Singapore and to gain a better understanding of EV technologies, business models and user preferences.
 
-In many respects, Singapore appears to be an ideal location for EVs, given our small size, compact urban environment, robust power grid, advanced Information and Communication Technology (ICT) infrastructure and welldeveloped R&D capabilities. The average daily driving distance for a typical vehicle here is less than 55 km a day, well within the typical driving range of a fully-charged EV between 90 km to 160km.
+In many respects, Singapore appears to be an ideal location for EVs, given our small size, compact urban environment, robust power grid, advanced Information and Communication Technology (ICT) infrastructure and welldeveloped R&amp;D capabilities. The average daily driving distance for a typical vehicle here is less than 55 km a day, well within the typical driving range of a fully-charged EV between 90 km to 160km.
 
 In addition, Singapore has a wealth of technology and research expertise in electronics, power and precision engineering. Our test-bed is part of developing Singapore as a “living laboratory” for companies to research, develop and test innovative solutions that can serve a wider market.
 
@@ -65,4 +64,4 @@ I wish you all a fruitful discussion and a successful seminar. Thank you.
 <br><br><br>
 
 
-Source: [<a href="https://www.ema.gov.sg/speech.aspx?news_sid=20140609qzmN4smytfim" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609qzmN4smytfim)
+Source: [<a href="https://www.ema.gov.sg/news-events/news/speeches/address-by-ms-jane-lim-divisional-director-ema-at-electric-vehicles-lessons-challenges-and-opportunities-seminar" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609qzmN4smytfim)
