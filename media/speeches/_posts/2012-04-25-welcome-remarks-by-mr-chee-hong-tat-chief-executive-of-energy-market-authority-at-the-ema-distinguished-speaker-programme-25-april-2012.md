@@ -33,4 +33,4 @@ It is now my pleasure to invite Dr Heyzer on stage to deliver her address. Dr He
 
 
 
-Source: [<a href="https://www.ema.gov.sg/news-events/news/speeches/welcome-remarks-by-mr-chee-hong-tat-chief-executive-energy-market-authority-at-the-ema-distinguished-speaker-programme" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609BwJXuKETbUoi)
+Source: [<a href="https://www.ema.gov.sg/news-events/news/speeches/welcome-remarks-by-mr-chee-hong-tat-chief-executive-energy-market-authority-at-the-ema-distinguished-speaker-programme" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/news-events/news/speeches/welcome-remarks-by-mr-chee-hong-tat-chief-executive-energy-market-authority-at-the-ema-distinguished-speaker-programme)
