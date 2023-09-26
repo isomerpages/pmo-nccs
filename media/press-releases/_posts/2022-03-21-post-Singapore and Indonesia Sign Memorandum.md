@@ -18,5 +18,5 @@ Under the MoU, a workplan relating to the abovementioned areas of cooperation wi
 
 <br>
 
-![Singapore-Indonesia MoU 2022 Press release image.jpg](/images/Singapore-Indonesia%20MoU%202022%20Press%20release%20image.jpg)
+![Singapore-Indonesia MoU 2022 Press release image.jpg](/images/singapore-indonesia%20mou%202022%20press%20release%20image.jpg)
 <br>*Singapore’s Senior Minister and Coordinating Minister for National Security Teo Chee Hean and Indonesia’s Coordinating Minister for Maritime and Investment Affairs Luhut Binsar Pandjaitan signed a Memorandum of Understanding (MoU) concerning Cooperation on Climate Change and Sustainability today. (Photo credit: Ministry of Communications and Information, Singapore)*

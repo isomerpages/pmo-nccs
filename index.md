@@ -37,7 +37,7 @@ sections:
         Strategy, and revised our 2030 Nationally Determined Contribution (NDC).
       button: READ MORE
       url: /media/press-releases/singapore-commits-to-achieve-net-zero/
-      image: /images/infopic slide 1_Cropped.jpg
+      image: /images/infopic slide 1_cropped.jpg
       alt: Image alt text
   - infopic:
       title: <font size=6.5>SINGAPORE’S CLIMATE AMBITION AND REVISED CARBON TAX
@@ -50,7 +50,7 @@ sections:
       button: READ MORE
       url: /media/press-release/singapore-will-raise-climate-ambition
       alt: Members of the Ministry
-      image: /images/CarbonTaxGlobe.png
+      image: /images/carbontaxglobe.png
   - resources:
       "0":
         title: Media
