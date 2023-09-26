@@ -2,7 +2,7 @@
 layout: post
 title: Niam Chiang Meng Retires from Administrative Service; NPTD and NCCS to Join Strategy Group, PMO
 subtitle: 07 Jul 2016
-permalink: /media/press-release/niam-chiang-meng-retires-from-administrative-service-nptd-and-nccs-to-join-strategy-group-pmo
+permalink: /media/press-release/niam-chiang-meng-retires-from-administrative-service-nptd-and-nccs-to-join-strategy-group-pmo/
 ---
 
 

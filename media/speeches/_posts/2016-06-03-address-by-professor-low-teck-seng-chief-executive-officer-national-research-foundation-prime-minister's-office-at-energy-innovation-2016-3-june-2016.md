@@ -2,7 +2,7 @@
 layout: post
 title: Address by Professor Low Teck Seng, Chief Executive Officer, National Research Foundation, Prime Minister's Office, at Energy Innovation 2016
 subtitle: 3 Jun 2016
-permalink: /media/speeches/address-by-professor-low-teck-seng-chief-executive-officer-national-research-foundation-prime-minister's-office-at-energy-innovation-2016-3-june-2016
+permalink: /media/speeches/address-by-professor-low-teck-seng-chief-executive-officer-national-research-foundation-prime-minister's-office-at-energy-innovation-2016-3-june-2016/
 ---
 
 Ladies and Gentlemen,

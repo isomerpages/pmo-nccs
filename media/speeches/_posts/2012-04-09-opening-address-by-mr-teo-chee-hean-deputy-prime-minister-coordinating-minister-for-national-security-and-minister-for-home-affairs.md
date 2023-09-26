@@ -2,7 +2,7 @@
 layout: post
 title: Opening Address by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Teo Chee Hean at the 6th Asia-Pacific Programme for Senior National Security Officers (APPSNO)
 subtitle: 9 Apr 2012
-permalink: /media/speeches/opening-address-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs
+permalink: /media/speeches/opening-address-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs/
 ---
 
 Mr Eddie Teo, 

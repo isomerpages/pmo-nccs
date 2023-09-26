@@ -4,7 +4,7 @@ title: Speech by Minister for the Environment and Water Resources Dr Vivian
   Balakrishnan at the Official Opening of the Centre for Climate Research
   Singapore
 subtitle: 26 Mar 2013
-permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-official-opening-of-the-centre-for-climate-research-singapore-on-26-march-2013
+permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-official-opening-of-the-centre-for-climate-research-singapore-on-26-march-2013/
 ---
 **Introduction**
 

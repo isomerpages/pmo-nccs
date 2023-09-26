@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Minister, Prime Minister's Office and Second Minister for Home Affairs and Trade & Industry S Iswaran at the Asia Pacific Sustainability Forum at Resorts World Sentosa
 subtitle: 17 Oct 2011
-permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-asia-pacific-sustainability-forum-at-resorts
+permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-asia-pacific-sustainability-forum-at-resorts/
 ---
 
 Mr Ho Meng Kit, 

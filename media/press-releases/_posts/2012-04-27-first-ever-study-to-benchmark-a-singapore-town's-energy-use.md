@@ -2,7 +2,7 @@
 layout: post
 title: First-Ever Study to Benchmark a Singapore Town's Energy Use
 subtitle: 27 Apr 2012
-permalink: /media/press-release/first-ever-study-to-benchmark-a-singapore-town's-energy-use
+permalink: /media/press-release/first-ever-study-to-benchmark-a-singapore-town's-energy-use/
 ---
 
 The Energy Efficiency Programme Office (E2PO) and Siemens Pte Ltd will be undertaking a first-of-its-kind study in Singapore that will offer useful insights into the energy use patterns across different sectors such as the residential, commercial, transport and info-communication sectors within a town, using Tampines as a representative town. This is part of E2PO’s initiative to promote emerging energy efficient technologies and innovation as well as the adoption of energy efficiency in Singapore.

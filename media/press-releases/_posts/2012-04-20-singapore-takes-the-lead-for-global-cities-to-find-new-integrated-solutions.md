@@ -2,7 +2,7 @@
 layout: post
 title: Singapore Takes the Lead for Global Cities to Find New Integrated Solutions
 subtitle: 20 Apr 2012
-permalink: /media/press-release/singapore-takes-the-lead-for-global-cities-to-find-new-integrated-solutions
+permalink: /media/press-release/singapore-takes-the-lead-for-global-cities-to-find-new-integrated-solutions/
 ---
 
 Singapore is taking the lead in encouraging cities to find new integrated solutions in resolving pressing urbanisation challenges around the world. For the first time, the World Cities Summit, the Singapore International Water Week and the inaugural CleanEnviro Summit Singapore will be held together from 1 to 5 July 2012. Beyond covering the latest urbanisation challenges and solutions, this expanded platform will see more in-depth discussions on water and waste management strategies and technologies as well.

@@ -3,7 +3,7 @@ layout: post
 title: Keynote Address by Minister for the Environment and Water Resources
   Masagos Zulkifli at the Green Finance Conference
 subtitle: 5 Jun 2018
-permalink: /media/speeches/keynote-address-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-green-finance-conference-5-june-2018
+permalink: /media/speeches/keynote-address-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-green-finance-conference-5-june-2018/
 ---
 Delegates  
 

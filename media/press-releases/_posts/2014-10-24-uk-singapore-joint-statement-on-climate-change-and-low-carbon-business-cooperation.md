@@ -2,7 +2,7 @@
 layout: post
 title: UK-Singapore Joint Statement on Climate Change and Low Carbon Business Cooperation
 subtitle: 24 Oct 2014
-permalink: /media/press-release/uk-singapore-joint-statement-on-climate-change-and-low-carbon-business-cooperation
+permalink: /media/press-release/uk-singapore-joint-statement-on-climate-change-and-low-carbon-business-cooperation/
 ---
 
 ### JOINT STATEMENT BY UK AND SINGAPORE  

@@ -2,7 +2,7 @@
 layout: post
 title: Government Seeks Views on Singapore’s Climate Action Plans
 subtitle: 20 Jan 2015
-permalink: /media/press-release/government-seeks-views-on-singapore-s-climate-action-plans
+permalink: /media/press-release/government-seeks-views-on-singapore-s-climate-action-plans/
 ---
 
 

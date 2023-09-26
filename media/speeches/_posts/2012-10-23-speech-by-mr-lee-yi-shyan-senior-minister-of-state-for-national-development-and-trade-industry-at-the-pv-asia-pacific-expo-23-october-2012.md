@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Senior Minister of State for National Development and Trade & Industry Lee Yi Shyan at the PV Asia Pacific Expo
 subtitle: 23 Oct 2012
-permalink: /media/speeches/speech-by-mr-lee-yi-shyan-senior-minister-of-state-for-national-development-and-trade-industry-at-the-pv-asia-pacific-expo-23-october-2012
+permalink: /media/speeches/speech-by-mr-lee-yi-shyan-senior-minister-of-state-for-national-development-and-trade-industry-at-the-pv-asia-pacific-expo-23-october-2012/
 ---
 
 Your Excellencies

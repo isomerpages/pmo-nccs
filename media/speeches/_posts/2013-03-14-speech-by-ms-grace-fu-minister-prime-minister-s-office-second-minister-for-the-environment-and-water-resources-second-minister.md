@@ -4,7 +4,7 @@ title: Speech by Minister, Prime Minister’s Office, Second Minister for the
   Environment and Water Resources & Second Minister for Foreign Affairs, Grace
   Fu at the Eco-Products International Fair 2013
 subtitle: 14 Mar 2013
-permalink: /media/speeches/speech-by-ms-grace-fu-minister-prime-minister-s-office-second-minister-for-the-environment-and-water-resources-second-minister
+permalink: /media/speeches/speech-by-ms-grace-fu-minister-prime-minister-s-office-second-minister-for-the-environment-and-water-resources-second-minister/
 ---
 Mr Teisuke Kitayama,  
 Chairperson of Green Productivity Advisory Committee, Japan

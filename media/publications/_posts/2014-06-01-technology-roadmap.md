@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technology Roadmaps
-permalink: /media/publications/technology-roadmap
+permalink: /media/publications/technology-roadmap/
 ---
 **Transforming our industry, economy and society with innovation**
 

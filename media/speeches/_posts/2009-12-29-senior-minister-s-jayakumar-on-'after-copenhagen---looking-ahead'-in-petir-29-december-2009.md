@@ -2,7 +2,7 @@
 layout: post
 title: Senior Minister S Jayakumar on 'After Copenhagen - Looking Ahead' in PETIR
 subtitle: 29 Dec 2009
-permalink: /media/speeches/senior-minister-s-jayakumar-on-'after-copenhagen---looking-ahead'-in-petir-29-december-2009
+permalink: /media/speeches/senior-minister-s-jayakumar-on-'after-copenhagen---looking-ahead'-in-petir-29-december-2009/
 ---
 
 

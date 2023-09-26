@@ -2,7 +2,7 @@
 layout: post
 title: Speech by President Tony Tan at the Opening Ceremony and Welcome Reception of the World Cities Summit, Singapore International Water Week and Cleanenviro Summit, Sands Expo and Convention Centre
 subtitle: 10 Jul 2016
-permalink: /media/speeches/speech-by-president-tony-tan-at-the-opening-ceremony-and-welcome-reception-of-the-world-cities-summit-singapore-international-water-week-and-cleanenviro-summit-on-10-july-2016
+permalink: /media/speeches/speech-by-president-tony-tan-at-the-opening-ceremony-and-welcome-reception-of-the-world-cities-summit-singapore-international-water-week-and-cleanenviro-summit-on-10-july-2016/
 ---
 
 Excellencies

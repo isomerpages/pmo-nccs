@@ -2,7 +2,7 @@
 layout: post
 title: Revised Energy Labels and Rating System for Air-Conditioners, Refrigerators and Clothes Dryers
 subtitle: 22 Aug 2014
-permalink: /media/press-release/revised-energy-labels-and-rating-system-for-air-conditioners-refrigerators-and-clothes-dryers
+permalink: /media/press-release/revised-energy-labels-and-rating-system-for-air-conditioners-refrigerators-and-clothes-dryers/
 ---
 
 *Revised energy label to help consumers more easily select appliances based on energy efficiency and energy cost information*

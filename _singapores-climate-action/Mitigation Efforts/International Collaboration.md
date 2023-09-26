@@ -1,6 +1,6 @@
 ---
 title: International Collaboration
-permalink: /singapores-climate-action/Mitigation-Efforts/internationalcollaboration/
+permalink: /singapores-climate-action/mitigation-efforts/internationalcollaboration/
 description: ""
 third_nav_title: Mitigation Efforts
 ---

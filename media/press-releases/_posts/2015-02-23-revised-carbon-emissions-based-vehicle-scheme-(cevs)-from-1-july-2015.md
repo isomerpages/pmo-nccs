@@ -2,7 +2,7 @@
 layout: post
 title: Revised Carbon Emissions-Based Vehicle Scheme (CEVS) From 1 July 2015
 subtitle: 23 Feb 2015
-permalink: /media/press-release/revised-carbon-emissions-based-vehicle-scheme-(cevs)-from-1-july-2015
+permalink: /media/press-release/revised-carbon-emissions-based-vehicle-scheme-(cevs)-from-1-july-2015/
 ---
 
 As announced by Deputy Prime Minister and Minister for Finance Tharman Shanmugaratnam in the 2015 Budget Statement, the Carbon Emissions-Based Vehicle Scheme (CEVS) will be revised for all new cars, taxis and newly imported used cars registered with effect from 1 July 2015.

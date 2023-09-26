@@ -2,7 +2,7 @@
 layout: post
 title: 'Speech by Mr Teo Eng Cheong, Chief Executive Officer, International Enterprise (IE) Singapore, World LNG Series: Asia Pacific Summit'
 subtitle: 20 Sep 2011
-permalink: /media/speeches/speech-by-mr-teo-eng-cheong-chief-executive-officer-international-enterprise-(ie)-singapore-world-lng-series-asia-pacific-summit-20-september-2011
+permalink: /media/speeches/speech-by-mr-teo-eng-cheong-chief-executive-officer-international-enterprise-(ie)-singapore-world-lng-series-asia-pacific-summit-20-september-2011/
 ---
 
 Distinguished Guests, 

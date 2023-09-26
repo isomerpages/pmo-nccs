@@ -2,7 +2,7 @@
 layout: post
 title: Visit by Deputy Prime Minister, Coordinating Minister for National Security and Minister for Home Affairs Teo Chee Hean to Saudi Arabia and Qatar, 2-6 December 2012, and Visit by Minister for the Environment and Water Resources Dr Vivian Balakrishnan to Qatar, 3 – 8 December 2012
 subtitle: 2 Dec 2012
-permalink: /media/press-release/visit-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs
+permalink: /media/press-release/visit-by-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs/
 ---
 
 Deputy Prime Minister, Coordinating Minister for National Security, Minister for Home Affairs and Chairman of the Inter-Ministerial Committee on Climate Change (IMCCC) Teo Chee Hean will be visiting Riyadh, Saudi Arabia, from 2 – 4 December 2012 and Doha, Qatar from 4 – 6 December 2012. Minister for the Environment and Water Resources Dr Vivian Balakrishnan will also be visiting Doha, Qatar, from 3 – 8 December 2012.

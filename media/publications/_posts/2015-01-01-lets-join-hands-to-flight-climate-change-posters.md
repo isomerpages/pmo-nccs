@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Education Materials : "Let’s join hands to fight climate change” Posters'
-permalink: /media/publications/lets-join-hands-to-flight-climate-change-posters
+permalink: /media/publications/lets-join-hands-to-flight-climate-change-posters/
 ---
 ![Let’s join hands to fight climate change” Posters](/images/lets-join-hands-to-fight-climate-change-posters.jpg "Let’s join hands to fight climate change” Posters"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 

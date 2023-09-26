@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Public Sector Sustainability Plan
-permalink: /media/publications/public-sector-sustainability-plan
+permalink: /media/publications/public-sector-sustainability-plan/
 ---
 ![Public Sector Sustainability Plan](/images/public-sector-sustainability-plan.png "Public Sector Sustainability Plan"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 

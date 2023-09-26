@@ -4,7 +4,7 @@ title: Opening Speech by Minister for the Environment and Water Resources Yaacob
   Ibrahim at the Better Air Quality 2010 Conference on Air Quality in a Changing
   Climate
 subtitle: 9 Nov 2010
-permalink: /media/speeches/opening-speech-by-minister-for-the-environment-and-water-resources-yaacob-ibrahim-at-the-better-air-quality-2010-conference-on-air-quality-in-a-changing-climate-9-november-2010
+permalink: /media/speeches/opening-speech-by-minister-for-the-environment-and-water-resources-yaacob-ibrahim-at-the-better-air-quality-2010-conference-on-air-quality-in-a-changing-climate-9-november-2010/
 ---
 Ms Janette Sadik-Khan  
 Commissioner, New York City Department of Transportation

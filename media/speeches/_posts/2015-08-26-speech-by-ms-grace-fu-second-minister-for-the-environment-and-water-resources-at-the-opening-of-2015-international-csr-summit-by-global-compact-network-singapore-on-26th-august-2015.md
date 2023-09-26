@@ -4,7 +4,7 @@ title: Speech by Second Minister for the Environment and Water Resources Grace
   Fu at the Opening of 2015 International CSR Summit by Global Compact Network
   Singapore
 subtitle: 26 Aug 2015
-permalink: /media/speeches/speech-by-ms-grace-fu-second-minister-for-the-environment-and-water-resources-at-the-opening-of-2015-international-csr-summit-by-global-compact-network-singapore-on-26th-august-2015
+permalink: /media/speeches/speech-by-ms-grace-fu-second-minister-for-the-environment-and-water-resources-at-the-opening-of-2015-international-csr-summit-by-global-compact-network-singapore-on-26th-august-2015/
 ---
 Mr Kwek Leng Joo, 
 <br>President of Global Compact Network Singapore,  

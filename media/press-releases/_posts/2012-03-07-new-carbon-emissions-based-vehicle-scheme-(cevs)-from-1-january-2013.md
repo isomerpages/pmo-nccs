@@ -2,7 +2,7 @@
 layout: post
 title: New Carbon Emissions-Based Vehicle Scheme (CEVS) from 1 January 2013
 subtitle: 7 Mar 2012
-permalink: /media/press-release/new-carbon-emissions-based-vehicle-scheme-(cevs)-from-1-january-2013
+permalink: /media/press-release/new-carbon-emissions-based-vehicle-scheme-(cevs)-from-1-january-2013/
 ---
 
 *New scheme incentivises buyers to shift to low emission models*

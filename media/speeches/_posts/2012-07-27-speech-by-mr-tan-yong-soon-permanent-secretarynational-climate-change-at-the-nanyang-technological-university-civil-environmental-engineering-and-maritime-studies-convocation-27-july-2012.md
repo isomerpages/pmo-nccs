@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Permanent Secretary (National Climate Change) Tan Yong Soon at the Nanyang Technological University Civil & Environmental Engineering and Maritime Studies Convocation
 subtitle: 27 Jul 2012
-permalink: /media/speeches/speech-by-mr-tan-yong-soon-permanent-secretarynational-climate-change-at-the-nanyang-technological-university-civil-environmental-engineering-and-maritime-studies-convocation-27-july-2012
+permalink: /media/speeches/speech-by-mr-tan-yong-soon-permanent-secretarynational-climate-change-at-the-nanyang-technological-university-civil-environmental-engineering-and-maritime-studies-convocation-27-july-2012/
 ---
 
 Mr Pro-Chancellor,

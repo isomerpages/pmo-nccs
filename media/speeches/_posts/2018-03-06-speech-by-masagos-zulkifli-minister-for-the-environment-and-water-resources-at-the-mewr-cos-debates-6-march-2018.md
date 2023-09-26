@@ -3,7 +3,7 @@ layout: post
 title: Speech by Minister for the Environment and Water Resources Masagos
   Zulkifli at the MEWR COS debates
 subtitle: 06 Mar 2018
-permalink: /media/press-release/speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-mewr-cos-debates-6-march-2018
+permalink: /media/press-release/speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-mewr-cos-debates-6-march-2018/
 ---
 **Introduction**
 

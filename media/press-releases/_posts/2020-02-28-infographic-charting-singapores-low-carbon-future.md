@@ -2,7 +2,7 @@
 layout: post
 title:  "Infographic: Charting Singapore's Low-Carbon Future"
 date:   2020-02-28
-permalink: "/media/press-release/infographic-charting-singapores-low-carbon-future"
+permalink: /media/press-release/infographic-charting-singapores-low-carbon-future/
 ---
 
 

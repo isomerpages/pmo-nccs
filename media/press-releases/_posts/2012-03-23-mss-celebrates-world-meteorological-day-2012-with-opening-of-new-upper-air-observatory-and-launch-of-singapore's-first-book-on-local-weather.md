@@ -2,7 +2,7 @@
 layout: post
 title: MSS Celebrates World Meteorological Day 2012 with Opening of New Upper Air Observatory and Launch of Singapore's First Book on Local Weather
 subtitle: 23 Mar 2012
-permalink: /media/press-release/mss-celebrates-world-meteorological-day-2012-with-opening-of-new-upper-air-observatory-and-launch-of-singapore's-first-book-on-local-weather
+permalink: /media/press-release/mss-celebrates-world-meteorological-day-2012-with-opening-of-new-upper-air-observatory-and-launch-of-singapore's-first-book-on-local-weather/
 ---
 
 Students, teachers and the general public will be able to better understand Singapore’s weather with The Weather and Climate of Singapore, a book written by Ms Micheline Fong, a senior meteorologist with the Meteorological Service Singapore (MSS). Minister for the Environment and Water Resources, Dr Vivian Balakrishnan, officially launches The Weather and Climate of Singapore at the new Upper Air Observatory as MSS celebrates World Meteorological Day 2012.

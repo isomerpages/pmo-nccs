@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Senior Minister Of State, Ministry of Trade And Industry & Ministry Of National Development Lee Yi Shyan at the UK-Singapore Green Growth And Business Forum
 subtitle: 3 Jun 2014
-permalink: /media/speeches/speech-by-mr-lee-yi-shyan-senior-minister-of-state-ministry-of-trade-and-industry-ministry-of-national-development-at-the-uk-singapore-green-growth-and-business-forum-3-june-2014
+permalink: /media/speeches/speech-by-mr-lee-yi-shyan-senior-minister-of-state-ministry-of-trade-and-industry-ministry-of-national-development-at-the-uk-singapore-green-growth-and-business-forum-3-june-2014/
 ---
 
 The Right Honourable Greg Clark, 

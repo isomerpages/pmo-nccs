@@ -3,7 +3,7 @@ layout: post
 title: Good Progress Made in a Year, on Implementation of the Sustainable
   Singapore Blueprint 2015
 subtitle: 31 Oct 2015
-permalink: /media/press-release/good-progress-made-in-a-year-on-implementation-of-the-sustainable-singapore-blueprint-2015
+permalink: /media/press-release/good-progress-made-in-a-year-on-implementation-of-the-sustainable-singapore-blueprint-2015/
 ---
 The Sustainable Singapore Blueprint (SSB) 2015 has made good progress since its launch by Prime Minister Lee Hsien Loong in November 2014.
 

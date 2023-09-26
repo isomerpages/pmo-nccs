@@ -3,7 +3,7 @@ layout: post
 title: Speech by Minister for the Environment and Water Resources Masagos
   Zulkifli at the Opening of the Sustainable Singapore Gallery
 subtitle: 2 Jun 2018
-permalink: /media/speeches/speech-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-opening-of-the-sustainable-singapore-gallery-2-june-2018
+permalink: /media/speeches/speech-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-opening-of-the-sustainable-singapore-gallery-2-june-2018/
 ---
 Distinguished Guests  
 

@@ -3,7 +3,7 @@ layout: post
 title: Special ASEAN Ministerial Meeting on Climate Action (SAMCA) and
   Expanded-SAMCA (E-SAMCA)
 subtitle: 10 JUL 2018
-permalink: /media/press-release/special-asean-ministerial-meeting-on-climate-action-(samca)-and-expanded-samca-(e-samca)
+permalink: /media/press-release/special-asean-ministerial-meeting-on-climate-action-(samca)-and-expanded-samca-(e-samca)/
 ---
 **Region reaffirms commitment to Paris Agreement**  
 **Climate Action Package launched to develop region’s capacity in climate action**

@@ -2,7 +2,7 @@
 layout: post
 title: UNFCCC Executive Secretary Christiana Figueres to Visit Singapore, 28 February - 2 March 2015
 subtitle: 27 Feb 2015
-permalink: /media/press-release/unfccc-executive-secretary-christiana-figueres-to-visit-singapore-28-february-2-march-2015
+permalink: /media/press-release/unfccc-executive-secretary-christiana-figueres-to-visit-singapore-28-february-2-march-2015/
 ---
 
 Executive Secretary of the United Nations Framework Convention on Climate Change (UNFCCC) Ms Christiana Figueres will visit Singapore from 28 February to 2 March 2015. Ms Figueres oversees the UNFCCC Secretariat which supports the international climate change negotiations and cooperation efforts.  

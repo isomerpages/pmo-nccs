@@ -1,6 +1,6 @@
 ---
 title: Buildings
-permalink: /singapores-climate-action/Mitigation-Efforts/Buildings/
+permalink: /singapores-climate-action/mitigation-efforts/buildings/
 description: ""
 third_nav_title: Mitigation Efforts
 ---

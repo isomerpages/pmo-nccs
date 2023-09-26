@@ -2,7 +2,7 @@
 layout: post
 title: App Solutions for the Environment
 subtitle: 20 Apr 2012
-permalink: /media/press-release/app-solutions-for-the-environment
+permalink: /media/press-release/app-solutions-for-the-environment/
 ---
 
 *NEA launches new mobile apps and encourages co-creation of environmental solutions*

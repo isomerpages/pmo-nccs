@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Deputy Prime Minister Teo Chee Hean at the National Climate Change Competition 2015 Prize Award Ceremony
 subtitle: 20 Nov 2015
-permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2015-prize-award-ceremony-on-20-november-2015
+permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2015-prize-award-ceremony-on-20-november-2015/
 ---
 
 Distinguished Guests,

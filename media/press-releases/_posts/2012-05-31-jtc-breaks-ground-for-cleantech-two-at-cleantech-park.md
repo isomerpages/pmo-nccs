@@ -2,7 +2,7 @@
 layout: post
 title: JTC Breaks Ground for CleanTech Two at CleanTech Park
 subtitle: 31 May 2012
-permalink: /media/press-release/jtc-breaks-ground-for-cleantech-two-at-cleantech-park
+permalink: /media/press-release/jtc-breaks-ground-for-cleantech-two-at-cleantech-park/
 ---
 
 At a ground breaking ceremony today, JTC Corporation (JTC) kicked off the construction of its second building, named CleanTech Two, at CleanTech Park to meet the demand from industry players who need flexible spaces that can accommodate both dry and wet laboratories for cleantech-related R&D activities. Located next to its first building, CleanTech One, CleanTech Two will offer 22,300 sqm of office spaces, laboratories and workshop spaces on a 0.9 hectare site. The building will integrate unique sustainable features and is slated for phased completion by the third quarter of 2014.

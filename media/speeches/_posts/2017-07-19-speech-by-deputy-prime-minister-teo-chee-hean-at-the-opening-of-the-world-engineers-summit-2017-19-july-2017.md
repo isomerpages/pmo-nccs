@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Deputy Prime Minister Teo Chee Hean at the Opening of the World Engineers Summit 2017
 subtitle: 19 Jul 2017
-permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-opening-of-the-world-engineers-summit-2017-19-july-2017
+permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-opening-of-the-world-engineers-summit-2017-19-july-2017/
 ---
 
 

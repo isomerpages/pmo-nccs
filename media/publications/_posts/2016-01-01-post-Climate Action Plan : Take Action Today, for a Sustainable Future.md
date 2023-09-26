@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Climate Action Plan : Take Action Today, for a Sustainable Future"
-permalink: /media/publications/climate-plan-take-action-today-for-a-sustainable-future
+permalink: /media/publications/climate-plan-take-action-today-for-a-sustainable-future/
 date: 2016-01-01
 description: ""
 ---

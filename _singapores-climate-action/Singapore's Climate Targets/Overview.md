@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /singapores-climate-action/Singapores-Climate-Targets/overview/
+permalink: /singapores-climate-action/singapores-climate-targets/overview/
 description: ""
 third_nav_title: Singapore's Climate Targets
 ---

@@ -1,6 +1,6 @@
 ---
 title: Power
-permalink: /singapores-climate-action/Mitigation-Efforts/power/
+permalink: /singapores-climate-action/mitigation-efforts/power/
 description: ""
 third_nav_title: Mitigation Efforts
 ---

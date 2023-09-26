@@ -1,6 +1,6 @@
 ---
 title: Transport
-permalink: /singapores-climate-action/Mitigation-Efforts/transport/
+permalink: /singapores-climate-action/mitigation-efforts/transport/
 description: ""
 third_nav_title: Mitigation Efforts
 ---

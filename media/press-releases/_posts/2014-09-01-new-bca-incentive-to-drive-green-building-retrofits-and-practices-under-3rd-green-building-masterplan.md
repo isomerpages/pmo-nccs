@@ -2,7 +2,7 @@
 layout: post
 title: New BCA Incentive to Drive Green Building Retrofits and Practices Under 3<sup>rd</sup> Green Building Masterplan
 subtitle: 01 Sept 2014
-permalink: /media/press-release/new-bca-incentive-to-drive-green-building-retrofits-and-practices-under-3rd-green-building-masterplan
+permalink: /media/press-release/new-bca-incentive-to-drive-green-building-retrofits-and-practices-under-3rd-green-building-masterplan/
 ---
 
 - *[<a href="/files/docs/default-source/news-documents/50mil-green-mark-incentive-scheme-for-existing-buildings-and-premises-(gmis-ebp).pdf" target="_blank">New $50 million Green Mark incentive scheme for Existing Buildings and Premises (GMIS-EBP) will help building owners and tenants to undertake energy efficiency improvements</a>](/files/docs/default-source/news-documents/50mil-green-mark-incentive-scheme-for-existing-buildings-and-premises-(gmis-ebp).pdf)*

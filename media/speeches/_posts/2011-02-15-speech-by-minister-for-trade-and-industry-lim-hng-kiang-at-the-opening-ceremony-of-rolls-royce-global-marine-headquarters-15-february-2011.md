@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Minister for Trade and Industry Lim Hng Kiang at the Opening Ceremony of Rolls-Royce Global Marine Headquarters, 15 February 2011
 subtitle: 15 Feb 2011
-permalink: /media/speeches/speech-by-minister-for-trade-and-industry-lim-hng-kiang-at-the-opening-ceremony-of-rolls-royce-global-marine-headquarters-15-february-2011
+permalink: /media/speeches/speech-by-minister-for-trade-and-industry-lim-hng-kiang-at-the-opening-ceremony-of-rolls-royce-global-marine-headquarters-15-february-2011/
 ---
 
 

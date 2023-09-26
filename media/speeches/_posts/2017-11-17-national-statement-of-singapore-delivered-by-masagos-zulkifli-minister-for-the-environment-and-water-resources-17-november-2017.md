@@ -4,7 +4,7 @@ title: National Statement of Singapore Delivered by Minister for the Environment
   and Water Resources Masagos Zulkifli at the UNFCCC COP-23/ CMP-13/ CMA1.2 High
   Level Meetings
 subtitle: 17 Nov 2017
-permalink: /media/speeches/national-statement-of-singapore-delivered-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-17-november-2017
+permalink: /media/speeches/national-statement-of-singapore-delivered-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-17-november-2017/
 ---
 Mr President,
 

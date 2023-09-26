@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Education Materials : Stop Melting My Home"
-permalink: /media/publications/stop-melting-my-home
+permalink: /media/publications/stop-melting-my-home/
 ---
 ![Stop Melting My Home](/images/stop-melting-my-home.jpg "Stop Melting My Home"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 

@@ -3,7 +3,7 @@ layout: post
 title: Minister for the Environment and Water Resources Dr Vivian Balakrishnan
   to Attend US RIO+2.0 Conference in California, USA, 2 - 4 February 2012
 subtitle: 1 Feb 2012
-permalink: /media/press-release/minister-vivian-balakrishnan-to-attend-us-rio-20-conference-in-california-usa-24-february-2012
+permalink: /media/press-release/minister-vivian-balakrishnan-to-attend-us-rio-20-conference-in-california-usa-24-february-2012/
 ---
 Minister for the Environment and Water Resources Dr Vivian Balakrishnan will be attending the US Rio+2.0 Conference to be held from 2-4 February 2012 in Palo Alto, California, United States of America.
 

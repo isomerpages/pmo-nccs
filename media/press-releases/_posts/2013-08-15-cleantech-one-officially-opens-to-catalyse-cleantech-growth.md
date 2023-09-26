@@ -2,7 +2,7 @@
 layout: post
 title: CleanTech One Officially Opens to Catalyse CleanTech Growth
 subtitle: 15 Aug 2013
-permalink: /media/press-release/cleantech-one-officially-opens-to-catalyse-cleantech-growth
+permalink: /media/press-release/cleantech-one-officially-opens-to-catalyse-cleantech-growth/
 ---
 
 JTC Corporation's (JTC) CleanTech One, the first development at CleanTech Park, was officially opened by Minister for Trade & Industry Mr Lim Hng Kiang this morning.

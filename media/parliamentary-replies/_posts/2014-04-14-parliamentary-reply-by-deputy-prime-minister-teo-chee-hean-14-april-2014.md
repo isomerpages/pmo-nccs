@@ -4,7 +4,7 @@ title: Parlimentary Reply by Deputy Prime Minister Teo Chee Hean to
   Parliamentary Question on Whole-of-Government Approach to UN IPCC
   Recommendations and Singapore's Commitment to Climate Action
 subtitle: 14 Apr 2014
-permalink: /media/speeches/parliamentary-reply-by-deputy-prime-minister-teo-chee-hean-14-april-2014
+permalink: /media/speeches/parliamentary-reply-by-deputy-prime-minister-teo-chee-hean-14-april-2014/
 ---
 **ENHANCING COMMITMENT TO CLIMATE CHANGE**
 

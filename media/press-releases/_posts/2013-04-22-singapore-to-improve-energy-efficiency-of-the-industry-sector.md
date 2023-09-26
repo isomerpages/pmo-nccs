@@ -2,7 +2,7 @@
 layout: post
 title: Singapore to Improve Energy Efficiency of the Industry Sector
 subtitle: 22 Apr 2013
-permalink: /media/press-release/singapore-to-improve-energy-efficiency-of-the-industry-sector
+permalink: /media/press-release/singapore-to-improve-energy-efficiency-of-the-industry-sector/
 ---
 
 *NEA introduces mandatory energy management requirements to reduce energy use and greenhouse gas emissions*

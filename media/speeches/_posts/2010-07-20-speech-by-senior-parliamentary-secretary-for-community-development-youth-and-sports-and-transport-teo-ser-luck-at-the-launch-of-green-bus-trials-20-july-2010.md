@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Senior Parliamentary Secretary for Community Development, Youth and Sports, and Transport Teo Ser Luck at the Launch of Green Bus Trials
 subtitle: 20 Jul 2010
-permalink: /media/speeches/speech-by-senior-parliamentary-secretary-for-community-development-youth-and-sports-and-transport-teo-ser-luck-at-the-launch-of-green-bus-trials-20-july-2010
+permalink: /media/speeches/speech-by-senior-parliamentary-secretary-for-community-development-youth-and-sports-and-transport-teo-ser-luck-at-the-launch-of-green-bus-trials-20-july-2010/
 ---
 
 Mr Gan Juay Kiat 

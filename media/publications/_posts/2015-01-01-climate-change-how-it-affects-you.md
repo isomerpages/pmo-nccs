@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Education Materials : Climate Change : How It Affects You"
-permalink: /media/publications/climate-change-how-it-affects-you
+permalink: /media/publications/climate-change-how-it-affects-you/
 ---
 ![Education Materials : Climate Change : How It Affects You](/images/climate%20change%20how%20it%20affects%20you.png)
 

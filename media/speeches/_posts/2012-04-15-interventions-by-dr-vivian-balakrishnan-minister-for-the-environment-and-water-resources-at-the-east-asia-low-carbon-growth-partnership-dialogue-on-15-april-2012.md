@@ -3,7 +3,7 @@ layout: post
 title: Interventions by Minister for the Environment and  Water Resources Dr
   Vivian Balakrishnan at the East Asia Low Carbon Growth Partnership Dialogue
 subtitle: 15 Apr 2012
-permalink: /media/speeches/interventions-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-east-asia-low-carbon-growth-partnership-dialogue-on-15-april-2012
+permalink: /media/speeches/interventions-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-east-asia-low-carbon-growth-partnership-dialogue-on-15-april-2012/
 ---
 **Preamble**  
 Our vision for Singapore is a climate-resilient global city that is well-positioned for green growth. Our National Climate Change Strategy and plans will be set out in a document called the National Climate Change Strategy 2012. 

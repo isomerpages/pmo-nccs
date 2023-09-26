@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Parliamentary Secretary for National Development Dr Mohamad Maliki Bin Osman at the Finals of the BCA-CDL Green Sparks Competition 2010
 subtitle: 31 Aug 2010
-permalink: /media/speeches/speech-by-parliamentary-secretary-for-national-development-dr-mohamad-maliki-bin-osman-at-the-finals-of-the-bca-cdl-green-sparks-competition-2010-31-august-2010
+permalink: /media/speeches/speech-by-parliamentary-secretary-for-national-development-dr-mohamad-maliki-bin-osman-at-the-finals-of-the-bca-cdl-green-sparks-competition-2010-31-august-2010/
 ---
 
 Mr Lee Chuan Seng  

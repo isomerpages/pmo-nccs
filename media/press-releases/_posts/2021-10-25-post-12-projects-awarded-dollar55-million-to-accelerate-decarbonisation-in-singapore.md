@@ -1,7 +1,7 @@
 ---
 title: 12 Projects Awarded $55 Million to Accelerate Decarbonisation in Singapore
 date: 2021-10-25
-permalink: /media/press-release/12Projects-Awarded-55-Million
+permalink: /media/press-release/12projects-awarded-55-million/
 layout: post
 ---
 

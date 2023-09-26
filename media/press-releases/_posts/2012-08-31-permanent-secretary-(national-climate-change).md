@@ -2,7 +2,7 @@
 layout: post
 title: Permanent Secretary (National Climate Change)
 subtitle: 31 Aug 2012
-permalink: /media/press-release/permanent-secretary-(national-climate-change)
+permalink: /media/press-release/permanent-secretary-(national-climate-change)/
 ---
 
 Mr Tan Yong Soon, 57, Permanent Secretary (National Climate Change), Prime Minister’s Office, will retire from the Administrative Service on 1 October 2012 after 35 years of service in the public sector.

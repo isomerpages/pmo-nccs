@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Minister for Transport and Second Minister for Foreign Affairs Raymond Lim at the 16th Singapore International Bunkering Conference and Exhibition
 subtitle: 27 Oct 2010
-permalink: /media/speeches/speech-by-minister-for-transport-and-second-minister-for-foreign-affairs-raymond-lim-at-the-16th-singapore-international-bunkering-conference-and-exhibition-27-october-2010
+permalink: /media/speeches/speech-by-minister-for-transport-and-second-minister-for-foreign-affairs-raymond-lim-at-the-16th-singapore-international-bunkering-conference-and-exhibition-27-october-2010/
 ---
 
 Distinguished Guests,

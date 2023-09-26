@@ -2,7 +2,7 @@
 layout: post
 title: PUB to Build Fourth Desalination Plant
 subtitle: 03 Sept 2015
-permalink: /media/press-release/pub-to-build-fourth-desalination-plant
+permalink: /media/press-release/pub-to-build-fourth-desalination-plant/
 ---
 
 *Singapore’s latest desalination plant in Marina East will help meet water demand in the city area and strengthen Singapore’s drought resilience.*

@@ -2,7 +2,7 @@
 layout: post
 title: Results of Second National Climate Change Study Consistent with the Intergovernmental Panel on Climate Change's 5<sup>th</sup> Assessment Report in Projecting Global Sea-Level Rise, Higher Temperatures and More Extreme Rainfall in the Region
 subtitle: 15 Apr 2015
-permalink: /media/press-release/results-of-second-national-climate-change-study-consistent-with-the-intergovernmental-panel-on-climate-changes-5th-assessment-report-in-projecting
+permalink: /media/press-release/results-of-second-national-climate-change-study-consistent-with-the-intergovernmental-panel-on-climate-changes-5th-assessment-report-in-projecting/
 ---
 
 Meteorological Service Singapore’s (MSS) Centre for Climate Research Singapore (CCRS) has released the findings for Phase 1 of the Second National Climate Change Study at a meeting of the Climate Science Experts Network<sup>[1]</sup>. The outcomes of the new Singapore study are consistent with those of the Inter-governmental Panel on Climate Change (IPCC) 5<sup>th</sup> Assessment Report (AR5) which projects sea level rises globally, as well as higher temperatures and more extreme rainfall for Singapore and the surrounding region. The details are outlined in paragraphs 5-11 below.

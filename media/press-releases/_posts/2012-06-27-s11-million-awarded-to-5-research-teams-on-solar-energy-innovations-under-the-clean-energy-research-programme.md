@@ -2,7 +2,7 @@
 layout: post
 title: S$11 Million Awarded to 5 Research Teams on Solar Energy Innovations Under the Clean Energy Research Programme
 subtitle: 27 Jun 2012
-permalink: /media/press-release/s11-million-awarded-to-5-research-teams-on-solar-energy-innovations-under-the-clean-energy-research-programme
+permalink: /media/press-release/s11-million-awarded-to-5-research-teams-on-solar-energy-innovations-under-the-clean-energy-research-programme/
 ---
 
 The Energy Innovation Programme Office (EIPO), formerly known as the Clean Energy Programme Office (CEPO) announced the award of research grants totalling about S$11 million to 5 research teams under the fifth grant call of the Clean Energy Research Programme (CERP).

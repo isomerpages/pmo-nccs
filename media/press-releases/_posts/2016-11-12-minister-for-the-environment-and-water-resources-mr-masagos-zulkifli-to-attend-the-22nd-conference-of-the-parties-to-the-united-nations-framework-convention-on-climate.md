@@ -4,7 +4,7 @@ title: Minister for the Environment and Water Resources Masagos Zulkifli to
   Attend the 22<sup>nd</sup> Conference of the Parties to the United Nations
   Framework Convention on Climate Change in Marrakesh, Morocco
 subtitle: 12 Nov 2016
-permalink: /media/press-release/minister-for-the-environment-and-water-resources-mr-masagos-zulkifli-to-attend-the-22nd-conference-of-the-parties-to-the-united-nations-framework-convention-on-climate
+permalink: /media/press-release/minister-for-the-environment-and-water-resources-mr-masagos-zulkifli-to-attend-the-22nd-conference-of-the-parties-to-the-united-nations-framework-convention-on-climate/
 ---
 Minister for the Environment and Water Resources Mr Masagos Zulkifli will be in Marrakesh, Morocco from 13 to 19 November 2016 to attend the 22nd Conference of the Parties to the United Nations Framework Convention on Climate Change (COP-22) and related meetings[1]. The implementation of the Paris Agreement that entered into force on 4 November 2016 will be a key focus of COP-22. Singapore ratified the Paris Agreement on 21 September 2016.
 

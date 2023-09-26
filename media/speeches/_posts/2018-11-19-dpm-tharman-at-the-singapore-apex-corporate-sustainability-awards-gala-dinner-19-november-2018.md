@@ -2,7 +2,7 @@
 layout: post
 title:  Deputy Prime Minister Tharman at the Singapore Apex Corporate Sustainability Awards Gala Dinner 
 subtitle: 19 Nov 2018
-permalink: /media/speeches/dpm-tharman-at-the-singapore-apex-corporate-sustainability-awards-gala-dinner-19-november-2018
+permalink: /media/speeches/dpm-tharman-at-the-singapore-apex-corporate-sustainability-awards-gala-dinner-19-november-2018/
 ---
 
 

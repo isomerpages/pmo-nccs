@@ -2,7 +2,7 @@
 layout: post
 title: ​Address by Guest-Of-Honour, Minister for Trade and Industry (Industry), Mr S Iswaran, for Asia Clean Energy Summit (ACES) Opening Ceremony
 subtitle: 26 Oct 2015
-permalink: /media/speeches/address-by-guest-of-honour-minister-for-trade-and-industry-(industry)-mr-s-iswaran-for-asia-clean-energy-summit-(aces)-opening-ceremony
+permalink: /media/speeches/address-by-guest-of-honour-minister-for-trade-and-industry-(industry)-mr-s-iswaran-for-asia-clean-energy-summit-(aces)-opening-ceremony/
 ---
 
 

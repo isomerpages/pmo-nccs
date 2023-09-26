@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /singapores-climate-action/Mitigation-Efforts/overview/
+permalink: /singapores-climate-action/mitigation-efforts/overview/
 description: ""
 third_nav_title: Mitigation Efforts
 ---

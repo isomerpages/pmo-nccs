@@ -2,7 +2,7 @@
 layout: post
 title: Singapore Unveils National Technology Roadmaps to Address Energy and Climate Change Challenges
 subtitle: 30 Jul 2014
-permalink: /media/press-release/singapore-unveils-national-technology-roadmaps-to-address-energy-and-climate-change-challenges
+permalink: /media/press-release/singapore-unveils-national-technology-roadmaps-to-address-energy-and-climate-change-challenges/
 ---
 
 The National Climate Change Secretariat (NCCS) and the National Research Foundation (NRF), Prime Minister's Office, Singapore, unveiled today five national energy technology roadmaps that will guide government agencies in formulating their technology master plans and funding initiatives to secure Singapore's energy future and address climate change challenges.

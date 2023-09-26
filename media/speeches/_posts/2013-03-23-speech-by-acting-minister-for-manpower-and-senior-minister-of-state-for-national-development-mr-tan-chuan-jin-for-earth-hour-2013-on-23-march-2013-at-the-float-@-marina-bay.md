@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Acting Minister for Manpower and Senior Minister of State for National Development Tan Chuan-Jin for Earth Hour 2013 at the Float @ Marina Bay
 subtitle: 23 Mar 2013
-permalink: /media/speeches/speech-by-acting-minister-for-manpower-and-senior-minister-of-state-for-national-development-mr-tan-chuan-jin-for-earth-hour-2013-on-23-march-2013-at-the-float-@-marina-bay
+permalink: /media/speeches/speech-by-acting-minister-for-manpower-and-senior-minister-of-state-for-national-development-mr-tan-chuan-jin-for-earth-hour-2013-on-23-march-2013-at-the-float-@-marina-bay/
 ---
 
 A very good evening to all of you. It’s very good to see so many of you gathered here today and I understand that around Singapore and around the world, many people are gathered in different places to celebrate this.

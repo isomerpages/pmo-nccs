@@ -2,7 +2,7 @@
 layout: post
 title: Public Consultation and Perception Survey Reflect Strong Public Interest in Climate Change
 subtitle: 9 Feb 2012
-permalink: /media/press-release/public-consultation-and-perception-survey-reflect-strong-public-interest-in-climate-change
+permalink: /media/press-release/public-consultation-and-perception-survey-reflect-strong-public-interest-in-climate-change/
 ---
 As part of the development of the National Climate Change Strategy 2012 (NCCS-2012) and to engage the public on climate change-related issues, the National Climate Change Secretariat (NCCS), together with the agencies under the Inter-Ministerial Committee on Climate Change (IMCCC), conducted consultations from September 2011 to January 2012 which received over 1,000 comments from stakeholders and members of the public.
 

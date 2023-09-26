@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Prime Minister of Singapore Lee Hsien Loong at the Official Opening of the Singapore International Water Week/ World Cities Summit/ Cleanenviro Summit 
 subtitle: 1 July 2012
-permalink: /media/speeches/speech-by-mr-lee-hsien-loong-prime-minister-of-singapore-at-official-opening-of-the-singapore-international-water-week-world-cities-summit-cleanenviro-summit-1-july-2012
+permalink: /media/speeches/speech-by-mr-lee-hsien-loong-prime-minister-of-singapore-at-official-opening-of-the-singapore-international-water-week-world-cities-summit-cleanenviro-summit-1-july-2012/
 ---
 
 "Liveable and Sustainable Cities,  

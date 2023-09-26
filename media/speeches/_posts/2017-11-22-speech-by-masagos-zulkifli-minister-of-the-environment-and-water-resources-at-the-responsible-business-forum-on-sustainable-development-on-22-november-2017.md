@@ -3,7 +3,7 @@ layout: post
 title: Speech by Minister of the Environment and Water Resources Masagos
   Zulkifli at the Responsible Business Forum on Sustainable Development
 subtitle: 22 Nov 2017
-permalink: /media/speeches/speech-by-masagos-zulkifli-minister-of-the-environment-and-water-resources-at-the-responsible-business-forum-on-sustainable-development-on-22-november-2017
+permalink: /media/speeches/speech-by-masagos-zulkifli-minister-of-the-environment-and-water-resources-at-the-responsible-business-forum-on-sustainable-development-on-22-november-2017/
 ---
 Achim Steiner,  
 Administrator, UNDP

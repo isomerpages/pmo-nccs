@@ -2,7 +2,7 @@
 layout: post
 title: First Educational Drama on Climate Change for Primary Schools in Singapore
 subtitle: 29 Aug 2013
-permalink: /media/press-release/first-educational-drama-on-climate-change-for-primary-schools-in-singapore
+permalink: /media/press-release/first-educational-drama-on-climate-change-for-primary-schools-in-singapore/
 ---
 
 The National Climate Change Secretariat (NCCS) has launched a new educational drama on climate change for primary schools as part of its outreach efforts to raise awareness and to encourage individual action on climate change among youths in Singapore.

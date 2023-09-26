@@ -2,7 +2,7 @@
 layout: post
 title: New Climate Exhibition to Promote Knowledge and Action on Climate Issues
 subtitle: 14 Nov 2014
-permalink: /media/press-release/new-climate-exhibition-to-promote-knowledge-and-action-on-climate-issues
+permalink: /media/press-release/new-climate-exhibition-to-promote-knowledge-and-action-on-climate-issues/
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Households
-permalink: /singapores-climate-action/Mitigation-Efforts/households/
+permalink: /singapores-climate-action/mitigation-efforts/households/
 description: ""
 third_nav_title: Mitigation Efforts
 ---

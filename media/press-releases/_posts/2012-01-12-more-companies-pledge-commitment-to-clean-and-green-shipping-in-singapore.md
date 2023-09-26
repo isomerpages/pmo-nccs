@@ -2,7 +2,7 @@
 layout: post
 title: More Companies Pledge Commitment to Clean and Green Shipping in Singapore
 subtitle: 12 Jan 2012
-permalink: /media/press-release/more-companies-pledge-commitment-to-clean-and-green-shipping-in-singapore
+permalink: /media/press-release/more-companies-pledge-commitment-to-clean-and-green-shipping-in-singapore/
 ---
 The Maritime Singapore Green Pledge continues to receive positive response from the maritime industry as 15 organisations came together to sign the Green Pledge during the second Green Pledge signing ceremony. This follows the inaugural Green Pledge signing ceremony which took place in April last year. A total of 27 organisations have signed the Green Pledge.
 

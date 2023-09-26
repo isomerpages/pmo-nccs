@@ -2,7 +2,7 @@
 layout: post
 title: Extract of Speech by Minister for the Environment and Water Resources Dr Yaacob Ibrahim at the Committee of Supply
 subtitle: 8 Mar 2010
-permalink: /media/speeches/extract-of-speech-by-minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim-at-the-committee-of-supply-8-march-2010
+permalink: /media/speeches/extract-of-speech-by-minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim-at-the-committee-of-supply-8-march-2010/
 ---
 
 **(i) Sustainable Development – Overall Approach to Resource Efficiency and Mitigating Climate Change**

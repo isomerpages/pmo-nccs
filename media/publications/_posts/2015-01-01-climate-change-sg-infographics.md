@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Education Materials : Climate Change SG Infographics"
-permalink: /media/publications/climate-change-sg-infographics
+permalink: /media/publications/climate-change-sg-infographics/
 ---
 ![Climate Change SG Infographics](/images/climate-change-sg-infographics.jpg "Climate Change SG Infographics"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 

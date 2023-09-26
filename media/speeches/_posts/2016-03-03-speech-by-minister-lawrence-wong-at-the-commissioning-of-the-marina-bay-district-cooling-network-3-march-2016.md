@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Minister Lawrence Wong at the Commissioning of the Marina Bay District Cooling Network
 subtitle: 3 Mar 2016
-permalink: /media/speeches/speech-by-minister-lawrence-wong-at-the-commissioning-of-the-marina-bay-district-cooling-network-3-march-2016
+permalink: /media/speeches/speech-by-minister-lawrence-wong-at-the-commissioning-of-the-marina-bay-district-cooling-network-3-march-2016/
 ---
 
 

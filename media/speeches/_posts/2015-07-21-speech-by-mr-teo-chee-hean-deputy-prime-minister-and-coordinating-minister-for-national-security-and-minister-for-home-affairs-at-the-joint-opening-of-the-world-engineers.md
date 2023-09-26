@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Deputy Prime Minister and Coordinating Minister for National Security and Minister for Home Affairs Teo Chee Hean at the Joint Opening of the World Engineers Summit (WES) on Climate Change 2015 and National Engineers Day (NED)
 subtitle: 21 Jul 2015
-permalink: /media/speeches/speech-by-mr-teo-chee-hean-deputy-prime-minister-and-coordinating-minister-for-national-security-and-minister-for-home-affairs-at-the-joint-opening-of-the-world-engineers
+permalink: /media/speeches/speech-by-mr-teo-chee-hean-deputy-prime-minister-and-coordinating-minister-for-national-security-and-minister-for-home-affairs-at-the-joint-opening-of-the-world-engineers/
 ---
 
 Engineer Chong Kee Sen

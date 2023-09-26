@@ -2,7 +2,7 @@
 layout: post
 title:  Climate Change Public Perception Survey 2019
 subtitle: 16 Dec 2019
-permalink: /media/press-release/climate-change-public-perception-survey-2019
+permalink: /media/press-release/climate-change-public-perception-survey-2019/
 ---
 
 

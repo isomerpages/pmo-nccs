@@ -2,7 +2,7 @@
 layout: post
 title: New Vehicular Emissions Scheme to Replace Carbon-Based Emissions Vehicle Scheme From 1 January 2018
 subtitle: 8 Mar 2017
-permalink: /media/press-release/new-vehicular-emissions-scheme-to-replace-carbon-based-emissions-vehicle-scheme-from-1-january-2018
+permalink: /media/press-release/new-vehicular-emissions-scheme-to-replace-carbon-based-emissions-vehicle-scheme-from-1-january-2018/
 ---
 
 

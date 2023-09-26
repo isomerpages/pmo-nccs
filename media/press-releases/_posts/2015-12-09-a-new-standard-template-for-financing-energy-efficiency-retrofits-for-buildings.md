@@ -2,7 +2,7 @@
 layout: post
 title: A New Standard Template for Financing Energy Efficiency Retrofits for Buildings
 subtitle: 9 Dec 2015
-permalink: /media/press-release/a-new-standard-template-for-financing-energy-efficiency-retrofits-for-buildings
+permalink: /media/press-release/a-new-standard-template-for-financing-energy-efficiency-retrofits-for-buildings/
 ---
 
 An energy performance contract (EPC) can guarantee energy savings for an existing building without an initial financial outlay.

@@ -4,7 +4,7 @@ title: Opening Address by Minister for the Environment and Water Resources Dr
   Vivian Balakrishnan at the Responsible Business Forum on Sustainable
   Development at Marina Bay Sands Convention Centre
 subtitle: 25 Nov 2013
-permalink: /media/speeches/opening-address-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-responsible-business-forum-on-sustainable-development
+permalink: /media/speeches/opening-address-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-responsible-business-forum-on-sustainable-development/
 ---
 Mr Anthony Gourlay,
 <br>Chief Executive Officer, Global Initiatives

@@ -1,6 +1,6 @@
 ---
 title: Low-Carbon Technologies
-permalink: /singapores-climate-action/low-carbon-tech/ccus
+permalink: /singapores-climate-action/low-carbon-tech/ccus/
 ---
 ### LOW-CARBON TECHNOLOGIES - CCUS STUDY REPORT
 

@@ -2,7 +2,7 @@
 layout: post
 title: Points Made by Senior Minister S Jayakumar at the Climate Change Media Interview, Ministry of Foreign Affairs
 subtitle: 2 Dec 2009
-permalink: /media/speeches/points-made-by-senior-minister-s-jayakumar-at-the-climate-change-media-interview-2-december-2009-at-10am-at-ministry-of-foreign-affairs
+permalink: /media/speeches/points-made-by-senior-minister-s-jayakumar-at-the-climate-change-media-interview-2-december-2009-at-10am-at-ministry-of-foreign-affairs/
 ---
 
 ### **SINGAPORE'S DELEGATION TO COPENHAGEN CONFERENCE**

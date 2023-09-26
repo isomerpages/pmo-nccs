@@ -2,7 +2,7 @@
 layout: post
 title: Opening Address by Minister for Transport Lui Tuck Yew at the 28th IFATCA Asia-Pacific Regional Meeting
 subtitle: 2 Nov 2011
-permalink: /media/speeches/opening-address-by-mr-lui-tuck-yew-minister-for-transport-at-the-28th-ifatca-asia-pacific-regional-meeting-2-november-2011
+permalink: /media/speeches/opening-address-by-mr-lui-tuck-yew-minister-for-transport-at-the-28th-ifatca-asia-pacific-regional-meeting-2-november-2011/
 ---
 
 Mr. D. K. Behera, 
