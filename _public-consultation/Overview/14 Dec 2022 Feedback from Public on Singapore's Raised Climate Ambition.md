@@ -27,4 +27,4 @@ Read their views here:
 *   [Too, Fang Ning](/files/pc2022_too%20fang%20ning.pdf)
 *   [Woo, Qiyun](/files/pc2022_woo%20qiyun.pdf)
 
-Click [here](https://www.nccs.gov.sg/public-consultation/25-oct-2022-feedback-reach-public-consultations-sg-climate-ambition/) to read a summary of feedback received from the REACH Public Consultation on Singapore’s Raised Climate Ambitions.
+Click [here](/public-consultation/25-oct-2022-feedback-reach-public-consultations-sg-climate-ambition/) to read a summary of feedback received from the REACH Public Consultation on Singapore’s Raised Climate Ambitions.

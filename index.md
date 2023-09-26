@@ -9,14 +9,14 @@ description: The National Climate Change Secretariat (NCCS) was established on 1
   alignment across Government. The inclusion of NCCS enhances strategy-making
   and planning on vital issues that span multiple Government ministries and
   agencies.
-image: /images/isomer-logo.svg
+image: /images/nccs-logo.svg
 permalink: /
 sections:
   - hero:
       title: <font size=8>National Climate Change Secretariat</font>
       background: /images/solar-panel4.jpg
       button: Read More
-      url: /who-we-are/about-nccs
+      url: /who-we-are/about-nccs/
       key_highlights:
         - title: Mitigation Efforts
           description: Reducing our carbon emissions in all sectors

@@ -9,7 +9,7 @@ Posters to raise awareness on the potential impact of climate change on Singapor
 
 <u>Download:</u>
 
-* [<a href="/files/docs/default-source/publications/lets-build-a-climate-resilient-singapore-intense-rainfall.pdf" target="_blank">Intense Rainfall (PDF, 425KB)</a>](/files/docs/default-source//publications/lets-build-a-climate-resilient-singapore-intense-rainfall.pdf)
+* [<a href="/files/docs/default-source/publications/lets-build-a-climate-resilient-singapore-intense-rainfall.pdf" target="_blank">Intense Rainfall (PDF, 425KB)</a>](/files/docs/default-source/publications/lets-build-a-climate-resilient-singapore-intense-rainfall.pdf)
 
 * [<a href="/files/docs/default-source/publications/lets-build-a-climate-resilient-singapore-dry-spell.pdf" target="_blank">Dry Spell (PDF, 455KB)</a>](/files/docs/default-source/publications/lets-build-a-climate-resilient-singapore-dry-spell.pdf)
 
