@@ -44,14 +44,15 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 * Mr Albert Chua, Permanent Secretary (Foreign Affairs)  
 * Mrs Ow Foong Pheng, Permanent Secretary (National Development)  
 * Ms Chan Lai Fung, Permanent Secretary (National Research and Development)  
-* Mr Lee Chuan Teck, Permanent Secretary (Trade and Industry)(Development) 
+* Dr Beh Swan Gin, Permanent Secretary (Trade and Industry)(Development) 
 * Mr Loh Ngai Seng, Permanent Secretary (Transport)  
-* Dr Beh Swan Gin, Chairman, Economic Development Board
+* Mr Png Cheong Boon, Chairman, Economic Development Board
 * Mr Ravi Menon, Managing Director, Monetary Authority of Singapore
 
 **Secretariat**
 
 * Mr Benedict Chia, Director General (Climate Change), National Climate Change Secretariat, Strategy Group, Prime Minister's Office
+* Ms Gayle Goh, Director (Planning), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
 * Mr Heng Jian Wei, Director (Policy), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
 
 **Long-Term Emissions and Mitigation Working Group**
