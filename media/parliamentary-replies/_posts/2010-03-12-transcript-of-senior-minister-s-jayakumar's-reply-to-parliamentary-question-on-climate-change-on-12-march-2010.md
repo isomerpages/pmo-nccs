@@ -3,7 +3,7 @@ layout: post
 title: Parlimentary Reply by Senior Minister S Jayakumar to Parliamentary
   Question on Climate Change
 subtitle: 12 Mar 2010
-permalink: /media/speeches/transcript-of-senior-minister-s-jayakumar's-reply-to-parliamentary-question-on-climate-change-on-12-march-2010
+permalink: /media/speeches/transcript-of-senior-minister-s-jayakumar's-reply-to-parliamentary-question-on-climate-change-on-12-march-2010/
 ---
 **Title: Climate Change (resources and arrangements)**
 

@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Minister for Transport and Second Minister for Foreign Affairs Raymond Lim at the World Urban Transit Conference
 subtitle: 20 Oct 2010
-permalink: /media/speeches/speech-by-minister-for-transport-and-second-minister-for-foreign-affairs-raymond-lim-at-the-world-urban-transit-conference-20-october-2010
+permalink: /media/speeches/speech-by-minister-for-transport-and-second-minister-for-foreign-affairs-raymond-lim-at-the-world-urban-transit-conference-20-october-2010/
 ---
 
 

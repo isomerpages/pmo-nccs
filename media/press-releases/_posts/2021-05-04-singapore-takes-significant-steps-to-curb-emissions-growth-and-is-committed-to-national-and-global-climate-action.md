@@ -2,7 +2,7 @@
 layout: post
 title: Singapore Takes Significant Steps to Curb Emissions Growth, and is Committed to National and Global Climate Action
 subtitle: 4 May 2021
-permalink: /media/press-release/singapore-takes-significant-steps-to-curb-emissions-growth-and-is-committed-to-national-and-global-climate-action
+permalink: /media/press-release/singapore-takes-significant-steps-to-curb-emissions-growth-and-is-committed-to-national-and-global-climate-action/
 ---
 
 ***SINGAPORE'S RESPONSE TO FINANCIAL TIMES ARTICLE (12 MARCH 2021)***

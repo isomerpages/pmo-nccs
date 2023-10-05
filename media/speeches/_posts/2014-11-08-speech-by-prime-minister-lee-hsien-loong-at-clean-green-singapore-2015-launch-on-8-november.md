@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Prime Minister Lee Hsien Loong at Clean & Green Singapore 2015 Launch
 subtitle: 8 Nov 2014
-permalink: /media/speeches/speech-by-prime-minister-lee-hsien-loong-at-clean-green-singapore-2015-launch-on-8-november
+permalink: /media/speeches/speech-by-prime-minister-lee-hsien-loong-at-clean-green-singapore-2015-launch-on-8-november/
 ---
 
 Mayor Low Yen Ling, friends, ladies and gentlemen. 

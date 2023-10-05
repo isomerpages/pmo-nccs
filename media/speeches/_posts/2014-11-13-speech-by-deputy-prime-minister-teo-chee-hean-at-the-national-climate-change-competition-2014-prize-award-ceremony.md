@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Deputy Prime Minister Teo Chee Hean at the National Climate Change Competition 2014 Prize Award Ceremony and Launch of New Climate Change Exhibition at the Singapore Science Centre
 subtitle: 13 Nov 2014
-permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2014-prize-award-ceremony
+permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2014-prize-award-ceremony/
 ---
 
 Distinguished Guests

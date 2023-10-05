@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Prime Minister Lee Hsien Loong at the Opening of Renewable Energy Corporation’s Integrated Solar Manufacturing Complex
 subtitle: 3 Nov 2010
-permalink: /media/speeches/speech-by-prime-minister-lee-hsien-loong-at-opening-of-renewable-energy-corporation-s-integrated-solar-manufacturing-complex-3-november-2010
+permalink: /media/speeches/speech-by-prime-minister-lee-hsien-loong-at-opening-of-renewable-energy-corporation-s-integrated-solar-manufacturing-complex-3-november-2010/
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Deputy Prime Minister Teo Chee Hean at the National Climate Change Competition 2016 Prize Award Ceremony
 subtitle: 4 Nov 2016
-permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2016-prize-award-ceremony-on-4-november-2016
+permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2016-prize-award-ceremony-on-4-november-2016/
 ---
 
 

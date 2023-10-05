@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Minister in the Prime Minister's Office and Second Minister for Home Affairs and Trade and Industry S Iswaran at the Opening Ceremony of the Asia Clean Energy Summit
 subtitle: 28 Oct 2014
-permalink: /media/speeches/speech-by-mr-s-iswaran-minister-in-the-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-and-industry-at-the-opening-ceremony-of-the-asia-clean-energy-summit
+permalink: /media/speeches/speech-by-mr-s-iswaran-minister-in-the-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-and-industry-at-the-opening-ceremony-of-the-asia-clean-energy-summit/
 ---
 
 

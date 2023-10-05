@@ -2,7 +2,7 @@
 layout: post
 title: Youths Share Their Vision of a Climate-Friendly Singapore in Video-Making Competition
 subtitle: 4 Nov 2016
-permalink: /media/press-release/youths-share-their-vision-of-a-climate-friendly-singapore-in-video-making-competition
+permalink: /media/press-release/youths-share-their-vision-of-a-climate-friendly-singapore-in-video-making-competition/
 ---
 
 

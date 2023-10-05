@@ -2,7 +2,7 @@
 layout: post
 title: Four ‘C’s for Well-Planned and Sustainable Urban Development
 subtitle: 01 Jul 2012
-permalink: /media/press-release/four-c-s-for-well-planned-and-sustainable-urban-development
+permalink: /media/press-release/four-c-s-for-well-planned-and-sustainable-urban-development/
 ---
 
 *Largest-ever gathering of over 100 governors and top city leaders at World Cities Summit Mayors* Forum

@@ -11,20 +11,20 @@ _**Disclaimer:**_ _The views published are solely of the authors, and do not re
 
 Read their views here:
 
-*   [Cheng Chin-Hsien](/files/Cheng%20Chin-Hsien.pdf)
-*   [Chua, Rachel](/files/PC2022_Rachel%20Chua.pdf)
-*   [Do, Melissa](/files/PC2022_Melissa%20Do.pdf)
-*   [Doris](/files/PC2022_Doris.pdf)
-*   [Eng, Wei Yang Dennis](/files/PC2022_Dennis%20Eng%20Wei%20Yang.pdf)
-*   [Ho Xiang Tian](/files/PC2022_Ho%20Xiang%20Tian.pdf)
-*   [Krishnan, Anirudh](/files/PC2022_Anirudh%20Krishnan.pdf)
-*   [Lam, Brandon](/files/PC2022_Brandon%20Lam.pdf)
-*   [Lee, Zhen Xiong](/files/PC2022_Lee%20Zhen%20Xiong.pdf)
-*   [McEwan, Ewan](/files/PC2022_Ewan%20McEwan.pdf)
-*   [Song, Lin](/files/PC2022_Song%20Lin.pdf)
-*   [Tan, Dennis](/files/PC2022_Dennis%20Tan.pdf)
-*   [Tan, San Tek Jimmy](/files/PC2022_Jimmy%20Tan%20San%20Tek.pdf)
-*   [Too, Fang Ning](/files/PC2022_Too%20Fang%20Ning.pdf)
-*   [Woo, Qiyun](/files/PC2022_Woo%20Qiyun.pdf)
+*   [Cheng Chin-Hsien](/files/cheng%20chin-hsien.pdf)
+*   [Chua, Rachel](/files/pc2022_rachel%20chua.pdf)
+*   [Do, Melissa](/files/pc2022_melissa%20do.pdf)
+*   [Doris](/files/pc2022_doris.pdf)
+*   [Eng, Wei Yang Dennis](/files/pc2022_dennis%20eng%20wei%20yang.pdf)
+*   [Ho Xiang Tian](/files/pc2022_ho%20xiang%20tian.pdf)
+*   [Krishnan, Anirudh](/files/pc2022_anirudh%20krishnan.pdf)
+*   [Lam, Brandon](/files/pc2022_brandon%20lam.pdf)
+*   [Lee, Zhen Xiong](/files/pc2022_lee%20zhen%20xiong.pdf)
+*   [McEwan, Ewan](/files/pc2022_ewan%20mcewan.pdf)
+*   [Song, Lin](/files/pc2022_song%20lin.pdf)
+*   [Tan, Dennis](/files/pc2022_dennis%20tan.pdf)
+*   [Tan, San Tek Jimmy](/files/pc2022_jimmy%20tan%20san%20tek.pdf)
+*   [Too, Fang Ning](/files/pc2022_too%20fang%20ning.pdf)
+*   [Woo, Qiyun](/files/pc2022_woo%20qiyun.pdf)
 
-Click [here](https://www.nccs.gov.sg/public-consultation/25-oct-2022-feedback-reach-public-consultations-sg-climate-ambition/) to read a summary of feedback received from the REACH Public Consultation on Singapore’s Raised Climate Ambitions.
+Click [here](/public-consultation/25-oct-2022-feedback-reach-public-consultations-sg-climate-ambition/) to read a summary of feedback received from the REACH Public Consultation on Singapore’s Raised Climate Ambitions.

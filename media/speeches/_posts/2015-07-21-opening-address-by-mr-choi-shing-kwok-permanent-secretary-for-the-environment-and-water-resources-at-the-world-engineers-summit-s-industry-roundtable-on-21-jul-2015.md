@@ -2,7 +2,7 @@
 layout: post
 title: Opening Address by Mr Choi Shing Kwok, Permanent Secretary for the Environment and Water Resources at the World Engineers Summit’s Industry Roundtable
 subtitle: 21 Jul 2015
-permalink: /media/speeches/opening-address-by-mr-choi-shing-kwok-permanent-secretary-for-the-environment-and-water-resources-at-the-world-engineers-summit-s-industry-roundtable-on-21-jul-2015
+permalink: /media/speeches/opening-address-by-mr-choi-shing-kwok-permanent-secretary-for-the-environment-and-water-resources-at-the-world-engineers-summit-s-industry-roundtable-on-21-jul-2015/
 ---
 
 Good morning.&nbsp;&nbsp;I would like to express my thanks to the Institution of Engineers Singapore for inviting me to participate at this Industry Roundtable. 

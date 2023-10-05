@@ -2,7 +2,7 @@
 layout: post
 title: Welcome Address by Co-Chairman, Energy Research Development & Demonstration Executive Committee, Permanent Secretary (Public Service Division) and Permanent Secretary (National Research and Development) Yong Ying-I at the ENERGY TECHROADMAP 2014
 subtitle: 30 Jul 2014
-permalink: /media/speeches/welcome-address-by-yong-ying-i-co-chairman-energy-research-development-demonstration-executive-committee-permanent-secretary-public-service-division
+permalink: /media/speeches/welcome-address-by-yong-ying-i-co-chairman-energy-research-development-demonstration-executive-committee-permanent-secretary-public-service-division/
 ---
 
 Ladies and Gentlemen,

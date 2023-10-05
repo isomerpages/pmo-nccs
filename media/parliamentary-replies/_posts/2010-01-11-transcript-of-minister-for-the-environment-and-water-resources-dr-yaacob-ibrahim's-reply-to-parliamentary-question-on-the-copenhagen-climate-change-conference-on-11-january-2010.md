@@ -4,7 +4,7 @@ title: Parlimentary Reply by Minister for the Environment and Water Resources Dr
   Yaacob Ibrahim to Parliamentary Question on the Copenhagen Climate Change
   Conference
 subtitle: 11 Jan 2010
-permalink: /media/speeches/transcript-of-minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim's-reply-to-parliamentary-question-on-the-copenhagen-climate-change-conference-on-11-january-2010
+permalink: /media/speeches/transcript-of-minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim's-reply-to-parliamentary-question-on-the-copenhagen-climate-change-conference-on-11-january-2010/
 ---
 **Title: Copenhagen Climate Change Conference (key achievements and implications)**
 

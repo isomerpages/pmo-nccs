@@ -3,7 +3,7 @@ layout: post
 title: Second Reading Speech by Minister for the Environment and Water Resources
   Dr Vivian Balakrishnan on the Energy Conservation Bill in Parliament
 subtitle: 9 Apr 2012
-permalink: /media/speeches/second-reading-speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-on-the-energy-conservation-bill-in-parliament-on-9-april-2012
+permalink: /media/speeches/second-reading-speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-on-the-energy-conservation-bill-in-parliament-on-9-april-2012/
 ---
 Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 

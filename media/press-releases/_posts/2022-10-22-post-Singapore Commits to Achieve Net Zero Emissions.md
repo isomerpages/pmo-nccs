@@ -26,7 +26,7 @@ Executing the net zero transition will not be easy for Singapore given our small
 
 * * *
 Annex A - Infographic on Charting Singapore’s Net Zero Future
-![](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
+![](/images/2022_infographic_charting_singapore's_net_zero_future.jpg)
 
 [Annex B - Factsheet on GreenGov.SG](/files/ANNEX B - Factsheet on GreenGovSG.pdf)
 

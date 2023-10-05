@@ -4,7 +4,7 @@ title: Minister for the Environment and Water Resources Dr Vivian Balakrishnan
   to Attend the 20<sup>th</sup> Major Economies Forum on Energy and Climate and
   the United Nations Climate Summit, New York, USA, 21-23 September 2014
 subtitle: 22 Sept 2014
-permalink: /media/press-release/minister-vivian-balakrishnan-to-attend-the-20th-major-economies-forum-on-energy-and-climate-and-the-united-nations-climate-summit-new-york-usa-21-23-september-2014
+permalink: /media/press-release/minister-vivian-balakrishnan-to-attend-the-20th-major-economies-forum-on-energy-and-climate-and-the-united-nations-climate-summit-new-york-usa-21-23-september-2014/
 ---
 Minister for the Environment and Water Resources Dr Vivian Balakrishnan will attend the 20<sup>th</sup> Major Economies Forum (MEF) on Energy and Climate, and the United Nations Climate Summit in New York, USA, from 21 to 23 September 2014. He will be accompanied by officials from the Ministry of the Environment and Water Resources, Ministry of Foreign Affairs, and the National Climate Change Secretariat.
 

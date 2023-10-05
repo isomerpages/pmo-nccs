@@ -2,7 +2,7 @@
 layout: post
 title:  Enhanced Industry Energy Efficiency Package for the Adoption of Energy Efficiency Technologies
 subtitle: 30 Oct 2019
-permalink: /media/press-release/enhanced-industry-energy-efficiency-package-for-the-adoption-of-energy-efficiency-technologies
+permalink: /media/press-release/enhanced-industry-energy-efficiency-package-for-the-adoption-of-energy-efficiency-technologies/
 ---
 
 The Enhanced Industry Energy Efficiency Package was announced by Minister for Trade and Industry Chan Chun Sing at the official opening of the Singapore International Energy Week (SIEW)on 30 October 2018. 

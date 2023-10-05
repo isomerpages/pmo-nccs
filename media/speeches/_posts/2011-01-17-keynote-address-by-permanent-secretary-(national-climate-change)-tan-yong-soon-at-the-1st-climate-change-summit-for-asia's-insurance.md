@@ -2,7 +2,7 @@
 layout: post
 title: Keynote Address by Permanent Secretary for National Climate Change in Prime Minister's Office Tan Yong Soon at the 1<sup>st</sup> Climate Change Summit for Asia's Insurance Industry Organised by Asia Insurance Review and the Geneva Association
 subtitle: 17 Jan 2011
-permalink: /media/speeches/keynote-address-by-permanent-secretary-(national-climate-change)-tan-yong-soon-at-the-1st-climate-change-summit-for-asia's-insurance
+permalink: /media/speeches/keynote-address-by-permanent-secretary-(national-climate-change)-tan-yong-soon-at-the-1st-climate-change-summit-for-asia's-insurance/
 ---
 
 1.&nbsp;I am very pleased to join you at today’s conference. I would like to thank the Asia Insurance Review and The Geneva Association for organising this event. This is a timely platform to discuss how the insurance industry can respond to the challenges and opportunities arising from climate change.

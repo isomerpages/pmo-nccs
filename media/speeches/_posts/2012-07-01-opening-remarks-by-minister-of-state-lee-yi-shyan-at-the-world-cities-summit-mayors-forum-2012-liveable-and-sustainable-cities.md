@@ -2,7 +2,7 @@
 layout: post
 title: Opening Remarks by Minister of State Lee Yi Shyan at the World Cities Summit Mayors Forum 2012 "Liveable and Sustainable Cities"
 subtitle: 1 Jul 2012
-permalink: /media/speeches/opening-remarks-by-minister-of-state-lee-yi-shyan-at-the-world-cities-summit-mayors-forum-2012-liveable-and-sustainable-cities
+permalink: /media/speeches/opening-remarks-by-minister-of-state-lee-yi-shyan-at-the-world-cities-summit-mayors-forum-2012-liveable-and-sustainable-cities/
 ---
 
 First of all, let me warmly welcome you to Singapore and also to the 3rd edition of our annual Mayors Forum. In fact, we are honoured to have with us here today, former Minister for National Development, Mr Mah Bow Tan, who first mooted the idea of having a Mayors Forum.

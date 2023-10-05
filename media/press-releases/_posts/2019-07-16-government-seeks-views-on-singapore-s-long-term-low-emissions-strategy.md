@@ -2,7 +2,7 @@
 layout: post
 title:  Government Seeks Views on Singapore’s Long-Term Low Emissions Strategy
 subtitle: 16 Jul 2019
-permalink: /media/press-release/government-seeks-views-on-singapore-s-long-term-low-emissions-strategy
+permalink: /media/press-release/government-seeks-views-on-singapore-s-long-term-low-emissions-strategy/
 ---
 
 

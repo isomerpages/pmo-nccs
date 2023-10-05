@@ -4,7 +4,7 @@ title: Speech by Minister for the Environment and Water Resources Singapore Dr
   Vivian Balakrishnan at the Clean Energy Expo Asia 2011, at Suntec Singapore
   International Convention & Exhibition Centre
 subtitle: 1 Nov 2011
-permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-singapore-at-the-clean-energy-expo-asia-2011
+permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-singapore-at-the-clean-energy-expo-asia-2011/
 ---
 Dato Sri Peter Chin,
 <br>Minister of Energy, Green Technology and Water, Malaysia

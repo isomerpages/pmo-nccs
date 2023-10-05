@@ -2,7 +2,7 @@
 layout: post
 title: Keynote Address by Senior Minister of State for Trade & Industry and National Development Lee Yi Shyan at the LNG Supplies for Asian Markets 2013
 subtitle: 24 Jan 2013
-permalink: /media/speeches/keynote-address-by-mr-lee-yi-shyan-senior-minister-of-state-for-trade-industry-and-national-development-at-the-lng-supplies-for-asian-markets-2013-24-january-2013
+permalink: /media/speeches/keynote-address-by-mr-lee-yi-shyan-senior-minister-of-state-for-trade-industry-and-national-development-at-the-lng-supplies-for-asian-markets-2013-24-january-2013/
 ---
 
 Conference Co-Chairmen, 

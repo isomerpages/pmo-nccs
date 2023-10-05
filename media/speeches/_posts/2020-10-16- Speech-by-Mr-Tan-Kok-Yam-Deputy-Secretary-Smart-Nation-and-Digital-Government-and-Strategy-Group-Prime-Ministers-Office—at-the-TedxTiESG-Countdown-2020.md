@@ -2,7 +2,7 @@
 layout: post
 title:  "Speech by Deputy Secretary, Smart Nation and Digital Government, and Strategy Group, Prime Minister’s Office Tan Kok Yam at the TedxTiESG Countdown 2020"
 date:   2020-10-16
-permalink: "/media-centre/speeches/Speech-by-Mr-Tan-Kok-Yam-Deputy-Secretary-Smart-Nation-and-Digital-Government-and-Strategy-Group-Prime-Ministers-Office—at-the-TedxTiESG-Countdown-2020"
+permalink: /media-centre/speeches/speech-by-mr-tan-kok-yam-deputy-secretary-smart-nation-and-digital-government-and-strategy-group-prime-ministers-office—at-the-tedxtiesg-countdown-2020/
 ---
 
 **CHARTING SINGAPORE’S LOW-CARBON AND CLIMATE-RESILIENT FUTURE**

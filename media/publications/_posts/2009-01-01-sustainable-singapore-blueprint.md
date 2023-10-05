@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sustainable Singapore Blueprint
-permalink: /media/publications/sustainable-singapore-blueprint
+permalink: /media/publications/sustainable-singapore-blueprint/
 ---
 ![Sustainable Singapore Blueprint 2015 (2016 Version)](/images/ssb-2015-(2016-version)-cover-page.png)
 

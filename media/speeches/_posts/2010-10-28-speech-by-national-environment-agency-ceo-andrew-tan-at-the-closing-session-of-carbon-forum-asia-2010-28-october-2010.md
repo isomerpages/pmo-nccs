@@ -2,7 +2,7 @@
 layout: post
 title: Speech by National Environment Agency Chief Executive Officer Andrew Tan at the Closing Session of Carbon Forum Asia 2010
 subtitle: 28 Oct 2010
-permalink: /media/speeches/speech-by-national-environment-agency-ceo-andrew-tan-at-the-closing-session-of-carbon-forum-asia-2010-28-october-2010
+permalink: /media/speeches/speech-by-national-environment-agency-ceo-andrew-tan-at-the-closing-session-of-carbon-forum-asia-2010-28-october-2010/
 ---
 
 Mr Henry Derwent  

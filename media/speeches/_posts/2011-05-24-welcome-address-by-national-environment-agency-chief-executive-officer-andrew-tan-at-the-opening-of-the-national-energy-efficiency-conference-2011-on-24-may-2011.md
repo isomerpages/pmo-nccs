@@ -2,7 +2,7 @@
 layout: post
 title: Welcome Address by National Environment Agency Chief Executive Officer Andrew Tan at the Opening of the National Energy Efficiency Conference 2011 
 subtitle: 24 May 2011
-permalink: /media/speeches/welcome-address-by-national-environment-agency-chief-executive-officer-andrew-tan-at-the-opening-of-the-national-energy-efficiency-conference-2011-on-24-may-2011
+permalink: /media/speeches/welcome-address-by-national-environment-agency-chief-executive-officer-andrew-tan-at-the-opening-of-the-national-energy-efficiency-conference-2011-on-24-may-2011/
 ---
 
 

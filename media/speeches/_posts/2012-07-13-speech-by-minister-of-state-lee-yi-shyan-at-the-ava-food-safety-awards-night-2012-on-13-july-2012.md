@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Minister of State Lee Yi Shyan at the AVA Food Safety Awards Night 2012 
 subtitle: 13 Jul 2012
-permalink: /media/speeches/speech-by-minister-of-state-lee-yi-shyan-at-the-ava-food-safety-awards-night-2012-on-13-july-2012
+permalink: /media/speeches/speech-by-minister-of-state-lee-yi-shyan-at-the-ava-food-safety-awards-night-2012-on-13-july-2012/
 ---
 
 Mr Koh Soo Keong  

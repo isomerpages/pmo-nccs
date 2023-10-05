@@ -1,7 +1,7 @@
 ---
 title: 12 Projects Awarded $55 Million to Accelerate Decarbonisation in Singapore
 date: 2021-10-25
-permalink: /media/press-release/12Projects-Awarded-55-Million
+permalink: /media/press-release/12projects-awarded-55-million/
 layout: post
 ---
 
@@ -23,14 +23,14 @@ The LCER FI is a multi-agency initiative involving the Agency for Science, Techn
 
 Emerging low-carbon alternatives is one of four switches in the Singapore Energy Story to build a more sustainable energy future. The Government has also conducted two feasibility studies on low-carbon hydrogen and CCUS technologies, from which key findings[4] were used to evaluate proposals received under the LCER FI grant call. The Singapore Government welcomes more of such partnerships, and opportunities to pilot new technologies in sectors including maritime, aviation, mobility, industry and power sectors.
 
-[Annex A:](/files/Annex%20A.pdf) Details of Awarded Projects 
+[Annex A:](/files/annex%20a.pdf) Details of Awarded Projects 
 
 
-[1] Details on Advancing Singapore’s Energy Transition Towards a More Sustainable Future can be found in [Annex B](/files/Annex%20B.pdf) 
+[1] Details on Advancing Singapore’s Energy Transition Towards a More Sustainable Future can be found in [Annex B](/files/annex%20b.pdf) 
 
-[2] Details on Singapore’s Long-Term Low-Emissions Development Strategy can be found in [Annex C](/files/Annex%20C.pdf) 
+[2] Details on Singapore’s Long-Term Low-Emissions Development Strategy can be found in [Annex C](/files/annex%20c.pdf) 
 
-[3] Details on the Singapore Green Plan can be found in [Annex D](/files/Annex%20D.pdf) 
+[3] Details on the Singapore Green Plan can be found in [Annex D](/files/annex%20d.pdf) 
 
 [4] The “Study of Hydrogen Imports and Downstream Applications for Singapore” was jointly commissioned by the National Climate Change Secretariat (NCCS), Singapore Economic Development Board (EDB) and Energy Market Authority (EMA); while the study on “Carbon Capture, Storage, and Utilisation: Decarbonisation Pathways for Singapore’s Energy and Chemicals Sectors” was jointly commissioned by NCCS and EDB. Detailed findings of the feasibility studies are available at:
 

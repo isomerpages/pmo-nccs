@@ -2,7 +2,7 @@
 layout: post
 title: Statement in Response to Media Queries on the US' Withdrawal From the Paris Agreement
 subtitle: 02 Jun 2017
-permalink: /media/press-release/statement-in-response-to-media-queries-on-the-us'-withdrawal-from-the-paris-agreement
+permalink: /media/press-release/statement-in-response-to-media-queries-on-the-us'-withdrawal-from-the-paris-agreement/
 ---
 
 The US has announced its intention to withdraw from the Paris Agreement.

@@ -1,6 +1,6 @@
 ---
 title: Singapore Joins First Movers Coalition to Decarbonise Emissions-Intensive Sectors
-permalink: /media/press-releases/singapore-joins-first-movers-coalition-to-decarbonise-emissions-intensive-sectors
+permalink: /media/press-releases/singapore-joins-first-movers-coalition-to-decarbonise-emissions-intensive-sectors/
 date: 2022-05-26
 layout: post
 description: ""
@@ -23,6 +23,6 @@ Singapore seeks to work with international and regional partners to enable colla
 
  
 
-![FMC Group Photo](/images/FMC%20Group%20Photo.png)
+![FMC Group Photo](/images/fmc%20group%20photo.png)
 
 *Minister for Transport and Minister-in-charge of Trade Relations S Iswaran (fifth to the left from U.S. Special Presidential Envoy for Climate John Kerry), together with Government and business leaders, at the First Movers Coalition Leaders Meeting on 23 May 2022.*

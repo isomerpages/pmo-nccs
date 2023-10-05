@@ -2,7 +2,7 @@
 layout: post
 title: Visit by Minister in the Prime Minister's Office, Second Minister for Home Affairs and Second Minister for Manpower Josephine Teo to France from 11 to 13 December 2017 for the One Planet Summit
 subtitle: 11 Dec 2017
-permalink: /media/press-release/visit-by-minister-in-the-prime-ministers-office-second-minister-for-home-affairs-and-second-minister-for-manpower-mrs-josephine-teo-to-france
+permalink: /media/press-release/visit-by-minister-in-the-prime-ministers-office-second-minister-for-home-affairs-and-second-minister-for-manpower-mrs-josephine-teo-to-france/
 ---
 
 Minister in the Prime Minister’s Office, Second Minister for Home Affairs and Second Minister for Manpower, Mrs Josephine Teo will visit France from 11 to 13 December 2017 to attend the One Planet Summit (OPS) as Special Envoy of the Prime Minister to the OPS. 

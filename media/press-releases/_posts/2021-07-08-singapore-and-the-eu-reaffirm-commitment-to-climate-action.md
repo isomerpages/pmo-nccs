@@ -2,7 +2,7 @@
 layout: post
 title: Singapore and the EU Reaffirm Commitment to Climate Action
 subtitle: 08 July 2021
-permalink: /media/press-release/singapore-and-the-eu-reaffirm-commitment-to-climate-action
+permalink: /media/press-release/singapore-and-the-eu-reaffirm-commitment-to-climate-action/
 ---
 ### JOINT PRESS RELEASE BY NCCS, MSE, AND THE EUROPEAN COMMISSION
 

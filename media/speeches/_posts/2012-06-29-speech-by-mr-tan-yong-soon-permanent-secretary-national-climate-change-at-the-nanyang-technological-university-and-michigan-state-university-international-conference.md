@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Permanent Secretary (National Climate Change) Tan Yong Soon at the Nanyang Technological University and Michigan State University International Conference on the Economics and Policy of Water and the Environment
 subtitle: 29 Jun 2012
-permalink: /media/speeches/speech-by-mr-tan-yong-soon-permanent-secretary-national-climate-change-at-the-nanyang-technological-university-and-michigan-state-university-international-conference
+permalink: /media/speeches/speech-by-mr-tan-yong-soon-permanent-secretary-national-climate-change-at-the-nanyang-technological-university-and-michigan-state-university-international-conference/
 ---
 
 Professor Euston Quah,  

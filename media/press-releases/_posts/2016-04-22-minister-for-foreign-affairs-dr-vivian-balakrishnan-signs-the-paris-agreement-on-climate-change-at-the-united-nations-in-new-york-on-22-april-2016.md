@@ -2,7 +2,7 @@
 layout: post
 title: Minister for Foreign Affairs Dr Vivian Balakrishnan Signs the Paris Agreement on Climate Change at the United Nations in New York on 22 April 2016
 subtitle: 22 Apr 2016
-permalink: /media/press-release/minister-for-foreign-affairs-dr-vivian-balakrishnan-signs-the-paris-agreement-on-climate-change-at-the-united-nations-in-new-york-on-22-april-2016
+permalink: /media/press-release/minister-for-foreign-affairs-dr-vivian-balakrishnan-signs-the-paris-agreement-on-climate-change-at-the-united-nations-in-new-york-on-22-april-2016/
 ---
 
 

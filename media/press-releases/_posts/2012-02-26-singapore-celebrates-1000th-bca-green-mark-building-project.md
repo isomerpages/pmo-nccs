@@ -2,7 +2,7 @@
 layout: post
 title: Singapore Celebrates 1000<sup>th</sup> BCA Green Mark Building Project
 subtitle: 26 Feb 2012
-permalink: /media/press-release/singapore-celebrates-1000th-bca-green-mark-building-project
+permalink: /media/press-release/singapore-celebrates-1000th-bca-green-mark-building-project/
 ---
 
 Singapore has reached a new milestone in its green building journey - the 1000<sup>th</sup> green building since the Building and Construction Authority’s (BCA) Green Mark Scheme was introduced in 2005. The 1000<sup>th</sup> placing goes to Pasir Ris Sports and Recreation Centre (SRC), which has achieved the BCA Green Mark GoldPlus, the second highest rating under the green building rating scheme.

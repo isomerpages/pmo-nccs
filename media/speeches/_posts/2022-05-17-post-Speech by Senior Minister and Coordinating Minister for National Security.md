@@ -1,6 +1,6 @@
 ---
 title: Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at the Changi Aviation Summit Fireside Chat
-permalink: /media/speeches/permalink/speech-by-senior-minister-for-national-security-teo-chee-hean-at-the-changi-aviation-summit-fireside-chat
+permalink: /media/speeches/permalink/speech-by-senior-minister-for-national-security-teo-chee-hean-at-the-changi-aviation-summit-fireside-chat/
 date: 2022-05-17
 layout: post
 description: ""

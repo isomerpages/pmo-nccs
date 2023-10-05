@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Deputy Prime Minister, Coordinating Minister for National Security and Home Affairs Teo Chee Hean at the S Rajaratnam Lecture
 subtitle: 24 Oct 2012
-permalink: /media/speeches/speech-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-home-affairs-at-the-s-rajaratnam-lecture
+permalink: /media/speeches/speech-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-home-affairs-at-the-s-rajaratnam-lecture/
 ---
 
 Diplomacy and Defence in Singapore are twins. Prior to Independence, external relations and defence were in the hands of Britain, and then of Malaysia. Diplomacy and Defence for Singapore were born at the same time – when these two inter-linked new responsibilities were thrust upon us in 1965.

@@ -2,7 +2,7 @@
 layout: post
 title: World's First Centre for Tropical Climate and Weather Research Launched
 subtitle: 26 Mar 2013
-permalink: /media/press-release/worlds-first-centre-for-tropical-climate-and-weather-research-launched
+permalink: /media/press-release/worlds-first-centre-for-tropical-climate-and-weather-research-launched/
 ---
 
 *Centre for Climate Research Singapore to leverage high resolution computer models to simulate weather and climate over Singapore and wider Southeast Asia region*

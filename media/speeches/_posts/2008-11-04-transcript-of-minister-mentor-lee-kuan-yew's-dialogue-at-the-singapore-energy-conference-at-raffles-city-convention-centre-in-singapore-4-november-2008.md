@@ -2,7 +2,7 @@
 layout: post
 title: Transcript of Minister Mentor Lee Kuan Yew's Points at the Singapore Energy Conference Dialogue
 subtitle: 4 Nov 2008
-permalink: /media/speeches/transcript-of-minister-mentor-lee-kuan-yew's-dialogue-at-the-singapore-energy-conference-at-raffles-city-convention-centre-in-singapore-4-november-2008
+permalink: /media/speeches/transcript-of-minister-mentor-lee-kuan-yew's-dialogue-at-the-singapore-energy-conference-at-raffles-city-convention-centre-in-singapore-4-november-2008/
 ---
 
 Moderator: “Ladies and gentlemen, Excellencies, welcome to the inaugural Singapore Energy Lecture. We’re most honoured and privileged to have Minister Mentor Lee Kuan Yew to address us this afternoon. The Minister Mentor is well-known to everyone of you and so it is very difficult for me to add to your knowledge of Mr Lee Kuan Yew, but I cannot resist this opportunity to share a few moments with you on a particularly remarkable introduction of Mr Lee which I personally observed.

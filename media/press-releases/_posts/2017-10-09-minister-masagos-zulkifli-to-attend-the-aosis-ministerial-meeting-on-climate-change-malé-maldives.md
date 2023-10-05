@@ -3,7 +3,7 @@ layout: post
 title: Minister for the Environment and Water Resources Masagos Zulkifli to
   Attend the AOSIS Ministerial Meeting on Climate Change, Malé, Maldives
 subtitle: 09 Oct 2017
-permalink: /media/press-release/minister-masagos-zulkifli-to-attend-the-aosis-ministerial-meeting-on-climate-change-malé-maldives
+permalink: /media/press-release/minister-masagos-zulkifli-to-attend-the-aosis-ministerial-meeting-on-climate-change-malé-maldives/
 ---
 Minister for the Environment and Water Resources Mr Masagos Zulkifli will attend the Alliance of Small Island States (AOSIS) ministerial meeting on climate change<sup>[1]</sup> in Malé, Maldives, on 10 October 2017.
 

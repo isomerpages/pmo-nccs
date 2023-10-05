@@ -3,7 +3,7 @@ layout: post
 title: Parlimentary Reply by Deputy Prime Minister Teo Chee Hean to
   Parliamentary Question on National Climate Change Secretariat Survey
 subtitle: 14 Apr 2014
-permalink: /media/speeches/parliamentary-reply-by-deputy-prime-minister-teo-chee-hean-14-april-2014-0
+permalink: /media/speeches/parliamentary-reply-by-deputy-prime-minister-teo-chee-hean-14-april-2014-0/
 ---
 **PERSONAL RESPONSIBILITY FOR CLIMATE CHANGE ISSUES**
 

@@ -2,7 +2,7 @@
 layout: post
 title: Welcome Address by the National Environment Agency (NEA) Chief Executive Officer Andrew Tan at the Memorandum of Understanding Between UK Office and NEA and Regional Climate Workshop on Modelling Climate and Variability in Southeast Asia
 subtitle: 10 May 2011
-permalink: /media/speeches/welcome-address-by-nea-ceo-andrew-tan-at-the-memorandum-of-understanding-between-uk-office-and-nea-and-regional-climate-workshop-on-modelling
+permalink: /media/speeches/welcome-address-by-nea-ceo-andrew-tan-at-the-memorandum-of-understanding-between-uk-office-and-nea-and-regional-climate-workshop-on-modelling/
 ---
 
 

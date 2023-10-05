@@ -2,7 +2,7 @@
 layout: post
 title: New Valuation Guideline on Green Buildings
 subtitle: 12 Oct 2012
-permalink: /media/press-release/new-valuation-guideline-on-green-buildings
+permalink: /media/press-release/new-valuation-guideline-on-green-buildings/
 ---
 
 A new valuation guideline on green buildings will help valuers be more aware and account for energy-efficient features when valuing properties. The guideline was introduced at the Breakfast Talk for CEOs jointly organised by the Building and Construction Authority (BCA) and Singapore Institute of Surveyors and Valuers (SISV), on the last day of the Singapore Green Building Week 2012. Senior Parliamentary Secretary for Defence and National Development, Dr Mohamad Maliki Bin Osman was the Guest-of-Honour for the event.

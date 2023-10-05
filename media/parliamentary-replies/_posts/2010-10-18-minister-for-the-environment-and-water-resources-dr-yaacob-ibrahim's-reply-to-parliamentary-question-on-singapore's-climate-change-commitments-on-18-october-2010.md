@@ -4,7 +4,7 @@ title: Parliamentary Reply by Minister for the Environment and Water Resources
   Dr Yaacob Ibrahim to Parliamentary Question on Singapore's Climate Change
   Commitments
 subtitle: 18 Oct 2010
-permalink: /media/speeches/minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim's-reply-to-parliamentary-question-on-singapore's-climate-change-commitments-on-18-october-2010
+permalink: /media/speeches/minister-for-the-environment-and-water-resources-dr-yaacob-ibrahim's-reply-to-parliamentary-question-on-singapore's-climate-change-commitments-on-18-october-2010/
 ---
 **Nominated Member Mr Viswa Sadasivan** asked the Minister for the Environment and Water Resources in light of the next UN Framework Convention on Climate Change Conference in November 2010 (a) whether detailed carbon emission reduction measures have been drawn up or implemented for the various sectors in Singapore to meet the 16 per cent target committed to at the 2009 Copenhagen Conference; (b) whether Singapore is on track to meet the target; and (c) what innovative measures or approaches have been employed.
 

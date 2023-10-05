@@ -2,7 +2,7 @@
 layout: post
 title: Singapore's National Statement Delivered by Minister for the Environment and Water Resources Dr Vivian Balakrishnan at the United Nations Framework Convention on Climate Change - COP-19 / CMP-9, in Warsaw, Poland
 subtitle: 20 Nov 2013
-permalink: /media/speeches/singapore's-national-statement-delivered-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-united-nations-framework-convention
+permalink: /media/speeches/singapore's-national-statement-delivered-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-united-nations-framework-convention/
 ---
 
 Thank you Madam Vice-Mr President,

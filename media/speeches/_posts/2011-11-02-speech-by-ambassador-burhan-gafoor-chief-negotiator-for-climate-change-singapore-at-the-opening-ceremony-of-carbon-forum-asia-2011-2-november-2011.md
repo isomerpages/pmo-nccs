@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Ambassador Burhan Gafoor, Chief Negotiator for Climate Change, Singapore, at the Opening Ceremony of Carbon Forum Asia 2011
 subtitle: 2 Nov 2011
-permalink: /media/speeches/speech-by-ambassador-burhan-gafoor-chief-negotiator-for-climate-change-singapore-at-the-opening-ceremony-of-carbon-forum-asia-2011-2-november-2011
+permalink: /media/speeches/speech-by-ambassador-burhan-gafoor-chief-negotiator-for-climate-change-singapore-at-the-opening-ceremony-of-carbon-forum-asia-2011-2-november-2011/
 ---
 
 Mr Henry Derwent  

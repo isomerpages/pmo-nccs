@@ -4,7 +4,7 @@ title: Minister for the Environment and Water Resources Vivian Balakrishnan to
   Attend Ministerial Meeting on Climate Change Convened by India, Brazil, South
   Africa and China in New Delhi, India
 subtitle: 13 Feb 2012
-permalink: /media/press-release/minister-vivian-balakrishnan-to-attend-ministerial-meeting-on-climate-change-convened-by-india-brazil-south-africa-and-china-in-new-delhi-india-14-february-2012
+permalink: /media/press-release/minister-vivian-balakrishnan-to-attend-ministerial-meeting-on-climate-change-convened-by-india-brazil-south-africa-and-china-in-new-delhi-india-14-february-2012/
 ---
 Minister for the Environment and Water Resources Dr Vivian Balakrishnan will attend a Ministerial Meeting on climate change convened jointly by India, Brazil, South Africa and China, (or BASIC), in New Delhi, India, on 14 February 2012. Dr Balakrishnan’s attendance is at the invitation of Indian Minister of State (Independent Charge) for Environment & Forests, Jayanthi Natarajan.
 

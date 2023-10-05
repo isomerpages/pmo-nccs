@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Minister of State for National Development and Trade & Industry Lee Yi Shyan at the opening of PV Asia Pacific Expo and Asian PV Industry Association at the Marina Bay Sands Expo and Convention Centre
 subtitle: 1 Nov 2011
-permalink: /media/speeches/speech-by-mr-lee-yi-shyan-minister-of-state-for-national-development-and-trade-industry-at-the-opening-of-pv-asia-pacific-expo-and-asian-pv-industry-association
+permalink: /media/speeches/speech-by-mr-lee-yi-shyan-minister-of-state-for-national-development-and-trade-industry-at-the-opening-of-pv-asia-pacific-expo-and-asian-pv-industry-association/
 ---
 
 Your Excellencies

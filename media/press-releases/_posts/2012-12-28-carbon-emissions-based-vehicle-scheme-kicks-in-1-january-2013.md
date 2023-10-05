@@ -2,7 +2,7 @@
 layout: post
 title: Carbon Emissions-Based Vehicle Scheme Kicks in 1 January 2013
 subtitle: 28 Dec 2012
-permalink: /media/press-release/carbon-emissions-based-vehicle-scheme-kicks-in-1-january-2013
+permalink: /media/press-release/carbon-emissions-based-vehicle-scheme-kicks-in-1-january-2013/
 ---
 
 From 1 January 2013, the new Carbon Emissions-based Vehicle Scheme (CEVS) will apply to all new cars, taxis and newly imported used cars registered with effect from next year. 

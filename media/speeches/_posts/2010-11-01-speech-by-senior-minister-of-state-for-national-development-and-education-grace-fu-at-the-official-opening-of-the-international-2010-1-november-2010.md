@@ -4,7 +4,7 @@ title: Speech by Senior Minister of State for National Development and Education
   Grace Fu at the Official Opening of the International Skyrise Greenery
   Conference 2010 at the National Library Board
 subtitle: 1 Nov 2010
-permalink: /media/speeches/speech-by-senior-minister-of-state-for-national-development-and-education-grace-fu-at-the-official-opening-of-the-international-2010-1-november-2010
+permalink: /media/speeches/speech-by-senior-minister-of-state-for-national-development-and-education-grace-fu-at-the-official-opening-of-the-international-2010-1-november-2010/
 ---
 Mr Roland Appl
 <br>President, International Green Roof Association

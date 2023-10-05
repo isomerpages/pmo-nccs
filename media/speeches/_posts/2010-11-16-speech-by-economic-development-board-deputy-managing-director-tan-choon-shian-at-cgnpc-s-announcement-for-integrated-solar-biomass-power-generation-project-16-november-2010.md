@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Economic Development Board Deputy Managing Director Tan Choon Shian at CGNPC’s Announcement for Integrated Solar-Biomass Power Generation Project and Regional Headquarters for its Solar Operations
 subtitle: 16 Nov 2010
-permalink: /media/speeches/speech-by-economic-development-board-deputy-managing-director-tan-choon-shian-at-cgnpc-s-announcement-for-integrated-solar-biomass-power-generation-project-16-november-2010
+permalink: /media/speeches/speech-by-economic-development-board-deputy-managing-director-tan-choon-shian-at-cgnpc-s-announcement-for-integrated-solar-biomass-power-generation-project-16-november-2010/
 ---
 
 ### SPEECH BY ECONOMIC DEVELOPMENT BOARD DEPUTY MANAGING DIRECTOR TAN CHOON SHIAN AT CGNPC’S ANNOUNCEMENT FOR INTEGRATED SOLAR-BIOMASS POWER GENERATION PROJECT AND REGIONAL HEADQUARTERS FOR ITS SOLAR OPERATIONS, 16 NOVEMBER 2010

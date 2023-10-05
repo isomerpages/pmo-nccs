@@ -2,7 +2,7 @@
 layout: post
 title: Public Invited to Suggest Ideas on Travel Demand Management
 subtitle: 10 Jan 2012
-permalink: /media/press-release/public-invited-to-suggest-ideas-on-travel-demand-management
+permalink: /media/press-release/public-invited-to-suggest-ideas-on-travel-demand-management/
 ---
 
 * Enhanced on 10 October 2011, SMRT Early Travel Discount scheme encourages travel on

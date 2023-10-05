@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Prime Minister Lee Hsien Loong at the Launch of Clean and Green Singapore 2014
 subtitle: 26 Oct 2013
-permalink: /media/speeches/speech-by-prime-minister-lee-hsien-loong-at-the-launch-of-clean-and-green-singapore-2014
+permalink: /media/speeches/speech-by-prime-minister-lee-hsien-loong-at-the-launch-of-clean-and-green-singapore-2014/
 ---
 
 Residents and Friends

@@ -2,7 +2,7 @@
 layout: post
 title: My Tree House, World's 1<sup>st</sup> Green Library for Kids
 subtitle: 9 May 2012
-permalink: /media/press-release/my-tree-house-worlds-1st-green-library-for-kids
+permalink: /media/press-release/my-tree-house-worlds-1st-green-library-for-kids/
 ---
 
 The National Library Board (NLB) and City Developments Limited (CDL) unveiled plans to develop the World's 1<sup>st</sup> Green Library for Kids named as “My Tree House”. This library development is a synergistic partnership between NLB and CDL. “My Tree House” is steered by green principles in all facets from design, infrastructure and use of sustainable materials, to collection and programming.

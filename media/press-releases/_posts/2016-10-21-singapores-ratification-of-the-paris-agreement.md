@@ -2,7 +2,7 @@
 layout: post
 title: Singapore's Ratification of the Paris Agreement
 subtitle: 21 Oct 2016
-permalink: /media/press-release/singapores-ratification-of-the-paris-agreement
+permalink: /media/press-release/singapores-ratification-of-the-paris-agreement/
 ---
 
 

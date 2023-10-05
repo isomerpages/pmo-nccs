@@ -2,7 +2,7 @@
 layout: post
 title: Keynote Speech by National Climate Change Permanent Secretary Tan Yong Soon at the Conference on EU and Asian Policy Responses to Climate Change and Energy Security Post-Copenhagen
 subtitle: 26 Jul 2010
-permalink: /media/speeches/keynote-speech-by-national-climate-change-permanent-secretary-tan-yong-soon-at-the-conference-on-eu-and-asian-policy-responses-to-climate-change-and-energy-26-july-2010
+permalink: /media/speeches/keynote-speech-by-national-climate-change-permanent-secretary-tan-yong-soon-at-the-conference-on-eu-and-asian-policy-responses-to-climate-change-and-energy-26-july-2010/
 ---
 
 Ambassador Kesavapany  

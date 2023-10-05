@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Prime Minister Lee Hsien Loong at the UNFCCC Conference in Bali
 subtitle: 12 Dec 2007
-permalink: /media/speeches/speech-by-prime-minister-lee-hsien-loong-at-the-unfccc-conference-in-bali-12-december-2007
+permalink: /media/speeches/speech-by-prime-minister-lee-hsien-loong-at-the-unfccc-conference-in-bali-12-december-2007/
 ---
 
 Dr Susilo Bambang Yudhoyono

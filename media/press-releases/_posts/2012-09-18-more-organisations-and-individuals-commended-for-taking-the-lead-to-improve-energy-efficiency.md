@@ -2,7 +2,7 @@
 layout: post
 title: More Organisations and Individuals Commended for Taking the Lead to Improve Energy Efficiency
 subtitle: 18 Sep 2012
-permalink: /media/press-release/more-organisations-and-individuals-commended-for-taking-the-lead-to-improve-energy-efficiency
+permalink: /media/press-release/more-organisations-and-individuals-commended-for-taking-the-lead-to-improve-energy-efficiency/
 ---
 
 *Second National Energy Efficiency Conference to Showcase Energy Efficiency as a Business Opportunity*

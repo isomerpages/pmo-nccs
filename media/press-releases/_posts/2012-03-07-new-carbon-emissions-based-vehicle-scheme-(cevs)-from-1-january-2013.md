@@ -2,7 +2,7 @@
 layout: post
 title: New Carbon Emissions-Based Vehicle Scheme (CEVS) from 1 January 2013
 subtitle: 7 Mar 2012
-permalink: /media/press-release/new-carbon-emissions-based-vehicle-scheme-(cevs)-from-1-january-2013
+permalink: /media/press-release/new-carbon-emissions-based-vehicle-scheme-(cevs)-from-1-january-2013/
 ---
 
 *New scheme incentivises buyers to shift to low emission models*
@@ -19,7 +19,7 @@ The CEVS rebates will be implemented from 1 January 2013. The surcharges will on
 
 Details of CEVS bandings are as follows:
 
-<a href="/images/CEVS Bandings.png" target="_blank"> ![CEVS Bandings](/images/CEVS Bandings.png "CEVS Bandings")</a>
+<a href="/images/cevs bandings.png" target="_blank"> ![CEVS Bandings](/images/CEVS Bandings.png "CEVS Bandings")</a>
 
 As non Euro V-compliant diesel models emit significantly more fine particulate matter, they will not enjoy the ARF rebates under CEVS even if they fall within the rebate emission bands. However if these models fall within the surcharge bands, the appropriate CEVS surcharge will still apply.
 

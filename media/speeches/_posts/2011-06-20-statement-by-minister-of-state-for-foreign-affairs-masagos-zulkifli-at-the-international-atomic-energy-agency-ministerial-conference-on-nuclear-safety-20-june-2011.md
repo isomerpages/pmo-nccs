@@ -2,7 +2,7 @@
 layout: post
 title: Statement by Minister of State for Foreign Affairs Masagos Zulkifli at the International Atomic Energy Agency Ministerial Conference on Nuclear Safety
 subtitle: 20 Jun 2011
-permalink: /media/speeches/statement-by-minister-of-state-for-foreign-affairs-masagos-zulkifli-at-the-international-atomic-energy-agency-ministerial-conference-on-nuclear-safety-20-june-2011
+permalink: /media/speeches/statement-by-minister-of-state-for-foreign-affairs-masagos-zulkifli-at-the-international-atomic-energy-agency-ministerial-conference-on-nuclear-safety-20-june-2011/
 ---
 
 

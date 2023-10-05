@@ -2,7 +2,7 @@
 layout: post
 title: National Climate Change Competition 2015
 subtitle: 02 Apr 2015
-permalink: /media/press-release/national-climate-change-competition-2015
+permalink: /media/press-release/national-climate-change-competition-2015/
 ---
 
 

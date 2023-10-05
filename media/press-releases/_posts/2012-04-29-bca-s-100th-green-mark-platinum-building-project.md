@@ -2,7 +2,7 @@
 layout: post
 title: BCA’s 100<sup>st</sup> Green Mark Platinum Building Project
 subtitle: 29 Apr 2012
-permalink: /media/press-release/bca-s-100th-green-mark-platinum-building-project
+permalink: /media/press-release/bca-s-100th-green-mark-platinum-building-project/
 ---
 
 Existing buildings, when retrofitted to enhance their energy efficiency, can help building owners and tenants achieve substantial savings. Republic Plaza, a premium Grade A office building completed in 1995, is one such example. When the BCA Green Mark scheme was introduced in 2005, Republic Plaza, one of the three tallest skyscrapers in Singapore, was among the first batch of buildings to receive the BCA Green Mark Gold award. Recently, Republic Plaza went through a retrofit to further enhance its energy efficiency to attain the highest BCA Green Mark Platinum rating. The latest achievement led Republic Plaza to become BCA’s 100<sup>st</sup> Green Mark Platinum building project. This also means that about 10 per cent of the green buildings in Singapore are Green Mark Platinum buildings. There are currently more than 1,000 green building projects in Singapore.

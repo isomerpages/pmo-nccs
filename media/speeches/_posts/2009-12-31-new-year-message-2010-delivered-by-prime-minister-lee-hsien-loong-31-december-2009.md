@@ -2,7 +2,7 @@
 layout: post
 title: Prime Minister Lee Hsien Loong's 2010 New Year Message
 subtitle: 31 Dec 2009
-permalink: /media/speeches/new-year-message-2010-delivered-by-prime-minister-lee-hsien-loong-31-december-2009
+permalink: /media/speeches/new-year-message-2010-delivered-by-prime-minister-lee-hsien-loong-31-december-2009/
 ---
 
 

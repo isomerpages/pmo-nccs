@@ -2,7 +2,7 @@
 layout: post
 title:  Deputy Prime Minister Teo Chee Hean at the Global Compact Network Singapore Summit 2018
 subtitle: 19 Nov 2018
-permalink: /media/speeches/dpm-teo-chee-hean-at-the-global-compact-network-singapore-summit-2018-19-november
+permalink: /media/speeches/dpm-teo-chee-hean-at-the-global-compact-network-singapore-summit-2018-19-november/
 ---
 
 

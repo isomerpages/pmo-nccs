@@ -2,7 +2,7 @@
 layout: post
 title: Welcome Remarks by Chairman, JTC Corporation, Dr Loo Choon Yong at the Opening Ceremony of Cleantech One
 subtitle: 15 Aug 2013
-permalink: /media/speeches/welcome-remarks-by-dr-loo-choon-yong-chairman-jtc-corporation-at-the-opening-ceremony-of-cleantech-one
+permalink: /media/speeches/welcome-remarks-by-dr-loo-choon-yong-chairman-jtc-corporation-at-the-opening-ceremony-of-cleantech-one/
 ---
 
 Minister Lim Hng Kiang,  

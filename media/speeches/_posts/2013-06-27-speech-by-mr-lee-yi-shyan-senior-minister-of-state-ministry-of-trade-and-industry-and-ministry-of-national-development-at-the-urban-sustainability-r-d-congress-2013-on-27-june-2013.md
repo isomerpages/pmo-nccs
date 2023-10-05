@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Senior Minister of State, Ministry of Trade and Industry and Ministry of National Development Lee Yi Shyan at the Urban Sustainability R&D Congress 2013
 subtitle: 27 Jun 2013
-permalink: /media/speeches/speech-by-mr-lee-yi-shyan-senior-minister-of-state-ministry-of-trade-and-industry-and-ministry-of-national-development-at-the-urban-sustainability-r-d-congress-2013-on-27-june-2013
+permalink: /media/speeches/speech-by-mr-lee-yi-shyan-senior-minister-of-state-ministry-of-trade-and-industry-and-ministry-of-national-development-at-the-urban-sustainability-r-d-congress-2013-on-27-june-2013/
 ---
 
 A very good morning to all of you. Welcome to the Urban Sustainability R&D Congress 2013.

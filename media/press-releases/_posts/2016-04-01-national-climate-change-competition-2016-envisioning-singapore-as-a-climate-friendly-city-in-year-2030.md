@@ -2,7 +2,7 @@
 layout: post
 title: National Climate Change Competition 2016 - Envisioning Singapore as a Climate-Friendly City in Year 2030
 subtitle: 01 Apr 2016
-permalink: /media/press-release/national-climate-change-competition-2016-envisioning-singapore-as-a-climate-friendly-city-in-year-2030
+permalink: /media/press-release/national-climate-change-competition-2016-envisioning-singapore-as-a-climate-friendly-city-in-year-2030/
 ---
 
 How will a low-carbon and climate-resilient Singapore look like in 2030? In what ways will future innovations allow Singapore to grow and prosper without increasing our carbon footprint? What can the youths of today do to turn this vision into reality? These are questions that participants in the National Climate Change Competition (NCCC) 2016 will need to answer using their imagination and creative video making skills.

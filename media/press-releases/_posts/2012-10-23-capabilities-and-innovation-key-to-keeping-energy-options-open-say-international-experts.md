@@ -2,7 +2,7 @@
 layout: post
 title: Capabilities and Innovation Key to Keeping Energy Options Open, say International Experts
 subtitle: 23 Oct 2012
-permalink: /media/press-release/capabilities-and-innovation-key-to-keeping-energy-options-open-say-international-experts
+permalink: /media/press-release/capabilities-and-innovation-key-to-keeping-energy-options-open-say-international-experts/
 ---
 
 International energy experts today supported Singapore’s intentions to keep its options open in meeting its future energy needs, against the backdrop of great energy and economic uncertainty. They highlighted the importance of building capabilities to seize opportunities and prepare for challenges arising from global and regional energy developments. They also emphasised the need for innovation across policy initiatives, market measures and technology development.

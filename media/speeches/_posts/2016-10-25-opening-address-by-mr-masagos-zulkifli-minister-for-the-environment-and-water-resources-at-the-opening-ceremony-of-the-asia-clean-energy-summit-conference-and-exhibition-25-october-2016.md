@@ -4,7 +4,7 @@ title: Opening Address by Mr Masagos Zulkifli, Minister for the Environment and
   Water Resources, at the Opening Ceremony of the Asia Clean Energy Summit
   Conference and Exhibition
 subtitle: 25 Oct 2016
-permalink: /media/speeches/opening-address-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-opening-ceremony-of-the-asia-clean-energy-summit-conference-and-exhibition-25-october-2016
+permalink: /media/speeches/opening-address-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-opening-ceremony-of-the-asia-clean-energy-summit-conference-and-exhibition-25-october-2016/
 ---
 Mr Edwin Khew, 
 <br>Chairman, Sustainable Energy Association of Singapore

@@ -1,7 +1,7 @@
 ---
 title: Australia and Singapore Set Focus for Low Emissions Cooperation in 2022
 date: 2021-11-09
-permalink: /media/press-release/Aust-Sg-low-emissions
+permalink: /media/press-release/aust-sg-low-emissions/
 layout: post
 ---
 JOINT COMMUNIQUE BY SINGAPORE AND AUSTRALIA

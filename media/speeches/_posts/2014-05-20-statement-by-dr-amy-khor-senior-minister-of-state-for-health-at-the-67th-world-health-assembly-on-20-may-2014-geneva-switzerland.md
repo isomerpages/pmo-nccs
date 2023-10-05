@@ -2,7 +2,7 @@
 layout: post
 title: Statement by Senior Minister of State for Health Dr Amy Khor at the 67th World Health Assembly Geneva, Switzerland
 subtitle: 20 May 2014
-permalink: /media/speeches/statement-by-dr-amy-khor-senior-minister-of-state-for-health-at-the-67th-world-health-assembly-on-20-may-2014-geneva-switzerland
+permalink: /media/speeches/statement-by-dr-amy-khor-senior-minister-of-state-for-health-at-the-67th-world-health-assembly-on-20-may-2014-geneva-switzerland/
 ---
 
 Mr. President, 

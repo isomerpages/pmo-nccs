@@ -2,7 +2,7 @@
 layout: post
 title: Creating a Future-Ready Singapore That is Liveable, Sustainable and Resource-Resilient
 subtitle: 27 Jun 2013
-permalink: /media/press-release/creating-a-future-ready-singapore-that-is-liveable-sustainable-and-resource-resilient
+permalink: /media/press-release/creating-a-future-ready-singapore-that-is-liveable-sustainable-and-resource-resilient/
 ---
 
 Senior Minister of State for National Development and Trade and Industry Lee Yi-Shyan announced various urban sustainability-related R&D efforts at the 2013 Urban Sustainability Research and Development (R&D) Congress today:

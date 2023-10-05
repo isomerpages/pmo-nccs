@@ -3,7 +3,7 @@ layout: post
 title: Excerpt of Speech by Minister for the Environment and Water Resources
   Masagos Zulkifli at Committee of Supply Debate
 subtitle: 8 Mar 2017
-permalink: /media/speeches/excerpt-of-speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-committee-of-supply-debate-8-march-2017
+permalink: /media/speeches/excerpt-of-speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-committee-of-supply-debate-8-march-2017/
 ---
 **Climate change**
 

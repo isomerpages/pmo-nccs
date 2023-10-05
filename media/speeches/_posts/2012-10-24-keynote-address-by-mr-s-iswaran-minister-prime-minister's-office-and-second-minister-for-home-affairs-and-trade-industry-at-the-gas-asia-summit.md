@@ -2,7 +2,7 @@
 layout: post
 title: Keynote Address by Minister, Prime Minister's Office and Second Minister for Home Affairs and Trade & Industry S Iswaran at the Gas Asia Summit Networking and Conference
 subtitle: 24 Oct 2012
-permalink: /media/speeches/keynote-address-by-mr-s-iswaran-minister-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-gas-asia-summit
+permalink: /media/speeches/keynote-address-by-mr-s-iswaran-minister-prime-minister's-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-gas-asia-summit/
 ---
 
 Distinguished Guests  

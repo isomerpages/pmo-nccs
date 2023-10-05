@@ -49,10 +49,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://pmo-nccs-stag.netlify.com
-prod: https://pmo-nccs-prod.netlify.com
+staging: https://staging.d3iab3kdh5qn5j.amplifyapp.com/
+prod: https://master.d3iab3kdh5qn5j.amplifyapp.com/
 resources_name: media
-shareicon: /images/isomer-logo.svg
+shareicon: /images/nccs-logo.svg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

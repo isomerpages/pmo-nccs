@@ -5,7 +5,7 @@ title: Minister for the Environment and Water Resources Dr Vivian Balakrishnan
   Paris, France, 11-12 July 2014; and Petersberg Climate Dialogue V, Berlin,
   Germany, 13-15 July 2014
 subtitle: 10 Jul 2014
-permalink: /media/press-release/minister-vivian-balakrishnan-to-attend-the-19th-major-economies-forum-on-energy-and-climate-paris-france-11-12-july-2014
+permalink: /media/press-release/minister-vivian-balakrishnan-to-attend-the-19th-major-economies-forum-on-energy-and-climate-paris-france-11-12-july-2014/
 ---
 Minister for the Environment and Water Resources Dr Vivian Balakrishnan will attend the 19<sup>th</sup> Major Economies Forum (MEF) on Energy and Climate in Paris, France, on 11 and 12 July 2014, and the Petersberg Climate Dialogue V in Berlin, Germany, from 13 to 15 July 2014.
 

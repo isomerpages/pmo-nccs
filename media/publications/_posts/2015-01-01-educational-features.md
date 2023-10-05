@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Education Materials : Educational Features"
-permalink: /media/publications/educational-features
+permalink: /media/publications/educational-features/
 ---
 ![Educational Features](/images/education-features.jpg "Educational Features"){: style="width:156px; height:210px; margin-left:15px; border:1px solid #ededed;"}
 

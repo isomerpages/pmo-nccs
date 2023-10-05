@@ -2,7 +2,7 @@
 layout: post
 title: Ministers Dr Vivian Balakrishnan and Masagos Zulkifli to Attend the UN Climate Change Conference in Paris, France
 subtitle: 6 Dec 2015
-permalink: /media/press-release/minister-dr-vivian-balakrishnan-and-mr-masagos-zulkifli-to-attend-the-un-climate-change-conference-in-paris-france
+permalink: /media/press-release/minister-dr-vivian-balakrishnan-and-mr-masagos-zulkifli-to-attend-the-un-climate-change-conference-in-paris-france/
 ---
 
 Minister for Foreign Affairs Dr Vivian Balakrishnan and Minister for the Environment and Water Resources Masagos Zulkifli will both be in Paris, France on 7-10 December 2015 to attend the 21st Conference of the Parties (COP-21) to the United Nations Framework Convention on Climate Change (UNFCCC)*. 

@@ -3,7 +3,7 @@ layout: post
 title: Speech by Minister for the Environment and Water Resources Dr Vivian
   Balakrishnan at "Dialogue with Dr Vivian Balakrishnan", ASEAN Power Shift 2015
 subtitle: 25 Jul 2015
-permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-dialogue-with-dr-vivian-balakrishnan-asean-power-shift-2015-on-25-july-2015
+permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-dialogue-with-dr-vivian-balakrishnan-asean-power-shift-2015-on-25-july-2015/
 ---
 Good morning. I am heartened to see so many passionate young people here today. 
 

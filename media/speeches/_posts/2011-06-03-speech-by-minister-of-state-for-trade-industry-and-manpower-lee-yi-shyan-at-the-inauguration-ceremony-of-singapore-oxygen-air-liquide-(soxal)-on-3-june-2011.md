@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Minister of State for Trade & Industry and Manpower Lee Yi Shyan at the Inauguration Ceremony of Singapore Oxygen Air Liquide (Soxal)
 subtitle: 3 Jun 2011
-permalink: /media/speeches/speech-by-minister-of-state-for-trade-industry-and-manpower-lee-yi-shyan-at-the-inauguration-ceremony-of-singapore-oxygen-air-liquide-(soxal)-on-3-june-2011
+permalink: /media/speeches/speech-by-minister-of-state-for-trade-industry-and-manpower-lee-yi-shyan-at-the-inauguration-ceremony-of-singapore-oxygen-air-liquide-(soxal)-on-3-june-2011/
 ---
 
 

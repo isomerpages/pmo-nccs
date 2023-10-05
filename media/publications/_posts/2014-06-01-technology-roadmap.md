@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technology Roadmaps
-permalink: /media/publications/technology-roadmap
+permalink: /media/publications/technology-roadmap/
 ---
 **Transforming our industry, economy and society with innovation**
 
@@ -18,8 +18,8 @@ Taking reference from the studies, new programmes were launched to develop and d
 As understanding of science and technology advances, the technical studies will be refreshed. 
 An updated solar PV study has been completed and further studies on CCUS and hydrogen are underway.
 
-[<a href="/files/docs/default-source/default-document-library/Solar%20PV%20Roadmap%20for%20Singapore%202020.pdf" target="_blank">Solar Photovoltaic</a>](/files/docs/default-source/default-document-library/Solar%20PV%20Roadmap%20for%20Singapore%202020.pdf)  
-[<a href="/files/docs/default-source/default-document-library/Addendum%20to%20the%20Update%20of%20the%20Solar%20PV%20Roadmap%20(March%202020).pdf" target="_blank">Addendum</a>](/files/docs/default-source/default-document-library/Addendum%20to%20the%20Update%20of%20the%20Solar%20PV%20Roadmap%20(March%202020).pdf)  
+[<a href="/files/docs/default-source/default-document-library/solar%20pv%20roadmap%20for%20singapore%202020.pdf" target="_blank">Solar Photovoltaic</a>](/files/docs/default-source/default-document-library/solar%20pv%20roadmap%20for%20singapore%202020.pdf)  
+[<a href="/files/docs/default-source/default-document-library/addendum%20to%20the%20update%20of%20the%20solar%20pv%20roadmap%20(march%202020).pdf" target="_blank">Addendum</a>](/files/docs/default-source/default-document-library/addendum%20to%20the%20update%20of%20the%20solar%20pv%20roadmap%20(march%202020).pdf)  
 **Lead Agency (or Lead Agencies)**: EDB & EMA  
 **Date of Publication**: Mar 2020
 

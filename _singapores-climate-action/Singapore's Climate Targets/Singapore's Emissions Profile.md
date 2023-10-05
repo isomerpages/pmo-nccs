@@ -1,6 +1,6 @@
 ---
 title: Singapore's Emissions Profile
-permalink: /singapores-climate-action/Singapores-Climate-Targets/singapore-emissions-profile/
+permalink: /singapores-climate-action/singapores-climate-targets/singapore-emissions-profile/
 third_nav_title: Singapore's Climate Targets
 description: ""
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: PUB Studies Ways to Better Protect Coastal Reservoirs Against Future Sea Level Rise
 subtitle: 27 Jan 2016
-permalink: /media/press-release/pub-studies-ways-to-better-protect-coastal-reservoirs-against-future-sea-level-rise
+permalink: /media/press-release/pub-studies-ways-to-better-protect-coastal-reservoirs-against-future-sea-level-rise/
 ---
 
 

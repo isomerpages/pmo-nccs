@@ -4,7 +4,7 @@ title: Meeting between Minister for the Environment and Water Resources Masagos
   Zulkifli and European Commissioner for Climate Action and Energy Miguel Arias
   Cañete, Brussels
 subtitle: 09 Apr 2018
-permalink: /media/press-release/joint-statement-on-meeting-between-singapore-s-minister-for-the-environment-and-water-resources-mr-masagos-zulkifli-and-european-commissioner-for-climate-action-9-april-2018
+permalink: /media/press-release/joint-statement-on-meeting-between-singapore-s-minister-for-the-environment-and-water-resources-mr-masagos-zulkifli-and-european-commissioner-for-climate-action-9-april-2018/
 ---
 JOINT PRESS RELEASE BY MEWR AND EUROPEAN COMMISSION FOR CLIMATE ACTION AND ENERGY
 

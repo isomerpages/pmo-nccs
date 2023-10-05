@@ -3,7 +3,7 @@ layout: post
 title: Speech by Minister for the Environment and Water Resources Dr Vivian
   Balakrishnan at the Creating Climate Wealth Summit
 subtitle: 13 May 2013
-permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-creating-climate-wealth-summit-on-13-may-2013
+permalink: /media/speeches/speech-by-dr-vivian-balakrishnan-minister-for-the-environment-and-water-resources-at-the-creating-climate-wealth-summit-on-13-may-2013/
 ---
 Great fortunes will be made or lost at moments of inflexion, and our world is going through several inflexion points even as we speak.
 

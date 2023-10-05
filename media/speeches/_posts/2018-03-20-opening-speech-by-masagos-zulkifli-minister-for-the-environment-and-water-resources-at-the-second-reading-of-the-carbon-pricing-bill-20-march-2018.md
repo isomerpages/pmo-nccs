@@ -3,7 +3,7 @@ layout: post
 title: Opening Speech by Masagos Zulkifli, Minister for the Environment and
   Water Resources, at the Second Reading of the Carbon Pricing Bill
 subtitle: 20 Mar 2018
-permalink: /media/speeches/opening-speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-second-reading-of-the-carbon-pricing-bill-20-march-2018
+permalink: /media/speeches/opening-speech-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-second-reading-of-the-carbon-pricing-bill-20-march-2018/
 ---
 Mr Speaker, Sir, I beg to move, “That the Bill be now read a Second time.”
 

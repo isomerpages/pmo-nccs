@@ -2,7 +2,7 @@
 layout: post
 title: Singapore Unveils Latest Plans for Addressing Climate Change
 subtitle: 10 Jul 2016
-permalink: /media/press-release/singapore-unveils-latest-plans-for-addressing-climate-change
+permalink: /media/press-release/singapore-unveils-latest-plans-for-addressing-climate-change/
 ---
 
 

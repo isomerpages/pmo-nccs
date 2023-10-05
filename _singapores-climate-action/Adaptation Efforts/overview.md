@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /singapores-climate-action/overview/adaptation-overview
+permalink: /singapores-climate-action/overview/adaptation-overview/
 third_nav_title: Adaptation Efforts
 ---
 

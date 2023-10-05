@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Senior Minister of State for Trade & Industry and Education S Iswaran at the 6th LNGA 2011 Conference
 subtitle: 1 Mar 2011
-permalink: /media/speeches/speech-by-senior-minister-of-state-for-trade-industry-and-education-s-iswaran-at-the-6th-lnga-2011-conference-1-march-2011
+permalink: /media/speeches/speech-by-senior-minister-of-state-for-trade-industry-and-education-s-iswaran-at-the-6th-lnga-2011-conference-1-march-2011/
 ---
 
 

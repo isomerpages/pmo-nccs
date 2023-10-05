@@ -2,7 +2,7 @@
 layout: post
 title: National Climate Change Secretariat's Addendum to the President's Address in 2014 by Deputy Prime Minister and Chairman of the Inter-Ministerial Committee on Climate Change Teo Chee Hean
 subtitle: 23 May 2014
-permalink: /media/press-release/national-climate-change-secretariats-addendum-to-the-presidents-address-in-2014-by-deputy-prime-minister-teo-chee-hean-chairman-of-the-inter-ministerial-committee-on-climate-change
+permalink: /media/press-release/national-climate-change-secretariats-addendum-to-the-presidents-address-in-2014-by-deputy-prime-minister-teo-chee-hean-chairman-of-the-inter-ministerial-committee-on-climate-change/
 ---
 
 **Overview**

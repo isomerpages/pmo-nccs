@@ -9,14 +9,14 @@ description: The National Climate Change Secretariat (NCCS) was established on 1
   alignment across Government. The inclusion of NCCS enhances strategy-making
   and planning on vital issues that span multiple Government ministries and
   agencies.
-image: /images/isomer-logo.svg
+image: /images/nccs-logo.svg
 permalink: /
 sections:
   - hero:
       title: <font size=8>National Climate Change Secretariat</font>
       background: /images/solar-panel4.jpg
       button: Read More
-      url: /who-we-are/about-nccs
+      url: /who-we-are/about-nccs/
       key_highlights:
         - title: Mitigation Efforts
           description: Reducing our carbon emissions in all sectors
@@ -37,7 +37,7 @@ sections:
         Strategy, and revised our 2030 Nationally Determined Contribution (NDC).
       button: READ MORE
       url: /media/press-releases/singapore-commits-to-achieve-net-zero/
-      image: /images/infopic slide 1_Cropped.jpg
+      image: /images/infopic slide 1_cropped.jpg
       alt: Image alt text
   - infopic:
       title: <font size=6.5>SINGAPORE’S CLIMATE AMBITION AND REVISED CARBON TAX
@@ -50,7 +50,7 @@ sections:
       button: READ MORE
       url: /media/press-release/singapore-will-raise-climate-ambition
       alt: Members of the Ministry
-      image: /images/CarbonTaxGlobe.png
+      image: /images/carbontaxglobe.png
   - resources:
       "0":
         title: Media

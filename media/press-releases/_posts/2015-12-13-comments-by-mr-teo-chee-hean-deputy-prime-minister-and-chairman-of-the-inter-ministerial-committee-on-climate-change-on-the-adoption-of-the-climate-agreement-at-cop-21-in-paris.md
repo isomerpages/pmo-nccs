@@ -2,7 +2,7 @@
 layout: post
 title: Comments by Deputy Prime Minister and Chairman of the Inter-Ministerial Committee on Climate Change Teo Chee Hean on the Adoption of the Climate Agreement at COP-21 in Paris
 subtitle: 13 Dec 2015
-permalink: /media/press-release/comments-by-mr-teo-chee-hean-deputy-prime-minister-and-chairman-of-the-inter-ministerial-committee-on-climate-change-on-the-adoption-of-the-climate-agreement-at-cop-21-in-paris
+permalink: /media/press-release/comments-by-mr-teo-chee-hean-deputy-prime-minister-and-chairman-of-the-inter-ministerial-committee-on-climate-change-on-the-adoption-of-the-climate-agreement-at-cop-21-in-paris/
 ---
 
 

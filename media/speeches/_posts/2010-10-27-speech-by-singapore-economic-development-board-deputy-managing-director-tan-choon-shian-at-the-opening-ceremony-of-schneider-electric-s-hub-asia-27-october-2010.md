@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Singapore Economic Development Board Deputy Managing Director Tan Choon Shian at the Opening Ceremony of Schneider Electric’s Hub Asia
 subtitle: 27 Oct 2010
-permalink: /media/speeches/speech-by-singapore-economic-development-board-deputy-managing-director-tan-choon-shian-at-the-opening-ceremony-of-schneider-electric-s-hub-asia-27-october-2010
+permalink: /media/speeches/speech-by-singapore-economic-development-board-deputy-managing-director-tan-choon-shian-at-the-opening-ceremony-of-schneider-electric-s-hub-asia-27-october-2010/
 ---
 
 Mr Emmanuel Babeau  

@@ -2,7 +2,7 @@
 layout: post
 title: Speech by Mr S Iswaran, Minister, Prime Minister’s Office and Second Minister for Home Affairs and Trade & Industry at the 3rd International Singapore Compact CSR Summit at the Singapore Grand Copthorne Waterfront Hotel
 subtitle: 5 Sep 2011
-permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister-s-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-3rd-international-singapore-compact
+permalink: /media/speeches/speech-by-mr-s-iswaran-minister-prime-minister-s-office-and-second-minister-for-home-affairs-and-trade-industry-at-the-3rd-international-singapore-compact/
 ---
 
 

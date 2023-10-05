@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /singapores-climate-action/Mitigation-Efforts/overview/
+permalink: /singapores-climate-action/mitigation-efforts/overview/
 description: ""
 third_nav_title: Mitigation Efforts
 ---
@@ -15,7 +15,7 @@ Singapore has committed to [achieving net zero emissions by 2050](/singapores-c
 
 These key thrusts are supported by a [carbon tax](/singapores-climate-action/mitigation-efforts/carbontax/), as a key enabler of this transition.
 
-![](/images/2022_Infographic_Charting_Singapore's_Net_Zero_Future.jpg)
+![](/images/2022_infographic_charting_singapore's_net_zero_future.jpg)
 
 Find out more about our decarbonisation measures:
 

@@ -2,7 +2,7 @@
 layout: post
 title: Welcome Address by BG (NS) Tan Chuan-Jin, Minister of State for National Developement and Manpower at the ‘Conference of Forests, Biodiversity and Climate Change in Southeast Asia’ at the Mochtar Riady Auditorium, Singapore Management University
 subtitle: 17 Oct 2011
-permalink: /media/speeches/welcome-address-by-bg-(ns)-tan-chuan-jin-minister-of-state-for-national-developement-and-manpower-at-the-conference-of-forests-biodiversity-and-climate-change-in-southeast-asia
+permalink: /media/speeches/welcome-address-by-bg-(ns)-tan-chuan-jin-minister-of-state-for-national-developement-and-manpower-at-the-conference-of-forests-biodiversity-and-climate-change-in-southeast-asia/
 ---
 
 Ambassador Hans Brattskar  

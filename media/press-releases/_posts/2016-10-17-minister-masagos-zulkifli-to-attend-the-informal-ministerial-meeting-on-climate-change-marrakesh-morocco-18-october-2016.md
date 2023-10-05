@@ -2,7 +2,7 @@
 layout: post
 title: Minister for the Environment and Water Resources Masagos Zulkifli to Attend the Informal Ministerial Meeting on Climate Change, Marrakesh, Morocco
 subtitle: 18 Oct 2016
-permalink: /media/press-release/minister-masagos-zulkifli-to-attend-the-informal-ministerial-meeting-on-climate-change-marrakesh-morocco-18-october-2016
+permalink: /media/press-release/minister-masagos-zulkifli-to-attend-the-informal-ministerial-meeting-on-climate-change-marrakesh-morocco-18-october-2016/
 ---
 Minister for the Environment and Water Resources Masagos Zulkifli will be attending the Informal Ministerial Meeting on Climate Change (Pre-COP) on 18 October 2016 in Marrakesh. This meeting will serve as the preparatory meeting for the 22<sup>nd</sup> Conference of the Parties to the United Nations Framework Convention on Climate Change (COP-22) and related meetings<sup>[1]</sup> scheduled to take place also in Marrakesh in November. The implementation of the Paris Agreement that was adopted at the COP-21 in Paris in December 2015 will be a key focus of the meeting.
 

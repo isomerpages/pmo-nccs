@@ -2,7 +2,7 @@
 layout: post
 title: New National Technology Roadmaps to Address Energy and Climate Change Challenges Unveiled at Energy Innovation 2016
 subtitle: 03 Jun 2016
-permalink: /media/press-release/new-national-technology-roadmaps-to-address-energy-and-climate-change-challenges-unveiled-at-energy-innovation-2016
+permalink: /media/press-release/new-national-technology-roadmaps-to-address-energy-and-climate-change-challenges-unveiled-at-energy-innovation-2016/
 ---
 
 

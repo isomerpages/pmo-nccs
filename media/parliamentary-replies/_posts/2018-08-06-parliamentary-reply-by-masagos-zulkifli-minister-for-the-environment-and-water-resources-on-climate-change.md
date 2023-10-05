@@ -3,7 +3,7 @@ layout: post
 title: Parliamentary Reply by Minister for the Environment and Water Resources
   Masagos Zulkifli on Climate Change
 subtitle: 06 Aug 2018
-permalink: /media/news/parliamentary-reply-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-on-climate-change
+permalink: /media/news/parliamentary-reply-by-masagos-zulkifli-minister-for-the-environment-and-water-resources-on-climate-change/
 ---
 **Mr Seah Kian Peng:** To ask the Minister for the Environment and Water Resources (a) how are Singapore's efforts to manage this year's climate change proceeding; (b) whether such efforts are sufficient in light of the forecast by the Climate Prediction Centre of the US National Oceanic and Atmospheric Administration of a 70 per cent chance that El Nino will develop during end-2018; and (c) what countermeasures will Singapore adopt should El Nino develop.
 

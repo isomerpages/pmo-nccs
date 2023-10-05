@@ -2,7 +2,7 @@
 layout: post
 title: Keynote Speech by National Environment Agency Chief Executive Officer Andrew Tan at the 2nd International Singapore Compact CSR Summit 2010
 subtitle: 6 Oct 2010
-permalink: /media/speeches/keynote-speech-by-national-environment-agency-ceo-andrew-tan-at-the-2nd-international-singapore-compact-csr-summit-2010-6-october-2010
+permalink: /media/speeches/keynote-speech-by-national-environment-agency-ceo-andrew-tan-at-the-2nd-international-singapore-compact-csr-summit-2010-6-october-2010/
 ---
 
 Distinguished Guests

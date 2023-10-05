@@ -2,7 +2,7 @@
 layout: post
 title: Minister for the Environment and Water Resources Masagos Zulkifli Delivered Singapore's National Statement at COP-21 in Paris
 subtitle: 7 Dec 2015
-permalink: /media/press-release/minister-for-the-environment-and-water-resources-mr-masagos-zulkifli-delivered-singapore's-national-statement-at-cop-21-in-paris
+permalink: /media/press-release/minister-for-the-environment-and-water-resources-mr-masagos-zulkifli-delivered-singapore's-national-statement-at-cop-21-in-paris/
 ---
 
 Minister for the Environment and Water Resources Masagos Zulkifli delivered Singapore’s national statement at the High-Level Segment of the United Nations Framework Convention on Climate Change (UNFCCC) in Paris, France on 7 December 2015.

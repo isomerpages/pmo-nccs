@@ -1,6 +1,6 @@
 ---
 title: Low-Carbon Technologies
-permalink: /singapores-climate-action/low-carbon-tech/hc
+permalink: /singapores-climate-action/low-carbon-tech/hc/
 ---
 ### LOW-CARBON TECHNOLOGIES - HC STUDY REPORT
 

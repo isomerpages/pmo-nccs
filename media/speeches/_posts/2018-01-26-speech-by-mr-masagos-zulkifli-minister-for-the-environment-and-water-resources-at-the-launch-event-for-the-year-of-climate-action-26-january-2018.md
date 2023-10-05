@@ -3,7 +3,7 @@ layout: post
 title: Speech by Minister for the Environment and Water Resources Masagos
   Zulkifli at the Launch Event for the Year of Climate Action
 subtitle: 26 Jan 2018
-permalink: /media/speeches/speech-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-launch-event-for-the-year-of-climate-action-26-january-2018
+permalink: /media/speeches/speech-by-mr-masagos-zulkifli-minister-for-the-environment-and-water-resources-at-the-launch-event-for-the-year-of-climate-action-26-january-2018/
 ---
 Your Excellencies 
 

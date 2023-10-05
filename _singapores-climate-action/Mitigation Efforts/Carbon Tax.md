@@ -1,6 +1,6 @@
 ---
 title: Carbon Tax
-permalink: /singapores-climate-action/Mitigation-Efforts/carbontax/
+permalink: /singapores-climate-action/mitigation-efforts/carbontax/
 description: ""
 third_nav_title: Mitigation Efforts
 ---
@@ -15,7 +15,7 @@ Singapore implemented a carbon tax, the first carbon pricing scheme in Southeast
 
 To support our net zero target, **the carbon tax will be raised to S$25/tCO<sub>2</sub>e in 2024 and 2025, and S$45/tCO<sub>2</sub>e in 2026 and 2027, with a view to reaching S$50-80/tCO<sub>2</sub>e by 2030**. This will strengthen the price signal and impetus for businesses and individuals to reduce their carbon footprint in line with national climate goals.
 
-![](/images/CarbonTaxGraph_Updated.png)
+![](/images/carbontaxgraph_updated.png)
 
 The revised carbon tax trajectory is critical in enabling the pace of transformation needed to achieve our raised climate ambition and make the economy- and society-wide transition to a low-carbon future. It also helps businesses remain competitive in a low-carbon future, by enhancing the business case to invest in low-carbon solutions, and ensuring that new investments and economic activities are aligned with our national climate goals.
 
@@ -23,7 +23,7 @@ The Government does not expect to derive additional revenue from the carbon tax 
 
 **Use of International Carbon Credits**
 
-Companies may use high quality international carbon credits to offset up to 5% of their taxable emissions from 2024. This will cushion the impact for companies that are able to source for credible carbon credits in a cost-effective manner, help to create local demand for high-quality carbon credits, and catalyse the development of well-functioning and regulated carbon markets. All international carbon credits used under the carbon tax regime will need to adhere to a set of eligibility criteria, to ensure that they are of high environmental integrity and compliant with Article 6 of the Paris Agreement.
+Companies may use high quality international carbon credits to offset up to 5% of their taxable emissions from 2024. This will cushion the impact for companies that are able to source for credible carbon credits in a cost-effective manner, help to create local demand for high-quality carbon credits, and catalyse the development of well-functioning and regulated carbon markets. All international carbon credits used under the carbon tax regime will need to adhere to a set of [eligibility criteria](https://www.nea.gov.sg/media/news/news/index/singapore-sets-out-eligibility-criteria-for-international-carbon-credits-under-the-carbon-tax-regime#:~:text=The%20Eligibility%20Criteria%20requires%20ICCs,to%20demonstrate%20high%20environmental%20integrity.) to ensure that they are of high environmental integrity and compliant with Article 6 of the Paris Agreement.
 
 **Transition Framework**
 
@@ -66,11 +66,11 @@ Although the carbon tax is directly levied upstream of large emitters, it could 
 
 The carbon tax is needed to put a price on the externality or social cost of carbon, so as to shape the behaviour of individuals and households to reduce their energy consumption and be more energy efficient, to enable us to meet our long-term commitments. Notwithstanding, the Government is committed to help Singaporean households cope with the rising cost of living, whether this is driven by carbon tax or other factors.
 
-Support is also provided to help households reduce their emissions. The Government introduced the [Climate Friendly Households Programme](https://www.climate-friendly-households.gov.sg/) in 2020 to provide eligible  households with vouchers to offset the cost of purchasing more energy efficient and climate-friendly appliances. These vouchers can be used to purchase 3-ticks water efficient shower fittings (inclusive of installation costs if required), LED lights, and energy efficient and climate-friendly refrigerators. By switching to these appliances, households can do their part for the environment by reducing their energy and water consumption while saving costs in the long run.
+Support is also provided to help households reduce their emissions. The Government introduced the [Climate Friendly Households Programme](https://www.climate-friendly-households.gov.sg/)&nbsp;in 2020 to provide eligible&nbsp; households with vouchers to offset the cost of purchasing more energy efficient and climate-friendly appliances. These vouchers can be used to purchase 3-ticks water efficient shower fittings (inclusive of installation costs if required), LED lights, and energy efficient and climate-friendly refrigerators. By switching to these appliances, households can do their part for the environment by reducing their energy and water consumption while saving costs in the long run.
 
 **5\. How would the Government ensure that consumers are not over-charged by electricity retailers passing on more than 100 per cent of the carbon tax to consumers?**
 
-Today’s electricity retail market is competitive and discourages retailers from raising their electricity rates excessively. Nevertheless, EMA will continue to ensure fair and efficient conduct of market players. Government agencies will also work closely with the Consumer Association of Singapore (CASE) and Competition & Consumer Commission of Singapore to monitor the market for unfair pricing and coordinated price hikes which are anti-competitive.
+Today’s electricity retail market is competitive and discourages retailers from raising their electricity rates excessively. Nevertheless, EMA will continue to ensure fair and efficient conduct of market players. Government agencies will also work closely with the Consumer Association of Singapore (CASE) and Competition &amp; Consumer Commission of Singapore to monitor the market for unfair pricing and coordinated price hikes which are anti-competitive.
 
 **6\. Why are we allowing carbon tax liable facilities to offset only up to 5% of their emissions using international carbon credits from 2024?**
 

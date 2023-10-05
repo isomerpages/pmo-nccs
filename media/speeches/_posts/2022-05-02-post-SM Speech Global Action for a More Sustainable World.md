@@ -1,6 +1,6 @@
 ---
 title: Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at the Ministerial Conference on “Sustaining Peace Amidst the Climate Crisis” organised by the German Federal Foreign Office and US State Department
-permalink: /media/speeches/Speech-by-Senior-Minister-and-Coordinating-Minister
+permalink: /media/speeches/speech-by-senior-minister-and-coordinating-minister/
 date: 02 May 2022
 layout: post
 description: ""

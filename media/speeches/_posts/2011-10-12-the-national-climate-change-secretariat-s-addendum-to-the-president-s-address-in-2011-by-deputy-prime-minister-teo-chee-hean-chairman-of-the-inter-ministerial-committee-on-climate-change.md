@@ -2,7 +2,7 @@
 layout: post
 title: The National Climate Change Secretariat’s Addendum to the President’s Address in 2011 by Deputy Prime Minister and Chairman of the Inter-Ministerial Committee on Climate Change Teo Chee Hean
 subtitle: 12 Oct 2011
-permalink: /media/speeches/the-national-climate-change-secretariat-s-addendum-to-the-president-s-address-in-2011-by-deputy-prime-minister-teo-chee-hean-chairman-of-the-inter-ministerial-committee-on-climate-change
+permalink: /media/speeches/the-national-climate-change-secretariat-s-addendum-to-the-president-s-address-in-2011-by-deputy-prime-minister-teo-chee-hean-chairman-of-the-inter-ministerial-committee-on-climate-change/
 ---
 
 **Challenge of Climate Change**  

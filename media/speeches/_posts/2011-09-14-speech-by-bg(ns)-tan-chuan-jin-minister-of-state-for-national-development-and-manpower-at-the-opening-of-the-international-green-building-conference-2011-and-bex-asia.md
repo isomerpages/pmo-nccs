@@ -2,7 +2,7 @@
 layout: post
 title: Speech by BG(NS) Tan Chuan-Jin, Minister of State for National Development and Manpower at the opening of the International Green Building Conference 2011 and BEX Asia 2011
 subtitle: 14 Sep 2011
-permalink: /media/speeches/speech-by-bg(ns)-tan-chuan-jin-minister-of-state-for-national-development-and-manpower-at-the-opening-of-the-international-green-building-conference-2011-and-bex-asia
+permalink: /media/speeches/speech-by-bg(ns)-tan-chuan-jin-minister-of-state-for-national-development-and-manpower-at-the-opening-of-the-international-green-building-conference-2011-and-bex-asia/
 ---
 
 
