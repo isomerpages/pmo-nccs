@@ -49,4 +49,4 @@ Let me conclude by congratulating the organisers for a very successful event and
 <br><br><br>
 
 
-Source: [<a href="https://www.ema.gov.sg/news-events/news/speeches/opening-keynote-address-by-mr-chee-hong-tat-ce-ema-at-lng-supplies-for-asian-markets-2012" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609ScxfQqB0a5Y4)
+Source: [<a href="https://www.ema.gov.sg/news-events/news/speeches/opening-keynote-address-by-mr-chee-hong-tat-ce-ema-at-lng-supplies-for-asian-markets-2012" target="_blank">Energy Market Authority</a>]

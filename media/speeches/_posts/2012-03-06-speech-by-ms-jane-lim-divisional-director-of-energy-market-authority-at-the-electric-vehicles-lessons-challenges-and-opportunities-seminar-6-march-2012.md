@@ -64,4 +64,4 @@ I wish you all a fruitful discussion and a successful seminar. Thank you.
 <br><br><br>
 
 
-Source: [<a href="https://www.ema.gov.sg/news-events/news/speeches/address-by-ms-jane-lim-divisional-director-ema-at-electric-vehicles-lessons-challenges-and-opportunities-seminar" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/speech.aspx?news_sid=20140609qzmN4smytfim)
+Source: [<a href="https://www.ema.gov.sg/news-events/news/speeches/address-by-ms-jane-lim-divisional-director-ema-at-electric-vehicles-lessons-challenges-and-opportunities-seminar" target="_blank">Energy Market Authority</a>]
