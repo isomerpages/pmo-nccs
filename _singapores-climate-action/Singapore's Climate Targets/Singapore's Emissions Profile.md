@@ -12,7 +12,7 @@ Historically, our strategic position along the East-West trade routes has made S
 
 **Emissions Profile**
 
-![Alt text for image on Isomer site](/images/2021-emissions profile.png)
+![](/images/2021-emissions%20profile.png)
 
 **Carbon Intensity (Emissions per $GDP)**
 
