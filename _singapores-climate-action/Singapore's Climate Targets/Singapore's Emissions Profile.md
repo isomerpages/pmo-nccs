@@ -12,7 +12,7 @@ Historically, our strategic position along the East-West trade routes has made S
 
 **Emissions Profile**
 
-![Alt text for image on Isomer site](/images/2020-emissions-profile.png)
+![](/images/2021-emissions%20profile.png)
 
 **Carbon Intensity (Emissions per $GDP)**
 
@@ -30,4 +30,4 @@ Based on 2018 IEA data, Singapore ranks 27<sup>th</sup> out of 142 countries in 
 
 *Source: CO<sub>2</sub>  Emissions from Fuel Combustion - 2018 Highlights © OECD/International Energy Agency, 2018*
 
-See [Singapore’s past emissions data](https://file.go.gov.sg/2019emissionsprofile.png).
+See [Singapore’s past emissions data](/images/2020-emissions-profile.png).
