@@ -1,6 +1,7 @@
 ---
 title: Singapore And International Efforts
 permalink: /singapores-climate-action/singapore-and-international-efforts/
+variant: markdown
 ---
 ### SINGAPORE AND INTERNATIONAL EFFORTS
 
@@ -115,7 +116,7 @@ Singapore actively collaborates with countries around the world, to build on one
 
 To further strengthen our effort in global collaboration, we have commenced negotiations on a bilateral Green Economy Agreement (GEA) with Australia, which will be a world-first agreement that combines trade, economic and environment objectives. Singapore has also concluded Memoranda of Understanding (MoUs) with other international partners like Chile and Japan on low-emissions solutions.
 
-These initiatives reflect our commitment to sharing our knowledge, experience, and expertise to help developing countries implement sustainable environmental and climate policies and practices. Under the Singapore Cooperation Programme, our flagship technical assistance programme, and its Climate Action Package, we have trained more than 137,000 officials from over 180 countries and territories in topics such as climate adaptation and mitigation, disaster risk management, and green finance.
+These initiatives reflect our commitment to sharing our knowledge, experience, and expertise to help developing countries implement sustainable environmental and climate policies and practices. Under the Singapore Cooperation Programme, our flagship technical assistance programme, and its Climate Action Package, we have trained close to 150,000 officials from over 180 countries and territories in topics such as climate adaptation and mitigation, disaster risk management, and green finance.
 
 **C40**
 
@@ -123,4 +124,4 @@ Singapore joined the C40 Cities Climate Leadership Group (C40) as an observer ci
 
 Our participation with the C40 has allowed us to learn from the best practices of other C40 cities in areas such as building energy efficiency, transportation, climate change resilience and adaptation. Singapore has also contributed to C40 by sharing our experiences in urban development and transport infrastructure.
 
-Singapore’s efforts in promoting urban sustainability and addressing climate change were also recognised by C40 in 2013 when it was presented with the C40 & Siemens City Climate Leadership Award.
+Singapore’s efforts in promoting urban sustainability and addressing climate change were also recognised by C40 in 2013 when it was presented with the C40 &amp; Siemens City Climate Leadership Award.
