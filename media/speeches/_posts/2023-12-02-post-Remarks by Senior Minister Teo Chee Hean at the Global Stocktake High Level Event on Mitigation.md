@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-**Remarks by Senior Minister Teo Chee Hean at the Global Stocktake High-level Event on Mitigation at UNFCCC COP28 **
+**Remarks by Senior Minister Teo Chee Hean at the Global Stocktake High-level Event on Mitigation at UNFCCC COP28**
 
 Good afternoon, colleagues.
 
