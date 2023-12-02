@@ -13,7 +13,9 @@ Remarks at the Launch Event for Rwanda's National Carbon Markets Framework by Mr
 Her Excellency, Dr Jeanne d’Arc Mujawamariya, Minister for Environment, Republic of Rwanda 
 
 My friends from Rwanda and from Singapore, and other guests today.
+
 Distinguished Guests
+
 Ladies and Gentlemen
 
 Rwanda and Singapore are long time, steady friends and I am delighted to be here today to launch this event which marks a new phase in our good friendship. 
@@ -65,5 +67,3 @@ As our two countries sign this Memorandum of Understanding on Article 6 collabor
 Singapore looks forward to working closely with Rwanda to operationalise high-integrity carbon markets that can drive greater mitigation ambition, create new livelihoods in the green economy, and advance our sustainable development goals.
 
 Thank you.
-
-
