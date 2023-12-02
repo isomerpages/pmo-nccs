@@ -12,8 +12,6 @@ Mr President,
 Congratulations on your election as President of this Conference. I thank the UAE Government, the City of Dubai, and the UNFCCC Secretariat for organising COP28 this year. I also thank the UAE COP Presidency for your leadership in advancing discussions and placing the focus of COP28 on facilitating a just and inclusive transition.
 
 
-**Opening remarks** 
-
 Amid heightened geopolitical and economic uncertainty, the latest UNFCCC Synthesis Report has laid bare how far we are from achieving the Paris Agreement’s goals. The world is on a pathway to 2.1-2.8°C of global warming by 2100. The increasing frequency and severity of extreme weather events today – from droughts in Africa and the USA, to heat waves in Asia and Europe – are clear warning signs for us to take decisive action and secure our collective future.
 
 The first Global Stocktake presents a timely opportunity for the world to course-correct to keep the target of 1.5°C within reach. This can only be achieved if we deliver substantive, inclusive, and balanced outcomes at COP28 across mitigation, adaptation as well as means of implementation. At this critical juncture, we need to foster even stronger multilateral cooperation than before. Today, Singapore reaffirms its commitment to domestic climate action, regional partnerships and global collaboration.
@@ -88,9 +86,7 @@ To demonstrate support for the COP28 Presidency’s Early Coal Retirement Initia
 As the country lead for package development under the Forest and Climate Leaders’ Partnership, we will announce Ghana’s Country Package for Forest, Nature and Climate.
 
 To support the development of emerging technological and market solutions, we will also be signing Memorandums of Understanding (MOUs) and Implementation Agreements (IAs) on carbon credits and low-carbon solutions cooperation with countries such as Papua New Guinea.
-
-
-**Closing remarks** 
+                        
 We stand at a critical crossroads. The decisions we make, the actions we take at COP28 will shape the future of our planet and generations to come. The window of opportunity to tackle climate change, the existential crisis of this generation, is small and closing quickly. We must urgently grasp this chance to course-correct and take decisive action to keep the target of 1.5°C in sight. 
 
 Let us face climate change not as individual nations, but instead seize this opportunity to Unite, Act and Deliver.
