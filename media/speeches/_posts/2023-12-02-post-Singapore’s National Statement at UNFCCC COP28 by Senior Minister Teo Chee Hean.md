@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+**National Statement of Singapore by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at the UNFCCC COP28 Special High-Level Segment for Heads of Government**
+
 Mr President,
 
 Congratulations on your election as President of this Conference. I thank the UAE Government, the City of Dubai, and the UNFCCC Secretariat for organising COP28 this year. I also thank the UAE COP Presidency for your leadership in advancing discussions and placing the focus of COP28 on facilitating a just and inclusive transition.
