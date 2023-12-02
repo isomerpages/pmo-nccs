@@ -8,6 +8,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+**Remarks by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at Rwanda’s National Carbon Markets Framework Launch at UNFCCC COP28**
+
 Her Excellency, Dr Jeanne d’Arc Mujawamariya, Minister for Environment, Republic of Rwanda 
 
 My friends from Rwanda and from Singapore, and other guests today.
