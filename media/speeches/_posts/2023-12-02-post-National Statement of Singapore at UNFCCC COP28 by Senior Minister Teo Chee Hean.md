@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-**National Statement of Singapore by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at the UNFCCC COP28 Special High-Level Segment for Heads of Government**
+**National Statement of Singapore by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at the UNFCCC COP28 Special High-Level Segment for Heads of Government** 
 
 Mr President,
 
