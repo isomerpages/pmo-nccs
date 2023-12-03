@@ -15,25 +15,17 @@ Good afternoon, colleagues.
 I thank the GST High-Level Committee for organising this event.
 
 COP28 will see the conclusion of the first ever Global Stocktake
-of the Paris Agreement.
-
-The Global Stocktake is a critical process to ensure that we have
+of the Paris Agreement. The Global Stocktake is a critical process to ensure that we have
 a firm understanding of our progress so far, and know what course
-corrections are needed to keep the 1.5 degree goal within reach.
-
-Singapore believes that it is important for the GST outcome to
+corrections are needed to keep the 1.5 degree goal within reach. Singapore believes that it is important for the GST outcome to
 include several elements related to Mitigation.
 
 First, to highlight the role that climate technologies can play.
 
-We cannot afford to write off any solution prematurely.
-
-Low-carbon technologies such as hydrogen, carbon capture,
+We cannot afford to write off any solution prematurely. Low-carbon technologies such as hydrogen, carbon capture,
 utilisation, and storage, and carbon dioxide removal can help to
 move the needle on climate change, particularly in hard-to-abate
-sectors.
-
-The IPCC’s sixth assessment report is also clear that such
+sectors. The IPCC’s sixth assessment report is also clear that such
 technologies have an important role to play in global modelled
 pathways to keep the 1.5 degree goal within reach.
 
@@ -41,16 +33,10 @@ Second, to reinforce the importance of multilateralism and
 enhanced international cooperation.
 
 Each country has its own national circumstances, but by working
-together, we can take collective action and raise our ambition.
-
-For instance, transboundary flows of renewable energy, including
+together, we can take collective action and raise our ambition. For instance, transboundary flows of renewable energy, including
 through regional grids, can help to create lead demand for
-renewable energy deployment.
-
-This will accelerate the transition away from fossil fuels, even as
-we pursue a just and equitable transition to net zero.
-
-Voluntary cooperative approaches under Article 6 of the Paris
+renewable energy deployment. This will accelerate the transition away from fossil fuels, even as
+we pursue a just and equitable transition to net zero. Voluntary cooperative approaches under Article 6 of the Paris
 Agreement can help to channel much needed investment towards
 projects that can realise additional mitigation outcomes.
 
@@ -59,11 +45,7 @@ Enhanced Transparency Framework, and call on Parties to submit
 their first Biennial Transparency Reports in 2024.
 
 Trust among Parties will be crucial for mitigation measures to be
-successfully implemented.
-
-Transparency and accountability are needed to build this trust.
-
-As we conclude the Consideration of Outputs phase of the Global
+successfully implemented. Transparency and accountability are needed to build this trust. As we conclude the Consideration of Outputs phase of the Global
 Stocktake, Singapore will continue to contribute to the success of
 both the Global Stocktake and Mitigation tracks at COP28.
 
