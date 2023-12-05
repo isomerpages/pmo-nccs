@@ -17,8 +17,6 @@ Ladies and Gentlemen,
 
 Good morning, and thank you for your presence this morning. It is my pleasure to welcome you to the opening of the Green and Transition Finance Day here at the Singapore Pavilion.
 
-<u>Introduction</u>
-
 Amid heightened geopolitical and economic uncertainty, the latest UNFCCC
 Synthesis Report has made clear how far away we are from achieving the Paris Agreement’s goals. The world is on a pathway, we estimate, to 2.1-2.8°C of global warming by 2100. The increasing frequency and severity of extreme weather events – from droughts and heatwaves, to torrential rains and floods afflicting all continents – are clear warning signs for us to take decisive action and secure our collective future.
 
@@ -28,7 +26,9 @@ To support developing countries in their efforts to decarbonise, we will need mu
 
 <u>Singapore’s Ongoing Efforts</u>
 
-Singapore is already deeply involved in channelling capital to climate action. We are engaged in project facilitation, the provision of debt financing solutions, and the general promotion of green finance. One example is Infrastructure Asia, which was launched by the Monetary Authority of Singapore (MAS) and Enterprise Singapore. Infrastructure Asia provides technical assistance to enhance project bankability, thereby helping to attract financing. Mr Ravi Menon, Managing Director of MAS, chairs the Network for Greening the Financial System, or NGFS, which comprises about 150 global central banks and financial regulators with a common goal to green the financial system. To support countries in shifting away from coal, MAS has developed a framework for the use of transition credits to retire coal-fired power plants early. The Singapore Government is prepared to offtake these credits should they meet our environmental integrity standards.
+Singapore is already deeply involved in channelling capital to climate action. We are engaged in project facilitation, the provision of debt financing solutions, and the general promotion of green finance. One example is Infrastructure Asia, which was launched by the Monetary Authority of Singapore (MAS) and Enterprise Singapore. Infrastructure Asia provides technical assistance to enhance project bankability, thereby helping to attract financing. Mr Ravi Menon, Managing Director of MAS, chairs the Network for Greening the Financial System, or NGFS, which comprises about 150 global central banks and financial regulators with a common goal to green the financial system. 
+
+To support countries in shifting away from coal, MAS has developed a framework for the use of transition credits to retire coal-fired power plants early. The Singapore Government is prepared to offtake these credits should they meet our environmental integrity standards.
 
 <u>Launch of FAST-P</u>
 
@@ -41,8 +41,6 @@ We aim for FAST-P to invest up to US$5 billion in support of Asia’s transition
 with capital from concessional and commercial capital providers globally. Singapore is also prepared to contribute catalytic capital, to support the partnership.
 
 This launch today marks a big step forward in Singapore’s commitment to provide innovative green and transition financing solutions for Asia. FAST-P will be a first for Singapore in scaling up blended finance capabilities and other similar financing schemes for the region. FAST-P is also an expression of Singapore’s longstanding support for transformative global action on climate change, and a continuation of our many efforts to catalyse net zero through finance.
-
-<u>Conclusion</u>
 
 We can get to net zero if we are prepared to approach it creatively and act
 collectively. Blended finance, through FAST-P, is one example of Singapore’s contributions to this effort, bringing together the public, private, and people sectors to drive climate finance, and climate action in our region.
