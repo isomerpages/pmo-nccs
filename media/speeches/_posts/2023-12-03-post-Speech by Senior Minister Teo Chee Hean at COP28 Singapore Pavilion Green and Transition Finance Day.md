@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-**Speech by Senior Minister Teo Chee Hean at the 28th Conference of the Parties Singapore Pavilion Green and Transition Finance Day**
+**Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean at the 28th Conference of the Parties Singapore Pavilion Green and Transition Finance Day**
 
 ***Building Partnerships for Financing Asia's Transition***
 
