@@ -3,6 +3,7 @@ layout: post
 title: Launch of Singapore’s First Utility-Scale Energy Storage System
 subtitle: 23 Oct 2017
 permalink: /media/press-release/launch-of-singapore-s-first-utility-scale-energy-storage-system/
+variant: markdown
 ---
 The Energy Market Authority (EMA) and SP Group today awarded two Singapore-led consortiums to implement the city-state's first utility-scale Energy Storage System (ESS). CW Group and Red Dot Power will receive about $17.8 million in grants for the initiative to build this test-bed.
 
@@ -17,4 +18,4 @@ Mr Ng Wai Choong, Chief Executive of EMA, said: "Insights from this test-bed wou
 EMA and SP Group had earlier launched a Request for Proposal to implement a utility-scale ESS test-bed. Details of the two consortiums can be found in the Annex attached.
 <br><br><br>
 
-Source: [<a href="https://www.ema.gov.sg/news-events/news/media-releases/launch-of-singapores-first-utility-scale-energy-storage-system" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/news-events/news/media-releases/launch-of-singapores-first-utility-scale-energy-storage-system)
+Source: [<a href="https://www.ema.gov.sg/news-events/news/media-releases/launch-of-singapores-first-utility-scale-energy-storage-system" target="_blank">Energy Market Authority</a>](https://www.ema.gov.sg/news-events/news/media-releases/2017/launch-of-singapores-first-utility-scale-energy-storage-system)
