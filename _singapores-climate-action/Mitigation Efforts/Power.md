@@ -3,6 +3,7 @@ title: Power
 permalink: /singapores-climate-action/mitigation-efforts/power/
 description: ""
 third_nav_title: Mitigation Efforts
+variant: markdown
 ---
 ### POWER
 Power generation is one of the major sources of Singapore’s carbon emissions and accounts for about 40% of [our emissions today](/singapores-climate-action/singapores-climate-targets/singapore-emissions-profile/).  With our limited capacity to tap on [alternative energy sources](/singapores-climate-action/singapore-approach-to-alternative-energy/), we currently rely heavily on imported natural gas to power our nation.
@@ -23,7 +24,7 @@ _Regional Power Grids_
 
 Singapore has an ongoing Request for Proposal to import a capacity of 4 GW of low-carbon electricity by 2035, which is expected to make up around 30% of Singapore’s total projected supply.
 
-As a pathfinder to the ASEAN Power Grid, Singapore has [begun importing renewable hydropower from the Lao People's Democratic Republic (PDR) since June 2022](https://www.ema.gov.sg/news-events/news/media-releases/singapore-commences-first-renewable-energy-electricity-import-via-regional-multilateral-power-trade), using existing interconnections via Thailand and Malaysia, as part of the Lao PDR-Thailand-Malaysia-Singapore Power Integration Project (LTMS-PIP).
+As a pathfinder to the ASEAN Power Grid, Singapore has [begun importing renewable hydropower from the Lao People's Democratic Republic (PDR) since June 2022](https://www.ema.gov.sg/news-events/news/media-releases/2022/singapore-commences-first-renewable-energy-electricity-import-via-regional-multilateral-power-trade), using existing interconnections via Thailand and Malaysia, as part of the Lao PDR-Thailand-Malaysia-Singapore Power Integration Project (LTMS-PIP).
 
 To further develop and refine our technical and regulatory frameworks for large-scale electricity imports, Singapore has also announced two small-scale trial imports of electricity: [100 MW from Peninsular Malaysia and 100 MW from a solar farm in Pulau Bulan, Indonesia](https://www.ema.gov.sg/electricity-imports.aspx). 
 
