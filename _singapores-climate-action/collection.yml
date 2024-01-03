@@ -1,0 +1,38 @@
+collections:
+  singapores-climate-action:
+    output: true
+    order:
+      - National Circumstances/.keep
+      - National Circumstances/overview.md
+      - National Circumstances/singapore-s-approach-to-alternative-energy.md
+      - National Circumstances/impact-of-climate-change-in-singapore.md
+      - Singapore's Climate Targets/.keep
+      - Singapore's Climate Targets/Overview.md
+      - Singapore's Climate Targets/Singapore's Emissions Profile.md
+      - singapore-and-international-efforts.md
+      - Mitigation Efforts/.keep
+      - Mitigation Efforts/Overview.md
+      - Mitigation Efforts/Power.md
+      - Mitigation Efforts/Industry.md
+      - Mitigation Efforts/Transport.md
+      - Mitigation Efforts/Buildings.md
+      - Mitigation Efforts/Waste and Water.md
+      - Mitigation Efforts/Households.md
+      - Mitigation Efforts/Carbon Tax.md
+      - Mitigation Efforts/International Collaboration.md
+      - Adaptation Efforts/.keep
+      - Adaptation Efforts/overview.md
+      - Adaptation Efforts/enhancing-knowledge-and-expertise.md
+      - Adaptation Efforts/coastal-protection.md
+      - Adaptation Efforts/water-resource-management.md
+      - Adaptation Efforts/drainage-and-flood-prevention.md
+      - Green Growth Opportunities/.keep
+      - Green Growth Opportunities/overview.md
+      - Green Growth Opportunities/clean-technology.md
+      - Green Growth Opportunities/test-bedding.md
+      - Green Growth Opportunities/green-ict.md
+      - Green Growth Opportunities/Carbon Services And Trading.md
+      - Green Growth Opportunities/climate-risk-management.md
+      - What We Can Do/.keep
+      - What We Can Do/overview.md
+      - What We Can Do/for-organisations.md

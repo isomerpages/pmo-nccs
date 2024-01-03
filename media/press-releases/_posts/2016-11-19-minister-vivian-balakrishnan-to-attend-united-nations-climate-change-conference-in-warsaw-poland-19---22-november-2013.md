@@ -1,0 +1,17 @@
+---
+layout: post
+title: Minister for the Environment and Water Resources Dr Vivian Balakrishnan to Attend United Nations Climate Change Conference In Warsaw, Poland, 19 - 22 November 2013
+subtitle: 19 Nov 2013
+permalink: /media/press-release/minister-vivian-balakrishnan-to-attend-united-nations-climate-change-conference-in-warsaw-poland-19---22-november-2013/
+---
+
+Dr Vivian Balakrishnan, Minister for the Environment and Water Resources, will attend the United Nations Climate Change Conference<a href="#sup1">¹</a> in Warsaw, Poland, from 19 to 22 November 2013.
+
+Minister Balakrishnan will deliver Singapore’s National Statement at the conference and attend the ministerial meetings. He will be accompanied by officials from agencies represented in the Inter-Ministerial Committee on Climate Change.
+
+Jointly issued by:  
+**Ministry of the Environment and Water Resources**  
+**National Climate Change Secretariat, Prime Minister’s Office**  
+**19 November 2013**
+
+<a name="sup1" id="sup1">¹</a>The conference is a joint session of the 19th Session of the Conference of the Parties to the United National Framework Convention on Climate Change (COP19), the 9th Session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP9) and relevant subsidiary bodies.
