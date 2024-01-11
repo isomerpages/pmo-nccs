@@ -1,8 +1,9 @@
 ---
 title: Carbon Tax
 permalink: /singapores-climate-action/mitigation-efforts/carbontax/
-description: ""
+description: Carbon Tax
 third_nav_title: Mitigation Efforts
+variant: tiptap
 ---
 ### CARBON TAX
 Singapore’s carbon tax underpins our net zero targets and climate mitigation efforts by providing an effective economic signal to steer producers and consumers away from carbon-intensive goods and services, hold businesses accountable for their emissions, and enhance the business case for the development of low-carbon solutions. In all, the carbon tax currently covers 80% of our total greenhouse gas (GHG) emissions from about 50 facilities in the manufacturing, power, waste, and water sectors. The carbon tax forms part of Singapore’s comprehensive suite of mitigation measures to support the transition to a low-carbon economy.
