@@ -19,7 +19,6 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 * Ms Grace Fu, Minister for Sustainability and the Environment 
 * Dr Vivian Balakrishnan, Minister for Foreign Affairs  
 * Mr Gan Kim Yong, Minister for Trade and Industry  
-* Mr Chee Hong Tat, Minister for Transport, Second Minister for Finance
 * Mr Desmond Lee, Minister for National Development
 * Ms Indranee Rajah, Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for National Development
 
