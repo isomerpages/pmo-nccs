@@ -16,7 +16,7 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 **Members**
 
 * Mr Lawrence Wong, Deputy Prime Minister, Minister for Finance and Minister-in-charge of Strategy Group
-* Ms Grace Fu, Minister for Sustainability and the Environment 
+* Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge of Trade and Relations
 * Dr Vivian Balakrishnan, Minister for Foreign Affairs  
 * Mr Gan Kim Yong, Minister for Trade and Industry  
 * Mr Desmond Lee, Minister for National Development
