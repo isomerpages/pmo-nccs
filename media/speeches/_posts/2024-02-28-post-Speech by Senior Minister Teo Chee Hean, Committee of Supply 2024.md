@@ -200,8 +200,7 @@ a memorandum of cooperation with Japan to establish the Singapore-Japan
 Green and Digital Shipping corridor. This complements similar partnerships
 with ports in the Netherlands, China, and the US, allowing us to support
 the decarbonisation, digitalisation, and growth of the maritime industry.</p>
-<p><strong>Conclusion</strong>
-</p>
+<p></p>
 <p>Mr Chairman, I have explained why it is in Singapore's interest to commit
 to climate action, outlined concrete steps we are taking as a nation to
 meet our ambitious climate targets, and highlighted how Singapore is stepping
