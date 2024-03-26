@@ -18,7 +18,7 @@ He will represent Singapore at international climate action platforms,
 to contribute to global discourse and collective action. He will also drive
 public-private partnerships with local stakeholders, in particular the
 business community, to help them seize opportunities to succeed in a low-carbon
-future. In addition, Mr Menon will advise NCCS On whole-of-government climate
+future. In addition, Mr Menon will advise NCCS on whole-of-government climate
 policies and action.</p>
 <p>Climate change is an existential threat to the world. Singapore is committed
 to playing its part and has announced to achieve net zero emissions by
