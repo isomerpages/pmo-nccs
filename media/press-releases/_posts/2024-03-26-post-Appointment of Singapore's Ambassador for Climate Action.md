@@ -28,7 +28,7 @@ global hub to do so. Doing so, we also seek to capture new opportunities
 for the Singapore economy.</p>
 <p>Mr Menon was previously Managing Director of the Monetary Authority of
 Singapore, where he helped to build a green finance ecosystem to support
-Singapore’s and Asia’s transition towards a low-carbon future.&nbsp; &nbsp;Mr
+Singapore’s and Asia’s transition towards a low-carbon future.&nbsp; Mr
 Menon led MAS’ efforts to develop a taxonomy for transition financing,
 forge an international coalition to promote transition credits, and build
 a blended finance platform (Financing Asia’s Transition Partnership or
