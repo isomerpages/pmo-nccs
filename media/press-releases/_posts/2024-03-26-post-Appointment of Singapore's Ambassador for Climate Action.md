@@ -18,8 +18,8 @@ He will represent Singapore at international climate action platforms,
 to contribute to global discourse and collective action. He will also drive
 public-private partnerships with local stakeholders, in particular the
 business community, to help them seize opportunities to succeed in a low-carbon
-future. &nbsp;In addition, Mr Menon will advise NCCS On whole-of-government
-climate policies and action.</p>
+future. In addition, Mr Menon will advise NCCS On whole-of-government climate
+policies and action.</p>
 <p>Climate change is an existential threat to the world. Singapore is committed
 to playing its part and has announced to achieve net zero emissions by
 2050. Singapore will play an active role in fostering international collaboration
@@ -34,7 +34,7 @@ forge an international coalition to promote transition credits, and build
 a blended finance platform (Financing Asia’s Transition Partnership or
 FAST-P) to address climate finance gaps and increase the bankability of
 green and transition projects in Asia. Mr Menon has a strong international
-network in climate finance.&nbsp; He has chaired international committees
+network in climate finance.&nbsp;He has chaired international committees
 such as the Network of Central Banks and Supervisors for Greening the Financial
 System and the Asia-Pacific Advisory Board of the Glasgow Financial Alliance
 for Net Zero.</p>
