@@ -24,8 +24,8 @@ policies and action.</p>
 to playing its part and has announced to achieve net zero emissions by
 2050. Singapore will play an active role in fostering international collaboration
 to catalyse global climate action, and will leverage our strengths as a
-global hub to do so. Doing so, we also seek to capture new opportunities
-for the Singapore economy.</p>
+global hub to do so. We also seek to capture new opportunities for the
+Singapore economy.</p>
 <p>Mr Menon was previously Managing Director of the Monetary Authority of
 Singapore, where he helped to build a green finance ecosystem to support
 Singapore’s and Asia’s transition towards a low-carbon future.&nbsp;Mr
