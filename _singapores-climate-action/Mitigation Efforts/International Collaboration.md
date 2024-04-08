@@ -17,9 +17,11 @@ As an advocate of close bilateral, regional and plurilateral cooperation; Singap
 
 Singapore is committed to ensuring the integrity, quality and transparency of carbon markets. This includes robust and independent accounting, and the avoidance of double counting, and requiring corresponding adjustments.
 
-To advance the generation and sharing of carbon credits to support Singapore and other partner countries’ climate ambitions, Singapore has signed Memoranda of Understanding (MOUs) with countries such as Colombia, Indonesia, Morocco, Peru, Papua New Guinea and Vietnam on carbon credits collaboration aligned to Article 6 of the Paris Agreement. These collaborations will also prioritise sustainable development and co-benefits to the local communities and economy.
+To advance the generation and sharing of carbon credits to support Singapore and other partner countries’ climate ambitions, Singapore has signed Memoranda of Understanding (MOUs) with countries such as Cambodia, Chile, Mongolia and Rwanda on carbon credits collaboration aligned to Article 6 of the Paris Agreement. These collaborations will also prioritise sustainable development and co-benefits to the local communities and economy.
 
-Under these MOUs, Singapore and partner countries will work towards a legally binding Implementation Agreement that sets out a bilateral framework for the international transfer of correspondingly adjusted mitigation outcomes, and identifies potential Article 6-compliant mitigation activities which can support both countries to achieve their respective NDCs. Singapore has since substantively concluded the negotiation of the Implementation Agreement with Ghana.
+Under these MOUs, Singapore and partner countries will work towards a legally binding Implementation Agreement that sets out a bilateral framework for the international transfer of correspondingly adjusted mitigation outcomes, and identifies potential Article 6-compliant mitigation activities which can support both countries to achieve their respective NDCs. Singapore has since substantively concluded the negotiation of the Implementation Agreement with Bhutan, Ghana, Paraguay and Vietnam. At COP-28 in December 2023, Singapore signed our first Implementation Agreement with Papua New Guinea. 
+
+More details can be found at Singapore’s Carbon Markets Cooperation [website](https://www.carbonmarkets-cooperation.gov.sg/).
 
 **Collaboration on Low-Carbon Solutions**
 
