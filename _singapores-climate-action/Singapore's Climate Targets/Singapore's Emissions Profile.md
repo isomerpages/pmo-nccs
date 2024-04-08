@@ -40,4 +40,3 @@ the highest per capita emissions.<sup>2</sup>&nbsp;</p>
 <p><em><sup>2</sup>Based on IEA data from IEA (2023) Greenhouse Gas Emissions from Energy, <a href="http://www.iea.org/statistics" rel="noopener noreferrer nofollow" target="_blank"><u>www.iea.org/statistics</u></a>, All rights reserved.</em>&nbsp;</p>
 <p>See <a href="https://www.nccs.gov.sg/images/2020-emissions-profile.png" class="Hyperlink SCXW241434818 BCX0" rel="noreferrer noopener" target="_blank"><u>Singapore’s past emissions data</u></a>.&nbsp;</p>
 <p></p>
-<p>See <a href="/images/2020-emissions-profile.png" rel="noopener noreferrer nofollow" target="_blank">Singapore’s past emissions data</a>.</p>
