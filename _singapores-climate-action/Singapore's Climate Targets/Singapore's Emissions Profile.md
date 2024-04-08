@@ -27,8 +27,7 @@ a significant proportion of our total carbon emissions, we are <a href="/singapo
 </p>
 <p>Singapore performs well in terms of carbon intensity globally (136<sup>th</sup> of
 155 countries/territories for CO<sub>2</sub> emissions per dollar GDP PPP
-in 2021, with the 1<sup>st</sup> having the highest carbon intensity) in
-terms of CO<sub>2</sub> emissions per dollar GDP.<sup>1</sup>
+in 2021, with the 1<sup>st</sup> having the highest carbon intensity).<sup>1</sup>
 </p>
 <p><em><sup>1</sup>Based on IEA data from IEA (2023) Greenhouse Gas Emissions from Energy, <a href="http://www.iea.org/statistics" rel="noopener noreferrer nofollow" target="_blank">www.iea.org/statistics</a>, All rights reserved.</em>&nbsp;</p>
 <p></p>
