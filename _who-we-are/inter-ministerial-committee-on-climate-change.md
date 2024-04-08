@@ -26,7 +26,7 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 
 **Committees and Work Groups Addressing Singapore's Climate Change-related Issues**
 
-![committees-and-work-groups-addressing-singapores-climate-change-related-issues-updated](/images/committees-and-work-groups-addressing-singapores-climate-change-related-issues-updated.png  "committees-and-work-groups-addressing-singapores-climate-change-related-issues-updated")
+![](/images/inter_ministerial_committee_on_climate_change.png)
 
 **IMCCC Executive Committee**
 
@@ -76,4 +76,4 @@ The Resilience Working Group (RWG) studies Singapore’s vulnerability to the ef
 
 **Sustainability & Engagement Working Group**
 
-The Sustainability & Engagement Working Group (SEWG) develops the national sustainability agenda to strengthen Singapore’s resource resilience, and addresses emerging and cross-cutting issues on sustainability, guide planning and implementation of both domestic and international communications and engagement for climate change & sustainability, as well as leading sustainability capability building in the government. 
+The Sustainability & Engagement Working Group (SEWG) develops the national sustainability agenda to strengthen Singapore’s resource resilience, and addresses emerging and cross-cutting issues on sustainability, guide planning and implementation of both domestic and international communications and engagement for climate change & sustainability, as well as leading sustainability capability building in the government.
