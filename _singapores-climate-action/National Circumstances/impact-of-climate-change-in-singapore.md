@@ -51,9 +51,6 @@ Singapore has undertaken three National Climate Change Studies over the past dec
 The findings of the latest study, the Third National Climate Change Study (V3), was released by Centre for Climate Research Singapore (CCRS) in January 2024. V3 projects higher temperatures, more wet and dry extremes, and accelerating increase in mean sea levels for Singapore and Southeast Asia by the end of the century. This is consistent with the findings of the [Intergovernmental Panel on Climate Change’s (IPCC) Working Group I Sixth Assessment Report (AR6)](https://www.ipcc.ch/assessment-report/ar6/). The updated climate projections will enable the Singapore Government to review and refine our climate adaptation plans to ensure that Singapore remains resilient to the impact of climate change. Detailed results can be found in [V3 Stakeholder and Technical Reports](https://www.mss-int.sg/v3-climate-projections/resources/v3-reports) and [V3 data visualisation portal](http://www.mss-int.sg/V3-climate-projections).
 
 <a href="/images/v3_infographic_english.jpg?sfvrsn=1e966f02_0" target="_blank">![](/images/v3_infographic_english.jpg)</a>
-
-<a href="/images/info-1-01.jpg?sfvrsn=1e966f02_0" target="_blank"> ![Infographic - Climate Change in Singapore](/images/info-1-01.jpg?sfvrsn=1e966f02_0 "Infographic - Climate Change in Singapore")</a> 
-
 *(Click to download larger image)*
 
 *Source: CCRS*
