@@ -152,7 +152,7 @@ Government will also expand the CFHP to more households.</p>
 <p><strong>5. How would the Government ensure that consumers are not over-charged by electricity retailers passing on more than 100 per cent of the carbon tax to consumers?</strong>
 </p>
 <p>Today’s electricity retail market is competitive and discourages retailers
-from raising their electricity rates excessively. Nevertheless, Energy
+from raising their electricity rates excessively. Nevertheless, the Energy
 Market Authority will continue to ensure fair and efficient conduct of
 market players. Government agencies will also work closely with the Consumer
 Association of Singapore and Competition &amp; Consumer Commission of Singapore
