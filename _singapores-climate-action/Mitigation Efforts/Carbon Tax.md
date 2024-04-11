@@ -87,7 +87,7 @@ from around 50 facilities in the manufacturing, power, waste, and water
 sectors. Facilities in other sectors also indirectly face a carbon price
 on the electricity they consume as power generation companies are expected
 to pass on some degree of their own tax burden through increased electricity
-tariffs. After we accounting for fuel excise duties that incentivises the
+tariffs. After accounting for fuel excise duties that incentivises the
 reduction of transport emissions, the overall coverage rises to about 90%.</p>
 <p><strong>2. How are emissions-intensive trade-exposed (EITE) sectors determined? Why is there a need for the transition framework for EITE sectors?</strong>
 </p>
