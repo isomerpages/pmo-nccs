@@ -168,3 +168,4 @@ This limit is aligned with other comparable jurisdictions with similar
 climate ambitions, such as South Korea and California. We will continue
 to review the facility-level limit overtime to align with international
 developments.</p>
+<p><sup>1</sup>  <em>Based on World Bank’s 2023 State and Trends of Carbon Pricing report.</em>&nbsp;</p>
