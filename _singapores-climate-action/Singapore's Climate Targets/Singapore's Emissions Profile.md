@@ -5,30 +5,37 @@ third_nav_title: Singapore's Climate Targets
 description: Singapore's Emissions Profile
 variant: tiptap
 ---
-### SINGAPORE'S EMISSIONS PROFILE
-
-Climate change is a global challenge that requires a global response. Despite the [unique challenges and constraints](/singapores-climate-action/overview/national-circumstances) Singapore faces as a dense built-up city-state with no hinterland and limited resources, we are committed to doing our part in the global fight against climate change.
-
-Historically, our strategic position along the East-West trade routes has made Singapore a natural location for oil storage and refining facilities serving the region. Building on our position as a key regional port, the refining and petrochemical sector helps create synergies and is part of a business supply network in Southeast Asia, the Western Pacific, South Asia and Australasia. Although the refining and petrochemical sector remains a significant proportion of our total carbon emissions, we are [taking steps to reduce emissions](/singapores-climate-action/mitigation-efforts/overview/).
-
-**Emissions Profile**
-
-![](/images/2021-emissions%20profile.png)
-
-**Carbon Intensity (Emissions per $GDP)**
-
-Based on 2018 International Energy Agency (IEA) data, Singapore ranks 126<sup>th</sup> of 142 countries in terms of CO<sub>2</sub> emissions per dollar GDP.
-
-![carbon-intensity](/images/carbon-intensity.png "carbon-intensity")
-
-*Source: CO<sub>2</sub>  Emissions from Fuel Combustion - 2018 Highlights © OECD/International Energy Agency, 2018*
-
-**Per Capita Emissions**
-
-Based on 2018 IEA data, Singapore ranks 27<sup>th</sup> out of 142 countries in terms of emissions per capita.
-
-![per-capita](/images/per-capita.png "per-capita")
-
-*Source: CO<sub>2</sub>  Emissions from Fuel Combustion - 2018 Highlights © OECD/International Energy Agency, 2018*
-
-See [Singapore’s past emissions data](/images/2020-emissions-profile.png).
+<h3>SINGAPORE'S EMISSIONS PROFILE</h3>
+<p>Climate change is a global challenge that requires a global response.
+Despite the <a href="/singapores-climate-action/overview/national-circumstances" rel="noopener noreferrer nofollow" target="_blank">unique challenges and constraints</a> Singapore
+faces as a dense built-up city-state with no hinterland and limited resources,
+we are committed to doing our part in the global fight against climate
+change.</p>
+<p>Historically, our strategic position along the East-West trade routes
+has made Singapore a natural location for oil storage and refining facilities
+serving the region. Building on our position as a key regional port, the
+refining and petrochemical sector helps create synergies and is part of
+a business supply network in Southeast Asia, the Western Pacific, South
+Asia and Australasia. Although the refining and petrochemical sector remains
+a significant proportion of our total carbon emissions, we are <a href="/singapores-climate-action/mitigation-efforts/overview/" rel="noopener noreferrer nofollow" target="_blank">taking steps to reduce emissions</a>.</p>
+<p><strong>Emissions Profile</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2021-emissions%20profile.png">
+</div>
+<p><strong>Carbon Intensity (CO<sub>2</sub> per $GDP)</strong>
+</p>
+<p>Singapore performs well in terms of carbon intensity globally (136<sup>th</sup> of
+155 countries/territories for CO<sub>2</sub> emissions per dollar GDP PPP
+in 2021, with the 1<sup>st</sup> having the highest carbon intensity).<sup>1</sup>
+</p>
+<p><em><sup>1</sup>Based on IEA data from IEA (2023) Greenhouse Gas Emissions from Energy, <a href="http://www.iea.org/statistics" rel="noopener noreferrer nofollow" target="_blank">www.iea.org/statistics</a>, All rights reserved.</em>&nbsp;</p>
+<p></p>
+<p><strong>Per Capita Emissions</strong>
+</p>
+<p>Singapore ranked 21<sup>st</sup> out of 155 countries/territories in terms
+of CO<sub>2</sub> emissions per capita in 2021, with the 1<sup>st</sup> having
+the highest per capita emissions.<sup>2</sup>&nbsp;</p>
+<p><em><sup>2</sup>Based on IEA data from IEA (2023) Greenhouse Gas Emissions from Energy, <a href="http://www.iea.org/statistics" rel="noopener noreferrer nofollow" target="_blank"><u>www.iea.org/statistics</u></a>, All rights reserved.</em>&nbsp;</p>
+<p>See <a href="https://www.nccs.gov.sg/images/2020-emissions-profile.png" class="Hyperlink SCXW241434818 BCX0" rel="noreferrer noopener" target="_blank"><u>Singapore’s past emissions data</u></a>.&nbsp;</p>
+<p></p>

@@ -1,6 +1,7 @@
 ---
 title: Global Impact of Climate Change
 permalink: /about-climate-change/global-impact-of-climate-change/
+variant: markdown
 ---
 ### GLOBAL IMPACT OF CLIMATE CHANGE
 
