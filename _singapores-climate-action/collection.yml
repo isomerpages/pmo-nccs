@@ -2,6 +2,7 @@ collections:
   singapores-climate-action:
     output: true
     order:
+      - International Efforts/.keep
       - National Circumstances/.keep
       - National Circumstances/overview.md
       - National Circumstances/singapore-s-approach-to-alternative-energy.md
