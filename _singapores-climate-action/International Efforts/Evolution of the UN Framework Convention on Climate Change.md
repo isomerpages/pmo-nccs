@@ -66,13 +66,12 @@ climate finance and technology to developing countries.</p>
 <p><strong>2013</strong>
 </p>
 <p>In Warsaw, Poland, the Parties produced a set of decisions including a
-rulebook for [reducing emissions from deforestation and forest degradation](
-<a href="https://redd.unfccc.int/" rel="noopener noreferrer nofollow" target="_blank">https://redd.unfccc.int/</a>) and a mechanism to address [loss and damage](
-<a href="https://unfccc.int/topics/adaptation-and-resilience/workstreams/approaches-to-address-loss-and-damage-associated-with-climate-change-impacts-in-developing-countries" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/topics/adaptation-and-resilience/workstreams/approaches-to-address-loss-and-damage-associated-with-climate-change-impacts-in-developing-countries</a>)
-caused by long-term climate change impacts. They also agreed to communicate
-their respective contributions towards the global climate agreement well
-in advance of the 21st Conference of the Parties to the UNFCCC (COP-21)
-in Paris in 2015.</p>
+rulebook for <a href="https://redd.unfccc.int/" class="Hyperlink SCXW209161515 BCX0" rel="noreferrer noopener" target="_blank"><u>reducing emissions from deforestation and forest degradation</u></a> and
+a mechanism to address <a href="https://unfccc.int/topics/adaptation-and-resilience/workstreams/approaches-to-address-loss-and-damage-associated-with-climate-change-impacts-in-developing-countries" class="Hyperlink SCXW209161515 BCX0" rel="noreferrer noopener" target="_blank"><u>loss and damage</u></a> caused
+by long-term climate change impacts. They also agreed to communicate their
+respective contributions towards the global climate agreement well in advance
+of the 21st Conference of the Parties to the UNFCCC (COP-21) in Paris in
+2015.</p>
 <p><strong>2014</strong>
 </p>
 <p>In Lima, Peru, the Parties agreed on various ground rules to guide the
