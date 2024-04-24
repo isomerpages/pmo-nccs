@@ -2,6 +2,7 @@ collections:
   singapores-climate-action:
     output: true
     order:
+      - International Efforts/singapore-and-international-efforts.md
       - International Efforts/.keep
       - National Circumstances/.keep
       - National Circumstances/overview.md
