@@ -30,8 +30,8 @@ I Parties) agreeing to binding targets for emissions reductions from 2008
 to 2012.</p>
 <p><strong>2005</strong>
 </p>
-<p>[Kyoto Protocol](<a href="https://unfccc.int/process-and-meetings/the-kyoto-protocol/what-is-the-kyoto-protocol/kyoto-protocol-targets-for-the-first-commitment-period" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/process-and-meetings/the-kyoto-protocol/what-is-the-kyoto-protocol/kyoto-protocol-targets-for-the-first-commitment-period</a>)
-came into effect.</p>
+<p><a href="https://unfccc.int/process-and-meetings/the-kyoto-protocol/what-is-the-kyoto-protocol/kyoto-protocol-targets-for-the-first-commitment-period" rel="noopener noreferrer nofollow" target="_blank">Kyoto Protocol</a> came
+into effect.</p>
 <p><strong>2007</strong>
 </p>
 <p>Bali Road Map established a new negotiating track to finalise a binding
