@@ -114,3 +114,20 @@ issue under the Paris Agreement Work Programme.</p>
 that facilitate the transfer of emission reductions, or carbon credits,
 between countries to meet their NDC, while ensuring high standards of environmental
 integrity.</p>
+<p><strong>2023</strong>&nbsp;
+<br>&nbsp;
+<br>At COP-28, Singapore and Norway co-facilitated ministerial consultations
+on mitigation to raise global climate action and accelerate the energy
+transition in this decade. Singapore also co-chaired the first Global Stocktake
+(GST) which reviewed the collective progress towards achieving the goals
+of the Paris Agreement. &nbsp;
+<br>&nbsp;
+<br>Singapore announced various initiatives to support and accelerate a green
+transition in Singapore, our region, and beyond, including the <a href="https://www.mas.gov.sg/news/speeches/2023/getting-transition-finance-right" class="Hyperlink SCXW130847801 BCX0" rel="noreferrer noopener" target="_blank">FAST-P (Financing Asia’s Transition Partnership)</a> blended
+finance initiative, the <a href="https://www.mas.gov.sg/news/media-releases/2023/mas-launches-worlds-first-multi-sector-transition-taxonomy" class="Hyperlink SCXW130847801 BCX0" rel="noreferrer noopener" target="_blank">Singapore-Asia Taxonomy</a> and
+the <a href="https://www.mas.gov.sg/news/media-releases/2023/mas-launches-traction-and-announces-pilots-to-develop-transition-credits" class="Hyperlink SCXW130847801 BCX0" rel="noreferrer noopener" target="_blank">Transition Credits Coalition (TRACTION)</a>.&nbsp;</p>
+<p>Singapore organised the COP28 Singapore Pavilion, showcasing Singapore’s
+climate solutions, innovations and partnerships to accelerate collective
+climate action.<strong> </strong>Singapore sent our first official youth
+delegation to COP28, with youth delegates identified from the Climate Youth
+Development Programme.</p>
