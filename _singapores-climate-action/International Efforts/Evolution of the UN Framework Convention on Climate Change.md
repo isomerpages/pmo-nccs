@@ -8,29 +8,17 @@ third_nav_title: International Efforts
 ### Evolution of the UN Framework Convention on Climate Change
 **1990**
 
-IPCC's First Assessment Report underscored the seriousness of climate
-change and linked emissions from human activities to the warming of the
-earth's surface beyond natural effects.
+IPCC's First Assessment Report underscored the seriousness of climate change and linked emissions from human activities to the warming of the earth's surface beyond natural effects.
 
 **1992**
 
-The draft of the Framework Convention deliberated at the UN Conference
-on Environment and Development (UNCED) in Rio de Janeiro. The preparatory
-committee of UNCED and the Main Committee of the Rio meeting was chaired
-by Singapore's Ambassador-at-Large Tommy Koh. It led to the landmark UNFCCC
-adopted by the United Nations. The framework required governments to develop
-policies and strategies to reduce greenhouse gas emissions within their
-national boundaries and adapt to irreversible climate change.
+The draft of the Framework Convention deliberated at the UN Conference on Environment and Development (UNCED) in Rio de Janeiro. The preparatory committee of UNCED and the Main Committee of the Rio meeting was chaired by Singapore's Ambassador-at-Large Tommy Koh. It led to the landmark UNFCCC adopted by the United Nations. The framework required governments to develop policies and strategies to reduce greenhouse gas emissions within their national boundaries and adapt to irreversible climate change.
 
-The Convention on Climate Change enjoyed near universal membership, making
-it one of the most globally supported international agreements under the
-UN.
+The Convention on Climate Change enjoyed near universal membership, making it one of the most globally supported international agreements under the UN.
 
 **1997**
 
-The Kyoto Protocol attendees negotiated with 41 developed countries (Annex
-I Parties) agreeing to binding targets for emissions reductions from 2008
-to 2012.
+The Kyoto Protocol attendees negotiated with 41 developed countries (Annex I Parties) agreeing to binding targets for emissions reductions from 2008 to 2012.
 
 **2005**
 
