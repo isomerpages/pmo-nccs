@@ -5,21 +5,22 @@ variant: markdown
 description: ""
 third_nav_title: International Efforts
 ---
-<h3>Evolution of the UN Framework Convention on Climate Change</h3>
-<p><strong>1990</strong>
-</p>
-<p>IPCC's First Assessment Report underscored the seriousness of climate
+### Evolution of the UN Framework Convention on Climate Change
+**1990**
+
+IPCC's First Assessment Report underscored the seriousness of climate
 change and linked emissions from human activities to the warming of the
-earth's surface beyond natural effects.</p>
-<p><strong>1992</strong>
-</p>
-<p>The draft of the Framework Convention deliberated at the UN Conference
+earth's surface beyond natural effects.
+
+**1992**
+
+The draft of the Framework Convention deliberated at the UN Conference
 on Environment and Development (UNCED) in Rio de Janeiro. The preparatory
 committee of UNCED and the Main Committee of the Rio meeting was chaired
 by Singapore's Ambassador-at-Large Tommy Koh. It led to the landmark UNFCCC
 adopted by the United Nations. The framework required governments to develop
 policies and strategies to reduce greenhouse gas emissions within their
-national boundaries and adapt to irreversible climate change.</p>
+national boundaries and adapt to irreversible climate change.<p></p>
 <p>The Convention on Climate Change enjoyed near universal membership, making
 it one of the most globally supported international agreements under the
 UN.</p>
