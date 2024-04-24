@@ -142,8 +142,4 @@ transition in Singapore, our region, and beyond, including the [FAST-P (Financin
 finance initiative, the [Singapore-Asia Taxonomy](https://www.mas.gov.sg/news/media-releases/2023/mas-launches-worlds-first-multi-sector-transition-taxonomy) and
 the [Transition Credits Coalition (TRACTION)](https://www.mas.gov.sg/news/media-releases/2023/mas-launches-traction-and-announces-pilots-to-develop-transition-credits)
 
-Singapore organised the COP28 Singapore Pavilion, showcasing Singapore’s
-climate solutions, innovations and partnerships to accelerate collective
-climate action.<strong> </strong>Singapore sent our first official youth
-delegation to COP28, with youth delegates identified from the Climate Youth
-Development Programme.<p></p>
+Singapore organised the COP28 Singapore Pavilion, showcasing Singapore’s climate solutions, innovations and partnerships to accelerate collective climate action. Singapore sent our first official youth delegation to COP28, with youth delegates identified from the Climate Youth Development Programme.
