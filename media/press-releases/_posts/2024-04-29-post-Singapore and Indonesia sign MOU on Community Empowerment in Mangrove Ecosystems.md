@@ -8,7 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Singapore and Indonesia sign MOU on Community Empowerment in Mangrove Ecosystems</strong>
+<h4><strong>Singapore and Indonesia sign MOU on Community Empowerment in Mangrove Ecosystems</strong></h4>
+<p><strong>MEDIA RELEASE ON MOU BETWEEN SINGAPORE AND INDONESIA ON COMMUNITY EMPOWERMENT IN MANGROVE ECOSYSTEMS</strong>
 </p>
 <p>Singapore’s Senior Minister and Coordinating Minister for National Security
 Teo Chee Hean and Indonesian Coordinating Minister for Maritime Affairs
