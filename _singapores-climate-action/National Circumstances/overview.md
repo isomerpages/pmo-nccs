@@ -22,4 +22,4 @@ Singapore performs well in terms of carbon intensity globally. While Singaporeâ€
 
 <sup>2</sup> *Source: World Trade Organization, Trade Profiles 2023 â€“ Singapore.*
 
-<sup>3</sup> *Based on IEA data from IEA (2023) Greenhouse Gas Emissions from Energy, [www.iea.org/statistics](http://www.iea.org/statistics), All rights reserved.*
+<sup>3</sup> *Based on IEA data from IEA (2023) Greenhouse Gas Emissions from Energy, [https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy](https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy), All rights reserved.*
