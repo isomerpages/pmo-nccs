@@ -51,4 +51,6 @@ sections:
       url: /media/press-release/singapore-will-raise-climate-ambition
       alt: Members of the Ministry
       image: /images/carbontaxglobe.png
+  - resources:
+      id: resources
 ---
