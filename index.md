@@ -53,4 +53,5 @@ sections:
       image: /images/carbontaxglobe.png
   - resources:
       id: resources
+      button: MORE MEDIA ARTICLES
 ---
