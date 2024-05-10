@@ -15,7 +15,7 @@ sections:
   - hero:
       title: <font size="8">National Climate Change Secretariat</font>
       background: /images/solar-panel4.jpg
-      button: Read More
+      button: About NCCS
       url: /who-we-are/about-nccs/
       key_highlights:
         - title: Mitigation Efforts
