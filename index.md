@@ -35,7 +35,7 @@ sections:
       description: Singapore raises its national climate target to achieve net zero
         emissions by 2050 as part of our Long-Term Low-Emissions Development
         Strategy, and revised our 2030 Nationally Determined Contribution (NDC).
-      button: READ MORE
+      button: SINGAPORE’S NET ZERO TARGET
       url: /media/press-releases/singapore-commits-to-achieve-net-zero/
       image: /images/infopic slide 1_cropped.jpg
       alt: Image alt text
