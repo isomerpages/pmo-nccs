@@ -5,6 +5,7 @@ title: Speech by Deputy Prime Minister, Coordinating Minister for National
   Summit at Capella Singapore
 subtitle: 23 Feb 2013
 permalink: /media/speeches/speech-by-mr-teo-chee-hean-deputy-prime-minister-coordinating-minister-for-national-security-and-minister-for-home-affairs-at-the-world-oceans-summit-23-february-2012-at-capella-singapore/
+variant: markdown
 ---
 His Excellency, Mr Olafur Ragnar Grimsson  
 President, Republic of Iceland
@@ -104,7 +105,7 @@ One of the issues is over areas beyond national jurisdiction (ABNJ), which repre
 
 <sup>1</sup>International Maritime Organisation (IMO), “International Shipping Facts and Figures – Information Resources on Trade, Safety, Security, Environment” (Maritime Knowledge Centre, July 2011).
 
-<sup>2</sup>Global Marine Oil Pollution Information Gateway ([<a href="http://oils.gpa.unep.org/facts/quantities.htm" target="_blank">http://oils.gpa.unep.org/facts/quantities.htm</a>](http://oils.gpa.unep.org/facts/quantities.htm))
+<sup>2</sup>Global Marine Oil Pollution Information Gateway ([<a href="http://oils.gpa.unep.org/facts/facts.htm" target="_blank">http://oils.gpa.unep.org/facts/facts.htm</a>](http://oils.gpa.unep.org/facts/facts.htm))
 
 <sup>3</sup>Biliana Cicin-Sain et al, “Oceans at Rio+20: How Well are we Doing in Meeting the Commitments from the 1992 Earth Summit and the 2002 World Summit on Sustainable Development?”, University of Delaware and Global Ocean Forum, September 2011 (Oceans at Rio+20)
 

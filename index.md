@@ -13,9 +13,9 @@ image: /images/nccs-logo.svg
 permalink: /
 sections:
   - hero:
-      title: <font size=8>National Climate Change Secretariat</font>
+      title: <font size="8">National Climate Change Secretariat</font>
       background: /images/solar-panel4.jpg
-      button: Read More
+      button: About NCCS
       url: /who-we-are/about-nccs/
       key_highlights:
         - title: Mitigation Efforts
@@ -31,30 +31,27 @@ sections:
           description: Forging international collaborations
           url: /singapores-climate-action/singapore-and-international-efforts/
   - infopic:
-      title: <font size=6.5>SINGAPORE REVISES NET ZERO TARGETS & 2030 NDC</font>
+      title: <font size="6.5">SINGAPORE REVISES NET ZERO TARGETS & 2030 NDC</font>
       description: Singapore raises its national climate target to achieve net zero
         emissions by 2050 as part of our Long-Term Low-Emissions Development
         Strategy, and revised our 2030 Nationally Determined Contribution (NDC).
-      button: READ MORE
+      button: SINGAPORE’S NET ZERO TARGET
       url: /media/press-releases/singapore-commits-to-achieve-net-zero/
       image: /images/infopic slide 1_cropped.jpg
       alt: Image alt text
   - infopic:
-      title: <font size=6.5>SINGAPORE’S CLIMATE AMBITION AND REVISED CARBON TAX
+      title: <font size="6.5">SINGAPORE’S CLIMATE AMBITION AND REVISED CARBON TAX
         LEVELS</font>
       description: As announced at Budget 2022, Singapore will raise our climate
         ambition to achieve net zero emissions by or around mid-century. To
         enable the transition to a low-carbon future, we will raise the carbon
         tax levels progressively from 2024 to send the right price signal to
         businesses and individuals to reduce their carbon footprint.
-      button: READ MORE
+      button: SINGAPORE’S CLIMATE AMBITION
       url: /media/press-release/singapore-will-raise-climate-ambition
       alt: Members of the Ministry
       image: /images/carbontaxglobe.png
   - resources:
-      "0":
-        title: Media
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: View All
+      id: resources
+      button: MORE MEDIA ARTICLES
 ---
