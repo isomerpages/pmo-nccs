@@ -4,6 +4,7 @@ title: NEA to Launch the Energy Efficiency Fund (E2F) with Greater Emphasis on
   Improving Energy Efficiency Among Manufacturing SMEs
 subtitle: 31 Mar 2017
 permalink: /media/press-release/nea-to-launch-the-energy-efficiency-fund-(e2f)-with-greater-emphasis-on-improving-energy-efficiency-among-manufacturing-smes/
+variant: markdown
 ---
 *SMEs can receive co-funding of up to 30 per cent of their investments in energy efficient technologies*
 
@@ -13,13 +14,13 @@ The objective of the E2F is to support industrial companies to design resource e
 
 NEA will place greater emphasis on improving manufacturing SMEs’ energy efficiency efforts with the support of the Singapore Economic Development Board. NEA has pre-identified a list of energy efficiency retrofit projects for which the application and processing procedures are simplified. Please refer to **[Annex A](https://go.gov.sg/annexa-perception-survey-of-hawker-centre-patrons-2018)** for further details. For example, a manufacturing SME that chooses to replace its existing motor with an energy efficient one only needs to submit the motor energy performance test report issued by an accredited laboratory to NEA for verification of energy savings. Selecting an IE3 motor instead of an IE1 motor would result in energy cost savings per annum ranging from $130 to $4000 and the additional investment can be recovered within 1.2 to 2.4 years. NEA will co-fund up to 30 per cent of the motor replacement project’s qualifying cost. Manufacturing companies can also consider more complex energy efficiency improvement projects, such as high efficiency heating and cooling systems.
 
-For more details on the E2F, please refer to **[Annex B](https://www.nccs.gov.sg/files/docs/default-source/news-documents/annex-b_nea_pr_310317.pdf)** or visit the e2Singapore website [here](https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-fund).
+For more details on the E2F, please refer to **[Annex B](https://www.nccs.gov.sg/files/docs/default-source/news-documents/annex-b_nea_pr_310317.pdf)** or visit the e2Singapore website [here](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency).
 
 **Annex C** – [<a href="/files/docs/default-source/news-documents/annex-c_nea_pr_310317.pdf" target="_blank">Components supported under E2F at a glance</a>](/files/docs/default-source/news-documents/annex-c_nea_pr_310317.pdf)
 
 \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
 
-*[1] Under the Paris Agreement on climate change, Singapore has formalised its pledge to reduce its emissions intensity&#x2A;*  by 36 per cent from 2005 levels by 2030 and to stabilise greenhouse gas (GHG) emissions with the aim of peaking around 2030.
+*[1] Under the Paris Agreement on climate change, Singapore has formalised its pledge to reduce its emissions intensity**  by 36 per cent from 2005 levels by 2030 and to stabilise greenhouse gas (GHG) emissions with the aim of peaking around 2030.
 
 **Emissions Intensity refers to GHG emissions per dollar of GDP, measured in CO<sub>2</sub>-equivalent per dollar.*
 
