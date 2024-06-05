@@ -29,7 +29,7 @@ a significant proportion of our total carbon emissions, we are <a href="/singapo
 155 countries/territories for CO<sub>2</sub> emissions per dollar GDP PPP
 in 2021, with the 1<sup>st</sup> having the highest carbon intensity).<sup>1</sup>
 </p>
-<p><em><sup>1</sup>Based on IEA data from IEA (2023) Greenhouse Gas Emissions from Energy, <a href="http://www.iea.org/statistics" rel="noopener noreferrer nofollow" target="_blank">www.iea.org/statistics</a>, All rights reserved.</em>&nbsp;</p>
+<p><em><sup>1</sup>Based on IEA data from IEA (2023) Greenhouse Gas Emissions from Energy, <a href="https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy</u></a>, All rights reserved.</em>&nbsp;</p>
 <p></p>
 <p><strong>Per Capita Emissions</strong>
 </p>
