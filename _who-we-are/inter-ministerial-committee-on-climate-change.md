@@ -41,7 +41,7 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 
 * Mr Stanley Loh, Permanent Secretary (Sustainability and the Environment)  
 * Mrs Tan Ching Yee, Permanent Secretary (Finance)  
-* Ms Lai Wei Lin, Second Permanent Secretary (Finance)
+* Mr Lai Chung Han, Permanent Secretary (Finance)(Development)
 * Mr Albert Chua, Permanent Secretary (Foreign Affairs)  
 * Mrs Ow Foong Pheng, Permanent Secretary (National Development)  
 * Mr Tan Chorh Chuan, Permanent Secretary (National Research and Development)  
