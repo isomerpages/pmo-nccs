@@ -100,7 +100,7 @@ I hope these principles provide some useful parameters to spark off discussions 
 **Conclusion**    
 This World Oceans Summit, held on the 30th anniversary of UNCLOS and the 20th anniversary of the Earth Summit, has brought together stakeholders and interested parties, with leading experts and scientists. I am confident that you will collectively surface fresh insights and ideas for strengthening our existing framework of ocean governance. We all have a common interest, and a common responsibility, for harmoniously managing the use of our oceans, in a sustainable manner, for the benefit of the generations to come.
 
-37.I wish everyone a stimulating and fruitful time at the Summit. Thank you.
+I wish everyone a stimulating and fruitful time at the Summit. Thank you.
 <br><br>
 
 <sup>1</sup>International Maritime Organisation (IMO), “International Shipping Facts and Figures – Information Resources on Trade, Safety, Security, Environment” (Maritime Knowledge Centre, July 2011).
