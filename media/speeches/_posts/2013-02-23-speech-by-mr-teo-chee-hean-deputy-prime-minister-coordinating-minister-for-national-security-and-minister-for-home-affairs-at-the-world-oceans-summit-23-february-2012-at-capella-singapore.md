@@ -82,40 +82,40 @@ While littoral states can address the sustainability of coastal and marine eco-s
 
 One of the issues is over areas beyond national jurisdiction (ABNJ), which represent 59 per cent of the area of the global oceans<sup>15</sup>. Given the growing momentum at the UN to develop a system for managing these areas and their resources, this Summit provides a timely and useful platform to debate issues and surface ideas related to the governance of areas beyond national jursidiction. Some of the questions that we need to think about include: How do we continue to ensure that all competing uses of these areas are adequately balanced? How do we create a compliance and enforcement mechanism to regulate activities beyond national jurisdiction, and how do we resolve disputes that arise in these areas?
 
-29.Another topic of global significance is the governance of the Arctic, in the light of global climate change and the receding polar ice-cap. This will have significant impact on sea levels and weather patterns. The Arctic States have primary responsibility over the Arctic waters within their sovereign jurisdiction, and have a particular interest in the governance of the Arctic as a whole. Extra-regional countries, however, also have a useful and legitimate role to play, for example with regard to maritime passages that will become open for international navigation for longer periods each year. Singapore has been following developments in the Arctic closely. Even though we are located near the equator, developments in the Arctic will have a global impact, and we therefore stand ready to participate actively and contribute constructively in these discussions.
+Another topic of global significance is the governance of the Arctic, in the light of global climate change and the receding polar ice-cap. This will have significant impact on sea levels and weather patterns. The Arctic States have primary responsibility over the Arctic waters within their sovereign jurisdiction, and have a particular interest in the governance of the Arctic as a whole. Extra-regional countries, however, also have a useful and legitimate role to play, for example with regard to maritime passages that will become open for international navigation for longer periods each year. Singapore has been following developments in the Arctic closely. Even though we are located near the equator, developments in the Arctic will have a global impact, and we therefore stand ready to participate actively and contribute constructively in these discussions.
 
-30.We cannot ignore the growing calls for additional norms of ocean governance, but at the same time we must ensure that any emerging norms must strengthen or at least complement the existing framework, and not unravel all that we have achieved over the years.
+We cannot ignore the growing calls for additional norms of ocean governance, but at the same time we must ensure that any emerging norms must strengthen or at least complement the existing framework, and not unravel all that we have achieved over the years.
 
 **Proposed Principles to Guide Emerging Norms for Ocean Governance**    
-31.Let me take this opportunity to suggest three over-arching principles that could be applied to the current discussions on emerging international norms for ocean governance.
+Let me take this opportunity to suggest three over-arching principles that could be applied to the current discussions on emerging international norms for ocean governance.
 
-32.First, UNCLOS must remain the primary basis for all discussions. In areas where UNCLOS is seen to be silent or less well-defined, any supplementary norms of ocean governance must be built upon the existing provisions of UNCLOS and not contradict nor undermine UNCLOS. This is to ensure that we continue to uphold the UNCLOS principles of the “common heritage of mankind”, and ensure that diverse interests are adequately balanced, whether they be the exploitation of resources, freedom of navigation, conservation of biodiversity or the right to other uses already provided for in UNCLOS.
+First, UNCLOS must remain the primary basis for all discussions. In areas where UNCLOS is seen to be silent or less well-defined, any supplementary norms of ocean governance must be built upon the existing provisions of UNCLOS and not contradict nor undermine UNCLOS. This is to ensure that we continue to uphold the UNCLOS principles of the “common heritage of mankind”, and ensure that diverse interests are adequately balanced, whether they be the exploitation of resources, freedom of navigation, conservation of biodiversity or the right to other uses already provided for in UNCLOS.
 
-33.Second, any discussions on ocean governance must be open, inclusive and involve all interested stakeholders. To develop norms that will endure and be respected by all parties, we need to follow the spirit of consensus-building that characterised the UNCLOS negotiations. Getting buy-in from all parties will take time and effort, but the resulting framework will be more robust, long-lasting, and not easily undermined by any single dissenting party.
+Second, any discussions on ocean governance must be open, inclusive and involve all interested stakeholders. To develop norms that will endure and be respected by all parties, we need to follow the spirit of consensus-building that characterised the UNCLOS negotiations. Getting buy-in from all parties will take time and effort, but the resulting framework will be more robust, long-lasting, and not easily undermined by any single dissenting party.
 
-34.Third, we must also explore how to develop a clear set of dispute settlement mechanisms. It is inevitable that disputes will arise; and where an impasse remains after bilateral talks, it would be useful to have a ready roadmap on how differences can be resolved peacefully in accordance to international law. Clear dispute settlement mechanisms will also send a strong signal that it would not be acceptable for any party to take unilateral actions in contravention of international norms.
+Third, we must also explore how to develop a clear set of dispute settlement mechanisms. It is inevitable that disputes will arise; and where an impasse remains after bilateral talks, it would be useful to have a ready roadmap on how differences can be resolved peacefully in accordance to international law. Clear dispute settlement mechanisms will also send a strong signal that it would not be acceptable for any party to take unilateral actions in contravention of international norms.
 
-35.I hope these principles provide some useful parameters to spark off discussions during this Summit.
+I hope these principles provide some useful parameters to spark off discussions during this Summit.
 
 **Conclusion**    
-36.This World Oceans Summit, held on the 30th anniversary of UNCLOS and the 20th anniversary of the Earth Summit, has brought together stakeholders and interested parties, with leading experts and scientists. I am confident that you will collectively surface fresh insights and ideas for strengthening our existing framework of ocean governance. We all have a common interest, and a common responsibility, for harmoniously managing the use of our oceans, in a sustainable manner, for the benefit of the generations to come.
+This World Oceans Summit, held on the 30th anniversary of UNCLOS and the 20th anniversary of the Earth Summit, has brought together stakeholders and interested parties, with leading experts and scientists. I am confident that you will collectively surface fresh insights and ideas for strengthening our existing framework of ocean governance. We all have a common interest, and a common responsibility, for harmoniously managing the use of our oceans, in a sustainable manner, for the benefit of the generations to come.
 
 37.I wish everyone a stimulating and fruitful time at the Summit. Thank you.
 <br><br>
 
 <sup>1</sup>International Maritime Organisation (IMO), “International Shipping Facts and Figures – Information Resources on Trade, Safety, Security, Environment” (Maritime Knowledge Centre, July 2011).
 
-<sup>2</sup>Global Marine Oil Pollution Information Gateway ([<a href="http://oils.gpa.unep.org/facts/facts.htm" target="_blank">http://oils.gpa.unep.org/facts/facts.htm</a>](http://oils.gpa.unep.org/facts/facts.htm))
+<sup>2</sup>Global Marine Oil Pollution Information Gateway
 
 <sup>3</sup>Biliana Cicin-Sain et al, “Oceans at Rio+20: How Well are we Doing in Meeting the Commitments from the 1992 Earth Summit and the 2002 World Summit on Sustainable Development?”, University of Delaware and Global Ocean Forum, September 2011 (Oceans at Rio+20)
 
-<sup>4</sup>Presentation by Takehiro Nakamura, UN Environment Programme, given at the 2011 World Water Week, Stockholm, 21-27 Aug 11, [<a href="https://www.worldwaterweek.org/documents/WWW_PDF/2011/Wednesday/T4/Living-on-the-Edge-Management-in-Coastal-Cities/Living-on-the-edge-Hilltops-2-Oceans.pdf" target="_blank">http://www.worldwaterweek.org/documents/WWW_PDF/2011/Wednesday/T4/Living-on-the-Edge-Management-in-Coastal-Cities/Living-on-the-edge-Hilltops-2-Oceans.pdf</a>](https://www.worldwaterweek.org/documents/WWW_PDF/2011/Wednesday/T4/Living-on-the-Edge-Management-in-Coastal-Cities/Living-on-the-edge-Hilltops-2-Oceans.pdf)
+<sup>4</sup>Presentation by Takehiro Nakamura, UN Environment Programme, given at the 2011 World Water Week, Stockholm, 21-27 Aug 11
 
 <sup>5</sup>Liz Creel, “Ripple Effects: Population and Coastal Regions”, Population Reference Bureau, September 2003.
 
-<sup>6</sup>Intergovernmental Oceanographic Commission of UNESCO, IMO, Food and Agriculture Organisation of United Nations, United Nations Development Programme, “A Blueprint for Ocean and Coastal Sustainability”, 2011. (https://unesdoc.unesco.org/ark:/48223/pf0000215002)
+<sup>6</sup>Intergovernmental Oceanographic Commission of UNESCO, IMO, Food and Agriculture Organisation of United Nations, United Nations Development Programme, “A Blueprint for Ocean and Coastal Sustainability”, 2011
 
-<sup>7</sup>United Nations Environment Programme, “Land Based Sources of Pollution”, (https://www.unep.org/explore-topics/oceans-seas/what-we-do/working-regional-seas/land-based-pollution)
+<sup>7</sup>United Nations Environment Programme, “Land Based Sources of Pollution”
 
 <sup>8</sup>The Economist, “Troubled waters: A special report on the seas”, January 3, 2009. Scientists believe that as much as 100 million tonnes of plastic jetsam are suspended in two separate gyres of garbage in the central Pacific, over an area twice the size of the US.
 
@@ -125,7 +125,7 @@ One of the issues is over areas beyond national jurisdiction (ABNJ), which repre
 
 <sup>11</sup>United Nations Environment Programme/GRID-Arendal, “Climate in Peril: Projected climate changes and its impacts” 
 
-<sup>12</sup>Drainage Code Revised to Enhance Singapore’s Flood Protection, 30 November 2011 (https://www.pub.gov.sg/Documents/COP_Final.pdf)
+<sup>12</sup>Drainage Code Revised to Enhance Singapore’s Flood Protection, 30 November 2011
 
 <sup>13</sup>Katharine Jose, “Before the flood: New York City is just beginning to gird for the ‘100- year storm’, if it is not already too late”, February 3, 2012. 
 
