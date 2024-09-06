@@ -9,10 +9,10 @@ description: Speech by Singapore's Ambassador for Climate Action at the
 image: ""
 variant: tiptap
 ---
-<p><strong>Speech by Singapore's Ambassador for Climate Action &amp; Senior Adviser (National Climate Change Secretariat) Ravi Menon<br>International Built Environment Week, CEOs In-Conversation</strong>
+<p><strong>Speech by Singapore's Ambassador for Climate Action &amp; Senior Adviser (National Climate Change Secretariat) Ravi Menon at the International Built Environment Week 2024, CEOs In Conversation</strong>
 </p>
-<p><strong><em>Singapore’s Triple Transition Towards a Low Carbon Future</em></strong>
-</p>
+<hr>
+<h4><strong>Singapore’s Triple Transition Towards a Low Carbon Future</strong></h4>
 <p>Good morning.&nbsp; I thank the Building and Construction Authority (BCA),
 RX, sponsors and partners for the opportunity to join you at the International
 Built Environment Week Conference.&nbsp;</p>
@@ -70,14 +70,14 @@ Asia’s transition.</p>
 <p>In short, we need to fight on three fronts: drive our own transition to
 net-zero; strengthen our resilience to climate change; and facilitate Asia’s
 transition to a low-carbon future.</p>
-<p><strong>SINGAPORE’S TRIPLE TRANSITION</strong>
+<p><strong>SINGAPORE'S TRIPLE TRANSITION</strong>
 </p>
 <p>Today, I will focus on Singapore’s transition to net-zero.&nbsp; In fact,
 our approach comprises three transitions: a <strong><em>carbon transition</em></strong>;
 an <strong><em>energy transition</em></strong>; and an <strong><em>economic transition</em></strong>.</p>
 <p>The triple transition will require us to fundamentally rethink the way
 we produce and consume.&nbsp; I will discuss each transition in turn, using
-the built environment to illustrate.&nbsp;</p>
+the built environment to illustrate.</p>
 <p><strong>Carbon Transition</strong>&nbsp;</p>
 <p>Let me start with the carbon transition, to reduce primary carbon emissions
 to net-zero across all sectors. As of 2021, primary emissions, or emissions
@@ -202,25 +202,36 @@ sector is greater because most of these materials are imported. Our companies
 would need to work together across the supply chain to explore ideas and
 push innovation in areas such as low-carbon concrete, electric furnaces,
 and use of low-carbon hydrogen in steel production. &nbsp;</p>
+<p></p>
 <p><strong>KEY ENABLERS FOR THE TRIPLE TRANSITION</strong>
 </p>
 <p>Achieving the triple transition - in carbon, energy and the economy –
 will require several key enablers:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>Carbon Pricing</em></strong>.&nbsp;
-Progressive increases in carbon taxes will send the right price signals
-for economy-wide decarbonisation.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>Technology</em></strong>.&nbsp;
-&nbsp;Many of the barriers to cost-effective decarbonisation will require
-significant advances in climate-related technology.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>Finance</em></strong>.&nbsp;
-More private capital and innovative financing instruments will be needed
-to support the triple transition.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>Data and Disclosure</em></strong>.&nbsp;
-The disclosure of reliable and comparable sustainability data is necessary
-to guide and sustain decarbonisation efforts by businesses.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>Green Procurement</em></strong>.&nbsp;
-Incorporating sustainability considerations in procurement decisions can
-be a powerful lever for decarbonisation across supply chains. &nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>Carbon Pricing</em></strong>.&nbsp; Progressive increases
+in carbon taxes will send the right price signals for economy-wide decarbonisation.</p>
+</li>
+<li>
+<p><strong><em>Technology</em></strong>.&nbsp; &nbsp;Many of the barriers
+to cost-effective decarbonisation will require significant advances in
+climate-related technology.</p>
+</li>
+<li>
+<p><strong><em>Finance</em></strong>.&nbsp; More private capital and innovative
+financing instruments will be needed to support the triple transition.</p>
+</li>
+<li>
+<p><strong><em>Data and Disclosure</em></strong>.&nbsp; The disclosure of
+reliable and comparable sustainability data is necessary to guide and sustain
+decarbonisation efforts by businesses.</p>
+</li>
+<li>
+<p><strong><em>Green Procurement</em></strong>.&nbsp; Incorporating sustainability
+considerations in procurement decisions can be a powerful lever for decarbonisation
+across supply chains. &nbsp;</p>
+</li>
+</ul>
 <p>Let me highlight three of the enablers – Technology, Finance, and Data
 and Disclosure.</p>
 <p><strong>Clean Technology</strong>
