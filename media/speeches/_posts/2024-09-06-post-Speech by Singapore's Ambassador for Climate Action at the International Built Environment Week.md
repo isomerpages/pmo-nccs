@@ -16,7 +16,8 @@ variant: tiptap
 <p>Good morning.&nbsp; I thank the Building and Construction Authority (BCA),
 RX, sponsors and partners for the opportunity to join you at the International
 Built Environment Week Conference.&nbsp;</p>
-<p>THRIVING IN A LOW-CARBON, CLIMATE-IMPAIRED WORLD</p>
+<p><strong>THRIVING IN A LOW-CARBON, CLIMATE-IMPAIRED WORLD</strong>
+</p>
 <p>Let me begin with a quick reflection on the state of the planet.&nbsp;
 It is not in a good place.<a rel="noopener noreferrer nofollow" target="_blank"> Climate change is already happening. </a>We
 are seeing more extreme storms, floods, wildfires, and heat waves. 2024
@@ -69,7 +70,8 @@ Asia’s transition.</p>
 <p>In short, we need to fight on three fronts: drive our own transition to
 net-zero; strengthen our resilience to climate change; and facilitate Asia’s
 transition to a low-carbon future.</p>
-<p>SINGAPORE’S TRIPLE TRANSITION</p>
+<p><strong>SINGAPORE’S TRIPLE TRANSITION</strong>
+</p>
 <p>Today, I will focus on Singapore’s transition to net-zero.&nbsp; In fact,
 our approach comprises three transitions: a <strong><em>carbon transition</em></strong>;
 an <strong><em>energy transition</em></strong>; and an <strong><em>economic transition</em></strong>.</p>
@@ -300,7 +302,8 @@ to do the same.</p>
 performance. Building owners can benchmark the performance of their buildings
 to the top quartile of buildings in Singapore using the BCA’s Building
 Energy Benchmarking Report.</p>
-<p>CLIMATE RESILIENCE</p>
+<p><strong>CLIMATE RESILIENCE</strong>
+</p>
 <p>I have not touched on adaptation and resilience strategies to deal with
 the physical effects of climate change.</p>
 <p>Even as it plans for the triple transition, the built environment sector
@@ -313,7 +316,8 @@ must also prepare for the effects of heat stress on related industries
 like construction. As our climate continues to deteriorate, even more adaptation
 measures may be required in the built environment sector in future. In
 short, resilience must become an integral part of our transition planning.</p>
-<p>THE FOURTH TRANSITION</p>
+<p><strong>THE FOURTH TRANSITION</strong>
+</p>
 <p>I have spoken about our triple transition – carbon, energy, and economic.&nbsp;
 I have also touched on three key enablers for this transition – technology,
 finance, and data and disclosure.</p>
