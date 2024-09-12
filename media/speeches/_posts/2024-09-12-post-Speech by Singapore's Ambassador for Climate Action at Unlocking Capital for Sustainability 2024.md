@@ -90,12 +90,13 @@ growing middle class, and the provision of electricity to rural villages.</p>
 <li>
 <p>If emissions in Asia are not abated, the result will be catastrophic climate
 change globally.</p>
-<p></p>
-<p><strong><em>Asia should not have to choose between sustaining growth and reducing emissions</em></strong>.</p>
-<p></p>
 </li>
 </ul>
 </li>
+</ul>
+<p><strong><em>Asia should not have to choose between sustaining growth and reducing emissions.</em></strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Asia will have to work towards decoupling economic growth from emissions.</p>
 </li>
