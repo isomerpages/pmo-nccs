@@ -542,7 +542,7 @@ actual emissions reductions.</p>
 <p>These limitations have undermined confidence in global carbon markets</p>
 </li>
 </ul>
-<p><strong>We need to develop strategies to promote high-integrity carbon markets. </strong>
+<p><strong>We need to develop strategies to promote high-integrity carbon markets.</strong>
 </p>
 <p>This requires many ecosystem players across the world to come together
 and develop solutions.&nbsp; Singapore has been engaged in these discussions.</p>
