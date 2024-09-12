@@ -103,7 +103,7 @@ change globally.</p>
 to its own unique challenges.</p>
 </li>
 <li>
-<p>But there can be no compromise on the eventual goal: close to net-zero
+<p>But there can be no compromise on the eventual goal: close to net zero
 emissions around the middle of the century.&nbsp;</p>
 </li>
 <li>
@@ -690,11 +690,11 @@ which are responsible for 90% of Asia’s emissions.</p>
 </li>
 </ul>
 <p>Let me conclude.</p>
-<p>Asia’s transition to net-zero will not be easy. &nbsp;But it is essential
+<p>Asia’s transition to net zero will not be easy. &nbsp;But it is essential
 if the world is to avoid catastrophic climate change.&nbsp; As I said at
 the start, the battle against climate change will be won or lost in Asia.</p>
 <p>It is not enough that Europe and America – or Singapore for that matter
-– reach net-zero.&nbsp; The rest of Asia must also get there, so that the
+– reach net zero.&nbsp; The rest of Asia must also get there, so that the
 planet that we all share is safe from climate disaster.</p>
 <p>The world has a vested interest in Asia’s decarbonisation. Singapore will
 do its part, in collaboration with others, to facilitate Asia’s transition
