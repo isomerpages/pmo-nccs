@@ -353,7 +353,7 @@ and our planet.</p>
 <p><sup>2 </sup>NASA’s Goddard Institute for Space Studies</p>
 <p><sup>3</sup> Net Zero Stocktake 2023, New Climate Institute, Oxford Net
 Zero, Energy &amp; Climate Intelligence Unit and Data-Driven EnviroLab</p>
-<p><sup>4</sup> CO2 Emissions in 2023, IEA</p>
+<p><sup>4</sup> CO<sub>2</sub> Emissions in 2023, IEA</p>
 <p><sup>5</sup> Renewables &amp; Power Trends Report, Rystad Energy</p>
 <p><sup>6</sup> World Energy Outlook 2023, IEA</p>
 <p><sup>7</sup> Energy Transition Investment Trends 2024, BloombergNEF</p>
