@@ -19,8 +19,8 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Global temperatures are already 1.1 degrees Celsius higher than pre-industrial
-levels and continuing to rise.<sup>1</sup> 2023 was the hottest year on
-record. 2024 will likely break that record.</p>
+levels and continuing to rise.<sup>1</sup> &lt;sup&gt;1&lt;/sup&gt; 2023
+was the hottest year on record. 2024 will likely break that record.</p>
 </li>
 <li>
 <p>We are already seeing the effects of global warming. Storms, floods, heatwaves,
