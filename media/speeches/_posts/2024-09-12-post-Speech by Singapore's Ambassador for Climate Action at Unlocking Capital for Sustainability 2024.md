@@ -19,8 +19,8 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Global temperatures are already 1.1 degrees Celsius higher than pre-industrial
-levels and continuing to rise.<sup>1</sup> &lt;sup&gt;1&lt;/sup&gt; 2023
-was the hottest year on record. 2024 will likely break that record.</p>
+levels and continuing to rise.<sup>1</sup> &lt;sup&gt;&lt;a id="ref1" href="#fn1"&gt;1&lt;/a&gt;&lt;/sup&gt;
+2023 was the hottest year on record. 2024 will likely break that record.</p>
 </li>
 <li>
 <p>We are already seeing the effects of global warming. Storms, floods, heatwaves,
@@ -705,7 +705,7 @@ to a greener and brighter future.</p>
 <p>Thank you, and I wish you a fruitful day.</p>
 <p>&nbsp;</p>
 <hr>
-<p><sup>1</sup>  <a rel="noopener noreferrer nofollow" target="_blank">https://earthobservatory.nasa.gov/world-of-change/global-temperatures</a>
+<p>&lt;sup id="fn1"&gt;<sup>1</sup>  <a rel="noopener noreferrer nofollow" target="_blank">https://earthobservatory.nasa.gov/world-of-change/global-temperatures</a>
 </p>
 <p><sup>2 </sup><a href="https://ourworldindata.org/greenhouse-gas-emissions" rel="noopener noreferrer nofollow" target="_blank">UNEP</a> (2023) <em>Emissions Gap Report 2023: Broken Record – Temperatures hit new highs, yet world fails to cut emissions (again).</em>
 </p>
