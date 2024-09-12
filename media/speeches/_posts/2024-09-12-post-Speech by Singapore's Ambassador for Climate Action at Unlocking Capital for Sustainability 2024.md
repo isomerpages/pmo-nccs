@@ -113,8 +113,8 @@ emissions around the middle of the century.&nbsp;</p>
 we want to avert the worst impacts of climate change.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>PRIORITIES FOR ASIA’S TRANSITION</p>
+<p><strong>&nbsp;PRIORITIES FOR ASIA’S TRANSITION</strong>
+</p>
 <p><strong><em>There are three priorities for an effective transition in Asia.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -382,11 +382,11 @@ and aquaculture methods.</p>
 <li>
 <p>Coupled with sound policies and strategies, technology and finance can
 be key enablers for such restoration efforts.</p>
-<p></p>
-<p>ENABLERS FOR ASIA’S TRANSITION</p>
 </li>
 </ul>
-<p>&nbsp;<strong><em>An effective transition in Asia will require significant financing.</em></strong>
+<p><strong>ENABLERS FOR ASIA'S TRANSITION</strong>
+</p>
+<p><strong><em>An effective transition in Asia will require significant financing.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -640,7 +640,7 @@ all credits issued globally.</p>
 </ul>
 <p><strong>Sectoral Pathways</strong>
 </p>
-<p><strong><em>The third enabler for Asia’ transition is clear standards on what constitutes a credible sectoral decarbonisation pathway</em>.</strong>
+<p><strong><em>The third enabler for Asia’s transition is clear standards on what constitutes a credible sectoral decarbonisation pathway</em>.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
