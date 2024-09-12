@@ -19,7 +19,7 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Global temperatures are already 1.1 degrees Celsius higher than pre-industrial
-levels and continuing to rise.<sup>1</sup> 2023 was the hottest year on
+levels and continuing to rise<sup>1</sup>. 2023 was the hottest year on
 record. 2024 will likely break that record.</p>
 </li>
 <li>
@@ -31,8 +31,7 @@ and droughts are becoming more frequent and more intense.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Emissions today are about 40% <em>higher</em> than they were 20 years ago,
-climbing from 41 gigatonnes in 2000 to 57 gigatonnes in 2022.<sup>2</sup>
-</p>
+climbing from 41 gigatonnes in 2000 to 57 gigatonnes in 2022<sup>2</sup>.</p>
 </li>
 <li>
 <p>Given the stock of emissions already in the atmosphere and emissions continuing
@@ -56,15 +55,14 @@ to rising sea levels and coastal flooding<sup>4</sup>.&nbsp;</p>
 </li>
 <li>
 <p>Globally, it is estimated that damage due to climate change will cost
-an annual 38 trillion US dollars by 2050.<sup>5</sup> That is about 28%
-of projected global GDP in 2050.<sup>6</sup>
-</p>
+an annual 38 trillion US dollars by 2050<sup>5</sup>. That is about 28%
+of projected global GDP in 2050<sup>6</sup>.</p>
 </li>
 </ul>
 <p><strong><em>Singapore takes climate change seriously and is undertaking a triple transition towards a low-carbon future</em></strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>I spoke about this at length last week.<sup>7</sup>&nbsp; But today, I
+<p>I spoke about this at length last week<sup>7</sup>.&nbsp; But today, I
 want to talk about Asia and what Singapore is doing in partnership with
 others to facilitate Asia’s transition.</p>
 </li>
@@ -345,8 +343,7 @@ costly.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>It is estimated that at a price of just 20 US dollars per tonne of carbon
-dioxide, the rate of deforestation in Southeast Asia can be halved.<sup>21</sup>
-</p>
+dioxide, the rate of deforestation in Southeast Asia can be halved<sup>21</sup>.</p>
 </li>
 </ul>
 </li>
@@ -706,7 +703,7 @@ to a greener and brighter future.</p>
 <p>Thank you, and I wish you a fruitful day.</p>
 <p>&nbsp;</p>
 <hr>
-<p>&lt;sup id="fn1"&gt;<sup>1</sup>  <a href="https://earthobservatory.nasa.gov/world-of-change/global-temperatures" rel="noopener nofollow" target="_blank">https://earthobservatory.nasa.gov/world-of-change/global-temperatures &lt;/sup&gt;</a>
+<p><sup>1</sup>  <a href="https://earthobservatory.nasa.gov/world-of-change/global-temperatures" rel="noopener nofollow" target="_blank">https://earthobservatory.nasa.gov/world-of-change/global-temperatures</a>
 </p>
 <p><sup>2 </sup>UNEP (2023) <em>Emissions Gap Report 2023: Broken Record – Temperatures hit new highs, yet world fails to cut emissions (again).</em>
 </p>
