@@ -14,7 +14,7 @@ variant: tiptap
 <hr>
 <h4><strong>Three Priorities and Three Enablers for Asia's Climate Transition</strong></h4>
 <p>Ladies and gentlemen, good morning.</p>
-<p><strong><em>Climate change is already happening and will only get worse in the coming decades</em>.</strong>
+<p><strong>Climate change is already happening and will only get worse in the coming decades.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -27,7 +27,7 @@ record. 2024 will likely break that record.</p>
 and droughts are becoming more frequent and more intense.</p>
 </li>
 </ul>
-<p><strong><em>Meanwhile, global greenhouse gas emissions are still on the rise</em></strong>.</p>
+<p><strong>Meanwhile, global greenhouse gas emissions are still on the rise</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Emissions today are about 40% <em>higher</em> than they were 20 years ago,
@@ -38,7 +38,7 @@ climbing from 41 gigatonnes in 2000 to 57 gigatonnes in 2022<sup>2</sup>.</p>
 to rise, we must prepare for a climate-impaired world.</p>
 </li>
 </ul>
-<p><strong><em>The effects on lives and livelihoods will be devastating</em></strong>.</p>
+<p><strong>The effects on lives and livelihoods will be devastating</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>South and Southeast Asia will be most vulnerable to climate change.</p>
@@ -59,7 +59,7 @@ an annual 38 trillion US dollars by 2050<sup>5</sup>. That is about 28%
 of projected global GDP in 2050<sup>6</sup>.</p>
 </li>
 </ul>
-<p><strong><em>Singapore takes climate change seriously and is undertaking a triple transition towards a low-carbon future</em></strong>.</p>
+<p><strong>Singapore takes climate change seriously and is undertaking a triple transition towards a low-carbon future</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>I spoke about this at length last week<sup>7</sup>.&nbsp; But today, I
@@ -67,7 +67,7 @@ want to talk about Asia and what Singapore is doing in partnership with
 others to facilitate Asia’s transition.</p>
 </li>
 </ul>
-<p><strong><em>It is in Asia that the battle against climate change will be won or lost</em>.&nbsp;</strong>
+<p><strong>It is in Asia that the battle against climate change will be won or lost.&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -92,7 +92,7 @@ change globally.</p>
 </ul>
 </li>
 </ul>
-<p><strong><em>Asia should not have to choose between sustaining growth and reducing emissions.</em></strong>
+<p><strong>Asia should not have to choose between sustaining growth and reducing emissions.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -113,7 +113,7 @@ we want to avert the worst impacts of climate change.</p>
 </ul>
 <p><strong>&nbsp;PRIORITIES FOR ASIA’S TRANSITION</strong>
 </p>
-<p><strong><em>There are three priorities for an effective transition in Asia.</em></strong>
+<p><strong>There are three priorities for an effective transition in Asia.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -132,7 +132,7 @@ peatlands and mangroves to grow Asia’s natural carbon sinks.</p>
 </ul>
 <p><strong>Coal Phase-Out</strong>
 </p>
-<p><strong><em>Phasing out coal in Asia will be critical for reducing global emissions.</em></strong>
+<p><strong>Phasing out coal in Asia will be critical for reducing global emissions.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -146,7 +146,7 @@ about two-thirds of the carbon budget remaining to keep global temperatures
 below 1.5 degrees Celsius.</p>
 </li>
 </ul>
-<p><strong><em>But simply shutting down the coal plants is not an option. &nbsp;</em></strong>
+<p><strong>But simply shutting down the coal plants is not an option. &nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -166,7 +166,7 @@ years.</p>
 in Asia still do not have access to electricity<sup>12</sup>.</p>
 </li>
 </ul>
-<p><strong><em>We must transition away from coal progressively, consistent with a Paris-aligned pathway and in an inclusive manner.</em></strong>
+<p><strong>We must transition away from coal progressively, consistent with a Paris-aligned pathway and in an inclusive manner.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -180,7 +180,7 @@ we will need 70 million US dollars<sup>13</sup> per gigawatt of capacity.</p>
 </ul>
 <p><strong>Grid Infrastructure</strong>
 </p>
-<p><strong><em>Expanding renewable energy production is a necessary complement to coal phase-out.</em></strong>
+<p><strong>Expanding renewable energy production is a necessary complement to coal phase-out.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -207,7 +207,7 @@ and wind capacity<sup>16</sup>.</p>
 </ul>
 </li>
 </ul>
-<p><strong><em>To make renewable energy a viable option, we need more than cheap renewables, we need grid connectivity and capacity.</em></strong>
+<p><strong>To make renewable energy a viable option, we need more than cheap renewables, we need grid connectivity and capacity.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -247,7 +247,7 @@ of electricity such as solar and wind into the grid.</p>
 </ul>
 </li>
 </ul>
-<p><strong><em>We must step up efforts toward an ASEAN Power Grid.</em></strong>
+<p><strong>We must step up efforts toward an ASEAN Power Grid.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -270,7 +270,7 @@ cross-border trade in clean electricity benefits all parties.</p>
 </ul>
 </li>
 </ul>
-<p><strong><em>Achieving an ASEAN Power Grid or an interconnected Asian Power Grid will not be easy</em></strong>.</p>
+<p><strong>Achieving an ASEAN Power Grid or an interconnected Asian Power Grid will not be easy</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>There are many obstacles to overcome.</p>
@@ -295,7 +295,7 @@ across ASEAN.</p>
 </ul>
 <p><strong>Carbon Sinks</strong>
 </p>
-<p><strong><em>The third big challenge that Asia faces is deforestation and loss of its natural carbon sinks.</em></strong>
+<p><strong>The third big challenge that Asia faces is deforestation and loss of its natural carbon sinks.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -308,7 +308,7 @@ quarters of its original forests by 2100<sup>19</sup>, driven by agricultural
 expansion and infrastructure development.</p>
 </li>
 </ul>
-<p><strong><em>Deforestation has serious implications for our planet.</em></strong>
+<p><strong>Deforestation has serious implications for our planet.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -326,7 +326,7 @@ services such as access to food, clean air, and water, that our forests
 provide. &nbsp;</p>
 </li>
 </ul>
-<p><strong><em>We need to stop deforestation in Asia.</em></strong>
+<p><strong>We need to stop deforestation in Asia.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -348,7 +348,7 @@ dioxide, the rate of deforestation in Southeast Asia can be halved<sup>21</sup>.
 </ul>
 </li>
 </ul>
-<p><strong><em>But forest conservation is not just about cost, it is also about integrity.</em></strong>
+<p><strong>But forest conservation is not just about cost, it is also about integrity.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -364,7 +364,7 @@ lower than claimed.</p>
 projects.</p>
 </li>
 </ul>
-<p><strong><em>We also need to restore Asia’s mangroves and peatlands.</em></strong>
+<p><strong>We also need to restore Asia’s mangroves and peatlands.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -383,7 +383,7 @@ be key enablers for such restoration efforts.</p>
 </ul>
 <p><strong>ENABLERS FOR ASIA'S TRANSITION</strong>
 </p>
-<p><strong><em>An effective transition in Asia will require significant financing.</em></strong>
+<p><strong>An effective transition in Asia will require significant financing.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -398,7 +398,7 @@ and adaptation needs across Asia<sup>24</sup>.</p>
 capital.</p>
 </li>
 </ul>
-<p><strong><em>Three key enablers can help bridge the financing gap.</em></strong>
+<p><strong>Three key enablers can help bridge the financing gap.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -417,9 +417,7 @@ sectoral decarbonisation.</p>
 </ul>
 <p><strong>Blended Finance</strong>
 </p>
-<p><strong><em>Let me start with blended finance.</em></strong>
-</p>
-<p><strong><em>Asia’s transition financing needs are large. Yet, why is private capital not flowing to decarbonisation projects in Asia?</em></strong>
+<p><strong>Let me start with blended finance. Asia’s transition financing needs are large. Yet, why is private capital not flowing to decarbonisation projects in Asia?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -439,7 +437,7 @@ not to mention foreign exchange risk.</p>
 to start construction, with challenges in securing the necessary permits.</p>
 </li>
 </ul>
-<p><strong><em>To mobilise private capital for transition projects in Asia, we need blended finance to synergise across multiple players</em></strong>.</p>
+<p><strong>To mobilise private capital for transition projects in Asia, we need blended finance to synergise across multiple players</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Governments, development finance institutions, and philanthropies could
@@ -462,7 +460,7 @@ mechanisms will improve bankability and help to mobilise multiples of private
 commercial capital to these projects.</p>
 </li>
 </ul>
-<p><strong><em>Singapore has launched a blended finance platform called Financing Asia’s Transition Partnership, or FAST-P for short, with a target fund size of US$5 billion.</em></strong>
+<p><strong>Singapore has launched a blended finance platform called Financing Asia’s Transition Partnership, or FAST-P for short, with a target fund size of US$5 billion.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -486,7 +484,7 @@ Allied Climate Partners, the Global Energy Alliance for People and Planet,
 and Temasek Holdings.</p>
 </li>
 </ul>
-<p><strong><em>FAST-P will target three key areas that are most pertinent to Asia’s transition</em></strong>.</p>
+<p><strong>FAST-P will target three key areas that are most pertinent to Asia’s transition</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Energy Transition Acceleration theme will cover energy transition
@@ -508,10 +506,10 @@ well as emerging low-carbon fuels such as hydrogen and ammonia.</p>
 and commercial capital and managed by a respective asset manager.</p>
 </li>
 </ul>
-<p><strong><em>We will be announcing at COP29 more details about the fund programmes, the contributing partners, the asset managers, and capital mobilised to-date</em></strong>.</p>
+<p><strong>We will be announcing at COP29 more details about the fund programmes, the contributing partners, the asset managers, and capital mobilised to-date</strong>.</p>
 <p><strong>Carbon Credits</strong>
 </p>
-<p><strong><em>The second key enabler for Asia’s transition is access to high-quality carbon credits, supported by well-functioning carbon markets.</em></strong>
+<p><strong>The second key enabler for Asia’s transition is access to high-quality carbon credits, supported by well-functioning carbon markets.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -529,7 +527,7 @@ to enable decarbonisation projects which would otherwise not have been
 implemented.</p>
 </li>
 </ul>
-<p><strong><em>However, global carbon markets are not functioning well</em></strong>.</p>
+<p><strong>However, global carbon markets are not functioning well</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>There is a lack of data and systematic tracking of the generation, transfer,
@@ -544,11 +542,12 @@ actual emissions reductions.</p>
 <p>These limitations have undermined confidence in global carbon markets</p>
 </li>
 </ul>
-<p><strong><em>We need to develop strategies to promote high-integrity carbon markets. </em></strong>This
-requires many ecosystem players across the world to come together and develop
-solutions.&nbsp; Singapore has been engaged in these discussions.</p>
-<p><strong><em>Singapore has also been doing its part to promote sound carbon markets through three initiatives</em></strong>.</p>
-<p><strong><em>First, Singapore has been signalling demand for high-quality carbon credits through carbon credit agreements with other countries.</em></strong>
+<p><strong>We need to develop strategies to promote high-integrity carbon markets. </strong>
+</p>
+<p>This requires many ecosystem players across the world to come together
+and develop solutions.&nbsp; Singapore has been engaged in these discussions.</p>
+<p><strong>Singapore has also been doing its part to promote sound carbon markets through three initiatives</strong>.</p>
+<p><strong>First, Singapore has been signalling demand for high-quality carbon credits through carbon credit agreements with other countries.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -574,9 +573,9 @@ partner countries.</p>
 </ul>
 </li>
 </ul>
-<p><strong><em>Second, Singapore has been working to promote high standards of integrity for different types of carbon credits.</em></strong>
+<p><strong>Second, Singapore has been working to promote high standards of integrity for different types of carbon credits.</strong>
 </p>
-<p><strong><em>We are piloting the use of transition credits, a new class of credits to channel finance towards transition projects</em></strong>.</p>
+<p><strong>We are piloting the use of transition credits, a new class of credits to channel finance towards transition projects</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A good use case of transition credits is coal phase-out in Asia.</p>
@@ -598,7 +597,7 @@ ensure that transition credits meet the Core Carbon Principles and Article
 6 integrity requirements.</p>
 </li>
 </ul>
-<p><strong><em>We are working to strengthen standards for ensuring that nature-based credits lead to actual emissions reduction.</em></strong>
+<p><strong>We are working to strengthen standards for ensuring that nature-based credits lead to actual emissions reduction.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -615,7 +614,7 @@ of nature-based projects.</p>
 confidence in the credibility of nature-based projects.</p>
 </li>
 </ul>
-<p><strong><em>Third, Singapore is supporting the development of a harmonised carbon data platform to address transparency concerns.</em></strong>
+<p><strong>Third, Singapore is supporting the development of a harmonised carbon data platform to address transparency concerns.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -637,7 +636,7 @@ all credits issued globally.</p>
 </ul>
 <p><strong>Sectoral Pathways</strong>
 </p>
-<p><strong><em>The third enabler for Asia’s transition is clear standards on what constitutes a credible sectoral decarbonisation pathway</em>.</strong>
+<p><strong>The third enabler for Asia’s transition is clear standards on what constitutes a credible sectoral decarbonisation pathway.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -674,7 +673,7 @@ in desired climate outcomes.</p>
 a better chance of attracting private financing.</p>
 </li>
 </ul>
-<p><strong><em>The Singapore-Asia Taxonomy for Sustainable Finance is the first taxonomy in the world to define transition projects</em></strong>.</p>
+<p><strong>The Singapore-Asia Taxonomy for Sustainable Finance is the first taxonomy in the world to define transition projects</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>It sets out science-based thresholds and criteria for defining green and
