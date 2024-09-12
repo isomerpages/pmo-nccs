@@ -18,13 +18,12 @@ RX, sponsors and partners for the opportunity to join you at the International
 Built Environment Week Conference.&nbsp;</p>
 <p><strong>THRIVING IN A LOW-CARBON, CLIMATE-IMPAIRED WORLD</strong>
 </p>
-<p>Let me begin with a quick reflection on the state of the planet.&nbsp;
-It is not in a good place. Climate change is already happening. We are
-seeing more extreme storms, floods, wildfires, and heat waves. 2024 could
-be the world’s hottest year on record. Tropical cyclones are picking up
-more energy from warmer ocean waters and intensifying more quickly, leading
-to major floods. Droughts have become persistent across many parts of the
-world<sup>1</sup>.</p>
+<p>Let me begin with a quick reflection on the state of the planet.&nbsp;It
+is not in a good place. Climate change is already happening. We are seeing
+more extreme storms, floods, wildfires, and heat waves. 2024 could be the
+world’s hottest year on record. Tropical cyclones are picking up more energy
+from warmer ocean waters and intensifying more quickly, leading to major
+floods. Droughts have become persistent across many parts of the world<sup>1</sup>.</p>
 <p>It will only get worse in the coming decades. To mitigate climate change,
 we need to limit global warming to 1.5 degrees Celsius above pre-industrial
 levels. But global temperatures are already 1.1 degrees Celsius higher
