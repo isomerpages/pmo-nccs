@@ -723,7 +723,7 @@ commitment of climate change. <em>Nature, 628</em>(8008), 551-557. <a href="http
 </p>
 <p><sup>11 </sup>International Energy Agency. (2022). <em>Coal in Net Zero Transitions: Strategies for rapid, secure, and people-centred change.</em>
 </p>
-<p><sup>12</sup>  <a href="https://www.adb.org/what-we-do/topics-energy/overview" rel="noopener nofollow" target="_blank">https://www.adb.org/what-we-do/topics/energy/overview</a>
+<p><sup>12</sup>  <a href="https://www.adb.org/what-we-do/topics/energy/overview" rel="noopener nofollow" target="_blank">https://www.adb.org/what-we-do/topics/energy/overview</a>
 </p>
 <p><sup>13 </sup>MAS and McKinsey &amp; Company (2023, September). <em>Accelerating the early retirement of coal-fired power plants through carbon credits</em>.</p>
 <p><sup>14 </sup><a href="https://www.irena.org/News/pressreleases/2023/Aug/Renewables-Competitiveness-Accelerates-Despite-Cost-Inflation" rel="noopener nofollow" target="_blank">https://www.irena.org/News/pressreleases/2023/Aug/Renewables-Competitiveness-Accelerates-Despite-Cost-Inflation</a>
@@ -742,7 +742,7 @@ commitment of climate change. <em>Nature, 628</em>(8008), 551-557. <a href="http
 </p>
 <p><sup>21 </sup><a href="https://www.pnas.org/doi/10.1073/pnas.0710616105" rel="noopener nofollow" target="_blank">https://www.pnas.org/doi/10.1073/pnas.0710616105</a>
 </p>
-<p><sup>22</sup>  <a href="https://www.nrs/fs/usda.gov/pubs/jrnl/2009/nrs_2009_murdiyarso_001.pdf" rel="noopener nofollow" target="_blank">https://www.nrs/fs/usda.gov/pubs/jrnl/2009/nrs_2009_murdiyarso_001.pdf</a>
+<p><sup>22</sup>  <a href="https://www.nrs.fs.usda.gov/pubs/jrnl/2009/nrs_2009_murdiyarso_001.pdf" rel="noopener nofollow" target="_blank">https://www.nrs.fs.usda.gov/pubs/jrnl/2009/nrs_2009_murdiyarso_001.pdf</a>
 </p>
 <p><sup>23 </sup><a href="https://www.elibrary.imf.org/downloadpdf/book/9781616353933/ch05.pdf" rel="noopener nofollow" target="_blank">https://www.elibrary.imf.org/downloadpdf/book/9781616353933/ch05.pdf</a>
 </p>
