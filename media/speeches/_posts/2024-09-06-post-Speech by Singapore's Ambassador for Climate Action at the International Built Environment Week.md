@@ -18,27 +18,27 @@ RX, sponsors and partners for the opportunity to join you at the International
 Built Environment Week Conference.&nbsp;</p>
 <p><strong>THRIVING IN A LOW-CARBON, CLIMATE-IMPAIRED WORLD</strong>
 </p>
-<p>Let me begin with a quick reflection on the state of the planet.&nbsp;
-It is not in a good place. Climate change is already happening. We are
-seeing more extreme storms, floods, wildfires, and heat waves. 2024 could
-be the world’s hottest year on record. Tropical cyclones are picking up
-more energy from warmer ocean waters and intensifying more quickly, leading
-to major floods. Droughts have become persistent across many parts of the
-world.</p>
+<p>Let me begin with a quick reflection on the state of the planet.&nbsp;It
+is not in a good place. Climate change is already happening. We are seeing
+more extreme storms, floods, wildfires, and heat waves. 2024 could be the
+world’s hottest year on record. Tropical cyclones are picking up more energy
+from warmer ocean waters and intensifying more quickly, leading to major
+floods. Droughts have become persistent across many parts of the world<sup>1</sup>.</p>
 <p>It will only get worse in the coming decades. To mitigate climate change,
 we need to limit global warming to 1.5 degrees Celsius above pre-industrial
 levels. But global temperatures are already 1.1 degrees Celsius higher
-and are continuing to rise. The main driver of global warming – the emission
-of greenhouse gases – is also continuing to rise. The climate crisis –
-and that is exactly what it is – is gathering pace.</p>
+and are continuing to rise<sup>2</sup>. The main driver of global warming
+– the emission of greenhouse gases – is also continuing to rise. The climate
+crisis – and that is exactly what it is – is gathering pace.</p>
 <p>To avert climate catastrophe, the world has been stepping up decarbonisation.
-As of June 2023, 149 countries have committed to achieve net-zero emissions.
+As of June 2023, 149 countries have committed to achieve net-zero emissions<sup>3</sup>.
 In the advanced economies, emissions have fallen to their level of 50 years
-ago. The share of renewables in global power generation has been growing
-over the years and surpassed 30% in 2023.&nbsp; The global demand for each
-fossil fuel – coal, oil, and natural gas – is expected to peak before 2030.
-Globally, investment in energy transition technologies has surged from
-US$240 billion in 2012 to US$1.8 trillion in 2023.</p>
+ago<sup>4</sup>. The share of renewables in global power generation has
+been growing over the years and surpassed 30% in 2023<sup>5</sup>.&nbsp;
+The global demand for each fossil fuel – coal, oil, and natural gas – is
+expected to peak before 2030<sup>6</sup>. Globally, investment in energy
+transition technologies has surged from US$240 billion in 2012 to US$1.8
+trillion in 2023<sup>7</sup>.</p>
 <p>What do these two ongoing trends – climate change and decarbonisation
 – mean? It is likely that the world will accelerate the current pace of
 decarbonisation in the face of worsening climate change.&nbsp; We will
@@ -275,10 +275,10 @@ be transitioning, for it to be considered favourably for financing?</p>
 standards enable financial institutions to more confidently invest in a
 company’s decarbonisation.&nbsp; Let me cite an example from the building
 sector. An international alliance of leading green building rating system
-organisations has launched a guide to help bridge knowledge gaps. The guide
-helps institutional investors and financial institutions better understand
-major building certification systems, and how those certifications align
-with the goals of sustainable finance.</p>
+organisations has launched a guide to help bridge knowledge gaps<sup>8</sup>.
+The guide helps institutional investors and financial institutions better
+understand major building certification systems, and how those certifications
+align with the goals of sustainable finance.</p>
 <p>Another enabler is taxonomies. &nbsp;The Monetary Authority of Singapore,
 in collaboration with industry, has established the Singapore-Asia Taxonomy
 for Sustainable Finance. The taxonomy aims to serve as a common reference
@@ -347,3 +347,15 @@ interest.</p>
 <p>We must transition because it is the right thing to do – for our people
 and our planet.</p>
 <p>Thank you.</p>
+<p></p>
+<hr>
+<p><sup>1 </sup>State of the Global Climate 2023, World Meteorological Organisation</p>
+<p><sup>2 </sup>NASA’s Goddard Institute for Space Studies</p>
+<p><sup>3</sup> Net Zero Stocktake 2023, New Climate Institute, Oxford Net
+Zero, Energy &amp; Climate Intelligence Unit and Data-Driven EnviroLab</p>
+<p><sup>4</sup> CO<sub>2</sub> Emissions in 2023, IEA</p>
+<p><sup>5</sup> Renewables &amp; Power Trends Report, Rystad Energy</p>
+<p><sup>6</sup> World Energy Outlook 2023, IEA</p>
+<p><sup>7</sup> Energy Transition Investment Trends 2024, BloombergNEF</p>
+<p><sup>8</sup> Financing Transformation: A Guide to Green Building for Green
+Bonds and Green Loans</p>
