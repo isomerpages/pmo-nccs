@@ -347,8 +347,9 @@ to transition from considerations based purely on self-interest to collective
 interest.</p>
 <p>We must transition because it is the right thing to do – for our people
 and our planet.</p>
+<p>Thank you.</p>
 <p></p>
-<p></p>
+<hr>
 <p><sup>1 </sup>State of the Global Climate 2023, World Meteorological Organisation</p>
 <p><sup>2 </sup>NASA’s Goddard Institute for Space Studies</p>
 <p><sup>3</sup> Net Zero Stocktake 2023, New Climate Institute, Oxford Net
@@ -359,4 +360,3 @@ Zero, Energy &amp; Climate Intelligence Unit and Data-Driven EnviroLab</p>
 <p><sup>7</sup> Energy Transition Investment Trends 2024, BloombergNEF</p>
 <p><sup>8</sup> Financing Transformation: A Guide to Green Building for Green
 Bonds and Green Loans</p>
-<p>Thank you.</p>
