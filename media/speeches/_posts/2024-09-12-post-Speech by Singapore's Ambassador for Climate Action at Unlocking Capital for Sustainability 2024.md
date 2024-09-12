@@ -19,8 +19,8 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Global temperatures are already 1.1 degrees Celsius higher than pre-industrial
-levels and continuing to rise.<sup>1</sup> &lt;sup&gt;&lt;a id="ref1" href="#fn1"&gt;1&lt;/a&gt;&lt;/sup&gt;
-2023 was the hottest year on record. 2024 will likely break that record.</p>
+levels and continuing to rise.<sup>1</sup> 2023 was the hottest year on
+record. 2024 will likely break that record.</p>
 </li>
 <li>
 <p>We are already seeing the effects of global warming. Storms, floods, heatwaves,
@@ -749,8 +749,8 @@ commitment of climate change. <em>Nature, 628</em>(8008), 551-557. <a href="http
 </p>
 <p><sup>23 </sup><a href="https://www.elibrary.imf.org/downloadpdf/book/9781616353933/ch05.pdf" rel="noopener nofollow" target="_blank">https://www.elibrary.imf.org/downloadpdf/book/9781616353933/ch05.pdf</a>
 </p>
-<p><sup>24 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.imf.org/en/Blogs/Articles/2024/01/29/explainer-how-asia-can-unlock-800-billion-of-climate-financing</a>
+<p><sup>24 </sup><a href="https://www.imf.org/en/Blogs/Articles/2024/01/29/explainer-how-asia-can-unlock-800-billion-of-climate-financing" rel="noopener nofollow" target="_blank">https://www.imf.org/en/Blogs/Articles/2024/01/29/explainer-how-asia-can-unlock-800-billion-of-climate-financing</a>
 </p>
-<p><sup>25 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.imf.org/en/Blogs/Articles/2024/01/29/explainer-how-asia-can-unlock-800-billion-of-climate-financing</a>
+<p><sup>25 </sup><a href="https://www.imf.org/en/Blogs/Articles/2024/01/29/explainer-how-asia-can-unlock-800-billion-of-climate-financing" rel="noopener nofollow" target="_blank">https://www.imf.org/en/Blogs/Articles/2024/01/29/explainer-how-asia-can-unlock-800-billion-of-climate-financing</a>
 </p>
 <p></p>
