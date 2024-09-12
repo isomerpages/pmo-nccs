@@ -706,48 +706,48 @@ to a greener and brighter future.</p>
 <p>Thank you, and I wish you a fruitful day.</p>
 <p>&nbsp;</p>
 <hr>
-<p>&lt;sup id="fn1"&gt;<sup>1</sup>  <a rel="noopener noreferrer nofollow" target="_blank">https://earthobservatory.nasa.gov/world-of-change/global-temperatures</a>
+<p>&lt;sup id="fn1"&gt;<sup>1</sup>  <a href="https://earthobservatory.nasa.gov/world-of-change/global-temperatures" rel="noopener nofollow" target="_blank">https://earthobservatory.nasa.gov/world-of-change/global-temperatures &lt;/sup&gt;</a>
 </p>
-<p><sup>2 </sup><a href="https://ourworldindata.org/greenhouse-gas-emissions" rel="noopener noreferrer nofollow" target="_blank">UNEP</a> (2023) <em>Emissions Gap Report 2023: Broken Record – Temperatures hit new highs, yet world fails to cut emissions (again).</em>
+<p><sup>2 </sup>UNEP (2023) <em>Emissions Gap Report 2023: Broken Record – Temperatures hit new highs, yet world fails to cut emissions (again).</em>
 </p>
 <p><sup>3</sup> IPCC AR6 WGII C10</p>
 <p><sup>4 </sup>IPCC AR6 WGII C10</p>
 <p><sup>5 </sup>Kotz, M., Levermann, A., &amp; Wenz, L. (2024). The economic
-commitment of climate change. <em>Nature, 628</em>(8008), 551-557. <a rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.1038/s41586-024-07219-0</a>.</p>
+commitment of climate change. <em>Nature, 628</em>(8008), 551-557. <a href="https://doi.org/10.1038/s41586-024-07219-0" rel="noopener nofollow" target="_blank">https://doi.org/10.1038/s41586-024-07219-0</a>.</p>
 <p><sup>6 </sup>The World Bank. (2006). <em>The Road to 2050: Sustainable Development for the 21<sup>st</sup> Century</em>.</p>
 <p><sup>7 </sup>Menon, R. (2024). <em>Singapore’s Triple Transition to a Low-Carbon Future</em>.
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.nccs.gov.sg/speech-by-singapore-s-ambassador-for-climate-action-at-the-international-built-environment-week/</a>
+<a href="https://www.nccs.gov.sg/speech-by-singapore-s-ambassador-for-climate-action-at-the-international-built-environment-week/" rel="noopener nofollow" target="_blank">https://www.nccs.gov.sg/speech-by-singapore-s-ambassador-for-climate-action-at-the-international-built-environment-week/</a>
 </p>
-<p><sup>8 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.energyinst.org/statistical-review</a>
+<p><sup>8 </sup><a href="https://www.energyinst.org/statistical-review" rel="noopener nofollow" target="_blank">https://www.energyinst.org/statistical-review</a>
 </p>
-<p><sup>9 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.mckinsey.com/mgi/our-research/asia-on-the-cusp-of-a-new-era</a>
+<p><sup>9 </sup><a href="https://www.mckinsey.com/mgi/our-research/asia-on-the-cusp-of-a-new-era" rel="noopener nofollow" target="_blank">https://www.mckinsey.com/mgi/our-research/asia-on-the-cusp-of-a-new-era</a>
 </p>
-<p><sup>10 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.oxfordenergy.org/publications/can-hydrogen-and-carbon-capture-and-storage-ccs-help-decarbonize-the-coal-power-plants-in-asia/</a>
+<p><sup>10 </sup><a href="https://www.oxfordenergy.org/publications/can-hydrogen-and-carbon-capture-and-storage-ccs-help-decarbonize-the-coal-power-plants-in-asia/" rel="noopener nofollow" target="_blank">https://www.oxfordenergy.org/publications/can-hydrogen-and-carbon-capture-and-storage-ccs-help-decarbonize-the-coal-power-plants-in-asia/</a>
 </p>
 <p><sup>11 </sup>International Energy Agency. (2022). <em>Coal in Net Zero Transitions: Strategies for rapid, secure, and people-centred change.</em>
 </p>
-<p><sup>12</sup>  <a rel="noopener noreferrer nofollow" target="_blank">https://www.adb.org/what-we-do/topics-energy/overview</a>
+<p><sup>12</sup>  <a href="https://www.adb.org/what-we-do/topics-energy/overview" rel="noopener nofollow" target="_blank">https://www.adb.org/what-we-do/topics-energy/overview</a>
 </p>
 <p><sup>13 </sup>MAS and McKinsey &amp; Company (2023, September). <em>Accelerating the early retirement of coal-fired power plants through carbon credits</em>.</p>
-<p><sup>14 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.irena.org/News/pressreleases/2023/Aug/Renewables-Competitiveness-Accelerates-Despite-Cost-Inflation</a>
+<p><sup>14 </sup><a href="https://www.irena.org/News/pressreleases/2023/Aug/Renewables-Competitiveness-Accelerates-Despite-Cost-Inflation" rel="noopener nofollow" target="_blank">https://www.irena.org/News/pressreleases/2023/Aug/Renewables-Competitiveness-Accelerates-Despite-Cost-Inflation</a>
 </p>
-<p><sup>15 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://zerocarbon-analytics.org/wp-content/uploads/2023/11/Report_-Asia-leads-global-race-in-renewables.pdf</a>
+<p><sup>15 </sup><a href="https://zerocarbon-analytics.org/wp-content/uploads/2023/11/Report_-Asia-leads-global-race-in-renewables.pdf" rel="noopener nofollow" target="_blank">https://zerocarbon-analytics.org/wp-content/uploads/2023/11/Report_-Asia-leads-global-race-in-renewables.pdf</a>
 </p>
-<p><sup>16 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://zerocarbon-analytics.org/wp-content/uploads/2023/11/Report_-Asia-leads-global-race-in-renewables.pdf</a>
+<p><sup>16 </sup><a href="https://zerocarbon-analytics.org/wp-content/uploads/2023/11/Report_-Asia-leads-global-race-in-renewables.pdf" rel="noopener nofollow" target="_blank">https://zerocarbon-analytics.org/wp-content/uploads/2023/11/Report_-Asia-leads-global-race-in-renewables.pdf</a>
 </p>
-<p><sup>17 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.woodmac.com/news/opinion/asias-renewables-need-massive-grid-investment/</a>
+<p><sup>17 </sup><a href="https://www.woodmac.com/news/opinion/asias-renewables-need-massive-grid-investment/" rel="noopener nofollow" target="_blank">https://www.woodmac.com/news/opinion/asias-renewables-need-massive-grid-investment/</a>
 </p>
-<p><sup>18</sup>  <a rel="noopener noreferrer nofollow" target="_blank">https://www.brookings.edu/articles/the-jagged-edge-illegal-logging-in-southeast-asia</a>
+<p><sup>18</sup>  <a href="https://www.brookings.edu/articles/the-jagged-edge-illegal-logging-in-southeast-asia" rel="noopener nofollow" target="_blank">https://www.brookings.edu/articles/the-jagged-edge-illegal-logging-in-southeast-asia</a>
 </p>
-<p><sup>19 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.brookings.edu/articles/the-jagged-edge-illegal-logging-in-southeast-asia</a>
+<p><sup>19 </sup><a href="https://www.brookings.edu/articles/the-jagged-edge-illegal-logging-in-southeast-asia" rel="noopener nofollow" target="_blank">https://www.brookings.edu/articles/the-jagged-edge-illegal-logging-in-southeast-asia</a>
 </p>
-<p><sup>20 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.asianscientist.com/2021/09/in-the-lab/forest-clearance-greenhouse-gases/</a>
+<p><sup>20 </sup><a href="https://www.asianscientist.com/2021/09/in-the-lab/forest-clearance-greenhouse-gases/" rel="noopener nofollow" target="_blank">https://www.asianscientist.com/2021/09/in-the-lab/forest-clearance-greenhouse-gases/</a>
 </p>
-<p><sup>21 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.pnas.org/doi/10.1073/pnas.0710616105</a>
+<p><sup>21 </sup><a href="https://www.pnas.org/doi/10.1073/pnas.0710616105" rel="noopener nofollow" target="_blank">https://www.pnas.org/doi/10.1073/pnas.0710616105</a>
 </p>
-<p><sup>22</sup>  <a rel="noopener noreferrer nofollow" target="_blank">https://www.nrs/fs/usda.gov/pubs/jrnl/2009/nrs_2009_murdiyarso_001.pdf</a>
+<p><sup>22</sup>  <a href="https://www.nrs/fs/usda.gov/pubs/jrnl/2009/nrs_2009_murdiyarso_001.pdf" rel="noopener nofollow" target="_blank">https://www.nrs/fs/usda.gov/pubs/jrnl/2009/nrs_2009_murdiyarso_001.pdf</a>
 </p>
-<p><sup>23 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.elibrary.imf.org/downloadpdf/book/9781616353933/ch05.pdf</a>
+<p><sup>23 </sup><a href="https://www.elibrary.imf.org/downloadpdf/book/9781616353933/ch05.pdf" rel="noopener nofollow" target="_blank">https://www.elibrary.imf.org/downloadpdf/book/9781616353933/ch05.pdf</a>
 </p>
 <p><sup>24 </sup><a rel="noopener noreferrer nofollow" target="_blank">https://www.imf.org/en/Blogs/Articles/2024/01/29/explainer-how-asia-can-unlock-800-billion-of-climate-financing</a>
 </p>
