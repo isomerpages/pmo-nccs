@@ -9,7 +9,7 @@ image: ""
 variant: tiptap
 ---
 <p>Singapore and Ghana have set out the processes for authorising carbon
-credit projects under their Implementation Agreement on carbon d credits
+credit projects under their Implementation Agreement on carbon credits
 cooperation, in accordance with Article 6 of the Paris Agreement. Applications
 may be submitted through Singapore’s Carbon Markets Cooperation website,
 at <a rel="noopener noreferrer nofollow" target="_blank">www.carbonmarkets-cooperation.gov.sg</a>.</p>
