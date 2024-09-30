@@ -12,7 +12,7 @@ variant: tiptap
 credit projects under their Implementation Agreement on carbon credits
 cooperation, in accordance with Article 6 of the Paris Agreement. Applications
 may be submitted through Singapore’s Carbon Markets Cooperation website,
-at <a href="https://www.carbonmarkets-cooperation.gov.sg./" rel="noopener noreferrer nofollow" target="_blank">www.carbonmarkets-cooperation.gov.sg</a>.</p>
+at <a href="https://www.carbonmarkets-cooperation.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.carbonmarkets-cooperation.gov.sg</a>.</p>
 <p></p>
 <p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The carbon credit projects authorised under the Implementation Agreement
