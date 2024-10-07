@@ -38,9 +38,9 @@ and</p>
 <li>
 <p>An economic transition to remain competitive in a low-carbon future and
 to capture new green growth opportunities.</p>
+<p></p>
 </li>
 </ol>
-<h3></h3>
 <p>These transitions will bring both opportunities as well as trade-offs.
 The shift towards a lower carbon economy presents significant growth potential
 in green economic activities across diverse sectors, including manufacturing,
