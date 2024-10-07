@@ -27,17 +27,13 @@ our next NDC in early-2025.</p>
 <p></p>
 <p>For Singapore to achieve our climate targets, we need to progress concurrently
 on three transitions:</p>
+<p>(a) A carbon transition to reduce emissions across all sectors;</p>
+<p>(b) An energy transition to achieve a resilient net zero electricity grid;
+and</p>
+<p>(c) An economic transition to remain competitive in a low-carbon future
+and to capture new green growth opportunities.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>A carbon transition to reduce emissions across all sectors;</p>
-</li>
-<li>
-<p>An energy transition to achieve a resilient net zero electricity grid;
-and</p>
-</li>
-<li>
-<p>An economic transition to remain competitive in a low-carbon future and
-to capture new green growth opportunities.</p>
 <p></p>
 </li>
 </ol>
