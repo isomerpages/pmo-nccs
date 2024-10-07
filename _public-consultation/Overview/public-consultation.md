@@ -2,8 +2,16 @@
 title: Public Consultation
 permalink: /public-consultation/
 third_nav_title: Overview
+variant: markdown
 ---
 ### PUBLIC CONSULTATION
+
+##### Ongoing Consultations
+Taking place from 8 Oct to 5 Nov 2024, NCCS has launched a public consultation on REACH Singapore to gather views on Singapore’s decarbonisation journey, including Singapore’s climate ambition, our transition towards a low-carbon economy and the decarbonisation measures we will undertake. The views will be taken into consideration as Singapore develops the next bound of climate targets, measures and policies.
+
+Find out more:&nbsp;[https://go.gov.sg/feedbacksgdecarb](https://go.gov.sg/feedbacksfdecarb)
+
+##### Past Consultations
 
 [[14 Dec 2022] Feedback from Public on Singapore's Raised Climate Ambition](/public-consultation/14-dec-2022-feedback-from-public-on-sg-raised-climate-ambition/)
 
@@ -15,5 +23,3 @@ third_nav_title: Overview
 
 [[7 Feb 2020] Response to Feedback on Singapore's Long-Term Low-Emissions Development Strategy](/public-consultation/response-to-feedback-on-singapore's-long-term-low-emissions-development-strategy/)
 <br><br><br>
-
-There are no ongoing online public consultations at the moment.
