@@ -28,7 +28,7 @@ provide additional details of Parties’ GHG inventory.</p>
 </p>
 </li>
 <li>
-<p><a href="https://unfccc.int/documents/643052" rel="noopener nofollow" target="_blank">[2024] Singapore’s BTR1 – Common Tabular Formats for Support</a>
+<p><a href="https://unfccc.int/documents/643052" rel="noopener nofollow" target="_blank">[2024] Singapore’s BTR1 – Common Tabular Formats for FTC</a>
 </p>
 </li>
 </ul>
