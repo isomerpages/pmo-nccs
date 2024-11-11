@@ -23,20 +23,24 @@ and achieving Nationally Determined Contributions (NDCs). It also includes
 building support that Parties received and rendered to other Parties. NIRs
 provide additional details of Parties’ GHG inventory.</p>
 <p></p>
-<p>[2024] Singapore’s First Biennial Transparency Report (BTR1)</p>
+<p><a href="/files/docs/default-source/publications/Singapore_BTR1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">[2024] Singapore’s First Biennial Transparency Report (BTR1)</a>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>[2024] Singapore’s BTR1 – Common Tabular Formats for NDC</p>
+<p><a href="https://unfccc.int/documents/643049" rel="noopener nofollow" target="_blank">[2024] Singapore’s BTR1 – Common Tabular Formats for NDC</a>
+</p>
 </li>
 <li>
-<p>[2024] Singapore’s BTR1 – Common Tabular Formats for Support</p>
-<p></p>
+<p><a href="https://unfccc.int/documents/643052" rel="noopener nofollow" target="_blank">[2024] Singapore’s BTR1 – Common Tabular Formats for Support</a>
+</p>
 </li>
 </ul>
-<p>[2024] Singapore’s 2024 National Inventory Document</p>
+<p><a href="/files/docs/default-source/publications/Singapore_NID_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">[2024] Singapore’s 2024 National Inventory Document</a>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>[2024] Singapore’s NIR 2024 – Common Reporting Tables</p>
+<p><a href="https://unfccc.int/documents/643040" rel="noopener nofollow" target="_blank">[2024] Singapore’s NIR 2024 – Common Reporting Tables</a>
+</p>
 </li>
 </ul>
 <p></p>
