@@ -22,20 +22,28 @@ and achieving Nationally Determined Contributions (NDCs). It also includes
 &nbsp;any financial support, technology development and transfer, and capacity
 building support that Parties received and rendered to other Parties. NIRs
 provide additional details of Parties’ GHG inventory.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>[2024] Singapore’s First Biennial Transparency Report (BTR1)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2024] Singapore’s BTR1
-– Common Tabular Formats for NDC</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2024] Singapore’s BTR1
-– Common Tabular Formats for Support</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>[2024] Singapore’s BTR1 – Common Tabular Formats for NDC</p>
+</li>
+<li>
+<p>[2024] Singapore’s BTR1 – Common Tabular Formats for Support</p>
+<p></p>
+</li>
+</ul>
 <p>[2024] Singapore’s 2024 National Inventory Document</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2024] Singapore’s NIR
-2024 – Common Reporting Tables</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>[2024] Singapore’s NIR 2024 – Common Reporting Tables</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <p>BTRs and NIRs supersede Biennial Update Reports (BURs). Singapore submitted
 our fifth and final BUR in 2022.</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.nccs.gov.sg/files/docs/default-source/publications/singapore-nc5bur5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>[2022] Singapore’s Fifth National Communication and Fifth Biennial Update Report (PDF, 13MB)</u></a>
 </p>
