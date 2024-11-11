@@ -43,7 +43,7 @@ and seek feedback from stakeholders when developing the final Protocol,
 to ensure that it can serve as a practical enabler of and complement to
 Article 6.2 rules adopted within the United Nations Framework Convention
 on Climate Change (UNFCCC).</p>
-<p>The initial recommendations can be downloaded through this link: <a href="/files/docs/default-source/news-documents/Article_6_Protocol_v1_11Nov2024_final.pdf" rel="noopener nofollow" target="_blank">Operationalizing Article 6</a>
+<p>The initial recommendations can be downloaded through this link: <a href="/files/docs/default-source/default-document-library/Article_6_Protocol_v1_11Nov2024_final.pdf" rel="noopener nofollow" target="_blank">Operationalizing Article 6</a>
 </p>
 <p></p>
 <p><strong>Benedict Chia, Director-General (Climate Change), National Climate Change Secretariat, Singapore, said:&nbsp;</strong>“It
