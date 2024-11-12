@@ -485,6 +485,5 @@ and collective action that are critical to addressing the climate crisis.
 food resilience, or nature-based solutions, it is only by working together
 – across the public and private sectors, and across countries – will we
 stand a chance to secure a sustainable planet.</p>
-<p>&nbsp;</p>
 <p>Thank you.</p>
 <p></p>
