@@ -20,8 +20,9 @@ Asia and Australasia. Although the refining and petrochemical sector remains
 a significant proportion of our total carbon emissions, we are <a href="/singapores-climate-action/mitigation-efforts/overview/" rel="noopener noreferrer nofollow" target="_blank">taking steps to reduce emissions</a>.</p>
 <p><strong>Emissions Profile</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2021-emissions%20profile.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Emissions_Profile__2022_.png">
 </div>
 <p><strong>Carbon Intensity (CO<sub>2</sub> per $GDP)</strong>
 </p>
