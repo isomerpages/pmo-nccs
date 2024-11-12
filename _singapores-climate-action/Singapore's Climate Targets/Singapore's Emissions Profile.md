@@ -38,6 +38,8 @@ in 2021, with the 1<sup>st</sup> having the highest carbon intensity).<sup>1</su
 of CO<sub>2</sub> emissions per capita in 2021, with the 1<sup>st</sup> having
 the highest per capita emissions.<sup>2</sup>&nbsp;</p>
 <p><em><sup>2</sup>Based on IEA data from IEA (2023) Greenhouse Gas Emissions from Energy, <a href="https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy</u></a>, All rights reserved.</em>&nbsp;</p>
-<p>See <a href="https://www.nccs.gov.sg/images/2021emissionsprofile.png" class="Hyperlink SCXW241434818 BCX0" rel="noreferrer noopener" target="_blank"><u>Singapore’s past emissions data</u></a>
+<p>See <a href="https://www.nccs.gov.sg/images/2021emissionsprofile.png" rel="noopener nofollow" target="_blank">Singapore's past emissions data</a> 
+<a href="https://www.nccs.gov.sg/images/2021emissionsprofile.png" class="Hyperlink SCXW241434818 BCX0" rel="noreferrer noopener" target="_blank"><u>Singapore’s past emissions data</u>
+</a>
 </p>
 <p></p>
