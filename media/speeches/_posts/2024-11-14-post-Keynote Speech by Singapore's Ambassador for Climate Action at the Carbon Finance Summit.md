@@ -16,7 +16,6 @@ variant: tiptap
 <p><strong>&nbsp;</strong>
 </p>
 <p>Ladies and gentlemen, good afternoon.</p>
-<p>&nbsp;</p>
 <p><strong>The transition to net zero will require significant financing.</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -335,13 +334,11 @@ that allows users to track the flows and transactions of credits from over
 </ul>
 <p>&nbsp;</p>
 <p>Let me conclude.</p>
-<p>&nbsp;</p>
 <p>There is no pathway to net-zero without well-functioning carbon markets
 based on high-quality carbon credits which unlock much needed financing
 for decarbonisation projects in the developing world.</p>
-<p>&nbsp;</p>
 <p>We must strengthen integrity, build trust, and restore confidence in carbon
 markets.&nbsp; I hope this Summit will contribute meaningfully to that
 process.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Thank you.</p>
