@@ -11,12 +11,14 @@ variant: tiptap
 <p><strong>Keynote Speech by Singapore's Ambassador for Climate Action &amp; Senior Adviser (National Climate Change Secretariat) Ravi Menon at the Carbon Finance Summit, WWF Pavilion, Blue Zone, 14 November 2024</strong>
 </p>
 <hr>
-<p></p>
 <p><strong>Financing the Climate Transition</strong>
 </p>
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
 <p>Ladies and gentlemen, good afternoon.</p>
-<p>The transition to net zero will require significant financing.</p>
+<p>&nbsp;</p>
+<p><strong>The transition to net zero will require significant financing.</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The bad news is that financial flows into climate action are still sorely
@@ -45,16 +47,16 @@ amounts of capital that could help fund the transition to net zero.</p>
 </ul>
 </li>
 </ul>
+<p>&nbsp;</p>
 <p><strong>There are two key enablers to unlock this private capital: blended finance and carbon credits.</strong>
 </p>
 <p>I will say a few words on blended finance before focusing the rest of
 my remarks on carbon credits.</p>
-<p><strong>Blended finance is about using a combination of concessional capital, technical assistance, and de-risking mechanisms to catalyse private commercial capital.</strong>
-</p>
+<p><strong>Blended finance is about using a combination of concessional capital, technical assistance, and de-risking mechanisms to catalyse private commercial capital</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Concessional capital could be in the form of grants, guarantees, or financing
-at below-market rates. By helping to absorb first-loss risk, it improves
+at below-market rates.&nbsp; By helping to absorb first-loss risk, it improves
 project bankability, thereby attracting private commercial capital.</p>
 </li>
 <li>
@@ -63,23 +65,28 @@ building, and institutional support – can also help to reduce risk, strengthen
 confidence, and improve bankability.</p>
 </li>
 </ul>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>Singapore has launched a blended finance initiative called the Financing Asia’s Transition Partnership or FAST-P which aims to mobilise up to 5 billion US dollars.</strong>
 </p>
-<p><strong>The Singapore Government will contribute up to 500 million US dollars in concessional capital to FAST-P on a matching basis.</strong>
+<p><strong>The Singapore Government will contribute up to 500 million US dollars in</strong>  <strong>concessional capital to FAST-P on a matching basis.</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>This means that if FAST-P can attract an equal amount of concessional
 capital from other sources, we can build up a pool of concessional capital
 of up to 1 billion US dollars.</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>The combined pool of concessional capital will be used to crowd in up
 to 4 billion US dollars of commercial capital, to support transition projects
 in Asia.</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p>Next, carbon credits.</p>
-<p><strong>Carbon credits offer a market-driven solution to bridge the financing gap, particularly when policy and economic incentives are lacking.</strong>
+<p>&nbsp;</p>
+<p><strong>Carbon credits offer a market-driven solution to bridge the financing gap, particularly when policy and economic incentives are lacking.&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -106,6 +113,7 @@ solution to meet emissions reduction targets.</p>
 </ul>
 </li>
 </ul>
+<p></p>
 <p><strong>To unlock the full potential of carbon credits, we need well-functioning carbon markets.</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -119,10 +127,10 @@ trust deficit.</p>
 <li>
 <p>To restore trust and revive the markets, some critical bottlenecks must
 be addressed in both the compliance and voluntary carbon markets.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>In the compliance carbon market, further guidance on Article 6 is important so that markets can work more efficiently.</strong>
-</p>
+<p><strong>In the compliance carbon market, further guidance on Article 6 is important so that markets can work more efficiently</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>At COP this year, Singapore’s Minister for Sustainability and the Environment
@@ -134,10 +142,8 @@ will be co-facilitating Article 6 negotiations with her New Zealand counterpart.
 It is critical that this new Article 6.4 mechanism is operationalised.</p>
 </li>
 </ul>
-<p><strong>In the voluntary carbon market, we need to take a comprehensive approach to addressing bottlenecks on the demand side, the supply side, and market infrastructure.</strong>
-</p>
-<p><strong>On the demand side, without clear guidelines on how they can use credits to achieve net zero, businesses are afraid of venturing into the voluntary carbon market.</strong>
-</p>
+<p><strong>In the voluntary carbon market, we need to take a comprehensive approach to addressing bottlenecks on the demand side, the supply side, and market infrastructure</strong>.</p>
+<p><strong>On the demand side, without clear guidelines on how they can use credits to achieve net zero, businesses are afraid of venturing into the voluntary carbon market</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Science Based Targets Initiative (SBTi) is still reviewing its guidance
@@ -149,7 +155,7 @@ out a code of practice on how companies can make credible voluntary claims
 on carbon credit use. But it has yet to finalise guidance on Scope 3 claims.</p>
 </li>
 <li>
-<p>Standard setters, while important, can only go so far.</p>
+<p>Guidance from standard setters, while important, can only go so far.</p>
 </li>
 <li>
 <p>We need progress on two fronts:</p>
@@ -175,8 +181,8 @@ held to account.</p>
 </li>
 <li>
 <p>But the bigger risk is that we throw the baby out with the bathwater through
-overly stringent or prescriptive requirements. We need stronger guidance
-but also smart guidance.</p>
+overly stringent or prescriptive requirements.&nbsp;&nbsp; We need stronger
+guidance but also smart guidance.</p>
 </li>
 <li>
 <p>The work of the Integrity Council for the Voluntary Carbon Market to establish
@@ -188,6 +194,7 @@ is a good start.</p>
 work.</p>
 </li>
 </ul>
+<p>&nbsp;</p>
 <p><strong>On the market infrastructure side, there is a lack of harmonisation and transparency.</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -200,12 +207,16 @@ even the terminologies used across different markets.</p>
 and liquidity.</p>
 </li>
 </ul>
+<p>&nbsp;</p>
 <p><strong>Singapore is actively working with partners in the ecosystem to shape a well-functioning global carbon market.</strong>
 </p>
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>First, Singapore is supporting the generation of high-integrity carbon credits.</strong>
 </p>
-<p><strong><em>We are providing clear demand signals through our Implementation Agreements on Article 6 cooperation.</em></strong>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><em>We are providing clear demand signals through our Implementation Agreements on Article 6 cooperation</em>.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -218,7 +229,8 @@ to finance emissions reduction or removal projects.</p>
 </li>
 <li>
 <p>Credits generated need to align with high-integrity carbon crediting methodologies
-from credible offset programmes.</p>
+from credible offset programmes<strong>.</strong>
+</p>
 </li>
 <li>
 <p>More Implementation Agreements will follow – we are in active discussions
@@ -226,32 +238,35 @@ with countries such as Bhutan, Cambodia, Kenya, Mongolia and Peru.</p>
 </li>
 <li>
 <p>In October this year, the Singapore Government issued an open request
-for proposals to supply high-integrity Article 6-aligned NBS credits. This
-request underscores Singapore’s support for high-integrity NBS credits
+for proposals to supply high-integrity Article 6-aligned nature-based solutions
+credits. This request underscores Singapore’s support for such credits
 that are aligned with Article 6 of the Paris Agreement.</p>
 </li>
 </ul>
-<p><em>We are sharing our experience to guide other countries that wish to use voluntary standards in their Article 6 approaches.</em>
-</p>
+<p>&nbsp;</p>
+<p><strong><em>We are sharing our experience to guide other countries that wish to use voluntary standards in their Article 6 approaches</em></strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore has been working with Gold Standard and Verra to develop an
-“Article 6 Crediting Protocol”.</p>
+“Article 6 Crediting Protocol”.&nbsp;</p>
 </li>
 <li>
 <p>We have just published, together with our partners, the initial recommendations
 of the Article 6 Crediting Protocol, incorporating feedback through consultations
-with countries, international organisations, and carbon markets experts.</p>
+with countries, international organisations, and carbon markets experts.&nbsp;</p>
 </li>
 <li>
 <p>The Article 6 Crediting Protocol will be published early next year, taking
 into account discussions at COP29.</p>
 </li>
 </ul>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>Second, Singapore has been working to promote high standards of integrity for different types of carbon credits.</strong>
 </p>
-<p><em>We are piloting the use of transition credits as a credible financing instrument for transition projects.</em>
+<p><strong>&nbsp;</strong>
 </p>
+<p><strong><em>We are piloting the use of transition credits as a credible financing instrument for transition projects</em></strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A good use case is coal phase-out in Asia.</p>
@@ -271,11 +286,13 @@ supply and build up buyer confidence in transition credits.</p>
 </li>
 <li>
 <p>We are also consulting the Integrity Council for the Voluntary Carbon
-Market to ensure that these credits align with the Core Carbon Principles
+Market&nbsp;to ensure that these credits align with the Core Carbon Principles
 and Article 6 integrity requirements.</p>
+<p><strong><em>&nbsp;</em></strong>
+</p>
 </li>
 </ul>
-<p><em>We are working to strengthen standards for ensuring that nature-based credits lead to actual emissions reduction.</em>
+<p><strong><em>We are working to strengthen standards for ensuring that nature-based credits lead to actual emissions reduction.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -292,6 +309,8 @@ of nature-based projects.</p>
 the confidence in the credibility of these projects.</p>
 </li>
 </ul>
+<p><strong><em>&nbsp;</em></strong>
+</p>
 <p><strong>Third, Singapore is supporting the development of a harmonised carbon data platform to address transparency concerns.</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -312,14 +331,17 @@ injecting much-needed transparency and accountability in the markets.</p>
 all credits issued globally. It provides an interactive data dashboard
 that allows users to track the flows and transactions of credits from over
 17,300 carbon offset projects worldwide.</p>
-<p></p>
 </li>
 </ul>
+<p>&nbsp;</p>
 <p>Let me conclude.</p>
+<p>&nbsp;</p>
 <p>There is no pathway to net-zero without well-functioning carbon markets
 based on high-quality carbon credits which unlock much needed financing
 for decarbonisation projects in the developing world.</p>
+<p>&nbsp;</p>
 <p>We must strengthen integrity, build trust, and restore confidence in carbon
-markets. I hope this Summit will contribute meaningfully to that process.</p>
+markets.&nbsp; I hope this Summit will contribute meaningfully to that
+process.</p>
+<p>&nbsp;</p>
 <p>Thank you.</p>
-<p></p>
