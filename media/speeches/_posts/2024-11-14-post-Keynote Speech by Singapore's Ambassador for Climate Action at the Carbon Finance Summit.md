@@ -8,11 +8,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Keynote Speech by Singapore's Ambassador for Climate Action for Climate Action &amp; Senior Adviser (National Climate Change Secretariat) Ravi Menon at the Carbon Finance Summit, WWF Pavilion, Blue Zone, 14 November 2024</strong>
+<p><strong>Keynote Speech by Singapore's Ambassador for Climate Action &amp; Senior Adviser (National Climate Change Secretariat) Ravi Menon at the Carbon Finance Summit, WWF Pavilion, Blue Zone, 14 November 2024</strong>
 </p>
 <hr>
 <p></p>
-<p><strong>Financing the Climate Transition </strong>
+<p><strong>Financing the Climate Transition</strong>
 </p>
 <p></p>
 <p>Ladies and gentlemen, good afternoon.</p>
@@ -65,7 +65,7 @@ confidence, and improve bankability.</p>
 </ul>
 <p><strong>Singapore has launched a blended finance initiative called the Financing Asia’s Transition Partnership or FAST-P which aims to mobilise up to 5 billion US dollars.</strong>
 </p>
-<p><strong>The Singapore Government will contribute up to 500 million US dollars in concessional capital to FAST-P on a matching basis. </strong>
+<p><strong>The Singapore Government will contribute up to 500 million US dollars in concessional capital to FAST-P on a matching basis.</strong>
 </p>
 <p>This means that if FAST-P can attract an equal amount of concessional
 capital from other sources, we can build up a pool of concessional capital
@@ -106,7 +106,7 @@ solution to meet emissions reduction targets.</p>
 </ul>
 </li>
 </ul>
-<p><strong>To unlock the full potential of carbon credits, we need well-functioning carbon markets. </strong>
+<p><strong>To unlock the full potential of carbon credits, we need well-functioning carbon markets.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -121,7 +121,7 @@ trust deficit.</p>
 be addressed in both the compliance and voluntary carbon markets.</p>
 </li>
 </ul>
-<p><strong>In the compliance carbon market, further guidance on Article 6 is important so that markets can work more efficiently. </strong>
+<p><strong>In the compliance carbon market, further guidance on Article 6 is important so that markets can work more efficiently.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -134,7 +134,7 @@ will be co-facilitating Article 6 negotiations with her New Zealand counterpart.
 It is critical that this new Article 6.4 mechanism is operationalised.</p>
 </li>
 </ul>
-<p><strong>In the voluntary carbon market, we need to take a comprehensive approach to addressing bottlenecks on the demand side, the supply side, and market infrastructure. </strong>
+<p><strong>In the voluntary carbon market, we need to take a comprehensive approach to addressing bottlenecks on the demand side, the supply side, and market infrastructure.</strong>
 </p>
 <p><strong>On the demand side, without clear guidelines on how they can use credits to achieve net zero, businesses are afraid of venturing into the voluntary carbon market.</strong>
 </p>
@@ -275,7 +275,7 @@ Market to ensure that these credits align with the Core Carbon Principles
 and Article 6 integrity requirements.</p>
 </li>
 </ul>
-<p><em>We are working to strengthen standards for ensuring that nature-based credits lead to actual emissions reduction. </em>
+<p><em>We are working to strengthen standards for ensuring that nature-based credits lead to actual emissions reduction.</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -292,7 +292,7 @@ of nature-based projects.</p>
 the confidence in the credibility of these projects.</p>
 </li>
 </ul>
-<p><strong>Third, Singapore is supporting the development of a harmonised carbon data platform to address transparency concerns. </strong>
+<p><strong>Third, Singapore is supporting the development of a harmonised carbon data platform to address transparency concerns.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
