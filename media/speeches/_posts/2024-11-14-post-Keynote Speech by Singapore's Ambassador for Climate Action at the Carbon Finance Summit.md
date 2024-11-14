@@ -41,11 +41,10 @@ amounts of capital that could help fund the transition to net zero.</p>
 </ul>
 </li>
 </ul>
-<p></p>
 <p>There are two key enablers to unlock this private capital: blended finance
 and carbon credits.</p>
-<p>I will say a few words on blended fnance before focusing the rest of my
-remarks on carbon credits.</p>
+<p>I will say a few words on blended finance before focusing the rest of
+my remarks on carbon credits.</p>
 <p>Blended finance is about using a combination of concessional capital,
 technical assistance, and de-risking mechanisms to catalyse private commercial
 capital.</p>
@@ -78,7 +77,6 @@ to 4 billion US dollars of commercial capital, to support transition projects
 in Asia.</p>
 </li>
 </ul>
-<p></p>
 <p>Next, carbon credits.</p>
 <p>Carbon credits offer a market-driven solution to bridge the financing
 gap, particularly when policy and economic incentives are lacking.</p>
@@ -141,181 +139,99 @@ infrastructure.</p>
 <p>On the demand side, without clear guidelines on how they can use credits
 to achieve net zero, businesses are afraid of venturing into the voluntary
 carbon market.</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>The Science Based Targets Initiative (SBTi) is still reviewing its guidance
 on using credits to offset residual emissions.</p>
-</li>
-<li>
-<p>The Voluntary Carbon Market Integrity Initiative (VCMI) has usefully set
-out a code of practice on how companies can make credible voluntary claims
-on carbon credit use. But it has yet to finalise guidance on Scope 3 claims.</p>
-</li>
-<li>
-<p>Standard setters, while important, can only go so far.</p>
-</li>
-<li>
-<p>We need progress on two fronts:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>greater coordination among standard setters and harmonisation of guidelines;
+<p>• The Voluntary Carbon Market Integrity Initiative (VCMI) has usefully
+set out a code of practice on how companies can make credible voluntary
+claims on carbon credit use. But it has yet to finalise guidance on Scope
+3 claims.</p>
+<p>• Standard setters, while important, can only go so far.</p>
+<p>• We need progress on two fronts:</p>
+<p>o greater coordination among standard setters and harmonisation of guidelines;
 and</p>
-</li>
-<li>
-<p>guidance from governments on businesses’ use of carbon credits in line
+<p>o guidance from governments on businesses’ use of carbon credits in line
 with national policies.</p>
-</li>
-</ul>
-</li>
-</ul>
 <p>On the supply side, there are concerns about the integrity of carbon credits.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Some of these concerns are valid and public scrutiny is not a bad thing.
+<p>• Some of these concerns are valid and public scrutiny is not a bad thing.
 Carbon crediting projects that violate environmental integrity should be
 held to account.</p>
-</li>
-<li>
-<p>But the bigger risk is that we throw the baby out with the bathwater through
-overly stringent or prescriptive requirements. We need stronger guidance
-but also smart guidance.</p>
-</li>
-<li>
-<p>The work of the Integrity Council for the Voluntary Carbon Market to establish
-globally-accepted standards for what constitutes a high-integrity credit
-is a good start.</p>
-</li>
-<li>
-<p>Here too, national governments have a role to play in supporting this
+<p>• But the bigger risk is that we throw the baby out with the bathwater
+through overly stringent or prescriptive requirements. We need stronger
+guidance but also smart guidance.</p>
+<p>• The work of the Integrity Council for the Voluntary Carbon Market to
+establish globally-accepted standards for what constitutes a high-integrity
+credit is a good start.</p>
+<p>• Here too, national governments have a role to play in supporting this
 work.</p>
-</li>
-</ul>
 <p>On the market infrastructure side, there is a lack of harmonisation and
 transparency.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>There is little consistency in how information is recorded and tracked,
+<p>• There is little consistency in how information is recorded and tracked,
 even the terminologies used across different markets.</p>
-</li>
-<li>
-<p>There is little or no price transparency, which hinders price discovery
+<p>• There is little or no price transparency, which hinders price discovery
 and liquidity.</p>
-</li>
-</ul>
 <p>Singapore is actively working with partners in the ecosystem to shape
 a well-functioning global carbon market.</p>
 <p>First, Singapore is supporting the generation of high-integrity carbon
 credits.</p>
 <p>We are providing clear demand signals through our Implementation Agreements
 on Article 6 cooperation.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To date, we have signed bilateral agreements with Papua New Guinea and
+<p>• To date, we have signed bilateral agreements with Papua New Guinea and
 Ghana.</p>
-</li>
-<li>
-<p>These agreements provide clarity on how both countries can generate credits
-to finance emissions reduction or removal projects.</p>
-</li>
-<li>
-<p>Credits generated need to align with high-integrity carbon crediting methodologies
-from credible offset programmes.</p>
-</li>
-<li>
-<p>More Implementation Agreements will follow – we are in active discussions
+<p>• These agreements provide clarity on how both countries can generate
+credits to finance emissions reduction or removal projects.</p>
+<p>• Credits generated need to align with high-integrity carbon crediting
+methodologies from credible offset programmes.</p>
+<p>• More Implementation Agreements will follow – we are in active discussions
 with countries such as Bhutan, Cambodia, Kenya, Mongolia and Peru.</p>
-</li>
-<li>
-<p>In October this year, the Singapore Government issued an open request
+<p>• In October this year, the Singapore Government issued an open request
 for proposals to supply high-integrity Article 6-aligned NBS credits. This
 request underscores Singapore’s support for high-integrity NBS credits
 that are aligned with Article 6 of the Paris Agreement.</p>
-</li>
-</ul>
 <p>We are sharing our experience to guide other countries that wish to use
 voluntary standards in their Article 6 approaches.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore has been working with Gold Standard and Verra to develop an
+<p>• Singapore has been working with Gold Standard and Verra to develop an
 “Article 6 Crediting Protocol”.</p>
-</li>
-<li>
-<p>We have just published, together with our partners, the initial recommendations
+<p>• We have just published, together with our partners, the initial recommendations
 of the Article 6 Crediting Protocol, incorporating feedback through consultations
 with countries, international organisations, and carbon markets experts.</p>
-</li>
-<li>
-<p>The Article 6 Crediting Protocol will be published early next year, taking
-into account discussions at COP29.</p>
-</li>
-</ul>
+<p>• The Article 6 Crediting Protocol will be published early next year,
+taking into account discussions at COP29.</p>
 <p>Second, Singapore has been working to promote high standards of integrity
 for different types of carbon credits.</p>
 <p>We are piloting the use of transition credits as a credible financing
 instrument for transition projects.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A good use case is coal phase-out in Asia.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Credits are generated from the emissions reductions attributed to the
+<p>• A good use case is coal phase-out in Asia.</p>
+<p>o Credits are generated from the emissions reductions attributed to the
 early retirement of coal plants and their replacement with cleaner energy
 sources.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>To develop transition credits into a viable market solution, we have formed
-the Transition Credits Coalition, or TRACTION, with over 30 ecosystem players.
-TRACTION identifies system-wide barriers and solutions to develop high-integrity
-supply and build up buyer confidence in transition credits.</p>
-</li>
-<li>
-<p>We are also consulting the Integrity Council for the Voluntary Carbon
+<p>• To develop transition credits into a viable market solution, we have
+formed the Transition Credits Coalition, or TRACTION, with over 30 ecosystem
+players. TRACTION identifies system-wide barriers and solutions to develop
+high-integrity supply and build up buyer confidence in transition credits.</p>
+<p>• We are also consulting the Integrity Council for the Voluntary Carbon
 Market to ensure that these credits align with the Core Carbon Principles
 and Article 6 integrity requirements.</p>
-</li>
-</ul>
 <p>We are working to strengthen standards for ensuring that nature-based
 credits lead to actual emissions reduction.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore has launched the Carbon Market Integrity Research and Development
+<p>• Singapore has launched the Carbon Market Integrity Research and Development
 Programme, or Carbon Integrity SG.</p>
-</li>
-<li>
-<p>Carbon Integrity SG aims to develop and improve internationally-recognised
+<p>• Carbon Integrity SG aims to develop and improve internationally-recognised
 standards and methodologies for measurement, reporting, and verification
 of nature-based projects.</p>
-</li>
-<li>
-<p>This will help strengthen the integrity of nature-based credits, enhancing
+<p>• This will help strengthen the integrity of nature-based credits, enhancing
 the confidence in the credibility of these projects.</p>
-</li>
-</ul>
 <p>Third, Singapore is supporting the development of a harmonised carbon
 data platform to address transparency concerns.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>In collaboration with the International Emissions Trading Association
+<p>• In collaboration with the International Emissions Trading Association
 and the World Bank, we launched the Climate Action Data Trust, or CAD Trust.</p>
-</li>
-<li>
-<p>CAD Trust uses blockchain to link, aggregate, and harmonise data across
+<p>• CAD Trust uses blockchain to link, aggregate, and harmonise data across
 carbon credit registries.</p>
-</li>
-<li>
-<p>CAD Trust reduces the risk that the same carbon credit is counted twice,
+<p>• CAD Trust reduces the risk that the same carbon credit is counted twice,
 injecting much-needed transparency and accountability in the markets.</p>
-</li>
-<li>
-<p>To-date, CAD Trust has grown to include six registries covering 85% of
-all credits issued globally. It provides an interactive data dashboard
+<p>• To-date, CAD Trust has grown to include six registries covering 85%
+of all credits issued globally. It provides an interactive data dashboard
 that allows users to track the flows and transactions of credits from over
 17,300 carbon offset projects worldwide.</p>
-</li>
-</ul>
-<p></p>
 <p>Let me conclude.</p>
 <p>There is no pathway to net-zero without well-functioning carbon markets
 based on high-quality carbon credits which unlock much needed financing
