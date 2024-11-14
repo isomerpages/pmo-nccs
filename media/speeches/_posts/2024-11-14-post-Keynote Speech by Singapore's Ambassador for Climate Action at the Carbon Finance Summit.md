@@ -13,8 +13,6 @@ variant: tiptap
 <hr>
 <p><strong>Financing the Climate Transition</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p>Ladies and gentlemen, good afternoon.</p>
 <p><strong>The transition to net zero will require significant financing.</strong>
 </p>
@@ -84,7 +82,6 @@ in Asia.</p>
 </ul>
 <p></p>
 <p>Next, carbon credits.</p>
-<p>&nbsp;</p>
 <p><strong>Carbon credits offer a market-driven solution to bridge the financing gap, particularly when policy and economic incentives are lacking.&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -212,8 +209,6 @@ and liquidity.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>First, Singapore is supporting the generation of high-integrity carbon credits.</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p><strong><em>We are providing clear demand signals through our Implementation Agreements on Article 6 cooperation</em>.</strong>
 </p>
