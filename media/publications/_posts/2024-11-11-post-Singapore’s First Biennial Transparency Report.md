@@ -7,7 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://www.nccs.gov.sg/files/docs/default-source/publications/Singapore_BTR1_2024.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/BTR.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BTR.png">
+</div>
 <p></p>
 <p>Singapore ratified the Paris Agreement in 2016. Under the Paris Agreement’s
 Enhanced Transparency Framework, Parties are required to submit Biennial
@@ -20,7 +23,8 @@ and achieving Nationally Determined Contributions (NDCs). It also includes
 building support that Parties received and rendered to other Parties. NIRs
 provide additional details of Parties’ GHG inventory.</p>
 <p></p>
-<p><a href="/files/docs/default-source/publications/Singapore_BTR1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">[2024] Singapore’s First Biennial Transparency Report (BTR1)</a>
+<p><a href="/files/docs/default-source/publications/Singapore_s_First_Biennial_Transparency_Report_2024__LR_.pdf" rel="noopener noreferrer nofollow" target="_blank">[2024] Singapore’s First Biennial Transparenc</a>
+<a href="/files/docs/default-source/publications/Singapore_s_First_Biennial_Transparency_Report_2024__LR_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/docs/default-source/publications/Singapore_s_First_Biennial_Transparency_Report_2024__LR_.pdf" rel="noopener noreferrer nofollow" target="_blank">y Report (BTR1)</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -74,4 +78,5 @@ our fifth and final BUR in 2022.</p>
 </p>
 </li>
 </ul>
-<p></p>
+<p><a href="/files/docs/default-source/publications/Singapore_s_First_Biennial_Transparency_Report_2024__LR_.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
