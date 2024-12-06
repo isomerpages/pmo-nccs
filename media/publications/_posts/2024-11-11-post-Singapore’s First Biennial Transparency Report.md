@@ -74,4 +74,5 @@ our fifth and final BUR in 2022.</p>
 </p>
 </li>
 </ul>
-<p></p>
+<p><a href="/files/docs/default-source/publications/Singapore_s_First_Biennial_Transparency_Report_2024__LR_.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
