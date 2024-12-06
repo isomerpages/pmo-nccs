@@ -20,7 +20,8 @@ and achieving Nationally Determined Contributions (NDCs). It also includes
 building support that Parties received and rendered to other Parties. NIRs
 provide additional details of Parties’ GHG inventory.</p>
 <p></p>
-<p><a href="/files/docs/default-source/publications/Singapore_s_First_Biennial_Transparency_Report_2024__LR_.pdf" rel="noopener noreferrer nofollow" target="_blank">[2024] Singapore’s First Biennial Transparency Report (BTR1)</a>
+<p><a href="/files/docs/default-source/publications/Singapore_s_First_Biennial_Transparency_Report_2024__LR_.pdf" rel="noopener noreferrer nofollow" target="_blank">[2024] Singapore’s First Biennial Transparenc</a>
+<a href="/files/docs/default-source/publications/Singapore_s_First_Biennial_Transparency_Report_2024__LR_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/docs/default-source/publications/Singapore_s_First_Biennial_Transparency_Report_2024__LR_.pdf" rel="noopener noreferrer nofollow" target="_blank">y Report (BTR1)</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
