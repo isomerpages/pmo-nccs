@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://www.nccs.gov.sg/files/docs/default-source/publications/Singapore_s_First_Biennial_Transparency_Report_2024__LR.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/BTR.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.nccs.gov.sg/files/docs/default-source/publications/Singapore_s_First_Biennial_Transparency_Report_2024__LR_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/BTR.png"></a>
 <p></p>
 <p>Singapore ratified the Paris Agreement in 2016. Under the Paris Agreement’s
 Enhanced Transparency Framework, Parties are required to submit Biennial
