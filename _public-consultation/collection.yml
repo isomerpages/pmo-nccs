@@ -2,6 +2,8 @@ collections:
   public-consultation:
     output: true
     order:
+      - Overview/Feedback Received from REACH Public Consultation on Singapore's
+        Decarbonisation Journey.md
       - Overview/.keep
       - Overview/public-consultation.md
       - Overview/14 Dec 2022 Feedback from Public on Singapore's Raised Climate
