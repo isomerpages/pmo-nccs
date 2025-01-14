@@ -121,7 +121,7 @@ and 68% stated that their company understood those effects (Figure 9).</p>
 <p><em>Figure 7: I believe it is important for Singapore to transition to a low-carbon economy.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture9.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10.png">
