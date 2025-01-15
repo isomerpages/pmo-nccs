@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Overview/.keep
-      - Overview/(17 Jan 2025) Feedback Received from REACH PC on Singapore's
-        Decarbonisation Journey.md
       - Overview/public-consultation.md
       - Overview/14 Dec 2022 Feedback from Public on Singapore's Raised Climate
         Ambition.md
