@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview/.keep
-      - Overview/public-consultation.md
+      - Overview/(Closed on 22 Nov 2024) Public Consultation.md
       - Overview/14 Dec 2022 Feedback from Public on Singapore's Raised Climate
         Ambition.md
       - Overview/25 Oct 2022 Feedback Received from REACH Public Consultation on
