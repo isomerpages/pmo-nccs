@@ -9,7 +9,7 @@ variant: markdown
 
 **Combatting Waste Emissions**
 
-Singapore is embracing a shift towards a circular economy to reduce emissions, maximise resource efficiency and resilience, and conserve landfill space. The Government aims to improve Singapore's overall recycling rate to 70% by 2030. The inaugural [Zero Waste Masterplan](https://www.mse.gov.sg/resources/zero-waste-masterplan.pdf) was launched in 2019, and set an additional target to reduce the amount of waste sent to the landfill each day by 30% by 2030.
+Singapore is embracing a shift towards a circular economy to reduce emissions, maximise resource efficiency and resilience, and conserve landfill space. The Government aims to improve Singapore's overall recycling rate to 70% by 2030. The inaugural [Zero Waste Masterplan](https://isomer-user-content.by.gov.sg/23/85029cae-9ba1-4144-8a52-26c7f86c04ba/zero-waste-masterplan.pdf) was launched in 2019, and set an additional target to reduce the amount of waste sent to the landfill each day by 30% by 2030.
 
 Singapore’s integrated solid waste management system focuses on two key thrusts – waste minimisation and recycling. In land-scarce Singapore, Waste-to-Energy (WtE) plants offer the best technical solution for waste treatment by reducing waste volume efficiently to conserve landfill space, and generating electricity to offset carbon emissions.
 
