@@ -6,8 +6,8 @@ third_nav_title: Overview
 variant: tiptap
 description: ""
 ---
-### [CLOSED ON 26 SEPT 2022] PUBLIC CONSULTATION ON SINGAPORE’S RAISED CLIMATE AMBITION
 
+### [CLOSED ON 26 SEPT 2022] PUBLIC CONSULTATION ON SINGAPORE’S RAISED CLIMATE AMBITION
 
 A public consultation exercise was launched from 5 – 26 September 2022 inviting members of the public to contribute views on how Singapore can work towards becoming a low-carbon country as we consider raising our long-term ambition to achieve net zero by 2050.
 
