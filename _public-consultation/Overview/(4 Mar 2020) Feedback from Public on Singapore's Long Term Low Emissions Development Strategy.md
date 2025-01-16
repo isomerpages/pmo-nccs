@@ -1,9 +1,11 @@
 ---
-title: '[4 Mar 2020] Feedback from Public on Singapore''s Long-Term Low-Emissions Development Strategy'
-permalink: /public-consultation/feedback-from-public-on-singapores-long-term-low-emissions-development-strategy/
+title: (4 Mar 2020) Feedback from Public on Singapore's Long Term Low Emissions
+  Development Strategy
+permalink: /public-consultation/public-feedback-on-singapores-long-term-low-emissions-development-strategy/
 third_nav_title: Overview
+variant: tiptap
+description: ""
 ---
-
 ### FEEDBACK FROM PUBLIC ON SINGAPORE'S LONG-TERM LOW-EMISSIONS DEVELOPMENT STRATEGY
 
 4 Mar 2020

@@ -1,7 +1,9 @@
 ---
-title: "[Closed on 31 Mar 2015] Public Consultation on Climate Change And Singapore"
+title: (Closed on 31 Mar 2015) Public Consultation on Climate Change And Singapore
 permalink: /public-consultation/public-consultation-on-climate-change-and-singapore/
 third_nav_title: Overview
+variant: tiptap
+description: ""
 ---
 ### [CLOSED ON 31 MAR 2015] PUBLIC CONSULTATION ON CLIMATE CHANGE AND SINGAPORE
 
@@ -28,7 +30,7 @@ ___
 
 [<a href="/files/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-energy-efficient-homes-2-(june-2015).pdf" target="_blank">Energy Efficient Homes</a>](/files/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-energy-efficient-homes-2-(june-2015).pdf)  
 [<a href="/files/docs/default-source/default-document-library/responses_to_transport_sector_suggestions_(updated).pdf" target="_blank">Carbon Efficiency in the Transport Sector</a>](/files/docs/default-source/default-document-library/responses_to_transport_sector_suggestions_(updated).pdf)  
-[<a href="/files/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-ee-and-re-opportunities-for-businesses-(june-2015).pdf" target="_blank">Energy Efficiency & Renewable Energy Opportunities for Businesses</a>](/files/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-ee-and-re-opportunities-for-businesses-(june-2015).pdf)  <br>
+[<a href="/files/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-ee-and-re-opportunities-for-businesses-(june-2015).pdf" target="_blank">Energy Efficiency &amp; Renewable Energy Opportunities for Businesses</a>](/files/docs/default-source/default-document-library/responses-to-feedback-and-suggestions-on-ee-and-re-opportunities-for-businesses-(june-2015).pdf)  <br>
 [Carbon Efficiency in the Power, Waste and Water Sectors](https://go.gov.sg/2june2015-responses-to-feedback-and-suggestions-on-carbon-efficiency-in-the-power-waste-water-sectors)<br>
-[Economic & Green Growth Opportunities](https://go.gov.sg/2june2015-responses-to-feedback-and-suggestions-on-economic-and-green-growth-opportunities)<br>
+[Economic &amp; Green Growth Opportunities](https://go.gov.sg/2june2015-responses-to-feedback-and-suggestions-on-economic-and-green-growth-opportunities)<br>
 [Others](https://go.gov.sg/2june2015-responses-to-feedback-and-suggestions-others)
