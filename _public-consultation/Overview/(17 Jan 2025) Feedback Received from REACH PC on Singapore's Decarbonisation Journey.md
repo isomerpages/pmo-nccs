@@ -304,7 +304,6 @@ Respondents stated that the public should be educated more on climate change
 as well as Singapore’s decarbonisation efforts. Behavioural change should
 be encouraged from a young age through schools. Consumer behaviour can
 also be changed with the implementation of behavioural nudges.</p>
-<p>&nbsp;</p>
 <p>30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Public consultation</em>.
 Respondents stated that they hoped for more consultations and engagements
 with the public on climate change. They suggested more open-ended questions
@@ -314,6 +313,5 @@ adaptation measures.</p>
 <p>&nbsp;</p>
 <p><strong>Conclusion</strong>
 </p>
-<p>&nbsp;</p>
-<p>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>31&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 NCCS thanks all individuals, businesses and organisations for their feedback.</p>
