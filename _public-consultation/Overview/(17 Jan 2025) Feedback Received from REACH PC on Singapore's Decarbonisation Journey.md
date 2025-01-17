@@ -227,8 +227,7 @@ willing to pay more for goods and services as a result of the carbon tax
 </div>
 <p><u>Summary of Related Qualitative Responses</u>
 </p>
-<p>&nbsp;</p>
-<p>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Carbon tax</em>.
+<p>20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Carbon tax</em>.
 Respondents generally supported the carbon tax as a tool to incentivise
 decarbonisation. Some suggested that the carbon tax level could increase
 and the taxable emissions threshold lowered. The impact of the carbon tax
@@ -239,16 +238,14 @@ to support lower income households in dealing with the costs associated
 with decarbonisation. The carbon tax should also be implemented alongside
 other measures for greater effectiveness. Other respondents were against
 the carbon tax as they stated that it increased the cost of living.</p>
-<p>&nbsp;</p>
-<p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Importing low-carbon electricity</em>.
+<p>21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Importing low-carbon electricity</em>.
 Some respondents commented that, when pursuing electricity imports projects,
 the Government should consider social, economic and environmental impacts
 on the source countries. The electricity imported should also be from a
 fully renewable energy source. Other respondents stated that Singapore
 should not be overly dependent on electricity imports. Reasons highlighted
-include cost, security and intermittency.</p>
-<p>&nbsp;</p>
-<p>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Carbon capture and storage (CCS)</em>.
+include cost, security and intermittency</p>
+<p>22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Carbon capture and storage (CCS)</em>.
 Some respondents stated that CCS should be limited to hard-to-abate sectors
 and should not be an easy way out to prolong or even increase the use of
 fossil fuels. CCS should also be coupled with measures to reduce carbon
@@ -257,8 +254,7 @@ sites. Respondents also stated that Singapore should explore direct air
 capture and other carbon removal solutions. Other respondents stated that
 CCS might not be fully technologically proven and were concerned about
 scalability.</p>
-<p>&nbsp;</p>
-<p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Carbon credits</em>.
+<p>23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Carbon credits</em>.
 Some respondents stated that regulations should be imposed to ensure that
 the carbon credits used by Singapore were of high integrity and should
 not be to the detriment of the source country. Singapore should expand
@@ -267,15 +263,13 @@ way to overcome our national circumstances. Respondents also commented
 that companies should not be allowed to use carbon credits as a way to
 pay their way out of decarbonisation, and their use should be accompanied
 by plans to reduce carbon emissions.</p>
-<p>&nbsp;</p>
-<p>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Solar deployment</em>.
+<p>24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Solar deployment</em>.
 Respondents suggested that Singapore should maximise our domestic solar
 deployment and subsidise the installation of solar panels on private rooftops.
 Other respondents stated that they were concerned about the materials used
 in the production of solar panels as well as their end-of-life treatment
 and disposal.</p>
-<p>&nbsp;</p>
-<p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Energy</em>.
+<p>25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Energy</em>.
 Respondents stated that as Singapore decarbonises our grid, we should also
 work to reduce energy demand. We could provide incentives to reduce energy
 consumption during peak periods and consider the use of long-duration energy
@@ -285,8 +279,7 @@ through effective building design. Singapore could also reconsider siting
 data centres here as they were energy intensive. Other respondents stated
 that Singapore should also explore other forms of power generation, such
 as nuclear, through small modular reactors, green hydrogen, wind and hydroelectricity.</p>
-<p>&nbsp;</p>
-<p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Transport</em>.
+<p>26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Transport</em>.
 Respondents stated that electric vehicles (EVs) should be further subsidised
 and infrastructure supporting EVs should be improved. Internal combustion
 engine (ICE) vehicles should also be further regulated, and Singapore should
@@ -296,26 +289,23 @@ and developing better infrastructure to encourage cycling. Other respondents
 stated that switching to EVs at this time would increase electricity demand
 before our energy mix is fully renewable. EVs could also require the use
 of unsustainable materials in their production, particularly for batteries.</p>
-<p>&nbsp;</p>
-<p>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Waste</em>.
+<p>&nbsp;27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Waste</em>.
 Respondents stated that more should be done to reduce waste and increase
 our recycling rate, particularly to reduce our reliance on single-use plastics.</p>
-<p>&nbsp;</p>
-<p>9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Forestry and agriculture</em>.
+<p>&nbsp;28 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Forestry and agriculture</em>.
 Respondents stated that Singapore should avoid deforestation and explore
 nature-based climate solutions. We should also promote eating less meat
 and consider how food production can be more sustainable.</p>
 <p>&nbsp;</p>
 <p><strong>Summary of Other Qualitative Responses</strong>
 </p>
-<p>&nbsp;</p>
-<p>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Education</em>.
+<p>29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Education</em>.
 Respondents stated that the public should be educated more on climate change
 as well as Singapore’s decarbonisation efforts. Behavioural change should
 be encouraged from a young age through schools. Consumer behaviour can
 also be changed with the implementation of behavioural nudges.</p>
 <p>&nbsp;</p>
-<p>11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Public consultation</em>.
+<p>30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Public consultation</em>.
 Respondents stated that they hoped for more consultations and engagements
 with the public on climate change. They suggested more open-ended questions
 as well as questions on areas for improvement for each decarbonisation
