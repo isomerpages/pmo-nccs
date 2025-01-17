@@ -15,7 +15,8 @@ we received feedback and suggestions related to the proposed carbon tax
 policy and Singapore's climate change strategy to (i) enhance carbon efficiency
 in the industry, power, buildings, transport, household, waste and water
 sectors; and (ii) harness green growth opportunities. Below is a summary
-of the feedback and responses according to the themes highlighted.</p>
+of the feedback and responses according to the themes highlighted. Responses
+to more specific feedback and suggestions may be found in&nbsp;<a href="https://isomer-user-content.by.gov.sg/27/e8c46b36-8f19-4a7e-954b-9088843b2df7/annexa.pdf" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">Annex A</a>.</p>
 <p><strong>Carbon Tax Policy</strong>
 </p>
 <p>Several suggestions were received on the design of the tax policy, such
@@ -186,7 +187,8 @@ challenges. Funding will be directed towards research and development in
 environment and water technologies, clean energy, and energy efficiency
 solutions. The Government will continue to explore other ways of encouraging
 innovation to address sustainability issues in Singapore and the region.</p>
-<p></p>
+<p>Responses to other frequently asked questions on the proposed carbon tax
+can be found at&nbsp;<a href="https://isomer-user-content.by.gov.sg/27/a3309c69-3046-4112-a681-4ee78ce7c4bc/annexb.pdf" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">Annex B</a>.</p>
 <hr>
 <p>[1] Singapore Power's Q1 2017 electricity tariffs for households is 20.20
 cents per kWh.</p>
