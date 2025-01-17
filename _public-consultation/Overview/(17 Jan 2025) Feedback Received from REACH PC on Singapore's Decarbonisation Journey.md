@@ -148,10 +148,16 @@ efforts.</p>
 <p><em>Figure 12: The Singapore Government has provided attractive incentives to help companies decarbonise (e.g., grants for projects that improve energy efficiency), so that they can remain competitive.</em>
 </p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture15.png">
 </div>
 <p><em>Figure 13: The Singapore Government has provided attractive incentives to help companies decarbonise (e.g., grants for projects that improve energy efficiency), so that they can remain competitive.</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture16.png">
 </div>
@@ -159,8 +165,6 @@ efforts.</p>
 Among those who disagreed that the Singapore Government has provided attractive
 incentives to help companies decarbonise, only 35% were aware of the available
 incentives companies could tap (Figure 13).</p>
-<p><em>&nbsp;</em>
-</p>
 <p>13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 77% of all respondents agreed that Singapore should put in place policies
 that provide companies with stronger disincentives to emit carbon (Figure
@@ -168,6 +172,9 @@ that provide companies with stronger disincentives to emit carbon (Figure
 and services of companies that decarbonised at a faster pace.</p>
 <p><em>Figure 14: Singapore should put in place policies that provide companies with stronger disincentives to emit carbon (e.g., higher carbon tax, regulations on emissions), so that they can decarbonise at a faster pace.</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture17.png">
 </div>
@@ -203,6 +210,9 @@ to decarbonisation (Figure 15).</p>
 <p><em>Figure 15: I understand what the following measures entail, and how they contribute to decarbonisation</em>
 </p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture18.png">
 </div>
 <p>18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -214,6 +224,9 @@ and industry energy efficiency measures.</p>
 <p><em>Figure 16: I support the adoption of the following measures as part of Singapore’s transition to net zero</em>
 </p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture19.png">
 </div>
 <p>19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -222,6 +235,9 @@ willing to pay more for goods and services as a result of the carbon tax
 (Figure 17).</p>
 <p><em>Figure 17:</em>  <em>I support the use of a carbon tax as part of Singapore's transition to net zero.</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture20.png">
 </div>
