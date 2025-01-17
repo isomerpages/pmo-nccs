@@ -54,9 +54,7 @@ respondents felt were most important to why they supported Singapore’s
 net zero target were “we should do more so that our future generations
 can have a more liveable environment” and “we should do more to reduce
 the worst effects of climate change on ourselves” (Figure 4).</p>
-<p><em>Figure 4: Rank the reasons for why you support Singapore’s net zero target.</em>
-</p>
-<p><em>[Note: The table below reflects the average rank of each reason.]</em>
+<p><em>Figure 4: Rank the reasons for why you support Singapore’s net zero target. [Note: The table below reflects the average rank of each reason.]</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.png">
@@ -65,9 +63,7 @@ the worst effects of climate change on ourselves” (Figure 4).</p>
 For the 5% of respondents who did not support Singapore’s net zero target,
 the two reasons that respondents felt were most important were cost to
 individuals and effects on economic competitiveness (Figure 5).</p>
-<p><em>Figure 5: Rank the reasons for why you do not support Singapore’s net zero target.</em>
-</p>
-<p><em>[Note: The table below reflects the average rank of each reason.]</em>
+<p><em>Figure 5: Rank the reasons for why you do not support Singapore’s net zero target. [Note: The table below reflects the average rank of each reason.]</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.png">
