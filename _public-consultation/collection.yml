@@ -2,6 +2,8 @@ collections:
   public-consultation:
     output: true
     order:
+      - Overview/(17 Jan 2025) Feedback from REACH Public Consultation on
+        Singapore's Decarbonisation Journey.md
       - Overview/.keep
       - Overview/(Closed on 5 Nov 2024) Public Consultation.md
       - Overview/(14 Dec 2022) Feedback from Public on Singapore's Raised
