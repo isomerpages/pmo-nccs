@@ -41,7 +41,7 @@ net zero emissions by 2050 (Figure 3).</p>
 <p><em>Figure 3: I am supportive of Singapore’s goals to achieve net zero emissions by 2050.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture4.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
