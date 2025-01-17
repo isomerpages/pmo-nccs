@@ -206,3 +206,12 @@ to decarbonisation (Figure 15).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture18.png">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture19.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture20.png">
+</div>
+<p></p>
