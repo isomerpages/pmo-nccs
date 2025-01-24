@@ -556,7 +556,7 @@ Infocomm Media Development Authority.&nbsp;<a rel="noopener noreferrer nofollow"
 May 30).&nbsp;Prime Minister's Office Singapore. <a rel="noopener noreferrer nofollow" target="_blank">https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Asia-Tech-x-Singapore-2024-Opening-Ceremony</a>
 </p>
 <p><em><sup>7 </sup>Singapore’s Green Data Centre Roadmap: Carving a Route for a Sustainable Digital Future</em>.
-(2024, June). Rajah &amp; Tann Asia. <a rel="noopener noreferrer nofollow" target="_blank">https://www.google.com/search?q=Singapore%E2%80%99s+Green+Data+Centre+Roadmap%3A+Carving+a+Route+for+a+Sustainable+Digital+Future%2C+Client+Update%3A+Singapore%2C+June+2024%2C+Rajah+%26+Tann+Asia.&amp;oq=Singapore%E2%80%99s+Green+Data+Centre+Roadmap%3A+Carving+a+Route+for+a+Sustainable+Digital+Future%2C+Client+Update%3A+Singapore%2C+June+2024%2C+Rajah+%26+Tann+Asia.&amp;gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDzSAQcyOTJqMGo0qAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8</a>
+(2024, June). Rajah &amp; Tann Asia. <a href="https://www.rajahtannasia.com/viewpoints/singapores-green-data-centre-roadmap-carving-a-route-for-a-sustainable-digital-future/" rel="noopener noreferrer nofollow" target="_blank">https://www.rajahtannasia.com/viewpoints/singapores-green-data-centre-roadmap-carving-a-route-for-a-sustainable-digital-future/</a>
 </p>
 <p><em><sup>8 </sup>IMDA introduces sustainability standard for data centres operating in tropical climates</em>.
 (2023, June 8). Infocomm and Media Development Authority. <a rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/imda-introduces-sustainability-standard-for-data-centres-operating-in-tropical-climates</a>
@@ -590,6 +590,6 @@ January 7, 2025, from <a rel="noopener noreferrer nofollow" target="_blank">http
 ESG Today. <a rel="noopener noreferrer nofollow" target="_blank">https://www.esgtoday.com/google-asks-large-suppliers-to-commit-to-100-renewable-energy-as-emissions-continue-to-rise/</a>
 </p>
 <p><em><sup>18 </sup>Singtel Group Sustainability Report 2024. </em>(n.d.).
-SingTel Group. Retrieved January 5, 2025, from <a href="https://cdn.aws.singtel.com/sustainabilityreport/SR2024/index.html" rel="noopener noreferrer nofollow" target="_blank">https://www.google.com/search?q=singtel+sustainability+report+2024&amp;oq=singtel+sustainability+report+2024&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQwNjFqMGo0qAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8</a>
+SingTel Group. Retrieved January 5, 2025, from <a href="https://cdn.aws.singtel.com/sustainabilityreport/SR2024/index.html" rel="noopener noreferrer nofollow" target="_blank">https://cdn.aws.singtel.com/sustainabilityreport/SR2024/index.html</a>
 </p>
 <p></p>
