@@ -556,7 +556,7 @@ Infocomm Media Development Authority.&nbsp;<a rel="noopener noreferrer nofollow"
 May 30).&nbsp;Prime Minister's Office Singapore. <a rel="noopener noreferrer nofollow" target="_blank">https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Asia-Tech-x-Singapore-2024-Opening-Ceremony</a>
 </p>
 <p><em><sup>7 </sup>Singapore’s Green Data Centre Roadmap: Carving a Route for a Sustainable Digital Future</em>.
-(2024, June). Rajah &amp; Tann Asia. <a href="https://www.rajahtannasia.com/viewpoints/singapores-green-data-centre-roadmap-carving-a-route-for-a-sustainable-digital-future/" rel="noopener noreferrer nofollow" target="_blank">https://www.rajahtannasia.com/viewpoints/singapores-green-data-centre-roadmap-carving-a-route-for-a-sustainable-digital-future/</a>
+(2024, June). Rajah &amp; Tann Asia. <a href="https://eoasis.rajahtann.com/eoasis/lu/pdf/2024-06_Singapores_Green_Data_Centre_Roadmap2.pdf" rel="noopener noreferrer nofollow" target="_blank">https://eoasis.rajahtann.com/eoasis/lu/pdf/2024-06_Singapores_Green_Data_Centre_Roadmap2.pdf</a>
 </p>
 <p><em><sup>8 </sup>IMDA introduces sustainability standard for data centres operating in tropical climates</em>.
 (2023, June 8). Infocomm and Media Development Authority. <a rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/imda-introduces-sustainability-standard-for-data-centres-operating-in-tropical-climates</a>
@@ -590,6 +590,6 @@ January 7, 2025, from <a rel="noopener noreferrer nofollow" target="_blank">http
 ESG Today. <a rel="noopener noreferrer nofollow" target="_blank">https://www.esgtoday.com/google-asks-large-suppliers-to-commit-to-100-renewable-energy-as-emissions-continue-to-rise/</a>
 </p>
 <p><em><sup>18 </sup>Singtel Group Sustainability Report 2024. </em>(n.d.).
-SingTel Group. Retrieved January 5, 2025, from <a href="https://cdn.aws.singtel.com/sustainabilityreport/SR2024/index.html" rel="noopener noreferrer nofollow" target="_blank">https://cdn.aws.singtel.com/sustainabilityreport/SR2024/index.html</a>
+SingTel Group. Retrieved January 5, 2025, from <a href="https://media.aws.singtel.com/info-singtel/sr2024/Singtel-Group-Sustainability-Report-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">https://media.aws.singtel.com/info-singtel/sr2024/Singtel-Group-Sustainability-Report-2024.pdf</a>
 </p>
 <p></p>
