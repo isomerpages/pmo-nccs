@@ -15,7 +15,7 @@ variant: tiptap
 <p></p>
 <p>Senior Minister of State for Digital Development and Information, Dr Janil
 Puthucheary, President of the Singapore Computer Society, Mr Sam Liew,
-Distinguished guests, ladies and gentlemen, good morning.</p>
+distinguished guests, ladies and gentlemen, good morning.</p>
 <p></p>
 <p></p>
 <p>POLITICS, ECONOMICS, AND NATURE</p>
@@ -162,7 +162,7 @@ frontier of economic growth and create positive impact for our people.</p>
 <p>There are no easy solutions.&nbsp; But those countries that successfully
 resolve the tensions between the geek and the green stand to gain substantially.</p>
 <p>There are two ways in which the geek and the green can not only co-exist
-but can be mutually reinforcing:</p>
+but be mutually reinforcing:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>First, <strong><em>“greening the geek” – make the geek greener by decoupling the growth of AI from carbon emissions</em></strong>.</p>
@@ -213,7 +213,7 @@ centres:</p>
 that prioritise both sustainability and economic value<sup>6</sup>.</p>
 </li>
 <li>
-<p>this includes assessing their plans to use viable low-carbon energy sources
+<p>This includes assessing their plans to use viable low-carbon energy sources
 and best-in-class solutions to improve power usage effectiveness<sup>7</sup>.</p>
 </li>
 </ul>
