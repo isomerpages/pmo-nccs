@@ -546,14 +546,14 @@ Conference on Trade and Development. Retrieved January 15, 2025, from&nbsp;
 <p><em><sup>3 </sup>Energizing the ICT sector: Meet Dr. Ong Chen Hui of Singapore's IMDA</em>.
 (2023, September 27). Green Software Foundation.&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://greensoftware.foundation/articles/energizing-the-ict-sector-meet-dr-ong-chen-hui-of-singapore-s-imda</a>
 </p>
-<p><em><sup>4 </sup>Green Data Centre (DC) Roadmap</em>. (2024, May 29).
-Infocomm Media Development Authority.&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/how-we-can-help/green-dc-roadmap</a>
+<p><em><sup>4 </sup></em>Infocomm Media Development Authority. (2024, May
+29). <em>Green Data Centre (DC) Roadmap</em>.&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/how-we-can-help/green-dc-roadmap</a>
 </p>
 <p><em><sup>5 </sup></em>Tham, I. (2022, July 20). <em>Singapore pilots sustainable way to grow data centre capacity. The Straits Times</em>.&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/tech/singapore-pilots-new-scheme-to-grow-data-centre-capacity-with-green-targets</a>
 </p>
-<p><em><sup>6 </sup>DPM Heng Swee Keat at the Asia Tech x Singapore 2024 Opening Ceremony.</em> (2024,
-May 30).&nbsp;Prime Minister's Office Singapore. <a rel="noopener noreferrer nofollow" target="_blank">https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Asia-Tech-x-Singapore-2024-Opening-Ceremony</a>
+<p><em><sup>6 </sup></em>Heng, S.K<em>.</em> (2024, May 30).&nbsp;<em>Speech at the Asia Tech x Singapore 2024 Opening Ceremony</em>.
+Prime Minister's Office Singapore. <a rel="noopener noreferrer nofollow" target="_blank">https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Asia-Tech-x-Singapore-2024-Opening-Ceremony</a>
 </p>
 <p><em><sup>7 </sup>Singapore’s Green Data Centre Roadmap: Carving a Route for a Sustainable Digital Future</em>.
 (2024, June). Rajah &amp; Tann Asia. <a href="https://eoasis.rajahtann.com/eoasis/lu/pdf/2024-06_Singapores_Green_Data_Centre_Roadmap2.pdf" rel="noopener noreferrer nofollow" target="_blank">https://eoasis.rajahtann.com/eoasis/lu/pdf/2024-06_Singapores_Green_Data_Centre_Roadmap2.pdf</a>
