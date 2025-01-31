@@ -535,12 +535,10 @@ of the geek and the realism of the green.&nbsp;</p>
 <p>I wish you a fruitful day – knocking heads together on how to green the
 geek and how the geek can enable the green.</p>
 <hr>
-<p><em><sup>1 </sup>World Energy Investment 2024: Overview and key findings</em>.
-(n.d.). International Energy Agency. Retrieved January 10, 2025, from&nbsp;
+<p><sup>1</sup> International Energy Agency. (2024). <em>World Energy Investment 2024: Overview and key findings</em>.&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/world-energy-investment-2024/overview-and-key-findings</a>
 </p>
-<p><em><sup>2 </sup>Digital Economy Report 2024. </em>(n.d.). United Nations
-Conference on Trade and Development. Retrieved January 15, 2025, from&nbsp;
+<p><sup>2</sup>United Nations Conference on Trade and Development. (2024). <em>Digital Economy Report 2024.</em>&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">https://unctad.org/publication/digital-economy-report-2024</a>
 </p>
 <p><em><sup>3 </sup>Energizing the ICT sector: Meet Dr. Ong Chen Hui of Singapore's IMDA</em>.
