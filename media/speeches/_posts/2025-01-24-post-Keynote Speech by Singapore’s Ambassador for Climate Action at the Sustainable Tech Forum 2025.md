@@ -541,8 +541,9 @@ geek and how the geek can enable the green.</p>
 <p><em><sup>2</sup></em><sup> </sup>United Nations Conference on Trade and
 Development. (2024). <em>Digital Economy Report 2024.</em>&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://unctad.org/publication/digital-economy-report-2024</a>
 </p>
-<p><em><sup>3 </sup>Energizing the ICT sector: Meet Dr. Ong Chen Hui of Singapore's IMDA</em>.
-(2023, September 27). Green Software Foundation.&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://greensoftware.foundation/articles/energizing-the-ict-sector-meet-dr-ong-chen-hui-of-singapore-s-imda</a>
+<p><em><sup>3 </sup></em>&nbsp;Green Software Foundation.&nbsp;(2023, September
+27). <em>Energizing the ICT sector: Meet Dr. Ong Chen Hui of Singapore's IMDA</em>.
+<a rel="noopener noreferrer nofollow" target="_blank">https://greensoftware.foundation/articles/energizing-the-ict-sector-meet-dr-ong-chen-hui-of-singapore-s-imda</a>
 </p>
 <p><em><sup>4 </sup></em>Infocomm Media Development Authority. (2024, May
 29). <em>Green Data Centre (DC) Roadmap</em>.&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/how-we-can-help/green-dc-roadmap</a>
@@ -553,14 +554,15 @@ Development. (2024). <em>Digital Economy Report 2024.</em>&nbsp; <a rel="noopene
 <p><em><sup>6 </sup></em>Heng, S.K<em>.</em> (2024, May 30).&nbsp;<em>Speech at the Asia Tech x Singapore 2024 Opening Ceremony</em>.
 Prime Minister's Office Singapore. <a rel="noopener noreferrer nofollow" target="_blank">https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Asia-Tech-x-Singapore-2024-Opening-Ceremony</a>
 </p>
-<p><em><sup>7 </sup>Singapore’s Green Data Centre Roadmap: Carving a Route for a Sustainable Digital Future</em>.
-(2024, June). Rajah &amp; Tann Asia. <a href="https://eoasis.rajahtann.com/eoasis/lu/pdf/2024-06_Singapores_Green_Data_Centre_Roadmap2.pdf" rel="noopener noreferrer nofollow" target="_blank">https://eoasis.rajahtann.com/eoasis/lu/pdf/2024-06_Singapores_Green_Data_Centre_Roadmap2.pdf</a>
+<p><em><sup>7 </sup></em>Rajah &amp; Tann Asia. (2024, June). <em>Singapore’s Green Data Centre Roadmap: Carving a Route for a Sustainable Digital Future</em>.
+<a href="https://eoasis.rajahtann.com/eoasis/lu/pdf/2024-06_Singapores_Green_Data_Centre_Roadmap2.pdf" rel="noopener noreferrer nofollow" target="_blank">https://eoasis.rajahtann.com/eoasis/lu/pdf/2024-06_Singapores_Green_Data_Centre_Roadmap2.pdf</a>
 </p>
-<p><em><sup>8 </sup>IMDA introduces sustainability standard for data centres operating in tropical climates</em>.
-(2023, June 8). Infocomm and Media Development Authority. <a rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/imda-introduces-sustainability-standard-for-data-centres-operating-in-tropical-climates</a>
+<p><em><sup>8 </sup></em>Infocomm and Media Development Authority. (2023,
+June 8). <em>IMDA introduces sustainability standard for data centres operating in tropical climates</em>.
+<a rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/imda-introduces-sustainability-standard-for-data-centres-operating-in-tropical-climates</a>
 </p>
-<p><em><sup>9 </sup>Sustainable Tropical Data Centre Testbed: Research Programme and Facility</em>.
-(n.d.). College of Design and Engineering, National University of Singapore.
+<p><em><sup>9 </sup></em>College of Design and Engineering, National University
+of Singapore. (n.d.). <em>Sustainable Tropical Data Centre Testbed: Research Programme and Facility</em>.
 Retrieved January 9, 2025, from <a rel="noopener noreferrer nofollow" target="_blank">https://cde.nus.edu.sg/research/research-centres-and-facilities/stdct/</a>
 </p>
 <p><em><sup>10 </sup></em>K, Ajay, &amp; Davenport, K. (2023, July 20). <em>How to make generative AI greener</em>.
@@ -569,8 +571,8 @@ Harvard Business Review. <a rel="noopener noreferrer nofollow" target="_blank">h
 <p><em><sup>11 </sup></em>Masterson, V. (2024, Feb 12). <em>9 ways AI is helping tackle climate change</em>.
 World Economic Forum<em>.</em>  <a rel="noopener noreferrer nofollow" target="_blank">https://www.weforum.org/stories/2024/02/ai-combat-climate-change/</a>
 </p>
-<p><em><sup>12 </sup>Data to counter climate change: How his firm gets everyone to play a part in protecting the planet</em>.
-(2022, September 1). The Straits Times. <a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/environment/ted-chen-evercomm-rolex-we-the-earth-singapore-sensors-eco-warrior-sustainability-environment</a>
+<p><em><sup>12</sup></em>The Straits Times. (2022, September 1). <em>Data to counter climate change: How his firm gets everyone to play a part in protecting the planet</em>.
+<a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/environment/ted-chen-evercomm-rolex-we-the-earth-singapore-sensors-eco-warrior-sustainability-environment</a>
 </p>
 <p><em><sup>13 </sup></em>Ross, K.M. (2024, January 17). <em>Study shows AI could revolutionise carbon capture systems</em>.
 Power Technology. <a rel="noopener noreferrer nofollow" target="_blank">https://www.power-technology.com/news/study-shows-ai-could-revolutionise-carbon-capture-systems/?cf-view</a>
@@ -581,13 +583,12 @@ Argonne National Laboratory. <a rel="noopener noreferrer nofollow" target="_blan
 <p><em><sup>15 </sup></em>Tan, S. (2024, February 5). <em>OCBC provided over $7b in sustainable financing to SMEs in 2023</em>.
 The Straits Times. <a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/business/companies-markets/ocbc-provided-7b-in-sustainable-financing-to-smes-in-2023</a>
 </p>
-<p><em><sup>16 </sup>Supply chain innovation</em>. (n.d.). Apple. Retrieved
-January 7, 2025, from <a rel="noopener noreferrer nofollow" target="_blank">https://www.apple.com/sg/supply-chain/</a>
+<p><em><sup>16 </sup></em>Apple<em>. </em>(n.d.). <em>Supply chain innovation</em>.
+Retrieved January 7, 2025, from <a rel="noopener noreferrer nofollow" target="_blank">https://www.apple.com/sg/supply-chain/</a>
 </p>
 <p><em><sup>17 </sup></em>Segal, M. (2024, July 3). <em>Google Asks Large Suppliers to Commit to 100% Renewable Energy as Emissions Continue to Rise</em>.
 ESG Today. <a rel="noopener noreferrer nofollow" target="_blank">https://www.esgtoday.com/google-asks-large-suppliers-to-commit-to-100-renewable-energy-as-emissions-continue-to-rise/</a>
 </p>
-<p><em><sup>18 </sup>Singtel Group Sustainability Report 2024. </em>(n.d.).
-SingTel Group. Retrieved January 5, 2025, from <a href="https://media.aws.singtel.com/info-singtel/sr2024/Singtel-Group-Sustainability-Report-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">https://media.aws.singtel.com/info-singtel/sr2024/Singtel-Group-Sustainability-Report-2024.pdf</a>
+<p><em><sup>18 </sup></em>SingTel Group. (2024, July 1).<em> Singtel Group Sustainability Report 2024. </em>
+<a rel="noopener noreferrer nofollow" target="_blank">https://media.aws.singtel.com/info-singtel/sr2024/Singtel-Group-Sustainability-Report-2024.pdf</a>
 </p>
-<p></p>
