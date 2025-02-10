@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Singapore has committed to <strong>reduce emissions to between 45 and 50 million tonnes of carbon dioxide equivalent (MtCO2e) in 2035</strong> as
+<p>Singapore has committed to <strong>reduce emissions to between 45 and 50 million tonnes of carbon dioxide equivalent (MtCO<sub>2</sub>e) in 2035</strong> as
 part of our 2035 Nationally Determined Contribution (NDC)<sup>1</sup>,
 which was submitted to the United Nations Framework Convention on Climate
 Change (UNFCCC) earlier today. The 2035 NDC builds on our 2030 NDC and
@@ -15,9 +15,9 @@ paves the way to achieve our target of net zero emissions by 2050.</p>
 <p>As a small low-lying island state, climate change is an existential challenge
 for Singapore. Singapore’s 2035 NDC reflects both our commitment to climate
 action, as well as the significant uncertainties we face in our decarbonisation
-journey. The lower bound of 45 MtCO2e keeps us on a linear path to our
-net zero target in 2050, in line with international expectations. The range
-target takes into consideration the reality that as an alternative-energy
+journey. The lower bound of 45 MtCO<sub>2</sub>e keeps us on a linear path
+to our net zero target in 2050, in line with international expectations.
+The range target takes into consideration the reality that as an alternative-energy
 disadvantaged island state, Singapore’s pace of decarbonisation depends
 heavily on developments in nascent mitigation technologies, and international
 collaboration.</p>
