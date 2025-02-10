@@ -157,5 +157,5 @@ developments.</p>
 <hr>
 <p><em><sup>1</sup> Singapore’s carbon tax covered around 80% of our total national emissions at the point of introduction. The coverage each year is subject to changes in emissions from taxable and non-taxable sources that constitute Singapore’s GHG inventory.&nbsp;In November 2024, we formalised our accounting methodology for hydrofluorocarbon (HFC) emissions from the Refrigeration and Air Conditioning (RAC) sector and included these emissions in our GHG inventory, in accordance with the United Nations Framework Convention on Climate Change (UNFCCC) and Intergovernmental Panel on Climate Change (IPCC) guidelines. Due to this rebasing, Singapore’s carbon tax coverage for 2022 emissions fell to around 71% from 76%. The Singapore government has implemented measures since 2020 to reduce GHG emissions from the use of HFC refrigerants in the RAC sector, such as banning the supply of RAC equipment that use high Global Warming Potential refrigerants. We will continue to review our RAC HFC mitigation policies to ensure they remain fit for purpose and effective in meeting our climate targets.</em>
 </p>
-<p><em><sup>2 </sup>Based on World Bank’s 2023 State and Trends of Carbon Pricing report.&nbsp;</em>
+<p><em><sup>2 </sup>Based on World Bank’s Carbon Pricing Dashboard as of Jan 2025.&nbsp;</em>
 </p>
