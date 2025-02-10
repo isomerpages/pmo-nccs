@@ -8,10 +8,10 @@ image: ""
 variant: tiptap
 ---
 <p>Singapore has committed to <strong>reduce emissions to between 45 and 50 million tonnes of carbon dioxide equivalent (MtCO2e) in 2035</strong> as
-part of our 2035 Nationally Determined Contribution (NDC), which was submitted
-to the United Nations Framework Convention on Climate Change (UNFCCC) earlier
-today. The 2035 NDC builds on our 2030 NDC and paves the way to achieve
-our target of net zero emissions by 2050.</p>
+part of our 2035 Nationally Determined Contribution (NDC)<sup>1</sup>,
+which was submitted to the United Nations Framework Convention on Climate
+Change (UNFCCC) earlier today. The 2035 NDC builds on our 2030 NDC and
+paves the way to achieve our target of net zero emissions by 2050.</p>
 <p>As a small low-lying island state, climate change is an existential challenge
 for Singapore. Singapore’s 2035 NDC reflects both our commitment to climate
 action, as well as the significant uncertainties we face in our decarbonisation
@@ -42,3 +42,6 @@ businesses and Singapore. Together, we can make good progress towards our
 net zero target, capture emerging opportunities in the green economy, create
 new good jobs, and build a more resilient future for generations of Singaporeans
 to come.</p>
+<hr>
+<p><sup>1 </sup><a href="/files/docs/default-source/news-documents/Singapore_Second_Nationally_Determined_Contribution.pdf" rel="noopener noreferrer nofollow" target="_blank">2035 NDC submission to the United Nations Framework Convention on Climate Change (UNFCCC)</a>
+</p>
