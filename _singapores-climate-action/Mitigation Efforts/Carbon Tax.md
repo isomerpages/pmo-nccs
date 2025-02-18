@@ -120,10 +120,10 @@ include Thailand and Brunei.</p>
 <p>Although the carbon tax is directly levied upstream on large emitters,
 it could flow through in the form of higher electricity tariffs as power
 companies pass on the carbon tax to end users. On average, with every $5/tCO<sub>2</sub>e
-increase in the carbon tax level, electricity tariffs could rise by 1%.
-The increase in carbon tax to $25/tCO<sub>2</sub>e is estimated to translate
-to an increase of about $4 per month in household utility bills for the
-average 4-room HDB flat.</p>
+increase in the carbon tax level, electricity tariffs could rise by around
+1%. The increase in carbon tax to $25/tCO<sub>2</sub>e is estimated to
+translate to an increase of about $4 per month in household utility bills
+for the average 4-room HDB flat.</p>
 <p>The carbon tax is needed to put a price on the externality or social cost
 of carbon. In doing so, it shapes the behaviour of individuals and households
 to reduce their energy consumption and be more energy efficient, to enable
