@@ -421,7 +421,7 @@ and decide for themselves where they stand.</p>
 <p><sup>1 </sup>America Is All In. <a href="https://www.americaisallin.com/about" rel="noopener noreferrer nofollow" target="_blank">https://www.americaisallin.com/about</a>
 </p>
 <p><sup>2</sup> LSE. Why Green parties remain key players after the 2024 European
-Parliament elections. <a href="https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the2024-european-parliament-elections/" rel="noopener noreferrer nofollow" target="_blank">https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the-2024-european-parliament-elections/</a>
+Parliament elections. <a href="https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the-2024-european-parliament-elections/" rel="noopener noreferrer nofollow" target="_blank">https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the-2024-european-parliament-elections/</a>
 </p>
 <p><sup>3</sup> The UK’s 2035 NDC ICTU. <a href="https://unfccc.int/sites/default/files/2025-01/UK%27s%202035%20NDC%20ICTU.pdf" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/sites/default/files/2025-01/UK%27s%202035%20NDC%20ICTU.pdf</a>
 </p>
