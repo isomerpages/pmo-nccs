@@ -31,11 +31,12 @@ sections:
           description: Forging international collaborations
           url: /singapores-climate-action/singapore-and-international-efforts/
   - infopic:
-      title: <font size="6.5">SINGAPORE HAS SUBMITTED 2035 NDC</font>
-      description: Singapore has committed to reduce emissions to between 45 and 50
-        MtCO2e as part of our 2035 NDC.
+      title: <font size="6.5">SINGAPORE HAS SUBMITTED OUR 2035 NDC</font>
+      description: We have committed to reduce emissions to between 45 & 50 MtCO2e as
+        part of our 2035 NDC. This paves the way to achieve our target of net
+        zero emissions by 2050.
       button: SINGAPORE’S 2035 NDC
-      url: /media/press-releases/singapore-submits-2035-nationally-determined-contribution/
+      url: https://www.nccs.gov.sg/singapore-submits-2035-nationally-determined-contribution/
       image: /images/iStock_1435661954.jpg
       alt: Image alt text
   - infopic:
