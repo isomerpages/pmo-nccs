@@ -1,7 +1,7 @@
 ---
 title: Opening Remarks by Singapore's Ambassador for Climate Action at
   Ecosperity Conversations 2025
-permalink: /opening-remarks-by-singapore-s-ambassador-for-climate-action-at-ecosperity-conversations-2025/
+permalink: /opening-remarks-by-singapore-s-ambassador-for-climate-action-at-ecosperity-conversations/
 date: 2025-02-21
 layout: post
 description: ""
@@ -155,7 +155,8 @@ Relative to 1990 levels:</p>
 <p>➢ The United Kingdom has committed to reduce its emissions by at least
 81% by 2035<sup>3</sup>;</p>
 <p>➢ Switzerland by at least 65% by 2035<sup>4</sup>; and</p>
-<p>➢ Brazil by 59-67% below 2005 levels by 2035.<sup>5</sup>
+<p>➢ Brazil has committed to reduce emissions by 59-67% below 2005 levels
+by 2035.<sup>5</sup>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -329,9 +330,7 @@ threatening coastal regions and small island nations around the world.<sup>15,16
 amounts of deadly methane into the atmosphere, accelerating global warming.</p>
 </li>
 </ul>
-<p><strong>Our ocean currents are weakening rapidly; if they collapse, the</strong>
-</p>
-<p><strong>consequences will be disastrous.<sup>17</sup></strong>
+<p><strong>Our ocean currents are weakening rapidly; if they collapse, the consequences will be disastrous.<sup>17</sup></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
