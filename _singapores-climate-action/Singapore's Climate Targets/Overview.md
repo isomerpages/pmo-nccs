@@ -28,7 +28,7 @@ international commitment by countries to deliver on their climate pledges.
 The targets will also be contingent on the maturity of decarbonisation
 technologies and effective international cooperation.</p>
 <p>Read more about&nbsp;<a href="https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/overview" rel="noopener noreferrer nofollow" target="_blank">Singapore’s measures to achieve our climate targets</a>.</p>
-<p><a href="/singapores-climate-action/mitigation-efforts/overview" rel="noopener noreferrer nofollow" target="_blank">hieve our climate targets</a>.</p>
+<p></p>
 <p><u>Net Zero Explainers:</u>
 </p>
 <div class="iframe-wrapper">
