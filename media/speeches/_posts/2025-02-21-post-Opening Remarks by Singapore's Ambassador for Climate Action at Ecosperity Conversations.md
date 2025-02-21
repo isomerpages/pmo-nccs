@@ -52,18 +52,17 @@ for the low-carbon but climate-impaired world of the future.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The United States will be withdrawing from the Paris</p>
-<p>Agreement for the second time.</p>
+<p>The United States will be withdrawing from the Paris Agreement for the
+second time.</p>
 </li>
 <li>
 <p>President Donald Trump has declared a “national energy emergency” and
 promised to boost oil and gas production.</p>
 </li>
 <li>
-<p>The Administration has ordered a freeze on funds from the</p>
-<p>Inflation Reduction Act and the Infrastructure Investment and</p>
-<p>Jobs Act, potentially putting a halt to billions of dollars in tax</p>
-<p>credits for clean energy programmes.</p>
+<p>The Administration has ordered a freeze on funds from the Inflation Reduction
+Act and the Infrastructure Investment and Jobs Act, potentially putting
+a halt to billions of dollars in tax credits for clean energy programmes.</p>
 </li>
 </ul>
 <p><strong>However, there are also a number of positives.</strong>
@@ -131,13 +130,13 @@ US did not.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Only 13 out of 195 countries submitted their 2035 climate</p>
-<p>pledges by the 10 February deadline set by the United Nations. Singapore
-was among the thirteen.</p>
+<p>Only 13 out of 195 countries submitted their 2035 climate pledges by the
+10 February deadline set by the United Nations. Singapore was among the
+thirteen.</p>
 </li>
 <li>
-<p>It remains to be seen whether those who have not submitted</p>
-<p>will pull back their commitment to climate action.</p>
+<p>It remains to be seen whether those who have not submitted will pull back
+their commitment to climate action.</p>
 </li>
 </ul>
 <p><strong>But some countries have taken a different path, committing to ambitious decarbonisation targets.</strong>
@@ -149,8 +148,8 @@ emissions by 51% by 2030 from 1990 levels, just slightly short of its ambitious
 target of a 55% reduction.</p>
 </li>
 <li>
-<p>The 2035 targets that have been submitted to-date are fairly</p>
-<p>ambitious. Relative to 1990 levels:</p>
+<p>The 2035 targets that have been submitted to-date are fairly ambitious.
+Relative to 1990 levels:</p>
 </li>
 </ul>
 <p>➢ The United Kingdom has committed to reduce its emissions by at least
@@ -322,8 +321,7 @@ Greenland is losing 30 million tonnes of ice every hour.</p>
 </li>
 <li>
 <p>The Arctic is the largest source of the ongoing rise in global sea levels,
-threatening coastal regions and small island nations</p>
-<p>around the world.<sup>15,16</sup>
+threatening coastal regions and small island nations around the world.<sup>15,16</sup>
 </p>
 </li>
 <li>
@@ -421,45 +419,45 @@ future generations.</p>
 and decide for themselves where they stand.</p>
 <p>Thank you, and I wish you a fruitful day.</p>
 <hr>
-<p>1 America Is All In. <a href="https://www.americaisallin.com/about" rel="noopener noreferrer nofollow" target="_blank">https://www.americaisallin.com/about</a>
+<p><sup>1 </sup>America Is All In. <a href="https://www.americaisallin.com/about" rel="noopener noreferrer nofollow" target="_blank">https://www.americaisallin.com/about</a>
 </p>
-<p>2 LSE. Why Green parties remain key players after the 2024 European Parliament
-elections. <a href="https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the2024-european-parliament-elections/" rel="noopener noreferrer nofollow" target="_blank">https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the-2024-european-parliament-elections/</a>
+<p><sup>2</sup> LSE. Why Green parties remain key players after the 2024 European
+Parliament elections. <a href="https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the2024-european-parliament-elections/" rel="noopener noreferrer nofollow" target="_blank">https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the-2024-european-parliament-elections/</a>
 </p>
-<p>3 The UK’s 2035 NDC ICTU. <a href="https://unfccc.int/sites/default/files/2025-01/UK%27s%202035%20NDC%20ICTU.pdf" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/sites/default/files/2025-01/UK%27s%202035%20NDC%20ICTU.pdf</a>
+<p><sup>3</sup> The UK’s 2035 NDC ICTU. <a href="https://unfccc.int/sites/default/files/2025-01/UK%27s%202035%20NDC%20ICTU.pdf" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/sites/default/files/2025-01/UK%27s%202035%20NDC%20ICTU.pdf</a>
 </p>
-<p>4 Switzerland’s second nationally determined contribution under the Paris
-Agreement 2031–2035. <a href="https://unfccc.int/NDCREG" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/NDCREG</a>
+<p><sup>4</sup> Switzerland’s second nationally determined contribution under
+the Paris Agreement 2031–2035. <a href="https://unfccc.int/NDCREG" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/NDCREG</a>
 </p>
-<p>5 Brazil’s NDC. <a href="https://unfccc.int/NDCREG" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/NDCREG</a>
+<p><sup>5</sup> Brazil’s NDC. <a href="https://unfccc.int/NDCREG" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/NDCREG</a>
 </p>
-<p>6 IEA. World Energy Investment 2024. <a href="https://www.iea.org/reports/world-energy-investment-2024" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/world-energy-investment-2024</a>
+<p><sup>6</sup> IEA. World Energy Investment 2024. <a href="https://www.iea.org/reports/world-energy-investment-2024" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/world-energy-investment-2024</a>
 </p>
-<p>7 IRENA. Renewable Power Generation Costs in 2023. <a href="https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023</a>
+<p><sup>7</sup> IRENA. Renewable Power Generation Costs in 2023. <a href="https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023</a>
 </p>
-<p>8 IRENA. Renewable Power Generation Costs in 2023.</p>
+<p><sup>8</sup> IRENA. Renewable Power Generation Costs in 2023.</p>
 <p><a href="https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023</a>
 </p>
-<p>9 IEA. World Energy Investment 2024. <a href="https://www.iea.org/reports/world-energy-investment-2024" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/world-energy-investment-2024</a>
+<p><sup>9</sup> IEA. World Energy Investment 2024. <a href="https://www.iea.org/reports/world-energy-investment-2024" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/world-energy-investment-2024</a>
 </p>
-<p>10 IEA. Global EV Outlook 2024. <a href="https://www.iea.org/reports/global-ev-outlook-2024/trends-inelectric-cars" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/global-ev-outlook-2024/trends-inelectric-cars</a>
+<p><sup>10</sup> IEA. Global EV Outlook 2024. <a href="https://www.iea.org/reports/global-ev-outlook-2024/trends-inelectric-cars" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/global-ev-outlook-2024/trends-inelectric-cars</a>
 </p>
-<p>11 Centre for Research on Energy and Clean Air.</p>
-<p>12 IEA. Global Hydrogen Review 2023. <a href="https://www.iea.org/reports/global-hydrogen-review-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/global-hydrogen-review-2023</a>
+<p><sup>11</sup> Centre for Research on Energy and Clean Air.</p>
+<p><sup>12 </sup>IEA. Global Hydrogen Review 2023. <a href="https://www.iea.org/reports/global-hydrogen-review-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/global-hydrogen-review-2023</a>
 </p>
-<p>13 Global Centre on Adaptation. A Year of Heat and Havoc: Why 2024 Must
-Be a Wake-Up Call.</p>
+<p><sup>13</sup> Global Centre on Adaptation. A Year of Heat and Havoc: Why
+2024 Must Be a Wake-Up Call.</p>
 <p><a href="https://gca.org/a-year-of-heat-and-havoc-why-2024-must-be-a-wake-up-call/" rel="noopener noreferrer nofollow" target="_blank">https://gca.org/a-year-of-heat-and-havoc-why-2024-must-be-a-wake-up-call/</a>
 </p>
-<p>14 EPA. Climate Change Indicators: Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-changeindicators-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-glaciers</a>
+<p><sup>14</sup> EPA. Climate Change Indicators: Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-changeindicators-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-glaciers</a>
 </p>
-<p>15 EPA. Climate Change Indicators: Arctic Glaciers. <a href="https://www.epa.gov/climate-indicators/climatechange-indicators-arctic-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers</a>
+<p><sup>15</sup> EPA. Climate Change Indicators: Arctic Glaciers. <a href="https://www.epa.gov/climate-indicators/climatechange-indicators-arctic-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers</a>
 </p>
-<p>16 Arctic Monitoring and Assessment Programme. AMAP Arctic Climate Change
-Update 2021: Key</p>
+<p><sup>16 </sup>Arctic Monitoring and Assessment Programme. AMAP Arctic
+Climate Change Update 2021: Key</p>
 <p>Trends and Impacts. <a href="https://www.amap.no/documents/download/6890/inline" rel="noopener noreferrer nofollow" target="_blank">https://www.amap.no/documents/download/6890/inline</a>
 </p>
-<p>17 Geographical (25 October 2024). What Would Happen if the Gulf Stream
-Collapsed?</p>
-<p>18 The World Bank (2006). The Road to 2050: Sustainable Development for
-the 21st Century.</p>
+<p><sup>17 </sup>Geographical (25 October 2024). What Would Happen if the
+Gulf Stream Collapsed?</p>
+<p><sup>18</sup> The World Bank (2006). The Road to 2050: Sustainable Development
+for the 21st Century.</p>
