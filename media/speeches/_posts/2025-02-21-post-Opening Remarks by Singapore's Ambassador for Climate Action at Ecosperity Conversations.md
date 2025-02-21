@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Opening Remarks by Singapore's Ambassador for Climate Action at Ecosperity Conversations</strong>
+<p><strong>Opening Remarks by Singapore's Ambassador for Climate Action at Ecosperity Conversations 2025</strong>
 </p>
 <hr>
 <h4><strong>Drivers of Climate Action: Politics, Economics, Nature</strong></h4>
