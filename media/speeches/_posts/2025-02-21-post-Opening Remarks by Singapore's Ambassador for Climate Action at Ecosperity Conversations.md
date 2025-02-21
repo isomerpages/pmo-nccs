@@ -29,7 +29,7 @@ coming down to half that from fossil fuels.</p>
 2024, the hottest year on record.</p>
 </li>
 </ul>
-<p><strong>These three developments represent the three forces driving climate action globally: politics, economics, and nature. </strong>
+<p><strong>These three developments represent the three forces driving climate action globally: politics, economics, and nature.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -127,7 +127,7 @@ US did not.</p>
 <p>I expect other countries to be asking themselves the same thing.</p>
 </li>
 </ul>
-<p><strong>We cannot rule out some countries lowering their climate ambitions because of the position taken by the US. </strong>
+<p><strong>We cannot rule out some countries lowering their climate ambitions because of the position taken by the US.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -165,7 +165,7 @@ target of a 55% reduction.</p>
 puts us on a linear trajectory to net zero in 2050.</p>
 </li>
 </ul>
-<p><strong>Overall, global political developments on the climate front have been mixed, but I would say more negative than positive. </strong>
+<p><strong>Overall, global political developments on the climate front have been mixed, but I would say more negative than positive.</strong>
 </p>
 <p>But politics is only one factor. Economics matters too.</p>
 <p>ECONOMICS</p>
@@ -271,7 +271,7 @@ down significantly.</p>
 <p>NATURE</p>
 <p>Beyond politics and economics, I think the most important developments
 that will drive climate action are the ones taking place in nature.</p>
-<p><strong>The most direct indicator of the growing risk facing our planet is temperature. </strong>
+<p><strong>The most direct indicator of the growing risk facing our planet is temperature.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -308,7 +308,7 @@ Ganges and the Mekong, undermining water security for hundreds of millions
 of people across South and Southeast Asia.</p>
 </li>
 </ul>
-<p><strong>The Arctic is heating up almost four times faster than the global average, creating vicious feedback loops with climate change. </strong>
+<p><strong>The Arctic is heating up almost four times faster than the global average, creating vicious feedback loops with climate change.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -331,7 +331,7 @@ threatening coastal regions and small island nations</p>
 amounts of deadly methane into the atmosphere, accelerating global warming.</p>
 </li>
 </ul>
-<p><strong>Our ocean currents are weakening rapidly; if they collapse, the </strong>
+<p><strong>Our ocean currents are weakening rapidly; if they collapse, the</strong>
 </p>
 <p><strong>consequences will be disastrous.<sup>17</sup></strong>
 </p>
@@ -424,9 +424,10 @@ and decide for themselves where they stand.</p>
 <p>1 America Is All In. <a href="https://www.americaisallin.com/about" rel="noopener noreferrer nofollow" target="_blank">https://www.americaisallin.com/about</a>
 </p>
 <p>2 LSE. Why Green parties remain key players after the 2024 European Parliament
-elections. <a href="https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the2024-european-parliament-elections/" rel="noopener noreferrer nofollow" target="_blank">https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the2024-european-parliament-elections/</a>
+elections. <a href="https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the2024-european-parliament-elections/" rel="noopener noreferrer nofollow" target="_blank">https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the-2024-european-parliament-elections/</a>
 </p>
-<p>3 The UK’s 2035 NDC ICTU. <a href="https://unfccc.int/sites/default/files/2025-" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/sites/default/files/2025</a>01/UK%27s%202035%20NDC%20ICTU.pdf</p>
+<p>3 The UK’s 2035 NDC ICTU. <a href="https://unfccc.int/sites/default/files/2025-" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/sites/default/files/202501/UK%27s%202035%20NDC%20ICTU.pdf</a>
+</p>
 <p>4 Switzerland’s second nationally determined contribution under the Paris
 Agreement 2031–2035. <a href="https://unfccc.int/NDCREG" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/NDCREG</a>
 </p>
@@ -450,9 +451,9 @@ Agreement 2031–2035. <a href="https://unfccc.int/NDCREG" rel="noopener norefer
 Be a Wake-Up Call.</p>
 <p><a href="https://gca.org/a-year-of-heat-and-havoc-why-2024-must-be-a-wake-up-call/" rel="noopener noreferrer nofollow" target="_blank">https://gca.org/a-year-of-heat-and-havoc-why-2024-must-be-a-wake-up-call/</a>
 </p>
-<p>14 EPA. Climate Change Indicators: Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-changeindicators-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-changeindicators-glaciers</a>
+<p>14 EPA. Climate Change Indicators: Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-changeindicators-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-glaciers</a>
 </p>
-<p>15 EPA. Climate Change Indicators: Arctic Glaciers. <a href="https://www.epa.gov/climate-indicators/climatechange-indicators-arctic-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climatechange-indicators-arctic-glaciers</a>
+<p>15 EPA. Climate Change Indicators: Arctic Glaciers. <a href="https://www.epa.gov/climate-indicators/climatechange-indicators-arctic-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers</a>
 </p>
 <p>16 Arctic Monitoring and Assessment Programme. AMAP Arctic Climate Change
 Update 2021: Key</p>
