@@ -7,10 +7,9 @@ variant: tiptap
 ---
 <h3>OVERVIEW</h3>
 <p>On 10 February 2025, Singapore announced that it would&nbsp;further reduce
-its emissions to between <a href="https://www.nccs.gov.sg/files/docs/default-source/news-documents/Singapore_Second_Nationally_Determined_Contribution.pdf" rel="noopener noreferrer nofollow" target="_blank">45 and 50 MtCO<sub>2</sub>e in 2035</a>,
-as part of our 2035 Nationally Determined Contribution (NDC). This builds
-on our 2030 NDC to reduce emissions to around 60 MtCO<sub>2</sub>e by 2030,
-after peaking emissions earlier. This is aligned with our <a href="https://www.nccs.gov.sg/files/docs/default-source/publications/nccsleds.pdf" rel="noopener noreferrer nofollow" target="_blank">Long-Term Low-Emissions Development Strategy (LEDS)</a> to
+its emissions to between45 and 50 MtCO2e in 2035, as part of our <a href="https://www.nccs.gov.sg/files/docs/default-source/news-documents/Singapore_Second_Nationally_Determined_Contribution.pdf" rel="noopener nofollow" target="_blank">2035 Nationally Determined Contribution (NDC)</a>.
+This builds on our 2030 NDC to reduce emissions to around 60 MtCO<sub>2</sub>e
+by 2030, after peaking emissions earlier. This is aligned with our <a href="https://www.nccs.gov.sg/files/docs/default-source/publications/nccsleds.pdf" rel="noopener noreferrer nofollow" target="_blank">Long-Term Low-Emissions Development Strategy (LEDS)</a> to
 achieve net-zero emissions by 2050. &nbsp;&nbsp;</p>
 <p>Singapore has always taken climate action seriously and we have always
 emphasised on sustainable development. In 2009, we pledged to reduce our
@@ -38,7 +37,7 @@ technologies and effective international cooperation.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://035%20NDC%20submission%20to%20the%20United%20Nations%20Framework%20Convention%20on%20Climate%20Change%20(UNFCCC)" rel="noopener noreferrer nofollow" target="_blank">2035 NDC submission to the United Nations Framework Convention on Climate Change (UNFCCC)</a>
+<p><a href="https://www.nccs.gov.sg/files/docs/default-source/news-documents/Singapore_Second_Nationally_Determined_Contribution.pdf" rel="noopener nofollow" target="_blank">2035 NDC submission to the United Nations Framework Convention on Climate Change (UNFCCC)</a>
 </p>
 </li>
 <li>
