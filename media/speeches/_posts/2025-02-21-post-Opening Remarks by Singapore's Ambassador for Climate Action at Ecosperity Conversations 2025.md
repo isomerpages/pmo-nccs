@@ -1,14 +1,14 @@
 ---
 title: Opening Remarks by Singapore's Ambassador for Climate Action at
-  Ecosperity Conversations
-permalink: /opening-remarks-by-singapore-s-ambassador-for-climate-action-at-ecosperity-conversations/
+  Ecosperity Conversations 2025
+permalink: /opening-remarks-by-singapore-s-ambassador-for-climate-action-at-ecosperity-conversations-2025/
 date: 2025-02-21
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Opening Remarks by Singapore's Ambassador for Climate Action at Ecosperity Conversations</strong>
+<p><strong>Opening Remarks by Singapore's Ambassador for Climate Action at Ecosperity Conversations 2025</strong>
 </p>
 <hr>
 <h4><strong>Drivers of Climate Action: Politics, Economics, Nature</strong></h4>
