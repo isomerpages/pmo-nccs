@@ -8,7 +8,7 @@ variant: markdown
 
 Singapore is not insulated from the impact of climate change. From 1984 to 2022, the annual mean temperature rose by 0.24°C per decade. The mean sea level around Singapore is observed to be increasing at a rate of around 3.5mm per year in the period from 1993 to 2021.
 
-Rainfall has also increased in recent years. Annual rainfall total for Singapore has been graduallly increasing at a rate of 83 mm per decade from 1980 to 2022. 
+Rainfall has also increased in recent years. Annual rainfall total for Singapore has been gradually increasing at a rate of 83 mm per decade from 1980 to 2022. 
 
 ### How Can Climate Change Affect Singapore?
 
