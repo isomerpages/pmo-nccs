@@ -155,7 +155,8 @@ Relative to 1990 levels:</p>
 <p>➢ The United Kingdom has committed to reduce its emissions by at least
 81% by 2035<sup>3</sup>;</p>
 <p>➢ Switzerland by at least 65% by 2035<sup>4</sup>; and</p>
-<p>➢ Brazil by 59-67% below 2005 levels by 2035.<sup>5</sup>
+<p>➢ Brazil has committed to reduce emissions by 59-67% below 2005 levels
+by 2035.<sup>5</sup>
 </p>
 <ul data-tight="true" class="tight">
 <li>
