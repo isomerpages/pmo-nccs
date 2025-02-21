@@ -448,7 +448,7 @@ the Paris Agreement 2031–2035. <a href="https://unfccc.int/NDCREG" rel="noopen
 </p>
 <p><sup>14</sup> EPA. Climate Change Indicators: Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-changeindicators-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-glaciers</a>
 </p>
-<p><sup>15</sup> EPA. Climate Change Indicators: Arctic Glaciers. <a href="https://www.epa.gov/climate-indicators/climatechange-indicators-arctic-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers</a>
+<p><sup>15</sup> EPA. Climate Change Indicators: Arctic Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers</a>
 </p>
 <p><sup>16 </sup>Arctic Monitoring and Assessment Programme. AMAP Arctic
 Climate Change Update 2021: Key Trends and Impacts. <a href="https://www.amap.no/documents/download/6890/inline" rel="noopener noreferrer nofollow" target="_blank">https://www.amap.no/documents/download/6890/inline</a>
