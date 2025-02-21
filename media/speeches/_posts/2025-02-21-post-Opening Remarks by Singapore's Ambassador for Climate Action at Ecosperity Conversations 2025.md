@@ -438,7 +438,7 @@ the Paris Agreement 2031–2035. <a href="https://unfccc.int/NDCREG" rel="noopen
 </p>
 <p><sup>9</sup> IEA. World Energy Investment 2024. <a href="https://www.iea.org/reports/world-energy-investment-2024" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/world-energy-investment-2024</a>
 </p>
-<p><sup>10</sup> IEA. Global EV Outlook 2024. <a href="https://www.iea.org/reports/global-ev-outlook-2024/trends-inelectric-cars" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars</a>
+<p><sup>10</sup> IEA. Global EV Outlook 2024. <a href="https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars</a>
 </p>
 <p><sup>11</sup> Centre for Research on Energy and Clean Air.</p>
 <p><sup>12 </sup>IEA. Global Hydrogen Review 2023. <a href="https://www.iea.org/reports/global-hydrogen-review-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/global-hydrogen-review-2023</a>
@@ -446,7 +446,7 @@ the Paris Agreement 2031–2035. <a href="https://unfccc.int/NDCREG" rel="noopen
 <p><sup>13</sup> Global Centre on Adaptation. A Year of Heat and Havoc: Why
 2024 Must Be a Wake-Up Call. <a href="https://gca.org/a-year-of-heat-and-havoc-why-2024-must-be-a-wake-up-call/" rel="noopener noreferrer nofollow" target="_blank">https://gca.org/a-year-of-heat-and-havoc-why-2024-must-be-a-wake-up-call/</a>
 </p>
-<p><sup>14</sup> EPA. Climate Change Indicators: Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-changeindicators-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-glaciers</a>
+<p><sup>14</sup> EPA. Climate Change Indicators: Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-change-indicators-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-glaciers</a>
 </p>
 <p><sup>15</sup> EPA. Climate Change Indicators: Arctic Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers</a>
 </p>
