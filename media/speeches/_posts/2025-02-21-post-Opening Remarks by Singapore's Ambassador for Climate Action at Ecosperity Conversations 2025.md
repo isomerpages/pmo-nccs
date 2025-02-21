@@ -329,9 +329,7 @@ threatening coastal regions and small island nations around the world.<sup>15,16
 amounts of deadly methane into the atmosphere, accelerating global warming.</p>
 </li>
 </ul>
-<p><strong>Our ocean currents are weakening rapidly; if they collapse, the</strong>
-</p>
-<p><strong>consequences will be disastrous.<sup>17</sup></strong>
+<p><strong>Our ocean currents are weakening rapidly; if they collapse, the consequences will be disastrous.<sup>17</sup></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
