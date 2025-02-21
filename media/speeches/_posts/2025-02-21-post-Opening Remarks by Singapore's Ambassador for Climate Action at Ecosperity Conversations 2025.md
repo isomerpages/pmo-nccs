@@ -421,7 +421,7 @@ and decide for themselves where they stand.</p>
 <p><sup>1 </sup>America Is All In. <a href="https://www.americaisallin.com/about" rel="noopener noreferrer nofollow" target="_blank">https://www.americaisallin.com/about</a>
 </p>
 <p><sup>2</sup> LSE. Why Green parties remain key players after the 2024 European
-Parliament elections. <a href="https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the2024-european-parliament-elections/" rel="noopener noreferrer nofollow" target="_blank">https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the-2024-european-parliament-elections/</a>
+Parliament elections. <a href="https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the-2024-european-parliament-elections/" rel="noopener noreferrer nofollow" target="_blank">https://blogs.lse.ac.uk/europpblog/2024/07/22/why-green-parties-remain-key-players-after-the-2024-european-parliament-elections/</a>
 </p>
 <p><sup>3</sup> The UK’s 2035 NDC ICTU. <a href="https://unfccc.int/sites/default/files/2025-01/UK%27s%202035%20NDC%20ICTU.pdf" rel="noopener noreferrer nofollow" target="_blank">https://unfccc.int/sites/default/files/2025-01/UK%27s%202035%20NDC%20ICTU.pdf</a>
 </p>
@@ -434,27 +434,24 @@ the Paris Agreement 2031–2035. <a href="https://unfccc.int/NDCREG" rel="noopen
 </p>
 <p><sup>7</sup> IRENA. Renewable Power Generation Costs in 2023. <a href="https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023</a>
 </p>
-<p><sup>8</sup> IRENA. Renewable Power Generation Costs in 2023.</p>
-<p><a href="https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023</a>
+<p><sup>8</sup> IRENA. Renewable Power Generation Costs in 2023. <a href="https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023</a>
 </p>
 <p><sup>9</sup> IEA. World Energy Investment 2024. <a href="https://www.iea.org/reports/world-energy-investment-2024" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/world-energy-investment-2024</a>
 </p>
-<p><sup>10</sup> IEA. Global EV Outlook 2024. <a href="https://www.iea.org/reports/global-ev-outlook-2024/trends-inelectric-cars" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/global-ev-outlook-2024/trends-inelectric-cars</a>
+<p><sup>10</sup> IEA. Global EV Outlook 2024. <a href="https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars</a>
 </p>
 <p><sup>11</sup> Centre for Research on Energy and Clean Air.</p>
 <p><sup>12 </sup>IEA. Global Hydrogen Review 2023. <a href="https://www.iea.org/reports/global-hydrogen-review-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/global-hydrogen-review-2023</a>
 </p>
 <p><sup>13</sup> Global Centre on Adaptation. A Year of Heat and Havoc: Why
-2024 Must Be a Wake-Up Call.</p>
-<p><a href="https://gca.org/a-year-of-heat-and-havoc-why-2024-must-be-a-wake-up-call/" rel="noopener noreferrer nofollow" target="_blank">https://gca.org/a-year-of-heat-and-havoc-why-2024-must-be-a-wake-up-call/</a>
+2024 Must Be a Wake-Up Call. <a href="https://gca.org/a-year-of-heat-and-havoc-why-2024-must-be-a-wake-up-call/" rel="noopener noreferrer nofollow" target="_blank">https://gca.org/a-year-of-heat-and-havoc-why-2024-must-be-a-wake-up-call/</a>
 </p>
-<p><sup>14</sup> EPA. Climate Change Indicators: Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-changeindicators-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-glaciers</a>
+<p><sup>14</sup> EPA. Climate Change Indicators: Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-change-indicators-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-glaciers</a>
 </p>
-<p><sup>15</sup> EPA. Climate Change Indicators: Arctic Glaciers. <a href="https://www.epa.gov/climate-indicators/climatechange-indicators-arctic-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers</a>
+<p><sup>15</sup> EPA. Climate Change Indicators: Arctic Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers</a>
 </p>
 <p><sup>16 </sup>Arctic Monitoring and Assessment Programme. AMAP Arctic
-Climate Change Update 2021: Key</p>
-<p>Trends and Impacts. <a href="https://www.amap.no/documents/download/6890/inline" rel="noopener noreferrer nofollow" target="_blank">https://www.amap.no/documents/download/6890/inline</a>
+Climate Change Update 2021: Key Trends and Impacts. <a href="https://www.amap.no/documents/download/6890/inline" rel="noopener noreferrer nofollow" target="_blank">https://www.amap.no/documents/download/6890/inline</a>
 </p>
 <p><sup>17 </sup>Geographical (25 October 2024). What Would Happen if the
 Gulf Stream Collapsed?</p>
