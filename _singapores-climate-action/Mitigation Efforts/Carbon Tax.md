@@ -39,9 +39,9 @@ business case to invest in low-carbon solutions, and ensuring that new
 investments and economic activities are aligned with our national climate
 goals.</p>
 <p>The Government does not expect to derive additional net revenue from the
-carbon tax increase in this decade. The revenue will be used to support
-decarbonisation efforts and the transition to a green economy, and cushion
-the impact on businesses and households. &nbsp;</p>
+carbon tax increase in this decade. The revenue will help to fund measures
+that support decarbonisation efforts and the transition to a green economy,
+and cushion the impact on businesses and households. &nbsp;</p>
 <p><strong>Use of International Carbon Credits</strong>
 </p>
 <p>Companies may use high quality international carbon credits (ICCs) to
