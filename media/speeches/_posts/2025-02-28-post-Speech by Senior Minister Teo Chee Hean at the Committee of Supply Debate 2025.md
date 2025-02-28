@@ -36,9 +36,9 @@ these difficult changes when others are not. And whether their efforts
 will even result in any meaningful change, without the participation of
 bigger players.</p>
 <p>Singapore’s Climate Ambassador, Mr Ravi Menon, gave a speech a week ago
-at Temasek’s Ecosperity Conversations. It provides a succinct and clear
-assessment of the global state of play on climate change. I recommend that
-Members read it.</p>
+at Temasek’s Ecosperity Conversations.<sup>1</sup> It provides a succinct
+and clear assessment of the global state of play on climate change. I recommend
+that Members read it.</p>
 <p>Ambassador Menon pointed out that the main drivers of climate action are
 politics, economics, and nature. I have touched on the political headwinds,
 so let us examine the other two.</p>
@@ -46,8 +46,10 @@ so let us examine the other two.</p>
 last two decades. Several of these technologies are now mature and mainstream,
 and make economic sense – they are not just cleaner, but lower cost. The
 average levelised cost of solar energy globally, for instance, is now 50%
-lower than that of fossil fuels. This explains why two-thirds of global
-energy investment in 2024 went to clean energy technologies and infrastructure.</p>
+lower than that of fossil fuels.<sup>2</sup> This explains why two-thirds
+of global energy investment in 2024 went to clean energy technologies and
+infrastructure.<sup>3</sup>
+</p>
 <p>Countries and businesses realise this, which is why, despite political
 perturbations, there is now much greater momentum for decarbonisation than
 just a decade ago. Most of the world’s advanced economies have been investing
@@ -58,8 +60,8 @@ prosperity of their people.</p>
 <p>This brings us to nature. Climate change is no longer a future threat;
 it is already here with us. Every country, all of us, can see this – drought,
 fires, floods, loss of crop yields, more severe storms. The last ten years
-have been the hottest years ever on record. In short, the timeline to respond
-and adapt is being set - not by us, but by Nature.</p>
+have been the hottest years ever on record.<sup>4</sup> In short, the timeline
+to respond and adapt is being set - not by us, but by Nature.</p>
 <p>Countries and businesses which lag behind will be forced to act eventually.
 The longer they wait, the sharper and more disruptive a transition they
 will have to make.</p>
@@ -106,8 +108,8 @@ transition in the rest of the world.</p>
 <p>Ms Chan, Dr Lim and Ms Poh asked about progress toward our 2030 NDC, and
 new measures for our 2035 target.</p>
 <p>With your permission, Mr Chairman, may I ask the Clerks to distribute
-an infographic – this summarises where we are now, and our journey to get
-to net zero by 2050.</p>
+an infographic<sup>5</sup> – this summarises where we are now, and our journey
+to get to net zero by 2050.</p>
 <p><strong>Our Progress So Far</strong>
 </p>
 <p>We are on track to meet our 2030 NDC. Let me provide two examples of the
@@ -347,11 +349,16 @@ you, Sir.</p>
 <p></p>
 <p></p>
 <hr>
-<p></p>
-<p><sup>1 </sup>IRENA. Renewable Power Generation Costs in 2023.</p>
-<p><sup>2 </sup>IEA. Global Hydrogen Review 2023.</p>
-<p><sup>3 </sup>Global Centre on Adaptation. A Year of Heat and Havoc: Why
+<p><sup>1 </sup>“Drivers of Climate Action: Politics, Economics, Nature”.
+<a href="https://www.nccs.gov.sg/opening-remarks-by-singapore-s-ambassador-for-climate-action-at-ecosperity-conversations/" rel="noopener nofollow" target="_blank">Opening Remarks by Singapore’s Ambassador for Climate Action at Ecosperity
+Conversations 2025</a>
+</p>
+<p><sup>2 </sup>IRENA. Renewable Power Generation Costs in 2023.</p>
+<p><sup>3 </sup>IEA. Global Hydrogen Review 2023.</p>
+<p><sup>4 </sup>Global Centre on Adaptation. A Year of Heat and Havoc: Why
 2024 Must Be a Wake-Up Call.</p>
+<p><sup>5</sup>  <a rel="noopener noreferrer nofollow" target="_blank">https://www.nccs.gov.sg/singapore-climate-action/mitigation-efforts/overview</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
