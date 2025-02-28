@@ -9,8 +9,8 @@ variant: tiptap
 ---
 <p><strong>Speech by Senior Minister and Coordinating Minister for National Security Teo Chee Hean, Committee of Supply Debate 2025</strong>
 </p>
-<p><strong><em>From Commitment to Action: Staying the Course in the Low-Carbon Transition</em></strong>
-</p>
+<hr>
+<h4><strong>From Commitment to Action: Staying the Course in the Low-Carbon Transition</strong></h4>
 <p>Mr Chairman, Sir</p>
 <p>I speak as Chairman of the Inter-Ministerial Committee on Climate Change
 (IMCCC). With your permission, I will take clarifications immediately after
@@ -54,7 +54,7 @@ prosperity of their people.</p>
 <p>This brings us to nature. Climate change is no longer a future threat;
 it is already here. Every country, all of us, can see this – drought, fires,
 floods, loss of crop yields, more severe storms. The last ten years have
-been the hottest years ever on record.<sup>3 </sup> In short, the timeline
+been the hottest years ever on record.<sup>3 </sup>In short, the timeline
 to respond and adapt is being set, not by us, but by Nature.</p>
 <p>Countries and businesses which lag behind will be forced to act eventually.
 The longer they wait, the sharper and more disruptive a transition they
