@@ -31,11 +31,11 @@ international commitment by countries to deliver on their climate pledges.
 The targets will also be contingent on the maturity of decarbonisation
 technologies and effective international cooperation.&nbsp;</p>
 <p>&nbsp;</p>
-<p>Read more about <a href="https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/overview" class="Hyperlink SCXW214042427 BCX8" rel="noreferrer noopener" target="_blank"><u>Singapore’s measures to achieve our climate targets</u></a>.&nbsp;</p>
-<p>&nbsp;</p>
+<p>Read more about <a href="https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/overview" class="Hyperlink SCXW214042427 BCX8" rel="noreferrer noopener" target="_blank"><u>Singapore’s measures to achieve our climate targe</u></a>
+</p>
 <p><u>Net Zero Explainers:</u>&nbsp;</p>
 <p><u>[Embedded Youtube Video]</u>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Download:</u>&nbsp;</p>
 <ul>
 <li>
@@ -50,6 +50,7 @@ technologies and effective international cooperation.&nbsp;</p>
 <ul>
 <li>
 <p><a href="https://www.nccs.gov.sg/files/docs/default-source/publications/nccsleds.pdf" class="Hyperlink SCXW214042427 BCX8" rel="noreferrer noopener" target="_blank"><u>Singapore's Long-Term Low-Emissions Development Strategy 2020 (PDF, 15MB)</u></a>&nbsp;</p>
+<p></p>
 </li>
 </ul>
 <p></p>
