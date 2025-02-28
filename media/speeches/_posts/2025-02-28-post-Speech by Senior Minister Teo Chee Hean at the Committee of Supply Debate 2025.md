@@ -361,5 +361,5 @@ Conversations 2025</a>
 <p><sup>3 </sup>IEA. Global Hydrogen Review 2023.</p>
 <p><sup>4 </sup>Global Centre on Adaptation. A Year of Heat and Havoc: Why
 2024 Must Be a Wake-Up Call.</p>
-<p><sup>5</sup>  <a rel="noopener noreferrer nofollow" target="_blank">https://www.nccs.gov.sg/singapore-climate-action/mitigation-efforts/overview</a>
+<p><sup>5</sup>  <a rel="noopener noreferrer nofollow" target="_blank">https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/overview</a>
 </p>
