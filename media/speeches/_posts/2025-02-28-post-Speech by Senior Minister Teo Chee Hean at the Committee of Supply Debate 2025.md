@@ -19,7 +19,7 @@ speech. I would like to thank our honourable Members - Ms Poh Li San, Ms
 He Ting Ru, Mr Dennis Tan, Dr Lim Wee Kiak, and Ms Cheryl Chan - for their
 interest in this subject, which has a very long-term bearing on Singapore’s
 development and growth.</p>
-<p><strong>The Need for Continued Climate Action</strong>
+<p><strong><em>The Need for Continued Climate Action</em></strong>
 </p>
 <p>Sir, it is a difficult time to talk about climate action.</p>
 <p>The Paris Agreement in 2015 marked a breakthrough in global climate action,
@@ -110,7 +110,7 @@ new measures for our 2035 target.</p>
 <p>With your permission, Mr Chairman, may I ask the Clerks to distribute
 an infographic<sup>5</sup> – this summarises where we are now, and our journey
 to get to net zero by 2050.</p>
-<p><strong>Our Progress So Far</strong>
+<p><em>Our Progress So Far</em>
 </p>
 <p>We are on track to meet our 2030 NDC. Let me provide two examples of the
 progress we have made:</p>
@@ -141,7 +141,7 @@ say more about this during their respective Committee of Supply debates.</p>
 <p>Beyond these measures, we will need to step up efforts to study and advance
 a fuller suite of potential decarbonisation solutions - something which
 several Members asked about.</p>
-<p><strong>Carbon Tax: A Key Enabler</strong>
+<p><em>Carbon Tax: A Key Enabler</em>
 </p>
 <p>One key enabler is our carbon tax, which was raised to $25 a tonne last
 year. The carbon tax shapes behaviour across our economy, from consumers
@@ -168,7 +168,7 @@ We will continue to assess where the optimal range is. Our current tax
 rate is carefully calibrated to give our businesses and households time
 to adjust, and to account for the maturation of green technologies that
 will allow us to decarbonise more efficiently.</p>
-<p><strong>Advancing Cross-Border Solutions</strong>
+<p><em>Advancing Cross-Border Solutions</em>
 </p>
 <p>We will also need to tap on cross-border solutions to overcome the limitations
 of being a dense and alternative-energy disadvantaged city. Ms Chan asked
@@ -194,7 +194,7 @@ projects in these countries while helping us meet our emissions targets.</p>
 that is necessary to reduce emissions from hard-to-abate sectors. We are
 currently working with industry players to study the viability of cross-border
 Carbon Capture and Storage projects.</p>
-<p><strong>Laying the Groundwork for Emerging Low-Carbon Technologies</strong>
+<p><em>Laying the Groundwork for Emerging Low-Carbon Technologies</em>
 </p>
 <p>Achieving our longer-term targets will also require new and innovative
 solutions. Several of these new technologies are showing promise.</p>
@@ -269,7 +269,7 @@ emissions intensive relative to their competitors will become less attractive.
 So, while there are costs in decarbonisation now, it is an investment in
 long term survival and growth for our companies, and also for Singapore’s
 economy.</p>
-<p><strong>Supporting Businesses to Decarbonise</strong>
+<p><em>Supporting Businesses to Decarbonise</em>
 </p>
 <p>We are helping businesses decarbonise by supporting efforts to improve
 their energy efficiency. For instance, we have enhanced the Resource Efficiency
@@ -291,7 +291,7 @@ in the years ahead.</p>
 to green our data centres to achieve both economic growth and decarbonisation.</p>
 </li>
 </ul>
-<p><strong>Seizing New Economic Opportunities</strong>
+<p><em>Seizing New Economic Opportunities</em>
 </p>
 <p>The transition also presents new opportunities. As the demand for low-carbon
 goods and services increases, we can benefit by moving quickly to capture
@@ -315,7 +315,7 @@ carbon dioxide to produce building materials. Singapore is also one of
 the world’s leading producers today of Sustainable Aviation Fuels.</p>
 </li>
 </ul>
-<p><strong>Adapting to Climate Change</strong>
+<p><strong><em>Adapting to Climate Change</em></strong>
 </p>
 <p>While we have a broad suite of plans to get ourselves to net-zero, keeping
 global warming below 1.5°C will depend on other countries doing their part.
