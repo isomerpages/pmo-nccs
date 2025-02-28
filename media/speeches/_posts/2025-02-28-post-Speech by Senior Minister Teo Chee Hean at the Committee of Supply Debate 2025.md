@@ -344,10 +344,6 @@ thriving country for all our citizens, ready to grasp the new opportunities
 in a low-carbon world.</p>
 <p>37. So let us all work together and travel this journey together. Thank
 you, Sir.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <hr>
 <p><sup>1 </sup>“Drivers of Climate Action: Politics, Economics, Nature”.
 <a href="https://www.nccs.gov.sg/opening-remarks-by-singapore-s-ambassador-for-climate-action-at-ecosperity-conversations/" rel="noopener nofollow" target="_blank">Opening Remarks by Singapore’s Ambassador for Climate Action at Ecosperity
@@ -359,11 +355,4 @@ Conversations 2025</a>
 2024 Must Be a Wake-Up Call.</p>
 <p><sup>5</sup>  <a rel="noopener noreferrer nofollow" target="_blank">https://www.nccs.gov.sg/singapore-climate-action/mitigation-efforts/overview</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>--</p>
