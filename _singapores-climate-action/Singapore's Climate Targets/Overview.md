@@ -7,7 +7,6 @@ variant: tiptap
 ---
 <h3><strong>OVERVIEW OF SINGAPORE CLIMATE TARGETS</strong>&nbsp;</h3>
 <p>OVERVIEW&nbsp;</p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_net_zero_journey_socmed_01.png">
 </div>
@@ -30,11 +29,11 @@ our ability to fulfil our pledges, like all Parties, will depend on continued
 international commitment by countries to deliver on their climate pledges.
 The targets will also be contingent on the maturity of decarbonisation
 technologies and effective international cooperation.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Read more about <a href="https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/overview" class="Hyperlink SCXW214042427 BCX8" rel="noreferrer noopener" target="_blank"><u>Singapore’s measures to achieve our climate targe</u></a>
+<p>Read more about  <a href="https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/overview" class="Hyperlink SCXW214042427 BCX8" rel="noreferrer noopener" target="_blank"><u>Singapore’s measures to achieve our climate targets.</u></a>
 </p>
 <p><u>Net Zero Explainers:</u>&nbsp;</p>
-<p><u>[Embedded Youtube Video]</u>&nbsp;</p>
+<p><a href="https://www.youtube.com/watch?v=742th8Abwuc&amp;t=2s" rel="noopener nofollow" target="_blank">Net Zero Explainers</a>
+</p>
 <p></p>
 <p><u>Download:</u>&nbsp;</p>
 <ul>
