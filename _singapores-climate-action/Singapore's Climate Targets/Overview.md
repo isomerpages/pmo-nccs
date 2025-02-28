@@ -8,7 +8,7 @@ variant: tiptap
 <h3><strong>OVERVIEW OF SINGAPORE CLIMATE TARGETS</strong>&nbsp;</h3>
 <p>OVERVIEW&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Singapore_net_zero_journey_socmed_01.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Singapore_net_zero_journey_socmed_01.png">
 </div>
 <p>On 10 February 2025, Singapore announced that it would further reduce
 its emissions to between 45 and 50 MtCO2e in 2035, as part of our <a href="https://www.nccs.gov.sg/files/docs/default-source/news-documents/Singapore_Second_Nationally_Determined_Contribution.pdf" class="Hyperlink SCXW214042427 BCX8" rel="noreferrer noopener" target="_blank"><u>2035 Nationally Determined Contribution (NDC)</u></a>.
