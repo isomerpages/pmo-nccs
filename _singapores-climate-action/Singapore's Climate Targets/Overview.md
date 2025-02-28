@@ -32,9 +32,9 @@ technologies and effective international cooperation.&nbsp;</p>
 <p>Read more about  <a href="https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/overview" class="Hyperlink SCXW214042427 BCX8" rel="noreferrer noopener" target="_blank"><u>Singapore’s measures to achieve our climate targets.</u></a>
 </p>
 <p><u>Net Zero Explainers:</u>&nbsp;</p>
-<p><a href="https://www.youtube.com/watch?v=742th8Abwuc&amp;t=2s" rel="noopener nofollow" target="_blank">Net Zero Explainers</a>
-</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/742th8Abwuc?si=tmx3X4mPy34B_Noa"></iframe>
+</div>
 <p><u>Download:</u>&nbsp;</p>
 <ul>
 <li>
