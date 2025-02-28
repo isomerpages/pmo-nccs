@@ -6,8 +6,8 @@ third_nav_title: Mitigation Efforts
 variant: tiptap
 ---
 <h3>OVERVIEW</h3>
-<p>Singapore has committed to <a href="https://www.nccs.gov.sg/singapores-climate-action/singapores-climate-targets/overview/" class="Hyperlink SCXW49871192 BCX8" rel="noreferrer noopener" target="_blank">achieving net zero emissions by 2050. </a>Despite
-the <a href="https://www.nccs.gov.sg/singapores-climate-action/overview/national-circumstances" class="Hyperlink SCXW49871192 BCX8" rel="noreferrer noopener" target="_blank">challenging circumstances and geographical constraints we face</a>, Singapore
+<p>Singapore has committed to  <a href="https://www.nccs.gov.sg/singapores-climate-action/singapores-climate-targets/overview/" class="Hyperlink SCXW49871192 BCX8" rel="noreferrer noopener" target="_blank">achieving net zero emissions by 2050. </a>Despite
+the  <a href="https://www.nccs.gov.sg/singapores-climate-action/overview/national-circumstances" class="Hyperlink SCXW49871192 BCX8" rel="noreferrer noopener" target="_blank">challenging circumstances and geographical constraints we face</a>, Singapore
 is committed to effective climate action and we will find innovative ways
 to move towards a low-carbon future for industry, economy, and society
 through these key thrusts:&nbsp;</p>
