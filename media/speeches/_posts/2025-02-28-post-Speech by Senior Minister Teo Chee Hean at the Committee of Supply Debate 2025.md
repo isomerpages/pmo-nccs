@@ -85,6 +85,7 @@ of the Paris Agreement. It is heartening that Members from both sides of
 this house have expressed support for our ambitious climate action plan,
 and in particular, this downward emissions trajectory, which is going to
 be a major challenge.</p>
+<p></p>
 </li>
 <li>
 <p>Our 2035 NDC also signals our resolve to help our economy stay competitive
@@ -93,6 +94,7 @@ new green investments and gives Singapore-based companies an edge in developing
 new low-carbon solutions. It also allows us to remain attractive to companies
 that are looking to decarbonise their operations, which is aligned with
 our national goals.</p>
+<p></p>
 </li>
 <li>
 <p>At the same time, as an alternative-energy disadvantaged nation, having
@@ -125,6 +127,7 @@ us on track to meet our target of at least 2GWp of solar deployment by
 2030. To put this in context, our electrical power consumption today is
 around 8 GW. Of course, 8 GW is not the same as 8 GWp, but this puts it
 into context.</p>
+<p></p>
 </li>
 <li>
 <p>Second, on land transport. We are working towards all vehicles running
@@ -206,11 +209,13 @@ all flights departing Singapore will be required to have a 1% uplift of
 sustainable fuel, with the goal to raise this to 3 to 5% by 2030, subject
 to global developments. We are also studying the potential for wider adoption
 of biofuels in sectors such as electricity generation and transport.</p>
+<p></p>
 </li>
 <li>
 <p>We are also building capabilities to deploy hydrogen and ammonia, including
 through small, pilot-scale projects, as we wait for these fuels to become
 commercially viable at scale.</p>
+<p></p>
 </li>
 <li>
 <p>In the longer term, as the Prime Minister stated in the Budget Speech,
@@ -246,6 +251,7 @@ carbon emissions of each country are officially counted, with well-developed
 methodologies. For CBE, the methodologies are not standardised, not widely
 applied, and will not be directly applicable to our carbon accounting under
 the Paris Agreement.</p>
+<p></p>
 </li>
 <li>
 <p>Nonetheless, we are encouraging companies to start accounting for these
@@ -285,6 +291,7 @@ and remain competitive in the low-carbon transition.</p>
 year, and more recently announced the Marine &amp; Offshore Industry Plan.
 These will guide us as we work together with companies in our key sectors
 in the years ahead.</p>
+<p></p>
 </li>
 <li>
 <p>We also want to become an AI hub. MDDI will say more about how we plan
@@ -307,6 +314,7 @@ in pivoting towards providing critical products and services across the
 offshore wind value chain. Cyan Renewables is a new local company set up
 in 2022. It has now grown to become one of the largest offshore wind vessel
 owners globally, supporting clients across Asia Pacific and Europe.</p>
+<p></p>
 </li>
 <li>
 <p>There will also be new opportunities in resource efficiency and circularity.
@@ -331,7 +339,7 @@ Fund. MSE will say more about adaptations to rising urban heat, disruptions
 to food supplies, and other impacts, which will be needed too.</p>
 <p><strong><em>Conclusion</em></strong>
 </p>
-<p>36. Mr Chairman, over our 60 years of independence, we have always placed
+<p>Mr Chairman, over our 60 years of independence, we have always placed
 emphasis on a clean and green environment even as we developed and grew.
 With climate change, this challenge has now taken on a global dimension.
 Nature is setting the timeline. Sir, we are neither climate zealots nor
@@ -342,8 +350,8 @@ businesses in this transition; by taking steps to protect us from the effects
 of climate change; so that Singapore remains a sustainable, liveable, and
 thriving country for all our citizens, ready to grasp the new opportunities
 in a low-carbon world.</p>
-<p>37. So let us all work together and travel this journey together. Thank
-you, Sir.</p>
+<p>So let us all work together and travel this journey together. Thank you,
+Sir.</p>
 <hr>
 <p><sup>1 </sup>“Drivers of Climate Action: Politics, Economics, Nature”.
 <a href="https://www.nccs.gov.sg/opening-remarks-by-singapore-s-ambassador-for-climate-action-at-ecosperity-conversations/" rel="noopener nofollow" target="_blank">Opening Remarks by Singapore’s Ambassador for Climate Action at Ecosperity
