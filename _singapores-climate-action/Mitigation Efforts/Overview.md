@@ -29,9 +29,14 @@ through these key thrusts:&nbsp;</p>
 <p>These key thrusts are supported by a  <a href="https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/carbontax/" class="Hyperlink SCXW49871192 BCX8" rel="noreferrer noopener" target="_blank">carbon tax</a>,
 as a key enabler of this transition. Beyond these measures, Singapore is
 also studying and investing in low-carbon technologies for a fuller suite
-of potential decarbonisation solutions.&nbsp;&nbsp;</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/docs/default-source/publications/Charting_Singapore_Net_Zero_Journey_COS2025_Final.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_net_zero_journey_2025_A3_final__for_print__01.png"></a>
+of potential decarbonisation solutions.&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_net_zero_journey_2025_A3_final__for_print__01.png">
+</div>
 <p><em>Source: <a href="/files/docs/default-source/publications/Charting_Singapore_Net_Zero_Journey_COS2025_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Charting Singapore Net Zero Journey Infographic (2025)</a></em>
 </p>
+<p></p>
 <p>Find out more about our decarbonisation measures:</p>
 <p><a href="https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/power" rel="noopener noreferrer nofollow" target="_blank">Power</a>&nbsp;</p>
 <p><a href="https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/industry" rel="noopener noreferrer nofollow" target="_blank">Industry</a>&nbsp;</p>
