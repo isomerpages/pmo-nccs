@@ -11,7 +11,7 @@ variant: tiptap
 <hr>
 <p><strong>Transition Planning for Business Resilience and Competitiveness</strong>
 </p>
-<p>Good morning, ladies and gentlemen.</p>
+<p>Good afternoon, ladies and gentlemen.</p>
 <p>Recent political developments in the US have raised questions about the
 future of climate action. Some of you may wonder: <em>Is now really the time to invest in sustainability efforts?</em>
 </p>
