@@ -11,7 +11,7 @@ variant: tiptap
 <p><strong>REMARKS BY SINGAPORE’S AMBASSADOR FOR CLIMATE ACTION AT THE PHILANTHROPY ASIA SUMMIT 2025, MARINA BAY SANDS, SINGAPORE, 5 MAY 2025<em>&nbsp;</em></strong>
 </p>
 <hr>
-<p><strong>Insights: Where Climate Stands</strong>
+<p><strong>Three Ways Philanthropy Can Support Climate Action</strong>
 </p>
 <p></p>
 <p></p>
