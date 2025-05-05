@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
-<p>Good morning, ladies and gentlemen.</p>
+<p>Good afternoon, ladies and gentlemen.</p>
 <p></p>
 <p><strong><em>The climate agenda is facing headwinds, not just in the US, but everywhere.</em></strong>
 </p>
