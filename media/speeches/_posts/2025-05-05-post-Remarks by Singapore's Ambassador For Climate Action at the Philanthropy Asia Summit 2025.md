@@ -31,7 +31,6 @@ uncertainty.</p>
 <p>Governments are recalibrating their climate commitments.</p>
 </li>
 </ul>
-<p></p>
 <p><strong><em>Ultimately, nature sets the timeline for climate action, not electoral or business cycles.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -49,7 +48,8 @@ the eventual transition will be.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>Climate action will be critical in Asia – for two reasons.</p>
+<p><strong>Climate action will be critical in Asia – for two reasons.</strong>
+</p>
 <p><strong><em>First, Asia is where the fight against climate change will be won or lost.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -88,7 +88,6 @@ by extreme heat.</p>
 but unwilling to commit in a big way because the risks are too high.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><em>This is a time for philanthropy to play a larger role in driving climate action in Asia.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -111,8 +110,8 @@ to direct their resources in the climate space.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>Let me outline three areas where I think philanthropic capital can support
-climate action.</p>
+<p><strong>Let me outline three areas where I think philanthropic capital can support climate action.</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Crowding in private capital</p>
@@ -124,7 +123,6 @@ climate action.</p>
 <p>Ensuring just transition</p>
 </li>
 </ul>
-<p></p>
 <p><strong>First, crowding in private capital for decarbonisation projects.</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -177,7 +175,7 @@ the Global Energy Alliance for People and Planet, the Asian Development
 Bank, and Allied Climate Partners.</p>
 </li>
 </ul>
-<p><strong><em>Second, enabling public goods for climate action</em></strong>
+<p><strong>Second, enabling public goods for climate action</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
