@@ -64,7 +64,7 @@ grow. It is within our hands to shape this.</p>
 <p>The way in which Asia sources for our energy – whether from fossil fuels
 or renewables – and how we decarbonise, will shape not only our own trajectory,
 but that of the entire world.</p>
-<p><strong>Regional collaboration for a low-carbon future </strong>
+<p><strong>Regional collaboration for a low-carbon future</strong>
 </p>
 <p>So, what should the path forward for Asia be?</p>
 <p>One set of actions prioritises mitigation solutions that are already available,
@@ -85,7 +85,7 @@ with each other.</p>
 businesses, and investors – we will be able to realise a low-carbon future.
 Let me touch on just three areas where deeper collaboration can drive growth,
 resilience, and climate action.</p>
-<p><strong>Advancing the regional energy transition </strong>
+<p><strong>Advancing the regional energy transition</strong>
 </p>
 <p>First, regional grids. Southeast Asia has immense renewable potential
 – solar, wind, hydro, and geothermal resources are abundant. Yet the uptake
@@ -106,7 +106,7 @@ including Indonesia, Vietnam, and Malaysia.</p>
 <p>The regional energy transition requires more than just better grid connectivity,
 but it is a key enabler. With continued investment and cross-border cooperation,
 an ASEAN grid could lift GDP by up to 4.6% and create thousands of green
-jobs.<sup>8 </sup>
+jobs.<sup>8</sup>
 </p>
 <p><strong>Unlocking Financing</strong>
 </p>
@@ -134,7 +134,7 @@ green projects.</p>
 <p>This will help Southeast Asia close its large green financing gap, accelerate
 the low-carbon transition, spark innovation, and create jobs for a sustainable
 future.</p>
-<p><strong>Realising the region’s carbon market potential </strong>
+<p><strong>Realising the region’s carbon market potential</strong>
 </p>
 <p>In much the same way that a regional grid will help unlock the region’s
 green energy potential, the development of high-integrity carbon markets
@@ -161,7 +161,7 @@ businesses, standards bodies, and international organisations to develop
 global standards and frameworks that uphold quality and integrity. We want
 to set a high bar for the credits we support, and lead the way towards
 credible carbon markets.</p>
-<p><strong>Conclusion</strong> 
+<p><strong>Conclusion</strong>
 </p>
 <p>Let me close with some final thoughts on what I see as the overall trajectory
 of climate action.</p>
@@ -215,7 +215,7 @@ and the world.</p>
 <p></p>
 <hr>
 <p><sup>1</sup>Asian Development Bank (ADB). ADB Says Climate Change Could
-Reduce GDP in Developing Asia and the Pacific by 17% by 2070. <a href="https://www.adb.org/news/adb-says-climate-change-could-reduce-gdp-developing-asia-and-pacific-17-2070" rel="noopener noreferrer nofollow" target="_blank">https://www.adb.org/news/adb-says-climate-change-could-reduce-gdp-developing-asia-and-pacific-17-2070 </a> 
+Reduce GDP in Developing Asia and the Pacific by 17% by 2070. <a href="https://www.adb.org/news/adb-says-climate-change-could-reduce-gdp-developing-asia-and-pacific-17-2070" rel="noopener noreferrer nofollow" target="_blank">https://www.adb.org/news/adb-says-climate-change-could-reduce-gdp-developing-asia-and-pacific-17-2070</a>
 </p>
 <p><sup>2</sup>UN University. Climate change in south-East Asia: Where are
 we and what are we bound for? <a href="https://ourworld.unu.edu/en/climate-change-in-south-east-asia-where-are-we-and-what-are-we-bound-for" rel="noopener noreferrer nofollow" target="_blank">https://ourworld.unu.edu/en/climate-change-in-south-east-asia-where-are-we-and-what-are-we bound-for</a>
@@ -226,15 +226,16 @@ we and what are we bound for? <a href="https://ourworld.unu.edu/en/climate-chang
 <p><sup>4</sup>Our World in Data. Annual CO2 emissions by world region.
 <a href="https://ourworldindata.org/grapher/annual-co-emissions-by-region?time=latest" rel="noopener noreferrer nofollow" target="_blank">https://ourworldindata.org/grapher/annual-co-emissions-by-region?time=latest</a>
 </p>
-<p><sup>5</sup>Our World in Data. Per capita CO₂ emissions. <a href="https://ourworldindata.org/grapher/co-emissions-per" rel="noopener noreferrer nofollow" target="_blank">https://ourworldindata.org/grapher/co-emissions-per</a> capita?tab=table</p>
+<p><sup>5</sup>Our World in Data. Per capita CO₂ emissions. <a href="https://ourworldindata.org/grapher/co-emissions-per-capita?tab=table" rel="noopener noreferrer nofollow" target="_blank">https://ourworldindata.org/grapher/co-emissions-per capita?tab=table</a>
+</p>
 <p><sup>6</sup>McKinsey Global Institute. Asia on the cusp of a new era.
 <a href="https://www.mckinsey.com/mgi/our%20research/asia-on-the-cusp-of-a-new-era" rel="noopener noreferrer nofollow" target="_blank">https://www.mckinsey.com/mgi/our research/asia-on-the-cusp-of-a-new-era</a>
 </p>
 <p><sup>7</sup>Energy Market Authority. Singapore Doubles Power Import Capacity
-Under LTMS-PIP Phase 2. <a href="https://www.ema.gov.sg/news-events/news/media-releases/2024/singapore-doubles-power-import-capacity-under-ltms-pip-phase-2" rel="noopener noreferrer nofollow" target="_blank">https://www.ema.gov.sg/news-events/news/media-releases/2024/singapore-doubles-power-import capacity-under-ltms-pip-phase-2 </a>
+Under LTMS-PIP Phase 2. <a href="https://www.ema.gov.sg/news-events/news/media-releases/2024/singapore-doubles-power-import-capacity-under-ltms-pip-phase-2" rel="noopener noreferrer nofollow" target="_blank">https://www.ema.gov.sg/news-events/news/media-releases/2024/singapore-doubles-power-import capacity-under-ltms-pip-phase-2</a>
 </p>
 <p><sup>8</sup>Recessary. ASEAN power grid could drive economic growth, halve
-air pollution, study finds. <a href="https://reccessary.com/en/news/asean-market/regional-power-grid-interconnections-benefits-asean-countries" rel="noopener noreferrer nofollow" target="_blank">https://reccessary.com/en/news/asean-market/regional-power-grid-interconnections-benefits-asean countries</a> 
+air pollution, study finds. <a href="https://reccessary.com/en/news/asean-market/regional-power-grid-interconnections-benefits-asean-countries" rel="noopener noreferrer nofollow" target="_blank">https://reccessary.com/en/news/asean-market/regional-power-grid-interconnections-benefits-asean countries</a>
 </p>
 <p><sup>9</sup>Farmonaut. Bridging the Climate Finance Gap: Southeast Asia’s
 $1 Trillion Challenge for Sustainable Development by 2035. <a href="https://farmonaut.com/asia/bridging-the-climate-finance-gap-southeast-asias-1-trillion-challenge-for-sustainable-development-by-2035/" rel="noopener noreferrer nofollow" target="_blank">https://farmonaut.com/asia/bridging-the-climate-finance-gap southeast-asias-1-trillion-challenge-for-sustainable-development-by-2035/</a>
