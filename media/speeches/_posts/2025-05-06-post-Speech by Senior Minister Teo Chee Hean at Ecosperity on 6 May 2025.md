@@ -117,9 +117,9 @@ adaptation, and the transformation of economies. Without sufficient financing,
 the drive to decarbonise will sputter.</p>
 <p>Unfortunately, Southeast Asia faces a significant financing gap for green
 investments, this is estimated at over US$210 billion annually through
-to 2030.9 Many governments in our region face budget pressures. The private
-sector has resources to deploy, but is understandably wary about the risks
-and returns of green investments.</p>
+to 2030.<sup>9</sup> Many governments in our region face budget pressures.
+The private sector has resources to deploy, but is understandably wary
+about the risks and returns of green investments.</p>
 <p>To move forward, Asia needs innovative financial solutions involving stronger
 public-private partnerships. Blended finance can be a powerful tool, as
 it helps to de risk investments and makes projects more attractive to commercial
@@ -142,12 +142,12 @@ can help unlock another area of potential for the region: nature-based
 carbon solutions.</p>
 <p>Southeast Asia is home to some of the world’s richest ecosystems – 15%
 of the world’s tropical forests, more than a fifth of the world’s mangroves,
-and 23 million hectares of peatlands.10 Recently, the Integrity Council
-for the Voluntary Carbon Market (ICVCM) – a well-known international organisation
-for carbon credit supply side integrity – approved several methodologies
-to support high integrity carbon credits that reduce emissions from deforestation
-and forest degradation in developing countries. This shows that credible
-nature-based carbon credits are possible.</p>
+and 23 million hectares of peatlands.<sup>10</sup> Recently, the Integrity
+Council for the Voluntary Carbon Market (ICVCM) – a well-known international
+organisation for carbon credit supply side integrity – approved several
+methodologies to support high integrity carbon credits that reduce emissions
+from deforestation and forest degradation in developing countries. This
+shows that credible nature-based carbon credits are possible.</p>
 <p>Carbon credits can also help drive energy decarbonisation. Asia’s existing
 coal fired power plants, if left operational, will consume about two-thirds
 of the carbon budget available for the world to meet the 1.5 degrees Celsius
