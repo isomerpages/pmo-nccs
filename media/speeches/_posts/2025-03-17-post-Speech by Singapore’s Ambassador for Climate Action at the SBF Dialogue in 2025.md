@@ -583,29 +583,29 @@ but whether we do it on your own terms or are forced to react later.</p>
 <hr>
 <p><em><sup>1</sup></em>United States Environmental Protection Agency. (2025,
 March 12). EPA Launches Biggest Deregulatory Action in U.S. History. Retrieved
-from <a rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/newsreleases/epa-launches-biggest-deregulatory-action-us-history</a>
+from <a href="https://www.epa.gov/newsreleases/epa-launches-biggest-deregulatory-action-us-history" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/newsreleases/epa-launches-biggest-deregulatory-action-us-history</a>
 </p>
 <p><em><sup>2</sup></em>State Council of the People's Republic of China.
 (2025, March 12). Full text: Report on the Work of the Government. Retrieved
-from <a rel="noopener noreferrer nofollow" target="_blank">https://english.www.gov.cn/news/202503/12/content_WS67d17f64c6d0868f4e8f0c10.html</a>
+from <a href="https://english.www.gov.cn/news/202503/12/content_WS67d17f64c6d0868f4e8f0c10.html" rel="noopener noreferrer nofollow" target="_blank">https://english.www.gov.cn/news/202503/12/content_WS67d17f64c6d0868f4e8f0c10.html</a>
 </p>
 <p><em><sup>3</sup></em>CDP Worldwide. (2024, June). The state of play 2023:
-Climate transition plan disclosure. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://cdn.cdp.net/cdp-production/cms/reports/documents/000/007/783/original/CDP_Climate_Transition_Plans_2024.pdf?1720436354</a>
+Climate transition plan disclosure. Retrieved from <a href="https://cdn.cdp.net/cdp-production/cms/reports/documents/000/007/783/original/CDP_Climate_Transition_Plans_2024.pdf?1720436354" rel="noopener noreferrer nofollow" target="_blank">https://cdn.cdp.net/cdp-production/cms/reports/documents/000/007/783/original/CDP_Climate_Transition_Plans_2024.pdf?1720436354</a>
 </p>
 <p><em><sup>4</sup></em>Standard Chartered. (2021, June 7). Carbon dated:
 Multinational companies planning to cut suppliers by 2025 for failing to
-curb carbon emissions. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.sc.com/us/2021/06/08/carbon-dated-multinational-companies-planning-to-cut-suppliers-by-2025-for-failing-to-curb-carbon-emissions/</a>
+curb carbon emissions. Retrieved from <a href="https://www.sc.com/us/2021/06/08/carbon-dated-multinational-companies-planning-to-cut-suppliers-by-2025-for-failing-to-curb-carbon-emissions/" rel="noopener noreferrer nofollow" target="_blank">https://www.sc.com/us/2021/06/08/carbon-dated-multinational-companies-planning-to-cut-suppliers-by-2025-for-failing-to-curb-carbon-emissions/</a>
 </p>
 <p><em><sup>5</sup></em>Homaio. (2025). What are the EUA price forecasts
-for 2030? Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.homaio.com/post/what-are-the-eua-price-forecasts-for-2030</a>
+for 2030? Retrieved from <a href="https://www.homaio.com/post/what-are-the-eua-price-forecasts-for-2030" rel="noopener noreferrer nofollow" target="_blank">https://www.homaio.com/post/what-are-the-eua-price-forecasts-for-2030</a>
 </p>
 <p><em><sup>6</sup></em>Centre for Climate Research Singapore (CCRS). (2025).
 Third National Climate Change Study (V3). National Environment Agency.
-Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.mss-int.sg/docs/default-source/v3_reports/v3-stakeholder-report_20240306.pdf</a>
+Retrieved from <a href="https://www.mss-int.sg/docs/default-source/v3_reports/v3-stakeholder-report_20240306.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.mss-int.sg/docs/default-source/v3_reports/v3-stakeholder-report_20240306.pdf</a>
 </p>
 <p><em><sup>7</sup></em>National University of Singapore (NUS). (2025, March
 15). Heat stress causes lower fertility, productivity, and reduced cognitive
-capacity: Project HeatSafe. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://medicine.nus.edu.sg/news/heat-stress-causes-lower-fertility-productivity-and-reduced-cognitive-capacity-project-heatsafe/</a>
+capacity: Project HeatSafe. Retrieved from <a href="https://medicine.nus.edu.sg/news/heat-stress-causes-lower-fertility-productivity-and-reduced-cognitive-capacity-project-heatsafe/" rel="noopener noreferrer nofollow" target="_blank">https://medicine.nus.edu.sg/news/heat-stress-causes-lower-fertility-productivity-and-reduced-cognitive-capacity-project-heatsafe/</a>
 </p>
 <p><em><sup>8</sup></em>Enterprise Singapore’s Enterprise Sustainability
 Programme (ESP) offers support for businesses looking to integrate sustainability
@@ -614,18 +614,18 @@ program includes sustainability courses on decarbonisation and sustainability
 finance, sustainability playbooks that offer sector-specific guidance,
 as well as grants (e.g., Enterprise Development Grant, Sustainability reporting
 grant) that help businesses build capability. Enterprise Singapore (2024).
-Enterprise Sustainability Programme. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.enterprisesg.gov.sg/grow-your-business/boost-capabilities/sustainability/enterprise-sustainability-programme</a>
+Enterprise Sustainability Programme. Retrieved from <a href="https://www.enterprisesg.gov.sg/grow-your-business/boost-capabilities/sustainability/enterprise-sustainability-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.enterprisesg.gov.sg/grow-your-business/boost-capabilities/sustainability/enterprise-sustainability-programme</a>
 </p>
 <p><em><sup>9</sup></em>Robeco. (2024). 2024 Global Climate Investing Survey.
-Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.robeco.com/files/docm/docu-202405-robeco-global-climate-investing-survey.pdf</a>
+Retrieved from <a href="https://www.robeco.com/files/docm/docu-202405-robeco-global-climate-investing-survey.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.robeco.com/files/docm/docu-202405-robeco-global-climate-investing-survey.pdf</a>
 </p>
 <p><em><sup>10</sup></em>Accenture &amp; WWF-Singapore. (2021). Study reveals
 a clear unmet consumer demand for sustainable products in Singapore: Sustainability
-in Singapore – Consumer and Business Opportunities. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.wwf.sg/study-reveals-a-clear-unmet-consumer-demand-for-sustainable-products-in-singapore-accenture-and-wwf/</a>
+in Singapore – Consumer and Business Opportunities. Retrieved from <a href="https://www.wwf.sg/study-reveals-a-clear-unmet-consumer-demand-for-sustainable-products-in-singapore-accenture-and-wwf/" rel="noopener noreferrer nofollow" target="_blank">https://www.wwf.sg/study-reveals-a-clear-unmet-consumer-demand-for-sustainable-products-in-singapore-accenture-and-wwf/</a>
 </p>
 <p><em><sup>11</sup></em>Deloitte. (2024, May 17). Deloitte’s 2024 Gen Z
 and Millennial Survey finds these generations stay true to their values
-as they navigate a rapidly changing world. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www2.deloitte.com/sg/en/pages/about-deloitte/articles/gen-z-millennial-survey-finds-generations-stay-true-to-their-values.html</a>
+as they navigate a rapidly changing world. Retrieved from <a href="https://www2.deloitte.com/sg/en/pages/about-deloitte/articles/gen-z-millennial-survey-finds-generations-stay-true-to-their-values.html" rel="noopener noreferrer nofollow" target="_blank">https://www2.deloitte.com/sg/en/pages/about-deloitte/articles/gen-z-millennial-survey-finds-generations-stay-true-to-their-values.html</a>
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
