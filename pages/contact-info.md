@@ -1,8 +1,8 @@
 ---
 title: Contact Info
 permalink: /pages/contact-us/contact-info/
+variant: markdown
 ---
-
 # Get in touch with    
 # National Climate Change Secretariat
 ### HQ Address
@@ -18,5 +18,4 @@ permalink: /pages/contact-us/contact-info/
 
 ### Send us your feedback  
 If you have a query, feedback or wish to report a problem<br>
-related to this website, please fill in the [<a href="https://form.gov.sg/#!/5df1d0ca0c936b00190cbfed" target="_blank">online form</a>](https://form.gov.sg/#!/5df1d0ca0c936b00190cbfed).
-
+related to this website, please fill in the [<a href="https://form.gov.sg/6811c7a47298dec787bf2927" target="_blank">online form</a>](https://form.gov.sg/6811c7a47298dec787bf2927).
