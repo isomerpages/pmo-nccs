@@ -2,6 +2,7 @@
 title: Singapore's Approach To Alternative Energy
 permalink: /singapores-climate-action/singapore-approach-to-alternative-energy/
 third_nav_title: National Circumstances
+variant: markdown
 ---
 ### SINGAPORE'S APPROACH TO ALTERNATIVE ENERGY
 
@@ -21,7 +22,7 @@ Singapore's high average annual solar irradiation of about 1,580 kWh/m<sup>2</su
 
 With the limited renewable energy options available to us and the current technological capabilities, we are not able to generate sufficient baseload electricity from renewable sources reliably for Singapore. Nevertheless, Singapore aims to deploy at least 2 gigawatt-peak of solar energy by 2030. This is equivalent to powering about 350,000 households for a year. 
 
-Singapore is investing in research and development as well as test-bedding to improve the performance of solar PV systems and develop innovative ways of intergrating solar energy systems into our urban environment. Some of our test-bedding projects include:
+Singapore is investing in research and development as well as test-bedding to improve the performance of solar PV systems and develop innovative ways of integrating solar energy systems into our urban environment. Some of our test-bedding projects include:
 
 * Housing and Development Board's initiative to install solar panels on rooftops of high-rise public housing developments, and  
 * Economic Development Board's and PUB's floating PV project, which will pilot solar panel installations on water surfaces at our reservoirs.
