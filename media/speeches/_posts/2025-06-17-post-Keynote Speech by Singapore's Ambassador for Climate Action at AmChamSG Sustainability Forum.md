@@ -13,7 +13,6 @@ variant: tiptap
 <hr>
 <p><strong>Why Climate Friendly is Business Friendly</strong>&nbsp;</p>
 <p>Good morning, ladies and gentlemen.&nbsp;&nbsp;</p>
-<p></p>
 <p>Two of the most frequent questions I get these days go something like
 this:&nbsp;</p>
 <ul>
@@ -30,7 +29,7 @@ and geopolitical conflicts, is it not prudent for countries and companies
 to take a pause on their climate and sustainability efforts?&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;There is an assumption underlying these questions:&nbsp; that investing
+<p>There is an assumption underlying these questions:&nbsp; that investing
 in sustainability is a cost burden that we can put off or minimise when
 times are bad.&nbsp; This assumption may seem to make sense but is ultimately
 flawed.&nbsp;</p>
@@ -53,10 +52,8 @@ the US.&nbsp;</p>
 supply chains.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>MAJOR ECONOMIES PRESSING ON WITH CLIMATE ACTION&nbsp;</p>
 <p><strong><em>First, major economies are pressing on with climate action.</em></strong>&nbsp;</p>
-<p></p>
 <p><strong><em>To be sure, the news coming out of the United States is not good for the planet.</em></strong>&nbsp;</p>
 <ul>
 <li>
@@ -69,7 +66,6 @@ back support for solar, wind, hydrogen hubs, and clean manufacturing.&nbsp;</p>
 <li>
 <p>The federal government has lowered emissions standards for vehicles and
 has proposed lowering them for gas and coal fired power plants as well.&nbsp;</p>
-<p></p>
 </li>
 </ul>
 <p>But these developments are only part of the story.&nbsp;&nbsp;</p>
@@ -81,7 +77,7 @@ has proposed lowering them for gas and coal fired power plants as well.&nbsp;</p
 anxieties about the higher cost of living, the effects of trade tariffs,
 and the ongoing war in Ukraine.&nbsp;</p>
 <p></p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>But according to a 2024 survey, 9 in 10 Europeans agree that climate action
 is needed<sup>1</sup>.&nbsp;&nbsp; The real issue is that many citizens
@@ -89,13 +85,14 @@ lack confidence in their governments' ability to implement effective and
 fair climate policies.&nbsp;</p>
 </li>
 </ul>
+</li>
+</ul>
 <ul>
 <li>
 <p>Yes, the EU has proposed easing its sustainability reporting requirements,
 excluding from scope about 80% of companies previously included.&nbsp;&nbsp;</p>
-</li>
-</ul>
-<ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p>But these adjustments are being made relative to extremely strict rules
 under the original Corporate Sustainability Reporting Directive, which
@@ -103,19 +100,22 @@ had required detailed subsidiary reporting.&nbsp; By focusing on larger
 companies, the EU is seeking to balance ambition with practical implementation.&nbsp;</p>
 </li>
 </ul>
-<ul>
-<li>
-<p>Actions speak louder than words. The EU is almost on track to meet its
-ambitious 2030 climate targets.&nbsp;</p>
 </li>
 </ul>
 <ul>
+<li>
+<p>Actions speak louder than words. The EU is almost on track to meet its
+ambitious 2030 climate targets.&nbsp;
+<br>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Its greenhouse gas emissions cuts are just 1% shy of its 55% reduction
 target relative to 1990 levels.&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+</li>
+</ul>
 <p><strong><em>Canada, Australia, and the UK have reaffirmed their climate commitments</em>.</strong>&nbsp;</p>
 <ul>
 <li>
