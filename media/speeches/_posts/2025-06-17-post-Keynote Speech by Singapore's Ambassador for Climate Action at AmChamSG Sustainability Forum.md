@@ -138,7 +138,6 @@ gas emissions by 81% by 2035 compared to 1990 levels: a significant step-up
 in ambition compared to previous pledges.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><em>Japan has launched a bold Green Transformation (GX) programme.&nbsp;</em></strong>&nbsp;</p>
 <ul>
 <li>
@@ -158,44 +157,41 @@ fuels.&nbsp;</p>
 <p>From FY2033, emission allowances for the power sector will be auctioned.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><em>China is rapidly emerging as a leader in climate action and the green economy.</em></strong>&nbsp;</p>
 <ul>
 <li>
 <p>China sees the green economy as an important driver of economic growth.&nbsp;</p>
-</li>
-</ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Renewable energy, led by electric vehicles, batteries, and solar, accounted
 for one-quarter of China’s GDP growth last year.&nbsp;</p>
 </li>
 </ul>
-<ul>
-<li>
-<p>It is pressing ahead with its transition, undaunted by the external environment.&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ul>
 <ul>
+<li>
+<p>It is pressing ahead with its transition, undaunted by the external environment.&nbsp;</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>In April this year, President Xi Jin Ping declared: <em>“Regardless of changes in the international landscape, China’s efforts to combat climate change will not slow down …”</em>&nbsp;</p>
 </li>
 </ul>
-<ul>
-<li>
-<p>Words are being matched by actions.&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ul>
 <ul>
+<li>
+<p>Words are being matched by actions.&nbsp;</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>In recent years, China has been building as much renewable energy capacity
 as the rest of the world put together.&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>China dominates the EV market, accounting for 65% of global EV sales in
 2024.<sup>2</sup>&nbsp;</p>
+</li>
+</ul>
 </li>
 </ul>
 <ul>
@@ -206,7 +202,6 @@ making in areas ranging from renewables and hydrogen to carbon capture
 and biofuels.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><em>Singapore is staying the course on climate action.&nbsp;</em></strong>&nbsp;</p>
 <ul>
 <li>
@@ -234,7 +229,6 @@ is necessary for our long-term future in a carbon-constrained and climate-impair
 world.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><em>We are taking concrete steps to meet our net-zero goal.</em></strong>&nbsp;</p>
 <ul>
 <li>
@@ -266,10 +260,8 @@ or hybrid by 2040.&nbsp;</p>
 carbon capture technologies at waste-to-energy plants.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>GLOBAL ENERGY MIX SHIFTING TOWARDS RENEWABLES&nbsp;</p>
 <p><strong><em>A second reason businesses should continue to focus on sustainability is the decisive shift in global energy mix towards renewables</em></strong>.&nbsp;</p>
-<p></p>
 <p><strong><em>Solar and wind are now the world’s largest source of new electricity</em></strong><sup>3</sup>.&nbsp;</p>
 <ul>
 <li>
@@ -281,28 +273,27 @@ carbon capture technologies at waste-to-energy plants.&nbsp;</p>
 <li>
 <p>Renewable energy is now cheaper than fossil fuel energy in many parts
 of the world.&nbsp;</p>
-</li>
-</ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>In 2010, the levelised cost of electricity from solar PV was three times
 that of the weighted average of fossil fuel-fired alternatives.&nbsp; Today,
 it is 50% <em>cheaper</em>.&nbsp;</p>
 </li>
 </ul>
+</li>
+</ul>
 <ul>
 <li>
 <p>Investment in clean energy globally hit US$2 trillion in 2024 - nearly
 double the amount for fossil fuels<sup>5</sup>.&nbsp;</p>
-</li>
-</ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>The United States has seen record-breaking growth in renewables, despite
 political headwinds<sup>6</sup>.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+</li>
+</ul>
 <p><strong><em>The shift towards electric vehicles is gathering pace across the world.</em></strong>&nbsp;</p>
 <ul>
 <li>
@@ -312,15 +303,14 @@ political headwinds<sup>6</sup>.&nbsp;</p>
 <ul>
 <li>
 <p>EV sales are surging in many countries.&nbsp;&nbsp;</p>
-</li>
-</ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Over 17 million electric cars were sold worldwide in 2024— accounting
 for more than 20% of all car sales, up from just 2% in 2018<sup>8</sup>.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+</li>
+</ul>
 <p><strong><em>Companies looking to the future are investing across the renewables value chain.</em></strong>&nbsp;</p>
 <ul>
 <li>
@@ -343,13 +333,11 @@ maintain its leadership in smart energy technology.&nbsp;</p>
 of its total capital spending, in renewable energy through 2028<sup>9</sup>.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>POLICY AND BUSINESS MEASURES DRIVING DECARBONISATION&nbsp;</p>
-<p>&nbsp;</p>
 <p>The third reason why businesses must stay focused on sustainability is
 that policy and business measures are driving decarbonisation across supply
 chains globally.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong><em>Carbon prices are slowly but surely becoming more common and more pervasive.</em></strong>&nbsp;</p>
 <ul>
 <li>
@@ -377,31 +365,30 @@ its emissions intensive sectors toward cleaner production<sup>11</sup>.&nbsp;&nb
 <li>
 <p>The EU now requires companies to monitor and report on their supply chains’
 environmental impacts<sup>12</sup>.&nbsp;&nbsp;</p>
-</li>
-</ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Exporters to the EU, especially from Asia, must strengthen traceability
 and compliance or risk losing market access.&nbsp;</p>
+</li>
+</ul>
 </li>
 </ul>
 <ul>
 <li>
 <p>It’s not just countries.&nbsp; Global MNCs are also placing requirements
 on their supply chains.&nbsp;</p>
-</li>
-</ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Apple requires its suppliers - covering 95% of its direct manufacturing
 - to use 100% renewable energy by 2030<sup>13</sup>.&nbsp;&nbsp;</p>
+</li>
+</ul>
 </li>
 </ul>
 <p>&nbsp;</p>
 <p>ECONOMIC OPPORTUNITIES IN THE GREEN TRANSITION&nbsp;</p>
 <p>Let me highlight three areas of opportunity for US companies to invest
 in the green transition in Singapore and Southeast Asia.&nbsp;</p>
-<p></p>
 <p><strong><em>First, green finance and carbon infrastructure</em>.</strong>&nbsp;</p>
 <ul>
 <li>
@@ -421,7 +408,6 @@ in 2024, with the bulk of it anchored in Singapore and Malaysia<sup>14</sup>.&nb
 carbon markets, and catalyse regional green capital flows&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><em>Second, clean energy and transition technologies.</em></strong>&nbsp;</p>
 <ul>
 <li>
@@ -442,8 +428,7 @@ storage will find demand for new projects in Singapore and scalable models
 across ASEAN.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong><em>Third, agri-tech and sustainable food systems.</em></strong>&nbsp;</p>
+<p>&nbsp;<strong><em>Third, agri-tech and sustainable food systems.</em></strong>&nbsp;</p>
 <ul>
 <li>
 <p>Singapore is a growing regional hub for agri-processing and bioeconomy
@@ -472,10 +457,9 @@ region to meet the growing demand for resilient, climate-adapted food systems.&n
 </li>
 </ul>
 <p></p>
-<p>&nbsp;</p>
+<p>CONCLUSION&nbsp;</p>
 <p>Let me conclude.&nbsp;</p>
 <p><strong><em>The trade-off in climate efforts is not between sustainability and competitiveness but between short-term competitiveness and long-term competitiveness</em></strong>.&nbsp;&nbsp;&nbsp;</p>
-<p></p>
 <p><strong><em>Investing in climate action may seem to dent short-term competitiveness but is critical for long-term competitiveness</em></strong>.&nbsp;</p>
 <ul>
 <li>
@@ -497,7 +481,6 @@ some IT projects.&nbsp; But there can be no change in overall direction
 as companies.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><em>Similarly, sustainability should be seen as a strategic national and business priority</em></strong>.&nbsp;&nbsp;&nbsp;</p>
 <ul>
 <li>
@@ -508,22 +491,18 @@ only get worse.&nbsp;</p>
 <ul>
 <li>
 <p>Decarbonisation is therefore not a choice but a necessity:&nbsp;</p>
-</li>
-</ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>it is not a cost burden but an investment in future growth;&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>not a constraint on economic opportunity but a source of competitive advantage.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+</li>
+</ul>
 <p>And lest we forget, it is also the right thing to do – for our people
 and our planet.&nbsp;</p>
-<p></p>
 <hr>
 <p><sup>1 </sup>Bruegel. (2025, February 25). Europeans still want climate
 action, but don’t trust governments to deliver. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.bruegel.org/policy-brief/europeans-still-want-climate-action-dont-trust-governments-deliver</a>
