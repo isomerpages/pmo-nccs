@@ -333,7 +333,6 @@ maintain its leadership in smart energy technology.&nbsp;</p>
 of its total capital spending, in renewable energy through 2028<sup>9</sup>.&nbsp;</p>
 </li>
 </ul>
-<p></p>
 <p>POLICY AND BUSINESS MEASURES DRIVING DECARBONISATION&nbsp;</p>
 <p>The third reason why businesses must stay focused on sustainability is
 that policy and business measures are driving decarbonisation across supply
@@ -359,7 +358,6 @@ most comprehensive - covers over 70% of national emissions and is pushing
 its emissions intensive sectors toward cleaner production<sup>11</sup>.&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><em>Supply chains are facing stricter environmental scrutiny</em></strong>.&nbsp;</p>
 <ul>
 <li>
@@ -385,7 +383,6 @@ on their supply chains.&nbsp;</p>
 </ul>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>ECONOMIC OPPORTUNITIES IN THE GREEN TRANSITION&nbsp;</p>
 <p>Let me highlight three areas of opportunity for US companies to invest
 in the green transition in Singapore and Southeast Asia.&nbsp;</p>
@@ -456,7 +453,6 @@ food systems can pilot solutions in Singapore, then scale them across the
 region to meet the growing demand for resilient, climate-adapted food systems.&nbsp;</p>
 </li>
 </ul>
-<p></p>
 <p>CONCLUSION&nbsp;</p>
 <p>Let me conclude.&nbsp;</p>
 <p><strong><em>The trade-off in climate efforts is not between sustainability and competitiveness but between short-term competitiveness and long-term competitiveness</em></strong>.&nbsp;&nbsp;&nbsp;</p>
