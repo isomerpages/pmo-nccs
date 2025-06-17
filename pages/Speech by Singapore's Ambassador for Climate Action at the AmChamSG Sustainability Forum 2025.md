@@ -5,7 +5,7 @@ permalink: /speech-by-singapore-s-ambassador-for-climate-action-at-the-amchamsg-
 variant: tiptap
 description: ""
 ---
-<p><strong>SPEECH BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION AT THE AMERICAN CHAMBER SINGAPORE SUSTAINABILITY FORUM 2025 AT AMCHAMSG HUB, 17 JUNE 2025. </strong>
+<p><strong>SPEECH BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION AT THE AMERICAN CHAMBER SINGAPORE SUSTAINABILITY FORUM 2025 AT AMCHAMSG HUB, 17 JUNE 2025.</strong>
 </p>
 <hr>
 <p><strong>Why Climate Friendly is Business Friendly</strong>&nbsp;</p>
