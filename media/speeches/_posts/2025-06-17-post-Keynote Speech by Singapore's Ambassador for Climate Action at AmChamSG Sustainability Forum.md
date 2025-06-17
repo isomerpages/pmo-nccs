@@ -8,3 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>KEYNOTE ADDRESS AT AMERICAN CHAMBER SINGAPORE SUSTAINABILITY FORUM AMCHAMSG HUB, SHAW CENTRE, SINGAPORE, 17 JUNE 2025</strong>
+</p>
+<hr>
+<p></p>
