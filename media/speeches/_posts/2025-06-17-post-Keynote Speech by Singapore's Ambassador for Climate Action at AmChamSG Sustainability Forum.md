@@ -528,63 +528,47 @@ and our planet.&nbsp;</p>
 <p><sup>1 </sup>Bruegel. (2025, February 25). Europeans still want climate
 action, but don’t trust governments to deliver. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.bruegel.org/policy-brief/europeans-still-want-climate-action-dont-trust-governments-deliver</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>2 </sup>Rhodium Group. (2025, June 4). Transatlantic Clean Investment
 Monitor: A Perspective on Electric Vehicles. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://rhg.com/research/transatlantic-clean-investment-monitor-a-perspective-on-electric-vehicles</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>3 </sup>International Energy Agency. (2025, March). Global Energy
 Review 2025. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/global-energy-review-2025/coal</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>4 </sup>International Energy Agency. (2024, October). Renewables
 2024. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/renewables-2024/global-overview</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>5 </sup>International Energy Agency. (2024, June). World Energy Investment
 2024. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/world-energy-investment-2024/overview-and-key-findings</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>6 </sup>The Guardian. (2025, Feb 12). Record-breaking growth in renewable
 energy in US threatened by Trump. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.theguardian.com/us-news/2025/feb/12/renewable-energy-growth-trump</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>7 </sup>International Energy Agency. (2024). Batteries and Secure
-Energy Transition. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/batteries-and-secure-energy-transitions/status-of-battery-demand-and-supply</a>
-</p>
-<p>&nbsp;</p>
+Energy Transition. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/batteries-and-secure-energy-transitions/status-of-battery-demand-and-supply</a>&nbsp;</p>
 <p><sup>8 </sup>International Energy Agency. (2025). Global EV Outlook 2025.
 Retrieved from&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.iea.org/reports/global-ev-outlook-2025/trends-in-electric-car-markets-2</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>9 </sup>Straits Times. (2024, November 11). Sembcorp to invest $10.5
 billion in renewable energy over next 5 years. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/business/sembcorp-to-invest-105-billion-in-renewable-energy-over-next-5-years</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>10 </sup>European Commission. (2025, March 28). Carbon Border Adjustment
 Mechanism. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>11 </sup>International Carbon Action Partnership. (2024). Korea Emissions
 Trading System (K-ETS). Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://icapcarbonaction.com/en/ets/korea-emissions-trading-system-k-ets</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>12 </sup>European Commission. (2024, July 25). Corporate sustainability
 due diligence. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://commission.europa.eu/business-economy-euro/doing-business-eu/sustainability-due-diligence-responsible-business/corporate-sustainability-due-diligence_en</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>13 </sup>Apple. (2024, April 17). Apple ramps up investment in clean
 energy and water around the world. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.apple.com/newsroom/2024/04/apple-ramps-up-investment-in-clean-energy-and-water-around-the-world/</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>14 </sup>2025 Southeast Asia Green Economy Report. (2025, May 6).
-Retrieved from: <a rel="noopener noreferrer nofollow" target="_blank">https://www.bain.com/insights/southeast-asias-green-economy-2025/</a>
+Retrieved from: <a rel="noopener noreferrer nofollow" target="_blank">https://www.bain.com/insights/southeast-asias-green-economy-2025</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>15 </sup>2025 Southeast Asia Green Economy Report. (2025, May 6).
 Retrieved from: <a rel="noopener noreferrer nofollow" target="_blank">https://www.bain.com/insights/southeast-asias-green-economy-2025/</a>
 </p>
-<p>&nbsp;</p>
 <p><sup>16 </sup>Temasek Trust. (2025, Jan 24). Retrieved from: <a rel="noopener noreferrer nofollow" target="_blank">https://www.temasektrust.org.sg/newsroom/tll-decarbonising-rice-gaea-award</a>
 </p>
 <p>&nbsp;</p>
