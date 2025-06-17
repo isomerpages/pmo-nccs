@@ -505,7 +505,7 @@ only get worse.&nbsp;</p>
 and our planet.&nbsp;</p>
 <hr>
 <p><sup>1 </sup>Bruegel. (2025, February 25). Europeans still want climate
-action, but don’t trust governments to deliver. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://www.bruegel.org/policy-brief/europeans-still-want-climate-action-dont-trust-governments-deliver</a>
+action, but don’t trust governments to deliver. Retrieved from <a href="https://www.bruegel.org/policy-brief/europeans-still-want-climate-action-dont-trust-governments-deliver" rel="noopener noreferrer nofollow" target="_blank">https://www.bruegel.org/policy-brief/europeans-still-want-climate-action-dont-trust-governments-deliver</a>
 </p>
 <p><sup>2 </sup>Rhodium Group. (2025, June 4). Transatlantic Clean Investment
 Monitor: A Perspective on Electric Vehicles. Retrieved from <a rel="noopener noreferrer nofollow" target="_blank">https://rhg.com/research/transatlantic-clean-investment-monitor-a-perspective-on-electric-vehicles</a>
