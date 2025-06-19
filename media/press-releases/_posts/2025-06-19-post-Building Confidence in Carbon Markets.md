@@ -7,8 +7,6 @@ description: Building Confidence in Carbon Markets
 image: ""
 variant: tiptap
 ---
-<p><strong>BUILDING CONFIDENCE IN CARBON MARKETS</strong>
-</p>
 <p>The National Climate Change Secretariat (NCCS), the Ministry of Trade
 and Industry (MTI), and Enterprise Singapore (EnterpriseSG) jointly issued
 a draft guidance today on how companies can voluntarily use carbon credits
@@ -34,9 +32,9 @@ on the VCM, including how companies can use carbon credits as part of a
 credible decarbonisation plan and how to determine a high-quality carbon
 credit.</p>
 <p>In response to this industry feedback, NCCS, MTI and EnterpriseSG have
-worked with the Singapore Sustainable Finance Association (SSFA) and industry
-partners across the carbon credit value chain to draft guidance for companies
-looking to purchase carbon credits. The guidance:</p>
+worked with the <a href="https://www.ssfa.org.sg" rel="noopener nofollow" target="_blank">Singapore Sustainable Finance Association (SSFA)</a> and
+industry partners across the carbon credit value chain to draft guidance
+for companies looking to purchase carbon credits. The guidance:</p>
 <p>(a) aligns to approaches that governments have agreed to adopt as buyers
 of carbon credits under Article 6 of the Paris Agreement, where relevant;</p>
 <p>(b) emphasises that carbon credits should have high environmental integrity;</p>
@@ -47,8 +45,8 @@ by companies looking to meet their voluntary climate commitments as these
 credits are not counted towards Nationally Determined Contributions.</p>
 <p>The draft guidance is part of the Singapore government’s broader strategy
 to promote a vibrant, high-integrity carbon market. Key initiatives include:</p>
-<p>(a) allowing carbon tax-liable companies to use eligible Article 6-compliant
-carbon credits to offset up to 5% of their taxable emissions;</p>
+<p>(a) allowing carbon tax-liable companies to use eligible <a href="https://www.carbonmarkets-cooperation.gov.sg/" rel="noopener nofollow" target="_blank">Article 6-compliant carbon credits</a> to
+offset up to 5% of their taxable emissions;</p>
 <p>(b) requiring companies to disclose the role of carbon credits in their
 decarbonisation strategy, as part of climate reporting requirements aligned
 to the International Sustainability Standards Board;</p>
