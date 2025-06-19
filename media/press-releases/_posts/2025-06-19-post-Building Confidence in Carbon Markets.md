@@ -68,8 +68,8 @@ Common Carbon Framework to support high-quality credit supply and demand
 signals.</p>
 <p>NCCS, MTI and EnterpriseSG invite businesses and members of the public
 to provide feedback on the scope and content of the draft VCM guidance
-[<a href="/files/docs/default-source/default-document-library/Draft_Voluntary_Carbon_Market_Guidance_For_Public_Consultation__June_2025_.pdf" rel="noopener nofollow" target="_blank">Draft Voluntary Carbon Market Guidance_For Public Consultation (June 2025)</a>]
-by 20 July 2025. Feedback can be submitted via <a href="https://www.go.gov.sg/vcmguidance" rel="noopener nofollow" target="_blank">https://www.go.gov.sg/vcmguidance</a> from
+<a href="/files/docs/default-source/default-document-library/Draft_Voluntary_Carbon_Market_Guidance_For_Public_Consultation__June_2025_.pdf" rel="noopener nofollow" target="_blank">Draft Voluntary Carbon Market Guidance_For Public Consultation (June 2025)</a>by
+20 July 2025. Feedback can be submitted via <a href="https://www.go.gov.sg/vcmguidance" rel="noopener nofollow" target="_blank">https://www.go.gov.sg/vcmguidance</a> from
 20 June to 20 July 2025.</p>
 <p></p>
 <hr>
