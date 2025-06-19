@@ -19,9 +19,9 @@ to net zero. They help to (i) channel capital to decarbonisation projects
 that would have otherwise not occurred, especially in emerging markets
 and developing economies; and (ii) provide companies a complementary tool
 to meet their decarbonisation targets in the face of hard-to-abate emissions.
-Entities may purchase carbon credits for compliance or voluntary purposes.
-Carbon credits used by companies to meet their voluntary climate commitments
-are traded on the voluntary carbon market (VCM).</p>
+Entities may purchase carbon credits for compliance<sup>1</sup> or voluntary
+purposes. Carbon credits used by companies to meet their voluntary climate
+commitments are traded on the voluntary carbon market (VCM).</p>
 <p>However, the growth of carbon markets has been constrained by a few factors.
 One of the main challenges in the VCM is the lack of standardisation which
 has led to confusion around various industry-led standards. This has undermined
@@ -32,7 +32,7 @@ on the VCM, including how companies can use carbon credits as part of a
 credible decarbonisation plan and how to determine a high-quality carbon
 credit.</p>
 <p>In response to this industry feedback, NCCS, MTI and EnterpriseSG have
-worked with the <a href="https://www.ssfa.org.sg" rel="noopener nofollow" target="_blank">Singapore Sustainable Finance Association (SSFA)</a> and
+worked with the <a href="https://www.ssfa.org.sg/" rel="noopener nofollow" target="_blank">Singapore Sustainable Finance Association (SSFA)</a> and
 industry partners across the carbon credit value chain to draft guidance
 for companies looking to purchase carbon credits. The guidance:</p>
 <p>(a) aligns to approaches that governments have agreed to adopt as buyers
@@ -51,14 +51,15 @@ offset up to 5% of their taxable emissions;</p>
 decarbonisation strategy, as part of climate reporting requirements aligned
 to the International Sustainability Standards Board;</p>
 <p>(c) supporting access to high-quality Article 6 carbon credits through
-the Carbon Project Development Grant;</p>
+the Carbon Project Development Grant<sup>2</sup>;</p>
 <p>(d) building a vibrant carbon services and trading ecosystem in Singapore,
 comprising project developers, traders, advisory firms, and monitoring,
 reporting and verification (MRV) services;</p>
 <p>(e) rolling out capacity building opportunities for carbon projects in
 the region; and</p>
 <p>(f) engaging like-minded countries to provide consistent guidance to companies
-on carbon credits.</p>
+on carbon credits.<sup>3</sup>
+</p>
 <p>The industry has also been taking been taking steps to grow the carbon
 markets. For example, SSFA is surveying companies for a potential Claims
 Guidance Code to complement the Singapore Government’s VCM guidance, and
@@ -67,8 +68,19 @@ Common Carbon Framework to support high-quality credit supply and demand
 signals.</p>
 <p>NCCS, MTI and EnterpriseSG invite businesses and members of the public
 to provide feedback on the scope and content of the draft VCM guidance
-by 20 July 2025. Feedback can be submitted via <a href="https://www.go.gov.sg/vcmguidance" rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/vcmguidance</a> from
+by 20 July 2025. Feedback can be submitted via <a href="https://www.go.gov.sg/vcmguidance" rel="noopener nofollow" target="_blank">https://www.go.gov.sg/vcmguidance</a> from
 20 June to 20 July 2025.</p>
+<hr>
+<p><sup>1 </sup>Examples of compliance purposes include meeting regulatory
+requirements and national commitments under the United Nations Framework
+Convention on Climate Change.</p>
+<p><sup>2 </sup>At COP29 in November 2024, the Economic Development Board
+(EDB) launched the Carbon Project Development Grant to provide support
+for leading project developers to originate early-stage Article-6 carbon
+projects. The Temasek Trust Foundation Advisors is partnering EDB to crowd
+in philanthropic capital for projects supported by the grant.</p>
+<p><sup>3 </sup>Singapore will be co-leading an initiative to be announced
+on 24 June 2025 during London Climate Action Week.</p>
 <p><a href="/files/docs/default-source/default-document-library/Draft_Voluntary_Carbon_Market_Guidance_For_Public_Consultation__June_2025_.pdf" rel="noopener nofollow" target="_blank">Draft Voluntary Carbon Market Guidance_For Public Consultation (June 2025)</a>
 </p>
 <p></p>
