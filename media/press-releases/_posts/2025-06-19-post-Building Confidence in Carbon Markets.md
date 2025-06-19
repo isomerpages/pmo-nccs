@@ -70,6 +70,9 @@ signals.</p>
 to provide feedback on the scope and content of the draft VCM guidance
 by 20 July 2025. Feedback can be submitted via <a href="https://www.go.gov.sg/vcmguidance" rel="noopener nofollow" target="_blank">https://www.go.gov.sg/vcmguidance</a> from
 20 June to 20 July 2025.</p>
+<p></p>
+<p><a href="/files/docs/default-source/default-document-library/Draft_Voluntary_Carbon_Market_Guidance_For_Public_Consultation__June_2025_.pdf" rel="noopener nofollow" target="_blank">Draft Voluntary Carbon Market Guidance_For Public Consultation (June 2025)</a>
+</p>
 <hr>
 <p><sup>1 </sup>Examples of compliance purposes include meeting regulatory
 requirements and national commitments under the United Nations Framework
@@ -81,6 +84,3 @@ projects. The Temasek Trust Foundation Advisors is partnering EDB to crowd
 in philanthropic capital for projects supported by the grant.</p>
 <p><sup>3 </sup>Singapore will be co-leading an initiative to be announced
 on 24 June 2025 during London Climate Action Week.</p>
-<p><a href="/files/docs/default-source/default-document-library/Draft_Voluntary_Carbon_Market_Guidance_For_Public_Consultation__June_2025_.pdf" rel="noopener nofollow" target="_blank">Draft Voluntary Carbon Market Guidance_For Public Consultation (June 2025)</a>
-</p>
-<p></p>
