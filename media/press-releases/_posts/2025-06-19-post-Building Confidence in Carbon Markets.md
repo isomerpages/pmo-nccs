@@ -50,7 +50,7 @@ offset up to 5% of their taxable emissions;</p>
 <p>(b) requiring companies to disclose the role of carbon credits in their
 decarbonisation strategy, as part of climate reporting requirements aligned
 to the International Sustainability Standards Board;</p>
-<p>(c) supporting access to high-quality Article 6 carbon credits through
+<p>(c) supporting supply of high-quality Article 6 carbon credits through
 the Carbon Project Development Grant<sup>2</sup>;</p>
 <p>(d) building a vibrant carbon services and trading ecosystem in Singapore,
 comprising project developers, traders, advisory firms, and monitoring,
