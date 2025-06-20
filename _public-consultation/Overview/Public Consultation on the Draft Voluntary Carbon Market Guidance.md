@@ -5,7 +5,7 @@ variant: tiptap
 description: Public Consultation on the Draft Voluntary Carbon Market Guidance
 third_nav_title: Overview
 ---
-<h3>PUBLIC CONSULTATION ON THE DRAFT VOLUNTARY MARKET GUIDANCE</h3>
+<h3>PUBLIC CONSULTATION ON THE DRAFT VOLUNTARY CARBON MARKET GUIDANCE</h3>
 <p>The National Climate Change Secretariat (NCCS), the Ministry of Trade
 and Industry (MTI), and Enterprise Singapore (EnterpriseSG) jointly issued
 a draft guidance today on how companies can voluntarily use carbon credits
@@ -14,7 +14,7 @@ feedback on the draft guidance, and the public consultation period will
 be from <strong>20 June 2025 to 20 July 2025</strong>. The draft guidance
 can be found in <em>Annex A.</em>
 </p>
-<p><strong><u>Background</u></strong>
+<p><strong>Background</strong>
 </p>
 <p>A carbon credit is a certificate representing the reduction or removal
 of greenhouse gas emissions. Carbon markets, which facilitate the buying
@@ -71,11 +71,20 @@ Guidance Code to complement the Singapore Government’s VCM guidance, and
 is cooperating with regional carbon market associations under the ASEAN
 Common Carbon Framework to support high-quality credit supply and demand
 signals.</p>
-<p><strong><u>Invitation to Provide Feedback</u></strong>
+<p><strong>Invitation to Provide Feedback</strong>
 </p>
 <p>NCCS, MTI and EnterpriseSG invite businesses and members of the public
 to provide feedback on the scope and content of the draft VCM guidance
 by <strong>20 July 2025</strong>. Feedback can be submitted via <a href="https://www.go.gov.sg/vcmguidance" rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/vcmguidance</a>.</p>
+<p>Please note that all submissions received may be published and attributed
+to the respective respondents unless they expressly request the agencies
+(NCCS, MTI and EnterpriseSG) not to do so. As such, if respondents would
+like: (i) their whole submission, or part of it; or (ii) their identity;
+or both, to be kept confidential, please state so in the submission. In
+addition, the agencies (NCCS, MTI, and EnterpriseSG) reserve the right
+not to publish any submissions received where they consider it not in the
+public’s interest to do so, such as if the submission appears to be libellous
+or offensive.</p>
 <p><em>Annex A – Draft Voluntary Carbon Market Guidance</em>
 </p>
 <hr>
