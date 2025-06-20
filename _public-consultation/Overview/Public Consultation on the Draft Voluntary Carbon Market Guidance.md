@@ -5,14 +5,15 @@ variant: tiptap
 description: Public Consultation on the Draft Voluntary Carbon Market Guidance
 third_nav_title: Overview
 ---
-<h3>[20 JUN 2025] PUBLIC CONSULTATION ON DRAFT VOLUNTARY MARKET GUIDANCE</h3>
+<h3>PUBLIC CONSULTATION ON THE DRAFT VOLUNTARY MARKET GUIDANCE</h3>
 <p>The National Climate Change Secretariat (NCCS), the Ministry of Trade
 and Industry (MTI), and Enterprise Singapore (EnterpriseSG) jointly issued
 a draft guidance today on how companies can voluntarily use carbon credits
 as part of a credible decarbonisation plan. The public is invited to provide
 feedback on the draft guidance, and the public consultation period will
 be from <strong>20 June 2025 to 20 July 2025</strong>. The draft guidance
-can be found in Annex A.</p>
+can be found in <em>Annex A.</em>
+</p>
 <p><strong><u>Background</u></strong>
 </p>
 <p>A carbon credit is a certificate representing the reduction or removal
@@ -53,7 +54,7 @@ offset up to 5% of their taxable emissions;</p>
 <p>(b) requiring companies to disclose the role of carbon credits in their
 decarbonisation strategy, as part of climate reporting requirements aligned
 to the International Sustainability Standards Board;</p>
-<p>(c) supporting access to high-quality Article 6 carbon credits through
+<p>(c) supporting supply of high-quality Article 6 carbon credits through
 the Carbon Project Development Grant;<sup>2</sup>
 </p>
 <p>(d) building a vibrant carbon services and trading ecosystem in Singapore,
