@@ -2,8 +2,8 @@ collections:
   public-consultation:
     output: true
     order:
-      - Overview/(20 Jun 2025) Public Consultation on the Draft Voluntary Carbon
-        Market Guidance.md
+      - Overview/Public Consultation on the Draft Voluntary Carbon Market
+        Guidance.md
       - Overview/(17 Jan 2025) Feedback from REACH Public Consultation on
         Singapore's Decarbonisation Journey.md
       - Overview/.keep
