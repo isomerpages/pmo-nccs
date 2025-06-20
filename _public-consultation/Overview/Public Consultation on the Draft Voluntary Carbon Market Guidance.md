@@ -76,6 +76,8 @@ signals.</p>
 <p>NCCS, MTI and EnterpriseSG invite businesses and members of the public
 to provide feedback on the scope and content of the draft VCM guidance
 by <strong>20 July 2025</strong>. Feedback can be submitted via <a href="https://www.go.gov.sg/vcmguidance" rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/vcmguidance</a>.</p>
+<p><em>Annex A – Draft Voluntary Carbon Market Guidance</em>
+</p>
 <hr>
 <p><sup>1 </sup>Examples of compliance purposes include meeting regulatory
 requirements and national commitments under the United Nations Framework
@@ -89,6 +91,3 @@ in philanthropic capital for projects supported by the grant.</p>
 on 24 June 2025 during London Climate Action Week.</p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p>Annex A – Draft Voluntary Carbon Market Guidance</p>
