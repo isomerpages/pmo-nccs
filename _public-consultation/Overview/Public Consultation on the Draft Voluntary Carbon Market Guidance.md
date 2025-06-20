@@ -54,7 +54,7 @@ offset up to 5% of their taxable emissions;</p>
 decarbonisation strategy, as part of climate reporting requirements aligned
 to the International Sustainability Standards Board;</p>
 <p>(c) supporting access to high-quality Article 6 carbon credits through
-the Carbon Project Development Grant;<sup>2</sup> 
+the Carbon Project Development Grant;<sup>2</sup>
 </p>
 <p>(d) building a vibrant carbon services and trading ecosystem in Singapore,
 comprising project developers, traders, advisory firms, and monitoring,
@@ -62,7 +62,7 @@ reporting and verification (MRV) services;</p>
 <p>(e) rolling out capacity building opportunities for carbon projects in
 the region; and</p>
 <p>(f) engaging like-minded countries to provide consistent guidance to companies
-on carbon credits.<sup>3</sup> 
+on carbon credits.<sup>3</sup>
 </p>
 <p>The industry has also been taking been taking steps to grow the carbon
 markets. For example, SSFA is surveying companies for a potential Claims
@@ -70,7 +70,7 @@ Guidance Code to complement the Singapore Government’s VCM guidance, and
 is cooperating with regional carbon market associations under the ASEAN
 Common Carbon Framework to support high-quality credit supply and demand
 signals.</p>
-<p><strong><u>Invitation to Provide Feedback  </u></strong>
+<p><strong><u>Invitation to Provide Feedback</u></strong>
 </p>
 <p>NCCS, MTI and EnterpriseSG invite businesses and members of the public
 to provide feedback on the scope and content of the draft VCM guidance
