@@ -71,7 +71,7 @@ to provide feedback on the scope and content of the draft VCM guidance
 by 20 July 2025. The draft guidance can be found in <em>Annex A. </em>Feedback
 can be submitted via <a href="https://www.go.gov.sg/vcmguidance" rel="noopener nofollow" target="_blank">https://www.go.gov.sg/vcmguidance</a> from
 20 June to 20 July 2025.</p>
-<p><em><a href="/files/docs/default-source/default-document-library/Draft_Voluntary_Carbon_Market_Guidance_For_Public_Consultation__June_2025_.pdf" rel="noopener nofollow" target="_blank">Annex A - Draft Voluntary Carbon Market Guidance_For Public Consultation (June 2025)</a></em>
+<p><em><a href="/files/docs/default-source/default-document-library/Draft_Voluntary_Carbon_Market_Guidance_For_Public_Consultation__June_2025_.pdf" rel="noopener nofollow" target="_blank">Annex A - Draft Voluntary Carbon Market Guidance</a></em>
 </p>
 <hr>
 <p><sup>1 </sup>Examples of compliance purposes include meeting regulatory
