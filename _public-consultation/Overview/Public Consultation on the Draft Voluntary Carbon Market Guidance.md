@@ -85,7 +85,7 @@ addition, the agencies (NCCS, MTI, and EnterpriseSG) reserve the right
 not to publish any submissions received where they consider it not in the
 public’s interest to do so, such as if the submission appears to be libellous
 or offensive.</p>
-<p><em>Annex A – Draft Voluntary Carbon Market Guidance</em>
+<p><em><a href="/files/docs/default-source/default-document-library/Draft_Voluntary_Carbon_Market_Guidance_For_Public_Consultation__June_2025_.pdf" rel="noopener nofollow" target="_blank">Annex A - Draft Voluntary Carbon Market Guidance</a></em>
 </p>
 <hr>
 <p><sup>1 </sup>Examples of compliance purposes include meeting regulatory
