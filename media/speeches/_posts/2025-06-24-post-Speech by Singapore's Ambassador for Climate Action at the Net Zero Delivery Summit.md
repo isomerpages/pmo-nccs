@@ -99,8 +99,7 @@ offer a transparent and credible way to meet emissions reduction targets.
 <br>
 </p>
 <p><strong><em>Yes, global carbon markets have not been functioning well.</em></strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the supply side, there are valid concerns
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the supply side, there are valid concerns
 about the environmental integrity of some of the carbon credits being generated.
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the demand side, there is also a lack
 of consensus regarding how companies can or cannot use credits to meet
