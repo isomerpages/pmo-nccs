@@ -13,8 +13,8 @@ variant: tiptap
 SUMMIT, LONDON, UNITED KINGDOM, 23 JUNE 2025</p>
 <hr>
 <p><strong>Two Levers to Unlock Transition Finance</strong>
+<br>
 </p>
-<p></p>
 <p>Ravi Menon
 <br>Ambassador for Climate Action, Singapore
 <br>
