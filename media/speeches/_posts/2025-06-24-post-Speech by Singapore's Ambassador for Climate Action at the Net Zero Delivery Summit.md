@@ -9,166 +9,262 @@ description: Speech by Singapore's Ambassador for Climate Action at the Net Zero
 image: ""
 variant: tiptap
 ---
-<p>SPEECH BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION AT THE NET ZERO DELIVERY
-SUMMIT, LONDON, UNITED KINGDOM, 23 JUNE 2025</p>
+<p><strong>SPEECH BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION AT THE NET ZERO DELIVERY SUMMIT, LONDON, UNITED KINGDOM, 23 JUNE 2025</strong>
+</p>
 <hr>
 <p><strong>Two Levers to Unlock Transition Finance</strong>
-<br>
-</p>
-<p>Ravi Menon
-<br>Ambassador for Climate Action, Singapore
-<br>
-</p>
-<p><em>Speech at Net Zero Delivery Summit</em>
-<br><em>Guildhall, London, United Kingdom</em>
-<br><em>23 June 2025</em>
 <br>
 </p>
 <p>Distinguished guests, ladies and gentlemen.
 <br>
 <br><strong><em>Transition finance – especially in developing countries - remains severely inadequate.</em></strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are still about 1.5 trillion US dollars
-short each year of what is required to meet the goals of the Paris Agreement.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public capital is willing but insufficient
-to bridge the gap; private capital is sufficient but not willing.</p>
-<p>Why is transition finance not flowing at the scale and pace needed?
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; one, the <strong><em>cost of capital is too high</em></strong>.&nbsp;
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; two, the <strong><em>carbon price is not high enough</em></strong>.&nbsp;
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We are still about 1.5 trillion US dollars short each year of what is
+required to meet the goals of the Paris Agreement.</p>
+</li>
+<li>
+<p>Public capital is willing but insufficient to bridge the gap; private
+capital is sufficient but not willing.</p>
+</li>
+</ul>
+<p>Why is transition finance not flowing at the scale and pace needed?</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>one, the <strong><em>cost of capital is too high</em></strong>.&nbsp;</p>
+</li>
+<li>
+<p>two, the <strong><em>carbon price is not high enough</em></strong>.&nbsp;
 <br>
 </p>
+</li>
+</ul>
 <p>There are two key levers to unlock the transition finance necessary for
-global decarbonisation:
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>blended finance to address the cost of capital; and</em></strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>carbon credits to address the lack of a carbon price.</em></strong>
+global decarbonisation:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>blended finance to address the cost of capital; and</em></strong>
+</p>
+</li>
+<li>
+<p><strong><em>carbon credits to address the lack of a carbon price.</em></strong>
 <br>
 </p>
+</li>
+</ul>
 <p><strong><em>Blended finance is about synergising public-private-philanthropic capital to make transition projects bankable.</em></strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today, too much public capital – be it
-from sovereigns or multilateral development banks – is going into bankable
-projects that private capital can finance.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A far more effective use of scarce public
-capital is to help reduce the risk of <em>marginally</em> bankable transition
-projects and attract multiples of private capital to these projects.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public and philanthropic capital should
-aim to be <em>catalytic not duplicative</em>.
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Today, too much public capital – be it from sovereigns or multilateral
+development banks – is going into bankable projects that private capital
+can finance.</p>
+</li>
+<li>
+<p>A far more effective use of scarce public capital is to help reduce the
+risk of <em>marginally</em> bankable transition projects and attract multiples
+of private capital to these projects.</p>
+</li>
+<li>
+<p>Public and philanthropic capital should aim to be <em>catalytic not duplicative</em>.
 <br>
 </p>
-<p><strong><em>Blended finance uses a combination of catalytic capital and technical assistance to catalyse private commercial capital</em></strong>.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Catalytic capital could be in the form
-of grants, guarantees, or financing at below market rates. By helping to
-absorb first-loss risk, it improves project bankability, thereby attracting
-private commercial capital.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Technical assistance - in the form of
-project development expertise, capacity building, and institutional support
-– can also help to reduce risk, strengthen confidence, and improve bankability.
+</li>
+</ul>
+<p><strong><em>Blended finance uses a combination of catalytic capital and technical assistance to catalyse private commercial capital</em></strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Catalytic capital could be in the form of grants, guarantees, or financing
+at below market rates. By helping to absorb first-loss risk, it improves
+project bankability, thereby attracting private commercial capital.</p>
+</li>
+<li>
+<p>Technical assistance - in the form of project development expertise, capacity
+building, and institutional support – can also help to reduce risk, strengthen
+confidence, and improve bankability.
 <br>
 </p>
+</li>
+</ul>
 <p><strong><em>This is why Singapore launched a blended finance platform called FAST-P, or Financing Asia’s Transition Partnership.</em></strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAST-P will support green and transition
-projects in Asia, from phasing out coal and strengthening grid infrastructure
-to electrifying transportation and decarbonising industrial processes.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Singapore Government has pledged 500
-million US dollars as concessional capital to be matched dollar for dollar
-by other sources of concessional capital.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The aim is to use this 1 billion dollar
-base of concessional capital to crowd in four times more private capital
-for a total fund size of 5 billion US dollars.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAST-P has attracted both sovereign and
-philanthropic funds, which has in turn motivated banks and asset managers
-to come onboard.&nbsp;
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAST-P is making good progress towards
-its 5 billion dollar target.
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>FAST-P will support green and transition projects in Asia, from phasing
+out coal and strengthening grid infrastructure to electrifying transportation
+and decarbonising industrial processes.</p>
+</li>
+<li>
+<p>The Singapore Government has pledged 500 million US dollars as concessional
+capital to be matched dollar for dollar by other sources of concessional
+capital.</p>
+</li>
+<li>
+<p>The aim is to use this 1 billion dollar base of concessional capital to
+crowd in four times more private capital for a total fund size of 5 billion
+US dollars.</p>
+</li>
+<li>
+<p>FAST-P has attracted both sovereign and philanthropic funds, which has
+in turn motivated banks and asset managers to come onboard.&nbsp;</p>
+</li>
+<li>
+<p>FAST-P is making good progress towards its 5 billion dollar target.
 <br>
 </p>
+</li>
+</ul>
 <p>The second key lever to unlock private finance for transition is <strong>carbon credits</strong>.</p>
 <p><strong><em>Carbon credits are a market-driven solution to bridge the financing gap, particularly when policy and economic incentives are lacking</em>.</strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the supply side, carbon credits are
-generated by mitigation activities that reduce or remove carbon emissions.&nbsp;
-If not for the revenue generated from these credits these activities would
-not have occurred.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the demand side, entities may want
-to purchase such credits to help offset their hard-to-abate residual emissions.
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>On the supply side, carbon credits are generated by mitigation activities
+that reduce or remove carbon emissions.&nbsp; If not for the revenue generated
+from these credits these activities would not have occurred.</p>
+</li>
+<li>
+<p>On the demand side, entities may want to purchase such credits to help
+offset their hard-to-abate residual emissions.
 <br>
 </p>
+</li>
+</ul>
 <p><strong><em>This convergence of demand and supply creates a win-win situation globally.</em></strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For developing countries where financing
-needs far outpace available resources, carbon credits create an additional
-pathway to fund mitigation projects.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For sovereign and corporate buyers, credits
-offer a transparent and credible way to meet emissions reduction targets.
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For developing countries where financing needs far outpace available resources,
+carbon credits create an additional pathway to fund mitigation projects.</p>
+</li>
+<li>
+<p>For sovereign and corporate buyers, credits offer a transparent and credible
+way to meet emissions reduction targets.
 <br>
 </p>
+</li>
+</ul>
 <p><strong><em>Yes, global carbon markets have not been functioning well.</em></strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the supply side, there are valid concerns
-about the environmental integrity of some of the carbon credits being generated.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the demand side, there is also a lack
-of consensus regarding how companies can or cannot use credits to meet
-their net zero targets.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>On the supply side, there are valid concerns about the environmental integrity
+of some of the carbon credits being generated.</p>
+</li>
+<li>
+<p>On the demand side, there is also a lack of consensus regarding how companies
+can or cannot use credits to meet their net zero targets.</p>
+</li>
+</ul>
 <p>But we must not throw the baby out with the bathwater.&nbsp; We need to
 tackle these issues comprehensively – and in close partnership.&nbsp; I
 am happy to say this effort is well underway.
 <br>
 </p>
 <p><strong><em>The supply-side integrity issues are being addressed systematically.</em></strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is growing consensus on what a high-quality
-carbon credit looks like, thanks to Article 6.4, ICVCM, and CORSIA setting
-global standards.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The World Bank has been providing technical
-assistance and capacity building for carbon projects in many developing
-countries.
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>There is growing consensus on what a high-quality carbon credit looks
+like, thanks to Article 6.4, ICVCM, and CORSIA setting global standards.</p>
+</li>
+<li>
+<p>The World Bank has been providing technical assistance and capacity building
+for carbon projects in many developing countries.
 <br>
 </p>
+</li>
+</ul>
 <p><strong><em>Singapore has been working with partners to promote high-integrity transition credits.</em></strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is a new class of credits to channel
-finance towards transition projects.
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>This is a new class of credits to channel finance towards transition projects.
 <br>
 </p>
+</li>
+</ul>
 <p><strong><em>A good use case of transition credits is phasing out coal in Asia.</em></strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Most of the coal-fired power plants in
-Asia are young and have an operational lifetime of at least 30 years, making
-early closure commercially unviable.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But if left operational, these plants
-will exhaust two-thirds of the carbon budget remaining to keep global temperatures
-below 1.5 degrees Celsius.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The solution is to provide incentives
-for the early retirement of these plants, replacing them with renewables.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If we can generate transition credits
-from the emissions reduction attributed to the early closure of coal plants,
-we can finance the managed phase-out of coal in Asia.
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Most of the coal-fired power plants in Asia are young and have an operational
+lifetime of at least 30 years, making early closure commercially unviable.</p>
+</li>
+<li>
+<p>But if left operational, these plants will exhaust two-thirds of the carbon
+budget remaining to keep global temperatures below 1.5 degrees Celsius.</p>
+</li>
+<li>
+<p>The solution is to provide incentives for the early retirement of these
+plants, replacing them with renewables.</p>
+</li>
+<li>
+<p>If we can generate transition credits from the emissions reduction attributed
+to the early closure of coal plants, we can finance the managed phase-out
+of coal in Asia.
 <br>
 </p>
+</li>
+</ul>
 <p><strong><em>Singapore is working with partners to test the feasibility of transition credits.</em></strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are doing so with two pilots involving
-coal-fired plants in the Philippines.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We hope that sovereigns, companies, and
-standard setters recognise the potential of transition credits, and work
-together to stimulate demand for such credits.
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We are doing so with two pilots involving coal-fired plants in the Philippines.</p>
+</li>
+<li>
+<p>We hope that sovereigns, companies, and standard setters recognise the
+potential of transition credits, and work together to stimulate demand
+for such credits.
 <br>
 </p>
-<p><strong><em>On the demand side, Singapore has signed agreements with seven other countries to buy carbon credits compliant with Article 6 of the Paris Agreement</em></strong>.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As an added demand incentive, carbon tax-liable
-companies in Singapore can offset up to 5% of their taxable emissions with
-Article 6 compliant carbon credits.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When the government and carbon tax-liable
-companies in Singapore purchase these credits, they are contributing to
-decarbonisation efforts in our partner countries.
+</li>
+</ul>
+<p><strong><em>On the demand side, Singapore has signed agreements with seven other countries to buy carbon credits compliant with Article 6 of the Paris Agreement</em></strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>As an added demand incentive, carbon tax-liable companies in Singapore
+can offset up to 5% of their taxable emissions with Article 6 compliant
+carbon credits.</p>
+</li>
+<li>
+<p>When the government and carbon tax-liable companies in Singapore purchase
+these credits, they are contributing to decarbonisation efforts in our
+partner countries.
 <br>
 </p>
+</li>
+</ul>
 <p><strong><em>But demand for compliance credits alone is not enough.&nbsp;</em></strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We need to re-ignite demand for voluntary
-credits too, to generate the financing needed for decarbonisation in the
-Global South.
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We need to re-ignite demand for voluntary credits too, to generate the
+financing needed for decarbonisation in the Global South.
 <br>
 </p>
-<p><strong><em>Governments need to step in to encourage strong voluntary demand for carbon credits</em></strong>.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Following the UK’s lead, Singapore published
-last week guidance on how companies in Singapore can use carbon credits
-alongside a credible decarbonisation plan.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But it’s not enough that just the UK and
-Singapore governments do this.&nbsp; More countries need to step forward
-to provide guidance on the use of carbon credits<strong>.</strong>
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our two countries have been engaging partners
-and look forward to announcing the fruits of our efforts tomorrow.
+</li>
+</ul>
+<p><strong><em>Governments need to step in to encourage strong voluntary demand for carbon credits</em></strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Following the UK’s lead, Singapore published last week guidance on how
+companies in Singapore can use carbon credits alongside a credible decarbonisation
+plan.</p>
+</li>
+<li>
+<p>But it’s not enough that just the UK and Singapore governments do this.&nbsp;
+More countries need to step forward to provide guidance on the use of carbon
+credits<strong>.</strong>
+</p>
+</li>
+<li>
+<p>Our two countries have been engaging partners and look forward to announcing
+the fruits of our efforts tomorrow.
 <br>
 <br>Thank you.</p>
+</li>
+</ul>
 <p></p>
