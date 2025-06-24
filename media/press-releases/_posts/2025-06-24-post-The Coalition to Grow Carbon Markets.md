@@ -75,6 +75,8 @@ the market. There is a clear role for Governments now to align, through
 the Coalition, to support a level playing field and the high integrity
 scaling of voluntary market use.</p>
 <hr>
+<p><strong>QUOTES</strong>
+</p>
 <p>“To help unlock private sector finance at the scale and pace needed to
 support global climate ambitions, we must energise the carbon markets.
 This Coalition will help foster investor and stakeholder confidence, and
