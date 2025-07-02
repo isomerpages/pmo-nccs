@@ -130,7 +130,7 @@ corporate use of carbon credits to increase climate action. Social and
 environmental integrity standards of carbon markets are vital to ensure
 the public trust in this important instrument. Therefore, political leadership
 is critical to building confidence and ambition, and we welcome this signal
-of cooperation,” said <strong>Ana Toni, National Secretary for Climate Change at the Ministry of the Environment and Climate Change, Government of Brazil, and Executive Director of COP30.</strong>
+of cooperation,” said <strong>Ana Toni, National Secretary for Climate Change at the Ministry of the Environment and Climate Change, Government of Brazil, and CEO of COP30.</strong>
 </p>
 <p>“The Ministry of Environment of Peru supports the Coalition’s effort to
 foster a carbon market environment where integrity and high standards are
