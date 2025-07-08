@@ -11,17 +11,15 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 
 **Chairman**
 
-* **Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security**
+* **Mr Gan Kim Yong, Deputy Prime Minister and Minister for Trade and Industry**
 
 **Members**
-
-* Mr Gan Kim Yong, Deputy Prime Minister, Minister for Trade and Industry and Minister-in-charge of Strategy Group
-* Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations
 * Dr Vivian Balakrishnan, Minister for Foreign Affairs  
-* Mr Desmond Lee, Minister for National Development
+* Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations
 * Ms Indranee Rajah, Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for National Development
 * Mr Tan See Leng, Minister for Manpower and Second Minister for Trade and Industry
-* Mr Chee Hong Tat, Minister for Transport
+* Mr Chee Hong Tat, Minister for National Development
+* Mr Jeffrey Siow, Acting Minister for Transport and Senior Minister of State for Finance
 
 **Committees and Work Groups Addressing Singapore's Climate Change-related Issues**
 
