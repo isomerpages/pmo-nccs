@@ -17,7 +17,7 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 * Dr Vivian Balakrishnan, Minister for Foreign Affairs  
 * Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations
 * Ms Indranee Rajah, Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for National Development
-* Mr Tan See Leng, Minister for Manpower and Second Minister for Trade and Industry
+* Mr Tan See Leng, Minister for Manpower and Minister-in-charge of Energy and Science & Technology
 * Mr Chee Hong Tat, Minister for National Development
 * Mr Jeffrey Siow, Acting Minister for Transport and Senior Minister of State for Finance
 
