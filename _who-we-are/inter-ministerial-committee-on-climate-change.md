@@ -5,7 +5,7 @@ variant: markdown
 ---
 ### INTER-MINISTERIAL COMMITTEE ON CLIMATE CHANGE
 
-The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Government coordination on climate change policies to ensure that Singapore is prepared for the impacts of climate change. Established in 2007, IMCCC is chaired by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security.
+The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Government coordination on climate change policies to ensure that Singapore is prepared for the impacts of climate change. Established in 2007, IMCCC is chaired by Mr Gan Kim Yong, Deputy Prime Minister and Minister for Trade and Industry.
 
 ### IMCCC Members
 
@@ -38,19 +38,18 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 **Members**
 
 * Mr Stanley Loh, Permanent Secretary (Sustainability and the Environment)  
-* Mrs Tan Ching Yee, Permanent Secretary (Finance)  
 * Mr Lai Chung Han, Permanent Secretary (Finance)(Development)
 * Mr Albert Chua, Permanent Secretary (Foreign Affairs)  
-* Mrs Ow Foong Pheng, Permanent Secretary (National Development)  
+* Mr Loh Ngai Seng, Permanent Secretary (National Development)  
 * Mr Tan Chorh Chuan, Permanent Secretary (National Research and Development)  
-* Mr Gabriel Lim, Permanent Secretary (Trade and Industry)(Policy) 
+* Dr Beh Swan Gin, Permanent Secretary (Trade and Industry)(Policy) 
 * Dr Beh Swan Gin, Permanent Secretary (Trade and Industry)(Development) 
-* Mr Loh Ngai Seng, Permanent Secretary (Transport)  
+* Mr Lau Peet Meng, Permanent Secretary (Transport)  
 * Mr Png Cheong Boon, Chairman, Economic Development Board
 * Mr Chia Der Jiun, Managing Director, Monetary Authority of Singapore 
-* Mr Ngiam Shih Chun, Chief Executive, Energy Market Authority 
+* Mr Puah Kok, Chief Executive, Energy Market Authority 
 * Mr Wong Kang Jet, Chief Executive, National Environment Agency 
-* Mr Teo Eng Dih, Chief Executive, Maritime and Port Authority of Singapore 
+* Mr Ang Wee Keong, Chief Executive, Maritime and Port Authority of Singapore 
 * Mr Foo Kok Jwee, Chief of Government Communications  
 
 **Secretariat**
