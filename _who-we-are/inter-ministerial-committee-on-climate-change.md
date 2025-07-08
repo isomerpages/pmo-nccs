@@ -23,7 +23,7 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 
 **Committees and Work Groups Addressing Singapore's Climate Change-related Issues**
 
-![](/images/IMCCC_org_chart_2024.png)
+![](/images/IMCCC_2025_update.png)
 
 **IMCCC Executive Committee**
 
@@ -56,7 +56,7 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 **Secretariat**
 
 * Mr Benedict Chia, Director General (Climate Change), National Climate Change Secretariat, Strategy Group, Prime Minister's Office
-* Ms Gayle Goh, Director (Planning), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
+* Ms Joel Tee, Director (Planning), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
 * Ms Guo Yiran, Director (Policy), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
 
 **Carbon & Energy Transition Working Group**
