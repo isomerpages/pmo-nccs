@@ -5,27 +5,25 @@ variant: markdown
 ---
 ### INTER-MINISTERIAL COMMITTEE ON CLIMATE CHANGE
 
-The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Government coordination on climate change policies to ensure that Singapore is prepared for the impacts of climate change. Established in 2007, IMCCC is chaired by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security.
+The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Government coordination on climate change policies to ensure that Singapore is prepared for the impacts of climate change. Established in 2007, IMCCC is chaired by DPM Gan Kim Yong, Deputy Prime Minister and Minister for Trade and Industry.
 
 ### IMCCC Members
 
 **Chairman**
 
-* **Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security**
+* **Mr Gan Kim Yong, Deputy Prime Minister and Minister for Trade and Industry**
 
 **Members**
-
-* Mr Gan Kim Yong, Deputy Prime Minister, Minister for Trade and Industry and Minister-in-charge of Strategy Group
-* Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations
 * Dr Vivian Balakrishnan, Minister for Foreign Affairs  
-* Mr Desmond Lee, Minister for National Development
+* Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations
 * Ms Indranee Rajah, Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for National Development
-* Mr Tan See Leng, Minister for Manpower and Second Minister for Trade and Industry
-* Mr Chee Hong Tat, Minister for Transport
+* Mr Tan See Leng, Minister for Manpower and Minister-in-charge of Energy and Science & Technology
+* Mr Chee Hong Tat, Minister for National Development
+* Mr Jeffrey Siow, Acting Minister for Transport and Senior Minister of State for Finance
 
 **Committees and Work Groups Addressing Singapore's Climate Change-related Issues**
 
-![](/images/IMCCC_org_chart_2024.png)
+![](/images/IMCCC_2025_update.png)
 
 **IMCCC Executive Committee**
 
@@ -40,25 +38,23 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 **Members**
 
 * Mr Stanley Loh, Permanent Secretary (Sustainability and the Environment)  
-* Mrs Tan Ching Yee, Permanent Secretary (Finance)  
-* Mr Lai Chung Han, Permanent Secretary (Finance)(Development)
+* Mr Lai Chung Han, Permanent Secretary (Finance)
 * Mr Albert Chua, Permanent Secretary (Foreign Affairs)  
-* Mrs Ow Foong Pheng, Permanent Secretary (National Development)  
+* Mr Loh Ngai Seng, Permanent Secretary (National Development)  
 * Mr Tan Chorh Chuan, Permanent Secretary (National Research and Development)  
-* Mr Gabriel Lim, Permanent Secretary (Trade and Industry)(Policy) 
-* Dr Beh Swan Gin, Permanent Secretary (Trade and Industry)(Development) 
-* Mr Loh Ngai Seng, Permanent Secretary (Transport)  
+* Dr Beh Swan Gin, Permanent Secretary (Trade and Industry) 
+* Mr Lau Peet Meng, Permanent Secretary (Transport)  
 * Mr Png Cheong Boon, Chairman, Economic Development Board
 * Mr Chia Der Jiun, Managing Director, Monetary Authority of Singapore 
-* Mr Ngiam Shih Chun, Chief Executive, Energy Market Authority 
+* Mr Puah Kok Keong, Chief Executive, Energy Market Authority 
 * Mr Wong Kang Jet, Chief Executive, National Environment Agency 
-* Mr Teo Eng Dih, Chief Executive, Maritime and Port Authority of Singapore 
+* Mr Ang Wee Keong, Chief Executive, Maritime and Port Authority of Singapore 
 * Mr Foo Kok Jwee, Chief of Government Communications  
 
 **Secretariat**
 
 * Mr Benedict Chia, Director General (Climate Change), National Climate Change Secretariat, Strategy Group, Prime Minister's Office
-* Ms Gayle Goh, Director (Planning), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
+* Ms Joel Tee, Director (Planning), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
 * Ms Guo Yiran, Director (Policy), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
 
 **Carbon & Energy Transition Working Group**
