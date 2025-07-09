@@ -5,7 +5,7 @@ variant: markdown
 ---
 ### INTER-MINISTERIAL COMMITTEE ON CLIMATE CHANGE
 
-The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Government coordination on climate change policies to ensure that Singapore is prepared for the impacts of climate change. Established in 2007, IMCCC is chaired by Mr Gan Kim Yong, Deputy Prime Minister and Minister for Trade and Industry.
+The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Government coordination on climate change policies to ensure that Singapore is prepared for the impacts of climate change. Established in 2007, IMCCC is chaired by DPM Gan Kim Yong, Deputy Prime Minister and Minister for Trade and Industry.
 
 ### IMCCC Members
 
@@ -38,16 +38,15 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 **Members**
 
 * Mr Stanley Loh, Permanent Secretary (Sustainability and the Environment)  
-* Mr Lai Chung Han, Permanent Secretary (Finance)(Development)
+* Mr Lai Chung Han, Permanent Secretary (Finance)
 * Mr Albert Chua, Permanent Secretary (Foreign Affairs)  
 * Mr Loh Ngai Seng, Permanent Secretary (National Development)  
 * Mr Tan Chorh Chuan, Permanent Secretary (National Research and Development)  
-* Dr Beh Swan Gin, Permanent Secretary (Trade and Industry)(Policy) 
-* Dr Beh Swan Gin, Permanent Secretary (Trade and Industry)(Development) 
+* Dr Beh Swan Gin, Permanent Secretary (Trade and Industry) 
 * Mr Lau Peet Meng, Permanent Secretary (Transport)  
 * Mr Png Cheong Boon, Chairman, Economic Development Board
 * Mr Chia Der Jiun, Managing Director, Monetary Authority of Singapore 
-* Mr Puah Kok, Chief Executive, Energy Market Authority 
+* Mr Puah Kok Keong, Chief Executive, Energy Market Authority 
 * Mr Wong Kang Jet, Chief Executive, National Environment Agency 
 * Mr Ang Wee Keong, Chief Executive, Maritime and Port Authority of Singapore 
 * Mr Foo Kok Jwee, Chief of Government Communications  
