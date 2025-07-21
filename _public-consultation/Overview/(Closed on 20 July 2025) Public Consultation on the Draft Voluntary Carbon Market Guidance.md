@@ -1,8 +1,10 @@
 ---
-title: (20 Jun 2025) Public Consultation on the Draft Voluntary Carbon Market Guidance
+title: (Closed on 20 July 2025) Public Consultation on the Draft Voluntary
+  Carbon Market Guidance
 permalink: /public-consultation-on-the-draft-voluntary-carbon-market-guidance/
 variant: tiptap
-description: (20 Jun 2025) Public Consultation on the Draft Voluntary Carbon Market Guidance
+description: (Closed on 20 July 2025) Public Consultation on the Draft Voluntary
+  Carbon Market Guidance
 third_nav_title: Overview
 ---
 <h3>PUBLIC CONSULTATION ON THE DRAFT VOLUNTARY CARBON MARKET GUIDANCE</h3>
