@@ -555,7 +555,7 @@ Development. (2024). <em>Digital Economy Report 2024.</em>&nbsp; <a rel="noopene
 Prime Minister's Office Singapore. <a rel="noopener noreferrer nofollow" target="_blank">https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Asia-Tech-x-Singapore-2024-Opening-Ceremony</a>
 </p>
 <p><em><sup>7 </sup></em>Rajah &amp; Tann Asia. (2024, June). <em>Singapore’s Green Data Centre Roadmap: Carving a Route for a Sustainable Digital Future</em>.
-<a href="https://eoasis.rajahtann.com/eoasis/lu/pdf/2024-06_Singapores_Green_Data_Centre_Roadmap2.pdf" rel="noopener noreferrer nofollow" target="_blank">https://eoasis.rajahtann.com/eoasis/lu/pdf/2024-06_Singapores_Green_Data_Centre_Roadmap2.pdf</a>
+<a href="https://www.rajahtannasia.com/wp-content/uploads/2024/08/2024-06_Singapores-Green-Data-Centre-unsecured.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.rajahtannasia.com/wp-content/uploads/2024/08/2024-06_Singapores-Green-Data-Centre-unsecured.pdf</a>
 </p>
 <p><em><sup>8 </sup></em>Infocomm and Media Development Authority. (2023,
 June 8). <em>IMDA introduces sustainability standard for data centres operating in tropical climates</em>.
