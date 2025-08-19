@@ -238,8 +238,7 @@ Under LTMS-PIP Phase 2. <a href="https://www.ema.gov.sg/news-events/news/media-r
 air pollution, study finds. <a href="https://reccessary.com/en/news/asean-market/regional-power-grid-interconnections-benefits-asean-countries" rel="noopener noreferrer nofollow" target="_blank">https://reccessary.com/en/news/asean-market/regional-power-grid-interconnections-benefits-asean countries</a>
 </p>
 <p><sup>9</sup>Farmonaut. Bridging the Climate Finance Gap: Southeast Asia’s
-$1 Trillion Challenge for Sustainable Development by 2035. <a href="https://farmonaut.com/asia/bridging-the-climate-finance-gap-southeast-asias-1-trillion-challenge-for-sustainable-development-by-2035/" rel="noopener noreferrer nofollow" target="_blank">https://farmonaut.com/asia/bridging-the-climate-finance-gap southeast-asias-1-trillion-challenge-for-sustainable-development-by-2035/</a>
-</p>
+$1 Trillion Challenge for Sustainable Development by 2035.</p>
 <p><sup>10</sup>Biological Conservation. Vol.296. August 2024. The future
 of Southeast Asia's biodiversity: A crisis with a hopeful alternative;
 Reporting ASEAN article, 28 September 2023. Southeast Asia's Peatlands,
