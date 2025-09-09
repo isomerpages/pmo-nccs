@@ -39,7 +39,7 @@ the list of excuses for slowing down climate action.</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em>But nature is more powerful than politics or economics – and will eventually prevail. </em></strong> 
+<p><strong><em>But nature is more powerful than politics or economics – and will eventually prevail.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -132,7 +132,7 @@ the world’s future growth in energy demand.</p>
 </li>
 </ul>
 <p>BLENDED FINANCE</p>
-<p><strong><em>Asia faces a shortfall of at least 800 billion US dollars annually in climate financing.</em></strong> 
+<p><strong><em>Asia faces a shortfall of at least 800 billion US dollars annually in climate financing.<sup>1</sup></em></strong>
 </p>
 <p><strong><em>To close the gap, we need blended finance – a combination of public, philanthropic, and private capital.</em></strong>
 </p>
@@ -152,7 +152,7 @@ capital.</p>
 crowd in many dollars of commercial capital.</p>
 </li>
 </ul>
-<p><strong><em>Singapore has been a steadfast champion of blended finance as a climate financing tool. </em></strong>
+<p><strong><em>Singapore has been a steadfast champion of blended finance as a climate financing tool.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -221,7 +221,7 @@ and commercial capital for FAST-P.</p>
 growing span of work.</p>
 </li>
 </ul>
-<p><strong><em>Yesterday, FAST-P marked a major milestone with the Green Investments Partnership achieving its first close with 510 million US dollars. </em></strong>
+<p><strong><em>Yesterday, FAST-P marked a major milestone with the Green Investments Partnership achieving its first close with 510 million US dollars.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -298,7 +298,7 @@ projects, reducing 250,000 tonnes of emissions annually.</p>
 </ul>
 </li>
 </ul>
-<p><strong>Making blended finance work is not a walk in the park.  GIP achieved its first close overcoming several challenges. </strong>
+<p><strong>Making blended finance work is not a walk in the park. GIP achieved its first close overcoming several challenges.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -332,14 +332,14 @@ governance structures, and legal processes.</p>
 </p>
 <p></p>
 <p>LOW-CARBON TECHNOLOGIES</p>
-<p><strong><em>Next, low-carbon technologies.  We need a variety of technologies to drive deep decarbonisation across the economy, especially in hard-to-abate sectors.</em></strong>
+<p><strong><em>Next, low-carbon technologies. We need a variety of technologies to drive deep decarbonisation across the economy, especially in hard-to-abate sectors.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Hard-to-abate sectors account for nearly 40% of global greenhouse gas
-emissions, making them critical for global efforts to reach net-zero emissions.
-These are sectors that have no economically or technologically feasible
-pathway to net-zero.</p>
+emissions, making them critical for global efforts to reach net-zero emissions.<sup>2</sup> These
+are sectors that have no economically or technologically feasible pathway
+to net-zero.</p>
 </li>
 <li>
 <p>Examples include:</p>
@@ -375,7 +375,7 @@ emissions to zero, we have to find ways to capture the emissions and either
 utilise or store the captured carbon through CCUS technologies.</p>
 </li>
 </ul>
-<p><strong><em>Singapore is exploring biofuels and ammonia as low-carbon fuels for the maritime sector. </em></strong>  <strong><em>Two specific initiatives:</em></strong>
+<p><strong><em>Singapore is exploring biofuels and ammonia as low-carbon fuels for the maritime sector. Two specific initiatives:</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -435,7 +435,7 @@ more trust and transparency in the marine biofuel market.</p>
 </ul>
 </li>
 </ul>
-<p><strong><em>Singapore has prioritised CCUS technologies for two reasons: our large manufacturing base and continued dependence on fossil fuel energy. </em></strong>
+<p><strong><em>Singapore has prioritised CCUS technologies for two reasons: our large manufacturing base and continued dependence on fossil fuel energy.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -468,7 +468,7 @@ our countries.</p>
 </ul>
 </li>
 </ul>
-<p><strong><em>The UK and Singapore have been partnering on CCUS pilots and testbeds. </em></strong>
+<p><strong><em>The UK and Singapore have been partnering on CCUS pilots and testbeds.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
