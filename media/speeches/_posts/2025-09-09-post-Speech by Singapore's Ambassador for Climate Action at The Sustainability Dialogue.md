@@ -165,7 +165,7 @@ together different parties and sources of capital in a programme or partnership
 to invest in a range of projects.</p>
 </li>
 </ul>
-<p><strong><em>Two years ago, at COP29, Singapore launched a blended finance platform called Financing Asia’s Transition Partnership, or FAST-P, with a target fund size of 5 billion US dollars.</em></strong>
+<p><strong><em>Two years ago, at COP28, Singapore launched a blended finance platform called Financing Asia’s Transition Partnership, or FAST-P, with a target fund size of 5 billion US dollars.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
