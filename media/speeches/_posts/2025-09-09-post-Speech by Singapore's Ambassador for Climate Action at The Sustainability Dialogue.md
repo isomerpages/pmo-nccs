@@ -194,7 +194,7 @@ technology solutions for decarbonisation (like carbon removals).</p>
 </ul>
 </li>
 </ul>
-<p><strong><em>Last year, at COP30, the Singapore Government pledged 500 million US dollars of concessional capital to FAST-P, to be matched by other sources of concessional capital.</em></strong>
+<p><strong><em>Last year, at COP29, the Singapore Government pledged 500 million US dollars of concessional capital to FAST-P, to be matched by other sources of concessional capital.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
