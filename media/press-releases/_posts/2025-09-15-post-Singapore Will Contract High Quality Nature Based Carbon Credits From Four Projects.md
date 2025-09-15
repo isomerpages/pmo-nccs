@@ -142,7 +142,7 @@ over its lifetime. &nbsp;&nbsp;&nbsp;</p>
 facilities in Singapore are allowed to use eligible ICCs to offset up to
 5% of their taxable emissions.</p>
 <p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> 
-<a rel="noopener noreferrer nofollow" target="_blank">https://wedocs.unep.org/xmlui/bitstream/handle/20.500.11822/37318/NBSCCM.pdf</a>
+<a href="https://wedocs.unep.org/xmlui/bitstream/handle/20.500.11822/37318/NBSCCM.pdf" rel="noopener nofollow" target="_blank">https://wedocs.unep.org/xmlui/bitstream/handle/20.500.11822/37318/NBSCCM.pdf</a>
 </p>
 <p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> Certified
 emissions reductions or removals exceeding that required by any law or
