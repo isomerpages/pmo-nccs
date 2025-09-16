@@ -60,7 +60,7 @@ to surrounding communities.</p>
 <p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 As a result of this RFP, Singapore has decided to contract NBS carbon credits
 from four NBS projects, namely the Kowen Antami REDD+<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank"><sup>[4]</sup></a> and
-Together for Forests REDD+ projects in Peru, the Grassland Restoration
+Together for Forests REDD+ projects in Peru, the Boomitra Grassland Restoration
 Project in Paraguay, and the Kwahu Landscape Restoration Project in Ghana.
 &nbsp;We will contract to procure carbon credits equivalent to emissions
 reductions of 2,175,000 tonnes of CO2, at a value of around S$76 million,
@@ -90,7 +90,7 @@ credits towards climate adaptation measures of the respective host countries.</p
 </p>
 <p><strong><u>Annex – Description of Projects</u></strong>
 </p>
-<p><strong>VCS 5395: Kowen Antami REDD+ (Peru)</strong>. The Kowen Antami
+<p><strong>VCS 5394: Kowen Antami REDD+ (Peru)</strong>. The Kowen Antami
 REDD+ Project aims to protect the Yanachaga Chemillén National Park (PNYCH)
 and the San Matías–San Carlos Protection Forest (BPSMSC). Protection of
 these two areas has been challenging due to the expansion of both commercial
@@ -112,7 +112,7 @@ of forests by providing technical assistance on sustainable harvesting
 techniques, enabling access to markets, promoting biodiversity conservation;
 and the development of agroforestry systems which produce a diversity of
 products and services that can be certified as 'deforestation free’.&nbsp;</p>
-<p><strong>VCS 3291 Grassland Restoration Project through Soil Enrichment (Paraguay).</strong>
+<p><strong>VCS 3291 Boomitra Grassland Restoration Project through Soil Enrichment (Paraguay).</strong>
 </p>
 <p>South American grasslands, including in Paraguay, are unique natural habitats
 that provide important ecological and economic benefits. Livestock production
