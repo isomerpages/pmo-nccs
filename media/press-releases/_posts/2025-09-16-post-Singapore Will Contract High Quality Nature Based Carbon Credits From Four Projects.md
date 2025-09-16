@@ -82,7 +82,10 @@ projects must use methodologies<a href="#_ftn5" rel="noopener noreferrer nofollo
 and the respective host country, and secure authorisation under the relevant
 government-to-government Implementation Agreement (IA)<a href="#_ftn6" rel="noopener noreferrer nofollow" target="_blank"><sup>[6]</sup></a>. To
 date, Singapore has signed eight implementation agreements (IAs) with Bhutan,
-Chile, Ghana, Papua New Guinea, Peru, Paraguay, Rwanda, and Thailand.</p>
+Chile, Ghana, Papua New Guinea, Peru, Paraguay, Rwanda, and Thailand. Under
+each of the Article 6 IAs, Singapore is committed to channeling the value
+equivalent to 5% of the share of proceeds from authorised carbon credits
+towards climate adaptation measures of the respective host countries.</p>
 <p><strong><u>&nbsp;</u></strong>
 </p>
 <p><strong><u>Annex – Description of Projects</u></strong>
