@@ -81,11 +81,11 @@ the proposal, the tenderer's track record, and price competitiveness.</p>
 projects must use methodologies<a href="#_ftn5" rel="noopener noreferrer nofollow" target="_blank"><sup>[5]</sup></a><sup> </sup>bilaterally agreed to by Singapore
 and the respective host country, and secure authorisation under the relevant
 government-to-government Implementation Agreement (IA)<a href="#_ftn6" rel="noopener noreferrer nofollow" target="_blank"><sup>[6]</sup></a>. To
-date, Singapore has signed eight implementation agreements (IAs) with Bhutan,
-Chile, Ghana, Papua New Guinea, Peru, Paraguay, Rwanda, and Thailand. Under
-each of the Article 6 IAs, Singapore is committed to channeling the value
-equivalent to 5% of the share of proceeds from authorised carbon credits
-towards climate adaptation measures of the respective host countries.</p>
+date, Singapore has signed nine implementation agreements (IAs) with Bhutan,
+Chile, Ghana, Papua New Guinea, Peru, Paraguay, Rwanda, Thailand, and Vietnam.
+Under each of the Article 6 IAs, Singapore is committed to channeling the
+value equivalent to 5% of the share of proceeds from authorised carbon
+credits towards climate adaptation measures of the respective host countries.</p>
 <p><strong><u>&nbsp;</u></strong>
 </p>
 <p><strong><u>Annex – Description of Projects</u></strong>
