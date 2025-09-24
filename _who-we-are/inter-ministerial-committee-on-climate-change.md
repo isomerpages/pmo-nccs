@@ -54,7 +54,7 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 **Secretariat**
 
 * Mr Benedict Chia, Director General (Climate Change), National Climate Change Secretariat, Strategy Group, Prime Minister's Office
-* Ms Joel Tee, Director (Planning), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
+* Mr Joel Tee, Director (Planning), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
 * Ms Guo Yiran, Director (Policy), National Climate Change Secretariat, Strategy Group, Prime Minister’s Office
 
 **Carbon & Energy Transition Working Group**
