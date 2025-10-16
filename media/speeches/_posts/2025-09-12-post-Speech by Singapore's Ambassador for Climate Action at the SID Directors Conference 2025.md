@@ -1,5 +1,5 @@
 ---
-title: Speech by Singapore's Ambassador of Climate Action at the SID Directors
+title: Speech by Singapore's Ambassador for Climate Action at the SID Directors
   Conference 2025
 permalink: /speech-by-singapore-s-ambassador-of-climate-action-at-the-sid-directors-conference-2025/
 date: 2025-09-12
@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>SPEECH BY SINGAPORE’S AMBASSADOR OF CLIMATE ACTION AT THE SINGAPORE INSTITUTE OF DIRECTORS CONFERENCE 2025, SUNTEC CONVENTION CENTRE, SINGAPORE, 12 SEPTEMBER 2025</strong>
+<p><strong>SPEECH BY SINGAPORE’S AMBASSADOR FOR CLIMATE ACTION AT THE SINGAPORE INSTITUTE OF DIRECTORS CONFERENCE 2025, SUNTEC CONVENTION CENTRE, SINGAPORE, 12 SEPTEMBER 2025</strong>
 </p>
 <hr>
 <p></p>
