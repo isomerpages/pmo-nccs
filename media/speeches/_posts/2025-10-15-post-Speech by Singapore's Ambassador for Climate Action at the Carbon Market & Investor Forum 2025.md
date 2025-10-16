@@ -272,13 +272,6 @@ across Asia. &nbsp;</p>
 <p>Amy Merrill, the CEO of ICVCM, will share more about its new Singapore
 office later in the forum.</p>
 </li>
-</ul>
-</li>
-<li>
-<p>I am also pleased to share that Singapore’s Director-General (Climate
-Change) Benedict Chia has accepted an invitation from ICVCM to serve on
-its Governing Board.</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>I look forward to even closer cooperation between the Singapore Government
 and ICVCM in fostering trusted, high integrity carbon markets globally.</p>
