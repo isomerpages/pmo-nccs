@@ -5,6 +5,7 @@ date: 2022-11-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 **THE FIRST-EVER SINGAPORE PAVILION AT COP27 PROFILES SINGAPORE'S COMMITMENT TO GLOBAL CLIMATE ACTION**
 
@@ -14,4 +15,4 @@ At the start of COP27 on 6 November, the Singapore Pavilion will be launched wit
 
 Throughout the conference period, the Singapore Pavilion will highlight Singapore’s enduring commitment to the global effort against climate change through events and programmes in collaboration with various distinguished partners. Hosted in line with the [thematic days](https://unfccc.int/news/climate-action-calendar-for-cop27-published) designated by the Egypt COP27 Presidency, these events include panel discussions and fireside chats from governments, businesses and the community. The exhibits at the Singapore Pavilion will showcase the Singapore Green Plan 2030, innovative climate solutions as well as international collaborations that help the region and beyond adopt sustainable solutions.
 
-The full programme, daily agenda and list of partners for the COP27 Singapore Pavilion can be found on [https://www.cop-pavilion.gov.sg](https://www.cop-pavilion.gov.sg). The programmes are also available for those in Singapore as they will be live-streamed and available on the Singapore Pavilion website.
+The full programme, daily agenda and list of partners for the COP27 Singapore Pavilion can be found on [https://www.cop-pavilion.gov.sg/cop-home](https://www.cop-pavilion.gov.sg/cop-home). The programmes are also available for those in Singapore as they will be live-streamed and available on the Singapore Pavilion website.

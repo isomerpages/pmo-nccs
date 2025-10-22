@@ -59,7 +59,7 @@ of high-quality carbon credits from decarbonisation activities.</p>
 </ul>
 <p>Australia and Singapore have been active on both fronts.</p>
 <p></p>
-<p><strong><em>Singapore has launched a blended finance initiative called the Financing Asia's Transition Partnership<a rel="noopener noreferrer nofollow" target="_blank"> </a>or FAST-P with a grant of up to US$500 million on a matching basis.</em></strong>
+<p><strong><em>Singapore has launched a blended finance initiative called the Financing Asia's Transition Partnership or FAST-P with a grant of up to US$500 million on a matching basis.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>

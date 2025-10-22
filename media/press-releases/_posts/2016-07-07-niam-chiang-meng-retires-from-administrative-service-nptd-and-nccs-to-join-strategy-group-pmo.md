@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Niam Chiang Meng Retires from Administrative Service; NPTD and NCCS to Join Strategy Group, PMO
+title: Niam Chiang Meng Retires from Administrative Service; NPTD and NCCS to
+  Join Strategy Group, PMO
 subtitle: 07 Jul 2016
 permalink: /media/press-release/niam-chiang-meng-retires-from-administrative-service-nptd-and-nccs-to-join-strategy-group-pmo/
+variant: markdown
 ---
-
-
 Mr Niam Chiang Meng, 58, Permanent Secretary (National Population and Talent Division, NPTD) and Permanent Secretary (National Climate Change Secretariat, NCCS), Prime Minister’s Office, will retire from the Administrative Service on 1 August 2016 after 33 years of distinguished service in the public sector. Deputy Prime Minister and Coordinating Minister for National Security Mr Teo Chee Hean, who has worked closely with Mr Niam in NPTD and NCCS, and also in the field of sports development and promotion, thanked Mr Niam for his leadership and contributions in these important areas.   
 
 From 1 August 2016, NPTD and NCCS will form part of Strategy Group, under the Prime Minister’s Office. The Strategy Group was set up in July 2015 to support the Prime Minister and his Cabinet to establish priorities and strengthen strategic alignment across Government. The inclusion of NPTD which coordinates and formulates whole-of-government policies on population and talent, and NCCS which leads a whole-of-nation effort to address the challenges and opportunities of climate change, will enhance strategy-making and planning on vital issues that span multiple Government ministries and agencies.
@@ -24,4 +24,4 @@ Mr Niam was appointed Permanent Secretary (NPTD) in 2011 and appointed concurren
 
 Mr Niam was awarded the Public Administration Medal (Silver) in 1995 and the Public Administration Medal (Gold) in 2001 for his significant contributions to the Public Service.
 
-Source: [<a href="https://www.psd.gov.sg/press-room/press-releases/niam-chiang-meng-retires-from-administrative-service-nptd-and-nccs-to-join-strategy-group--pmo" target="_blank">Public Service Division, Prime Minister's Office</a>](https://www.psd.gov.sg/press-room/press-releases/niam-chiang-meng-retires-from-administrative-service-nptd-and-nccs-to-join-strategy-group--pmo)
+Source: [<a href="https://www.psd.gov.sg/newsroom/niam-chiang-meng-retires-from-admin-service-nptd-nccs-join-strategy-group/" target="_blank">Public Service Division, Prime Minister's Office</a>](https://www.psd.gov.sg/press-room/press-releases/niam-chiang-meng-retires-from-administrative-service-nptd-and-nccs-to-join-strategy-group--pmo)
