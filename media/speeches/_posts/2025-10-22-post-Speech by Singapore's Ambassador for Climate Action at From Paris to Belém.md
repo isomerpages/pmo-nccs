@@ -75,7 +75,8 @@ and global warming - but not by enough.</p>
 <li>
 <p>Before Paris, global emissions were rising rapidly, at around 1.7% annually
 between 2005 and 2014. Post-Paris, average annual emissions growth fell
-to 0.3% per year from 2015 to 2024.</p>
+to 0.3% per year from 2015 to 2024.<sup>1</sup>
+</p>
 </li>
 <li>
 <p>Before Paris, the world was heading towards warming of 4 degrees Celsius
@@ -94,16 +95,19 @@ to face catastrophic climate change.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>In 2015, carbon pricing mechanisms in 40 jurisdictions covered 12% of
-global emissions.</p>
+global emissions.<sup>2</sup>
+</p>
 </li>
 <li>
 <p>Today, there are either carbon taxes or emissions trading schemes in 80
-jurisdictions, covering 28% of global emissions.</p>
+jurisdictions, covering 28% of global emissions.<sup>3</sup>
+</p>
 </li>
 <li>
 <p>However, today’s average carbon price of around US$19 per tonne is well
 below the US$75 per tonne of CO2 that the International Monetary Fund has
-assessed to be necessary to meet the world’s climate goals.</p>
+assessed to be necessary to meet the world’s climate goals.<sup>4 5</sup>
+</p>
 </li>
 </ul>
 <p>Third, climate finance flows have increased substantially - but they remain
@@ -116,7 +120,8 @@ by 63% since 2020.</p>
 <li>
 <p>But this is still far below the US$6 trillion needed annually by 2030
 to implement developing countries’ climate action plans, as estimated by
-the UNFCCC.</p>
+the UNFCCC.<sup>6</sup>
+</p>
 </li>
 </ul>
 <p>Fourth, the adoption of renewable energy and green technology has accelerated
@@ -132,12 +137,14 @@ for fossil fuels.</p>
 </li>
 <li>
 <p>Electric vehicles are estimated to account for 20% of total car sales
-in 2024, compared to less than 1% in 2015.</p>
+in 2024, compared to less than 1% in 2015.<sup>7</sup>
+</p>
 </li>
 </ul>
 </li>
 <li>
-<p>But fossil fuels still account for 60% of the world’s electricity generation.</p>
+<p>But fossil fuels still account for 60% of the world’s electricity generation.<sup>8</sup>
+</p>
 </li>
 <li>
 <p>And green technologies needed for hard-to-abate sectors, like low-carbon
@@ -200,11 +207,13 @@ are expected to be bleached beyond recovery.</p>
 <li>
 <p>Heat-related illnesses and deaths are already increasing globally. The
 World Health Organisation calls climate change one of the World’s biggest
-health threats .</p>
+health threats.<sup>9</sup>
+</p>
 </li>
 <li>
 <p>Globally, it is estimated that damage due to climate change will cost
-an annual US$38 trillion by 2050.</p>
+an annual US$38 trillion by 2050.<sup>10</sup>
+</p>
 </li>
 </ul>
 <p>The task before us is clear – we must step up the pace of emissions reductions
