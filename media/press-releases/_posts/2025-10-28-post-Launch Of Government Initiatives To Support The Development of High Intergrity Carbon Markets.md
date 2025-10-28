@@ -45,7 +45,7 @@ plan. The VCM guidance was developed in close consultation with &nbsp;&nbsp;the
 Singapore Sustainable Finance Association (SSFA), industry partners, academics,
 and international organisations, and is available at <a href="https://go.gov.sg/vcmguidance2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/vcmguidance2025</a>.
 It will be regularly reviewed and updated to keep pace with the latest
-developments.<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>
+developments.<sup>1</sup>
 </p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 To demonstrate application of the key principles outlined within the VCM
@@ -124,11 +124,11 @@ in the carbon markets.”</p>
 <p><a href="/files/docs/default-source/default-document-library/Annex_C_Additional_Information_on_the_Financial_Sector_Carbon_Markets_Development_Grant.pdf" rel="noopener noreferrer nofollow" target="_blank">ANNEX C: Additional Information on the Financial Sector Carbon Markets Development Grant</a>
 </p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> To
-ensure the VCM guidance is aligned with international best practices and
-practical for companies, the guidance also incorporated the advice of the
-International Advisory Panel for Carbon Credits (IAPCC, refer to Annex
-A) and feedback from the public consultation carried out from 20 June to
-20 July 2025. The public consultation outcome can be found in Annex B.</p>
+<p><sup>1</sup>To ensure the VCM guidance is aligned with international best
+practices and practical for companies, the guidance also incorporated the
+advice of the International Advisory Panel for Carbon Credits (IAPCC, refer
+to Annex A) and feedback from the public consultation carried out from
+20 June to 20 July 2025. The public consultation outcome can be found in
+Annex B.</p>
 <hr>
 <p></p>
