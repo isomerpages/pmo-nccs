@@ -1,7 +1,7 @@
 ---
 title: Speech by Singapore's Ambassador for Climate Action at the SID Directors
   Conference 2025
-permalink: /speech-by-singapore-s-ambassador-of-climate-action-at-the-sid-directors-conference-2025/
+permalink: /speech-by-singapore-s-ambassador-for-climate-action-at-the-sid-directors-conference-2025/
 date: 2025-09-12
 layout: post
 description: ""
