@@ -117,7 +117,11 @@ will enable financial institutions to deepen expertise, forge partnerships
 and develop solutions, laying the foundations for their sustained engagement
 in the carbon markets.”</p>
 <p>
-<br>
+<br><a href="/files/docs/default-source/default-document-library/Annex_A_List_of_IAPCC_members.pdf" rel="noopener noreferrer nofollow" target="_blank">ANNEX A: List of IAPCC members</a>
+</p>
+<p><a href="/files/docs/default-source/default-document-library/Annex_B_Summary_of_feedback_and_responses_for_public_consultation.pdf" rel="noopener noreferrer nofollow" target="_blank">ANNEX B: Summary of feedback and responses for public consultation</a>
+</p>
+<p><a href="/files/docs/default-source/default-document-library/Annex_C_Additional_Information_on_the_Financial_Sector_Carbon_Markets_Development_Grant.pdf" rel="noopener noreferrer nofollow" target="_blank">ANNEX C: Additional Information on the Financial Sector Carbon Markets Development Grant</a>
 </p>
 <hr>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> To
