@@ -41,8 +41,7 @@ Rising temperatures will negatively affect urban areas, which already tend to be
 
 The effects of climate change, such as intense storms, flooding and prolonged droughts, are one of the trends threatening global food security. In Singapore, we are particularly vulnerable to fluctuations in global food supply and prices, as we import more than 90 per cent of our food.
 
-![Food security](/images/food-security.jpg "Food security")  
-*A small increase in global temperature can cause changes in weather patterns that will disrupt crops grown in other countries, and eventually our food supply.*
+![Food security](/images/food-security.jpg "Food security") *A small increase in global temperature can cause changes in weather patterns that will disrupt crops grown in other countries, and eventually our food supply.*
 
 **National Climate Change Study**
 
