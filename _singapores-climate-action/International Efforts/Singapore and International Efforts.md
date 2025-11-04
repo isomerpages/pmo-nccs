@@ -53,9 +53,9 @@ At COP-27 in Sharm El-Sheikh in November 2022, Singapore joined several global i
 
 During COP-28 in Dubai in November 2023, Singapore signed the Global Renewables and Energy Efficiency Pledge, the Emirates Declaration on Sustainable Agriculture, Resilient Food Systems, and Climate Action, the Global Cooling Pledge, and the Declaration of Intent on Mutual Recognition of Certification Schemes for Hydrogen and Derivatives.
 
-Singapore will not be claiming from the Loss and Damage Fund and is committed to doing our part to support fellow developing countries.
-
 At COP-29 in Baku in November 2024, Singapore supported 9 key pledges/declarations, and initiatives launched by the COP29 Presidency: (i) COP29 Hydrogen Declaration; (ii) COP29 Global Energy Storage and Grids Pledge; (iii) COP29 Green Energy Zones and Corridors Pledge; (iv) COP29 Truce Appeal; (v) COP29 Declaration on Reducing Methane from Organic Waste; (vi) The Baku Global Climate Transparency Platform (BTP) – Baku Declaration on Global Climate Transparency; (vii) COP29 Declaration on Water for Climate Action; (viii) The Baku Harmoniya Climate Initiative for Farmers; and (ix) COP29 Declaration on Enhanced Action in Tourism.
+
+Singapore will not be claiming from the Loss and Damage Fund and is committed to doing our part to support fellow developing countries.
 
 We also provide technical assistance and human resource capacity building to climate-related areas through the Singapore Cooperation Programme (SCP). For instance, under the ambit of the SCP, we have established a Small Island Developing States Technical Cooperation Programme that caters to the specific needs of small island developing states, including climate-related issues and challenges. The SCP training courses cover a wide range of topics including sustainable urban development, water management and energy efficiency and emissions reduction.
 
