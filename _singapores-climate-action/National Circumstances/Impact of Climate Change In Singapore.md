@@ -31,8 +31,7 @@ A mean temperature increase of 1.5°C to 2.5°C could affect the natural diversi
 
 Singapore is situated in a region where vector-borne diseases are endemic. Most cases of vector-borne diseases like dengue are observed during warmer periods of the year. In addition, frequent and severe instances of warm weather may lead to increased incidence of heat-related injuries, which puts children and the elderly at greater risk.
 
-![Effect on public health](/images/effect-on-public-health.jpg "Effect on public health")  
-*A warmer climate creates heat stress and discomfort, with the elderly most at risk.*
+![Effect on public health](/images/effect-on-public-health.jpg "Effect on public health") *A warmer climate creates heat stress and discomfort, with the elderly most at risk.*
 
 **Rising Temperatures**
 
