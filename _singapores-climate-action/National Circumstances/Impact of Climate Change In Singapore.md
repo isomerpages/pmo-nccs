@@ -7,9 +7,9 @@ description: ""
 ---
 ### IMPACT OF CLIMATE CHANGE IN SINGAPORE
 
-Singapore is not insulated from the impact of climate change. From 1984 to 2022, the annual mean temperature rose by 0.24°C per decade. The mean sea level around Singapore is observed to be increasing at a rate of around 3.5mm per year in the period from 1993 to 2021.
+Singapore is not insulated from the impact of climate change. From 1984 to 2022, the annual mean temperature rose by 0.24°C per decade. 2024 was also one of Singapore's warmest years on record, tied with 2019 and 2016. The mean sea level in Singapore is also projected to rise by 0.23m to 1.15m by the end of the century.
 
-Rainfall has also increased in recent years. Annual rainfall total for Singapore has been gradually increasing at a rate of 83 mm per decade from 1980 to 2022. 
+Rainfall has also increased in recent years. Annual rainfall total for Singapore has been gradually increasing at a rate of 83 mm per decade from 1980 to 2022. Singapore's total rainfall in 2024 was 8.1% higher than the long-term annual average.
 
 ### How Can Climate Change Affect Singapore?
 
@@ -29,7 +29,7 @@ A mean temperature increase of 1.5°C to 2.5°C could affect the natural diversi
 
 **Effect on public health**
 
-Singapore is situated in a region where vector-borne diseases are endemic. Most cases of vector-borne diseases like dengue are observed during warmer periods of the year. In addition, frequent and severe instances of warm weather may lead to more occurrences of heat stress and discomfort among the elderly and sick.
+Singapore is situated in a region where vector-borne diseases are endemic. Most cases of vector-borne diseases like dengue are observed during warmer periods of the year. In addition, frequent and severe instances of warm weather may lead to increased incidence of heat-related injuries, which puts children and the elderly at greater risk.
 
 ![Effect on public health](/images/effect-on-public-health.jpg "Effect on public health")  
 *A warmer climate creates heat stress and discomfort, with the elderly most at risk.*
