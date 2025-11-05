@@ -3,6 +3,7 @@ title: Transport
 permalink: /singapores-climate-action/mitigation-efforts/transport/
 description: ""
 third_nav_title: Mitigation Efforts
+variant: markdown
 ---
 ### TRANSPORT
 
@@ -30,7 +31,7 @@ Singapore aims to have all vehicles to run on cleaner energy by 2040. To support
 Technical Reference 25 (TR25), is periodically reviewed by representatives from industry, academia and government agencies to ensure that it remains aligned to
 industry best practices.
 
-* **EV Charger Deployment.** Singapore aims to deploy 60,000 electric vehicle EV charging points nationwide by 2030, comprising 40,000 in public car parks and 20,000 in private premises. Every HDB town will be EV-ready by 2025, with around 2,000 HDB carparks to be fitted with EV charging points.
+* **EV Charger Deployment.** Singapore aims to deploy 60,000 electric vehicle EV charging points nationwide by 2030, comprising 40,000 in public car parks and 20,000 in private premises. Every HDB town will be EV-ready by 2025, with around 2,000 HDB carparks to be fitted with EV charging points. As of March 2025, more than 60% of HDB carparks have been equipped with EV charging points.
 
 Learn more about [Singapore's EV vision and road map](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles.html).
 
