@@ -19,9 +19,13 @@ Singapore is committed to ensuring the integrity, quality and transparency of ca
 
 To advance the generation and sharing of carbon credits to support Singapore and other partner countries’ climate ambitions, Singapore has signed Memoranda of Understanding (MOUs) with countries such as Cambodia, Chile, Mongolia and Rwanda on carbon credits collaboration aligned to Article 6 of the Paris Agreement. These collaborations will also prioritise sustainable development and co-benefits to the local communities and economy.
 
-Under these MOUs, Singapore and partner countries will work towards a legally binding Implementation Agreement that sets out a bilateral framework for the international transfer of correspondingly adjusted mitigation outcomes, and identifies potential Article 6-compliant mitigation activities which can support both countries to achieve their respective NDCs. Singapore has since substantively concluded the negotiation of the Implementation Agreement with Bhutan, Ghana, Paraguay and Vietnam. At COP-28 in December 2023, Singapore signed our first Implementation Agreement with Papua New Guinea. 
+Under these MOUs, Singapore and partner countries will work towards a legally binding Implementation Agreement that sets out a bilateral framework for the international transfer of correspondingly adjusted mitigation outcomes, and identifies potential Article 6-compliant mitigation activities which can support both countries to achieve their respective NDCs. 
+
+As of October 2025, Singapore has signed Implementation Agreements with  ten countries: Papua New Guinea, Ghana, Bhutan, Chile, Peru, Rwanda, Paraguay,  Thailand, Vietnam and Mongolia. 
 
 More details can be found at Singapore’s Carbon Markets Cooperation [website](https://www.carbonmarkets-cooperation.gov.sg/).
+
+In Sep 2025, NCCS and the Ministry of Trade and Industry (MTI) announced that the Singapore Government will contract 2.175 million tonnes worth of high-quality nature-based carbon credits from four projects in Ghana, Peru, and Paraguay. The use of carbon credits under Article 6 of the Paris Agreement provides a viable and effective complementary pathway for Singapore to achieve our decarbonisation targets, while pursuing all other feasible decarbonisation pathways. More details can be found in this [link](https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/).
 
 **Collaboration on Low-Carbon Solutions**
 
