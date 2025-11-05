@@ -20,16 +20,18 @@ Although solar power is Singapore’s most viable renewable energy alternative, 
 
 To enhance the resilience of our power grid and mitigate solar intermittency, the Energy Market Authority (EMA) appointed Sembcorp Industries to build, own and operate a utility-scale Energy Storage Systems (ESS). The 285 megawatt-hour (MWh) ESS facility is the largest deployment in Southeast Asia, and the fastest of its size to be deployed, in the world.
 
+![](/images/sembcorp%20tengeh%20floating%20solar%20farm%201.png)
+*The 60 megawatt-peak floating solar photovoltaic farm at Tengeh reservoir has some 120,000 solar panels spanning across 45 hectares, or the equivalent of about 45 football fields. Image courtesy of Sembcorp Industries.*
+
 _Regional Power Grids_
 
-Singapore has an ongoing Request for Proposal to import a capacity of 4 GW of low-carbon electricity by 2035, which is expected to make up around 30% of Singapore’s total projected supply.
+To ensure adequate supply to meet Singapore's future energy needs, Singapore is seeking to import around 6 GW of low-carbon electricity by 2035, up from the initial target of 4 GW. This is expected to be around one-third of our energy demand then.
 
 As a pathfinder to the ASEAN Power Grid, Singapore has [begun importing renewable hydropower from the Lao People's Democratic Republic (PDR) since June 2022](https://www.ema.gov.sg/news-events/news/media-releases/2022/singapore-commences-first-renewable-energy-electricity-import-via-regional-multilateral-power-trade), using existing interconnections via Thailand and Malaysia, as part of the Lao PDR-Thailand-Malaysia-Singapore Power Integration Project (LTMS-PIP).
 
 To further develop and refine our technical and regulatory frameworks for large-scale electricity imports, Singapore has also announced two small-scale trial imports of electricity: [100 MW from Peninsular Malaysia and 100 MW from a solar farm in Pulau Bulan, Indonesia](https://www.ema.gov.sg/electricity-imports.aspx). 
 
-![](/images/sembcorp%20tengeh%20floating%20solar%20farm%201.png)
-*The 60 megawatt-peak floating solar photovoltaic farm at Tengeh reservoir has some 120,000 solar panels spanning across 45 hectares, or the equivalent of about 45 football fields. Image courtesy of Sembcorp Industries.*
+
 
 _Emerging Low-Carbon Alternatives_
 
@@ -52,15 +54,19 @@ Singapore also published a hydrogen feasibility study report, [“Study of Hydro
 
 **Carbon Capture, Utilisation and Storage (CCUS)**
 
-We are also exploring possible CCUS deployment pathways. Carbon dioxide captured could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. Read more about [CCUS in Singapore](/singapores-climate-action/mitigation-efforts/industry/).
+We are also exploring possible CCUS deployment pathways. Carbon dioxide captured could be sequestered in suitable sub-surface geological formations, utilised as feedstock for synthetic fuels or as building materials through mineralisation. Singapore will continue to monitor technological and market developments, and scale up deployment as pathways become techno-economically viable. 
+
+In July 2025, EMA commissioned three power generation companies to [conduct carbon capture and storage (CCS) feasibility studies.](https://www.ema.gov.sg/news-events/news/media-releases/2025/three-gencos-to-conduct-ccs-studies) Two power sector CCS pathways are studied: (a) post-combustion carbon capture and (b) pre-combustion carbon capture. Findings from the feasibility studies will provide insights into the power sector CCS pathways, identify infrastructure requirements, and further assess the feasibility of CCS to decarbonise the power sector. 
+
+Read more about [CCUS in Singapore](/singapores-climate-action/mitigation-efforts/industry/).
 
 _Natural Gas_
 
-Since 2000, Singapore has shifted away from less efficient fossil fuels and in turn increased the percentage of natural gas used in electricity generation from 19% to more than 95% today. 
+Since 2000, Singapore has shifted away from less efficient fossil fuels and in turn increased the percentage of natural gas used in electricity generation from 19% to about 94% in 2924. 
 
 Natural gas will continue to be an important fuel for Singapore in the near future as we scale up our other switches. We will continue working with the industry to improve the energy and carbon efficiency of natural gas generation units during this transition. 
 
-Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. Singapore's fuel mix allows our emission to be much less carbon intensive than other nations that still use coal as an important part of their power generation. [Singapore's Grid Emission Factor](https://www.ema.gov.sg/resources/singapore-energy-statistics/chapter2) — a measure of the carbon intensity of electricity generation — has fallen from 0.4237 kgCO<sub>2</sub>/kWh in 2016 to 0.4057 kgCO<sub>2</sub>/kWh in 2021.
+Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. Singapore's fuel mix allows our emission to be much less carbon intensive than other nations that still use coal as an important part of their power generation. [Singapore's Grid Emission Factor](https://www.ema.gov.sg/resources/singapore-energy-statistics/chapter2) — a measure of the carbon intensity of electricity generation — has fallen from 0.409 kgCO<sub>2</sub>/kWh in 2019 to 0.402 kgCO<sub>2</sub>/kWh in 2024.
 
 ![](/images/ema_singapore's%20grid%20emission%20factor.png)
 *Singapore's Grid Emission Factor, 2016 to 2021. Source: EMA*
