@@ -16,10 +16,10 @@ This builds on our 2030 NDC to reduce emissions to around 60 MtCO<sub>2</sub>e
 by 2030, after peaking emissions earlier. This is aligned with our <a href="https://www.nccs.gov.sg/files/docs/default-source/publications/nccsleds.pdf" class="Hyperlink SCXW214042427 BCX8" rel="noreferrer noopener" target="_blank"><u>Long-Term Low-Emissions Development Strategy (LEDS)</u></a> to
 achieve net-zero emissions by 2050.   &nbsp;</p>
 <p>Singapore has always taken climate action seriously and we have always
-emphasised on sustainable development. In 2009, we pledged to reduce our
-emissions by 16% below BAU levels by 2020 ahead of the Copenhagen Summit.
-Singapore achieved this pledge with a 32% reduction below BAU levels in
-2020.&nbsp;</p>
+emphasised our commitment to sustainable development. In 2009, we pledged
+to reduce our emissions by 16% below BAU levels by 2020 ahead of the Copenhagen
+Summit. Singapore achieved this pledge with a 32% reduction below BAU levels
+in 2020.&nbsp;</p>
 <p>Despite Singapore’s <a href="https://www.nccs.gov.sg/singapores-climate-action/overview/national-circumstances/" class="Hyperlink SCXW214042427 BCX8" rel="noreferrer noopener" target="_blank"><u>national circumstances</u></a> as
 a resource-constrained and alternative energy-disadvantaged city-state,
 we are committed to doing our part as a responsible member of the international

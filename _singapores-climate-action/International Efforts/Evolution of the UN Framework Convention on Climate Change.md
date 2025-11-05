@@ -76,3 +76,9 @@ Singapore announced various initiatives to support and accelerate a green
 transition in Singapore, our region, and beyond, including the [FAST-P (Financing Asia’s Transition Partnership)](https://www.mas.gov.sg/news/speeches/2023/getting-transition-finance-right) blended finance initiative, the [Singapore-Asia Taxonomy](https://www.mas.gov.sg/news/media-releases/2023/mas-launches-worlds-first-multi-sector-transition-taxonomy) and the [Transition Credits Coalition (TRACTION)](https://www.mas.gov.sg/news/media-releases/2023/mas-launches-traction-and-announces-pilots-to-develop-transition-credits)
 
 Singapore organised the COP28 Singapore Pavilion, showcasing Singapore’s climate solutions, innovations and partnerships to accelerate collective climate action. Singapore sent our first official youth delegation to COP28, with youth delegates identified from the climate youth development programme.
+
+**2024**
+
+At COP-29 in Baku, Azerbaijan, Singapore pledged US$500 million to match concessional funding to drive climate finance and support decarbonisation in Asia. Singapore also signed a MOU with Zambia to collaborate on carbon credits aligned with Article 6 of the Paris Agreement, while Singapore and Peru have substantively concluded negotiations on an Implementation Agreement on carbon credits collaboration.
+
+Singapore also organised the COP29 Singapore Pavilion, showcasing interactive exhibits to display Singapore’s climate initiatives and efforts. Youth delegates from the climate youth development programme planned and executed programmes at the Singapore Pavilion to explore climate action in biodiversity, education and youth resilience.

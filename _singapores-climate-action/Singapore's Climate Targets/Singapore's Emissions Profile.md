@@ -8,7 +8,7 @@ variant: tiptap
 <h3>SINGAPORE'S EMISSIONS PROFILE</h3>
 <p>Climate change is a global challenge that requires a global response.
 Despite the <a href="/singapores-climate-action/overview/national-circumstances" rel="noopener noreferrer nofollow" target="_blank">unique challenges and constraints</a> Singapore
-faces as a dense built-up city-state with no hinterland and limited resources,
+faces as a densely built-up city-state with no hinterland and limited resources,
 we are committed to doing our part in the global fight against climate
 change.</p>
 <p>Historically, our strategic position along the East-West trade routes
