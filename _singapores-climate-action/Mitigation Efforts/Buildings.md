@@ -29,7 +29,7 @@ Given the long life cycle of buildings, and as Singapore raise our national clim
 
 Periodic Energy Audits (PEA) of buildings’ cooling systems are also conducted every 3 years in new and existing buildings that have undergone retrofit, to ensure that these buildings perform as designed during their life cycle. In addition, companies have to submit energy consumption and energy-related building data annually, which are gradually being made publicly available in a phased approach. This allows building owners to determine their energy performance relative to other buildings of the same building type.
 
-Since September 2025, BCA introduced the Mandatory Energy Improvement (MEI) Regime, which require existing buildings that are consistently energy-intensive to undergo energy audits and undertake energy efficiency improvement measures. The MEI regime will apply to energy-intensive buildings with Gross Floor Area (GFA) of 5,000 m2 and above for various building typolgies<sup>2</sup>. This will ensure energy-intensive existing buildings are subject to energy efficiency requirements, even if they do not undergo retrofitting or energy use change. 
+Since September 2025, BCA introduced the Mandatory Energy Improvement (MEI) Regime, which require existing buildings that are consistently energy-intensive to undergo energy audits and undertake energy efficiency improvement measures. The MEI regime will apply to energy-intensive buildings with Gross Floor Area (GFA) of 5,000 m<sup>2</sup> and above for various building typolgies<sup>2</sup>. This will ensure energy-intensive existing buildings are subject to energy efficiency requirements, even if they do not undergo retrofitting or energy use change. 
  
 
 
