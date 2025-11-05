@@ -26,7 +26,7 @@ Desalinated water is one of Singapore’s water supply sources, meeting about 10
 
 **World’s First Integrated Waste and Water Treatment Facility**
 
-We also aim to maximise energy efficiency in our water and waste treatment operations. One key initiative being developed is the co-location of the Tuas Water Reclamation Plant (TWRP) and an Integrated Waste Management Facility (IWMF), collectively known as [Tuas Nexus](https://www.nea.gov.sg/media/news/news/index/tuas-nexus-singapore-s-first-integrated-water-and-solid-waste-treatment-facility-begins-construction). It will harness synergies from the solid waste and used water treatment processes such as to generate enough electricity to sustain its own operations, with any excess electricity exported to the national grid. Tuas Nexus is expected to be completed in phases from 2026 onwards.
+We also aim to maximise energy efficiency in our water and waste treatment operations. One key initiative being developed is the co-location of the Tuas Water Reclamation Plant (TWRP) and an Integrated Waste Management Facility (IWMF), collectively known as [Tuas Nexus](https://www.nea.gov.sg/media/news/news/index/tuas-nexus-singapore-s-first-integrated-water-and-solid-waste-treatment-facility-begins-construction). It will harness synergies from the solid waste and used water treatment processes such as to generate enough electricity to sustain its own operations, with any excess electricity exported to the national grid. Tuas Nexus is expected to be completed in 2027.
 
 Tuas Nexus will include one of Southeast Asia’s largest sludge incineration plants, which will help to reduce direct methane emissions from wastewater sludge through incineration.
 
