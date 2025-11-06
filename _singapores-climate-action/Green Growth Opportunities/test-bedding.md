@@ -24,7 +24,7 @@ phases over the next 20 years. Upon completion, it will house a working
 population of 20,000 green collar workers.</p>
 </li>
 <li>
-<p>Singapore's National Water Agency, PUB, in collaboration with Singapore
+<p>PUB, Singapore's National Water Agency, in collaboration with Singapore
 Economic Development Board (EDB), launched a 1 megawatt-peak (MWp) <strong><a href="https://www.pub.gov.sg/Public/WaterLoop/Sustainability/Solar/Floating" rel="noopener nofollow" target="_blank">floating solar photovoltaic (PV) testbed</a></strong> at
 Tengeh Reservoir in 2016. The pilot project aims to assess the feasibility
 and cost effectiveness of installing floating solar PV systems on freshwater
