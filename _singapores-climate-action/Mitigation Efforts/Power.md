@@ -68,5 +68,5 @@ Natural gas will continue to be an important fuel for Singapore in the near futu
 
 Among all fossil fuels, natural gas produces the least amount of carbon emissions per unit of electricity. Singapore's fuel mix allows our emission to be much less carbon intensive than other nations that still use coal as an important part of their power generation. [Singapore's Grid Emission Factor](https://www.ema.gov.sg/resources/singapore-energy-statistics/chapter2) — a measure of the carbon intensity of electricity generation — has fallen from 0.409 kgCO<sub>2</sub>/kWh in 2019 to 0.402 kgCO<sub>2</sub>/kWh in 2024.
 
-![](/images/ema_singapore's%20grid%20emission%20factor.png)
-*Singapore's Grid Emission Factor, 2016 to 2021. Source: EMA*
+(/images/GEF_2024.jpg)
+*Singapore's Grid Emission Factor, 2019 to 2024. Source: EMA*
