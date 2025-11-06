@@ -17,5 +17,8 @@ high impact research, development and demonstration (RD&amp;D) in data
 centre efficiency in Singapore.</p>
 <p>IMDA will continue to <strong>develop policies and guidelines</strong> related
 to resource efficiency such as energy use by data centres in Singapore
-to achieve a sustainable computing infrastructure.</p>
+to achieve a sustainable computing infrastructure. In 2023, IMDA announced
+one of the world's first standard for optimising energy efficiency for
+<a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/imda-introduces-sustainability-standard-for-data-centres-operating-in-tropical-climates" rel="noopener nofollow" target="_blank">data centres in tropical climate countries.</a>IMDA is also working with
+BCA to update the Green Mark Scheme for data centres.</p>
 <p></p>
