@@ -2,7 +2,7 @@
 title: Coastal Protection
 permalink: /singapores-climate-action/coastal-protection/
 third_nav_title: Adaptation Efforts
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3>COASTAL PROTECTION</h3>
@@ -25,8 +25,8 @@ Southern Waterfront, Changi and the East Coast, was completed in 2025.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overview_of_Site_specific_Studies_in_Singapore.png">
 </div>
-<p><em>Overview of site-specific studies in Singapore</em>
-<br><em>Source: PUB, </em>Singapore's National Water Agency</p>
+<p><em>Overview of site-specific studies in Singapore<br>Source: PUB, Singapore's National Water Agency</em>
+</p>
 <p>The SSS for City-East Coast has recommended building coastal barriers
 at the Greater Southern Waterfront, as well as a mixture of raised structures
 and tidal gates at Changi. These measures will be multi-functional spaces
