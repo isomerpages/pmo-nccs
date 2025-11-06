@@ -138,5 +138,6 @@ from 0.409 kgCO<sub>2</sub>/kWh in 2019 to 0.402 kgCO<sub>2</sub>/kWh in
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEF_2024.jpg">
 </div>
-<p><em>Singapore's Grid Emission Factor, 2019 to 2024. Source: EMA</em>
+<p><em>Singapore's Grid Emission Factor, 2019 to 2024. </em>
+<br><em>Source: EMA</em>
 </p>
