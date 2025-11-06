@@ -19,9 +19,8 @@ which has three prongs:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Implementing national-level cooling strategies to benefit all segments
-of our society.
-<br>
-<br>This includes strategies to cool our urban environment, such as urban
+of our society.</p>
+<p>This includes strategies to cool our urban environment, such as urban
 planning and building design to improve air flow and ventilation, greenery
 and cool materials, and use of energy efficient cooling technologies to
 reduce the amount of waste heat and greenhouse gases generated.
@@ -29,8 +28,7 @@ reduce the amount of waste heat and greenhouse gases generated.
 </p>
 </li>
 <li>
-<p>Deepening our scientific understanding of the impact of rising temperatures.</p>
-<p>
+<p>Deepening our scientific understanding of the impact of rising temperatures.
 <br>CCRS has released the results of Singapore’s Third National Climate Change
 Study (V3), which provides the world’s highest resolution climate projections
 for Singapore and Southeast Asia, including for heat. These updated projections
@@ -44,8 +42,7 @@ health and other conditions.</p>
 </li>
 <li>
 <p>Strengthening the community’s resilience, especially among more vulnerable
-population segments.</p>
-<p>
+population segments.
 <br>We are empowering the community to cope with a warming world, including
 by launching the <a href="https://www.nea.gov.sg/media/news/news/index/new-heat-stress-advisory-launched-to-guide-public-on-minimising-risk-of-heat-related-illnesses" rel="noopener nofollow" target="_blank">Heat Stress Advisory</a> to
 guide the public on ways to minimise the risk of heat stress. There are
