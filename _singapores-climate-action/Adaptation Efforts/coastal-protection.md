@@ -13,9 +13,9 @@ expected to rise up to 1.15 metres by 2100. Coupled with storm surges and
 high tides, sea levels could rise up to 5 metres. Singapore is particularly
 vulnerable to the threat of sea level rise, as around 30 per cent of our
 island is less than 5 metres above mean sea level.</p>
-<p>National Water Agency PUB manages both inland and coastal floods holistically
-and leads and coordinates whole-of-government efforts in ensuring coastal
-and flood resilience.</p>
+<p>PUB, Singapore's National Water Agency manages both inland and coastal
+floods holistically and leads and coordinates whole-of-government efforts
+in ensuring coastal and flood resilience.</p>
 <p>Since 2021, Singapore has progressively commenced site-specific studies
 (SSS) at various sections of the coastline to develop tailored coastal
 protection measures. The SSS for City-East Coast, which covers the Greater
