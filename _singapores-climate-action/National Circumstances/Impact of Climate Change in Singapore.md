@@ -15,9 +15,9 @@ Rainfall has also increased in recent years. Annual rainfall total for Singapore
 
 **Sea level rise**
 
-As a low-lying island, the rise in sea level poses the most immediate threat to Singapore. Much of our nation lies only 15 m above the Singapore Height Datum <sup><a href="#fn1" id="ref1">1</a></sup>, with about 30 per cent of our island being less than 5 m above the Singapore Height Datum.
+As a low-lying island, the rise in sea level poses the most immediate threat to Singapore. Much of our nation lies only 15 m above the Singapore Height Datum<sup>1</sup>, with about 30 per cent of our island being less than 5 m above the Singapore Height Datum.
 
-<sup id="fn1">1. Singapore Height Datum is the reference established based on the mean sea level determined at the tide gauge located at Victoria Dock in Tanjong Pagar between 1935-1937. It is used for height measurement in engineering and mapping activities.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+<sup id="fn1"><sup>1</sup> Singapore Height Datum is the reference established based on the mean sea level determined at the tide gauge located at Victoria Dock in Tanjong Pagar between 1935-1937. It is used for height measurement in engineering and mapping activities.
 
 **Water resources**
 
@@ -50,4 +50,5 @@ Singapore has undertaken three National Climate Change Studies over the past dec
 The findings of the latest study, the Third National Climate Change Study (V3), was released by Centre for Climate Research Singapore (CCRS) in January 2024. V3 projects higher temperatures, more wet and dry extremes, and accelerating increase in mean sea levels for Singapore and Southeast Asia by the end of the century. This is consistent with the findings of the [Intergovernmental Panel on Climate Change’s (IPCC) Working Group I Sixth Assessment Report (AR6)](https://www.ipcc.ch/assessment-report/ar6/). The updated climate projections will enable the Singapore Government to review and refine our climate adaptation plans to ensure that Singapore remains resilient to the impact of climate change. Detailed results can be found in [V3 Stakeholder and Technical Reports](https://www.mss-int.sg/v3-climate-projections/resources/v3-reports) and [V3 data visualisation portal](http://www.mss-int.sg/V3-climate-projections).
 
 <a href="/images/v3_infographic_english.jpg?sfvrsn=1e966f02_0" target="_blank">![Key Climate Change Projections For Singapore](/images/v3_infographic_english.jpg)Click here to enlarge the infographic</a>
-*Source: CCRS*
+
+*Source: CCRS*</sup>
