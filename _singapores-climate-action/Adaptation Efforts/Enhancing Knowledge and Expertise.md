@@ -16,8 +16,7 @@ and by forming partnerships with international experts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Enhancing Knowledge and Expertise" alt="Enhancing Knowledge and Expertise" src="/images/enhancing-knowledge-and-expertise.jpg">
 </div>
-<p>
-<br><em>Enhancing our capabilities in climate modelling and climate science will enable Singapore to better prepare itself to adapt to climate change.</em>
+<p><em>Enhancing our capabilities in climate modelling and climate science will enable Singapore to better prepare itself to adapt to climate change.</em>
 </p>
 <p><strong>Amassing Knowledge in Local Climate Change</strong>
 <br>Our local research institutes are providing invaluable knowledge on climate
