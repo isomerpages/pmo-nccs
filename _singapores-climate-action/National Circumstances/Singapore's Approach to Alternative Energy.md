@@ -32,7 +32,7 @@ and land scarcity limits our potential for sustainably-grown domestic biomass.</
 <img style="width: 100%" height="auto" width="100%" title="Singapore's Approach to Alternative Energy" alt="Singapore's Approach to Alternative Energy" src="/images/singapores-approach-to-alternative-energy.jpg">
 </div>
 <p><em>Solar panels at Marina Barrage</em>
-<br><em>Source: PUB, Singapore's National Water Agency</em>
+<br><em>Image Courtesy of PUB, Singapore's National Water Agency</em>
 </p>
 <p>Singapore's high average annual solar irradiation of about 1,580 kWh/m<sup>2</sup> makes
 solar photovoltaic (PV) a potential renewable energy option for Singapore.
