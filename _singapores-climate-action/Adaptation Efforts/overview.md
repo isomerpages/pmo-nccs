@@ -25,7 +25,8 @@ term.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="Singapore's Adaptation Approach" alt="Singapore's Adaptation Approach" src="/images/singapores-approach-to-adaptation.jpg">
 </div>
-<p>Source: Resilience Working Group</p>
+<p><em>Source: Resilience Working Group</em>
+</p>
 <p><strong>Being Flexible to Incorporate Future Findings</strong>
 <br>The <a href="/who-we-are/inter-ministerial-committee-on-climate-change/" rel="noopener noreferrer nofollow" target="_blank">Resilience Working Group (RWG)</a> under
 the <a href="/who-we-are/inter-ministerial-committee-on-climate-change/" rel="noopener noreferrer nofollow" target="_blank">Inter-Ministerial Committee on Climate Change (IMCCC)</a> studies
