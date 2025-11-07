@@ -37,7 +37,7 @@ and land scarcity limits our potential for sustainably-grown domestic biomass.</
 <p>Singapore's high average annual solar irradiation of about 1,580 kWh/m<sup>2</sup> makes
 solar photovoltaic (PV) a potential renewable energy option for Singapore.
 However, we face challenges to the use of solar energy in Singapore. We
-have limited available land for the large scale deployment of solar panels.
+have limited available land for the large-scale deployment of solar panels.
 In addition, the presence of high cloud cover across Singapore and urban
 shading poses challenges such as intermittency.</p>
 <p>With the limited renewable energy options available to us and the current
