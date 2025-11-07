@@ -122,7 +122,7 @@ the power sector.</p>
 </p>
 <p>Since 2000, Singapore has shifted away from less efficient fossil fuels
 and in turn increased the percentage of natural gas used in electricity
-generation from 19% to about 94% in 2924.</p>
+generation from 19% to about 94% in 2024.</p>
 <p>Natural gas will continue to be an important fuel for Singapore in the
 near future as we scale up our other switches. We will continue working
 with the industry to improve the energy and carbon efficiency of natural
