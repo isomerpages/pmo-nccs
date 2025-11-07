@@ -1,8 +1,9 @@
 ---
-title: Carbon Services And Trading
+title: Carbon Services and Trading
 permalink: /singapores-climate-action/carbon-services-and-trading/
 third_nav_title: Green Growth Opportunities
 description: ""
+variant: tiptap
 ---
 ### CARBON SERVICES AND TRADING
 

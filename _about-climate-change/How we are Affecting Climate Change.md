@@ -1,7 +1,8 @@
 ---
-title: How We Are Affecting Climate Change
+title: How we are Affecting Climate Change
 permalink: /about-climate-change/how-we-are-affecting-climate-change/
 variant: markdown
+description: ""
 ---
 ### HOW WE ARE AFFECTING CLIMATE CHANGE
 

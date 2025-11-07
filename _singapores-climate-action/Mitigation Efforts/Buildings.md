@@ -3,6 +3,7 @@ title: Buildings
 permalink: /singapores-climate-action/mitigation-efforts/buildings/
 description: ""
 third_nav_title: Mitigation Efforts
+variant: markdown
 ---
 ### BUILDINGS
 
@@ -28,7 +29,13 @@ Given the long life cycle of buildings, and as Singapore raise our national clim
 
 Periodic Energy Audits (PEA) of buildings’ cooling systems are also conducted every 3 years in new and existing buildings that have undergone retrofit, to ensure that these buildings perform as designed during their life cycle. In addition, companies have to submit energy consumption and energy-related building data annually, which are gradually being made publicly available in a phased approach. This allows building owners to determine their energy performance relative to other buildings of the same building type.
 
-*<sup>1</sup> Green Mark Platinum (GM Platinum) buildings are required to meet minimally 55% improvement in energy performance compared to 2005 levels and demonstrate best practices in the Sustainability Sections.*
+Since September 2025, BCA introduced the Mandatory Energy Improvement (MEI) Regime, which require existing buildings that are consistently energy-intensive to undergo energy audits and undertake energy efficiency improvement measures. The MEI regime will apply to energy-intensive buildings with Gross Floor Area (GFA) of 5,000 m<sup>2</sup> and above for various building typolgies<sup>2</sup>. This will ensure energy-intensive existing buildings are subject to energy efficiency requirements, even if they do not undergo retrofitting or energy use change. 
+ 
+
+
+*<sup>1</sup>Green Mark Platinum (GM Platinum) buildings are required to meet minimally 55% improvement in energy performance compared to 2005 levels and demonstrate best practices in the Sustainability Sections.*
+
+*<sup>2</sup>The building typologies include: (i) commercial buildings; (ii) healthcare facilities; (iii) institutional buildings (namely education, civic, community and cultural buildings); and (iv) sports and recreation centres.*
 
 **The Next Lap – Mainstreaming Super Low Energy (SLE) Buildings**
 
@@ -47,12 +54,27 @@ Beyond setting standards, BCA has also incentivised building owners to green the
 * The [Built Environment (BE) Transformation Gross Floor Area (GFA) Incentive scheme](https://www1.bca.gov.sg/buildsg/sustainability/green-mark-incentive-schemes/built-environment-transformation-gross-floor-area-incentive-scheme) (valid from 24 November 2021 for five years) is a BCA-URA joint scheme that awards developers/building owners additional GFA above the Masterplan Plot Ratio (MPR) for private sector development projects that adopt enhanced standards in areas of digitalisation, productivity, and sustainability (“Industry Transformation Map Outcome Requirements”). For the sustainability requirements, projects are required to minimally meet GM Platinum SLE.
 * The [GMIS for Existing Buildings 2.0 (GMIS-EB 2.0)](https://www1.bca.gov.sg/buildsg/sustainability/green-mark-incentive-schemes/green-mark-incentive-scheme-for-existing-buildings-2.0) (valid from 30 June 2022 till 31 March 2027 or when the available funds have been fully committed, whichever is earlier) is a cash incentive to lower the upfront cost of energy efficient retrofits for building owners of existing buildings who achieve higher energy performance standards (i.e. Platinum, Super Low Energy, Zero Energy) for their buildings.
 
+**Greening the Construction Process**
+ 
+The Energy Efficiency Grant (EEG) for the construction sector represents an extension of the ongoing initiatives outlined in the SGBMP. The grant was developed alongside key industry stakeholders, notably the Singapore Contractors Association Limited (SCAL) and the Singapore Green Building Council (SGBC), whose contributions have been instrumental in addressing the needs of the construction industry. 
+ 
+The EEG supports construction firms registered and operating in Singapore in their sustainability journey by co-funding investments in energy-efficient construction equipment. This grant is aligned with BCA’s efforts to decarbonise our construction processes through the adoption of energy-efficient construction equipment and site electrification. 
+
 **Test-bedding and Sharing Knowledge on Energy Efficient Technologies for Buildings**
 
-Established in 2014, the [Green Buildings Innovation Cluster (GBIC)](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/green-buildings-innovation-cluster-gbic-programme) is intended as a one-stop research, development and demonstration (RD&D) hub to support the national drive towards greater energy efficiency as well as to streamline, coordinate and disseminate building energy efficiency-related activities. GBIC is a one-stop hub for industry stakeholders to experiment, exhibit, and exchange knowledge and expertise of promising building energy-efficient solutions.
+Established in 2014, the [Green Buildings Innovation Cluster (GBIC)](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/green-buildings-innovation-cluster-gbic-programme) is intended as a one-stop research, development and demonstration (RD&amp;D) hub to support the national drive towards greater energy efficiency as well as to streamline, coordinate and disseminate building energy efficiency-related activities. GBIC is a one-stop hub for industry stakeholders to experiment, exhibit, and exchange knowledge and expertise of promising building energy-efficient solutions.
 
 To further push the boundaries of energy efficiency to meet the third target under the “80-80-80 in 2030” for 80% improvement in energy efficiency (compared to 2005 levels) for best-in-class green buildings by 2030, BCA enhanced the GBIC programme in 2022, focusing on three key areas that have high potential to generate significant energy savings and be widely adopted by the industry:
 
 * Alternative Cooling Technologies (ACTs) or novel cooling technologies that could be adapted to Singapore’s tropical climate and yield further improvement in energy performance over best-in-class GM standards;
 * Data-driven Smart Building Solutions to integrate across different smart building systems, and to manage a building’s energy demand in response to input from the electrical grid and renewable energy resources; and
 * Advanced Ventilation Technologies to improve energy efficiency and contribute to better outcomes.
+
+**Alternative Cooling Technologies (ACTs)**
+
+Space-cooling with air conditioners (AC) is the largest energy consumer of buildings in Singapore, accounting for 40~60% of a building’s energy consumption. With the increased frequency of hot spells due to climate change and the global transition to green refrigerants, it is increasingly important to develop innovative technologies for space cooling, such as hybrid cooling system and passive displacement cooling system which have proven to be able to yield more than 25% energy savings over conventional AC systems. Some examples of the adoption of such technologies are illustrated in BCA best-in-class Super Low Energy e-publication series as follows:
+1. [PSA Tuas Maintenance Base ](https://sleb.sg/Context/ContentDetails/1095/64)
+2. [SMU Connexion](https://www.sleb.sg/Context/ContentDetails/1095/66)
+3. [ZEB Plus @ BCA Braddell Campus ](https://www.sleb.sg/Context/ContentDetails/1095/57)
+4. [Keppel Bay Tower](https://www.sleb.sg/Context/ContentDetails/1095/51) 
+5. [Sustainable School Campus – Tampines Secondary School ](https://www.sleb.sg/Context/ContentDetails/1095/61)

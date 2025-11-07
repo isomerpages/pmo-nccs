@@ -2,22 +2,34 @@
 title: Overview
 permalink: /singapores-climate-action/overview/adaptation-overview/
 third_nav_title: Adaptation Efforts
+variant: tiptap
 ---
-
-### ADAPTATION EFFORTS
-
-Climate change affects Singapore's annual mean surface temperature, which has risen at an average rate of 0.2-0.3°C per decade since the 1980s. The recent ten years in 2010-2019 was the warmest decade on record at 27.95°C. The daily rainfall totals and frequency of days with heavier rainfall have also risen.
-
-Additionally, the mean sea level has shown an annual increase of 3 mm per year over the last 15 years (on islandwide average). This makes adaptation measures a necessity for Singapore to prepare for the effects and to increase resilience to the effects of climate change.
-
-**Singapore's Approach to Adaptation**  
-Singapore has started making early preparations to adapt to the impact of climate change. At the same time, our understanding of climate change is continually evolving. To address the projected effects of climate change over the next 50 to 100 years, the government has introduced a resilience framework to guide our efforts in safeguarding Singapore over the long term.
-
-**Singapore's Adaptation Approach**
-![Singapore's Adaptation Approach](/images/singapores-approach-to-adaptation.jpg "Singapore's Adaptation Approach")
-Source: Resilience Working Group
-
-**Being Flexible to Incorporate Future Findings**  
-The [Resilience Working Group (RWG)](/who-we-are/inter-ministerial-committee-on-climate-change/) under the [Inter-Ministerial Committee on Climate Change (IMCCC)](/who-we-are/inter-ministerial-committee-on-climate-change/) is currently studying measures that will address our physical vulnerabilities to climate change.
-
-These includes an evaluation of the Phase 2 Climate Change Study and the Building and Construction Authority's (BCA) Risk Map Study. Updates from these studies will be reviewed by RWG so that they can be incorporated into Singapore's long-term adaptation plans.
+<h3>ADAPTATION EFFORTS</h3>
+<p>Climate change affects Singapore's annual mean temperature, which has
+risen by 0.24°C per decade from 1984 to 2022. The recent ten years in 2010-2019
+was the warmest decade on record at 27.95°C. The daily rainfall totals
+and frequency of days with heavier rainfall have also risen.</p>
+<p>Additionally, the mean sea level is also projected to rise by 0.23m to
+1.15m by the end of the century. This makes adaptation measures a necessity
+for Singapore to prepare for the effects and to increase resilience to
+the effects of climate change.</p>
+<p><strong>Singapore's Approach to Adaptation</strong>
+<br>Singapore has started making early preparations to adapt to the impact
+of climate change. At the same time, our understanding of climate change
+is continually evolving. To address the projected effects of climate change
+over the next 50 to 100 years, the government has introduced a resilience
+framework to guide our efforts in safeguarding Singapore over the long
+term.</p>
+<p><strong>Singapore's Adaptation Approach</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" title="Singapore's Adaptation Approach" alt="Singapore's Adaptation Approach" src="/images/singapores-approach-to-adaptation.jpg">
+</div>
+<p><em>Source: Resilience Working Group</em>
+</p>
+<p><strong>Being Flexible to Incorporate Future Findings</strong>
+<br>The <a href="/who-we-are/inter-ministerial-committee-on-climate-change/" rel="noopener noreferrer nofollow" target="_blank">Resilience Working Group (RWG)</a> under
+the <a href="/who-we-are/inter-ministerial-committee-on-climate-change/" rel="noopener noreferrer nofollow" target="_blank">Inter-Ministerial Committee on Climate Change (IMCCC)</a> studies
+Singapore's vulnerability to the effects of climate change and develops
+long-term plans that ensures the nation's resilience to future environmental
+changes.</p>

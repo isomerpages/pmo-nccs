@@ -2,6 +2,7 @@
 title: Climate Risk Management
 permalink: /singapores-climate-action/climate-risk-management/
 third_nav_title: Green Growth Opportunities
+variant: markdown
 ---
 ### CLIMATE RISK MANAGEMENT
 
@@ -21,4 +22,4 @@ In light of the recent impacts of climate change, the following institutions con
 
 * **Earth Observatory of Singapore** - Another research institute at NTU, the Earth Observatory of Singapore (EOS) forecasts the regional consequences from global climate change by assessing global climate drivers that are active in our region, such as the Western Pacific Warm Pool and the Indian Ocean Dipole.
 
-* **NUS Centre for Hazards Research** - Focussed on the study of the long- and short-term effects of natural disasters, the Centre for Hazards Research (CHR) examines the effects of climate change on Singapore's infrastructure and develops new technologies to reduce the potential risks posed by natural disasters.
+* **NUS Centre for Hazards Research** - Focused on the study of the long- and short-term effects of natural disasters, the Centre for Hazards Research (CHR) examines the effects of climate change on Singapore's infrastructure and develops new technologies to reduce the potential risks posed by natural disasters.

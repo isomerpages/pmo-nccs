@@ -2,6 +2,6 @@ collections:
   about-climate-change:
     output: true
     order:
-      - what-is-climate-change.md
-      - how-we-are-affecting-climate-change.md
+      - What is Climate Change.md
+      - How we are Affecting Climate Change.md
       - global-impact-of-climate-change.md

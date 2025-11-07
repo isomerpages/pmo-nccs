@@ -34,7 +34,7 @@ of potential decarbonisation solutions.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_net_zero_journey_2025_A3_final__for_print__01.png">
 </div>
-<p><em>Source: <a href="/files/docs/default-source/publications/Charting_Singapore_Net_Zero_Journey_COS2025_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Charting Singapore Net Zero Journey Infographic (2025)</a></em>
+<p><em><a href="/files/docs/default-source/publications/Charting_Singapore_Net_Zero_Journey_COS2025_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Charting Singapore Net Zero Journey Infographic (2025)</a></em>
 </p>
 <p></p>
 <p>Find out more about our decarbonisation measures:</p>

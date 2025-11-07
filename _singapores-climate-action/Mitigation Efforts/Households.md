@@ -3,6 +3,7 @@ title: Households
 permalink: /singapores-climate-action/mitigation-efforts/households/
 description: ""
 third_nav_title: Mitigation Efforts
+variant: markdown
 ---
 ### HOUSEHOLDS
 
@@ -10,4 +11,4 @@ Singapore has taken steps to [reduce energy consumption of the household sector]
 
 To help consumers make more informed purchasing decisions, the Government has also progressively expanded the [Mandatory Energy Labelling Scheme](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/household-sector/about-mandatory-energy-labelling-and-minimum-energy-performance-standards) to cover an increasing variety of appliances.
 
-Singapore will continue to provide support to households impacted by the low-carbon transition through initiatives such as the [Climate Friendly Household Programme](https://www.climate-friendly-households.gov.sg) to defray the costs of switching to more resource-efficient and climate-friendly appliances for lower-income households.
+Singapore will continue to provide support to households impacted by the low-carbon transition through initiatives such as the [Climate Friendly Households Programme](https://www.climate-friendly-households.gov.sg) to defray the costs of switching to more resource-efficient and climate-friendly appliances for lower-income households.
