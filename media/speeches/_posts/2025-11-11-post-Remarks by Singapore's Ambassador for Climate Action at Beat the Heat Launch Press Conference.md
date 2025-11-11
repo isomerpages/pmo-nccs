@@ -11,6 +11,8 @@ variant: tiptap
 <p><strong>REMARKS BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION AT 2025 GLOBAL COOLING WATCH REPORT AND BEAT THE HEAT LAUNCH PRESS CONFERENCE PROGRAMME</strong>
 </p>
 <hr>
+<p><strong>Singapore - Advancing Global Action for Heat Resilience and Sustainable Cooling</strong>
+</p>
 <p>Excellencies, colleagues and friends from the media,</p>
 <p>I would like to commend Brazil and UNEP for convening this vital initiative
 and for the launch of the Global Cooling Watch report. Today’s moment underlines
