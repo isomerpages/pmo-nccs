@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>OPENING REMARKS BY SINGAPORE’S AMBASSADOR FOR CLIMATE ACTION LAUNCH OF COP30 SIMGAPORE PAVILION, BELÉM, BRAZIL, 10 NOVEMBER 2025</strong>
+<p><strong>OPENING REMARKS BY SINGAPORE’S AMBASSADOR FOR CLIMATE ACTION LAUNCH OF COP30 SINGAPORE PAVILION, BELÉM, BRAZIL, 10 NOVEMBER 2025</strong>
 </p>
 <hr>
 <p>Good morning and welcome to the launch of the Singapore Pavilion at COP30
