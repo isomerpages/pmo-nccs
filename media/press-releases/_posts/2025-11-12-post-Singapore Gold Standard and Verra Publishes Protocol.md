@@ -7,7 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>SINGAPORE, GOLD STANDARD AND VERRA PUBLISH ARTICLE 6.2 CREDITING PROTOCOL</strong></h4>
+<p><strong>SINGAPORE, GOLD STANDARD AND VERRA PUBLISH ARTICLE 6.2 CREDITING PROTOCOL</strong>
+</p>
 <p><em>The new protocol will enable governments to use existing independent carbon crediting programmes to meet national climate goals, expediting and scaling up global climate action by integrating compliance and voluntary market structures.</em>
 </p>
 <p>
