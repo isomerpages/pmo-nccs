@@ -58,10 +58,10 @@ industrial applications.&nbsp; We are also exploring the potential deployment
 of nuclear energy.</p>
 <p>Singapore is also actively looking to import low-carbon electricity from
 our region. Last month, Singapore granted conditional approval to import
-1 GW of low-carbon electricity generated from hydropower from Sarawak,
-Malaysia. This brings us to about 8GW of potential cross-border electricity
-trading projects from our region, including from Indonesia, Vietnam, Cambodia
-and Australia.</p>
+1GW of low-carbon electricity generated from hydropower from Sarawak, Malaysia.
+This brings us to about 8GW of potential cross-border electricity trading
+projects from our region, including from Indonesia, Vietnam, Cambodia and
+Australia.</p>
 <p>Beyond power imports, Singapore is advancing the use of low-carbon fuels
 in the maritime and aviation – sectors central to our role as a global
 hub. Singapore is exploring methanol and ammonia as low-carbon fuels for
@@ -264,12 +264,12 @@ to Grow Carbon Markets, a government-led initiative to strengthen voluntary
 demand for carbon credits. The Coalition comprises ten governments committed
 to advancing climate action through making clear how businesses can credibly
 use high-integrity carbon credits in addition to their corporate decarbonisation
-plans.&lt;sup&gt;1&lt;/sup&gt; Earlier this month, in São Paulo, the Coalition
-launched a set of Shared Principles on the voluntary use of high-integrity
-carbon credits by corporates, responding to calls from businesses for more
-cohesion and transparency, and stronger, clearer incentives to engage with
-carbon markets. The Shared Principles will give businesses the confidence
-they need to invest in carbon markets to support projects relating to sustainable
+plans.<sup>1</sup> Earlier this month, in São Paulo, the Coalition launched
+a set of Shared Principles on the voluntary use of high-integrity carbon
+credits by corporates, responding to calls from businesses for more cohesion
+and transparency, and stronger, clearer incentives to engage with carbon
+markets. The Shared Principles will give businesses the confidence they
+need to invest in carbon markets to support projects relating to sustainable
 agriculture, clean energy, as well as nature conservation and restoration.</p>
 <p>At Singapore International Energy Week in October this year, we also published
 a VCM guidance to guide Singapore-based companies in their usage of carbon
@@ -320,5 +320,5 @@ stands ready to work with all Parties to ensure that our collective efforts
 keep global climate targets within reach.</p>
 <p>&nbsp;</p>
 <hr>
-<p>&lt;super&gt;1&lt;/super&gt;The members of the Coalition are Canada, France,
-Kenya, Panama, Peru, Singapore, Switzerland, the UK, New Zealand, and Zambia.</p>
+<p><sup>1</sup>The members of the Coalition are Canada, France, Kenya, Panama,
+Peru, Singapore, Switzerland, the UK, New Zealand, and Zambia.</p>
