@@ -317,8 +317,7 @@ its promises can only be kept if we commit to collaborate and make collective
 progress towards our climate goals. As an ‘Implementation COP’, COP 30
 must enable Parties to turn their commitments into concrete results. Singapore
 stands ready to work with all Parties to ensure that our collective efforts
-keep global climate targets within reach.</p>
-<p>&nbsp;</p>
+keep global climate targets within reach.&nbsp;</p>
 <hr>
 <p><sup>1</sup>The members of the Coalition are Canada, France, Kenya, Panama,
 Peru, Singapore, Switzerland, the UK, New Zealand, and Zambia.</p>
