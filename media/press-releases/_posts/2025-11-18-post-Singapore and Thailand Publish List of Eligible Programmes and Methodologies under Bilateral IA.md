@@ -32,6 +32,7 @@ Cooperation website, at&nbsp;<a href="https://www.carbonmarkets-cooperation.gov.
 under the Singapore-Thailand Implementation Agreement in Q1 2026. More
 information on the application and authorisation process will be published
 in due course.</p>
+<hr>
 <p><a href="/files/Annex_A___About_the_Singapore_Thailand_Implementation_Agreement.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A: Information on the Singapore-Thailand Implementation Agreement</a>
 </p>
 <p><a href="/files/Annex_B___Singapore_s_Eligibility_Criteria_and_the_Eligibility_List_under_the_Singapore_Thailand_Implementation_Agreement.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B: Singapore’s Eligibility Criteria and the Eligibility List under the Singapore-Thailand Implementation Agreement</a>
