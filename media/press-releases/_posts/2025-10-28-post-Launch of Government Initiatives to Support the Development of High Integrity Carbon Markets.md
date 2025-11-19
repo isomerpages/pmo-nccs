@@ -118,5 +118,4 @@ advice of the International Advisory Panel for Carbon Credits (IAPCC, refer
 to Annex A) and feedback from the public consultation carried out from
 20 June to 20 July 2025. The public consultation outcome can be found in
 Annex B.</p>
-<hr>
 <p></p>
