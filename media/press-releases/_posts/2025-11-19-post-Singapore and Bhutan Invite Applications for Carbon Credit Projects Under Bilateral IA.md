@@ -45,11 +45,14 @@ crediting programmes and methodologies under the Singapore-Bhutan Implementation
 Agreement, are at <strong><u>Annex B</u></strong>, and on the Carbon Markets
 Cooperation website.</p>
 <hr>
-<p>Annex A: Flowchart of Application and Authorisation Process</p>
-<p>Annex B: Singapore’s Eligibility Criteria and the Eligibility List under
-the</p>
-<p>Singapore-Bhutan Implementation Agreement</p>
-<p>Annex C: Information on the Singapore-Bhutan Implementation Agreement</p>
+<p><a href="/files/Annex_A___Flowchart_of_Application_and_Authorisation_Process.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A: Flowchart of Application and Authorisation Process</a>
+</p>
+<p><a href="/files/Annex_B___Singapore_s_Eligibility_Criteria_and_the_Eligibility_List_under_the_Singapore_Bhutan_Implementation_Agreement.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B: Singapore’s Eligibility Criteria and the Eligibility List under the</a>
+</p>
+<p><a href="/files/Annex_B___Singapore_s_Eligibility_Criteria_and_the_Eligibility_List_under_the_Singapore_Bhutan_Implementation_Agreement.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore-Bhutan Implementation Agreement</a>
+</p>
+<p><a href="/files/Annex_C___Information_on_the_Singapore_Bhutan_Implementation_Agreement.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex C: Information on the Singapore-Bhutan Implementation Agreement</a>
+</p>
 <p></p>
 <p><strong>&nbsp;</strong>
 </p>
