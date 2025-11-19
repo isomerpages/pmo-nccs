@@ -10,7 +10,6 @@ variant: tiptap
 ---
 <p><strong>SINGAPORE AND THAILAND PUBLISH LIST OF ELIGIBLE PROGRAMMES AND METHODOLOGIES UNDER BILATERAL IMPLEMENTATION AGREEMENT ON CARBON CREDITS</strong>
 </p>
-<hr>
 <p>Singapore and Thailand today announced the publication of an eligibility
 list, which sets out the eligible carbon crediting programmes and methodologies
 under the Singapore-Thailand Implementation Agreement <strong>(<u>Annex A</u>) </strong>aligned
