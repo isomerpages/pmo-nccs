@@ -28,9 +28,9 @@ Singapore’s ability to fully decarbonise our economy is constrained.</p>
 a viable and effective complementary pathway for countries such as Singapore
 to achieve our decarbonisation targets, while pursuing all other feasible
 decarbonisation pathways. Singapore’s supply of Article 6-compliant carbon
-credits will come from taxable facilities<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup></a>, as well as direct procurement by the
-Singapore Government. A second RFP for such Article 6-compliant carbon
-credits will be launched later this year. &nbsp;</p>
+credits will come from taxable facilities<sup>1</sup>, as well as direct
+procurement by the Singapore Government. A second RFP for such Article
+6-compliant carbon credits will be launched later this year. &nbsp;</p>
 <p>Article 6 carbon credits can be a catalyst to unlock green growth opportunities.
 Singapore is now home to around 150 companies in the carbon services and
 trading sector, operating in areas such as carbon trading, carbon advisory,
@@ -42,14 +42,13 @@ markets.&nbsp;</p>
 </p>
 <p>Nature-based solutions (NBS) globally have the potential to offer net
 emissions reductions equivalent to more than 10 gigatons of carbon dioxide
-per year <a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank"><sup>[2]</sup></a>.
-Through the RFP launched in September 2024, the Singapore Government sought
-to identify projects from around the world that could generate high-quality
-NBS carbon credits with high environmental integrity. Key features of these
-projects include ensuring additionality<a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank"><sup>[3]</sup></a>, low leakage risks, permanence, and co-benefits
-to surrounding communities.</p>
+per year<sup>2</sup>. Through the RFP launched in September 2024, the Singapore
+Government sought to identify projects from around the world that could
+generate high-quality NBS carbon credits with high environmental integrity.
+Key features of these projects include ensuring additionality<sup>3</sup>,
+low leakage risks, permanence, and co-benefits to surrounding communities.</p>
 <p>As a result of this RFP, Singapore has decided to contract NBS carbon
-credits from four NBS projects, namely the Kowen Antami REDD+<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank"><sup>[4]</sup></a> and
+credits from four NBS projects, namely the Kowen Antami REDD+<sup>4</sup> and
 Together for Forests REDD+ projects in Peru, the Boomitra Grassland Restoration
 Project in Paraguay, and the Kwahu Landscape Restoration Project in Ghana.
 &nbsp;We will contract to procure carbon credits equivalent to emissions
@@ -64,14 +63,15 @@ sinks and biodiversity, safeguard local communities’ access to income from
 sustainable land use and provide ecosystem benefits such as improving water
 quality. &nbsp;The projects have been selected based on the quality of
 the proposal, the tenderer's track record, and price competitiveness.</p>
-<p>The contracted projects must use methodologies<a href="#_ftn5" rel="noopener noreferrer nofollow" target="_blank"><sup>[5]</sup></a><sup> </sup>bilaterally agreed to by Singapore
-and the respective host country, and secure authorisation under the relevant
-government-to-government Implementation Agreement (IA)<a href="#_ftn6" rel="noopener noreferrer nofollow" target="_blank"><sup>[6]</sup></a>. To
-date, Singapore has signed nine implementation agreements (IAs) with Bhutan,
-Chile, Ghana, Papua New Guinea, Peru, Paraguay, Rwanda, Thailand, and Vietnam.
-Under each of the Article 6 IAs, Singapore is committed to channeling the
-value equivalent to 5% of the share of proceeds from authorised carbon
-credits towards climate adaptation measures of the respective host countries.</p>
+<p>The contracted projects must use methodologies<sup>5 </sup>bilaterally
+agreed to by Singapore and the respective host country, and secure authorisation
+under the relevant government-to-government Implementation Agreement (IA)<sup>6</sup>.
+To date, Singapore has signed nine implementation agreements (IAs) with
+Bhutan, Chile, Ghana, Papua New Guinea, Peru, Paraguay, Rwanda, Thailand,
+and Vietnam. Under each of the Article 6 IAs, Singapore is committed to
+channeling the value equivalent to 5% of the share of proceeds from authorised
+carbon credits towards climate adaptation measures of the respective host
+countries.</p>
 <hr>
 <p><strong><u>Annex – Description of Projects</u></strong>
 </p>
@@ -122,35 +122,31 @@ direct polyculture planting, agroforestry and regenerative planting practices
 of native species. The project aims to sequester up to 33.5 million tCO2e
 over its lifetime. &nbsp;&nbsp;&nbsp;</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Since
-2024, under Singapore’s International Carbon Credit (ICC) framework, taxable
-facilities in Singapore are allowed to use eligible ICCs to offset up to
-5% of their taxable emissions.</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> 
-<a href="https://wedocs.unep.org/xmlui/bitstream/handle/20.500.11822/37318/NBSCCM.pdf" rel="noopener nofollow" target="_blank">https://wedocs.unep.org/xmlui/bitstream/handle/20.500.11822/37318/NBSCCM.pdf</a>
+<p><sup>1</sup>Since 2024, under Singapore’s International Carbon Credit
+(ICC) framework, taxable facilities in Singapore are allowed to use eligible
+ICCs to offset up to 5% of their taxable emissions.</p>
+<p><sup>2</sup><a href="https://wedocs.unep.org/xmlui/bitstream/handle/20.500.11822/37318/NBSCCM.pdf" rel="noopener nofollow" target="_blank">https://wedocs.unep.org/xmlui/bitstream/handle/20.500.11822/37318/NBSCCM.pdf</a>
 </p>
-<p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> Certified
-emissions reductions or removals exceeding that required by any law or
-regulatory requirement of the host country, and that would otherwise have
-occurred in a conservative, business-as-usual scenario.</p>
-<p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> REDD+
-refers to “Reducing Emissions from Deforestation and forest Degradation,
-plus the conservation, sustainable management of forests, and enhancement
-of forest carbon stocks”,&nbsp;a framework developed under the Paris Agreement.&nbsp;</p>
-<p><a href="#_ftnref5" rel="noopener noreferrer nofollow" target="_blank">[5]</a> Three
-of these projects intend to use methodologies under Verra’s Verified Carbon
-Standards, namely VM0047 (Afforestation, Reforestation, and Revegetation)
-and VM0048 (Reducing Emissions from Deforestation and Forest Degradation).
-Under the Paris Agreement Article 6.2 approach and within signed Implementation
-Agreements, both Singapore and the host countries will need to whitelist
-these methodologies, including any additional environmental integrity (EI)
-safeguards. The fourth project adheres to VM0042 (Improved Agricultural
-Management), which is on Singapore’s Eligibility List and will similarly
-be go through whitelisting with host countries.</p>
-<p><a href="#_ftnref6" rel="noopener noreferrer nofollow" target="_blank">[6]</a> The
-eligibility list may differ across IAs, as each host country has their
-own priority mitigation sectors and activities, typically based on their
-conditional Nationally Determined Contribution measures, as well as other
-domestic requirements and considerations. All methodologies must meet both
-Singapore and the partner country’s Eligibility Criteria prior to being
-listed.</p>
+<p><sup>3</sup>Certified emissions reductions or removals exceeding that
+required by any law or regulatory requirement of the host country, and
+that would otherwise have occurred in a conservative, business-as-usual
+scenario.</p>
+<p><sup>4</sup>REDD+ refers to “Reducing Emissions from Deforestation and
+forest Degradation, plus the conservation, sustainable management of forests,
+and enhancement of forest carbon stocks”,&nbsp;a framework developed under
+the Paris Agreement.&nbsp;</p>
+<p><sup>5</sup>Three of these projects intend to use methodologies under
+Verra’s Verified Carbon Standards, namely VM0047 (Afforestation, Reforestation,
+and Revegetation) and VM0048 (Reducing Emissions from Deforestation and
+Forest Degradation). Under the Paris Agreement Article 6.2 approach and
+within signed Implementation Agreements, both Singapore and the host countries
+will need to whitelist these methodologies, including any additional environmental
+integrity (EI) safeguards. The fourth project adheres to VM0042 (Improved
+Agricultural Management), which is on Singapore’s Eligibility List and
+will similarly be go through whitelisting with host countries.</p>
+<p><sup>6</sup>The eligibility list may differ across IAs, as each host country
+has their own priority mitigation sectors and activities, typically based
+on their conditional Nationally Determined Contribution measures, as well
+as other domestic requirements and considerations. All methodologies must
+meet both Singapore and the partner country’s Eligibility Criteria prior
+to being listed.</p>
