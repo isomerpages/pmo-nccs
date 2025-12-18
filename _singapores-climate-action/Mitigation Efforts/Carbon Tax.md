@@ -108,14 +108,14 @@ Korea, and California.</p>
 <p><strong>3. Which other countries or jurisdictions have implemented carbon pricing?</strong>
 </p>
 <p>Carbon pricing has been implemented in many countries, with more planning
-to implement them in the future. There are 75 carbon pricing instruments
-in operation (1 regional, 43 national and 31 subnational jurisdictions),
-covering about a quarter of global greenhouse gas emissions in 2024.<sup>2</sup>&nbsp;A
-few of these jurisdictions such as Finland, Norway and Sweden have implemented
-carbon pricing as early as the 1990s. Jurisdictions in our region that
-have announced plans to price carbon and introduce new carbon regulations
-include Thailand and Brunei.</p>
-<p><strong>4. How will the increased carbon tax levels affect individuals and households? What support will be available to households, especially low-income households, to cope with the rising cost of living from the carbon tax increase?</strong>
+to implement them in the future. There are 80 compliance carbon pricing
+instruments in operation, covering about a quarter of global greenhouse
+gas emissions in 2025.<sup>2</sup>&nbsp;A few of these jurisdictions such
+as Finland, Norway and Sweden have implemented carbon pricing as early
+as the 1990s. In recent years, jurisdictions in our region have also implemented
+or announced plans to introduce compliance carbon pricing mechanisms, including
+Indonesia, Thailand, Vietnam and Malaysia.</p>
+<p><strong>4. How will the increased carbon tax levels affect individuals and households? What support will be available to households, especially low-income households, to cope with the rising cost of living?</strong>
 </p>
 <p>Although the carbon tax is directly levied upstream on large emitters,
 it could flow through in the form of higher electricity tariffs as power
@@ -130,11 +130,10 @@ to reduce their energy consumption and be more energy efficient, to enable
 us to meet our long-term commitments. Notwithstanding, the Government is
 committed to help Singaporean households cope with the rising cost of living,
 whether this is driven by carbon tax or other factors.</p>
-<p>As announced at Budget 2024, additional U-Save rebates will also be disbursed
-as part of the enhanced Assurance Package to help HDB households cope with
-the increases in utility bills. Eligible HDB households will receive 2.5
-times the amount of regular GSTV – U-Save, or up to $950, in the 2024 financial
-year.</p>
+<p>As announced at Budget 2025, additional U-Save rebates will be disbursed
+to help eligible HDB households offset their utilities expenses. These
+HDB households will receive up to $760 worth of U-Save rebates for Financial
+Year 2025.</p>
 <p><strong>5. How would the Government ensure that consumers are not over-charged by electricity retailers passing on more than 100 per cent of the carbon tax to consumers?</strong>
 </p>
 <p>Today’s electricity retail market is competitive and discourages retailers
@@ -157,5 +156,5 @@ developments.</p>
 <hr>
 <p><em><sup>1</sup> Singapore’s carbon tax covered around 80% of our total national emissions at the point of introduction. The coverage each year is subject to changes in emissions from taxable and non-taxable sources that constitute Singapore’s GHG inventory.&nbsp;In November 2024, we formalised our accounting methodology for hydrofluorocarbon (HFC) emissions from the Refrigeration and Air Conditioning (RAC) sector and included these emissions in our GHG inventory, in accordance with the United Nations Framework Convention on Climate Change (UNFCCC) and Intergovernmental Panel on Climate Change (IPCC) guidelines. Due to this rebasing, Singapore’s carbon tax coverage for 2022 emissions fell to around 71% from 76%. The Singapore government has implemented measures since 2020 to reduce GHG emissions from the use of HFC refrigerants in the RAC sector, such as banning the supply of RAC equipment that use high Global Warming Potential refrigerants. We will continue to review our RAC HFC mitigation policies to ensure they remain fit for purpose and effective in meeting our climate targets.</em>
 </p>
-<p><em><sup>2 </sup>Based on World Bank’s Carbon Pricing Dashboard as of Jan 2025.&nbsp;</em>
+<p><em><sup>2 </sup>Based on World Bank’s Carbon Pricing Dashboard as of Apr 2025.&nbsp;</em>
 </p>
