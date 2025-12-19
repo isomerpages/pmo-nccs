@@ -32,5 +32,18 @@ in 2022, with the 1<sup>st</sup> having the highest carbon intensity).<sup>1</su
 </p>
 <p><em><sup>1</sup>Based on IEA data from IEA (2024) Greenhouse Gas Emissions from Energy, <a href="https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy</u></a>, All rights reserved.</em>&nbsp;</p>
 <p></p>
+<p><strong>Singapore's Past Emissions Data:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.nccs.gov.sg/images/Emissions_Profile__2022_.png" rel="noopener nofollow" target="_blank">Emissions Profile 2022</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.nccs.gov.sg/images/2021emissionsprofile.png" rel="noopener nofollow" target="_blank">Emissions Profile 2021</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <p></p>
