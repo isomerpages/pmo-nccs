@@ -34,11 +34,12 @@ in 2022, with the 1<sup>st</sup> having the highest carbon intensity).<sup>1</su
 <p>&nbsp;Singapore’s Past Emissions Data:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.nccs.gov.sg/images/Emission_Profile/2022_Emissions_Profile_ssionsprofile.png" rel="noopener noreferrer nofollow" target="_blank">Emissions Profile 2022</a>
+<p><a href="https://www.nccs.gov.sg/images/Emissions_Profile/Emissions_Profile__2022_.png" rel="noopener noreferrer nofollow" target="_blank">Emissions Profile 2022</a>
 </p>
 </li>
 <li>
-<p>Emissions Profile 2021</p>
+<p><a href="https://www.nccs.gov.sg/images/2021emissionsprofile.png" rel="noopener nofollow" target="_blank">Emissions Profile 2021</a>
+</p>
 </li>
 </ul>
 <p></p>
