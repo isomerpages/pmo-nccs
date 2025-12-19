@@ -8,3 +8,5 @@ links:
     collection: singapores-climate-action
   - title: Public Consultation
     collection: public-consultation
+  - title: Media
+    resource_room: true
