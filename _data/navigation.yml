@@ -7,20 +7,6 @@ links:
   - title: Singapore's Climate Action
     collection: singapores-climate-action
   - title: Media
-    url: /media/
-    sublinks:
-      - title: All
-        url: /media/
-      - title: Press Releases
-        url: /media/press-releases/
-      - title: Speeches
-        url: /media/speeches/
-      - title: Parliamentary Replies
-        url: /media/parliamentary-replies/
-      - title: Publications
-        url: /media/publications/
     resource_room: true
   - title: Public Consultation
     collection: public-consultation
-  - title: Careers
-    url: /careers
