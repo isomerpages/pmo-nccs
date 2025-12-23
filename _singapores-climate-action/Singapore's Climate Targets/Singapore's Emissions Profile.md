@@ -22,7 +22,7 @@ a significant proportion of our total carbon emissions, we are <a href="/singapo
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Emissions Profile/Emissions_Profile_2023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Emissions Profile/2023emissionsprofile.png">
 </div>
 <p><strong>Carbon Intensity (CO<sub>2</sub> per $GDP)</strong>
 </p>
@@ -36,7 +36,7 @@ in 2022, with the 1<sup>st</sup> having the highest carbon intensity).<sup>1</su
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://staging-lite.dup2rpfrg7u4p.amplifyapp.com/images/2022emissionsprofile.png" rel="noopener nofollow" target="_blank">Emissions Profile 2022</a>
+<p><a href="https://www.nccs.gov.sg/images/2022emissionsprofile.png" rel="noopener nofollow" target="_blank">Emissions Profile 2022</a>
 </p>
 </li>
 <li>
