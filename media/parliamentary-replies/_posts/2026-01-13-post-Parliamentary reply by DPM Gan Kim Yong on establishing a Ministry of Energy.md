@@ -33,6 +33,4 @@ in April 2024 to co-ordinate efforts across the whole-of-Government and
 build the requisite capabilities. Currently, the Government has no plan
 to set up a separate Ministry of Energy but we will continue to make refinements
 to how this work is organised, as its scale and complexity grow in the
-years ahead.&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
+years ahead.</p>
