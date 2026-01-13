@@ -18,3 +18,4 @@ EV consumer demand, whether the Government will consider establishing a
 Ministry for Energy to coordinate long-term and operational energy needs,
 decarbonisation pathways, grid resilience and international energy negotiations.&nbsp;</p>
 <p><strong>Mr Gan Kim Yong (for the Prime Minister):</strong>&nbsp;</p>
+<p><strong>Mr Gan Kim Yong (for the Prime Minister):</strong>&nbsp;</p>
