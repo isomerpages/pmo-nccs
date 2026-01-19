@@ -23,7 +23,7 @@ The Inter-Ministerial Committee on Climate Change (IMCCC) enhances Whole-of-Gove
 
 **Committees and Work Groups Addressing Singapore's Climate Change-related Issues**
 
-![](/images/IMCCC_2025_update.png)
+![](/images/IMCCC_2026.png)
 
 **IMCCC Executive Committee**
 
@@ -36,13 +36,13 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 * **Mr Leo Yip, Head Civil Service, Permanent Secretary (Prime Minister's Office)(Strategy)**
 
 **Members**
-
-* Mr Stanley Loh, Permanent Secretary (Sustainability and the Environment)  
+* Mr Melvyn Ong, Permanent Secretary (Sustainability and the Environment) 
 * Mr Lai Chung Han, Permanent Secretary (Finance)
 * Mr Albert Chua, Permanent Secretary (Foreign Affairs)  
 * Mr Loh Ngai Seng, Permanent Secretary (National Development)  
 * Mr Tan Chorh Chuan, Permanent Secretary (National Research and Development)  
 * Dr Beh Swan Gin, Permanent Secretary (Trade and Industry) 
+* Mr Augustin Lee, Permanent Secretary (Energy and Trade)
 * Mr Lau Peet Meng, Permanent Secretary (Transport)  
 * Mr Png Cheong Boon, Chairman, Economic Development Board
 * Mr Chia Der Jiun, Managing Director, Monetary Authority of Singapore 
