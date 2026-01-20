@@ -3,8 +3,8 @@ layout: post
 title: Excerpt of Budget speech by Mr Heng Swee Kiat, Minister for Finance
 subtitle: 20 Feb 2017
 permalink: /media/speeches/excerpt-of-budget-speech-by-mr-heng-swee-kiat-minister-for-finance-20-february-2017/
+variant: markdown
 ---
-
 **A quality living environment**  
 **Sustaining a Quality Environment for the Future**
 
@@ -24,4 +24,4 @@ We are looking at a tax rate of between $10 and $20 per tonne of greenhouse gas 
 
 The Government has started industry consultations and will continue to reach out. Public consultations will begin in March. The final carbon tax and exact implementation schedule will be decided after our consultations and further studies. We will take into consideration the lessons from other countries and prevailing economic conditions in Singapore in implementation. We will also provide appropriate measures to ease the transition.
 
-For the full speech, please go to [<a href="https://www.singaporebudget.gov.sg/budget_2020" target="_blank">https://www.singaporebudget.gov.sg/</a>](https://www.singaporebudget.gov.sg/budget_2020).
+For the full speech, please go to: [https://www.mof.gov.sg/budget-archives/budget-2020/](https://www.mof.gov.sg/budget-archives/budget-2020/)
