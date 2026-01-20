@@ -727,9 +727,9 @@ commitment of climate change. <em>Nature, 628</em>(8008), 551-557. <a href="http
 <p><sup>13 </sup>MAS and McKinsey &amp; Company (2023, September). <em>Accelerating the early retirement of coal-fired power plants through carbon credits</em>.</p>
 <p><sup>14 </sup><a href="https://www.irena.org/News/pressreleases/2023/Aug/Renewables-Competitiveness-Accelerates-Despite-Cost-Inflation" rel="noopener nofollow" target="_blank">https://www.irena.org/News/pressreleases/2023/Aug/Renewables-Competitiveness-Accelerates-Despite-Cost-Inflation</a>
 </p>
-<p><sup>15 </sup><a href="https://zerocarbon-analytics.org/policy/report-asia-is-a-driving-force-in-the-energy-transition/" rel="noopener noreferrer nofollow" target="_blank">https://zerocarbon-analytics.org/policy/report-asia-is-a-driving-force-in-the-energy-transition/</a>
+<p><sup>15</sup>Zero Carbon Analytics (2024),<em> Report: Asia is a driving force in energy transition</em>
 </p>
-<p><sup>16 </sup><a href="https://zerocarbon-analytics.org/policy/report-asia-is-a-driving-force-in-the-energy-transition/" rel="noopener noreferrer nofollow" target="_blank">https://zerocarbon-analytics.org/policy/report-asia-is-a-driving-force-in-the-energy-transition/</a>
+<p><sup>16</sup>Zero Carbon Analytics (2024),<em> Report: Asia is a driving force in energy transition</em>
 </p>
 <p><sup>17 </sup><a href="https://www.woodmac.com/news/opinion/asias-renewables-need-massive-grid-investment/" rel="noopener nofollow" target="_blank">https://www.woodmac.com/news/opinion/asias-renewables-need-massive-grid-investment/</a>
 </p>
