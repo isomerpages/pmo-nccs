@@ -446,10 +446,8 @@ the Paris Agreement 2031–2035. <a href="https://unfccc.int/NDCREG" rel="noopen
 <p><sup>13</sup> Global Centre on Adaptation. A Year of Heat and Havoc: Why
 2024 Must Be a Wake-Up Call. <a href="https://gca.org/a-year-of-heat-and-havoc-why-2024-must-be-a-wake-up-call/" rel="noopener noreferrer nofollow" target="_blank">https://gca.org/a-year-of-heat-and-havoc-why-2024-must-be-a-wake-up-call/</a>
 </p>
-<p><sup>14</sup> EPA. Climate Change Indicators: Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-change-indicators-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-glaciers</a>
-</p>
-<p><sup>15</sup> EPA. Climate Change Indicators: Arctic Glaciers. <a href="https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers" rel="noopener noreferrer nofollow" target="_blank">https://www.epa.gov/climate-indicators/climate-change-indicators-arctic-glaciers</a>
-</p>
+<p><sup>14</sup> EPA. Climate Change Indicators: Glaciers.</p>
+<p><sup>15</sup> EPA. Climate Change Indicators: Arctic Glaciers.</p>
 <p><sup>16 </sup>Arctic Monitoring and Assessment Programme. AMAP Arctic
 Climate Change Update 2021: Key Trends and Impacts. <a href="https://www.amap.no/documents/download/6890/inline" rel="noopener noreferrer nofollow" target="_blank">https://www.amap.no/documents/download/6890/inline</a>
 </p>
