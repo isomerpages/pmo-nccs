@@ -24,4 +24,4 @@ We are looking at a tax rate of between $10 and $20 per tonne of greenhouse gas 
 
 The Government has started industry consultations and will continue to reach out. Public consultations will begin in March. The final carbon tax and exact implementation schedule will be decided after our consultations and further studies. We will take into consideration the lessons from other countries and prevailing economic conditions in Singapore in implementation. We will also provide appropriate measures to ease the transition.
 
-For the full speech, please go to: https://www.mof.gov.sg/budget-archives/budget-2017/
+For the full speech, please go to: [https://www.mof.gov.sg/budget-archives/budget-2017/](https://www.mof.gov.sg/budget-archives/budget-2017/)
