@@ -80,4 +80,4 @@ For our households, the impact of the carbon tax will be small, at about 1% of t
 
 We have designated 2018 as the Year of Climate Action, to encourage all Singaporeans to fight climate change. The Minister for the Environment and Water Resources will speak more on our other plans to reduce energy use and carbon emissions at the COS.
 
-For full speech, please go to : https://www.mof.gov.sg/budget-archives/budget-2018/
+For full speech, please go to: [https://www.mof.gov.sg/budget-archives/budget-2018/](https://www.mof.gov.sg/budget-archives/budget-2018/)
