@@ -63,5 +63,3 @@ Cooperation website.</p>
 </p>
 <p><a href="/files/SINGAPORE_AND_RWANDA_INVITE_APPLICATIONS_FOR_CARBON_CREDIT_PROJECTS_UNDER_BILATERAL_IMPLEMENTATION_AGREEMENT__Annex_C.pdf" rel="noopener nofollow" target="_blank">Annex C: Information on the Singapore-Rwanda Implementation Agreement</a>
 </p>
-<p><strong>Implementation Agreement</strong>
-</p>
