@@ -57,7 +57,11 @@ programmes and methodologies under the Singapore-Rwanda Implementation
 Agreement, are at <strong><u>Annex B</u></strong>, and on the Carbon Markets
 Cooperation website.</p>
 <hr>
-<p><strong>&nbsp;</strong>
+<p><strong>&nbsp;</strong><a href="/files/SINGAPORE_AND_RWANDA_INVITE_APPLICATIONS_FOR_CARBON_CREDIT_PROJECTS_UNDER_BILATERAL_IMPLEMENTATION_AGREEMENT__Annex_A.pdf" rel="noopener nofollow" target="_blank">Annex A: Flowchart of Application Process</a>
+</p>
+<p><a href="/files/SINGAPORE_AND_RWANDA_INVITE_APPLICATIONS_FOR_CARBON_CREDIT_PROJECTS_UNDER_BILATERAL_IMPLEMENTATION_AGREEMENT_Annex_B.pdf" rel="noopener nofollow" target="_blank">Annex B: Singapore’s Eligibility Criteria and Eligibility List under the Singapore-Rwanda IA</a>
+</p>
+<p><a href="/files/SINGAPORE_AND_RWANDA_INVITE_APPLICATIONS_FOR_CARBON_CREDIT_PROJECTS_UNDER_BILATERAL_IMPLEMENTATION_AGREEMENT__Annex_C.pdf" rel="noopener nofollow" target="_blank">Annex C: Information on the Singapore-Rwanda Implementation Agreement</a>
 </p>
 <p><strong>Implementation Agreement</strong>
 </p>
