@@ -8,3 +8,56 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>SINGAPORE AND RWANDA INVITE APPLICATIONS FOR CARBON CREDIT PROJECTS UNDER BILATERAL IMPLEMENTATION AGREEMENT</strong>
+</p>
+<p></p>
+<p><strong>Singapore, 30 January 2026</strong> – Singapore and Rwanda have
+launched an application call for carbon credit projects under their Implementation
+Agreement on carbon credits cooperation. This is Singapore’s fourth call
+for project applications, following earlier calls under bilateral Implementation
+Agreements with Ghana, Peru and Bhutan.</p>
+<p></p>
+<p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Authorised projects will unlock additional carbon mitigation projects in
+Rwanda and advance both countries’ climate ambitions through targeted financing.
+These projects will promote sustainable development and benefit local communities
+through job creation, clean water access, improved energy security, and
+reduced environmental pollution.</p>
+<p></p>
+<p>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Authorised projects can generate carbon credits aligned with Article 6
+of the Paris Agreement. Under Singapore’s International Carbon Credit (ICC)
+Framework, these credits will be eligible for use by Singapore-based carbon
+tax-liable companies to offset up to 5% of their taxable emissions.</p>
+<p></p>
+<p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Interested parties may submit applications for their carbon credit projects
+in Rwanda to be authorised. Applications submitted will be reviewed by
+the Singapore and Rwanda governments.</p>
+<p></p>
+<p><strong>Application and Authorisation Process</strong>
+</p>
+<p></p>
+<p>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application and authorisation
+process comprises three stages, each corresponding to a different stage
+of implementation for the carbon credit project (See <strong><u>Annex A)</u></strong>.
+The first two stages require applicants to submit details on the design
+and implementation plan for the carbon credit project in the lead-up to
+project authorisation. The final stage is for corresponding adjustments
+to be applied to the carbon credits generated from the authorised project,
+in accordance with Article 6, Paragraph 2 of the Paris Agreement. Detailed
+steps on the application process can be found at Singapore’s Carbon Markets
+Cooperation website, at <a href="http://www.carbonmarkets-cooperation.gov.sg/overview-rwanda/" rel="noopener noreferrer nofollow" target="_blank">www.carbonmarkets-cooperation.gov.sg/overview-rwanda/</a>.</p>
+<p></p>
+<p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore and Rwanda will
+assess applications in accordance with each country’s respective requirements.
+For Singapore, these projects must meet Singapore’s eligibility criteria
+for ICCs. The eligibility criteria, and the list of eligible carbon crediting
+programmes and methodologies under the Singapore-Rwanda Implementation
+Agreement, are at <strong><u>Annex B</u></strong>, and on the Carbon Markets
+Cooperation website.</p>
+<hr>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Implementation Agreement</strong>
+</p>
