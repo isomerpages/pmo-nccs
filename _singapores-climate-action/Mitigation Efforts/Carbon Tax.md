@@ -25,23 +25,26 @@ for the first five years from 2019 to 2023 to provide a transitional period
 for emitters to adjust.</p>
 <p><strong>Key Updates to Singapore's Carbon Tax from 2024</strong>
 </p>
-<p>To support our net zero target,&nbsp;<strong>the carbon tax was raised to S$25/tCO<sub>2</sub>e with effect from 2024. It will be raised to S$45/tCO<sub>2</sub>e in 2026 and 2027, with a view to reaching S$50-80/tCO<sub>2</sub>e by 2030</strong>.
+<p>As announced at Budget 2022, to support our net zero target, the carbon
+tax was raised to S$25/tCO<sub>2</sub>e with effect from 2024.<strong> It was raised to S$45/tCO<sub>2</sub>e with effect from 1 Jan 2026 </strong>for
+2026 and 2027, with a view to reaching S$50-80/tCO<sub>2</sub>e by 2030.
 This will strengthen the price signal and impetus for businesses and individuals
-to reduce their carbon footprint in line with national climate goals.</p>
+to reduce their carbon footprint in line with national climate goals.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/carbontaxgraph_updated.png">
 </div>
-<p>The revised carbon tax trajectory is critical in enabling the pace of
-transformation needed to achieve our raised climate ambition and make the
-economy- and society-wide transition to a low-carbon future. It also helps
-businesses remain competitive in a low-carbon future, by enhancing the
-business case to invest in low-carbon solutions, and ensuring that new
-investments and economic activities are aligned with our national climate
-goals.</p>
+<p>The carbon tax trajectory is critical in enabling the pace of transformation
+needed to achieve our climate ambition and make the economy- and society-wide
+transition to a low-carbon future. It also helps businesses remain competitive
+by enhancing the business case to invest in low-carbon solutions and ensuring
+that new investments and economic activities are aligned with our national
+climate goals.</p>
 <p>The Government does not expect to derive additional net revenue from the
-carbon tax increase in this decade. The revenue will help to fund measures
-that support decarbonisation efforts and the transition to a green economy,
-and cushion the impact on businesses and households. &nbsp;</p>
+carbon tax increase in this decade. Carbon tax revenue helps to fund measures
+that support decarbonisation efforts and the transition to a green economy
+and cushion the impact on businesses.</p>
+<p>The Government also provides additional U-Save rebates to households to
+cushion the impact of the carbon tax increase.</p>
 <p><strong>Use of International Carbon Credits</strong>
 </p>
 <p>Companies may use high quality international carbon credits (ICCs) to
@@ -55,11 +58,10 @@ principles to demonstrate high environmental integrity. More details can
 be found at Singapore’s Carbon Markets Cooperation <a href="https://www.carbonmarkets-cooperation.gov.sg/" class="Hyperlink SCXW29903298 BCX0" rel="noreferrer noopener" target="_blank"><u>website</u></a>.</p>
 <p><strong>Transition Framework</strong>
 </p>
-<p>The government has introduced a transition framework to provide support
-for emissions-intensive trade-exposed (EITE) companies as they work to
-reduce emissions and invest in cleaner technologies, while managing the
-near-term impact on business competitiveness. The framework will also help
-to mitigate the risk of carbon leakage.</p>
+<p>The transition framework provides support for emissions-intensive trade-exposed
+(EITE) companies as they work to reduce emissions and invest in cleaner
+technologies, while managing the near-term impact on business competitiveness.
+The framework will also help to mitigate the risk of carbon leakage.</p>
 <p>The amount of allowances awarded to each facility is determined based
 on its performance on internationally-recognised efficiency benchmarks
 where available, and the facility’s decarbonisation plans. These transitory
@@ -115,25 +117,28 @@ as Finland, Norway and Sweden have implemented carbon pricing as early
 as the 1990s. In recent years, jurisdictions in our region have also implemented
 or announced plans to introduce compliance carbon pricing mechanisms, including
 Indonesia, Thailand, Vietnam and Malaysia.</p>
-<p><strong>4. How will the increased carbon tax levels affect individuals and households? What support will be available to households, especially low-income households, to cope with the rising cost of living?</strong>
+<p><strong>4. How will the increased carbon tax levels affect households? What support will be available to help them cope with their cost concerns?</strong>
 </p>
+<p>To help households defray their utilities expenses, the Government provides
+up to $380/year in U-Save rebates under the permanent GST Voucher Scheme.
+We have provided higher U-Save rebates in recent years to support living
+expenses amidst higher inflation and to cushion the impact of the increase
+in carbon tax and water prices. We provided double the regular U-Save amount,
+or up to $760 in FY2022, FY2023 and FY2025, as well as 2.5 times the regular
+U-Save amount, or up to $950 in FY2024.</p>
 <p>Although the carbon tax is directly levied upstream on large emitters,
 it could flow through in the form of higher electricity tariffs as power
 companies pass on the carbon tax to end users. On average, with every $5/tCO<sub>2</sub>e
 increase in the carbon tax level, electricity tariffs could rise by around
-1%. The increase in carbon tax to $25/tCO<sub>2</sub>e is estimated to
-translate to an increase of about $4 per month in household utility bills
-for the average 4-room HDB flat.</p>
+1%. The increase in carbon tax to $45/tCO<sub>2</sub>e is estimated to
+translate to an increase of about $3 per month in household utility bills
+for the average 4-room HDB flat, holding other tariff cost components constant.</p>
 <p>The carbon tax is needed to put a price on the externality or social cost
 of carbon. In doing so, it shapes the behaviour of individuals and households
 to reduce their energy consumption and be more energy efficient, to enable
 us to meet our long-term commitments. Notwithstanding, the Government is
 committed to help Singaporean households cope with the rising cost of living,
 whether this is driven by carbon tax or other factors.</p>
-<p>As announced at Budget 2025, additional U-Save rebates will be disbursed
-to help eligible HDB households offset their utilities expenses. These
-HDB households will receive up to $760 worth of U-Save rebates for Financial
-Year 2025.</p>
 <p><strong>5. How would the Government ensure that consumers are not over-charged by electricity retailers passing on more than 100 per cent of the carbon tax to consumers?</strong>
 </p>
 <p>Today’s electricity retail market is competitive and discourages retailers
