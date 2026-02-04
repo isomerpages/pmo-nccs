@@ -10,12 +10,12 @@ variant: tiptap
 <p><strong>FIFTEENTH PARLIAMENT OF SINGAPORE</strong>
 <br><strong>WRITTEN ANSWER</strong>
 </p>
-<p><strong>Ms Poh Li San:</strong> To ask the Prime Minister and Minister
-for Finance in view of the reduction of national carbon emissions to 55.5
-million tonnes of carbon dioxide equivalent in 2023, whether the Government
-will step up structural reforms that lead to emissions reductions in the
-manufacturing, power, waste and water sectors, which account for 70% of
-total national emissions, to continue this downward trend.</p>
+<p><strong>Ms Poh Li San:</strong> To ask the Minister for Sustainability
+and the Environment in view of the reduction of national carbon emissions
+to 55.5 million tonnes of carbon dioxide equivalent in 2023, whether the
+Government will step up structural reforms that lead to emissions reductions
+in the manufacturing, power, waste and water sectors, which account for
+70% of total national emissions, to continue this downward trend.</p>
 <p><strong>Reply by Minister:</strong>
 </p>
 <p>Singapore’s national carbon emissions in 2023 was 55.5 million tonnes
@@ -37,5 +37,3 @@ heavily on global technological advancements and effective international
 cooperation to decarbonise. We are closely monitoring global developments,
 particularly on technology, renewable energy and carbon markets, to decarbonise
 in the most cost-effective way possible.</p>
-<p><em>Source: Ministry of Sustainability and the Environment</em>
-</p>
