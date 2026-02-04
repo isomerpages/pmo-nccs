@@ -11,13 +11,13 @@ variant: tiptap
 <p><strong>FIFTEENTH PARLIAMENT OF SINGAPORE</strong>
 <br><strong>WRITTEN ANSWER</strong>
 </p>
-<p><strong>Mr Mark Lee:</strong>&nbsp;To ask the Deputy Prime Minister and
-Minister for Trade and Industry in light of the United States’ pull-back
-from UN climate processes while Europe and regional partners remain engaged
-at a calibrating pace (a) how does the Government assess implications for
-Singapore’s carbon tax and sustainability pathway; and (b) whether there
-is scope to recalibrate the pace of carbon tax increases to mitigate cost
-pressures on local industries while meeting long-term climate commitments.&nbsp;</p>
+<p><strong>Mr Mark Lee:</strong>&nbsp;To ask the Prime Minister and Minister
+for Finance in light of the United States’ pull-back from UN climate processes
+while Europe and regional partners remain engaged at a calibrating pace
+(a) how does the Government assess implications for Singapore’s carbon
+tax and sustainability pathway; and (b) whether there is scope to recalibrate
+the pace of carbon tax increases to mitigate cost pressures on local industries
+while meeting long-term climate commitments.&nbsp;</p>
 <p><strong>Mr Gan Kim Yong (for the Prime Minister):</strong>&nbsp;</p>
 <p>The government takes a pragmatic and calibrated approach in setting our
 carbon tax trajectory, bearing in mind the pace of international climate
