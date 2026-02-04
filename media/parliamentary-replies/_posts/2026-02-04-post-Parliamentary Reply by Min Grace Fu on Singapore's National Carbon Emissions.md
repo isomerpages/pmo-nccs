@@ -37,5 +37,3 @@ heavily on global technological advancements and effective international
 cooperation to decarbonise. We are closely monitoring global developments,
 particularly on technology, renewable energy and carbon markets, to decarbonise
 in the most cost-effective way possible.</p>
-<p><em>Source: Ministry of Sustainability and the Environment</em>
-</p>
