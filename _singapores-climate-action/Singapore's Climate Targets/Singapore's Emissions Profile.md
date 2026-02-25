@@ -26,11 +26,11 @@ a significant proportion of our total carbon emissions, we are <a href="/singapo
 </div>
 <p><strong>Carbon Intensity (CO<sub>2</sub> per $GDP)</strong>
 </p>
-<p>Singapore performs well in terms of carbon intensity globally (134<sup>th</sup> of
-153 countries/territories for CO<sub>2</sub> emissions per dollar GDP PPP
-in 2022, with the 1<sup>st</sup> having the highest carbon intensity).<sup>1</sup>
+<p>Singapore performs well in terms of carbon intensity globally (164<sup>th</sup> out
+of 195 countries/territories for CO<sub>2</sub> emissions per dollar GDP
+PPP in 2023, with the 1<sup>st</sup> having the highest carbon intensity).<sup>1</sup>
 </p>
-<p><em><sup>1</sup>Based on IEA data from IEA (2024) Greenhouse Gas Emissions from Energy, <a href="https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy</u></a>, All rights reserved.</em>&nbsp;</p>
+<p><em><sup>1</sup>Based on IEA data from IEA (2025) Greenhouse Gas Emissions from Energy, <a href="https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-energy</u></a>, All rights reserved.</em>&nbsp;</p>
 <p></p>
 <p><strong>Singapore's Past Emissions Data:</strong>
 </p>
