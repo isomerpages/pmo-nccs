@@ -10,8 +10,7 @@ variant: tiptap
 <p><strong>Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong, Committee of Supply Debate 2026</strong>
 </p>
 <hr>
-<p><strong><em>Staying the Course in the Low-Carbon Transition</em></strong>
-</p>
+<h4><strong>Staying the Course in the Low-Carbon Transition</strong></h4>
 <p>Mr. Chairman, Sir,</p>
 <p>Let me thank the Members for your interest in the subject of climate change,
 which has long-term implications for Singapore’s competitiveness, our energy
