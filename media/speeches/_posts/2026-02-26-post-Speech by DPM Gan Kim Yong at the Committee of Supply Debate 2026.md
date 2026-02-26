@@ -342,7 +342,7 @@ Celsius.</p>
 a climate realist.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;We will watch developments in global climate action and key technologies
+<p>We will watch developments in global climate action and key technologies
 that will inform the pace at which we ought to move.</p>
 </li>
 <li>
