@@ -7,8 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>SPEECH BY DEPUTY PRIME MINISTER AND MINISTER FOR TRADE AND INDUSTRY GAN KIM YONG, COMMITTEE OF SUPPLY DEBATE, 26 FEBRUARY 2026</strong>
+<p><strong>Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong, Committee of Supply Debate 2026</strong>
 </p>
+<hr>
 <p><strong><em>Staying the Course in the Low-Carbon Transition</em></strong>
 </p>
 <p>Mr. Chairman, Sir,</p>
@@ -284,7 +285,7 @@ Green Skills Committee.</p>
 has recommended establishing a public-private Carbon Transition Council,
 to support companies in transition planning and seize green opportunities.
 We are assessing the proposal and will provide an update in due course.</p>
-<p><strong>Exercising Influence Beyond Our Size</strong>
+<p><strong><em>Exercising Influence Beyond Our Size</em></strong>
 </p>
 <p>Climate change cannot be solved by any single country. It requires collective
 action. And even as we press on domestically, we are working with international
@@ -313,7 +314,7 @@ carbon markets, and rolling out novel types of carbon credits such as energy
 transition credits to support early coal phase-out in the region.</p>
 <p>These efforts reduce regional climate risks, strengthen economic resilience,
 and reinforce Singapore’s role as a trusted and credible partner.</p>
-<p><strong>Adapting to a Climate-Impaired Future</strong>
+<p><strong><em>Adapting to a Climate-Impaired Future</em></strong>
 </p>
 <p>Finally, mitigation alone is not enough.</p>
 <p>Even under optimistic scenarios, the world will face increasingly severe
@@ -323,7 +324,7 @@ climate resilience.</p>
 across infrastructure, public health, water, food, and coastal protection.
 We are ramping up targeted measures, particularly to address heat stress.
 MSE will elaborate on this.</p>
-<p><strong>Conclusion</strong>
+<p><strong><em>Conclusion</em></strong>
 </p>
 <p>Mr Chairman, the road ahead will be bumpy.</p>
 <p>Global climate action will remain uneven. Technologies will mature at
