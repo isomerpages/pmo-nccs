@@ -44,11 +44,11 @@ continue to rise.</p>
 </p>
 <p>At the same time, we must acknowledge the reality on the ground, especially
 on the political front.</p>
-<p>&nbsp;Global climate action is under strain. Some countries have slowed
-down the implementation of climate actions and started to review their
-climate policies.</p>
-<p>&nbsp;The recent decision by the United States to withdraw from the Paris
-Agreement has introduced additional uncertainty into global climate cooperation.
+<p>Global climate action is under strain. Some countries have slowed down
+the implementation of climate actions and started to review their climate
+policies.</p>
+<p>The recent decision by the United States to withdraw from the Paris Agreement
+has introduced additional uncertainty into global climate cooperation.
 At COP30, countries could not reach consensus on the phasing out of fossil
 fuels. Some multinational companies have also scaled back their sustainability
 commitments.</p>
@@ -74,8 +74,8 @@ absolute emissions reductions beyond its peak.</p>
 net zero, with room to improve.</p>
 </li>
 </ul>
-<p>&nbsp;Major economies are also continuing to make sustained investments
-in clean energy and technology.</p>
+<p>Major economies are also continuing to make sustained investments in clean
+energy and technology.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;Clean energy now attracts around two-thirds of global energy investment.
@@ -83,12 +83,12 @@ In many countries, technologies such as solar and wind are already cheaper
 than some fossil fuel alternatives.</p>
 </li>
 </ul>
-<p>&nbsp;For many countries and companies, investing in clean technologies
-is increasingly the rational choice – improving energy security, lowering
-long-term costs, and creating growth and good jobs.</p>
-<p>&nbsp;Overall, while the current global picture is mixed and political
-momentum is uneven, economics, technology, and nature will eventually drive
-the global transformation towards a low-carbon future.</p>
+<p>For many countries and companies, investing in clean technologies is increasingly
+the rational choice – improving energy security, lowering long-term costs,
+and creating growth and good jobs.</p>
+<p>Overall, while the current global picture is mixed and political momentum
+is uneven, economics, technology, and nature will eventually drive the
+global transformation towards a low-carbon future.</p>
 <p><strong><em>Singapore as a Climate Realist</em></strong>
 </p>
 <p>Against this backdrop, Singapore approaches climate change as a climate
@@ -109,15 +109,15 @@ lead time.</p>
 increasingly carbon-constrained and climate-impaired. If we delay action,
 the eventual adjustment will be sharper, more costly and more disruptive
 for us.</p>
-<p>&nbsp;At the same time, we must calibrate our climate actions carefully,
-taking into consideration global developments, to manage near-term costs
-and competitiveness for our households and our industries.</p>
+<p>At the same time, we must calibrate our climate actions carefully, taking
+into consideration global developments, to manage near-term costs and competitiveness
+for our households and our industries.</p>
 <p><strong><em>Staying the Course</em></strong>
 </p>
 <p>Let me outline now our approach.</p>
 <p><em>Carbon Tax</em>
 </p>
-<p>&nbsp;First, sending the right signal through carbon pricing. As we announced
+<p>First, sending the right signal through carbon pricing. As we announced
 earlier, we have increased the carbon tax to 45 dollars per tonne this
 year.</p>
 <p>As the world decarbonises, businesses and economies that are more emissions-intensive
@@ -147,7 +147,7 @@ and fossil-fuel based options.</p>
 </ul>
 </li>
 </ul>
-<p>&nbsp;Carbon pricing is gaining traction globally.</p>
+<p>Carbon pricing is gaining traction globally.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;Carbon pricing adoption continues to expand, driven in part by measures
@@ -160,8 +160,8 @@ to do so this year, and Japan will make its national emissions trading
 system mandatory this year.</p>
 </li>
 </ul>
-<p>&nbsp;For Singapore, decarbonisation will be more costly than for many
-other economies because of our resource constraints and lack of alternatives.
+<p>For Singapore, decarbonisation will be more costly than for many other
+economies because of our resource constraints and lack of alternatives.
 This means our carbon tax must be right-priced to spur companies to invest
 in low-carbon technologies and reduce their emissions.</p>
 <p>But pacing also matters. As Mr Mark Lee and Ms Lee Hui Ying have noted,
@@ -192,9 +192,8 @@ goals. We are making steady progress on various fronts.</p>
 <p>For example, we have reached our 2030 solar deployment target of 2 gigawatt-peak
 ahead of schedule, and will raise our 2030 target to 3 gigawatt-peak, as
 announced by PM in the Budget speech earlier.</p>
-<p>&nbsp;MTI will provide more details on clean energy during its COS.</p>
-<p>&nbsp;We have also made good progress in the built environment and land
-transport.</p>
+<p>MTI will provide more details on clean energy during its COS.</p>
+<p>We have also made good progress in the built environment and land transport.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>We have greened 66% of our buildings as of last year, up from 61% the
@@ -256,12 +255,12 @@ future economy.</p>
 <p>We have a suite of support schemes that businesses, particularly SMEs,
 can tap on. This includes the Enterprise Sustainability Programme and the
 Enterprise Development Grant.</p>
-<p>&nbsp;In addition, we are supporting companies to build capabilities,
-including in sustainability reporting through schemes such as the Sustainability
+<p>In addition, we are supporting companies to build capabilities, including
+in sustainability reporting through schemes such as the Sustainability
 Reporting Grant, and this helps them remain integrated into global supply
 chains.</p>
-<p>&nbsp;As Mr Mark Lee noted, green procurement is another important enabler
-for transition. Green procurement stimulates demand and revenue for companies
+<p>As Mr Mark Lee noted, green procurement is another important enabler for
+transition. Green procurement stimulates demand and revenue for companies
 which can operate more sustainably and offer lower-carbon products. Since
 last year, the Government has set aside up to&nbsp;5% of tender evaluation
 criteria for environmental sustainability considerations for large construction
@@ -281,9 +280,9 @@ reporting and in the Energy sector, two priority areas identified by the
 Green Skills Committee.</p>
 </li>
 </ul>
-<p>&nbsp;To pull together the many strands of work, the Singapore Business
-Federation has recommended establishing a public-private Carbon Transition
-Council, to support companies in transition planning and seize green opportunities.
+<p>To pull together the many strands of work, the Singapore Business Federation
+has recommended establishing a public-private Carbon Transition Council,
+to support companies in transition planning and seize green opportunities.
 We are assessing the proposal and will provide an update in due course.</p>
 <p><strong>Exercising Influence Beyond Our Size</strong>
 </p>
