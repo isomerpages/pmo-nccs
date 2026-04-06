@@ -7,11 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>REMARKS BY SINGAPORE’S AMBASSADOR FOR CLIMATE ACTION AT SINGAPORE BUSINESS FEDERATION POST-COP30 DIALOGUE</strong>
+<p><strong>CLOSING REMARKS BY SINGAPORE’S AMBASSADOR FOR CLIMATE ACTION AT SINGAPORE BUSINESS FEDERATION POST-COP30 DIALOGUE</strong>
 </p>
 <hr>
 <p>I would like to thank everyone for being here today.</p>
-<p><strong><em>The war in Iran and the closure of the Straits of Hormuz have sent shockwaves across the world. </em></strong>
+<p><strong><em>The war in Iran and the closure of the Straits of Hormuz have sent shockwaves across the world.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,7 +39,7 @@ the world.
 <p>With so many fires to fight, should climate change remain a priority for
 businesses? It is significant that SBF has even organised this event –
 at a time like this. Why?</p>
-<p><strong>First, the current geopolitical situation does not weaken the case for climate action.  If anything, it strengthens it.</strong>
+<p><strong>First, the current geopolitical situation does not weaken the case for climate action. If anything, it strengthens it.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -155,7 +155,7 @@ or lag.</p>
 </ul>
 <p><em>Transition planning is not a cost centre. It is competitiveness strategy in a carbon- constrained world.</em>
 </p>
-<p><strong>Fourth, early movers will capture disproportionate advantage. </strong>
+<p><strong>Fourth, early movers will capture disproportionate advantage.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -193,9 +193,9 @@ delay will:</p>
 </ul>
 </li>
 </ul>
-<p><em>In a world of uncertainty, the companies that succeed will be those that manage the present — while preparing for the future. </em>
+<p><em>In a world of uncertainty, the companies that succeed will be those that manage the present — while preparing for the future.</em>
 </p>
-<p><strong>Fifth, businesses are not alone—you are part of Singapore Inc. We will do this together. </strong>
+<p><strong>Fifth, businesses are not alone—you are part of Singapore Inc. We will do this together.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
