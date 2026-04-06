@@ -11,6 +11,7 @@ variant: tiptap
 <p><strong>CLOSING REMARKS BY SINGAPORE’S AMBASSADOR FOR CLIMATE ACTION AT SINGAPORE BUSINESS FEDERATION POST-COP30 DIALOGUE</strong>
 </p>
 <hr>
+<h4><strong>Towards a Competitive and Resilient Climate Transition</strong></h4>
 <p>I would like to thank everyone for being here today.</p>
 <p><strong><em>The war in Iran and the closure of the Straits of Hormuz have sent shockwaves across the world.</em></strong>
 </p>
