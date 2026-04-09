@@ -17,7 +17,7 @@ a new public-private platform led by the National Climate Change Secretariat
 (NCCS) and the Singapore Business Federation (SBF), to help strengthen
 businesses’ climate resilience and competitiveness. The Council will be
 co-chaired by Mr Ravi Menon, Singapore’s Ambassador for Climate Action
-and Senior Adviser at NCCS, and Mr Kok Ping Soon, Chief Executive Officer
+and Senior Adviser to NCCS, and Mr Kok Ping Soon, Chief Executive Officer
 of SBF.&nbsp;&nbsp;</p>
 <p>To be competitive, Singapore businesses will have to prepare for a carbon-constrained
 and climate-impaired future. Businesses that reduce their carbon emissions
