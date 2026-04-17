@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Speech by Deputy Prime Minister Teo Chee Hean at the National Climate Change Competition 2016 Prize Award Ceremony
+title: Speech by Deputy Prime Minister Teo Chee Hean at the National Climate
+  Change Competition 2016 Prize Award Ceremony
 subtitle: 4 Nov 2016
 permalink: /media/speeches/speech-by-deputy-prime-minister-teo-chee-hean-at-the-national-climate-change-competition-2016-prize-award-ceremony-on-4-november-2016/
+variant: markdown
 ---
-
-
 *"Taking Action to Reduce Carbon Emissions, Adapting to Climate Change and Seizing Green Growth Opportunities"*
 
 Distinguished Guests,
@@ -67,4 +67,3 @@ ___
 <a href="#_ftnref2" name="_ftn2" id="_ftn2">[2]</a> “SolarNova Programme”, HDB, [<a href="https://www.hdb.gov.sg/cs/infoweb/homepage" target="_blank">http://www.hdb.gov.sg</a>](https://www.hdb.gov.sg/cs/infoweb/homepage), Oct 16 2016, assessed 2 Nov 2016.
 
 <a href="#_ftnref3" name="_ftn3" id="_ftn3">[3]</a> [<a href="/files/docs/default-source/news-documents/roadmap_gdc_20140729ba35a337d5384e139e513d90018a9824.pdf" target="_blank">Green Data Centre Technology Roadmap</a>](/files/docs/default-source/news-documents/roadmap_gdc_20140729ba35a337d5384e139e513d90018a9824.pdf), 2014
-
