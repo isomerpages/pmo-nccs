@@ -71,7 +71,7 @@ smart nation initiatives, and companies can test-bed the latest smart city
 ideas and technologies.</p>
 </li>
 <li>
-<p>The <strong><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/hdb-greenprint" rel="noopener noreferrer nofollow" target="_blank">HDB Greenprint</a></strong> is
+<p>The <strong><a href="https://www.hdb.gov.sg/managing-my-home/living-in-my-community/practising-ecoliving/ecoliving-tips" rel="noopener noreferrer nofollow" target="_blank">HDB Greenprint</a></strong> is
 a framework of goals and strategies to guide town development, in alignment
 with Singapore's Sustainable Blueprint targets to reduce the consumption
 of resources from current Business-As-Usual levels. Greenprint aims to
