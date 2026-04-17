@@ -12,7 +12,7 @@ variant: markdown
 Singapore is accelerating our transition towards a low-carbon built environment. Launched in March 2021 by the Building and Construction Authority (BCA) Singapore and the Singapore Green Building Council (SGBC), the [Singapore Green Building Masterplan (SGBMP) ](https://www1.bca.gov.sg/sustainability/sgbmp/) was developed in conjunction with industry stakeholders and the community. It provides recommendations that capture our collective commitment to pursue more ambitious sustainability standards in the built environment. The SGBMP aims to deliver three key targets of “80-80-80 in 2030”: 
 
 * 80% of buildings by gross floor area (GFA) to be green by 2030;
-* 80% of new developments (by GFA) to be [Super Low Energy (SLE)](https://www1.bca.gov.sg/buildsg/sustainability/super-low-energy-programme) buildings from 2030 onwards; and
+* 80% of new developments (by GFA) to be [Super Low Energy (SLE)](https://www1.bca.gov.sg/sustainability/sgbmp/) buildings from 2030 onwards; and
 * 80% improvement in energy efficiency (compared to 2005 levels) for best-in-class green buildings by 2030.
 
 Other key strategies include raising the sustainability standards of existing buildings, driving the adoption of SLE standards for new buildings, and pushing the boundaries of energy efficiency through research and innovation through various policy levers and initiatives.
