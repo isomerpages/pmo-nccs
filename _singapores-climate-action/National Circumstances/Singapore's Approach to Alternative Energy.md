@@ -51,7 +51,7 @@ of integrating solar energy systems into our urban environment. Some of
 our test-bedding projects include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/solarnova-page" rel="noopener noreferrer nofollow" target="_blank">Housing &amp; Development Board's initiative</a> to
+<p><a href="https://www.hdb.gov.sg/hdb-pulse/news/2022/hdb-to-bring-solar-energy" rel="noopener noreferrer nofollow" target="_blank">Housing &amp; Development Board's initiative</a> to
 install solar panels on rooftops of high-rise public housing developments,
 and</p>
 </li>
