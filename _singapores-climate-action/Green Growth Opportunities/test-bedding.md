@@ -50,7 +50,7 @@ Landfill which integrates renewable energy production from solar, wind,
 tidal, biofuel and fuel cells with smart grid technologies.</p>
 </li>
 <li>
-<p><strong><a href="https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/punggol-ecotown" rel="noopener noreferrer nofollow" target="_blank">Punggol Eco-Town </a></strong>demonstrates
+<p><strong><a href="https://www.hdb.gov.sg/about-us/our-towns-and-estates/punggol" rel="noopener noreferrer nofollow" target="_blank">Punggol Eco-Town </a></strong>demonstrates
 sustainable urban planning and design, green technology adoption and active
 community partnership. Social, economic and environmental considerations
 have been formulated by HDB to steer its development. LED lighting and
