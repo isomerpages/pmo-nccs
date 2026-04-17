@@ -64,6 +64,6 @@ ___
 
 <a href="#_ftnref1" name="_ftn1" id="_ftn1">[1]</a> As of 1 Nov 2016, 92 Parties accounting for 65.82 per cent of global emissions have ratified the Paris Agreement, UN Framework Convention on Climate Change, [<a href="https://unfccc.int/" target="_blank">http://www.unfccc.int/</a>](https://unfccc.int/), assessed 2 Nov 2016.
 
-<a href="#_ftnref2" name="_ftn2" id="_ftn2">[2]</a> “SolarNova Programme”, HDB, [<a href="" target="_blank">https://www.hdb.gov.sg/homepage</a>](https://www.hdb.gov.sg/cs/infoweb/homepage), Oct 16 2016, assessed 2 Nov 2016.
+<a href="#_ftnref2" name="_ftn2" id="_ftn2">[2]</a> “SolarNova Programme”, HDB, <a href="" target="_blank">[https://www.hdb.gov.sg/homepage](https://www.hdb.gov.sg/homepage)</a>, Oct 16 2016, assessed 2 Nov 2016.
 
 <a href="#_ftnref3" name="_ftn3" id="_ftn3">[3]</a> [<a href="/files/docs/default-source/news-documents/roadmap_gdc_20140729ba35a337d5384e139e513d90018a9824.pdf" target="_blank">Green Data Centre Technology Roadmap</a>](/files/docs/default-source/news-documents/roadmap_gdc_20140729ba35a337d5384e139e513d90018a9824.pdf), 2014
