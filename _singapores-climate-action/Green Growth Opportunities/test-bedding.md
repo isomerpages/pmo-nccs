@@ -50,7 +50,7 @@ Landfill which integrates renewable energy production from solar, wind,
 tidal, biofuel and fuel cells with smart grid technologies.</p>
 </li>
 <li>
-<p><strong><a href="https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/punggol-ecotown" rel="noopener noreferrer nofollow" target="_blank">Punggol Eco-Town </a></strong>demonstrates
+<p><strong><a href="https://www.hdb.gov.sg/about-us/our-towns-and-estates/punggol" rel="noopener noreferrer nofollow" target="_blank">Punggol Eco-Town </a></strong>demonstrates
 sustainable urban planning and design, green technology adoption and active
 community partnership. Social, economic and environmental considerations
 have been formulated by HDB to steer its development. LED lighting and
@@ -71,7 +71,7 @@ smart nation initiatives, and companies can test-bed the latest smart city
 ideas and technologies.</p>
 </li>
 <li>
-<p>The <strong><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/hdb-greenprint" rel="noopener noreferrer nofollow" target="_blank">HDB Greenprint</a></strong> is
+<p>The <strong><a href="https://www.hdb.gov.sg/managing-my-home/living-in-my-community/practising-ecoliving/ecoliving-tips" rel="noopener noreferrer nofollow" target="_blank">HDB Greenprint</a></strong> is
 a framework of goals and strategies to guide town development, in alignment
 with Singapore's Sustainable Blueprint targets to reduce the consumption
 of resources from current Business-As-Usual levels. Greenprint aims to

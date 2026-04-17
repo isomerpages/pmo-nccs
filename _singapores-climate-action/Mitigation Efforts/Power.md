@@ -23,7 +23,7 @@ our target of at least 2 gigawatt-peak (GWp) by 2030, which will generate
 enough energy to meet around 3% of Singapore’s total projected electricity
 demand in that year.&nbsp; As part of our efforts to encourage solar energy
 deployment, the government has launched various tenders and initiatives
-such as the <a href="https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/solarnova-page" rel="noopener noreferrer nofollow" target="_blank">SolarNova programme</a>,
+such as the <a href="https://www.hdb.gov.sg/hdb-pulse/news/2022/hdb-to-bring-solar-energy" rel="noopener noreferrer nofollow" target="_blank">SolarNova programme</a>,
 JTC’s SolarLand and SolarRoof programme and PUB’s floating solar systems.
 As at Jan 2023, seven tenders equivalent to more than 440 megawatt-peak
 (MWp) of solar energy have been awarded under the SolarNova programme.</p>
