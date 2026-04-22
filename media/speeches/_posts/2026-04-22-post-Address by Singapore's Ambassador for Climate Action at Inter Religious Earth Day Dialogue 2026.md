@@ -503,11 +503,9 @@ environmental initiatives on a global scale. <a href="https://amma.org/news/amma
 first Carbon-Neutral Academic Conference makes a Clarion Call for a sustainable
 world. <a href="https://amma.org/news/amrita-university-indias-first-carbon-neutral-academic-conference-makes-a-clarion-call-for-a-sustainable-world/" rel="noopener noreferrer nofollow" target="_blank">https://amma.org/news/amrita-university-indias-first-carbon-neutral-academic-conference-makes-a-clarion-call-for-a-sustainable-world/</a>
 </p>
-<p><a href="#_ednref23" rel="noopener noreferrer nofollow" target="_blank">[xxiii]</a> Church
-of the Nazarene Asia-Pacific (2022). Super Typhoon leaves destruction in
-the Northern Philippines. <a href="https://asiapacificnazarene.org/super-typhoon-leaves-destruction-in-the-northern-philippines/" rel="noopener noreferrer nofollow" target="_blank">https://asiapacificnazarene.org/super-typhoon-leaves-destruction-in-the-northern-philippines/</a>
+<p><sup>[xxiii]</sup>Church of the Nazarene Asia-Pacific (2022). Super Typhoon
+leaves destruction in the Northern Philippines. <a href="https://asiapacificnazarene.org/super-typhoon-leaves-destruction-in-the-northern-philippines/" rel="noopener noreferrer nofollow" target="_blank">https://asiapacificnazarene.org/super-typhoon-leaves-destruction-in-the-northern-philippines/</a>
 </p>
-<p><a href="#_ednref24" rel="noopener noreferrer nofollow" target="_blank">[xxiv]</a> Caritas
-/ ReliefWeb (2026). Caritas Philippines responds as communities recover
-from multiple disasters. <a href="https://reliefweb.int/report/philippines/caritas-philippines-responds-communities-recover-multiple-disasters" rel="noopener noreferrer nofollow" target="_blank">https://reliefweb.int/report/philippines/caritas-philippines-responds-communities-recover-multiple-disasters</a>
+<p><sup>[xxiv]</sup>Caritas / ReliefWeb (2026). Caritas Philippines responds
+as communities recover from multiple disasters. <a href="https://reliefweb.int/report/philippines/caritas-philippines-responds-communities-recover-multiple-disasters" rel="noopener noreferrer nofollow" target="_blank">https://reliefweb.int/report/philippines/caritas-philippines-responds-communities-recover-multiple-disasters</a>
 </p>
