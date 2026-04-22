@@ -441,24 +441,21 @@ restraint.</p>
 <p>Let us pray to be good stewards and wise custodians, choosing compassion
 over indifference, action over inertia, and hope over despair.</p>
 <hr>
-<p><a href="#_ednref1" rel="noopener noreferrer nofollow" target="_blank">[i]</a> Lancet
-Countdown (2025, December 10). 2025 Report – Lancet Countdown. <a href="https://lancetcountdown.org/2025-report/" rel="noopener noreferrer nofollow" target="_blank">https://lancetcountdown.org/2025-report/</a>
+<p><sup>[i]</sup>Lancet Countdown (2025, December 10). 2025 Report – Lancet
+Countdown. <a href="https://lancetcountdown.org/2025-report/" rel="noopener noreferrer nofollow" target="_blank">https://lancetcountdown.org/2025-report/</a>
 </p>
-<p><a href="#_ednref2" rel="noopener noreferrer nofollow" target="_blank">[ii]</a> The
-Conversation (2026, January 20). The world is in water bankruptcy, UN scientists
-report – here's what that means. <a href="https://theconversation.com/the-world-is-in-water-bankruptcy-un-scientists-report-heres-what-that-means-273213" rel="noopener noreferrer nofollow" target="_blank">https://theconversation.com/the-world-is-in-water-bankruptcy-un-scientists-report-heres-what-that-means-273213</a>
+<p><sup>[ii]</sup>The Conversation (2026, January 20). The world is in water
+bankruptcy, UN scientists report – here's what that means. <a href="https://theconversation.com/the-world-is-in-water-bankruptcy-un-scientists-report-heres-what-that-means-273213" rel="noopener noreferrer nofollow" target="_blank">https://theconversation.com/the-world-is-in-water-bankruptcy-un-scientists-report-heres-what-that-means-273213</a>
 </p>
-<p><a href="#_ednref3" rel="noopener noreferrer nofollow" target="_blank">[iii]</a> Ecosperity
-(2021). New Nature Economy Asia Report. <a href="https://www.ecosperity.sg/content/dam/ecosperity-aem/en/reports/new-nature-economy-asia-low-res-pages.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ecosperity.sg/content/dam/ecosperity-aem/en/reports/new-nature-economy-asia-low-res-pages.pdf</a>
+<p><sup>[iii]</sup>Ecosperity (2021). New Nature Economy Asia Report. <a href="https://www.ecosperity.sg/content/dam/ecosperity-aem/en/reports/new-nature-economy-asia-low-res-pages.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ecosperity.sg/content/dam/ecosperity-aem/en/reports/new-nature-economy-asia-low-res-pages.pdf</a>
 </p>
-<p><a href="#_ednref4" rel="noopener noreferrer nofollow" target="_blank">[iv]</a> English
-Standard Version Bible (2001). Genesis 2:15. <a href="https://esv.literalword.com/?q=Genesis+2" rel="noopener noreferrer nofollow" target="_blank">https://esv.literalword.com/?q=Genesis+2</a>
+<p><sup>[iv]</sup>English Standard Version Bible (2001). Genesis 2:15.
+<a href="https://esv.literalword.com/?q=Genesis+2" rel="noopener noreferrer nofollow" target="_blank">https://esv.literalword.com/?q=Genesis+2</a>
 </p>
-<p><a href="#_ednref5" rel="noopener noreferrer nofollow" target="_blank">[v]</a> Ḥadīth:
-Aḥmad (n.d.). ahmad:12902. <a href="https://hadithunlocked.com/ahmad:12902" rel="noopener noreferrer nofollow" target="_blank">https://hadithunlocked.com/ahmad:12902</a>
+<p><sup>[v]</sup>Ḥadīth: Aḥmad (n.d.). ahmad:12902. <a href="https://hadithunlocked.com/ahmad:12902" rel="noopener noreferrer nofollow" target="_blank">https://hadithunlocked.com/ahmad:12902</a>
 </p>
-<p><a href="#_ednref6" rel="noopener noreferrer nofollow" target="_blank">[vi]</a> Upanishad
-(n.d.). Isha Upanishad: All that is World in the Universe. <a href="https://upanishads.org.in/upanishads/sa/ishaupanishad/isha-upanishad-all-that-is-world-in-the-universe" rel="noopener noreferrer nofollow" target="_blank">https://upanishads.org.in/upanishads/sa/ishaupanishad/isha-upanishad-all-that-is-world-in-the-universe</a>
+<p><sup>[vi]</sup>Upanishad (n.d.). Isha Upanishad: All that is World in
+the Universe. <a href="https://upanishads.org.in/upanishads/sa/ishaupanishad/isha-upanishad-all-that-is-world-in-the-universe" rel="noopener noreferrer nofollow" target="_blank">https://upanishads.org.in/upanishads/sa/ishaupanishad/isha-upanishad-all-that-is-world-in-the-universe</a>
 </p>
 <p><a href="#_ednref7" rel="noopener noreferrer nofollow" target="_blank">[vii]</a> Arc
 World (n.d.). What does Zoroastrianism teach us about ecology? <a href="http://www.arcworld.org/faithsee06.html?pageID=12" rel="noopener noreferrer nofollow" target="_blank">http://www.arcworld.org/faithsee06.html?pageID=12</a>
