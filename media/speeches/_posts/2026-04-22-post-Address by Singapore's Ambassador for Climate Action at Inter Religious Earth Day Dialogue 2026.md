@@ -226,7 +226,8 @@ moderation in consumption, low-waste living, and sustainable diets.</p>
 </li>
 <li>
 <p>Christianity calls us to live with gratitude and restraint, pointing out
-that <em>“godliness with contentment is great gain.”</em><strong><em><a href="#_edn11" rel="noopener noreferrer nofollow" target="_blank">[xi]</a></em></strong>&nbsp;</p>
+that <em>“godliness with contentment is great gain.”</em><sup>[xi]</sup>
+</p>
 </li>
 </ul>
 <p><strong><em>Effective climate action is not just about finance or technology. It is ultimately about individual choices – how we live and what we support</em></strong>.</p>
@@ -253,7 +254,7 @@ good.<em>&nbsp;</em>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Lutheran Church of Sweden owns 22% of Sweden's commercial forests.
-It has committed to protect 20% of forest areas.<a href="#_edn12" rel="noopener noreferrer nofollow" target="_blank">[xii]</a>  <a href="#_edn13" rel="noopener noreferrer nofollow" target="_blank">[xiii]</a>
+It has committed to protect 20% of forest areas.<sup>[xii] [xiii]</sup>
 </p>
 </li>
 <li>
