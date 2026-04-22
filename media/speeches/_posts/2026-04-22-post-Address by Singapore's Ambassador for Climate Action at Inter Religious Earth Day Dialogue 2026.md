@@ -468,18 +468,16 @@ Environment. <a href="https://www.sikhdharma.org/sikhism-and-the-environment/" r
 </p>
 <p><sup>[x]</sup>Tsitic (n.d.). Tao Te Ching Chapter 46. <a href="https://www.taoistic.com/taoteching-laotzu/taoteching-46.htm" rel="noopener noreferrer nofollow" target="_blank">https://www.taoistic.com/taoteching-laotzu/taoteching-46.htm</a>
 </p>
-<p><a href="#_ednref11" rel="noopener noreferrer nofollow" target="_blank">[xi]</a> English
-Standard Version Bible (2001). 1 Timothy 6:6. <a href="https://esv.literalword.com/?q=Timothy+6:6" rel="noopener noreferrer nofollow" target="_blank">https://esv.literalword.com/?q=Timothy+6:6</a>
+<p><sup>[xi]</sup>English Standard Version Bible (2001). 1 Timothy 6:6.
+<a href="https://esv.literalword.com/?q=Timothy+6:6" rel="noopener noreferrer nofollow" target="_blank">https://esv.literalword.com/?q=Timothy+6:6</a>
 </p>
-<p><a href="#_ednref12" rel="noopener noreferrer nofollow" target="_blank">[xii]</a> WWF-Singapore
-(2021). Keeping the faith. <a href="https://www.wwf.sg/keeping-the-faith/" rel="noopener noreferrer nofollow" target="_blank">https://www.wwf.sg/keeping-the-faith/</a>
+<p><sup>[xii]</sup>WWF-Singapore (2021). Keeping the faith. <a href="https://www.wwf.sg/keeping-the-faith/" rel="noopener noreferrer nofollow" target="_blank">https://www.wwf.sg/keeping-the-faith/</a>
 </p>
-<p><a href="#_ednref13" rel="noopener noreferrer nofollow" target="_blank">[xiii]</a> Derevo
-(2025, March 7). Swedish Church Commits to Sustainable Forestry Practices
-Shifting Focus to Preservation and Community Engagement. <a href="https://derevo.ua/en/publication/swedish-church-commits-to-sustainable-forestry-2773" rel="noopener noreferrer nofollow" target="_blank">https://derevo.ua/en/publication/swedish-church-commits-to-sustainable-forestry-2773</a>
+<p><sup>[xiii]</sup>Derevo (2025, March 7). Swedish Church Commits to Sustainable
+Forestry Practices Shifting Focus to Preservation and Community Engagement.
+<a href="https://derevo.ua/en/publication/swedish-church-commits-to-sustainable-forestry-2773" rel="noopener noreferrer nofollow" target="_blank">https://derevo.ua/en/publication/swedish-church-commits-to-sustainable-forestry-2773</a>
 </p>
-<p><a href="#_ednref14" rel="noopener noreferrer nofollow" target="_blank">[xiv]</a> Masjid
-Abdul Aleem Siddique (n.d.). Green Mosque. <a href="https://aleemsiddique.org.sg/green-mosque/" rel="noopener noreferrer nofollow" target="_blank">https://aleemsiddique.org.sg/green-mosque/</a>
+<p><sup>[xiv]</sup>Masjid Abdul Aleem Siddique (n.d.). Green Mosque. <a href="https://aleemsiddique.org.sg/green-mosque/" rel="noopener noreferrer nofollow" target="_blank">https://aleemsiddique.org.sg/green-mosque/</a>
 </p>
 <p><a href="#_ednref15" rel="noopener noreferrer nofollow" target="_blank">[xv]</a> World
 Bank (2025, November 24). Islamic Finance and Climate Agenda: From Green
