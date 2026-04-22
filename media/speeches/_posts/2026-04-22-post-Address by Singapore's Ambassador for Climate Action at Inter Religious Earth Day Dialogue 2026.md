@@ -8,14 +8,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Responsibility, Reverence, Restraint</strong>
+<p><strong>ADDRESS BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION AT INTER RELIGIOUS EARTH DAY DIALOGUE 2026</strong>
 </p>
-<p></p>
-<p>---</p>
-<p></p>
-<p></p>
+<hr>
+<h4><strong>Responsibility, Reverence, Restraint</strong></h4>
 <p>Honourable leaders of faith, ladies and gentlemen, good afternoon.</p>
-<p></p>
 <p>Thank you Caritas Singapore for bringing together, on this day dedicated
 to our planet, voices of faith from so many traditions.&nbsp;</p>
 <p><strong>THE SILENT KILLERS</strong>&nbsp;</p>
