@@ -457,18 +457,16 @@ bankruptcy, UN scientists report – here's what that means. <a href="https://th
 <p><sup>[vi]</sup>Upanishad (n.d.). Isha Upanishad: All that is World in
 the Universe. <a href="https://upanishads.org.in/upanishads/sa/ishaupanishad/isha-upanishad-all-that-is-world-in-the-universe" rel="noopener noreferrer nofollow" target="_blank">https://upanishads.org.in/upanishads/sa/ishaupanishad/isha-upanishad-all-that-is-world-in-the-universe</a>
 </p>
-<p><a href="#_ednref7" rel="noopener noreferrer nofollow" target="_blank">[vii]</a> Arc
-World (n.d.). What does Zoroastrianism teach us about ecology? <a href="http://www.arcworld.org/faithsee06.html?pageID=12" rel="noopener noreferrer nofollow" target="_blank">http://www.arcworld.org/faithsee06.html?pageID=12</a>
+<p><sup>[vii]</sup>Arc World (n.d.). What does Zoroastrianism teach us about
+ecology? <a href="http://www.arcworld.org/faithsee06.html?pageID=12" rel="noopener noreferrer nofollow" target="_blank">http://www.arcworld.org/faithsee06.html?pageID=12</a>
 </p>
-<p><a href="#_ednref8" rel="noopener noreferrer nofollow" target="_blank">[viii]</a> The
-Holy See (2025, September 1). For the 10<sup>th</sup> World Day of Prayer
-for the Care of Creation 2025. <a href="https://www.vatican.va/content/leo-xiv/en/messages/creation/documents/20250630-messaggio-giornata-curacreato.html" rel="noopener noreferrer nofollow" target="_blank">https://www.vatican.va/content/leo-xiv/en/messages/creation/documents/20250630-messaggio-giornata-curacreato.html</a>
+<p><sup>[viii]</sup>The Holy See (2025, September 1). For the 10<sup>th</sup> World
+Day of Prayer for the Care of Creation 2025. <a href="https://www.vatican.va/content/leo-xiv/en/messages/creation/documents/20250630-messaggio-giornata-curacreato.html" rel="noopener noreferrer nofollow" target="_blank">https://www.vatican.va/content/leo-xiv/en/messages/creation/documents/20250630-messaggio-giornata-curacreato.html</a>
 </p>
-<p><a href="#_ednref9" rel="noopener noreferrer nofollow" target="_blank">[ix]</a> Sikh
-Darma International (2020, May 21). Sikhism and the Environment. <a href="https://www.sikhdharma.org/sikhism-and-the-environment/" rel="noopener noreferrer nofollow" target="_blank">https://www.sikhdharma.org/sikhism-and-the-environment/</a>
+<p><sup>[ix]</sup>Sikh Darma International (2020, May 21). Sikhism and the
+Environment. <a href="https://www.sikhdharma.org/sikhism-and-the-environment/" rel="noopener noreferrer nofollow" target="_blank">https://www.sikhdharma.org/sikhism-and-the-environment/</a>
 </p>
-<p><a href="#_ednref10" rel="noopener noreferrer nofollow" target="_blank">[x]</a> Tsitic
-(n.d.). Tao Te Ching Chapter 46. <a href="https://www.taoistic.com/taoteching-laotzu/taoteching-46.htm" rel="noopener noreferrer nofollow" target="_blank">https://www.taoistic.com/taoteching-laotzu/taoteching-46.htm</a>
+<p><sup>[x]</sup>Tsitic (n.d.). Tao Te Ching Chapter 46. <a href="https://www.taoistic.com/taoteching-laotzu/taoteching-46.htm" rel="noopener noreferrer nofollow" target="_blank">https://www.taoistic.com/taoteching-laotzu/taoteching-46.htm</a>
 </p>
 <p><a href="#_ednref11" rel="noopener noreferrer nofollow" target="_blank">[xi]</a> English
 Standard Version Bible (2001). 1 Timothy 6:6. <a href="https://esv.literalword.com/?q=Timothy+6:6" rel="noopener noreferrer nofollow" target="_blank">https://esv.literalword.com/?q=Timothy+6:6</a>
