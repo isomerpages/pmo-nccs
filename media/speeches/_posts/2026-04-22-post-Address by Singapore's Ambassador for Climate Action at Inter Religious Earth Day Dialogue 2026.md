@@ -302,12 +302,12 @@ communities.<sup>[xvii]</sup>
 </li>
 <li>
 <p>The Buddhist Tzu Chi Foundation, active in over 95 countries, advocates
-community recycling, vegetarian diets, and resource conservation.<a href="#_edn18" rel="noopener noreferrer nofollow" target="_blank">[xviii]</a>
+community recycling, vegetarian diets, and resource conservation.<sup>[xviii]</sup>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>In Malaysia, they diverted over half a million tonnes of waste from landfills
-since 1995.<a href="#_edn19" rel="noopener noreferrer nofollow" target="_blank">[xix]</a>
+since 1995.<sup>[xix]</sup>
 </p>
 </li>
 <li>
