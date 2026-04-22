@@ -312,21 +312,21 @@ since 1995.<sup>[xix]</sup>
 </li>
 <li>
 <p>In Taiwan, they recycled over 1.4 million tonnes of paper, saving over
-28 million trees over the past 20 years.<a href="#_edn20" rel="noopener noreferrer nofollow" target="_blank">[xx]</a>
+28 million trees over the past 20 years.<sup>[xx]</sup>
 </p>
 </li>
 </ul>
 </li>
 <li>
 <p>The Mata Amritanandamayi Math from India has framed climate action as
-a “<em>revolution of compassion”</em>.<a href="#_edn21" rel="noopener noreferrer nofollow" target="_blank">[xxi]</a>
+a “<em>revolution of compassion”</em>.<sup>[xxi]</sup>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>It has planted more than one million trees globally, cleaned up rivers,
 promoted composting and recycling, and launched organic food cultivation
-programmes – to reduce carbon emissions and strengthen local resilience.
-<a href="#_edn22" rel="noopener noreferrer nofollow" target="_blank">[xxii]</a>&nbsp;</p>
+programmes – to reduce carbon emissions and strengthen local resilience.<sup>[xxii]</sup>
+</p>
 </li>
 </ul>
 </li>
@@ -391,8 +391,7 @@ amidst worsening natural disasters. They are already stepping up.</p>
 <p>When typhoons slammed into the Philippines in recent years, churches and
 faith‑based agencies from across the region mobilised immediately, not
 only providing shelter and necessities but also helping to rebuild homes
-and livelihoods.<a href="#_edn23" rel="noopener noreferrer nofollow" target="_blank">[xxiii]</a> 
-<a href="#_edn24" rel="noopener noreferrer nofollow" target="_blank">[xxiv]</a><strong>&nbsp;</strong>
+and livelihoods.<sup>[xxiii] [xxix]</sup>
 </p>
 </li>
 </ul>
