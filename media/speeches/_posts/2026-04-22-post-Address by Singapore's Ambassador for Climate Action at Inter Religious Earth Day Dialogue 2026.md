@@ -36,7 +36,7 @@ affected over 30 million people and submerged a third of the country.</p>
 </li>
 <li>
 <p>We saw it again last year: the third-hottest year ever recorded. Heat
-stress now kills one person every minute globally. <a href="#_edn1" rel="noopener noreferrer nofollow" target="_blank">[i]</a>
+stress now kills one person every minute globally. <sup>[i]</sup>
 </p>
 </li>
 <li>
@@ -54,13 +54,13 @@ degraded.</p>
 </li>
 <li>
 <p>Nearly half the world’s population lives with severe water scarcity for
-at least one month a year. <a href="#_edn2" rel="noopener noreferrer nofollow" target="_blank">[ii]</a>
+at least one month a year.<sup>[ii]</sup> 
 </p>
 </li>
 <li>
 <p>We see it in the collapse of biodiversity—nearly one million species at
 risk of extinction, many within decades. In Southeast Asia, up to 42% of
-all species could be lost.<a href="#_edn3" rel="noopener noreferrer nofollow" target="_blank">[iii]</a>
+all species could be lost.<sup>[iii]</sup>
 </p>
 </li>
 <li>
@@ -129,7 +129,7 @@ come in. They speak to the inner dimensions of these tragedies.&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Judaism tells us: “<em>The Lord God took the man and put him in the Garden of Eden to work it and take care of it.”</em><strong><em><a href="#_edn4" rel="noopener noreferrer nofollow" target="_blank">[iv]</a></em></strong>
+<p>Judaism tells us: “<em>The Lord God took the man and put him in the Garden of Eden to work it and take care of it.” </em><sup>[iv]</sup>
 </p>
 </li>
 <li>
@@ -147,7 +147,7 @@ limits on global warming.</p>
 <p>Islam speaks of humanity as <em>khalifah</em>—a trustee.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>As the Prophet Muhammad puts it: “<em>If the final hour comes while you have a sapling in your hand, plant it.”</em><strong><em><a href="#_edn5" rel="noopener noreferrer nofollow" target="_blank">[v]</a></em></strong><em> </em>Even
+<p>As the Prophet Muhammad puts it: “<em>If the final hour comes while you have a sapling in your hand, plant it.” </em><sup>[v]</sup><em> </em>Even
 at the end of time— act for the future.</p>
 </li>
 </ul>
@@ -164,7 +164,7 @@ God’s majesty.&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Hinduism teaches <em>“All that exists in this universe is pervaded by the Divine.”</em><strong><em><a href="#_edn6" rel="noopener noreferrer nofollow" target="_blank">[vi]</a></em></strong>
+<p>Hinduism teaches <em>“All that exists in this universe is pervaded by the Divine." </em><sup>[vi]</sup>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -176,8 +176,7 @@ nature is not separate from spiritual life.</p>
 </li>
 <li>
 <p>Zoroastrianism endorses the caring of “seven creations” – sky, water,
-earth, plant, animal, human and fire – as part of a symbiotic relationship.
-<a href="#_edn7" rel="noopener noreferrer nofollow" target="_blank">[vii]</a>
+earth, plant, animal, human and fire – as part of a symbiotic relationship.<sup>[vii]</sup>
 </p>
 </li>
 <li>
@@ -199,12 +198,11 @@ world as part of a moral and religious obligation.</p>
 nature is a sign of God, not a mere resource.</p>
 </li>
 <li>
-<p>Or as Pope Leo puts it: <em>“The universe reflects the face of Jesus Christ, in whom all things were created and redeemed”</em>.
-<a href="#_edn8" rel="noopener noreferrer nofollow" target="_blank">[viii]</a>
+<p>Or as Pope Leo puts it: <em>“The universe reflects the face of Jesus Christ, in whom all things were created and redeemed”</em>. <sup>[viii]</sup>
 </p>
 </li>
 <li>
-<p>The founder of Sikhism, Guru Nanak, teaches: <em>“Air is the Guru, Water is the Father, and Earth is the Great Mother of all.”</em><strong><em><a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank">[ix]</a></em></strong><em> </em>This
+<p>The founder of Sikhism, Guru Nanak, teaches: <em>“Air is the Guru, Water is the Father, and Earth is the Great Mother of all.”</em><strong><em><a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank"> </a></em></strong><sup>[ix]</sup><em> </em>This
 is not metaphor. It is relationship. It is kinship.&nbsp;</p>
 </li>
 </ul>
@@ -223,7 +221,7 @@ what we have, not accumulating endless possessions.</p>
 moderation in consumption, low-waste living, and sustainable diets.</p>
 </li>
 <li>
-<p>Taoism teaches: <em>“He who knows that enough is enough will always have enough.”</em><strong><em><a href="#_edn10" rel="noopener noreferrer nofollow" target="_blank">[x]</a></em></strong>
+<p>Taoism teaches: <em>“He who knows that enough is enough will always have enough." </em><sup>[x]</sup>
 </p>
 </li>
 <li>
