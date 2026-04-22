@@ -36,7 +36,7 @@ affected over 30 million people and submerged a third of the country.</p>
 </li>
 <li>
 <p>We saw it again last year: the third-hottest year ever recorded. Heat
-stress now kills one person every minute globally. <sup>[i]</sup>
+stress now kills one person every minute globally.<sup>[i]</sup>
 </p>
 </li>
 <li>
@@ -129,7 +129,7 @@ come in. They speak to the inner dimensions of these tragedies.&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Judaism tells us: “<em>The Lord God took the man and put him in the Garden of Eden to work it and take care of it.” </em><sup>[iv]</sup>
+<p>Judaism tells us: “<em>The Lord God took the man and put him in the Garden of Eden to work it and take care of it.”</em><sup>[iv]</sup>
 </p>
 </li>
 <li>
@@ -147,7 +147,7 @@ limits on global warming.</p>
 <p>Islam speaks of humanity as <em>khalifah</em>—a trustee.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>As the Prophet Muhammad puts it: “<em>If the final hour comes while you have a sapling in your hand, plant it.” </em><sup>[v]</sup><em> </em>Even
+<p>As the Prophet Muhammad puts it: “<em>If the final hour comes while you have a sapling in your hand, plant it.”</em><sup>[v]</sup><em> </em>Even
 at the end of time— act for the future.</p>
 </li>
 </ul>
@@ -198,7 +198,7 @@ world as part of a moral and religious obligation.</p>
 nature is a sign of God, not a mere resource.</p>
 </li>
 <li>
-<p>Or as Pope Leo puts it: <em>“The universe reflects the face of Jesus Christ, in whom all things were created and redeemed”</em>. <sup>[viii]</sup>
+<p>Or as Pope Leo puts it: <em>“The universe reflects the face of Jesus Christ, in whom all things were created and redeemed”</em>.<sup>[viii]</sup>
 </p>
 </li>
 <li>
@@ -221,7 +221,7 @@ what we have, not accumulating endless possessions.</p>
 moderation in consumption, low-waste living, and sustainable diets.</p>
 </li>
 <li>
-<p>Taoism teaches: <em>“He who knows that enough is enough will always have enough." </em><sup>[x]</sup>
+<p>Taoism teaches: <em>“He who knows that enough is enough will always have enough."</em><sup>[x]</sup>
 </p>
 </li>
 <li>
