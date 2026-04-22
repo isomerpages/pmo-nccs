@@ -266,7 +266,7 @@ and better manage their energy use.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Masjid Al-Aleem Siddique eliminated single-use plastic bottles during
-Ramadan and adopted solar energy.<a href="#_edn14" rel="noopener noreferrer nofollow" target="_blank">[xiv]</a>
+Ramadan and adopted solar energy.<sup>[xiv]</sup>
 </p>
 </li>
 </ul>
@@ -285,17 +285,17 @@ professional decisions, creating ripple effects beyond the immediate community.&
 <ul data-tight="true" class="tight">
 <li>
 <p>Islamic endowments are adopting new <em>"green waqf"</em> frameworks to
-finance renewable energy and climate projects.<a href="#_edn15" rel="noopener noreferrer nofollow" target="_blank">[xv]</a>
+finance renewable energy and climate projects.<sup>[xv]</sup>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>In Indonesia, a "Sharing Electricity" waqf project funds solar systems
-for off-grid villages.<a href="#_edn16" rel="noopener noreferrer nofollow" target="_blank">[xvi]</a>
+for off-grid villages.<sup>[xvi]</sup>
 </p>
 </li>
 <li>
 <p>In 2022, WaterAid raised US$250,000 to provide clean water in climate-affected
-communities.<a href="#_edn17" rel="noopener noreferrer nofollow" target="_blank">[xvii]</a>
+communities.<sup>[xvii]</sup>
 </p>
 </li>
 </ul>
