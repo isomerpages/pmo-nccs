@@ -391,7 +391,7 @@ amidst worsening natural disasters. They are already stepping up.</p>
 <p>When typhoons slammed into the Philippines in recent years, churches and
 faith‑based agencies from across the region mobilised immediately, not
 only providing shelter and necessities but also helping to rebuild homes
-and livelihoods.<sup>[xxiii] [xxix]</sup>
+and livelihoods.<sup>[xxiii] [xxiv]</sup>
 </p>
 </li>
 </ul>
