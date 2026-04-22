@@ -479,36 +479,29 @@ Forestry Practices Shifting Focus to Preservation and Community Engagement.
 </p>
 <p><sup>[xiv]</sup>Masjid Abdul Aleem Siddique (n.d.). Green Mosque. <a href="https://aleemsiddique.org.sg/green-mosque/" rel="noopener noreferrer nofollow" target="_blank">https://aleemsiddique.org.sg/green-mosque/</a>
 </p>
-<p><a href="#_ednref15" rel="noopener noreferrer nofollow" target="_blank">[xv]</a> World
-Bank (2025, November 24). Islamic Finance and Climate Agenda: From Green
-Sukuk Innovation to Greener Halal Value Chains. <a href="https://www.worldbank.org/en/country/malaysia/publication/islamic-finance-and-climate-agenda" rel="noopener noreferrer nofollow" target="_blank">https://www.worldbank.org/en/country/malaysia/publication/islamic-finance-and-climate-agenda</a>
+<p><sup>[xv]</sup>World Bank (2025, November 24). Islamic Finance and Climate
+Agenda: From Green Sukuk Innovation to Greener Halal Value Chains. <a href="https://www.worldbank.org/en/country/malaysia/publication/islamic-finance-and-climate-agenda" rel="noopener noreferrer nofollow" target="_blank">https://www.worldbank.org/en/country/malaysia/publication/islamic-finance-and-climate-agenda</a>
 </p>
-<p><a href="#_ednref16" rel="noopener noreferrer nofollow" target="_blank">[xvi]</a> UNDP
-(2022, September 20). Green Waqf Framework. <a href="https://climatepromise.undp.org/sites/default/files/research_report_document/INS-20SEP-GREEN%20WAQF%20FRAMEWORK.pdf" rel="noopener noreferrer nofollow" target="_blank">https://climatepromise.undp.org/sites/default/files/research_report_document/INS-20SEP-GREEN%20WAQF%20FRAMEWORK.pdf</a>
+<p><sup>[xvi]</sup>UNDP (2022, September 20). Green Waqf Framework. <a href="https://climatepromise.undp.org/sites/default/files/research_report_document/INS-20SEP-GREEN%20WAQF%20FRAMEWORK.pdf" rel="noopener noreferrer nofollow" target="_blank">https://climatepromise.undp.org/sites/default/files/research_report_document/INS-20SEP-GREEN%20WAQF%20FRAMEWORK.pdf</a>
 </p>
-<p><a href="#_ednref17" rel="noopener noreferrer nofollow" target="_blank">[xvii]</a> EasternEye
-(2023, March 24). Ramadan charity: WaterAid to provide clean water in Pakistan,
-Bangladesh, and Mali. <a href="https://www.easterneye.biz/ramadan-charity-wateraid-to-provide-clean-water-in-pakistan-bangladesh-and-mali/" rel="noopener noreferrer nofollow" target="_blank">https://www.easterneye.biz/ramadan-charity-wateraid-to-provide-clean-water-in-pakistan-bangladesh-and-mali/</a>
+<p><sup>[xvii]</sup>EasternEye (2023, March 24). Ramadan charity: WaterAid
+to provide clean water in Pakistan, Bangladesh, and Mali. <a href="https://www.easterneye.biz/ramadan-charity-wateraid-to-provide-clean-water-in-pakistan-bangladesh-and-mali/" rel="noopener noreferrer nofollow" target="_blank">https://www.easterneye.biz/ramadan-charity-wateraid-to-provide-clean-water-in-pakistan-bangladesh-and-mali/</a>
 </p>
-<p><a href="#_ednref18" rel="noopener noreferrer nofollow" target="_blank">[xviii]</a> Tzu
-Chi USA (2023). Buddhists in Action: Building Climate Resilience for a
-Sustainable Future. <a href="https://tzuchi.us/blog/buddhists-in-action-building-climate-resilience-for-a-sustainable-future" rel="noopener noreferrer nofollow" target="_blank">https://tzuchi.us/blog/buddhists-in-action-building-climate-resilience-for-a-sustainable-future</a>
+<p><sup>[xviii]</sup>Tzu Chi USA (2023). Buddhists in Action: Building Climate
+Resilience for a Sustainable Future. <a href="https://tzuchi.us/blog/buddhists-in-action-building-climate-resilience-for-a-sustainable-future" rel="noopener noreferrer nofollow" target="_blank">https://tzuchi.us/blog/buddhists-in-action-building-climate-resilience-for-a-sustainable-future</a>
 </p>
-<p><a href="#_ednref19" rel="noopener noreferrer nofollow" target="_blank">[xix]</a> Citizens
-Journal (2025, June 29). Tzu Chi Malaysia celebrates 30 years of green
-impact. <a href="https://cj.my/154596/tzu-chi-malaysia-celebrates-30-years-of-green-impact/" rel="noopener noreferrer nofollow" target="_blank">https://cj.my/154596/tzu-chi-malaysia-celebrates-30-years-of-green-impact/</a>
+<p><sup>[xix]</sup>Citizens Journal (2025, June 29). Tzu Chi Malaysia celebrates
+30 years of green impact. <a href="https://cj.my/154596/tzu-chi-malaysia-celebrates-30-years-of-green-impact/" rel="noopener noreferrer nofollow" target="_blank">https://cj.my/154596/tzu-chi-malaysia-celebrates-30-years-of-green-impact/</a>
 </p>
-<p><a href="#_ednref20" rel="noopener noreferrer nofollow" target="_blank">[xx]</a> Tzu
-Chi Philippines (2024, August 13). Tzu Chi Youth plants 520 trees, nurturing
-environmental hope and future with FEED. <a href="https://tzuchi.org.ph/news/features-and-stories/tzu-chi-youth-plants-520-trees-nurturing-environmental-hope-and-future-with-feed/" rel="noopener noreferrer nofollow" target="_blank">https://tzuchi.org.ph/news/features-and-stories/tzu-chi-youth-plants-520-trees-nurturing-environmental-hope-and-future-with-feed/</a>
+<p><sup>[xx]</sup>Tzu Chi Philippines (2024, August 13). Tzu Chi Youth plants
+520 trees, nurturing environmental hope and future with FEED. <a href="https://tzuchi.org.ph/news/features-and-stories/tzu-chi-youth-plants-520-trees-nurturing-environmental-hope-and-future-with-feed/" rel="noopener noreferrer nofollow" target="_blank">https://tzuchi.org.ph/news/features-and-stories/tzu-chi-youth-plants-520-trees-nurturing-environmental-hope-and-future-with-feed/</a>
 </p>
-<p><a href="#_ednref21" rel="noopener noreferrer nofollow" target="_blank">[xxi]</a> Amma
-(2023, April 16). Vishu marks Amma’s launch of new environmental initiatives
-on a global scale. <a href="https://amma.org/news/amma-celebrates-vishu-with-the-launch-of-new-environmental-initiatives-on-a-global-scale/" rel="noopener noreferrer nofollow" target="_blank">https://amma.org/news/amma-celebrates-vishu-with-the-launch-of-new-environmental-initiatives-on-a-global-scale/</a>
+<p><sup>[xxi]</sup>Amma (2023, April 16). Vishu marks Amma’s launch of new
+environmental initiatives on a global scale. <a href="https://amma.org/news/amma-celebrates-vishu-with-the-launch-of-new-environmental-initiatives-on-a-global-scale/" rel="noopener noreferrer nofollow" target="_blank">https://amma.org/news/amma-celebrates-vishu-with-the-launch-of-new-environmental-initiatives-on-a-global-scale/</a>
 </p>
-<p><a href="#_ednref22" rel="noopener noreferrer nofollow" target="_blank">[xxii]</a> Amma
-(2025, September 2). Amrita University: India’s first Carbon-Neutral Academic
-Conference makes a Clarion Call for a sustainable world. <a href="https://amma.org/news/amrita-university-indias-first-carbon-neutral-academic-conference-makes-a-clarion-call-for-a-sustainable-world/" rel="noopener noreferrer nofollow" target="_blank">https://amma.org/news/amrita-university-indias-first-carbon-neutral-academic-conference-makes-a-clarion-call-for-a-sustainable-world/</a>
+<p><sup>[xxii]</sup>Amma (2025, September 2). Amrita University: India’s
+first Carbon-Neutral Academic Conference makes a Clarion Call for a sustainable
+world. <a href="https://amma.org/news/amrita-university-indias-first-carbon-neutral-academic-conference-makes-a-clarion-call-for-a-sustainable-world/" rel="noopener noreferrer nofollow" target="_blank">https://amma.org/news/amrita-university-indias-first-carbon-neutral-academic-conference-makes-a-clarion-call-for-a-sustainable-world/</a>
 </p>
 <p><a href="#_ednref23" rel="noopener noreferrer nofollow" target="_blank">[xxiii]</a> Church
 of the Nazarene Asia-Pacific (2022). Super Typhoon leaves destruction in
