@@ -54,7 +54,7 @@ degraded.</p>
 </li>
 <li>
 <p>Nearly half the world’s population lives with severe water scarcity for
-at least one month a year.<sup>[ii]</sup> 
+at least one month a year.<sup>[ii]</sup>
 </p>
 </li>
 <li>
@@ -202,7 +202,7 @@ nature is a sign of God, not a mere resource.</p>
 </p>
 </li>
 <li>
-<p>The founder of Sikhism, Guru Nanak, teaches: <em>“Air is the Guru, Water is the Father, and Earth is the Great Mother of all.”</em><strong><em><a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank"> </a></em></strong><sup>[ix]</sup><em> </em>This
+<p>The founder of Sikhism, Guru Nanak, teaches: <em>“Air is the Guru, Water is the Father, and Earth is the Great Mother of all.”</em><sup>[ix]</sup><em> </em>This
 is not metaphor. It is relationship. It is kinship.&nbsp;</p>
 </li>
 </ul>
