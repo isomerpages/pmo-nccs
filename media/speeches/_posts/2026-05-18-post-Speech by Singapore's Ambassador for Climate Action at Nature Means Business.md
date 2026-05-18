@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>SPEECH BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION AT TASKFORCE ON NATURE-RELATED
+FINANCIAL DISCLOSURES EVENT ON NATURE - NATURE MEANS BUSINESS, SGX CENTRE,
+SINGAPORE, 18 MAY 2026</p>
+<hr>
 <p><strong>Strategies for a Nature-Positive Southeast Asia</strong>
 </p>
 <p>Ladies and gentlemen, good afternoon.</p>
@@ -44,7 +48,7 @@ variant: tiptap
 </li>
 <li>
 <p>More than half of global GDP is moderately or highly dependent on nature
-<a href="#_edn1" rel="noopener noreferrer nofollow" target="_blank"><sup>[i]</sup>
+<a href="#_edn1" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[i]</sub></sup>
 </a>.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -76,7 +80,7 @@ the atmosphere.</p>
 <li>
 <p>This is pertinent to Southeast Asia, where protecting and restoring just
 two ecosystems - peatlands and mangroves – can mitigate about half of the
-region’s land use carbon emissions.<a href="#_edn2" rel="noopener noreferrer nofollow" target="_blank"><sup>[ii]</sup></a>
+region’s land use carbon emissions.<a href="#_edn2" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[ii]</sub></sup></a>
 </p>
 </li>
 </ul>
@@ -111,7 +115,7 @@ and heat-stressed urban centres.</p>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Globally, US$200 billion a year is
 channelled towards nature-based solutions, the bulk of which comes from
-public sources.&nbsp; This leaves an annual gap of US$700 billion<a href="#_edn3" rel="noopener noreferrer nofollow" target="_blank"><sup>[iii]</sup></a>.</p>
+public sources.&nbsp; This leaves an annual gap of US$700 billion<a href="#_edn3" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[iii]</sub></sup></a>.</p>
 </li>
 </ul>
 <p>There are three reasons why nature is under-invested.</p>
@@ -197,14 +201,14 @@ zero.</p>
 <li>
 <p>MSCI estimates that the market for nature-based carbon credits could be
 worth at least US$5 billion in 2030, and up to US$200 billion by 2050.
-<a href="#_edn4" rel="noopener noreferrer nofollow" target="_blank"><sup>[iv]</sup>
+<a href="#_edn4" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[iv]</sub></sup>
 </a>
 </p>
 </li>
 <li>
 <p>And Southeast Asia holds 30% of the world’s potential in nature-based
 solutions —notably in Indonesia, Cambodia, Malaysia, and the Philippines.
-<a href="#_edn5" rel="noopener noreferrer nofollow" target="_blank"><sup>[v]</sup>
+<a href="#_edn5" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[v]</sub></sup>
 </a>
 </p>
 </li>
@@ -261,7 +265,7 @@ integrity in nature-based carbon projects.&nbsp;</p>
 <li>
 <p>The National Research Foundation is co-funding Carbon Integrity SG, a
 S$15 million programme to improve the carbon stock estimations of South-east
-Asia’s mangroves, forests, and peatlands.<a href="#_edn6" rel="noopener noreferrer nofollow" target="_blank"><sup>[vi]</sup></a>
+Asia’s mangroves, forests, and peatlands.<a href="#_edn6" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[vi]</sub></sup></a>
 </p>
 </li>
 <li>
@@ -273,7 +277,7 @@ environments.</p>
 <li>
 <p>The Economic Development Board is working with the Worldwide Fund for
 Nature to enhance MRV capabilities for blue carbon projects in Asia.<sup> </sup>
-<a href="#_edn7" rel="noopener noreferrer nofollow" target="_blank"><sup>[vii]</sup>
+<a href="#_edn7" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[vii]</sub></sup>
 </a>
 </p>
 </li>
@@ -313,8 +317,8 @@ into bankable cashflow.</p>
 </li>
 <li>
 <p>Promising initiatives are emerging in the voluntary market for nature-based
-removal credits, such as the Symbiosis Coalition<a href="#_edn8" rel="noopener noreferrer nofollow" target="_blank"><sup>[viii]</sup></a>, which provides advance commitments
-for high-integrity restoration projects.</p>
+removal credits, such as the Symbiosis Coalition<a href="#_edn8" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[viii]</sub></sup></a>, which provides advance
+commitments for high-integrity restoration projects.</p>
 </li>
 </ul>
 <p><strong><em>Singapore has been sending strong demand signals in the nature-based credits market.</em></strong>
@@ -389,7 +393,7 @@ from the Singapore government.</p>
 <li>
 <p>The Asian Development Bank's Nature Solutions Finance Hub aims to mobilise
 at least US$2 billion in private finance for nature projects across Asia
-and the Pacific.<a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank"><sup>[ix]</sup></a>
+and the Pacific.<a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[ix]</sub></sup></a>
 </p>
 </li>
 </ul>
