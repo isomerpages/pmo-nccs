@@ -44,7 +44,8 @@ variant: tiptap
 </li>
 <li>
 <p>More than half of global GDP is moderately or highly dependent on nature
-<a href="#_edn1" rel="noopener noreferrer nofollow" target="_blank">[i]</a>.</p>
+<a href="#_edn1" rel="noopener noreferrer nofollow" target="_blank"><sup>[i]</sup>
+</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Agriculture, food and beverage, tourism, construction, pharmaceuticals,
@@ -75,7 +76,7 @@ the atmosphere.</p>
 <li>
 <p>This is pertinent to Southeast Asia, where protecting and restoring just
 two ecosystems - peatlands and mangroves – can mitigate about half of the
-region’s land use carbon emissions. <a href="#_edn2" rel="noopener noreferrer nofollow" target="_blank">[ii]</a>
+region’s land use carbon emissions.<a href="#_edn2" rel="noopener noreferrer nofollow" target="_blank"><sup>[ii]</sup></a>
 </p>
 </li>
 </ul>
@@ -110,7 +111,7 @@ and heat-stressed urban centres.</p>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Globally, US$200 billion a year is
 channelled towards nature-based solutions, the bulk of which comes from
-public sources.&nbsp; This leaves an annual gap of US$700 billion<a href="#_edn3" rel="noopener noreferrer nofollow" target="_blank">[iii]</a>.</p>
+public sources.&nbsp; This leaves an annual gap of US$700 billion<a href="#_edn3" rel="noopener noreferrer nofollow" target="_blank"><sup>[iii]</sup></a>.</p>
 </li>
 </ul>
 <p>There are three reasons why nature is under-invested.</p>
@@ -196,13 +197,15 @@ zero.</p>
 <li>
 <p>MSCI estimates that the market for nature-based carbon credits could be
 worth at least US$5 billion in 2030, and up to US$200 billion by 2050.
-<a href="#_edn4" rel="noopener noreferrer nofollow" target="_blank">[iv]</a>
+<a href="#_edn4" rel="noopener noreferrer nofollow" target="_blank"><sup>[iv]</sup>
+</a>
 </p>
 </li>
 <li>
 <p>And Southeast Asia holds 30% of the world’s potential in nature-based
 solutions —notably in Indonesia, Cambodia, Malaysia, and the Philippines.
-<a href="#_edn5" rel="noopener noreferrer nofollow" target="_blank">[v]</a>
+<a href="#_edn5" rel="noopener noreferrer nofollow" target="_blank"><sup>[v]</sup>
+</a>
 </p>
 </li>
 </ul>
@@ -258,7 +261,7 @@ integrity in nature-based carbon projects.&nbsp;</p>
 <li>
 <p>The National Research Foundation is co-funding Carbon Integrity SG, a
 S$15 million programme to improve the carbon stock estimations of South-east
-Asia’s mangroves, forests, and peatlands.<a href="#_edn6" rel="noopener noreferrer nofollow" target="_blank">[vi]</a>
+Asia’s mangroves, forests, and peatlands.<a href="#_edn6" rel="noopener noreferrer nofollow" target="_blank"><sup>[vi]</sup></a>
 </p>
 </li>
 <li>
@@ -269,8 +272,9 @@ environments.</p>
 </li>
 <li>
 <p>The Economic Development Board is working with the Worldwide Fund for
-Nature to enhance MRV capabilities for blue carbon projects in Asia.
-<a href="#_edn7" rel="noopener noreferrer nofollow" target="_blank">[vii]</a>
+Nature to enhance MRV capabilities for blue carbon projects in Asia.<sup> </sup>
+<a href="#_edn7" rel="noopener noreferrer nofollow" target="_blank"><sup>[vii]</sup>
+</a>
 </p>
 </li>
 </ul>
@@ -309,8 +313,8 @@ into bankable cashflow.</p>
 </li>
 <li>
 <p>Promising initiatives are emerging in the voluntary market for nature-based
-removal credits, such as the Symbiosis Coalition<a href="#_edn8" rel="noopener noreferrer nofollow" target="_blank">[viii]</a>, which provides advance commitments for high-integrity
-restoration projects.</p>
+removal credits, such as the Symbiosis Coalition<a href="#_edn8" rel="noopener noreferrer nofollow" target="_blank"><sup>[viii]</sup></a>, which provides advance commitments
+for high-integrity restoration projects.</p>
 </li>
 </ul>
 <p><strong><em>Singapore has been sending strong demand signals in the nature-based credits market.</em></strong>
@@ -385,7 +389,7 @@ from the Singapore government.</p>
 <li>
 <p>The Asian Development Bank's Nature Solutions Finance Hub aims to mobilise
 at least US$2 billion in private finance for nature projects across Asia
-and the Pacific.<a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank">[ix]</a>
+and the Pacific.<a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank"><sup>[ix]</sup></a>
 </p>
 </li>
 </ul>
