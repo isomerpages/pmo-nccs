@@ -15,13 +15,13 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forests are shrinking.</p>
+<p>Forests are shrinking.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mangroves are disappearing.</p>
+<p>Mangroves are disappearing.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Biodiversity is declining at alarming speed.</p>
+<p>Biodiversity is declining at alarming speed.</p>
 </li>
 </ul>
 <p><em>The depletion of the world’s natural capital demands our urgent attention and action. Nature is foundational to humanity.</em>
@@ -30,42 +30,52 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>These services are not peripheral. They are essential.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Forests regulate rainfall and stabilise water supplies.</p>
+</li>
+<li>
+<p>Coral reefs support fisheries and coastal livelihoods.</p>
+</li>
+<li>
+<p>Healthy soils sustain agriculture.</p>
 </li>
 </ul>
-<p>o&nbsp;&nbsp; Forests regulate rainfall and stabilise water supplies.</p>
-<p>o&nbsp;&nbsp; Coral reefs support fisheries and coastal livelihoods.</p>
-<p>o&nbsp;&nbsp; Healthy soils sustain agriculture.</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>More than half of global GDP is moderately or highly dependent on nature
 <a href="#_edn1" rel="noopener noreferrer nofollow" target="_blank">[i]</a>.</p>
-</li>
-</ul>
-<p>o&nbsp;&nbsp; Agriculture, food and beverage, tourism, construction, pharmaceuticals,
+<ul data-tight="true" class="tight">
+<li>
+<p>Agriculture, food and beverage, tourism, construction, pharmaceuticals,
 and data centres need reliable water systems, fertile soils, and predictable
 climatic conditions to function effectively.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p><strong><em>Nature plays a critical role in climate change mitigation.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Historically, the world’s forests,
-oceans, mangroves, peatlands, and other ecosystems have absorbed more than
-half of human-caused carbon emissions. &nbsp;</p>
+<p>Historically, the world’s forests, oceans, mangroves, peatlands, and other
+ecosystems have absorbed more than half of human-caused carbon emissions.
+&nbsp;</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But we are steadily degrading these
-natural systems.</p>
-</li>
-</ul>
-<p>o&nbsp;&nbsp; When forests are cut down or peatlands drained, they not
-only stop absorbing carbon dioxide; they release vast quantities of stored
-carbon back into the atmosphere.</p>
+<p>But we are steadily degrading these natural systems.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is pertinent to Southeast Asia,
-where protecting and restoring just two ecosystems - peatlands and mangroves
-– can mitigate about half of the region’s land use carbon emissions.
-<a href="#_edn2" rel="noopener noreferrer nofollow" target="_blank">[ii]</a>
+<p>When forests are cut down or peatlands drained, they not only stop absorbing
+carbon dioxide; they release vast quantities of stored carbon back into
+the atmosphere.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>This is pertinent to Southeast Asia, where protecting and restoring just
+two ecosystems - peatlands and mangroves – can mitigate about half of the
+region’s land use carbon emissions. <a href="#_edn2" rel="noopener noreferrer nofollow" target="_blank">[ii]</a>
 </p>
 </li>
 </ul>
@@ -73,20 +83,25 @@ where protecting and restoring just two ecosystems - peatlands and mangroves
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As climate impacts intensify, nature-based
-solutions can help societies adapt to a warmer and more volatile world.</p>
-</li>
-</ul>
-<p>o&nbsp;&nbsp; Forests regulate river flows and reduce the risks of flooding
-and soil erosion.</p>
-<p>o&nbsp;&nbsp; Mangroves absorb storm surges and protect vulnerable coastlines.</p>
-<p>o&nbsp;&nbsp; Urban green spaces lower temperatures and reduce urban heat
-effects. &nbsp;</p>
+<p>As climate impacts intensify, nature-based solutions can help societies
+adapt to a warmer and more volatile world.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These interventions are important
-in Asia, where many of the world’s most climate-vulnerable populations
-live — in coastal cities, delta regions, and heat-stressed urban centres.</p>
+<p>Forests regulate river flows and reduce the risks of flooding and soil
+erosion.</p>
+</li>
+<li>
+<p>Mangroves absorb storm surges and protect vulnerable coastlines.</p>
+</li>
+<li>
+<p>Urban green spaces lower temperatures and reduce urban heat effects. &nbsp;</p>
+</li>
+</ul>
+</li>
+<li>
+<p>These interventions are important in Asia, where many of the world’s most
+climate-vulnerable populations live — in coastal cities, delta regions,
+and heat-stressed urban centres.</p>
 </li>
 </ul>
 <p>NATURE IS UNDER-INVESTED</p>
@@ -103,96 +118,114 @@ public sources.&nbsp; This leaves an annual gap of US$700 billion<a href="#_edn3
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the foundational market failure:
-markets do not price what nature provides.</p>
+<p>This is the foundational market failure: markets do not price what nature
+provides.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The carbon sequestered by a mangrove
-forest, the flood protection it provides to a coastal village, the nursery
-habitat it offers to fisheries worth billions — none of these appear on
-any balance sheet.</p>
+<p>The carbon sequestered by a mangrove forest, the flood protection it provides
+to a coastal village, the nursery habitat it offers to fisheries worth
+billions — none of these appear on any balance sheet.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They are what economists call externalities:
-real value, delivered to real people, but captured by nobody.</p>
+<p>They are what economists call externalities: real value, delivered to
+real people, but captured by nobody.</p>
 </li>
 </ul>
 <p><strong><em>Second, nature has a measurement challenge.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The outcomes of nature projects are
-complex, variable, and difficult to quantify.</p>
-</li>
-</ul>
-<p>o&nbsp;&nbsp; How much carbon does a particular mangrove stand sequester?</p>
-<p>o&nbsp;&nbsp; What happens to emissions if the restored forest is disturbed
-ten years from now?</p>
+<p>The outcomes of nature projects are complex, variable, and difficult to
+quantify.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High-profile failures in the voluntary
-carbon market — where several major forest conservation projects were found
-to have vastly over-credited their carbon outcomes — have damaged confidence
-in nature-based carbon credits.</p>
+<p>How much carbon does a particular mangrove stand sequester?</p>
+</li>
+<li>
+<p>What happens to emissions if the restored forest is disturbed ten years
+from now?</p>
+</li>
+</ul>
+</li>
+<li>
+<p>High-profile failures in the voluntary carbon market — where several major
+forest conservation projects were found to have vastly over-credited their
+carbon outcomes — have damaged confidence in nature-based carbon credits.</p>
 </li>
 </ul>
 <p><strong><em>Third, most nature projects are not bankable.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Most nature projects, as currently
-structured, struggle to attract private capital.</p>
-</li>
-</ul>
-<p>o&nbsp;&nbsp; Their governance is complex, involving multiple stakeholders.</p>
-<p>o&nbsp;&nbsp; Their revenue models are thin, their returns are long-duration.</p>
-<p>o&nbsp;&nbsp; And their transaction costs — for due diligence, structuring,
-legal work, and impact verification — are high relative to project size.</p>
+<p>Most nature projects, as currently structured, struggle to attract private
+capital.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The result is a classic market failure.</p>
+<p>Their governance is complex, involving multiple stakeholders.</p>
+</li>
+<li>
+<p>Their revenue models are thin, their returns are long-duration.</p>
+</li>
+<li>
+<p>And their transaction costs — for due diligence, structuring, legal work,
+and impact verification — are high relative to project size.</p>
 </li>
 </ul>
-<p>o&nbsp;&nbsp; There is capital looking for nature projects. There are
-nature projects that need capital. But the projects are not structured
-in a way that connects the two.</p>
+</li>
+<li>
+<p>The result is a classic market failure.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>There is capital looking for nature projects. There are nature projects
+that need capital. But the projects are not structured in a way that connects
+the two.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p>STRATEGIES TO SCALE NATURE-BASED SOLUTIONS IN ASIA</p>
 <p><strong><em>Carbon markets offer a way to narrow the financing gap faced by nature projects —by monetising conservation and restoration into recurring revenue.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Because they are scalable and cost-effective,
-nature-based carbon credits are an attractive option for sovereign buyers
-to meet their national climate targets and for companies to offset residual
-emissions on the path to net zero.</p>
+<p>Because they are scalable and cost-effective, nature-based carbon credits
+are an attractive option for sovereign buyers to meet their national climate
+targets and for companies to offset residual emissions on the path to net
+zero.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MSCI estimates that the market for
-nature-based carbon credits could be worth at least US$5 billion in 2030,
-and up to US$200 billion by 2050.<a href="#_edn4" rel="noopener noreferrer nofollow" target="_blank">[iv]</a>
+<p>MSCI estimates that the market for nature-based carbon credits could be
+worth at least US$5 billion in 2030, and up to US$200 billion by 2050.
+<a href="#_edn4" rel="noopener noreferrer nofollow" target="_blank">[iv]</a>
 </p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And Southeast Asia holds 30% of the
-world’s potential in nature-based solutions —notably in Indonesia, Cambodia,
-Malaysia, and the Philippines.<a href="#_edn5" rel="noopener noreferrer nofollow" target="_blank">[v]</a>
+<p>And Southeast Asia holds 30% of the world’s potential in nature-based
+solutions —notably in Indonesia, Cambodia, Malaysia, and the Philippines.
+<a href="#_edn5" rel="noopener noreferrer nofollow" target="_blank">[v]</a>
 </p>
 </li>
 </ul>
 <p><strong><em>Singapore has been working on a framework for a vibrant nature-based carbon credit market in Asia</em></strong>.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have been in active consultations
-with key partners in the ecosystem.&nbsp;</p>
+<p>We have been in active consultations with key partners in the ecosystem.&nbsp;</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are three broad strategies
-that are emerging:</p>
+<p>There are three broad strategies that are emerging:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>get environmental integrity right</p>
+</li>
+<li>
+<p>unlock demand for nature-based carbon credits</p>
+</li>
+<li>
+<p>catalyse the supply of nature projects</p>
 </li>
 </ul>
-<p>o&nbsp;&nbsp; get environmental integrity right</p>
-<p>o&nbsp;&nbsp; unlock demand for nature-based carbon credits</p>
-<p>o&nbsp;&nbsp; catalyse the supply of nature projects</p>
+</li>
+</ul>
 <p>GET ENVIRONMENTAL INTEGRITY RIGHT</p>
 <p>Let me start with environmental integrity – to build a foundation of trust
 by ensuring that nature-based projects deliver on their promised climate
@@ -201,19 +234,17 @@ benefits.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Core Carbon Principles established
-by the Integrity Council for Voluntary Carbon Markets sets rigorous quality
-thresholds for high-integrity carbon credits, including for nature.</p>
+<p>The Core Carbon Principles established by the Integrity Council for Voluntary
+Carbon Markets sets rigorous quality thresholds for high-integrity carbon
+credits, including for nature.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Verra’s latest reforestation and
-conservation methodologies have received approval under the Core Carbon
-Principles label.</p>
+<p>Verra’s latest reforestation and conservation methodologies have received
+approval under the Core Carbon Principles label.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Standard setters and crediting programmes
-must continue updating methodologies to keep pace with advances in remote
-sensing and carbon accounting<strong><em>.</em></strong>
+<p>Standard setters and crediting programmes must continue updating methodologies
+to keep pace with advances in remote sensing and carbon accounting<strong><em>.</em></strong>
 </p>
 </li>
 </ul>
@@ -221,160 +252,202 @@ sensing and carbon accounting<strong><em>.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore is investing in technology
-solutions to enhance environmental integrity in nature-based carbon projects.&nbsp;</p>
+<p>Singapore is investing in technology solutions to enhance environmental
+integrity in nature-based carbon projects.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The National Research Foundation is co-funding Carbon Integrity SG, a
+S$15 million programme to improve the carbon stock estimations of South-east
+Asia’s mangroves, forests, and peatlands.<a href="#_edn6" rel="noopener noreferrer nofollow" target="_blank">[vi]</a>
+</p>
+</li>
+<li>
+<p>The National Space Agency has issued a grant call for the use of satellite,
+geospatial, and digital technologies to improve how biomass is measured,
+monitored, and verified across ecosystems – including forests and coastal
+environments.</p>
+</li>
+<li>
+<p>The Economic Development Board is working with the Worldwide Fund for
+Nature to enhance MRV capabilities for blue carbon projects in Asia.
+<a href="#_edn7" rel="noopener noreferrer nofollow" target="_blank">[vii]</a>
+</p>
 </li>
 </ul>
-<p>o&nbsp;&nbsp; The National Research Foundation is co-funding Carbon Integrity
-SG, a S$15 million programme to improve the carbon stock estimations of
-South-east Asia’s mangroves, forests, and peatlands.<a href="#_edn6" rel="noopener noreferrer nofollow" target="_blank">[vi]</a>
-</p>
-<p>o&nbsp;&nbsp; The National Space Agency has issued a grant call for the
-use of satellite, geospatial, and digital technologies to improve how biomass
-is measured, monitored, and verified across ecosystems – including forests
-and coastal environments.</p>
-<p>o&nbsp;&nbsp; The Economic Development Board is working with the Worldwide
-Fund for Nature to enhance MRV capabilities for blue carbon projects in
-Asia.<a href="#_edn7" rel="noopener noreferrer nofollow" target="_blank">[vii]</a>
-</p>
+</li>
+</ul>
 <p>UNLOCK DEMAND FOR NATURE-BASED CREDITS</p>
 <p>Next, unlocking demand for nature-based credits.</p>
 <p><strong><em>First, engage constructively with high-integrity nature carbon markets</em></strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I understand companies’ reticence
-after the reputational damage of recent years. But the answer to a flawed
-market is not exit — it is reform and higher standards.</p>
+<p>I understand companies’ reticence after the reputational damage of recent
+years. But the answer to a flawed market is not exit — it is reform and
+higher standards.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The international&nbsp;Coalition
-to Grow Carbon Markets, which Singapore co‑chairs, has put out a set of
-shared principles to guide companies on how to use high‑integrity carbon
-credits—including nature credits.</p>
+<p>The international&nbsp;Coalition to Grow Carbon Markets, which Singapore
+co‑chairs, has put out a set of shared principles to guide companies on
+how to use high‑integrity carbon credits—including nature credits.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I call on companies to support these
-efforts. Set your standards high and buy nature credits that meet them.</p>
+<p>I call on companies to support these efforts. Set your standards high
+and buy nature credits that meet them.</p>
 </li>
 </ul>
 <p><strong><em>Second, signal demand through buyer’s coalitions and offtake agreements.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Buyer coalitions can aggregate demand,
-give project developers forward revenue certainty, and reduce the reputational
-risk for individual buyers.</p>
+<p>Buyer coalitions can aggregate demand, give project developers forward
+revenue certainty, and reduce the reputational risk for individual buyers.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Offtake agreements and advance purchase
-agreements are especially useful for early-stage projects, because they
-turn uncertain future credit sales into bankable cashflow.</p>
+<p>Offtake agreements and advance purchase agreements are especially useful
+for early-stage projects, because they turn uncertain future credit sales
+into bankable cashflow.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Promising initiatives are emerging
-in the voluntary market for nature-based removal credits, such as the Symbiosis
-Coalition<a href="#_edn8" rel="noopener noreferrer nofollow" target="_blank">[viii]</a>,
-which provides advance commitments for high-integrity restoration projects.</p>
+<p>Promising initiatives are emerging in the voluntary market for nature-based
+removal credits, such as the Symbiosis Coalition<a href="#_edn8" rel="noopener noreferrer nofollow" target="_blank">[viii]</a>, which provides advance commitments for high-integrity
+restoration projects.</p>
 </li>
 </ul>
 <p><strong><em>Singapore has been sending strong demand signals in the nature-based credits market.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore has contracted nature-based
-credits worth S$76 million across four projects in Ghana, Peru, and Paraguay.
-These projects aim to:</p>
-</li>
-</ul>
-<p>o&nbsp;&nbsp; reduce carbon emissions from deforestation</p>
-<p>o&nbsp;&nbsp; increase soil carbon storage through improved agricultural
-management, and</p>
-<p>o&nbsp;&nbsp; remove carbon through the reforestation of degraded lands.</p>
+<p>Singapore has contracted nature-based credits worth S$76 million across
+four projects in Ghana, Peru, and Paraguay. These projects aim to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore is working with other like-minded
-governments, to grow demand for high quality forest conservation credits
-through the Forest and Climate Leaders’ Partnership Jurisdictional REDD+
-Coalition.</p>
+<p>reduce carbon emissions from deforestation</p>
+</li>
+<li>
+<p>increase soil carbon storage through improved agricultural management,
+and</p>
+</li>
+<li>
+<p>remove carbon through the reforestation of degraded lands.</p>
 </li>
 </ul>
-<p>o&nbsp;&nbsp; The Coalition aims to mobilise US$3-6 billion a year by
-2030 to protect tropical forests through carbon markets and results-based
-payments.</p>
+</li>
+<li>
+<p>Singapore is working with other like-minded governments, to grow demand
+for high quality forest conservation credits through the Forest and Climate
+Leaders’ Partnership Jurisdictional REDD+ Coalition.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Coalition aims to mobilise US$3-6 billion a year by 2030 to protect
+tropical forests through carbon markets and results-based payments.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p>CATALYSE THE SUPPLY OF NATURE PROJECTS</p>
 <p>Even with strong demand signals, many nature-based projects struggle to
 get off the ground. We need to also catalyse the supply-side of the equation.</p>
 <p><strong><em>First, invest in project preparation and pipeline development</em></strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The most critical bottleneck in nature
-financing is not the absence of willing investors. &nbsp;It is the absence
-of investment-ready projects.</p>
+<p>The most critical bottleneck in nature financing is not the absence of
+willing investors. &nbsp;It is the absence of investment-ready projects.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proposals from potential nature project
-developers are often rejected because of gaps in climate-risk data, technical
-capacity, and bankable project design.</p>
+<p>Proposals from potential nature project developers are often rejected
+because of gaps in climate-risk data, technical capacity, and bankable
+project design.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is where multilateral development
-banks, philanthropies and foundations come in: to put resources into feasibility
-analysis, project structuring, and impact frameworks.</p>
+<p>This is where multilateral development banks, philanthropies and foundations
+come in: to put resources into feasibility analysis, project structuring,
+and impact frameworks.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is unglamorous work. But it is
-the foundation on which supply rests.</p>
+<p>It is unglamorous work. But it is the foundation on which supply rests.</p>
 </li>
 </ul>
 <p><strong><em>Second, scale blended finance for nature-based solutions</em></strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Governments and other providers of
-concessional capital can use grants, guarantees, and first-loss instruments
-to de-risk nature investments and crowd in private capital.</p>
+<p>Governments and other providers of concessional capital can use grants,
+guarantees, and first-loss instruments to de-risk nature investments and
+crowd in private capital.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We can take a leaf from blended finance
-platforms operating in Asia.</p>
-</li>
-</ul>
-<p>o&nbsp;&nbsp; The Financing Asia's Transition Partnership, or FAST-P,<strong><em> </em></strong>aims
-to mobilise up to US$5 billion on the back of a US$500 million grant commitment
-from the Singapore government.</p>
-<p>o&nbsp;&nbsp; The Asian Development Bank's Nature Solutions Finance Hub
-aims to mobilise at least US$2 billion in private finance for nature projects
-across Asia and the Pacific.<a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank">[ix]</a>
-</p>
+<p>We can take a leaf from blended finance platforms operating in Asia.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the nature space, private capital
-need not come from financial institutions alone. &nbsp;They can also come
-from companies sourcing commodities from Asian ecosystems.</p>
+<p>The Financing Asia's Transition Partnership, or FAST-P,<strong><em> </em></strong>aims
+to mobilise up to US$5 billion on the back of a US$500 million grant commitment
+from the Singapore government.</p>
+</li>
+<li>
+<p>The Asian Development Bank's Nature Solutions Finance Hub aims to mobilise
+at least US$2 billion in private finance for nature projects across Asia
+and the Pacific.<a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank">[ix]</a>
+</p>
 </li>
 </ul>
-<p>o&nbsp;&nbsp; Corporate commitments to source sustainable palm oil, timber,
-soy, and seafood are valuable.</p>
-<p>o&nbsp;&nbsp; But they are more effective if complemented by investment
-in the smallholder farmers, fishing communities, and local governments
-that manage these resources.</p>
+</li>
+<li>
+<p>In the nature space, private capital need not come from financial institutions
+alone. &nbsp;They can also come from companies sourcing commodities from
+Asian ecosystems.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Corporate commitments to source sustainable palm oil, timber, soy, and
+seafood are valuable.</p>
+</li>
+<li>
+<p>But they are more effective if complemented by investment in the smallholder
+farmers, fishing communities, and local governments that manage these resources.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p>CONCLUSION</p>
 <p>Nature-based solutions sit at the intersection of three critical priorities
 for Southeast Asia:</p>
-<p>o&nbsp;&nbsp; food and water security</p>
-<p>o&nbsp;&nbsp; decarbonisation</p>
-<p>o&nbsp;&nbsp; resilience to climate change</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>food and water security</p>
+</li>
+<li>
+<p>decarbonisation</p>
+</li>
+<li>
+<p>resilience to climate change</p>
+</li>
+</ul>
 <p>To build a vibrant nature-based carbon credit market, we need three things:</p>
-<p>o&nbsp;&nbsp; We need integrity, so that nature credits are trusted.</p>
-<p>o&nbsp;&nbsp; We need demand, so that nature has a revenue stream.</p>
-<p>o&nbsp;&nbsp; We need supply, so that developers can bring investment-ready
-projects to market.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We need integrity, so that nature credits are trusted.</p>
+</li>
+<li>
+<p>We need demand, so that nature has a revenue stream.</p>
+</li>
+<li>
+<p>We need supply, so that developers can bring investment-ready projects
+to market.</p>
+</li>
+</ul>
 <p>The ecosystems we are debating are not abstractions.</p>
-<p>o&nbsp;&nbsp; They are the forests that families in the highlands of Borneo
-have depended on for generations.</p>
-<p>o&nbsp;&nbsp; They are the mangroves that shield fishing villages in the
-Philippines from the sea.</p>
-<p>o&nbsp;&nbsp; They are the coral reefs that support food security for
-millions across Southeast Asia.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>They are the forests that families in the highlands of Borneo have depended
+on for generations.</p>
+</li>
+<li>
+<p>They are the mangroves that shield fishing villages in the Philippines
+from the sea.</p>
+</li>
+<li>
+<p>They are the coral reefs that support food security for millions across
+Southeast Asia.</p>
+</li>
+</ul>
 <p>If we lose them, we lose lives, we lose livelihoods.</p>
 <p>So let us protect what remains, restore what has been degraded, and finance
 what works.</p>
@@ -407,8 +480,8 @@ carbon projects in Southeast Asia <a href="https://news.nus.edu.sg/nus-to-lead-s
 </p>
 <p><a href="#_ednref7" rel="noopener noreferrer nofollow" target="_blank">[vii]</a> 
 <a href="https://www.edb.gov.sg/en/about-edb/media-releases-publications/singapore-launches-two-new-nature-based-carbon-initiatives.html" rel="noopener noreferrer nofollow" target="_blank">Singapore launches two new nature-based carbon initiatives | Singapore
-EDB</a>Contract for up to 20 million tonnes of high‑quality nature‑based
-carbon removal credits by 2030.</p>
+EDB</a>
+</p>
 <p><a href="#_ednref9" rel="noopener noreferrer nofollow" target="_blank">[ix]</a> 
 <a href="https://www.adb.org/news/adb-and-partners-launch-nature-financing-initiative-asia-and-pacific" rel="noopener noreferrer nofollow" target="_blank">ADB and Partners Launch Nature Financing Initiative for Asia and the Pacific
 | Asian Development Bank</a>
