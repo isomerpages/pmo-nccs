@@ -42,7 +42,7 @@ in sustainability reporting and capability building<a href="#_ftn1" rel="noopene
 100 is anchored on the newly announced TR 149:2026, a structured, sector-agnostic
 framework that helps businesses assess the maturity of their sustainability
 efforts and identify areas for improvement. TR 149:2026 was launched by
-the Enterprise Singapore through the Singapore Standards Council, alongside
+Enterprise Singapore through the Singapore Standards Council, alongside
 Green 100, at the inaugural Singapore Climate Transition Forum during Ecosperity
 Week.</p>
 <p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under
