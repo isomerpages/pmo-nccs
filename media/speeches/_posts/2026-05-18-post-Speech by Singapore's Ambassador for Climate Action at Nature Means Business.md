@@ -47,9 +47,8 @@ SINGAPORE, 18 MAY 2026</p>
 </ul>
 </li>
 <li>
-<p>More than half of global GDP is moderately or highly dependent on nature
-<a href="#_edn1" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[i]</sub></sup>
-</a>.</p>
+<p>More than half of global GDP is moderately or highly dependent on nature. <sup>[i]</sup>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Agriculture, food and beverage, tourism, construction, pharmaceuticals,
@@ -80,7 +79,7 @@ the atmosphere.</p>
 <li>
 <p>This is pertinent to Southeast Asia, where protecting and restoring just
 two ecosystems - peatlands and mangroves – can mitigate about half of the
-region’s land use carbon emissions.<a href="#_edn2" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[ii]</sub></sup></a>
+region’s land use carbon emissions. <sup>[ii]</sup>
 </p>
 </li>
 </ul>
@@ -115,7 +114,8 @@ and heat-stressed urban centres.</p>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Globally, US$200 billion a year is
 channelled towards nature-based solutions, the bulk of which comes from
-public sources.&nbsp; This leaves an annual gap of US$700 billion<a href="#_edn3" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[iii]</sub></sup></a>.</p>
+public sources.&nbsp; This leaves an annual gap of US$700 billion.<sup>[iii]</sup>
+</p>
 </li>
 </ul>
 <p>There are three reasons why nature is under-invested.</p>
@@ -200,16 +200,12 @@ zero.</p>
 </li>
 <li>
 <p>MSCI estimates that the market for nature-based carbon credits could be
-worth at least US$5 billion in 2030, and up to US$200 billion by 2050.
-<a href="#_edn4" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[iv]</sub></sup>
-</a>
+worth at least US$5 billion in 2030, and up to US$200 billion by 2050. <sup>[iv]</sup>
 </p>
 </li>
 <li>
 <p>And Southeast Asia holds 30% of the world’s potential in nature-based
-solutions —notably in Indonesia, Cambodia, Malaysia, and the Philippines.
-<a href="#_edn5" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[v]</sub></sup>
-</a>
+solutions —notably in Indonesia, Cambodia, Malaysia, and the Philippines. <sup>[v]</sup>
 </p>
 </li>
 </ul>
@@ -265,7 +261,7 @@ integrity in nature-based carbon projects.&nbsp;</p>
 <li>
 <p>The National Research Foundation is co-funding Carbon Integrity SG, a
 S$15 million programme to improve the carbon stock estimations of South-east
-Asia’s mangroves, forests, and peatlands.<a href="#_edn6" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[vi]</sub></sup></a>
+Asia’s mangroves, forests, and peatlands. <sup>[vi]</sup>
 </p>
 </li>
 <li>
@@ -276,9 +272,7 @@ environments.</p>
 </li>
 <li>
 <p>The Economic Development Board is working with the Worldwide Fund for
-Nature to enhance MRV capabilities for blue carbon projects in Asia.<sup> </sup>
-<a href="#_edn7" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[vii]</sub></sup>
-</a>
+Nature to enhance MRV capabilities for blue carbon projects in Asia. <sup>[vii]</sup>
 </p>
 </li>
 </ul>
@@ -317,8 +311,8 @@ into bankable cashflow.</p>
 </li>
 <li>
 <p>Promising initiatives are emerging in the voluntary market for nature-based
-removal credits, such as the Symbiosis Coalition<a href="#_edn8" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[viii]</sub></sup></a>, which provides advance
-commitments for high-integrity restoration projects.</p>
+removal credits, such as the Symbiosis Coalition <sup>[viii]</sup>, which
+provides advance commitments for high-integrity restoration projects.</p>
 </li>
 </ul>
 <p><strong><em>Singapore has been sending strong demand signals in the nature-based credits market.</em></strong>
@@ -393,7 +387,7 @@ from the Singapore government.</p>
 <li>
 <p>The Asian Development Bank's Nature Solutions Finance Hub aims to mobilise
 at least US$2 billion in private finance for nature projects across Asia
-and the Pacific.<a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank"><sup><sub>[ix]</sub></sup></a>
+and the Pacific.<a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank"><sup><sub> </sub></sup></a><sup>[ix]</sup>
 </p>
 </li>
 </ul>
@@ -462,35 +456,21 @@ what works.</p>
 <p>Let us build a nature-positive Southeast Asia.</p>
 <p>&nbsp;</p>
 <hr>
-<p><a href="#_ednref1" rel="noopener noreferrer nofollow" target="_blank">[i]</a> 
-<a href="https://www.pwc.co.uk/services/esg/now-for-nature.html" rel="noopener noreferrer nofollow" target="_blank">It’s Now for Nature: Turning nature ambitions into action through the
-Nature Strategy Handbook - PwC UK</a>
+<p><sup>[i]</sup>  <a href="https://www.pwc.co.uk/services/esg/now-for-nature.html" rel="noopener noreferrer nofollow" target="_blank">It’s Now for Nature: Turning nature ambitions into action through the Nature Strategy Handbook - PwC UK</a>
 </p>
-<p><a href="#_ednref2" rel="noopener noreferrer nofollow" target="_blank">[ii]</a> 
-<a href="https://www.nature.com/articles/s41467-025-55892-0" rel="noopener noreferrer nofollow" target="_blank">Half of land use carbon emissions in Southeast Asia can be mitigated through
-peat swamp forest and mangrove conservation and restoration | Nature Communications</a>
+<p><sup>[ii] </sup><a href="https://www.nature.com/articles/s41467-025-55892-0" rel="noopener noreferrer nofollow" target="_blank">Half of land use carbon emissions in Southeast Asia can be mitigated through peat swamp forest and mangrove conservation and restoration | Nature Communications</a>
 </p>
-<p><a href="#_ednref3" rel="noopener noreferrer nofollow" target="_blank">[iii]</a> The
-Kunming-Montreal Global Biodiversity Framework (GBF) highlights a $700
-billion yearly gap through 2030 to meet conservation targets.&nbsp; (UNEP
-2025)</p>
-<p><a href="#_ednref4" rel="noopener noreferrer nofollow" target="_blank">[iv]</a> 
-<a href="https://www.msci.com/research-and-insights/blog-post/the-carbon-credit-market-could-help-solve-the-biodiversity-funding-challenge" rel="noopener noreferrer nofollow" target="_blank">https://www.msci.com/research-and-insights/blog-post/the-carbon-credit-market-could-help-solve-the-biodiversity-funding-challenge</a>
+<p><sup>[iii]</sup> The Kunming-Montreal Global Biodiversity Framework (GBF)
+highlights a $700 billion yearly gap through 2030 to meet conservation
+targets.&nbsp; (UNEP 2025)</p>
+<p><sup>[iv]</sup>  <a href="https://www.msci.com/research-and-insights/blog-post/the-carbon-credit-market-could-help-solve-the-biodiversity-funding-challenge" rel="noopener noreferrer nofollow" target="_blank">https://www.msci.com/research-and-insights/blog-post/the-carbon-credit-market-could-help-solve-the-biodiversity-funding-challenge</a>
 </p>
-<p><a href="#_ednref5" rel="noopener noreferrer nofollow" target="_blank">[v]</a> 
-<a href="https://www.ey.com/en_jp/insights/sustainability/asean-sustainability-02" rel="noopener noreferrer nofollow" target="_blank">Unlocking the value of Nature-based Solutions (NbS) utilizing natural
-capital in Southeast Asia: Maximizing investment returns for sustainable
-business growth | EY Japan</a>
+<p><sup>[v]</sup>  <a href="https://www.ey.com/en_jp/insights/sustainability/asean-sustainability-02" rel="noopener noreferrer nofollow" target="_blank">Unlocking the value of Nature-based Solutions (NbS) utilizing natural capital in Southeast Asia: Maximizing investment returns for sustainable business growth | EY Japan</a>
 </p>
-<p><a href="#_ednref6" rel="noopener noreferrer nofollow" target="_blank">[vi]</a>NUS
-to lead $15 million research project to improve the credibility of nature-based
-carbon projects in Southeast Asia <a href="https://news.nus.edu.sg/nus-to-lead-s15-million-research-project-to-improve-the-credibility-of-nature-based-carbon-projects-in-southeast-asia/" rel="noopener noreferrer nofollow" target="_blank">news.nus.edu.sg/nus-to-lead-s15-million-research-project-to-improve-the-credibility-of-nature-based-carbon-projects-in-southeast-asia/</a>
+<p><sup>[vi]</sup> NUS to lead $15 million research project to improve the
+credibility of nature-based carbon projects in Southeast Asia <a href="https://news.nus.edu.sg/nus-to-lead-s15-million-research-project-to-improve-the-credibility-of-nature-based-carbon-projects-in-southeast-asia/" rel="noopener noreferrer nofollow" target="_blank">news.nus.edu.sg/nus-to-lead-s15-million-research-project-to-improve-the-credibility-of-nature-based-carbon-projects-in-southeast-asia/</a>
 </p>
-<p><a href="#_ednref7" rel="noopener noreferrer nofollow" target="_blank">[vii]</a> 
-<a href="https://www.edb.gov.sg/en/about-edb/media-releases-publications/singapore-launches-two-new-nature-based-carbon-initiatives.html" rel="noopener noreferrer nofollow" target="_blank">Singapore launches two new nature-based carbon initiatives | Singapore
-EDB</a>
+<p><sup>[vii] </sup><a href="https://www.edb.gov.sg/en/about-edb/media-releases-publications/singapore-launches-two-new-nature-based-carbon-initiatives.html" rel="noopener noreferrer nofollow" target="_blank">Singapore launches two new nature-based carbon initiatives | Singapore EDB</a>
 </p>
-<p><a href="#_ednref9" rel="noopener noreferrer nofollow" target="_blank">[ix]</a> 
-<a href="https://www.adb.org/news/adb-and-partners-launch-nature-financing-initiative-asia-and-pacific" rel="noopener noreferrer nofollow" target="_blank">ADB and Partners Launch Nature Financing Initiative for Asia and the Pacific
-| Asian Development Bank</a>
+<p><sup>[ix] </sup><a href="https://www.adb.org/news/adb-and-partners-launch-nature-financing-initiative-asia-and-pacific" rel="noopener noreferrer nofollow" target="_blank">ADB and Partners Launch Nature Financing Initiative for Asia and the Pacific | Asian Development Bank</a>
 </p>

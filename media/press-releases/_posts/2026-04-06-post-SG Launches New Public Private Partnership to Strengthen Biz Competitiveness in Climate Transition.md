@@ -58,4 +58,35 @@ infrastructure – so businesses can better quantify and manage how climate
 risks impact their businesses.”&nbsp;&nbsp;</p>
 <p></p>
 <p></p>
+<p><strong>Co-chairs</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_20_105618.png">
+</div>
+<p></p>
+<p></p>
+<p><strong>Council Members</strong>
+</p>
+<p>Industry Representatives</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_20_110630.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_20_110640.png">
+</div>
+<p></p>
+<p></p>
+<p>Industry Enablers</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_20_110704.png">
+</div>
+<p></p>
+<p></p>
+<p>Public Sector</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_20_110713.png">
+</div>
+<p></p>
 <p></p>
