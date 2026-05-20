@@ -8,9 +8,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><em>The Singapore Government is collaborating with the World Bank Group on a new Singapore Carbon Markets Programme. Launched at the Innovate4Climate conference held in Singapore this week, the programme is the latest initiative under the World Bank Group’s strategic partnership with Singapore.&nbsp;</em>
+<p><strong>SINGAPORE PARTNERS WITH THE WORLD BANK GROUP TO LAUNCH SINGAPORE CARBON MARKETS PROGRAMME</strong>
 </p>
-<hr>
+<p>The Singapore Government is collaborating with the World Bank Group on
+a new Singapore Carbon Markets Programme. Launched at the Innovate4Climate
+conference held in Singapore this week, the programme is the latest initiative
+under the World Bank Group’s strategic partnership with Singapore.&nbsp;</p>
 <p>The Singapore Carbon Markets Programme aims to tackle common problems
 that hinder the development and scaling up of carbon markets, and to support
 countries to enhance technical capabilities, institutional capacity and
@@ -44,12 +47,10 @@ partnership reflects our commitment to deliver tangible development outcomes
 by providing meaningful access to climate finance to the countries that
 need it most. It reinforces our strategic alignment with the Government
 of Singapore to build high-integrity carbon markets.”<strong> </strong> &nbsp;</p>
-<p></p>
 <p><strong>Jamie Fergusson, Director for Climate, World Bank Group, said </strong>“Carbon
 markets can become a source of climate finance for developing countries,
 but only if countries have the infrastructure, market confidence, and technical
 capacity to participate with integrity.”<strong> </strong> &nbsp;</p>
-<p></p>
 <p><strong>Benedict Chia, Director-General (Climate Change), National Climate Change Secretariat, said </strong>“Singapore
 is committed to advancing high-integrity carbon markets as a key pillar
 of both global climate action and sustainable development. Our collaboration
@@ -58,12 +59,12 @@ this commitment. We hope this programme will strengthen confidence in the
 global carbon market and help ensure that host countries can meaningfully participate in
 and benefit from it.”<strong> </strong> </p>
 <hr>
-<p><em>For media queries, please contact:</em>&nbsp;
-<br><strong><u>National Climate Change Secretariat</u></strong>&nbsp;</p>
-<p>Wendy Tan&nbsp;</p>
-<p>Senior Manager, Corporate Communications Directorate&nbsp;</p>
-<p>Phone: 8764 1128&nbsp;</p>
-<p>Email: <a href="mailto:wendy_tan@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wendy_tan@pmo.gov.sg</u></a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
+<p><sup>1 </sup>The Coalition to Grow Carbon Markets is a government-led
+initiative to strengthen high-integrity corporate demand for carbon credits
+across voluntary and Article 6 markets by providing shared principles and
+supportive policies.</p>
+<p><sup>2 </sup>CAD Trust (Climate Action Data Trust) is a decentralised,
+open-source metadata platform that links and harmonises carbon registry
+data using blockchain to improve transparency, prevent double counting,
+and build confidence in carbon markets.</p>
 <p></p>
