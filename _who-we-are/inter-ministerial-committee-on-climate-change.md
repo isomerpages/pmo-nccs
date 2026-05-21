@@ -33,7 +33,7 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 
 **Chairman**
 
-* **Mr Leo Yip, Head Civil Service, Permanent Secretary (Prime Minister's Office)(Strategy)**
+* **Mr Chan Heng Kee, Head Civil Service, Permanent Secretary (Prime Minister's Office)(Strategy)**
 
 **Members**
 * Mr Melvyn Ong, Permanent Secretary (Sustainability and the Environment) 
@@ -49,7 +49,7 @@ IMCCC is supported by an Executive Committee (Exco) comprising the permanent sec
 * Mr Puah Kok Keong, Chief Executive, Energy Market Authority 
 * Mr Wong Kang Jet, Chief Executive, National Environment Agency 
 * Mr Ang Wee Keong, Chief Executive, Maritime and Port Authority of Singapore 
-* Mr Foo Kok Jwee, Chief of Government Communications  
+* Mr Yap Neng Jye, Chief of Government Communications  
 
 **Secretariat**
 
