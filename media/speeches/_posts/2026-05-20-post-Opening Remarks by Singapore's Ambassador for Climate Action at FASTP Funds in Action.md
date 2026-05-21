@@ -8,9 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>OPENING REMARKS BY SINGAPORE’S AMBASSADOR FOR CLIMATE ACTION AT FAST-P
-FUNDS IN ACTION, MARINA BAY SANDS EXPO &amp; CONVENTION CENTRE, SINGAPORE,
-20 MAY 2026
+<p><strong>OPENING REMARKS BY SINGAPORE’S AMBASSADOR FOR CLIMATE ACTION AT FAST-P FUNDS IN ACTION, MARINA BAY SANDS EXPO &amp; CONVENTION CENTRE, SINGAPORE, 20 MAY 2026 </strong>
 <br>
 </p>
 <hr>
@@ -37,11 +35,11 @@ history.</p>
 a crisis across an entire continent.</p>
 </li>
 </ul>
-<p><strong><em>The crisis has clarified one thing though: energy security and climate action are no longer separate agendas in Asia. They have converged.  But the convergence is fragile.</em></strong>
+<p><strong><em>The crisis has clarified one thing though: energy security and climate action are no longer separate agendas in Asia. They have converged. But the convergence is fragile.</em></strong>
 </p>
 <p></p>
 <p>WHERE THE CONVERGENCE IS REAL</p>
-<p><strong><em>First, the convergence is genuine in the power sector.</em></strong> 
+<p><strong><em>First, the convergence is genuine in the power sector.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -90,7 +88,7 @@ to save US$6.3 billion dollars in 2026 alone. <sup>[iv]</sup>
 </p>
 </li>
 </ul>
-<p><strong><em>Second, the convergence is real in the electric vehicles space.</em></strong>	
+<p><strong><em>Second, the convergence is real in the electric vehicles space.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -99,7 +97,7 @@ obvious conclusion: they need an alternative to petrol and diesel.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>EV sales are surging in India by double digit growth rates<sup>[v]</sup>,
-in Vietnam by triple digits. <sup>[vi]</sup> 
+in Vietnam by triple digits. <sup>[vi]</sup>
 </p>
 </li>
 <li>
@@ -110,7 +108,7 @@ of any automaker — beating Toyota for the first time in history. <sup>[vii]</s
 </ul>
 </li>
 </ul>
-<p><strong><em>Third, there is some convergence in regional energy cooperation.</em></strong> 
+<p><strong><em>Third, there is some convergence in regional energy cooperation.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -141,7 +139,7 @@ including joint R&amp;D in renewable and low-carbon technologies.</p>
 <p></p>
 <p>WHERE THE CONVERGENCE IS FRAGILE</p>
 <p>But the convergence is fragile.</p>
-<p><strong><em>The first source of fragility is the time horizon.</em></strong> 
+<p><strong><em>The first source of fragility is the time horizon.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -165,7 +163,7 @@ and install.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The response of some Asian governments to the spike in fuel prices has
-been to subsidise petrol and diesel. <sup>[ix]</sup> 
+been to subsidise petrol and diesel. <sup>[ix]</sup>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -185,7 +183,7 @@ and high public debt, has also squeezed the government budgets needed to
 fund grid investment and concessional financing for green infrastructure.</p>
 </li>
 </ul>
-<p><strong><em>The third and biggest source of fragility is the coal entrenchment risk. </em></strong>
+<p><strong><em>The third and biggest source of fragility is the coal entrenchment risk.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -205,7 +203,7 @@ justified operating life ahead of them. <sup>[xi]</sup>
 </p>
 </li>
 </ul>
-<p><strong><em>Asia is being pulled by two opposing forces: coal as a short-term backstop and renewables as a medium-term strategy. </em></strong>
+<p><strong><em>Asia is being pulled by two opposing forces: coal as a short-term backstop and renewables as a medium-term strategy.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -228,7 +226,7 @@ increasing reliance on renewable energy for electricity generation.</p>
 the convergence of energy security and climate action durable?</p>
 <p>This is where blended finance can play a role, and where the Financing
 Asia’s Transition Partnership, or FAST-P, comes in.</p>
-<p><strong><em>Singapore established FAST-P as a blended finance platform to help unlock and scale capital for Asia’s transition.  </em></strong>
+<p><strong><em>Singapore established FAST-P as a blended finance platform to help unlock and scale capital for Asia’s transition.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
