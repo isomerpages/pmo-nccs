@@ -57,8 +57,8 @@ Environment Council (SEC)<sup>[3]</sup> to provide SMEs with a simple and
 accessible pathway to participate.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>SMEs can either sign up directly on the <a href="http://Green100.sg" rel="noopener noreferrer nofollow" target="_blank">Green100.sg</a><a href="https://www.green100.sg/" rel="noopener noreferrer nofollow" target="_blank"> website</a> or respond to email invitations
-from Queen Bees.</p>
+<p>SMEs can either sign up directly on the <a href="https://www.green100.sg/" rel="noopener noreferrer nofollow" target="_blank">Green100.sg</a> website or respond to email
+invitations from Queen Bees.</p>
 </li>
 <li>
 <p>They will then be directed to Gprnt digital platform to complete a simplified
