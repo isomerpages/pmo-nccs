@@ -62,8 +62,8 @@ from Queen Bees.</p>
 </li>
 <li>
 <p>They will then be directed to Gprnt digital platform to complete a simplified
-disclosure aligned with the <em>Essential</em> level of TR 149, at no cost.<sup>[4]</sup>
-<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank"></a>The process is expected to take around ten minutes for most SMEs.</p>
+disclosure aligned with the <em>Essential</em> level of TR 149, at no cost.<sup>[4]</sup>The
+process is expected to take around ten minutes for most SMEs.</p>
 </li>
 <li>
 <p>SMEs that complete their <em>Essential</em> disclosure will receive a digital
