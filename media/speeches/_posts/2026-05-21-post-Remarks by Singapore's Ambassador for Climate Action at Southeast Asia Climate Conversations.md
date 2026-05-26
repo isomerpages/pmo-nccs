@@ -8,16 +8,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>KEYNOTE REMARKS BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION&nbsp;AT</strong> <strong>SOUTHEAST ASIA CLIMATE CONVERSATIONS, MADAME FAN, SINGAPORE, 21 MAY 2026</strong></h4>
+<p><strong>KEYNOTE REMARKS BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION&nbsp;AT SOUTHEAST ASIA CLIMATE CONVERSATIONS, MADAME FAN, SINGAPORE, 21 MAY 2026</strong>
+</p>
 <hr>
 <h4><strong>A Climate Agenda for Southeast Asia</strong></h4>
-<p>&nbsp;</p>
 <p>Distinguished guests, friends and colleagues, good evening.</p>
-<p>&nbsp;</p>
 <p>Let me start with two uncomfortable truths.</p>
 <p><em>Southeast Asia accounts for 6% of global emissions and they are continuing to rise. Southeast Asia is the most climate‑vulnerable region in the world, along with South Asia. </em>In
 short, we have a serious mitigation problem and a serious adaptation problem.</p>
-<p>&nbsp;</p>
 <p>THE STATE OF MITIGATION IN SOUTHEAST ASIA</p>
 <p>Let me start with our mitigation problem.</p>
 <p><strong><em>Southeast Asia is the only major region in the world where growth and emissions have not decoupled.</em></strong>
@@ -84,7 +82,6 @@ and transport are rising.</p>
 </ul>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>THE STATE OF ADAPTATION IN SOUTHEAST ASIA</p>
 <p>Next, our adaptation problem.</p>
 <p><strong><em>Southeast Asia is the most climate‑vulnerable region in the world, along with South Asia.</em></strong>
@@ -129,7 +126,6 @@ on:</p>
 </ul>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>STRATEGIES TO RESOLVE SOUTHEAST ASIA’S TRILEMMA</p>
 <p><strong><em>Southeast Asia is facing a trilemma.</em></strong>
 </p>
@@ -166,7 +162,6 @@ work in concert. And that’s why we are gathered here.</p>
 <p>Climate resilience – to protect lives and livelihoods amidst climate change</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>CARBON MARKETS</p>
 <p>Let me start with carbon markets.</p>
 <p><strong><em>Southeast Asia has huge potential for decarbonisation projects that can generate high-quality carbon credits.</em></strong>
@@ -256,7 +251,6 @@ which Singapore co-chairs with Kenya and the United Kingdom.</p>
 </ul>
 <p><em>We look forward to stepping up collaboration with our ASEAN neighbours to build a vibrant carbon market ecosystem in the region.</em>
 </p>
-<p>&nbsp;</p>
 <p>NATURE SOLUTIONS</p>
 <p>Next, nature-based solutions.</p>
 <p><strong><em>For Southeast Asia, nature offers the greatest mitigation potential, while also strengthening resilience to climate impacts.</em></strong>
@@ -395,7 +389,6 @@ pay for it.</p>
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>CLIMATE RESILIENCE</p>
 <p>Last but not least, climate resilience.</p>
 <p><strong><em>Relative to its needs, Asia is the most underserved by adaptation finance.</em></strong>
@@ -539,7 +532,6 @@ continuity across their supply chains.<sup>[12]</sup>
 </ul>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><em>Third, price physical climate risk into financial decisions.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -557,7 +549,6 @@ asset’s climate exposure over its lifetime.</p>
 portfolios are carrying hidden liabilities.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><em>Fourth, blended finance structures to catalyse private capital.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -571,8 +562,6 @@ go for adaptation.</p>
 bankability of adaptation projects and crowd-in private capital.&nbsp;</p>
 </li>
 </ul>
-<p><strong><em>&nbsp;</em></strong>
-</p>
 <p><strong><em>Fifth—and foundational to all the above—make adaptation measurable.</em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -596,7 +585,6 @@ projects and sectors.</p>
 invest in climate risk data and analytics to make adaptation measurable.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>CLOSING</p>
 <p>Let me conclude.</p>
 <p>The issues before us for discussion: carbon markets, nature solutions,
