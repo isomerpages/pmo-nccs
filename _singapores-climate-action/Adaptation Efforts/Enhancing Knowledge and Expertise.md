@@ -33,11 +33,10 @@ Whole-of-Government efforts in climate resilience.</p>
 <p>The National University of Singapore (NUS) and Nanyang Technological University
 (NTU) have also set up the following centres to aid in applied research:</p>
 <p><strong>Singapore-Delft Water Alliance (SDWA), NUS</strong>
-<br><a href="http://blog.nus.edu.sg/sdwa/" rel="noopener noreferrer nofollow" target="_blank">SDWA</a> conducts
-research using environmental sensing, intelligent data processing and modelling
-to improve our knowledge of the water cycle. Other capabilities include
-real-time forecasting and warning by simulating and analysing extreme weather
-events to develop decision support systems.</p>
+<br>SDWA conducts research using environmental sensing, intelligent data processing
+and modelling to improve our knowledge of the water cycle. Other capabilities
+include real-time forecasting and warning by simulating and analysing extreme
+weather events to develop decision support systems.</p>
 <p><strong>Tropical Marine Science Institute (TMSI), NUS</strong>
 <br><a href="http://www.tmsi.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">TMSI</a> is
 a centre of excellence that conducts R&amp;D and consultancy in both tropical
