@@ -14,4 +14,4 @@ variant: markdown
 
 ### Contact Us 
 If you have a query, feedback or wish to report a problem<br>
-related to this website, please fill in the [<a href="https://form.gov.sg/6811c7a47298dec787bf2927" target="_blank">online form</a>](https://form.gov.sg/6811c7a47298dec787bf2927).
+related to this website, please fill in the [<a href="https://form.gov.sg/6a1544ba64f79ccfbf3ec257" target="_blank">online form</a>](https://form.gov.sg/6a1544ba64f79ccfbf3ec257).
