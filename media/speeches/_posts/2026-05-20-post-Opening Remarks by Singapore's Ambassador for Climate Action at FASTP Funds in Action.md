@@ -403,8 +403,7 @@ solar boom is shielding it from the Hormuz crisis.” Secure Energy Project,
 17 March 2026. Data &amp; analysis by Lauri Myllyvirta (CREA), in partnership
 with Renewables First. Available at:&nbsp;<a href="https://energyandcleanair.org/the-hedge-that-paid-off-how-pakistans-solar-boom-is-shielding-it-from-the-hormuz-crisis/" rel="noopener noreferrer nofollow" target="_blank">Secure Energy Project</a>.</p>
 <p><sup>[v]</sup> Nikkei Asia. (2026, April 24).&nbsp;<em>Energy crisis drives India toward EVs as Asia’s auto market shifts.</em>&nbsp;Nikkei
-Asia.<a href="%20https:/asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-energy-crisis-drives-india-toward-evs-as-asia-s-auto-market-shifts" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-energy-crisis-drives-india-toward-evs-as-asia-s-auto-market-shifts" rel="noopener noreferrer nofollow" target="_blank">https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-energy-crisis-drives-india-toward-evs-as-asia-s-auto-market-shifts</a>
+Asia. <a href="https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-energy-crisis-drives-india-toward-evs-as-asia-s-auto-map-shifts" rel="noopener noreferrer nofollow" target="_blank">https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-energy-crisis-drives-india-toward-evs-as-asia-s-auto-map-shifts</a>
 </p>
 <p><sup>[vi]</sup>The Straits Times. (2026, April 14).&nbsp;<em>Iran war revs up electric car demand in Asia.</em>&nbsp;The
 Straits Times. <a href="https://www.straitstimes.com/asia/se-asia/iran-war-revs-up-electric-car-demand-in-asia" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/asia/se-asia/iran-war-revs-up-electric-car-demand-in-asia</a>
