@@ -21,7 +21,7 @@ To advance the generation and sharing of carbon credits to support Singapore and
 
 Under these MOUs, Singapore and partner countries will work towards a legally binding Implementation Agreement that sets out a bilateral framework for the international transfer of correspondingly adjusted mitigation outcomes, and identifies potential Article 6-compliant mitigation activities which can support both countries to achieve their respective NDCs. 
 
-As of October 2025, Singapore has signed Implementation Agreements with  ten countries: Papua New Guinea, Ghana, Bhutan, Chile, Peru, Rwanda, Paraguay,  Thailand, Vietnam and Mongolia. 
+As of June 2026, Singapore has signed Implementation Agreements with 11 countries: Papua New Guinea, Ghana, Bhutan, Chile, Peru, Rwanda, Paraguay,  Thailand, Vietnam, Mongolia and the Philippines. 
 
 More details can be found at Singapore’s Carbon Markets Cooperation [website](https://www.carbonmarkets-cooperation.gov.sg/).
 
