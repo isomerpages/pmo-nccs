@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>New movement by the C3T to accelerate adoption of TR 149:2026 and help businesses unlock growth opportunities from sustainabilit</em>
+<p><em>New movement by the C3T to accelerate adoption of TR 149:2026 and help businesses unlock growth opportunities from sustainability</em>
 </p>
 </li>
 <li>
