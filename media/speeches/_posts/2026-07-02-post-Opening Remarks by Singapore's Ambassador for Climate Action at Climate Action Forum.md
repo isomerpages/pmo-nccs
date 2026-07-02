@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>OPENING REMARKS BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION&nbsp;AT CLIMATE ACTION FORUM, SINGAPORE</strong>
+<p><strong>OPENING REMARKS BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION&nbsp;AT CLIMATE ACTION FORUM, SGX CENTRE, SINGAPORE, 2 JULY 2026</strong>
 </p>
 <hr>
 <h4><strong>An Ecosystem Approach for Climate Reporting</strong></h4>
