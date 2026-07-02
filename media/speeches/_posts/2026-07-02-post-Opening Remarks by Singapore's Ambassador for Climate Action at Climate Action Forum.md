@@ -11,6 +11,7 @@ variant: tiptap
 <p><strong>OPENING REMARKS BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION&nbsp;AT CLIMATE ACTION FORUM, SINGAPORE</strong>
 </p>
 <hr>
+<h4><strong>An Ecosystem Approach for Climate Reporting</strong></h4>
 <p>Minister Grace Fu, Mr Loh Boon Chye, ladies and gentlemen, good morning.</p>
 <p>I just got back from London Climate Action Week. I want to share three
 things I saw.</p>
