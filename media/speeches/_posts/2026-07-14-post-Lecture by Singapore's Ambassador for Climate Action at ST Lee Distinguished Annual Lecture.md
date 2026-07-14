@@ -166,8 +166,7 @@ positioning.</p>
 </li>
 <li>
 <p>As Prime Minister Mark Carney of Canada described at Davos earlier this
-year, <em>“We know the old order is not coming back.&nbsp; We should not mourn it.&nbsp; Nostalgia is not a strategy.”</em>
-<a href="#_edn4" rel="noopener noreferrer nofollow" target="_blank">[iv]</a>
+year, <em>“We know the old order is not coming back.&nbsp; We should not mourn it.&nbsp; Nostalgia is not a strategy.”</em><sup>[iv]</sup>
 </p>
 </li>
 </ul>
@@ -194,7 +193,7 @@ used as instruments of national coercive power and industrial strategy.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Global trade in goods and services reached a record level in 2025, surpassing
-US$35 trillion.<a href="#_edn5" rel="noopener noreferrer nofollow" target="_blank">[v]</a>
+US$35 trillion.<sup>[v]</sup>
 </p>
 </li>
 </ul>
@@ -204,7 +203,7 @@ US$35 trillion.<a href="#_edn5" rel="noopener noreferrer nofollow" target="_blan
 <ul data-tight="true" class="tight">
 <li>
 <p>Trade among geopolitical allies has been increasing faster than across
-geopolitical blocs between 2018 and 2023.<a href="#_edn6" rel="noopener noreferrer nofollow" target="_blank">[vi]</a>
+geopolitical blocs between 2018 and 2023.<sup>[vi]</sup>
 </p>
 </li>
 <li>
@@ -234,7 +233,7 @@ third countries, not genuine economic separation.</p>
 <li>
 <p>The US CHIPS and Science Act provides huge incentives for semiconductor
 manufacturing within the US — the largest US industrial policy intervention
-since the Apollo programme.<a href="#_edn7" rel="noopener noreferrer nofollow" target="_blank">[vii]</a>
+since the Apollo programme.<sup>[vii]</sup>
 </p>
 </li>
 <li>
@@ -267,7 +266,7 @@ and larger inventory buffers.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>And this is why global supply chains continued to expand during 2018–2023
-despite trade frictions and the COVID-19 pandemic.<a href="#_edn8" rel="noopener noreferrer nofollow" target="_blank">[viii]</a>
+despite trade frictions and the COVID-19 pandemic.<sup>[viii]</sup>
 </p>
 </li>
 </ul>
@@ -326,9 +325,9 @@ system was deployed against a major economy.&nbsp;</p>
 dominant.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The dollar makes up 58% of global foreign exchange reserves;<a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank">[ix]</a> accounts for more
-than half of all cross-border payments;<a href="#_edn10" rel="noopener noreferrer nofollow" target="_blank">[x]</a> and is on one side of 89% of all foreign exchange
-trades<a href="#_edn11" rel="noopener noreferrer nofollow" target="_blank">[xi]</a>.</p>
+<p>The dollar makes up 58% of global foreign exchange reserves;<sup>[ix]</sup> accounts
+for more than half of all cross-border payments;<sup>[x]</sup> and is on
+one side of 89% of all foreign exchange trades<sup>[xi]</sup>.</p>
 </li>
 <li>
 <p>No other currency offers equivalent depth, liquidity, and convertibility.</p>
@@ -343,8 +342,7 @@ trades<a href="#_edn11" rel="noopener noreferrer nofollow" target="_blank">[xi]<
 tariff shocks of the past two years.</p>
 </li>
 <li>
-<p>Foreign holdings of US Treasury securities remain near record levels.
-<a href="#_edn12" rel="noopener noreferrer nofollow" target="_blank">[xii]</a>
+<p>Foreign holdings of US Treasury securities remain near record levels.<sup>[xii]</sup> 
 </p>
 </li>
 </ul>
@@ -433,7 +431,7 @@ not as smoothly as before.</p>
 <p>Tariffs have been imposed unilaterally outside WTO rules.</p>
 </li>
 <li>
-<p>The WTO Appellate Body has been paralysed since December 2019.<a href="#_edn13" rel="noopener noreferrer nofollow" target="_blank">[xiii]</a>
+<p>The WTO Appellate Body has been paralysed since December 2019.<sup>[xiii]</sup>
 </p>
 </li>
 </ul>
@@ -633,7 +631,7 @@ of overlapping arrangements creating incompatible systems.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Signed in 1996 among just 29 economies, the ITA has 84 participants today,
-accounting for some 97% of world trade in IT products<a href="#_edn14" rel="noopener noreferrer nofollow" target="_blank">[xiv]</a>
+accounting for some 97% of world trade in IT products<sup>[xiv]</sup>
 </p>
 </li>
 <li>
@@ -680,8 +678,7 @@ to join TPP.</p>
 across Asia and Latin America plus the United Kingdom.</p>
 </li>
 <li>
-<p>As Senior Minister Lee Hsien Loong describes it: <em>“… it shows that small things can grow, and it may not cover the world, but it makes a significant contribution.”</em>
-<a href="#_edn15" rel="noopener noreferrer nofollow" target="_blank">[xv]</a>
+<p>As Senior Minister Lee Hsien Loong describes it: <em>“… it shows that small things can grow, and it may not cover the world, but it makes a significant contribution.”</em><sup>[xv]</sup>
 </p>
 </li>
 </ul>
@@ -762,8 +759,7 @@ medical equipment, chemicals, and construction materials.</p>
 </ul>
 </li>
 <li>
-<p>As Prime Minister Lawrence Wong puts it, “<em>We will not shut each other out … Even under strain, trusted partners will keep faith with one another”</em>.
-<a href="#_edn16" rel="noopener noreferrer nofollow" target="_blank">[xvi]</a>
+<p>As Prime Minister Lawrence Wong puts it, “<em>We will not shut each other out … Even under strain, trusted partners will keep faith with one another”</em>.<sup>[xvi]</sup>
 </p>
 </li>
 <li>
@@ -853,7 +849,7 @@ competition for energy.</p>
 </li>
 <li>
 <p>US-China tensions are creating geopolitical detours for undersea cables
-– which carry over 99% of internet traffic. <a href="#_edn17" rel="noopener noreferrer nofollow" target="_blank">[xvii]</a>
+– which carry over 99% of internet traffic.<sup>[xvii]</sup>
 </p>
 </li>
 <li>
@@ -937,8 +933,7 @@ are unequivocal.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Without drastic emissions reductions, global warming will exceed 2 degrees
-Celsius by mid-century, with devastating consequences for lives and livelihoods.
-<a href="#_edn18" rel="noopener noreferrer nofollow" target="_blank">[xviii]</a>
+Celsius by mid-century, with devastating consequences for lives and livelihoods.<sup>[xviii]</sup>
 </p>
 </li>
 </ul>
@@ -960,7 +955,7 @@ green economy agreement.</p>
 <li>
 <p>It is a potential template for plurilateral climate co-operation, bundling
 low-emissions trade and investment, renewable energy, carbon markets, green
-skills, and critical minerals into a single framework.<a href="#_edn19" rel="noopener noreferrer nofollow" target="_blank">[xix]</a>
+skills, and critical minerals into a single framework.<sup>[xix]</sup>
 </p>
 </li>
 </ul>
@@ -1046,12 +1041,9 @@ are taking shape to help bring much needed financing to the Global South.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Take the United States: wage stagnation and rising inequality over the
-last 30 years. Real wages for the bottom half are barely above 1980 levels.
-<a href="#_edn20" rel="noopener noreferrer nofollow" target="_blank">[xx]</a>
+last 30 years. Real wages for the bottom half are barely above 1980 levels.<sup>[xx]</sup>
 </p>
-</li>
-<li>
-<p>This has led to the dismantling of what George Packer calls <em>"middle-class democracy"</em><strong><em><a href="#_edn21" rel="noopener noreferrer nofollow" target="_blank">[xxi]</a></em></strong> —
+<p>This has led to the dismantling of what George Packer calls <em>"middle-class democracy"</em><sup>[xxi]</sup> —
 the unwritten social compact among labour, business, and government that
 ensured the gains of economic growth were broadly distributed.</p>
 </li>
@@ -1078,7 +1070,7 @@ in the form of protectionism and multilateral withdrawal.</p>
 </ul>
 </li>
 <li>
-<p>As President Tharman Shanmugaratnam puts it: <em>"… Until we tackle the issues besetting countries themselves — the growing social and political polarisation, the hollowing out of the middle in workforces — it is going to be very hard for us to achieve a renewed sense of solidarity internationally. We have to do both things together."</em><strong><em><a href="#_edn22" rel="noopener noreferrer nofollow" target="_blank">[xxii]</a></em></strong>
+<p>As President Tharman Shanmugaratnam puts it: <em>"… Until we tackle the issues besetting countries themselves — the growing social and political polarisation, the hollowing out of the middle in workforces — it is going to be very hard for us to achieve a renewed sense of solidarity internationally. We have to do both things together."</em><sup>[xxii]</sup>
 </p>
 </li>
 </ul>
@@ -1091,7 +1083,8 @@ for upward mobility throughout life.</p>
 </li>
 <li>
 <p>Five years ago, I spoke about a job and wage architecture for building
-social inclusion.<a href="#_edn23" rel="noopener noreferrer nofollow" target="_blank">[xxiii]</a>&nbsp;</p>
+social inclusion.<sup>[xxiii]</sup>
+</p>
 </li>
 <li>
 <p>It means a labour market that provides</p>
@@ -1209,76 +1202,61 @@ it needs to endure.</p>
 geo-economics.</p>
 <p>Thank you.</p>
 <hr>
-<p><a href="#_ednref1" rel="noopener noreferrer nofollow" target="_blank">[i]</a> Edward
-Luttwak (1990). "From Geopolitics to Geo-Economics: Logic of Conflict,
-Grammar of Commerce", <em>The National Interest</em>, No. 20.</p>
-<p><a href="#_ednref2" rel="noopener noreferrer nofollow" target="_blank">[ii]</a> Robert
-Blackwill and Jennifer Harris (2016). <em>War by Other Means: Geoeconomics and Statecraft</em> (Harvard
+<p><sup>[i]</sup>Edward Luttwak (1990). "From Geopolitics to Geo-Economics:
+Logic of Conflict, Grammar of Commerce", <em>The National Interest</em>,
+No. 20.</p>
+<p><sup>[ii]</sup>Robert Blackwill and Jennifer Harris (2016). <em>War by Other Means: Geoeconomics and Statecraft</em> (Harvard
 University Press).</p>
-<p><a href="#_ednref3" rel="noopener noreferrer nofollow" target="_blank">[iii]</a> Henry
-Farrell and Abraham Newman (2019). "Weaponized Interdependence: How Global
-Economic Networks Shape State Coercion", <em>International Security</em>,
+<p><sup>[iii]</sup>Henry Farrell and Abraham Newman (2019). "Weaponized Interdependence:
+How Global Economic Networks Shape State Coercion", <em>International Security</em>,
 Vol. 44, No. 1.</p>
-<p><a href="#_ednref4" rel="noopener noreferrer nofollow" target="_blank">[iv]</a> Mark
-Carney (2026). “Principled and Pragmatic: Canada’s Path”, Remarks at the
-World Economic Forum Annual Meeting, Davos, Switzerland, 20 January 2026.</p>
-<p><a href="#_ednref5" rel="noopener noreferrer nofollow" target="_blank">[v]</a> UNCTAD
-(2025). "Global Trade Update: Global Trade Poised for a Record-Breaking
-2025 as Flows Expected to Surge Past $35 Trillion", <em>UNCTAD/DITC/INF/2025/10</em>,
+<p><sup>[iv]</sup>Mark Carney (2026). “Principled and Pragmatic: Canada’s
+Path”, Remarks at the World Economic Forum Annual Meeting, Davos, Switzerland,
+20 January 2026.</p>
+<p><sup>[v]</sup>UNCTAD (2025). "Global Trade Update: Global Trade Poised
+for a Record-Breaking 2025 as Flows Expected to Surge Past $35 Trillion", <em>UNCTAD/DITC/INF/2025/10</em>,
 9 December 2025.</p>
-<p><a href="#_ednref6" rel="noopener noreferrer nofollow" target="_blank">[vi]</a> Yap
-Chuin Wei (2024). “The Bloc Effect Takes Shape”, <em>Hinrich Foundation</em>.</p>
-<p><a href="#_ednref7" rel="noopener noreferrer nofollow" target="_blank">[vii]</a> CHIPS
-and Science Act of 2022, Public Law 117-167.</p>
-<p><a href="#_ednref8" rel="noopener noreferrer nofollow" target="_blank">[viii]</a> Oxford
-Economics for Hinrich Foundation (2023). "The Deglobalization Myth: How
-Asia’s Supply Chains Are Changing", <em>Hinrich Foundation</em>.</p>
-<p><a href="#_ednref9" rel="noopener noreferrer nofollow" target="_blank">[ix]</a> International
-Monetary Fund (2026). "Currency Composition of Official Foreign Exchange
-Reserves (COFER)", <em>IMF Data Brief</em>, 27 March 2026.</p>
-<p><a href="#_ednref10" rel="noopener noreferrer nofollow" target="_blank">[x]</a> SWIFT
-(2026). <em>Global Currency Tracker</em>, January 2026 release (December
-2025 data: US dollar share of international payments, excluding intra-Eurozone
-flows, at approximately 50.5%).</p>
-<p><a href="#_ednref11" rel="noopener noreferrer nofollow" target="_blank">[xi]</a> Bank
-for International Settlements (2025). "OTC Foreign Exchange Turnover in
-April 2025", <em>Triennial Central Bank Survey 2025</em>.</p>
-<p><a href="#_ednref12" rel="noopener noreferrer nofollow" target="_blank">[xii]</a> Bank
-for International Settlements, Locational Banking Statistics (updated quarterly);
-U.S. Department of the Treasury, Treasury International Capital (TIC) System
-data on foreign holdings of US Treasury securities.</p>
-<p><a href="#_ednref13" rel="noopener noreferrer nofollow" target="_blank">[xiii]</a> World
-Trade Organization. "Appellate Body", <a href="http://wto.org" rel="noopener noreferrer nofollow" target="_blank">wto.org</a>.</p>
-<p><a href="#_ednref14" rel="noopener noreferrer nofollow" target="_blank">[xiv]</a> World
-Trade Organization. "Information Technology Agreement", <a href="http://wto.org" rel="noopener noreferrer nofollow" target="_blank">wto.org</a>. The
-ITA was concluded at the Singapore Ministerial Conference in December 1996;
-the expanded ITA (ITA II), concluded in 2015, covers an estimated $1.3
-trillion in annual global trade in over 200 technology products.</p>
-<p><a href="#_ednref15" rel="noopener noreferrer nofollow" target="_blank">[xv]</a> Lee
-Hsien Loong (2025). Chatham House Dialogue, 27 October 2025.</p>
-<p><a href="#_ednref16" rel="noopener noreferrer nofollow" target="_blank">[xvi]</a> Lawrence
-Wong (2026). Joint Press Conference with Prime Minister of New Zealand
-Christopher Luxon”, Singapore, 4 May 2026.</p>
-<p><a href="#_ednref17" rel="noopener noreferrer nofollow" target="_blank">[xvii]</a> Kieran
-Thompson (2024). "Data Centers and Undersea Cables Tangle in Geopolitics
-and Climate Goals", <em>Hinrich Foundation</em>, November 2024.</p>
-<p><a href="#_ednref18" rel="noopener noreferrer nofollow" target="_blank">[xviii]</a> IPCC
-(2021–2022). <em>Sixth Assessment Report (AR6)</em>; Climate Policy Initiative
-(2025). <em>Global Landscape of Climate Finance 2025</em>.</p>
-<p><a href="#_ednref19" rel="noopener noreferrer nofollow" target="_blank">[xix]</a> Ministry
-of Trade and Industry, Singapore, and Australian Department of Foreign
-Affairs and Trade (2022). "Singapore-Australia Green Economy Agreement",
-signed 18 October 2022.</p>
-<p><a href="#_ednref20" rel="noopener noreferrer nofollow" target="_blank">[xx]</a> Thomas
-Piketty, Emmanuel Saez, and Gabriel Zucman (2018). "Distributional National
-Accounts: Methods and Estimates for the United States", <em>Quarterly Journal of Economics</em>,
-Vol. 133, No. 2.</p>
-<p><a href="#_ednref21" rel="noopener noreferrer nofollow" target="_blank">[xxi]</a> George
-Packer (2011). "The Broken Contract: Inequality and American Decline", <em>Foreign Affairs</em>,
-Vol. 90, No. 6.</p>
-<p><a href="#_ednref22" rel="noopener noreferrer nofollow" target="_blank">[xxii]</a> Tharman
-Shanmugaratnam (2021). "Co-operative Internationalism and Domestic Inclusivity:
-Making Them Work Together", Harvard Kennedy School Albert H. Gordon Lecture,
-6 February 2021.</p>
-<p><a href="#_ednref23" rel="noopener noreferrer nofollow" target="_blank">[xxiii]</a> Ravi
-Menon (2021). "An Inclusive Society", IPS-Nathan Lecture III, 22 July 2021.</p>
+<p><sup>[vi]</sup>Yap Chuin Wei (2024). “The Bloc Effect Takes Shape”, <em>Hinrich Foundation</em>.</p>
+<p><sup>[vii]</sup>CHIPS and Science Act of 2022, Public Law 117-167.</p>
+<p><sup>[viii]</sup>Oxford Economics for Hinrich Foundation (2023). "The
+Deglobalization Myth: How Asia’s Supply Chains Are Changing", <em>Hinrich Foundation</em>.</p>
+<p><sup>[ix]</sup>International Monetary Fund (2026). "Currency Composition
+of Official Foreign Exchange Reserves (COFER)", <em>IMF Data Brief</em>,
+27 March 2026.</p>
+<p><sup>[x]</sup>SWIFT (2026). <em>Global Currency Tracker</em>, January 2026
+release (December 2025 data: US dollar share of international payments,
+excluding intra-Eurozone flows, at approximately 50.5%).</p>
+<p><sup>[xi]</sup>Bank for International Settlements (2025). "OTC Foreign
+Exchange Turnover in April 2025", <em>Triennial Central Bank Survey 2025</em>.</p>
+<p><sup>[xii]</sup>Bank for International Settlements, Locational Banking
+Statistics (updated quarterly); U.S. Department of the Treasury, Treasury
+International Capital (TIC) System data on foreign holdings of US Treasury
+securities.</p>
+<p><sup>[xiii]</sup>World Trade Organization. "Appellate Body", <a href="http://wto.org" rel="noopener noreferrer nofollow" target="_blank">wto.org</a>.</p>
+<p><sup>[xiv]</sup>World Trade Organization. "Information Technology Agreement",
+<a href="http://wto.org" rel="noopener noreferrer nofollow" target="_blank">wto.org</a>. The ITA was concluded at the Singapore Ministerial Conference
+in December 1996; the expanded ITA (ITA II), concluded in 2015, covers
+an estimated $1.3 trillion in annual global trade in over 200 technology
+products.</p>
+<p><sup>[xv]</sup>Lee Hsien Loong (2025). Chatham House Dialogue, 27 October
+2025.</p>
+<p><sup>[xvi]</sup>Lawrence Wong (2026). Joint Press Conference with Prime
+Minister of New Zealand Christopher Luxon”, Singapore, 4 May 2026.</p>
+<p><sup>[xvii]</sup>Kieran Thompson (2024). "Data Centers and Undersea Cables
+Tangle in Geopolitics and Climate Goals", <em>Hinrich Foundation</em>, November
+2024.</p>
+<p><sup>[xviii]</sup>IPCC (2021–2022). <em>Sixth Assessment Report (AR6)</em>;
+Climate Policy Initiative (2025). <em>Global Landscape of Climate Finance 2025</em>.</p>
+<p><sup>[xix]</sup>Ministry of Trade and Industry, Singapore, and Australian
+Department of Foreign Affairs and Trade (2022). "Singapore-Australia Green
+Economy Agreement", signed 18 October 2022.</p>
+<p><sup>xx]</sup>Thomas Piketty, Emmanuel Saez, and Gabriel Zucman (2018).
+"Distributional National Accounts: Methods and Estimates for the United
+States", <em>Quarterly Journal of Economics</em>, Vol. 133, No. 2.</p>
+<p><sup>[xxi]</sup>George Packer (2011). "The Broken Contract: Inequality
+and American Decline", <em>Foreign Affairs</em>, Vol. 90, No. 6.</p>
+<p><sup>[xxii]</sup>Tharman Shanmugaratnam (2021). "Co-operative Internationalism
+and Domestic Inclusivity: Making Them Work Together", Harvard Kennedy School
+Albert H. Gordon Lecture, 6 February 2021.</p>
+<p><sup>[xxiii]</sup>Ravi Menon (2021). "An Inclusive Society", IPS-Nathan
+Lecture III, 22 July 2021.</p>
