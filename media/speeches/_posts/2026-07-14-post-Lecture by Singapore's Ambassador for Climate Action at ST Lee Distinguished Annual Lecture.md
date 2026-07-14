@@ -8,3 +8,975 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>LECTURE BY SINGAPORE'S AMBASSADOR FOR CLIMATE ACTION&nbsp;AT THE S.T. LEE DISTINGUISHED ANNUAL LECTURE, SINGAPORE, 14 JULY 2026</strong>
+</p>
+<hr>
+<h4><strong>The New Geo-Economics in a Quantum World</strong></h4>
+<p>&nbsp;Ladies and gentlemen, good afternoon.</p>
+<p><strong><em>&nbsp;The world no longer works the way we thought it did.</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tariffs have become instruments of industrial policy.</p>
+</li>
+<li>
+<p>Critical technologies have become arenas of strategic competition.</p>
+</li>
+<li>
+<p>Businesses are redesigning supply chains—not just for efficiency, but
+for resilience.&nbsp;</p>
+</li>
+<li>
+<p>And a conflict in one corner of the world can, within days, send energy
+prices, food prices, shipping costs, and financial markets into turmoil
+across continents.</p>
+</li>
+</ul>
+<p><em>These developments are manifestations of a deeper transformation in what is termed geo-economics, the less well-known cousin of geopolitics</em>.</p>
+<p><strong><em>Geopolitics and geo-economics both describe how nations compete and co-operate — but through different instruments.</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Geopolitics pursues power through armies and alliances — territorial control
+and deterrence.</p>
+</li>
+<li>
+<p>Geo-economics pursues it through markets, money, and machines.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The toolkit includes tariffs, sanctions, export controls, investment screening,
+payment restrictions.</p>
+</li>
+<li>
+<p>But it also includes co-operative instruments: trade agreements, harmonised
+standards, supply chains, digital corridors.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong><em>Geo-economics is not new.&nbsp; What is new is its intensity and growing centrality</em></strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The concept of geo-economics was popularalised in 1990 by Edward Luttwak
+who argued that with the end of the Cold War, commercial competition would
+increasingly replace military competition as the medium of great power
+contest.<sup>[i]</sup>
+</p>
+</li>
+<li>
+<p>Twenty-five years later, Robert Blackwill and Jennifer Harris called on
+the United States to deploy its economic instruments of statecraft, like
+China and Russia.<sup>[ii]</sup>
+</p>
+</li>
+<li>
+<p>More recently, Henry Farrell and Abraham Newman explained how control
+of critical chokepoints — in global financial, communications, and trade
+networks — creates enormous coercive power.<sup>[iii]</sup>
+</p>
+</li>
+</ul>
+<p>Today, I want to share with you my thoughts on this new geo-economics,
+in three <em>Parts</em>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Part I: Disorder - the world of geo-economics as it is</p>
+</li>
+<li>
+<p>Part II: Discernment - making sense of the disorder</p>
+</li>
+<li>
+<p>Part III: Design - how might we shape a new globalisation</p>
+</li>
+</ul>
+<p><em>Let us begin with Part I – Disorder or the world of geo-economics as it is.</em>
+</p>
+<p><strong>PART I: DISORDER – THE WORLD OF GEO-ECONOMICS AS IT IS</strong>
+</p>
+<p>&nbsp;<strong><em>The historical arc of geo-economics has turned in recent years.</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The post-Cold War economic order assumed that efficiency would dominate.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Production would move to where costs were lowest.</p>
+</li>
+<li>
+<p>Capital would flow to where returns were highest.</p>
+</li>
+<li>
+<p>Technology would spread through trade and investment.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>It was of course not always as orderly as we sometimes recall with misplaced
+nostalgia.&nbsp; But it was a reasonably predictable world where rules
+mattered and economic efficiency delivered stability as well as prosperity.</p>
+</li>
+<li>
+<p>That predictability has weakened in the last two decades.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2008: The Global Financial Crisis exposed the fragility of financial integration.</p>
+</li>
+<li>
+<p>2020: The COVID-19 pandemic exposed the vulnerability of global supply
+chains.</p>
+</li>
+<li>
+<p>2022: Russia's invasion of Ukraine exposed the risks of energy dependence.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>More broadly, the rise of China and other emerging markets on the back
+of surging international trade and global production networks was seen
+as imposing huge adjustment costs in the industrial heartlands of the US
+and Europe.</p>
+</li>
+</ul>
+<p><strong><em>We have entered a new age of geo-economics.</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The old assumption was that economic interdependence delivered prosperity,
+promoted stability, and reduced conflict.</p>
+</li>
+<li>
+<p>The new geo-economic reality is that interdependence can also become a
+channel through which shocks, vulnerabilities, and conflicts are transmitted.</p>
+</li>
+<li>
+<p>The boundaries between economics, technology, finance, and national security
+are becoming increasingly blurred.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Economics is not just about efficiency; it is also about security.</p>
+</li>
+<li>
+<p>Trade is not just about comparative advantage; it is also about strategic
+positioning.</p>
+</li>
+<li>
+<p>Finance is not just about allocating capital; it is also about power.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>As Prime Minister Mark Carney of Canada described at Davos earlier this
+year, <em>“We know the old order is not coming back.&nbsp; We should not mourn it.&nbsp; Nostalgia is not a strategy.”</em>
+<a href="#_edn4" rel="noopener noreferrer nofollow" target="_blank">[iv]</a>
+</p>
+</li>
+</ul>
+<p><em>Let us examine the five flashpoints where the new geo-economics is playing out most actively: trade, investment, supply chains, technology, and finance.</em>
+</p>
+<p><strong><em>First, trade - the most visible flashpoint of geo-economic conflict.&nbsp;</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The story here is more nuanced than the headlines suggest.&nbsp; It comes
+in three parts.</p>
+</li>
+<li>
+<p>One, the number of trade restrictions has risen globally.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tariffs, import restrictions, and export controls are being increasingly
+used as instruments of national coercive power and industrial strategy.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Two, international trade remains robust and continues to grow.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Global trade in goods and services reached a record level in 2025, surpassing
+US$35 trillion.<a href="#_edn5" rel="noopener noreferrer nofollow" target="_blank">[v]</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Three, trade is reconfiguring not retreating.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Trade among geopolitical allies has been increasing faster than across
+geopolitical blocs between 2018 and 2023.<a href="#_edn6" rel="noopener noreferrer nofollow" target="_blank">[vi]</a>
+</p>
+</li>
+<li>
+<p>But much apparent bilateral decoupling may also be trade re-routing through
+third countries, not genuine economic separation.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong><em>The second flashpoint is investment – here the story is largely one of fragmentation.</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Governments around the world are tightening investment screening.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Inbound investments are scrutinised for security risks.</p>
+</li>
+<li>
+<p>Outbound investments are scrutinised for technology leakage.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Industrial policies are reshaping the global geography of investment.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The US CHIPS and Science Act provides huge incentives for semiconductor
+manufacturing within the US — the largest US industrial policy intervention
+since the Apollo programme.<a href="#_edn7" rel="noopener noreferrer nofollow" target="_blank">[vii]</a>
+</p>
+</li>
+<li>
+<p>The European Chips Act aims to enhance technological sovereignty and reduce
+strategic dependencies on foreign chip suppliers.</p>
+</li>
+<li>
+<p>Japan, India, Taiwan, and South Korea – all have their own semiconductor
+subsidy programmes.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong><em>The third flashpoint is supply chains – what used to be designed for efficiency is now being reconfigured for resilience</em></strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>But it is not a simple story of decoupling or re-shoring.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Full self-sufficiency is costly and impossible.</p>
+</li>
+<li>
+<p>The global economy is too intertwined for clean separation.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>What we are seeing instead is more diversification, shorter supply chains
+and larger inventory buffers.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>And this is why global supply chains continued to expand during 2018–2023
+despite trade frictions and the COVID-19 pandemic.<a href="#_edn8" rel="noopener noreferrer nofollow" target="_blank">[viii]</a>
+</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong><em>The fourth flashpoint is technology – perhaps the most consequential divide.</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The semiconductor industry is the critical battlefront here.&nbsp; What
+used to be perhaps the most globalised supply chain in the world is now
+bifurcating.</p>
+</li>
+<li>
+<p>The US has put in place an extensive export control regime targeting China
+through restrictions on four choke points:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>first, on the exports of advanced chips;</p>
+</li>
+<li>
+<p>second, on lithography equipment required for advanced chip manufacturing;</p>
+</li>
+<li>
+<p>third, on access to leading Taiwanese and Korean foundries where the most
+advanced chips are manufactured; and</p>
+</li>
+<li>
+<p>fourth, on chip design software and intellectual property.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>On the plus side, technology is deeply embedded in people, products, and
+platforms – and these continue to work across borders.</p>
+</li>
+<li>
+<p>On balance though, bifurcation is quite real in advanced technology.</p>
+</li>
+</ul>
+<p><strong><em>The fifth flashpoint is finance - the most damaging if it tips into genuine fracture.</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The freezing of Russia's central bank reserves and the ejection of Russian
+banks from the SWIFT messaging system in 2022 was a watershed moment.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>It was the first time the coercive power embedded in the global financial
+system was deployed against a major economy.&nbsp;</p>
+</li>
+</ul>
+</li>
+<li>
+<p>De-dollarisation is happening to some extent but the US dollar remains
+dominant.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The dollar makes up 58% of global foreign exchange reserves;<a href="#_edn9" rel="noopener noreferrer nofollow" target="_blank">[ix]</a> accounts for more
+than half of all cross-border payments;<a href="#_edn10" rel="noopener noreferrer nofollow" target="_blank">[x]</a> and is on one side of 89% of all foreign exchange
+trades<a href="#_edn11" rel="noopener noreferrer nofollow" target="_blank">[xi]</a>.</p>
+</li>
+<li>
+<p>No other currency offers equivalent depth, liquidity, and convertibility.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>The big picture is that the world of finance remains highly inter-connected.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cross-border banking flows have kept rising through the sanctions and
+tariff shocks of the past two years.</p>
+</li>
+<li>
+<p>Foreign holdings of US Treasury securities remain near record levels.
+<a href="#_edn12" rel="noopener noreferrer nofollow" target="_blank">[xii]</a>
+</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><em>Looking across the flashpoints of geo-economics, the world looks strange.</em>
+</p>
+<p><em>Everything seems to be connected to everything else and different things seem to be happening at the same time.</em>
+</p>
+<p>&nbsp;<em>We may need a different lens to better understand the new geo-economics.</em>
+</p>
+<p><em>Which brings us to Part II – Discernment or making sense of the disorder.</em>
+</p>
+<p><strong>PART II: DISCERNMENT — MAKING SENSE OF THE DISORDER</strong>
+</p>
+<p><strong><em>Perhaps the strange world of quantum mechanics offers us a useful frame to make sense of the new geo-economics.</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>I am not suggesting that quantum mechanics explains international relations.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nations do not behave like electrons and trade flows are not wave functions.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>But quantum mechanics is a way of thinking about complex systems. &nbsp;And
+geo-economics is a complex system.</p>
+</li>
+</ul>
+<p><strong><em>Quantum mechanics offers three habits of thought that could be relevant for navigating the new geo-economics.</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>It teaches us that apparently contradictory states can coexist — this
+is <em>superposition</em>.</p>
+</li>
+<li>
+<p>It teaches us that distant things can be deeply connected — this is <em>entanglement.</em>
+</p>
+</li>
+<li>
+<p>It teaches us that uncertainty is an irreducible feature of the system
+itself — this is the <em>uncertainty</em> principle.</p>
+</li>
+</ul>
+<p><em>The first quantum-inspired insight is superposition — the world exists simultaneously in multiple possible states.</em>
+</p>
+<p><strong><em>The geo-economic world may also be said to be in superposition: simultaneously fragmenting and integrating.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trade restrictions have multiplied,
+investment screening has tightened, technology controls have expanded.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yet global trade is at a record
+high, cross-border services continue to grow, and companies continue to
+invest, produce, and sell across borders.</p>
+<p>&nbsp;</p>
+<p><strong><em>A possible insight is to distinguish multilateralism from globalisation.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multilateralism is the institutional
+machinery of international economic co-operation — the WTO, the IMF, the
+World Bank, the UN system of rules and norms.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Globalisation is the organic process
+driven by comparative advantage, specialisation, economic incentives, and
+of course a conducive multilateral order.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One is an institutional arrangement;
+the other is an economic process.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institutions can weaken while the
+underlying process can continue, albeit not as smoothly as before.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multilateralism has clearly weakened.</p>
+<p>o&nbsp;&nbsp; Tariffs have been imposed unilaterally outside WTO rules.</p>
+<p>o&nbsp;&nbsp; The WTO Appellate Body has been paralysed since December
+2019.<a href="#_edn13" rel="noopener noreferrer nofollow" target="_blank">[xiii]</a>
+</p>
+<p><strong><em>&nbsp;</em></strong>
+</p>
+<p><strong><em>Globalisation seems to be more resilient than its institutional scaffolding.&nbsp; The economic logic of comparative advantage cannot be legislated away.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When countries specialise in what
+they produce relatively more efficiently and trade, all countries gain.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These gains from trade can be so
+large that even the distortions imposed by tariffs and sanctions do not
+eliminate them; they merely reduce them.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That is why trade volumes persist
+and supply chains reconfigure.</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>Policy implication: If multilateralism is weakening but globalisation is more resilient, then we must seek to fill the institutional gap with new forms of co-operation.&nbsp;</em>
+</p>
+<p><em>But we must not give up on multilateralism – it provides the key reference for other forms of co-operation.</em>
+</p>
+<p>&nbsp;</p>
+<p><em>The second quantum-inspired insight is entanglement — distant events and domains are deeply interconnected.</em>
+</p>
+<p>&nbsp;</p>
+<p><strong><em>The geo-economic world is also entangled. A shock in one node travels quickly across the system — through channels that are not visible until the crisis hits.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Energy markets are among the clearest
+illustrations of geo-economic entanglement.</p>
+<p>o&nbsp;&nbsp; A conflict in the Gulf does not remain in the Gulf.</p>
+<p>o&nbsp;&nbsp; It affects transport costs and food prices; inflation and
+fiscal sustainability; capital flows and exchange rates, in countries far
+away.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Climate change is the deepest form
+of entanglement — because it links all countries through a shared planetary
+system.</p>
+<p>o&nbsp;&nbsp; Emissions in one country affect the climate everywhere.</p>
+<p>o&nbsp;&nbsp; Deforestation in one region affects carbon sinks for all.</p>
+<p>o&nbsp;&nbsp; A heatwave affects labour productivity, energy demand, and
+health systems.</p>
+<p>&nbsp;</p>
+<p><em>Policy implication: Entanglement changes the question from "how do we reduce dependence?" to "how do we manage interdependence?”</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>The third quantum-inspired insight is uncertainty — not as a failure of measurement, but as the fundamental nature of a complex adaptive system.</em>
+</p>
+<p>&nbsp;</p>
+<p><strong><em>The new geo-economics is inherently uncertain.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No government knows how the US-China
+relationship will evolve.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No firm knows how supply chains
+will reconfigure.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No investor knows how tariffs, industrial
+policy, and technology controls will interact.</p>
+<p>&nbsp;</p>
+<p><strong><em>In the face of this quantum-like uncertainty, three choices present themselves.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>Panic and retreat</em></strong>.
+This sacrifices the gains of openness.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>Wait and</em></strong><em> </em><strong><em>see</em></strong>.&nbsp;
+This is paralysis dressed as caution, leading to irrelevance.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>Scan and shape</em></strong>:
+This is the only viable path for a small state like Singapore, which is
+inherently dependent on the global system.</p>
+<p>o&nbsp;&nbsp; It means understanding the landscape for what it is, not
+what we wish it to be.</p>
+<p>o&nbsp;&nbsp; It means using our agency to influence outcomes.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And it is about preparing for multiple
+possible futures.</p>
+<p>o&nbsp;&nbsp; Singapore’s tradition of national scenario planning takes
+on added importance in the new geo-economics.</p>
+<p>&nbsp;</p>
+<p><em>Policy implication: If uncertainty is embedded in the system, we should not wait for clearer signals but prepare for multiple outcomes.</em>
+</p>
+<p>&nbsp;</p>
+<p><em>If superposition teaches us to contemplate multiple states of the world, entanglement to manage interdependence, and uncertainty to act without perfect foresight, then these could become principles to navigate our way forward.</em>
+</p>
+<p>&nbsp;</p>
+<p><em>With that, let me turn to Part III — Design or how might we shape a new globalisation.</em>
+</p>
+<p>&nbsp;</p>
+<p>PART III: DESIGN — HOW MIGHT WE SHAPE A NEW GLOBALISATION</p>
+<p>&nbsp;</p>
+<p><strong><em>When I speak of a new globalisation – let me call it, for convenience, Globalisation 2.0 – I speak of a possibility not a forecast or even likely scenario</em></strong>.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A forecast asks what will happen
+given current trajectories.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A possibility asks what <em>could</em> happen
+if determined actors make deliberate choices to bring it into being.</p>
+<p>&nbsp;</p>
+<p>Let us picture how a possible Globalisation 2.0 might look like.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It could comprise two overarching
+frameworks:</p>
+<p>o&nbsp;&nbsp; plurilateral coalitions</p>
+<p>o&nbsp;&nbsp; public-private partnerships</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It could play out most prominently
+in four domains:</p>
+<p>o&nbsp;&nbsp; resilient supply chains</p>
+<p>o&nbsp;&nbsp; digital economy corridors</p>
+<p>o&nbsp;&nbsp; interoperable payment systems</p>
+<p>o&nbsp;&nbsp; climate and green economy co-operation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And it must have one critical foundation
+block:</p>
+<p>o&nbsp;&nbsp; a renewed domestic social compact</p>
+<p>&nbsp;</p>
+<p>Let me go through each of these in turn.</p>
+<p>&nbsp;</p>
+<p><strong><em>The first overarching framework is plurilateralism.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is not a new idea.&nbsp; Coalitions
+of the willing, variable geometries, and flexible groupings have been around
+for decades.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In a world where multilateral consensus
+is becoming more difficult, plurilateral co-operation among the willing
+offers a faster way to deliver stronger outcomes.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But to support globalisation, plurilateralism
+must pass two tests:</p>
+<p>o&nbsp;&nbsp; New members should be able to join through transparent,
+rules-based processes, not geopolitical favour.</p>
+<p>o&nbsp;&nbsp; One coalition's standards must be able to connect with another's,
+instead of overlapping arrangements creating incompatible systems.</p>
+<p>&nbsp;</p>
+<p><strong><em>The WTO Information Technology Agreement (ITA) is a classic example of the power of plurilateralism at the sectoral level.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Signed in 1996 among just 29 economies,
+the ITA has 84 participants today, accounting for some 97% of world trade
+in IT products<a href="#_edn14" rel="noopener noreferrer nofollow" target="_blank">[xiv]</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ITA did what full multilateral
+consensus could not:</p>
+<p>o&nbsp;&nbsp; it achieved zero-tariff trade in technology goods among
+the willing, and</p>
+<p>o&nbsp;&nbsp; the economic gravity of that arrangement pulled in others
+over time.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It facilitated a boom in global
+electronics trade, creating millions of jobs.</p>
+<p>&nbsp;</p>
+<p><strong><em>The Regional Comprehensive Economic Partnership (RCEP) demonstrates the same logic at the regional level</em></strong>.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It brought together 15 Asian countries
+to form the world’s largest free trade agreement.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It targets areas like customs digitalisation
+and logistics connectivity – areas where multilateral consensus remains
+elusive.</p>
+<p>&nbsp;</p>
+<p><strong><em>The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) is an example of a cross-regional plurilateral.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It started as TPP in 2005 with four
+small economies – Singapore, Brunei, Chile, and New Zealand.&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When I was at the Ministry of Trade
+and Industry, I went around trying to persuade fellow members of the Asia-Pacific
+Economic Co-operation (APEC) to join TPP.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No one joined while I was still
+in MTI but today CPTPP includes 12 countries across Asia and Latin America
+plus the United Kingdom.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As Senior Minister Lee Hsien Loong
+describes it: <em>“… it shows that small things can grow, and it may not cover the world, but it makes a significant contribution.”</em>
+<a href="#_edn15" rel="noopener noreferrer nofollow" target="_blank">[xv]</a>
+</p>
+<p>&nbsp;</p>
+<p><strong><em>The second overarching framework is public-private partnerships or PPPs.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The reality of the new geo-economics
+is this: in many areas, government action alone is insufficient.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The axis of co-operation is increasingly
+government-to-business-to-government or industry-led with government backing
+rather than government-to-government.</p>
+<p>o&nbsp;&nbsp; Technology protocols are being shaped as much by big tech
+firms as by national regulators or multilateral bodies.</p>
+<p>o&nbsp;&nbsp; Blended finance is combining concessional public or philanthropic
+capital with commercial private capital to finance projects which are otherwise
+not bankable.</p>
+<p>o&nbsp;&nbsp; Multi-stakeholder bodies, like the International Sustainability
+Standards Board and the Worldwide Web Consortium, are drawing on businesses,
+professionals, governments, and civil society to co-design standards.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PPPs must pass two tests to serve
+the cause of globalisation.</p>
+<p>o&nbsp;&nbsp; They must not become an instrument of private capture.</p>
+<p>o&nbsp;&nbsp; Standards and procurement should remain open and not allow
+large players to lock others into proprietary systems.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At their best, PPPs combine public
+authority, private execution, commercial discipline and shared risk to
+solve problems that neither government nor business can solve alone.</p>
+<p>&nbsp;</p>
+<p><em>Let us turn to the four domains where a new globalisation could potentially take shape.</em>
+</p>
+<p>&nbsp;</p>
+<p><strong><em>The first domain is resilient supply chains.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The objective is resilient interdependence:
+preserve the efficiency gains of cross-border trade and production while
+reducing vulnerabilities.</p>
+<p>&nbsp;</p>
+<p><strong><em>A good proof-of-concept for supply chain co-operation is the recently signed Singapore-New Zealand Agreement on Trade in Essential Supplies (AOTES).</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AOTES is the world's first legally
+binding bilateral supply chain resilience agreement.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Both countries have committed themselves
+to refrain from imposing export restrictions on an agreed list of critical
+goods during emergencies or crises.</p>
+<p>o&nbsp;&nbsp; The practical exchange is New Zealand’s food for Singapore’s
+refined fuel.&nbsp;</p>
+<p>o&nbsp;&nbsp; The pact also protects the cross-border movement of&nbsp;healthcare
+products, medical equipment, chemicals, and construction materials.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As Prime Minister Lawrence Wong
+puts it, “<em>We will not shut each other out … Even under strain, trusted partners will keep faith with one another”</em>.
+<a href="#_edn16" rel="noopener noreferrer nofollow" target="_blank">[xvi]</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AOTES can serve as a model to build
+a plurilateral network of such trusted partners.</p>
+<p>&nbsp;</p>
+<p><strong><em>Supply chain transparency is another emerging area for co-operation.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Many companies understand their
+direct suppliers but have little visibility into their suppliers’ suppliers.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public-private partnerships can
+develop the tools to close that gap:</p>
+<p>o&nbsp;&nbsp; <em>supply chain mapping</em> for a visual blueprint of the
+supply ecosystem;</p>
+<p>o&nbsp;&nbsp; <em>digital product passport</em> that travels with a product,
+detailing where it was made and what materials are inside it.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plurilateral agreements could set
+common supply chain disclosure standards — enabling governments, companies,
+and investors to map dependencies in real time.</p>
+<p>&nbsp;</p>
+<p><strong><em>The second domain of Globalisation 2.0 is digital economy corridors.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Digital trade is the fastest-growing
+component of global commerce yet the global digital economy operates within
+a fragmented governance landscape.</p>
+<p>o&nbsp;&nbsp; the EU's GDPR framework with stringent privacy protection;</p>
+<p>o&nbsp;&nbsp; the US framework with permissive data flows; and</p>
+<p>o&nbsp;&nbsp; China's framework with security-first provisions and state
+access.</p>
+<p>&nbsp;</p>
+<p><strong><em>Singapore has been a founding architect of three ambitious plurilateral initiatives to fill the governance vacuum in the global digital economy.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Digital Economy Partnership
+Agreement (DEPA) covers cross-border data flows, digital identities, e-payments,
+fintech and AI governance — precisely the domains where rules are still
+being written.</p>
+<p>o&nbsp;&nbsp; DEPA's modular design is innovative: it allows economies
+to join modules where they are ready and defer others, lowering the barrier
+to entry while maintaining ambitious standards for those ready to go further.</p>
+<p>o&nbsp;&nbsp; Singapore's AI Governance Framework and Model AI Governance
+Framework for Generative AI have become the structural anchors for DEPA's
+AI provisions.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ASEAN Digital Economy Framework
+Agreement (DEFA) will cover digital IDs, cross-border data flows, e-commerce
+facilitation, cybersecurity, and AI governance, to support the growing
+ASEAN digital economy.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The WTO Agreement on Electronic
+Commerce provides a potential global baseline for e-signatures, e-contracts,
+and paperless trade.</p>
+<p>&nbsp;</p>
+<p><strong><em>But the physical infrastructure of the digital economy is becoming the terrain of great-power competition.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The explosive growth in data centres
+globally threatens to set off geo-economic competition for energy.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US-China tensions are creating geopolitical
+detours for undersea cables – which carry over 99% of internet traffic.
+<a href="#_edn17" rel="noopener noreferrer nofollow" target="_blank">[xvii]</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access to advanced AI computing
+infrastructure is increasingly being regarded as a strategic resource.</p>
+<p>&nbsp;</p>
+<p><strong><em>The third domain of a new globalisation is interoperable payment systems.</em></strong>
+</p>
+<p><strong><em>&nbsp;</em></strong>
+</p>
+<p><strong><em>The ASEAN Regional Payment Connectivity (RPC) is directly linking the region’s national instant payment systems: a first-of-its-kind in the world.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For retail payments, it bypasses
+correspondent banking networks, international credit card schemes, and
+the US dollar.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The building block was laid in 2017
+with the PayNow-PromptPay corridor between Singapore and Thailand, enabling
+cross-border transfers using only a mobile number.</p>
+<p>o&nbsp;&nbsp; This created the blueprint for a series of bilateral ASEAN
+retail payment linkages.</p>
+<p>o&nbsp;&nbsp; Today, a tourist from Indonesia shopping in Malaysia can
+open his domestic banking app, scan the Malaysian merchant's QR code, and
+pay.&nbsp;The tourist is debited in Indonesian Rupiah, the merchant receives
+Malaysian Ringgit, and the settlement happens in seconds.</p>
+<p>o&nbsp;&nbsp; Cross-border payment volumes in tourism, remittances and
+SME transactions have grown across ASEAN, boosting commerce and trade.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The long-term goal is multilateral
+scaling.&nbsp;</p>
+<p>o&nbsp;&nbsp; ASEAN central banks have partnered the Bank for International
+Settlements to build a hub-and-spoke model where each national payment
+system connects once to a central gateway and gains access to all others.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is scope to extend this model
+beyond ASEAN, potentially connecting to the European Union and even Latin
+America.</p>
+<p>&nbsp;</p>
+<p><strong><em>Achieving the same seamless connectivity in wholesale payments is much harder.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wholesale payments are high-value
+transactions involving the settlement of financial assets.</p>
+<p>o&nbsp;&nbsp; They rely on correspondent banking networks and sequential
+messaging, compliance screening, reconciliation, and settlement.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multiple efforts are underway to
+streamline this process using distributed ledgers, tokenised assets, and
+smart contracts.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But the proliferation of different
+tokenised payment networks may reduce the benefits of global interoperability
+if not well managed.</p>
+<p><strong><em>&nbsp;</em></strong>
+</p>
+<p><strong><em>The fourth and final dimension is climate and green economy co-operation.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The projections by the Intergovernmental
+Panel on Climate Change (IPCC) are unequivocal.</p>
+<p>o&nbsp;&nbsp; Without drastic emissions reductions, global warming will
+exceed 2 degrees Celsius by mid-century, with devastating consequences
+for lives and livelihoods.<a href="#_edn18" rel="noopener noreferrer nofollow" target="_blank">[xviii]</a>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The logic of climate change is like
+that of the COVID-19 pandemic: <em>no country is safe until every country is safe</em>.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Four areas offer scope for climate
+co-operation.</p>
+<p>&nbsp;</p>
+<p><strong><em>First, green economy agreements.</em></strong>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Singapore-Australia Green Economy
+Agreement is the world’s first bilateral green economy agreement.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is a potential template for plurilateral
+climate co-operation, bundling low-emissions trade and investment, renewable
+energy, carbon markets, green skills, and critical minerals into a single
+framework.<a href="#_edn19" rel="noopener noreferrer nofollow" target="_blank">[xix]</a>
+</p>
+<p>&nbsp;</p>
+<p><strong><em>Second, cross-border trade in renewable energy.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An interconnected power grid across
+ASEAN will help enhance electricity trade across borders, with benefits
+for all parties.</p>
+<p>o&nbsp;&nbsp; Regions without renewable capacity can have access to clean
+energy.</p>
+<p>o&nbsp;&nbsp; Clean energy providers can achieve scale by expanding their
+markets beyond domestic buyers.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore’s import of renewable
+energy from Lao PDR, through Thailand and Malaysia, is a working proof
+of concept.</p>
+<p>&nbsp;</p>
+<p><strong><em>Third, carbon markets to bridge the climate financing gap in many developing countries.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carbon credits are a market-driven
+solution to enable decarbonisation that would otherwise not have occurred,
+especially in the Global South.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The evolution of the carbon markets
+is a study in plurilateral enablement with public-private partnerships
+building much of the market infrastructure.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Coalition to Grow Carbon Markets,
+co-chaired by Singapore, Kenya and the United Kingdom, has provided companies
+a common framework for the credible use of carbon credits.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Transition Credits Coalition
+convened by Singapore is a multi-stakeholder public-private partnership
+which designed a novel category of carbon credits to incentivise the early
+retirement of coal-fired power plants<strong>.</strong>
+</p>
+<p>&nbsp;</p>
+<p><strong><em>Fourth, blended finance — public and private capital working in combination.</em></strong>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blended finance uses catalytic capital
+— grants or guarantees — to absorb first-loss risk and attract commercial
+capital for green and transition projects.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore’s Financing Asia’s Transition
+Partnership, or FAST-P, applies this logic at platform scale:</p>
+<p>o&nbsp;&nbsp; a US$500 million government pledge;</p>
+<p>o&nbsp;&nbsp; matched dollar-for-dollar by other sources of catalytic
+capital;</p>
+<p>o&nbsp;&nbsp; aiming to crowd in four times as much commercial capital;</p>
+<p>o&nbsp;&nbsp; for a target fund size of US$5 billion.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAST-P is not the only game in town.&nbsp;
+Many blended finance platforms are taking shape to help bring much needed
+financing to the Global South.</p>
+<p>&nbsp;</p>
+<p><strong><em>Let me now touch on one foundation block that is key to holding up the entire architecture of Globalisation 2.0 - a renewed domestic social compact.</em></strong>
+</p>
+<p>&nbsp;</p>
+<p><strong><em>There can be no global integration that is politically sustainable without domestic integration.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take the United States: wage stagnation
+and rising inequality over the last 30 years. Real wages for the bottom
+half are barely above 1980 levels.<a href="#_edn20" rel="noopener noreferrer nofollow" target="_blank">[xx]</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This has led to the dismantling
+of what George Packer calls <em>"middle-class democracy"</em><strong><em><a href="#_edn21" rel="noopener noreferrer nofollow" target="_blank">[xxi]</a></em></strong> —
+the unwritten social compact among labour, business, and government that
+ensured the gains of economic growth were broadly distributed.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And we see the political consequences
+of the fracture of this social compact in the form of protectionism and
+multilateral withdrawal.</p>
+<p></p>
+<p><strong><em>The populist backlash against globalisation that we have seen in many countries is not, at its root, a verdict on globalisation itself.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is a verdict on domestic policy
+failure — the failure to ensure</p>
+<p>o&nbsp;&nbsp; that the gains from an open world economy were widely shared;</p>
+<p>o&nbsp;&nbsp; that those displaced by trade and technology were supported;
+and</p>
+<p>o&nbsp;&nbsp; that the promise of a better life through hard work remained
+credible.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As President Tharman Shanmugaratnam
+puts it: <em>"… Until we tackle the issues besetting countries themselves — the growing social and political polarisation, the hollowing out of the middle in workforces — it is going to be very hard for us to achieve a renewed sense of solidarity internationally. We have to do both things together."</em><strong><em><a href="#_edn22" rel="noopener noreferrer nofollow" target="_blank">[xxii]</a></em></strong>
+</p>
+<p>&nbsp;</p>
+<p><strong><em>A renewed domestic social compact for Globalisation 2.0 must be about investing upstream and a strong jobs and wages agenda.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This means equalising opportunities
+early in life and building ladders for upward mobility throughout life.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Five years ago, I spoke about a
+job and wage architecture for building social inclusion.<a href="#_edn23" rel="noopener noreferrer nofollow" target="_blank">[xxiii]</a>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It means a labour market that provides</p>
+<p>o&nbsp;&nbsp; more equal outcomes;</p>
+<p>o&nbsp;&nbsp; more diverse pathways;</p>
+<p>o&nbsp;&nbsp; supports continuous upgrading; and</p>
+<p>o&nbsp;&nbsp; springboards for those who fall to bounce back.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Redistribution through taxes and
+transfers still has an important role in fostering inclusion, but the labour
+market can do more of the heavy lifting.</p>
+<p></p>
+<p>CONCLUSION</p>
+<p>&nbsp;</p>
+<p>Let me conclude.</p>
+<p>&nbsp;</p>
+<p><strong><em>The new geo-economics is not the end of global connection.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The world is still trading; capital
+is still moving; technology is still spreading.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supply chains are still linking
+economies across continents.</p>
+<p>&nbsp;</p>
+<p><strong><em>But the terms of connection have changed.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Efficiency must now contend with
+resilience; openness with security; interdependence with power.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And global integration must contend
+with domestic legitimacy.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The old order assumed that economic
+interdependence would largely govern itself. The new order will have to
+govern interdependence deliberately.</p>
+<p>&nbsp;</p>
+<p><em>We can - and we must - build a more resilient, more trusted and more legitimate form of globalisation.</em>
+</p>
+<p>&nbsp;</p>
+<p><strong><em>The habits of thought offered by quantum mechanics can help us navigate this task.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Superposition reminds us that the
+world is both fragmentation and integration and the task is to manage the
+risks and harness the benefits of both.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Entanglement reminds us that in
+a deeply interconnected world, position matters and that a trusted and
+connected state can carry weight beyond its GDP.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uncertainty reminds us that we will
+never know enough before we act and that it is better to act early than
+late, to be able to influence the outcome.</p>
+<p>&nbsp;</p>
+<p><strong><em>A new globalisation will not arise from a single grand bargain.&nbsp;</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It must be built standard by standard,
+platform by platform, corridor by corridor.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plurilateral coalitions can move
+where universal consensus cannot.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public-private partnerships can
+mobilise capabilities that governments or markets cannot supply on their
+own.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And a renewed domestic social compact
+can give globalisation the legitimacy it needs to endure.</p>
+<p>&nbsp;</p>
+<p><em>None of this is pre-determined, or even very likely.&nbsp; The future is neither assured nor foreclosed.&nbsp; But it is open to agency – and that matters for Singapore.</em>
+</p>
+<p>&nbsp;</p>
+<p><strong><em>As a trusted and connected node, Singapore has agency.</em></strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have seen this agency at work
+…</p>
+<p>o&nbsp;&nbsp; in the trade architecture we help build;</p>
+<p>o&nbsp;&nbsp; in the payment rails we help design;</p>
+<p>o&nbsp;&nbsp; in the digital corridors we help pave; and</p>
+<p>o&nbsp;&nbsp; in the climate finance we help structure.</p>
+<p>&nbsp;</p>
+<p>And that is Singapore’s opportunity – and responsibility – in the new
+geo-economics.</p>
+<p>&nbsp;</p>
+<p>Thank you.</p>
+<p>
+<br>
+</p>
+<hr>
+<p><a href="#_ednref1" rel="noopener noreferrer nofollow" target="_blank">[i]</a> Edward
+Luttwak (1990). "From Geopolitics to Geo-Economics: Logic of Conflict,
+Grammar of Commerce", <em>The National Interest</em>, No. 20.</p>
+<p><a href="#_ednref2" rel="noopener noreferrer nofollow" target="_blank">[ii]</a> Robert
+Blackwill and Jennifer Harris (2016). <em>War by Other Means: Geoeconomics and Statecraft</em> (Harvard
+University Press).</p>
+<p><a href="#_ednref3" rel="noopener noreferrer nofollow" target="_blank">[iii]</a> Henry
+Farrell and Abraham Newman (2019). "Weaponized Interdependence: How Global
+Economic Networks Shape State Coercion", <em>International Security</em>,
+Vol. 44, No. 1.</p>
+<p><a href="#_ednref4" rel="noopener noreferrer nofollow" target="_blank">[iv]</a> Mark
+Carney (2026). “Principled and Pragmatic: Canada’s Path”, Remarks at the
+World Economic Forum Annual Meeting, Davos, Switzerland, 20 January 2026.</p>
+<p><a href="#_ednref5" rel="noopener noreferrer nofollow" target="_blank">[v]</a> UNCTAD
+(2025). "Global Trade Update: Global Trade Poised for a Record-Breaking
+2025 as Flows Expected to Surge Past $35 Trillion", <em>UNCTAD/DITC/INF/2025/10</em>,
+9 December 2025.</p>
+<p><a href="#_ednref6" rel="noopener noreferrer nofollow" target="_blank">[vi]</a> Yap
+Chuin Wei (2024). “The Bloc Effect Takes Shape”, <em>Hinrich Foundation</em>.</p>
+<p><a href="#_ednref7" rel="noopener noreferrer nofollow" target="_blank">[vii]</a> CHIPS
+and Science Act of 2022, Public Law 117-167.</p>
+<p><a href="#_ednref8" rel="noopener noreferrer nofollow" target="_blank">[viii]</a> Oxford
+Economics for Hinrich Foundation (2023). "The Deglobalization Myth: How
+Asia’s Supply Chains Are Changing", <em>Hinrich Foundation</em>.</p>
+<p><a href="#_ednref9" rel="noopener noreferrer nofollow" target="_blank">[ix]</a> International
+Monetary Fund (2026). "Currency Composition of Official Foreign Exchange
+Reserves (COFER)", <em>IMF Data Brief</em>, 27 March 2026.</p>
+<p><a href="#_ednref10" rel="noopener noreferrer nofollow" target="_blank">[x]</a> SWIFT
+(2026). <em>Global Currency Tracker</em>, January 2026 release (December
+2025 data: US dollar share of international payments, excluding intra-Eurozone
+flows, at approximately 50.5%).</p>
+<p><a href="#_ednref11" rel="noopener noreferrer nofollow" target="_blank">[xi]</a> Bank
+for International Settlements (2025). "OTC Foreign Exchange Turnover in
+April 2025", <em>Triennial Central Bank Survey 2025</em>.</p>
+<p><a href="#_ednref12" rel="noopener noreferrer nofollow" target="_blank">[xii]</a> Bank
+for International Settlements, Locational Banking Statistics (updated quarterly);
+U.S. Department of the Treasury, Treasury International Capital (TIC) System
+data on foreign holdings of US Treasury securities.</p>
+<p><a href="#_ednref13" rel="noopener noreferrer nofollow" target="_blank">[xiii]</a> World
+Trade Organization. "Appellate Body", <a href="http://wto.org" rel="noopener noreferrer nofollow" target="_blank">wto.org</a>.</p>
+<p><a href="#_ednref14" rel="noopener noreferrer nofollow" target="_blank">[xiv]</a> World
+Trade Organization. "Information Technology Agreement", <a href="http://wto.org" rel="noopener noreferrer nofollow" target="_blank">wto.org</a>. The
+ITA was concluded at the Singapore Ministerial Conference in December 1996;
+the expanded ITA (ITA II), concluded in 2015, covers an estimated $1.3
+trillion in annual global trade in over 200 technology products.</p>
+<p><a href="#_ednref15" rel="noopener noreferrer nofollow" target="_blank">[xv]</a> Lee
+Hsien Loong (2025). Chatham House Dialogue, 27 October 2025.</p>
+<p><a href="#_ednref16" rel="noopener noreferrer nofollow" target="_blank">[xvi]</a> Lawrence
+Wong (2026). Joint Press Conference with Prime Minister of New Zealand
+Christopher Luxon”, Singapore, 4 May 2026.</p>
+<p><a href="#_ednref17" rel="noopener noreferrer nofollow" target="_blank">[xvii]</a> Kieran
+Thompson (2024). "Data Centers and Undersea Cables Tangle in Geopolitics
+and Climate Goals", <em>Hinrich Foundation</em>, November 2024.</p>
+<p><a href="#_ednref18" rel="noopener noreferrer nofollow" target="_blank">[xviii]</a> IPCC
+(2021–2022). <em>Sixth Assessment Report (AR6)</em>; Climate Policy Initiative
+(2025). <em>Global Landscape of Climate Finance 2025</em>.</p>
+<p><a href="#_ednref19" rel="noopener noreferrer nofollow" target="_blank">[xix]</a> Ministry
+of Trade and Industry, Singapore, and Australian Department of Foreign
+Affairs and Trade (2022). "Singapore-Australia Green Economy Agreement",
+signed 18 October 2022.</p>
+<p><a href="#_ednref20" rel="noopener noreferrer nofollow" target="_blank">[xx]</a> Thomas
+Piketty, Emmanuel Saez, and Gabriel Zucman (2018). "Distributional National
+Accounts: Methods and Estimates for the United States", <em>Quarterly Journal of Economics</em>,
+Vol. 133, No. 2.</p>
+<p><a href="#_ednref21" rel="noopener noreferrer nofollow" target="_blank">[xxi]</a> George
+Packer (2011). "The Broken Contract: Inequality and American Decline", <em>Foreign Affairs</em>,
+Vol. 90, No. 6.</p>
+<p><a href="#_ednref22" rel="noopener noreferrer nofollow" target="_blank">[xxii]</a> Tharman
+Shanmugaratnam (2021). "Co-operative Internationalism and Domestic Inclusivity:
+Making Them Work Together", Harvard Kennedy School Albert H. Gordon Lecture,
+6 February 2021.</p>
+<p><a href="#_ednref23" rel="noopener noreferrer nofollow" target="_blank">[xxiii]</a> Ravi
+Menon (2021). "An Inclusive Society", IPS-Nathan Lecture III, 22 July 2021.</p>
+<p></p>
