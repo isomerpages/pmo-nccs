@@ -815,262 +815,399 @@ the global digital economy operates within a fragmented governance landscape.</p
 </ul>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><em>Singapore has been a founding architect of three ambitious plurilateral initiatives to fill the governance vacuum in the global digital economy.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Digital Economy Partnership
-Agreement (DEPA) covers cross-border data flows, digital identities, e-payments,
-fintech and AI governance — precisely the domains where rules are still
-being written.</p>
-<p>o&nbsp;&nbsp; DEPA's modular design is innovative: it allows economies
-to join modules where they are ready and defer others, lowering the barrier
-to entry while maintaining ambitious standards for those ready to go further.</p>
-<p>o&nbsp;&nbsp; Singapore's AI Governance Framework and Model AI Governance
-Framework for Generative AI have become the structural anchors for DEPA's
-AI provisions.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ASEAN Digital Economy Framework
-Agreement (DEFA) will cover digital IDs, cross-border data flows, e-commerce
-facilitation, cybersecurity, and AI governance, to support the growing
-ASEAN digital economy.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The WTO Agreement on Electronic
-Commerce provides a potential global baseline for e-signatures, e-contracts,
-and paperless trade.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Digital Economy Partnership Agreement (DEPA) covers cross-border data
+flows, digital identities, e-payments, fintech and AI governance — precisely
+the domains where rules are still being written.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>DEPA's modular design is innovative: it allows economies to join modules
+where they are ready and defer others, lowering the barrier to entry while
+maintaining ambitious standards for those ready to go further.</p>
+</li>
+<li>
+<p>Singapore's AI Governance Framework and Model AI Governance Framework
+for Generative AI have become the structural anchors for DEPA's AI provisions.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>The ASEAN Digital Economy Framework Agreement (DEFA) will cover digital
+IDs, cross-border data flows, e-commerce facilitation, cybersecurity, and
+AI governance, to support the growing ASEAN digital economy.</p>
+</li>
+<li>
+<p>The WTO Agreement on Electronic Commerce provides a potential global baseline
+for e-signatures, e-contracts, and paperless trade.</p>
+</li>
+</ul>
 <p><strong><em>But the physical infrastructure of the digital economy is becoming the terrain of great-power competition.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The explosive growth in data centres
-globally threatens to set off geo-economic competition for energy.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; US-China tensions are creating geopolitical
-detours for undersea cables – which carry over 99% of internet traffic.
-<a href="#_edn17" rel="noopener noreferrer nofollow" target="_blank">[xvii]</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>The explosive growth in data centres globally threatens to set off geo-economic
+competition for energy.</p>
+</li>
+<li>
+<p>US-China tensions are creating geopolitical detours for undersea cables
+– which carry over 99% of internet traffic. <a href="#_edn17" rel="noopener noreferrer nofollow" target="_blank">[xvii]</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access to advanced AI computing
-infrastructure is increasingly being regarded as a strategic resource.</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>Access to advanced AI computing infrastructure is increasingly being regarded
+as a strategic resource.</p>
+</li>
+</ul>
 <p><strong><em>The third domain of a new globalisation is interoperable payment systems.</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
 </p>
 <p><strong><em>The ASEAN Regional Payment Connectivity (RPC) is directly linking the region’s national instant payment systems: a first-of-its-kind in the world.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For retail payments, it bypasses
-correspondent banking networks, international credit card schemes, and
-the US dollar.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The building block was laid in 2017
-with the PayNow-PromptPay corridor between Singapore and Thailand, enabling
-cross-border transfers using only a mobile number.</p>
-<p>o&nbsp;&nbsp; This created the blueprint for a series of bilateral ASEAN
-retail payment linkages.</p>
-<p>o&nbsp;&nbsp; Today, a tourist from Indonesia shopping in Malaysia can
-open his domestic banking app, scan the Malaysian merchant's QR code, and
-pay.&nbsp;The tourist is debited in Indonesian Rupiah, the merchant receives
-Malaysian Ringgit, and the settlement happens in seconds.</p>
-<p>o&nbsp;&nbsp; Cross-border payment volumes in tourism, remittances and
-SME transactions have grown across ASEAN, boosting commerce and trade.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The long-term goal is multilateral
-scaling.&nbsp;</p>
-<p>o&nbsp;&nbsp; ASEAN central banks have partnered the Bank for International
-Settlements to build a hub-and-spoke model where each national payment
-system connects once to a central gateway and gains access to all others.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is scope to extend this model
-beyond ASEAN, potentially connecting to the European Union and even Latin
-America.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For retail payments, it bypasses correspondent banking networks, international
+credit card schemes, and the US dollar.</p>
+</li>
+<li>
+<p>The building block was laid in 2017 with the PayNow-PromptPay corridor
+between Singapore and Thailand, enabling cross-border transfers using only
+a mobile number.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>This created the blueprint for a series of bilateral ASEAN retail payment
+linkages.</p>
+</li>
+<li>
+<p>Today, a tourist from Indonesia shopping in Malaysia can open his domestic
+banking app, scan the Malaysian merchant's QR code, and pay.&nbsp;The tourist
+is debited in Indonesian Rupiah, the merchant receives Malaysian Ringgit,
+and the settlement happens in seconds.</p>
+</li>
+<li>
+<p>Cross-border payment volumes in tourism, remittances and SME transactions
+have grown across ASEAN, boosting commerce and trade.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>The long-term goal is multilateral scaling.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ASEAN central banks have partnered the Bank for International Settlements
+to build a hub-and-spoke model where each national payment system connects
+once to a central gateway and gains access to all others.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>There is scope to extend this model beyond ASEAN, potentially connecting
+to the European Union and even Latin America.</p>
+</li>
+</ul>
 <p><strong><em>Achieving the same seamless connectivity in wholesale payments is much harder.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wholesale payments are high-value
-transactions involving the settlement of financial assets.</p>
-<p>o&nbsp;&nbsp; They rely on correspondent banking networks and sequential
-messaging, compliance screening, reconciliation, and settlement.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multiple efforts are underway to
-streamline this process using distributed ledgers, tokenised assets, and
-smart contracts.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But the proliferation of different
-tokenised payment networks may reduce the benefits of global interoperability
-if not well managed.</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wholesale payments are high-value transactions involving the settlement
+of financial assets.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>They rely on correspondent banking networks and sequential messaging,
+compliance screening, reconciliation, and settlement.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Multiple efforts are underway to streamline this process using distributed
+ledgers, tokenised assets, and smart contracts.</p>
+</li>
+<li>
+<p>But the proliferation of different tokenised payment networks may reduce
+the benefits of global interoperability if not well managed.</p>
+</li>
+</ul>
 <p><strong><em>The fourth and final dimension is climate and green economy co-operation.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The projections by the Intergovernmental
-Panel on Climate Change (IPCC) are unequivocal.</p>
-<p>o&nbsp;&nbsp; Without drastic emissions reductions, global warming will
-exceed 2 degrees Celsius by mid-century, with devastating consequences
-for lives and livelihoods.<a href="#_edn18" rel="noopener noreferrer nofollow" target="_blank">[xviii]</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>The projections by the Intergovernmental Panel on Climate Change (IPCC)
+are unequivocal.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Without drastic emissions reductions, global warming will exceed 2 degrees
+Celsius by mid-century, with devastating consequences for lives and livelihoods.
+<a href="#_edn18" rel="noopener noreferrer nofollow" target="_blank">[xviii]</a>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The logic of climate change is like
-that of the COVID-19 pandemic: <em>no country is safe until every country is safe</em>.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Four areas offer scope for climate
-co-operation.</p>
-<p>&nbsp;</p>
+</li>
+</ul>
+</li>
+<li>
+<p>The logic of climate change is like that of the COVID-19 pandemic: <em>no country is safe until every country is safe</em>.</p>
+</li>
+<li>
+<p>Four areas offer scope for climate co-operation.</p>
+</li>
+</ul>
 <p><strong><em>First, green economy agreements.</em></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Singapore-Australia Green Economy
-Agreement is the world’s first bilateral green economy agreement.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is a potential template for plurilateral
-climate co-operation, bundling low-emissions trade and investment, renewable
-energy, carbon markets, green skills, and critical minerals into a single
-framework.<a href="#_edn19" rel="noopener noreferrer nofollow" target="_blank">[xix]</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Singapore-Australia Green Economy Agreement is the world’s first bilateral
+green economy agreement.</p>
+</li>
+<li>
+<p>It is a potential template for plurilateral climate co-operation, bundling
+low-emissions trade and investment, renewable energy, carbon markets, green
+skills, and critical minerals into a single framework.<a href="#_edn19" rel="noopener noreferrer nofollow" target="_blank">[xix]</a>
 </p>
-<p>&nbsp;</p>
+</li>
+</ul>
 <p><strong><em>Second, cross-border trade in renewable energy.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An interconnected power grid across
-ASEAN will help enhance electricity trade across borders, with benefits
-for all parties.</p>
-<p>o&nbsp;&nbsp; Regions without renewable capacity can have access to clean
-energy.</p>
-<p>o&nbsp;&nbsp; Clean energy providers can achieve scale by expanding their
-markets beyond domestic buyers.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore’s import of renewable
-energy from Lao PDR, through Thailand and Malaysia, is a working proof
-of concept.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>An interconnected power grid across ASEAN will help enhance electricity
+trade across borders, with benefits for all parties.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Regions without renewable capacity can have access to clean energy.</p>
+</li>
+<li>
+<p>Clean energy providers can achieve scale by expanding their markets beyond
+domestic buyers.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Singapore’s import of renewable energy from Lao PDR, through Thailand
+and Malaysia, is a working proof of concept.</p>
+</li>
+</ul>
 <p><strong><em>Third, carbon markets to bridge the climate financing gap in many developing countries.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carbon credits are a market-driven
-solution to enable decarbonisation that would otherwise not have occurred,
-especially in the Global South.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The evolution of the carbon markets
-is a study in plurilateral enablement with public-private partnerships
-building much of the market infrastructure.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Coalition to Grow Carbon Markets,
-co-chaired by Singapore, Kenya and the United Kingdom, has provided companies
-a common framework for the credible use of carbon credits.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Transition Credits Coalition
-convened by Singapore is a multi-stakeholder public-private partnership
-which designed a novel category of carbon credits to incentivise the early
-retirement of coal-fired power plants<strong>.</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Carbon credits are a market-driven solution to enable decarbonisation
+that would otherwise not have occurred, especially in the Global South.</p>
+</li>
+<li>
+<p>The evolution of the carbon markets is a study in plurilateral enablement
+with public-private partnerships building much of the market infrastructure.</p>
+</li>
+<li>
+<p>The Coalition to Grow Carbon Markets, co-chaired by Singapore, Kenya and
+the United Kingdom, has provided companies a common framework for the credible
+use of carbon credits.</p>
+</li>
+<li>
+<p>The Transition Credits Coalition convened by Singapore is a multi-stakeholder
+public-private partnership which designed a novel category of carbon credits
+to incentivise the early retirement of coal-fired power plants<strong>.</strong>
 </p>
-<p>&nbsp;</p>
+</li>
+</ul>
 <p><strong><em>Fourth, blended finance — public and private capital working in combination.</em></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blended finance uses catalytic capital
-— grants or guarantees — to absorb first-loss risk and attract commercial
-capital for green and transition projects.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore’s Financing Asia’s Transition
-Partnership, or FAST-P, applies this logic at platform scale:</p>
-<p>o&nbsp;&nbsp; a US$500 million government pledge;</p>
-<p>o&nbsp;&nbsp; matched dollar-for-dollar by other sources of catalytic
-capital;</p>
-<p>o&nbsp;&nbsp; aiming to crowd in four times as much commercial capital;</p>
-<p>o&nbsp;&nbsp; for a target fund size of US$5 billion.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAST-P is not the only game in town.&nbsp;
-Many blended finance platforms are taking shape to help bring much needed
-financing to the Global South.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blended finance uses catalytic capital — grants or guarantees — to absorb
+first-loss risk and attract commercial capital for green and transition
+projects.</p>
+</li>
+<li>
+<p>Singapore’s Financing Asia’s Transition Partnership, or FAST-P, applies
+this logic at platform scale:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a US$500 million government pledge;</p>
+</li>
+<li>
+<p>matched dollar-for-dollar by other sources of catalytic capital;</p>
+</li>
+<li>
+<p>aiming to crowd in four times as much commercial capital;</p>
+</li>
+<li>
+<p>for a target fund size of US$5 billion.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>FAST-P is not the only game in town.&nbsp; Many blended finance platforms
+are taking shape to help bring much needed financing to the Global South.</p>
+</li>
+</ul>
 <p><strong><em>Let me now touch on one foundation block that is key to holding up the entire architecture of Globalisation 2.0 - a renewed domestic social compact.</em></strong>
 </p>
-<p>&nbsp;</p>
 <p><strong><em>There can be no global integration that is politically sustainable without domestic integration.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take the United States: wage stagnation
-and rising inequality over the last 30 years. Real wages for the bottom
-half are barely above 1980 levels.<a href="#_edn20" rel="noopener noreferrer nofollow" target="_blank">[xx]</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Take the United States: wage stagnation and rising inequality over the
+last 30 years. Real wages for the bottom half are barely above 1980 levels.
+<a href="#_edn20" rel="noopener noreferrer nofollow" target="_blank">[xx]</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This has led to the dismantling
-of what George Packer calls <em>"middle-class democracy"</em><strong><em><a href="#_edn21" rel="noopener noreferrer nofollow" target="_blank">[xxi]</a></em></strong> —
+</li>
+<li>
+<p>This has led to the dismantling of what George Packer calls <em>"middle-class democracy"</em><strong><em><a href="#_edn21" rel="noopener noreferrer nofollow" target="_blank">[xxi]</a></em></strong> —
 the unwritten social compact among labour, business, and government that
 ensured the gains of economic growth were broadly distributed.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And we see the political consequences
-of the fracture of this social compact in the form of protectionism and
-multilateral withdrawal.</p>
-<p></p>
+</li>
+<li>
+<p>And we see the political consequences of the fracture of this social compact
+in the form of protectionism and multilateral withdrawal.</p>
+</li>
+</ul>
 <p><strong><em>The populist backlash against globalisation that we have seen in many countries is not, at its root, a verdict on globalisation itself.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is a verdict on domestic policy
-failure — the failure to ensure</p>
-<p>o&nbsp;&nbsp; that the gains from an open world economy were widely shared;</p>
-<p>o&nbsp;&nbsp; that those displaced by trade and technology were supported;
-and</p>
-<p>o&nbsp;&nbsp; that the promise of a better life through hard work remained
-credible.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As President Tharman Shanmugaratnam
-puts it: <em>"… Until we tackle the issues besetting countries themselves — the growing social and political polarisation, the hollowing out of the middle in workforces — it is going to be very hard for us to achieve a renewed sense of solidarity internationally. We have to do both things together."</em><strong><em><a href="#_edn22" rel="noopener noreferrer nofollow" target="_blank">[xxii]</a></em></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>It is a verdict on domestic policy failure — the failure to ensure</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>that the gains from an open world economy were widely shared;</p>
+</li>
+<li>
+<p>that those displaced by trade and technology were supported; and</p>
+</li>
+<li>
+<p>that the promise of a better life through hard work remained credible.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>As President Tharman Shanmugaratnam puts it: <em>"… Until we tackle the issues besetting countries themselves — the growing social and political polarisation, the hollowing out of the middle in workforces — it is going to be very hard for us to achieve a renewed sense of solidarity internationally. We have to do both things together."</em><strong><em><a href="#_edn22" rel="noopener noreferrer nofollow" target="_blank">[xxii]</a></em></strong>
 </p>
-<p>&nbsp;</p>
+</li>
+</ul>
 <p><strong><em>A renewed domestic social compact for Globalisation 2.0 must be about investing upstream and a strong jobs and wages agenda.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This means equalising opportunities
-early in life and building ladders for upward mobility throughout life.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Five years ago, I spoke about a
-job and wage architecture for building social inclusion.<a href="#_edn23" rel="noopener noreferrer nofollow" target="_blank">[xxiii]</a>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It means a labour market that provides</p>
-<p>o&nbsp;&nbsp; more equal outcomes;</p>
-<p>o&nbsp;&nbsp; more diverse pathways;</p>
-<p>o&nbsp;&nbsp; supports continuous upgrading; and</p>
-<p>o&nbsp;&nbsp; springboards for those who fall to bounce back.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Redistribution through taxes and
-transfers still has an important role in fostering inclusion, but the labour
-market can do more of the heavy lifting.</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>This means equalising opportunities early in life and building ladders
+for upward mobility throughout life.</p>
+</li>
+<li>
+<p>Five years ago, I spoke about a job and wage architecture for building
+social inclusion.<a href="#_edn23" rel="noopener noreferrer nofollow" target="_blank">[xxiii]</a>&nbsp;</p>
+</li>
+<li>
+<p>It means a labour market that provides</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>more equal outcomes;</p>
+</li>
+<li>
+<p>more diverse pathways;</p>
+</li>
+<li>
+<p>supports continuous upgrading; and</p>
+</li>
+<li>
+<p>springboards for those who fall to bounce back.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Redistribution through taxes and transfers still has an important role
+in fostering inclusion, but the labour market can do more of the heavy
+lifting.</p>
+</li>
+</ul>
 <p>CONCLUSION</p>
-<p>&nbsp;</p>
-<p>Let me conclude.</p>
-<p>&nbsp;</p>
+<p>&nbsp;Let me conclude.</p>
 <p><strong><em>The new geo-economics is not the end of global connection.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The world is still trading; capital
-is still moving; technology is still spreading.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supply chains are still linking
-economies across continents.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The world is still trading; capital is still moving; technology is still
+spreading.</p>
+</li>
+<li>
+<p>Supply chains are still linking economies across continents.</p>
+</li>
+</ul>
 <p><strong><em>But the terms of connection have changed.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Efficiency must now contend with
-resilience; openness with security; interdependence with power.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And global integration must contend
-with domestic legitimacy.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The old order assumed that economic
-interdependence would largely govern itself. The new order will have to
-govern interdependence deliberately.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Efficiency must now contend with resilience; openness with security; interdependence
+with power.</p>
+</li>
+<li>
+<p>And global integration must contend with domestic legitimacy.</p>
+</li>
+<li>
+<p>The old order assumed that economic interdependence would largely govern
+itself. The new order will have to govern interdependence deliberately.</p>
+</li>
+</ul>
 <p><em>We can - and we must - build a more resilient, more trusted and more legitimate form of globalisation.</em>
 </p>
-<p>&nbsp;</p>
 <p><strong><em>The habits of thought offered by quantum mechanics can help us navigate this task.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Superposition reminds us that the
-world is both fragmentation and integration and the task is to manage the
-risks and harness the benefits of both.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Entanglement reminds us that in
-a deeply interconnected world, position matters and that a trusted and
-connected state can carry weight beyond its GDP.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uncertainty reminds us that we will
-never know enough before we act and that it is better to act early than
-late, to be able to influence the outcome.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Superposition reminds us that the world is both fragmentation and integration
+and the task is to manage the risks and harness the benefits of both.</p>
+</li>
+<li>
+<p>Entanglement reminds us that in a deeply interconnected world, position
+matters and that a trusted and connected state can carry weight beyond
+its GDP.</p>
+</li>
+<li>
+<p>Uncertainty reminds us that we will never know enough before we act and
+that it is better to act early than late, to be able to influence the outcome.</p>
+</li>
+</ul>
 <p><strong><em>A new globalisation will not arise from a single grand bargain.&nbsp;</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It must be built standard by standard,
-platform by platform, corridor by corridor.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plurilateral coalitions can move
-where universal consensus cannot.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public-private partnerships can
-mobilise capabilities that governments or markets cannot supply on their
-own.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And a renewed domestic social compact
-can give globalisation the legitimacy it needs to endure.</p>
-<p>&nbsp;</p>
-<p><em>None of this is pre-determined, or even very likely.&nbsp; The future is neither assured nor foreclosed.&nbsp; But it is open to agency – and that matters for Singapore.</em>
+<ul data-tight="true" class="tight">
+<li>
+<p>It must be built standard by standard, platform by platform, corridor
+by corridor.</p>
+</li>
+<li>
+<p>Plurilateral coalitions can move where universal consensus cannot.</p>
+</li>
+<li>
+<p>Public-private partnerships can mobilise capabilities that governments
+or markets cannot supply on their own.</p>
+</li>
+<li>
+<p>And a renewed domestic social compact can give globalisation the legitimacy
+it needs to endure.</p>
+</li>
+</ul>
+<p>&nbsp;<em>None of this is pre-determined, or even very likely.&nbsp; The future is neither assured nor foreclosed.&nbsp; But it is open to agency – and that matters for Singapore.</em>
 </p>
-<p>&nbsp;</p>
 <p><strong><em>As a trusted and connected node, Singapore has agency.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have seen this agency at work
-…</p>
-<p>o&nbsp;&nbsp; in the trade architecture we help build;</p>
-<p>o&nbsp;&nbsp; in the payment rails we help design;</p>
-<p>o&nbsp;&nbsp; in the digital corridors we help pave; and</p>
-<p>o&nbsp;&nbsp; in the climate finance we help structure.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We have seen this agency at work …</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>in the trade architecture we help build;</p>
+</li>
+<li>
+<p>in the payment rails we help design;</p>
+</li>
+<li>
+<p>in the digital corridors we help pave; and</p>
+</li>
+<li>
+<p>in the climate finance we help structure.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p>And that is Singapore’s opportunity – and responsibility – in the new
 geo-economics.</p>
-<p>&nbsp;</p>
 <p>Thank you.</p>
-<p>
-<br>
-</p>
 <hr>
 <p><a href="#_ednref1" rel="noopener noreferrer nofollow" target="_blank">[i]</a> Edward
 Luttwak (1990). "From Geopolitics to Geo-Economics: Logic of Conflict,
@@ -1145,4 +1282,3 @@ Making Them Work Together", Harvard Kennedy School Albert H. Gordon Lecture,
 6 February 2021.</p>
 <p><a href="#_ednref23" rel="noopener noreferrer nofollow" target="_blank">[xxiii]</a> Ravi
 Menon (2021). "An Inclusive Society", IPS-Nathan Lecture III, 22 July 2021.</p>
-<p></p>
