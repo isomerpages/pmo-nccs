@@ -342,7 +342,7 @@ one side of 89% of all foreign exchange trades<sup>[xi]</sup>.</p>
 tariff shocks of the past two years.</p>
 </li>
 <li>
-<p>Foreign holdings of US Treasury securities remain near record levels.<sup>[xii]</sup> 
+<p>Foreign holdings of US Treasury securities remain near record levels.<sup>[xii]</sup>
 </p>
 </li>
 </ul>
