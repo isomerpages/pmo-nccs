@@ -1250,7 +1250,7 @@ Climate Policy Initiative (2025). <em>Global Landscape of Climate Finance 2025</
 <p><sup>[xix]</sup>Ministry of Trade and Industry, Singapore, and Australian
 Department of Foreign Affairs and Trade (2022). "Singapore-Australia Green
 Economy Agreement", signed 18 October 2022.</p>
-<p><sup>xx]</sup>Thomas Piketty, Emmanuel Saez, and Gabriel Zucman (2018).
+<p><sup>[xx]</sup>Thomas Piketty, Emmanuel Saez, and Gabriel Zucman (2018).
 "Distributional National Accounts: Methods and Estimates for the United
 States", <em>Quarterly Journal of Economics</em>, Vol. 133, No. 2.</p>
 <p><sup>[xxi]</sup>George Packer (2011). "The Broken Contract: Inequality
