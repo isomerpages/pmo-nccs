@@ -396,259 +396,425 @@ itself — this is the <em>uncertainty</em> principle.</p>
 </p>
 <p><strong><em>The geo-economic world may also be said to be in superposition: simultaneously fragmenting and integrating.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trade restrictions have multiplied,
-investment screening has tightened, technology controls have expanded.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yet global trade is at a record
-high, cross-border services continue to grow, and companies continue to
-invest, produce, and sell across borders.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Trade restrictions have multiplied, investment screening has tightened,
+technology controls have expanded.</p>
+</li>
+<li>
+<p>Yet global trade is at a record high, cross-border services continue to
+grow, and companies continue to invest, produce, and sell across borders.</p>
+</li>
+</ul>
 <p><strong><em>A possible insight is to distinguish multilateralism from globalisation.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multilateralism is the institutional
-machinery of international economic co-operation — the WTO, the IMF, the
-World Bank, the UN system of rules and norms.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Globalisation is the organic process
-driven by comparative advantage, specialisation, economic incentives, and
-of course a conducive multilateral order.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One is an institutional arrangement;
-the other is an economic process.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institutions can weaken while the
-underlying process can continue, albeit not as smoothly as before.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multilateralism has clearly weakened.</p>
-<p>o&nbsp;&nbsp; Tariffs have been imposed unilaterally outside WTO rules.</p>
-<p>o&nbsp;&nbsp; The WTO Appellate Body has been paralysed since December
-2019.<a href="#_edn13" rel="noopener noreferrer nofollow" target="_blank">[xiii]</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Multilateralism is the institutional machinery of international economic
+co-operation — the WTO, the IMF, the World Bank, the UN system of rules
+and norms.</p>
+</li>
+<li>
+<p>Globalisation is the organic process driven by comparative advantage,
+specialisation, economic incentives, and of course a conducive multilateral
+order.</p>
+</li>
+<li>
+<p>One is an institutional arrangement; the other is an economic process.</p>
+</li>
+<li>
+<p>Institutions can weaken while the underlying process can continue, albeit
+not as smoothly as before.</p>
+</li>
+<li>
+<p>Multilateralism has clearly weakened.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tariffs have been imposed unilaterally outside WTO rules.</p>
+</li>
+<li>
+<p>The WTO Appellate Body has been paralysed since December 2019.<a href="#_edn13" rel="noopener noreferrer nofollow" target="_blank">[xiii]</a>
 </p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
+</li>
+</ul>
+</li>
+</ul>
 <p><strong><em>Globalisation seems to be more resilient than its institutional scaffolding.&nbsp; The economic logic of comparative advantage cannot be legislated away.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When countries specialise in what
-they produce relatively more efficiently and trade, all countries gain.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These gains from trade can be so
-large that even the distortions imposed by tariffs and sanctions do not
-eliminate them; they merely reduce them.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That is why trade volumes persist
-and supply chains reconfigure.</p>
-<p><em>&nbsp;</em>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>When countries specialise in what they produce relatively more efficiently
+and trade, all countries gain.</p>
+</li>
+<li>
+<p>These gains from trade can be so large that even the distortions imposed
+by tariffs and sanctions do not eliminate them; they merely reduce them.</p>
+</li>
+<li>
+<p>That is why trade volumes persist and supply chains reconfigure.</p>
+</li>
+</ul>
 <p><em>Policy implication: If multilateralism is weakening but globalisation is more resilient, then we must seek to fill the institutional gap with new forms of co-operation.&nbsp;</em>
 </p>
 <p><em>But we must not give up on multilateralism – it provides the key reference for other forms of co-operation.</em>
 </p>
-<p>&nbsp;</p>
 <p><em>The second quantum-inspired insight is entanglement — distant events and domains are deeply interconnected.</em>
 </p>
-<p>&nbsp;</p>
-<p><strong><em>The geo-economic world is also entangled. A shock in one node travels quickly across the system — through channels that are not visible until the crisis hits.</em></strong>
+<p>&nbsp;<strong><em>The geo-economic world is also entangled. A shock in one node travels quickly across the system — through channels that are not visible until the crisis hits.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Energy markets are among the clearest
-illustrations of geo-economic entanglement.</p>
-<p>o&nbsp;&nbsp; A conflict in the Gulf does not remain in the Gulf.</p>
-<p>o&nbsp;&nbsp; It affects transport costs and food prices; inflation and
-fiscal sustainability; capital flows and exchange rates, in countries far
-away.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Climate change is the deepest form
-of entanglement — because it links all countries through a shared planetary
-system.</p>
-<p>o&nbsp;&nbsp; Emissions in one country affect the climate everywhere.</p>
-<p>o&nbsp;&nbsp; Deforestation in one region affects carbon sinks for all.</p>
-<p>o&nbsp;&nbsp; A heatwave affects labour productivity, energy demand, and
-health systems.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Energy markets are among the clearest illustrations of geo-economic entanglement.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A conflict in the Gulf does not remain in the Gulf.</p>
+</li>
+<li>
+<p>It affects transport costs and food prices; inflation and fiscal sustainability;
+capital flows and exchange rates, in countries far away.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Climate change is the deepest form of entanglement — because it links
+all countries through a shared planetary system.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Emissions in one country affect the climate everywhere.</p>
+</li>
+<li>
+<p>Deforestation in one region affects carbon sinks for all.</p>
+</li>
+<li>
+<p>A heatwave affects labour productivity, energy demand, and health systems.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p><em>Policy implication: Entanglement changes the question from "how do we reduce dependence?" to "how do we manage interdependence?”</em>
-</p>
-<p><em>&nbsp;</em>
 </p>
 <p><em>The third quantum-inspired insight is uncertainty — not as a failure of measurement, but as the fundamental nature of a complex adaptive system.</em>
 </p>
-<p>&nbsp;</p>
 <p><strong><em>The new geo-economics is inherently uncertain.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No government knows how the US-China
-relationship will evolve.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No firm knows how supply chains
-will reconfigure.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No investor knows how tariffs, industrial
-policy, and technology controls will interact.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>No government knows how the US-China relationship will evolve.</p>
+</li>
+<li>
+<p>No firm knows how supply chains will reconfigure.</p>
+</li>
+<li>
+<p>No investor knows how tariffs, industrial policy, and technology controls
+will interact.</p>
+</li>
+</ul>
 <p><strong><em>In the face of this quantum-like uncertainty, three choices present themselves.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>Panic and retreat</em></strong>.
-This sacrifices the gains of openness.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>Wait and</em></strong><em> </em><strong><em>see</em></strong>.&nbsp;
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>Panic and retreat</em></strong>. This sacrifices the gains
+of openness.</p>
+</li>
+<li>
+<p><strong><em>Wait and</em></strong><em> </em><strong><em>see</em></strong>.&nbsp;
 This is paralysis dressed as caution, leading to irrelevance.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>Scan and shape</em></strong>:
-This is the only viable path for a small state like Singapore, which is
-inherently dependent on the global system.</p>
-<p>o&nbsp;&nbsp; It means understanding the landscape for what it is, not
-what we wish it to be.</p>
-<p>o&nbsp;&nbsp; It means using our agency to influence outcomes.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And it is about preparing for multiple
-possible futures.</p>
-<p>o&nbsp;&nbsp; Singapore’s tradition of national scenario planning takes
-on added importance in the new geo-economics.</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p><strong><em>Scan and shape</em></strong>: This is the only viable path
+for a small state like Singapore, which is inherently dependent on the
+global system.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>It means understanding the landscape for what it is, not what we wish
+it to be.</p>
+</li>
+<li>
+<p>It means using our agency to influence outcomes.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>And it is about preparing for multiple possible futures.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore’s tradition of national scenario planning takes on added importance
+in the new geo-economics.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p><em>Policy implication: If uncertainty is embedded in the system, we should not wait for clearer signals but prepare for multiple outcomes.</em>
 </p>
-<p>&nbsp;</p>
 <p><em>If superposition teaches us to contemplate multiple states of the world, entanglement to manage interdependence, and uncertainty to act without perfect foresight, then these could become principles to navigate our way forward.</em>
 </p>
-<p>&nbsp;</p>
 <p><em>With that, let me turn to Part III — Design or how might we shape a new globalisation.</em>
 </p>
-<p>&nbsp;</p>
-<p>PART III: DESIGN — HOW MIGHT WE SHAPE A NEW GLOBALISATION</p>
-<p>&nbsp;</p>
+<p><strong>PART III: DESIGN — HOW MIGHT WE SHAPE A NEW GLOBALISATION</strong>
+</p>
 <p><strong><em>When I speak of a new globalisation – let me call it, for convenience, Globalisation 2.0 – I speak of a possibility not a forecast or even likely scenario</em></strong>.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A forecast asks what will happen
-given current trajectories.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A possibility asks what <em>could</em> happen
-if determined actors make deliberate choices to bring it into being.</p>
-<p>&nbsp;</p>
-<p>Let us picture how a possible Globalisation 2.0 might look like.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It could comprise two overarching
-frameworks:</p>
-<p>o&nbsp;&nbsp; plurilateral coalitions</p>
-<p>o&nbsp;&nbsp; public-private partnerships</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It could play out most prominently
-in four domains:</p>
-<p>o&nbsp;&nbsp; resilient supply chains</p>
-<p>o&nbsp;&nbsp; digital economy corridors</p>
-<p>o&nbsp;&nbsp; interoperable payment systems</p>
-<p>o&nbsp;&nbsp; climate and green economy co-operation</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And it must have one critical foundation
-block:</p>
-<p>o&nbsp;&nbsp; a renewed domestic social compact</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A forecast asks what will happen given current trajectories.</p>
+</li>
+<li>
+<p>A possibility asks what <em>could</em> happen if determined actors make
+deliberate choices to bring it into being.</p>
+</li>
+</ul>
+<p>&nbsp;Let us picture how a possible Globalisation 2.0 might look like.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>It could comprise two overarching frameworks:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>plurilateral coalitions</p>
+</li>
+<li>
+<p>public-private partnerships</p>
+</li>
+</ul>
+</li>
+<li>
+<p>It could play out most prominently in four domains:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>resilient supply chains</p>
+</li>
+<li>
+<p>digital economy corridors</p>
+</li>
+<li>
+<p>interoperable payment systems</p>
+</li>
+<li>
+<p>climate and green economy co-operation</p>
+</li>
+</ul>
+</li>
+<li>
+<p>And it must have one critical foundation block:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a renewed domestic social compact</p>
+</li>
+</ul>
+</li>
+</ul>
 <p>Let me go through each of these in turn.</p>
-<p>&nbsp;</p>
 <p><strong><em>The first overarching framework is plurilateralism.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is not a new idea.&nbsp; Coalitions
-of the willing, variable geometries, and flexible groupings have been around
-for decades.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In a world where multilateral consensus
-is becoming more difficult, plurilateral co-operation among the willing
-offers a faster way to deliver stronger outcomes.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But to support globalisation, plurilateralism
-must pass two tests:</p>
-<p>o&nbsp;&nbsp; New members should be able to join through transparent,
-rules-based processes, not geopolitical favour.</p>
-<p>o&nbsp;&nbsp; One coalition's standards must be able to connect with another's,
-instead of overlapping arrangements creating incompatible systems.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>This is not a new idea.&nbsp; Coalitions of the willing, variable geometries,
+and flexible groupings have been around for decades.</p>
+</li>
+<li>
+<p>In a world where multilateral consensus is becoming more difficult, plurilateral
+co-operation among the willing offers a faster way to deliver stronger
+outcomes.</p>
+</li>
+<li>
+<p>But to support globalisation, plurilateralism must pass two tests:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>New members should be able to join through transparent, rules-based processes,
+not geopolitical favour.</p>
+</li>
+<li>
+<p>One coalition's standards must be able to connect with another's, instead
+of overlapping arrangements creating incompatible systems.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p><strong><em>The WTO Information Technology Agreement (ITA) is a classic example of the power of plurilateralism at the sectoral level.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Signed in 1996 among just 29 economies,
-the ITA has 84 participants today, accounting for some 97% of world trade
-in IT products<a href="#_edn14" rel="noopener noreferrer nofollow" target="_blank">[xiv]</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Signed in 1996 among just 29 economies, the ITA has 84 participants today,
+accounting for some 97% of world trade in IT products<a href="#_edn14" rel="noopener noreferrer nofollow" target="_blank">[xiv]</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ITA did what full multilateral
-consensus could not:</p>
-<p>o&nbsp;&nbsp; it achieved zero-tariff trade in technology goods among
-the willing, and</p>
-<p>o&nbsp;&nbsp; the economic gravity of that arrangement pulled in others
-over time.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It facilitated a boom in global
-electronics trade, creating millions of jobs.</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>The ITA did what full multilateral consensus could not:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>it achieved zero-tariff trade in technology goods among the willing, and</p>
+</li>
+<li>
+<p>the economic gravity of that arrangement pulled in others over time.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>It facilitated a boom in global electronics trade, creating millions of
+jobs.</p>
+</li>
+</ul>
 <p><strong><em>The Regional Comprehensive Economic Partnership (RCEP) demonstrates the same logic at the regional level</em></strong>.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It brought together 15 Asian countries
-to form the world’s largest free trade agreement.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It targets areas like customs digitalisation
-and logistics connectivity – areas where multilateral consensus remains
-elusive.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>It brought together 15 Asian countries to form the world’s largest free
+trade agreement.</p>
+</li>
+<li>
+<p>It targets areas like customs digitalisation and logistics connectivity
+– areas where multilateral consensus remains elusive.</p>
+</li>
+</ul>
 <p><strong><em>The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) is an example of a cross-regional plurilateral.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It started as TPP in 2005 with four
-small economies – Singapore, Brunei, Chile, and New Zealand.&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When I was at the Ministry of Trade
-and Industry, I went around trying to persuade fellow members of the Asia-Pacific
-Economic Co-operation (APEC) to join TPP.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No one joined while I was still
-in MTI but today CPTPP includes 12 countries across Asia and Latin America
-plus the United Kingdom.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As Senior Minister Lee Hsien Loong
-describes it: <em>“… it shows that small things can grow, and it may not cover the world, but it makes a significant contribution.”</em>
+<ul data-tight="true" class="tight">
+<li>
+<p>It started as TPP in 2005 with four small economies – Singapore, Brunei,
+Chile, and New Zealand.&nbsp;</p>
+</li>
+<li>
+<p>When I was at the Ministry of Trade and Industry, I went around trying
+to persuade fellow members of the Asia-Pacific Economic Co-operation (APEC)
+to join TPP.</p>
+</li>
+<li>
+<p>No one joined while I was still in MTI but today CPTPP includes 12 countries
+across Asia and Latin America plus the United Kingdom.</p>
+</li>
+<li>
+<p>As Senior Minister Lee Hsien Loong describes it: <em>“… it shows that small things can grow, and it may not cover the world, but it makes a significant contribution.”</em>
 <a href="#_edn15" rel="noopener noreferrer nofollow" target="_blank">[xv]</a>
 </p>
-<p>&nbsp;</p>
+</li>
+</ul>
 <p><strong><em>The second overarching framework is public-private partnerships or PPPs.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The reality of the new geo-economics
-is this: in many areas, government action alone is insufficient.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The axis of co-operation is increasingly
-government-to-business-to-government or industry-led with government backing
-rather than government-to-government.</p>
-<p>o&nbsp;&nbsp; Technology protocols are being shaped as much by big tech
-firms as by national regulators or multilateral bodies.</p>
-<p>o&nbsp;&nbsp; Blended finance is combining concessional public or philanthropic
-capital with commercial private capital to finance projects which are otherwise
+<ul data-tight="true" class="tight">
+<li>
+<p>The reality of the new geo-economics is this: in many areas, government
+action alone is insufficient.</p>
+</li>
+<li>
+<p>The axis of co-operation is increasingly government-to-business-to-government
+or industry-led with government backing rather than government-to-government.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Technology protocols are being shaped as much by big tech firms as by
+national regulators or multilateral bodies.</p>
+</li>
+<li>
+<p>Blended finance is combining concessional public or philanthropic capital
+with commercial private capital to finance projects which are otherwise
 not bankable.</p>
-<p>o&nbsp;&nbsp; Multi-stakeholder bodies, like the International Sustainability
-Standards Board and the Worldwide Web Consortium, are drawing on businesses,
-professionals, governments, and civil society to co-design standards.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PPPs must pass two tests to serve
-the cause of globalisation.</p>
-<p>o&nbsp;&nbsp; They must not become an instrument of private capture.</p>
-<p>o&nbsp;&nbsp; Standards and procurement should remain open and not allow
-large players to lock others into proprietary systems.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At their best, PPPs combine public
-authority, private execution, commercial discipline and shared risk to
-solve problems that neither government nor business can solve alone.</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>Multi-stakeholder bodies, like the International Sustainability Standards
+Board and the Worldwide Web Consortium, are drawing on businesses, professionals,
+governments, and civil society to co-design standards.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>PPPs must pass two tests to serve the cause of globalisation.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>They must not become an instrument of private capture.</p>
+</li>
+<li>
+<p>Standards and procurement should remain open and not allow large players
+to lock others into proprietary systems.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>At their best, PPPs combine public authority, private execution, commercial
+discipline and shared risk to solve problems that neither government nor
+business can solve alone.</p>
+</li>
+</ul>
 <p><em>Let us turn to the four domains where a new globalisation could potentially take shape.</em>
 </p>
-<p>&nbsp;</p>
 <p><strong><em>The first domain is resilient supply chains.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The objective is resilient interdependence:
-preserve the efficiency gains of cross-border trade and production while
-reducing vulnerabilities.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The objective is resilient interdependence: preserve the efficiency gains
+of cross-border trade and production while reducing vulnerabilities.</p>
+</li>
+</ul>
 <p><strong><em>A good proof-of-concept for supply chain co-operation is the recently signed Singapore-New Zealand Agreement on Trade in Essential Supplies (AOTES).</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AOTES is the world's first legally
-binding bilateral supply chain resilience agreement.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Both countries have committed themselves
-to refrain from imposing export restrictions on an agreed list of critical
-goods during emergencies or crises.</p>
-<p>o&nbsp;&nbsp; The practical exchange is New Zealand’s food for Singapore’s
-refined fuel.&nbsp;</p>
-<p>o&nbsp;&nbsp; The pact also protects the cross-border movement of&nbsp;healthcare
-products, medical equipment, chemicals, and construction materials.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As Prime Minister Lawrence Wong
-puts it, “<em>We will not shut each other out … Even under strain, trusted partners will keep faith with one another”</em>.
+<ul data-tight="true" class="tight">
+<li>
+<p>AOTES is the world's first legally binding bilateral supply chain resilience
+agreement.</p>
+</li>
+<li>
+<p>Both countries have committed themselves to refrain from imposing export
+restrictions on an agreed list of critical goods during emergencies or
+crises.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The practical exchange is New Zealand’s food for Singapore’s refined fuel.&nbsp;</p>
+</li>
+<li>
+<p>The pact also protects the cross-border movement of&nbsp;healthcare products,
+medical equipment, chemicals, and construction materials.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>As Prime Minister Lawrence Wong puts it, “<em>We will not shut each other out … Even under strain, trusted partners will keep faith with one another”</em>.
 <a href="#_edn16" rel="noopener noreferrer nofollow" target="_blank">[xvi]</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AOTES can serve as a model to build
-a plurilateral network of such trusted partners.</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>AOTES can serve as a model to build a plurilateral network of such trusted
+partners.</p>
+</li>
+</ul>
 <p><strong><em>Supply chain transparency is another emerging area for co-operation.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Many companies understand their
-direct suppliers but have little visibility into their suppliers’ suppliers.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public-private partnerships can
-develop the tools to close that gap:</p>
-<p>o&nbsp;&nbsp; <em>supply chain mapping</em> for a visual blueprint of the
-supply ecosystem;</p>
-<p>o&nbsp;&nbsp; <em>digital product passport</em> that travels with a product,
-detailing where it was made and what materials are inside it.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plurilateral agreements could set
-common supply chain disclosure standards — enabling governments, companies,
-and investors to map dependencies in real time.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Many companies understand their direct suppliers but have little visibility
+into their suppliers’ suppliers.</p>
+</li>
+<li>
+<p>Public-private partnerships can develop the tools to close that gap:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>supply chain mapping</em> for a visual blueprint of the supply ecosystem;</p>
+</li>
+<li>
+<p><em>digital product passport</em> that travels with a product, detailing
+where it was made and what materials are inside it.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Plurilateral agreements could set common supply chain disclosure standards
+— enabling governments, companies, and investors to map dependencies in
+real time.</p>
+</li>
+</ul>
 <p><strong><em>The second domain of Globalisation 2.0 is digital economy corridors.</em></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Digital trade is the fastest-growing
-component of global commerce yet the global digital economy operates within
-a fragmented governance landscape.</p>
-<p>o&nbsp;&nbsp; the EU's GDPR framework with stringent privacy protection;</p>
-<p>o&nbsp;&nbsp; the US framework with permissive data flows; and</p>
-<p>o&nbsp;&nbsp; China's framework with security-first provisions and state
-access.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Digital trade is the fastest-growing component of global commerce yet
+the global digital economy operates within a fragmented governance landscape.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>the EU's GDPR framework with stringent privacy protection;</p>
+</li>
+<li>
+<p>the US framework with permissive data flows; and</p>
+</li>
+<li>
+<p>China's framework with security-first provisions and state access.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p><strong><em>Singapore has been a founding architect of three ambitious plurilateral initiatives to fill the governance vacuum in the global digital economy.</em></strong>
 </p>
