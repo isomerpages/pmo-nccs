@@ -415,7 +415,8 @@ Straits Times. <a href="https://www.straitstimes.com/asia/se-asia/iran-war-revs-
 <a href="https://www.channelnewsasia.com/singapore/asean-summit-cebu-lawrence-wong-middle-east-strait-hormuz-6108656" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/singapore/asean-summit-cebu-lawrence-wong-middle-east-strait-hormuz-6108656</a>
 </p>
 <p><sup>[ix]</sup> Reuters. (2026, April 27).&nbsp;<em>Asian governments spend billions of dollars to offset oil price shock.</em>&nbsp;Reuters.
-<a href="https://www.reuters.com/sustainability/boards-policy-regulation/asian-governments-spend-billions-dollars-offset-oil-price-shock-2026-04-27/" rel="noopener noreferrer nofollow" target="_blank">https://www.reuters.com/sustainability/boards-policy-regulation/asian-governments-spend-billions-dollars-offset-oil-price-shock-2026-04-27/</a>
+<a href="https://www.reuters.com/sustainability/boards-policy-regulation/asian-governments-spend-billions-dollars-offset-oil-price-shock-2026-04-29/" rel="noopener noreferrer nofollow" target="_blank">Asian governments spend billions of dollars to offset oil price shock
+| Reuters</a>
 </p>
 <p><sup>[x]</sup>ASEAN Centre for Energy. (2025).&nbsp;<em>ASEAN Energy Database System (AEDS).</em>&nbsp;ASEAN
 Centre for Energy. <a href="https://aseanenergy.org/projects/aeds" rel="noopener noreferrer nofollow" target="_blank">https://aseanenergy.org/projects/aeds</a>
