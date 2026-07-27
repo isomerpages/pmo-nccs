@@ -19,14 +19,14 @@ Gas.</p>
 </p>
 <p>Solar remains the most promising renewable energy source for Singapore.
 We are pressing ahead with ambitious solar deployment plans to achieve
-our target of at least 2 gigawatt-peak (GWp) by 2030, which will generate
-enough energy to meet around 3% of Singapore’s total projected electricity
-demand in that year.&nbsp; As part of our efforts to encourage solar energy
-deployment, the government has launched various tenders and initiatives
-such as the <a href="https://www.hdb.gov.sg/hdb-pulse/news/2022/hdb-to-bring-solar-energy" rel="noopener noreferrer nofollow" target="_blank">SolarNova programme</a>,
-JTC’s SolarLand and SolarRoof programme and PUB’s floating solar systems.
-As at Jan 2023, seven tenders equivalent to more than 440 megawatt-peak
-(MWp) of solar energy have been awarded under the SolarNova programme.</p>
+our target of 3 gigawatt-peak (GWp) 2030, which will generate enough energy
+to meet around 3% of Singapore’s total projected electricity demand in
+that year.&nbsp; As part of our efforts to encourage solar energy deployment,
+the government has launched various tenders and initiatives such as the
+<a href="https://www.hdb.gov.sg/hdb-pulse/news/2022/hdb-to-bring-solar-energy" rel="noopener noreferrer nofollow" target="_blank">SolarNova programme</a>, JTC’s SolarLand and SolarRoof programme and PUB’s
+floating solar systems. As at Jan 2023, seven tenders equivalent to more
+than 440 megawatt-peak (MWp) of solar energy have been awarded under the
+SolarNova programme.</p>
 <p>Although solar power is Singapore’s most viable renewable energy alternative,
 it is not land-efficient. Therefore, its scale-up is fundamentally limited
 by our land constraints. Nevertheless, the Government will continue to
